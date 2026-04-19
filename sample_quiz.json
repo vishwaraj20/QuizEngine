@@ -1,0 +1,28 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the powerhouse of the cell?",
+      "options": {
+        "A": "Nucleus",
+        "B": "Mitochondria",
+        "C": "Ribosome",
+        "D": "Golgi apparatus"
+      },
+      "correct": "B",
+      "explanation": "Mitochondria produce ATP through cellular respiration."
+    },
+    {
+      "id": 2,
+      "question": "Which programming language is known as the language of the web?",
+      "options": {
+        "A": "Python",
+        "B": "C++",
+        "C": "JavaScript",
+        "D": "Java"
+      },
+      "correct": "C",
+      "explanation": "JavaScript is native to web browsers and enables interactive web pages."
+    }
+  ]
+}
