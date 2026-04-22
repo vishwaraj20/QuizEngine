@@ -25,13 +25,7 @@ export default function LandingPage() {
       {/* Hero Section */}
       <div className="relative isolate px-6 pt-14 lg:px-8">
         <div className="mx-auto max-w-4xl py-32 sm:py-48 lg:py-56 text-center">
-          <div className="mb-8 flex justify-center">
-            <div className="relative rounded-full px-3 py-1 text-sm leading-6 text-gray-600 ring-1 ring-gray-900/10 hover:ring-gray-900/20 bg-white/50 backdrop-blur-sm shadow-sm transition-all animate-bounce-subtle">
-              New: Enterprise-grade Exam Categories is live.{' '}
-              <Link href={getStartedHref} className="font-semibold text-blue-600 ml-1 hover:underline">Explore Tracks &rarr;</Link>
-            </div>
-          </div>
-          
+
           <h1 className="text-6xl font-black tracking-tight text-gray-900 sm:text-8xl mb-8 leading-[1.1]">
             Unleash Your <span className="bg-clip-text text-transparent bg-gradient-to-r from-blue-600 via-indigo-600 to-purple-600">Perfect Score.</span>
           </h1>
@@ -43,21 +37,36 @@ export default function LandingPage() {
           <div className="mt-12 flex flex-col sm:flex-row items-center justify-center gap-6">
             <Link 
               href={getStartedHref} 
-              className="w-full sm:w-auto rounded-3xl bg-gray-900 px-10 py-5 text-lg font-black text-white shadow-2xl shadow-gray-900/20 hover:bg-black hover:scale-105 transition-all flex items-center justify-center gap-3"
+              className="w-full sm:w-auto rounded-[2rem] bg-gray-900 px-10 py-5 text-lg font-black text-white shadow-2xl shadow-gray-900/20 hover:bg-blue-600 hover:shadow-blue-600/30 hover:scale-105 transition-all flex items-center justify-center gap-3 group"
             >
-              Start Learning Free <ArrowRight className="w-5 h-5" />
+              Start Learning Free <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
             </Link>
-            <Link href={getStartedHref} className="text-lg font-black text-gray-900 flex items-center hover:text-blue-600 transition">
-              Browse Categories <span className="ml-2">→</span>
+            <Link href={getStartedHref} className="text-lg font-black text-gray-700 flex items-center hover:text-blue-600 transition group">
+              Browse Categories <ArrowRight className="ml-2 w-5 h-5 text-gray-300 group-hover:text-blue-600 group-hover:translate-x-1 transition-all" />
             </Link>
           </div>
 
-          <div className="mt-20 grid grid-cols-2 md:grid-cols-4 gap-8 grayscale opacity-40 hover:grayscale-0 hover:opacity-100 transition-all duration-700">
-             <div className="text-xl font-black text-gray-400">#1 UPSC Prep</div>
-             <div className="text-xl font-black text-gray-400">SSC Mastery</div>
-             <div className="text-xl font-black text-gray-400">GATE Ready</div>
-             <div className="text-xl font-black text-gray-400">RRB Exam Tool</div>
+          {/* Professional Stat Bar */}
+          <div className="mt-24 grid grid-cols-2 md:grid-cols-4 gap-4 p-4 bg-gray-50/80 backdrop-blur-sm rounded-[3rem] border border-gray-100">
+             <div className="p-6 bg-white rounded-[2rem] shadow-sm flex flex-col items-center justify-center">
+                <span className="text-4xl font-black text-gray-900 tracking-tighter">1.2M+</span>
+                <span className="text-xs font-black uppercase tracking-widest text-gray-400 mt-2">Questions Served</span>
+             </div>
+             <div className="p-6 bg-white rounded-[2rem] shadow-sm flex flex-col items-center justify-center">
+                <span className="text-4xl font-black text-blue-600 tracking-tighter">94%</span>
+                <span className="text-xs font-black uppercase tracking-widest text-gray-400 mt-2">Average Pass Rate</span>
+             </div>
+             <div className="p-6 bg-white rounded-[2rem] shadow-sm flex flex-col items-center justify-center">
+                <span className="text-4xl font-black text-gray-900 tracking-tighter">45+</span>
+                <span className="text-xs font-black uppercase tracking-widest text-gray-400 mt-2">Exam Categories</span>
+             </div>
+             <div className="p-6 bg-white rounded-[2rem] shadow-sm flex flex-col items-center justify-center">
+                <span className="text-4xl font-black text-emerald-500 tracking-tighter">24/7</span>
+                <span className="text-xs font-black uppercase tracking-widest text-gray-400 mt-2">Anti-Cheat Engine</span>
+             </div>
           </div>
+
+
         </div>
       </div>
 

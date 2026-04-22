@@ -28,7 +28,12 @@ export default function CategoryQuizzesPage() {
     try {
       const res = await fetch("http://localhost:5000/api/quizzes");
       const data = await res.json();
-      setQuizzes(data.filter(q => q.category === categoryName));
+      if (Array.isArray(data)) {
+         setQuizzes(data.filter(q => q.category === categoryName));
+      } else {
+         console.error("Fetch quizzes failed:", data);
+         setQuizzes([]);
+      }
     } catch(err) {
       console.error(err);
     } finally {
@@ -40,7 +45,12 @@ export default function CategoryQuizzesPage() {
      try {
        const res = await fetch("http://localhost:5000/api/leaderboard");
        const data = await res.json();
-       setLeaderboard(data.filter(entry => entry.category === categoryName).slice(0, 5));
+       if (Array.isArray(data)) {
+          setLeaderboard(data.filter(entry => entry.category === categoryName).slice(0, 5));
+       } else {
+          console.error("Fetch leaderboard failed:", data);
+          setLeaderboard([]);
+       }
      } catch(err) { console.error(err); }
   };
 

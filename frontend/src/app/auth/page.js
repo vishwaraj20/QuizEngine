@@ -1,7 +1,7 @@
 "use client";
 import { useState } from 'react';
 import { useRouter } from 'next/navigation';
-import { UserCircle, Shield, ArrowRight, Loader2 } from 'lucide-react';
+import { UserCircle, Shield, ArrowRight, Loader2, Eye, EyeOff } from 'lucide-react';
 import { supabase } from '@/utils/supabase';
 
 export default function AuthPage() {
@@ -13,6 +13,7 @@ export default function AuthPage() {
   const [email, setEmail] = useState('');
   const [password, setPassword] = useState('');
   const [name, setName] = useState('');
+  const [showPassword, setShowPassword] = useState(false);
 
   const handleSubmit = async (e) => {
     e.preventDefault();
@@ -29,7 +30,14 @@ export default function AuthPage() {
         if (error) throw error;
 
         // If successful, extract role from metadata or default to what was selected
-        const userRole = data.user.user_metadata?.role || role;
+        const dbRole = data.user.user_metadata?.role;
+        
+        if (dbRole && dbRole !== role) {
+           await supabase.auth.signOut();
+           throw new Error(`Invalid section. Please select the ${dbRole.charAt(0).toUpperCase() + dbRole.slice(1)} tab to log into this account.`);
+        }
+
+        const userRole = dbRole || role;
         const userName = data.user.user_metadata?.full_name || 'User';
 
         // Keep local storage for existing UI elements
@@ -126,14 +134,23 @@ export default function AuthPage() {
             
             <div>
               <label className="block text-sm font-medium text-gray-700 mb-1">Password</label>
-              <input 
-                type="password" 
-                value={password}
-                onChange={e => setPassword(e.target.value)}
-                className="w-full text-gray-900 bg-white placeholder-gray-400 border-gray-200 border rounded-xl px-4 py-3 focus:ring-2 focus:ring-blue-500 focus:border-transparent outline-none transition"
-                placeholder="••••••••"
-                required
-              />
+              <div className="relative">
+                 <input 
+                   type={showPassword ? "text" : "password"} 
+                   value={password}
+                   onChange={e => setPassword(e.target.value)}
+                   className="w-full text-gray-900 bg-white placeholder-gray-400 border-gray-200 border rounded-xl px-4 py-3 focus:ring-2 focus:ring-blue-500 focus:border-transparent outline-none transition"
+                   placeholder="••••••••"
+                   required
+                 />
+                 <button 
+                   type="button" 
+                   onClick={() => setShowPassword(!showPassword)}
+                   className="absolute right-4 top-1/2 -translate-y-1/2 text-gray-400 hover:text-gray-600 focus:outline-none"
+                 >
+                   {showPassword ? <EyeOff className="w-5 h-5" /> : <Eye className="w-5 h-5" />}
+                 </button>
+              </div>
             </div>
 
             <button 

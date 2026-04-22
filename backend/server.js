@@ -2,7 +2,7 @@ const express = require('express');
 const cors = require('cors');
 const multer = require('multer');
 const fs = require('fs');
-const db = require('./database');
+const supabase = require('./database');
 const { validateQuizJSON } = require('./utils/validateQuizJSON');
 
 const app = express();
@@ -17,7 +17,7 @@ app.post('/api/admin/quiz/validate', upload.single('file'), (req, res) => {
     return res.status(400).json({ error: 'No file uploaded' });
   }
 
-  // Check file extension (basic validation since frontend also handles it)
+  // Check file extension
   if (!req.file.originalname.endsWith('.json')) {
     fs.unlinkSync(req.file.path);
     return res.status(400).json({ errors: ['Only .json files are accepted'] });
@@ -26,16 +26,12 @@ app.post('/api/admin/quiz/validate', upload.single('file'), (req, res) => {
   try {
     const fileContent = fs.readFileSync(req.file.path, 'utf8');
     const jsonParsed = JSON.parse(fileContent);
-
-    fs.unlinkSync(req.file.path); // remove physical file
+    fs.unlinkSync(req.file.path);
 
     const validationResult = validateQuizJSON(jsonParsed);
-
     if (!validationResult.isValid) {
       return res.status(400).json({ errors: validationResult.errors, data: jsonParsed });
     }
-
-    // Return the validated data for frontend preview
     return res.json({ success: true, data: jsonParsed });
   } catch (err) {
     if (req.file && fs.existsSync(req.file.path)) {
@@ -46,270 +42,252 @@ app.post('/api/admin/quiz/validate', upload.single('file'), (req, res) => {
 });
 
 // API 2: Publish Quiz (save to DB)
-app.post('/api/admin/quizzes', (req, res) => {
+app.post('/api/admin/quizzes', async (req, res) => {
   const { title, category, difficulty, time_limit, pass_percent, show_explanation, questions } = req.body;
   if (!title || !questions || !questions.length) {
     return res.status(400).json({ error: 'Title and questions are required.' });
   }
 
-  db.serialize(() => {
-    db.run('BEGIN TRANSACTION');
+  const { data: quiz, error: quizError } = await supabase.from('quizzes').insert([{
+    title,
+    category: category || null,
+    difficulty: difficulty || 'easy',
+    time_limit: time_limit || 0,
+    pass_percent: pass_percent || 50,
+    show_explanation: show_explanation || 'after_quiz',
+    status: 'Live'
+  }]).select().single();
 
-    const stmtQuiz = db.prepare(`
-      INSERT INTO quizzes (title, category, difficulty, time_limit, pass_percent, show_explanation, status)
-      VALUES (?, ?, ?, ?, ?, ?, 'Live')
-    `);
+  if (quizError) return res.status(500).json({ error: quizError.message });
 
-    stmtQuiz.run(
-      [title, category || null, difficulty || 'easy', time_limit || 0, pass_percent || 50, show_explanation || 'after_quiz'],
-      function (err) {
-        if (err) {
-          db.run('ROLLBACK');
-          return res.status(500).json({ error: 'Failed to create quiz' });
-        }
+  const formattedQuestions = questions.map(q => ({
+    quiz_id: quiz.id,
+    question_text: q.question,
+    option_a: q.options.A,
+    option_b: q.options.B,
+    option_c: q.options.C,
+    option_d: q.options.D,
+    correct_option: q.correct,
+    explanation: q.explanation
+  }));
 
-        const quizId = this.lastID;
-        const stmtQuestion = db.prepare(`
-          INSERT INTO questions (quiz_id, question_text, option_a, option_b, option_c, option_d, correct_option, explanation)
-          VALUES (?, ?, ?, ?, ?, ?, ?, ?)
-        `);
+  const { error: qsError } = await supabase.from('questions').insert(formattedQuestions);
+  
+  if (qsError) {
+    // Basic rollback by deleting the quiz
+    await supabase.from('quizzes').delete().eq('id', quiz.id);
+    return res.status(500).json({ error: qsError.message });
+  }
 
-        for (const q of questions) {
-          stmtQuestion.run([
-            quizId,
-            q.question,
-            q.options.A,
-            q.options.B,
-            q.options.C,
-            q.options.D,
-            q.correct,
-            q.explanation
-          ]);
-        }
-        stmtQuestion.finalize();
-
-        db.run('COMMIT', (commitErr) => {
-          if (commitErr) {
-            return res.status(500).json({ error: 'Transaction commit failed' });
-          }
-          res.json({ success: true, quizId, message: 'Quiz published successfully!' });
-        });
-      }
-    );
-    stmtQuiz.finalize();
-  });
+  res.json({ success: true, quizId: quiz.id, message: 'Quiz published successfully!' });
 });
 
 // API 3: Get all quizzes (Admin Dashboard)
-app.get('/api/admin/quizzes', (req, res) => {
-  db.all(`
-    SELECT q.*, COUNT(qu.id) as questions_count 
-    FROM quizzes q
-    LEFT JOIN questions qu ON q.id = qu.quiz_id
-    GROUP BY q.id
-    ORDER BY q.created_at DESC
-  `, [], (err, rows) => {
-    if (err) return res.status(500).json({ error: err.message });
-    res.json(rows);
-  });
+app.get('/api/admin/quizzes', async (req, res) => {
+  const { data, error } = await supabase
+    .from('quizzes')
+    .select('*, questions(count)')
+    .order('created_at', { ascending: false });
+
+  if (error) return res.status(500).json({ error: error.message });
+  
+  const rows = data.map(q => ({
+    ...q,
+    questions_count: q.questions[0]?.count || 0
+  }));
+  res.json(rows);
 });
 
 // API 3.5: Get single quiz with full details (Admin Edit)
-app.get('/api/admin/quizzes/:id', (req, res) => {
-  const quizId = req.params.id;
-  db.get("SELECT * FROM quizzes WHERE id = ?", [quizId], (err, quiz) => {
-    if (err || !quiz) return res.status(404).json({ error: 'Quiz not found' });
-    db.all("SELECT * FROM questions WHERE quiz_id = ?", [quizId], (err, questions) => {
-      if (err) return res.status(500).json({ error: err.message });
-      res.json({ ...quiz, questions });
-    });
-  });
+app.get('/api/admin/quizzes/:id', async (req, res) => {
+  const { data: quiz, error: quizError } = await supabase
+    .from('quizzes')
+    .select('*, questions(*)')
+    .eq('id', req.params.id)
+    .single();
+
+  if (quizError || !quiz) return res.status(404).json({ error: 'Quiz not found' });
+  res.json(quiz);
 });
 
 // API 4: Get User Quizzes
-app.get('/api/quizzes', (req, res) => {
-  db.all("SELECT * FROM quizzes WHERE status = 'Live' ORDER BY created_at DESC", [], (err, rows) => {
-    if (err) return res.status(500).json({ error: err.message });
-    res.json(rows);
-  });
+app.get('/api/quizzes', async (req, res) => {
+  const { data, error } = await supabase
+    .from('quizzes')
+    .select('*')
+    .eq('status', 'Live')
+    .order('created_at', { ascending: false });
+
+  if (error) return res.status(500).json({ error: error.message });
+  res.json(data);
 });
 
 // API 5: Get quiz questions for user (no correct_option/explanation)
-app.get('/api/quizzes/:id/take', (req, res) => {
-  const quizId = req.params.id;
-  db.get("SELECT * FROM quizzes WHERE id = ?", [quizId], (err, quiz) => {
-    if (err || !quiz) return res.status(404).json({ error: 'Quiz not found' });
-    
-    db.all("SELECT id, quiz_id, question_text, option_a, option_b, option_c, option_d FROM questions WHERE quiz_id = ?", [quizId], (err, questions) => {
-      if (err) return res.status(500).json({ error: err.message });
-      res.json({ quiz, questions });
-    });
-  });
+app.get('/api/quizzes/:id/take', async (req, res) => {
+  const { data: quiz, error: quizErr } = await supabase.from('quizzes').select('*').eq('id', req.params.id).single();
+  if (quizErr || !quiz) return res.status(404).json({ error: 'Quiz not found' });
+  
+  const { data: questions, error: qErr } = await supabase
+    .from('questions')
+    .select('id, quiz_id, question_text, option_a, option_b, option_c, option_d')
+    .eq('quiz_id', quiz.id);
+
+  if (qErr) return res.status(500).json({ error: qErr.message });
+  res.json({ quiz, questions: questions || [] });
 });
 
 // API 6: Submit attempt
-app.post('/api/quizzes/:id/attempts', (req, res) => {
+app.post('/api/quizzes/:id/attempts', async (req, res) => {
   const quizId = req.params.id;
-  // answers object mapping question_id -> selected_option
-  const { userId, answers, time_taken } = req.body; 
+  const { userId, userName, answers, time_taken } = req.body; 
 
-  db.all("SELECT * FROM questions WHERE quiz_id = ?", [quizId], (err, questions) => {
-    if (err || !questions.length) return res.status(404).json({ error: 'Quiz missing questions' });
+  const { data: questions, error } = await supabase.from('questions').select('*').eq('quiz_id', quizId);
+  if (error || !questions.length) return res.status(404).json({ error: 'Quiz missing questions' });
 
-    let score = 0;
-    const total = questions.length;
-    const reviewData = [];
+  let score = 0;
+  const total = questions.length;
+  const reviewData = [];
 
-    const mappedQuestions = questions.reduce((acc, q) => {
-      acc[q.id] = q;
-      return acc;
-    }, {});
+  const mappedQuestions = questions.reduce((acc, q) => {
+    acc[q.id] = q;
+    return acc;
+  }, {});
 
-    const answerKeys = Object.keys(answers || {});
-    for (const qIdStr of answerKeys) {
-      const qId = parseInt(qIdStr);
-      const selected = answers[qIdStr];
-      const q = mappedQuestions[qId];
-      if (!q) continue;
+  const answerKeys = Object.keys(answers || {});
+  for (const qIdStr of answerKeys) {
+    const qId = parseInt(qIdStr);
+    const selected = answers[qIdStr];
+    const q = mappedQuestions[qId];
+    if (!q) continue;
 
-      const isCorrect = q.correct_option === selected;
-      if (isCorrect) score++;
+    const isCorrect = q.correct_option === selected;
+    if (isCorrect) score++;
 
-      reviewData.push({
-        question_id: qId,
-        question_text: q.question_text,
-        selected_option: selected,
-        correct_option: q.correct_option,
-        is_correct: isCorrect,
-        explanation: q.explanation
-      });
-    }
-
-    // Insert attempt
-    db.run("INSERT INTO attempts (quiz_id, user_id, score, total, time_taken) VALUES (?, ?, ?, ?, ?)", [quizId, userId || 1, score, total, time_taken || 0], function(err) {
-      if (err) return res.status(500).json({ error: 'Failed to record attempt' });
-      const attemptId = this.lastID;
-
-      // Note: we can optionally store each answer in the 'answers' table here
-      
-      res.json({ success: true, score, total, attemptId, review: reviewData });
+    reviewData.push({
+      question_id: qId,
+      question_text: q.question_text,
+      selected_option: selected,
+      correct_option: q.correct_option,
+      is_correct: isCorrect,
+      explanation: q.explanation
     });
-  });
+  }
+
+  const { data: attempt, error: attemptErr } = await supabase.from('attempts').insert([{
+    quiz_id: quizId,
+    user_id: userId || 'Unknown',
+    user_name: userName || 'Unknown',
+    score,
+    total,
+    time_taken: time_taken || 0
+  }]).select().single();
+
+  if (attemptErr) return res.status(500).json({ error: 'Failed to record attempt' });
+
+  res.json({ success: true, score, total, attemptId: attempt.id, review: reviewData });
 });
 
 // API 7: Delete Quiz
-app.delete('/api/admin/quizzes/:id', (req, res) => {
-  db.run("DELETE FROM quizzes WHERE id = ?", [req.params.id], function(err) {
-    if (err) return res.status(500).json({ error: err.message });
-    res.json({ success: true });
-  });
+app.delete('/api/admin/quizzes/:id', async (req, res) => {
+  const { error } = await supabase.from('quizzes').delete().eq('id', req.params.id);
+  if (error) return res.status(500).json({ error: error.message });
+  res.json({ success: true });
 });
 
 // API 7.5: Update Quiz (Metadata + Questions)
-app.put('/api/admin/quizzes/:id', (req, res) => {
+app.put('/api/admin/quizzes/:id', async (req, res) => {
   const quizId = req.params.id;
   const { title, category, difficulty, status, time_limit, pass_percent, questions } = req.body;
-  
-  db.serialize(() => {
-    db.run('BEGIN TRANSACTION');
 
-    const sqlQuiz = `
-      UPDATE quizzes 
-      SET title = ?, category = ?, difficulty = ?, status = ?, time_limit = ?, pass_percent = ?
-      WHERE id = ?
-    `;
-    db.run(sqlQuiz, [title, category, difficulty, status, time_limit, pass_percent, quizId], function(err) {
-      if (err) {
-        db.run('ROLLBACK');
-        return res.status(500).json({ error: 'Failed to update quiz metadata' });
-      }
+  const { error: quizError } = await supabase.from('quizzes').update({
+    title, category, difficulty, status, time_limit, pass_percent
+  }).eq('id', quizId);
 
-      // If no questions provided, just commit
-      if (!questions) {
-        db.run('COMMIT');
-        return res.json({ success: true });
-      }
+  if (quizError) return res.status(500).json({ error: 'Failed to update quiz metadata' });
 
-      // Delete old questions
-      db.run("DELETE FROM questions WHERE quiz_id = ?", [quizId], (err) => {
-        if (err) {
-          db.run('ROLLBACK');
-          return res.status(500).json({ error: 'Failed' });
-        }
+  if (!questions) {
+    return res.json({ success: true });
+  }
 
-        const stmtQuestion = db.prepare(`
-          INSERT INTO questions (quiz_id, question_text, option_a, option_b, option_c, option_d, correct_option, explanation)
-          VALUES (?, ?, ?, ?, ?, ?, ?, ?)
-        `);
+  // Delete old questions
+  await supabase.from('questions').delete().eq('quiz_id', quizId);
 
-        for (const q of questions) {
-            // Note: handles both old format (from DB) and new format (from upload)
-            stmtQuestion.run([
-              quizId,
-              q.question_text || q.question,
-              q.option_a || q.options?.A,
-              q.option_b || q.options?.B,
-              q.option_c || q.options?.C,
-              q.option_d || q.options?.D,
-              q.correct_option || q.correct,
-              q.explanation
-            ]);
-        }
-        stmtQuestion.finalize();
+  const formattedQuestions = questions.map(q => ({
+    quiz_id: quizId,
+    question_text: q.question_text || q.question,
+    option_a: q.option_a || q.options?.A,
+    option_b: q.option_b || q.options?.B,
+    option_c: q.option_c || q.options?.C,
+    option_d: q.option_d || q.options?.D,
+    correct_option: q.correct_option || q.correct,
+    explanation: q.explanation
+  }));
 
-        db.run('COMMIT', (err) => {
-          if (err) return res.status(500).json({ error: 'Commit failed' });
-          res.json({ success: true, message: 'Quiz updated fully' });
-        });
-      });
-    });
-  });
+  const { error: qsError } = await supabase.from('questions').insert(formattedQuestions);
+  if (qsError) return res.status(500).json({ error: 'Failed to save new questions' });
+
+  res.json({ success: true, message: 'Quiz updated fully' });
 });
 
-
 // API 8: Global Leaderboard
-app.get('/api/leaderboard', (req, res) => {
-  db.all(`
-    SELECT a.id, a.user_id, a.score, a.total, a.completed_at, q.title as quiz_title
-    FROM attempts a
-    JOIN quizzes q ON a.quiz_id = q.id
-    ORDER BY (CAST(a.score AS FLOAT) / a.total) DESC, a.completed_at DESC
-    LIMIT 10
-  `, [], (err, rows) => {
-    if (err) return res.status(500).json({ error: err.message });
-    res.json(rows);
-  });
+app.get('/api/leaderboard', async (req, res) => {
+  const { data, error } = await supabase.from('attempts').select('*, quizzes(title, category)');
+  if (error) return res.status(500).json({ error: error.message });
+
+  // Custom sort since calculating dynamic columns in Supabase requires an RPC
+  const sorted = data.sort((a,b) => (b.score/b.total) - (a.score/a.total)).slice(0, 10);
+  
+  const rows = sorted.map(a => ({
+    id: a.id, 
+    user_id: a.user_id, 
+    user_name: a.user_name, 
+    score: a.score, 
+    total: a.total, 
+    completed_at: a.completed_at, 
+    quiz_title: a.quizzes?.title, 
+    category: a.quizzes?.category
+  }));
+  res.json(rows);
 });
 
 // API 9: Admin Analytics Stats
-app.get('/api/admin/stats', (req, res) => {
-  const stats = {};
-  db.get("SELECT COUNT(*) as total_quizzes FROM quizzes", [], (err, row) => {
-    stats.total_quizzes = row ? row.total_quizzes : 0;
-    db.get("SELECT COUNT(*) as total_attempts, AVG(CAST(score AS FLOAT)/total)*100 as avg_score FROM attempts", [], (err, row2) => {
-       stats.total_attempts = row2 ? row2.total_attempts : 0;
-       stats.avg_score = row2 && row2.avg_score ? parseFloat(row2.avg_score).toFixed(1) : 0;
-       res.json(stats);
-    });
+app.get('/api/admin/stats', async (req, res) => {
+  const { count: total_quizzes } = await supabase.from('quizzes').select('*', { count: 'exact', head: true });
+  const { data: attempts } = await supabase.from('attempts').select('score, total');
+  
+  const total_attempts = attempts ? attempts.length : 0;
+  let avg = 0;
+  if (total_attempts > 0) {
+    avg = attempts.reduce((acc, a) => acc + (a.score / a.total) * 100, 0) / total_attempts;
+  }
+  
+  res.json({ 
+    total_quizzes: total_quizzes || 0, 
+    total_attempts, 
+    avg_score: avg.toFixed(1) 
   });
 });
 
 // API 10: Get explicitly requested user's previous quiz attempts
-app.get('/api/users/:id/attempts', (req, res) => {
-  db.all(`
-    SELECT a.*, q.title as quiz_title, q.category 
-    FROM attempts a
-    JOIN quizzes q ON a.quiz_id = q.id
-    WHERE a.user_id = ?
-    ORDER BY a.completed_at DESC
-  `, [req.params.id], (err, rows) => {
-    if (err) return res.status(500).json({ error: err.message });
-    res.json(rows);
-  });
+app.get('/api/users/:id/attempts', async (req, res) => {
+  const { data, error } = await supabase
+    .from('attempts')
+    .select('*, quizzes(title, category)')
+    .eq('user_id', req.params.id)
+    .order('completed_at', { ascending: false });
+
+  if (error) return res.status(500).json({ error: error.message });
+
+  const rows = data.map(a => ({
+    ...a,
+    quiz_title: a.quizzes?.title,
+    category: a.quizzes?.category
+  }));
+  res.json(rows);
 });
 
 // Start
 const PORT = process.env.PORT || 5000;
 app.listen(PORT, () => {
-  console.log("Backend server running on port " + PORT);
+  console.log("Backend server running on port " + PORT + " using Supabase Postgres");
 });

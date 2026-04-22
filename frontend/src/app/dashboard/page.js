@@ -1,6 +1,6 @@
 "use client";
 import { useEffect, useState } from 'react';
-import { BrainCircuit, Trophy, ChevronRight, GraduationCap, Briefcase } from 'lucide-react';
+import { BrainCircuit, Trophy, ChevronRight, GraduationCap, Briefcase, TrendingUp, Target, Zap } from 'lucide-react';
 import Link from 'next/link';
 
 export default function StudentPortal() {
@@ -53,15 +53,48 @@ export default function StudentPortal() {
               <h1 className="text-5xl font-black text-gray-900 tracking-tight">Welcome, {userName}! 👋</h1>
               <p className="text-gray-500 mt-2 text-lg font-medium">Which career path are you crushing today?</p>
            </div>
-           <Link href="/profile" className="mt-8 md:mt-0 p-5 bg-blue-600 text-white rounded-3xl shadow-xl shadow-blue-600/20 hover:bg-blue-700 transition flex items-center gap-3 group">
+           <Link href="/dashboard/leaderboard" className="mt-8 md:mt-0 p-5 bg-blue-600 text-white rounded-3xl shadow-xl shadow-blue-600/20 hover:bg-blue-700 transition flex items-center gap-3 group">
               <div className="w-12 h-12 bg-white/20 rounded-2xl flex items-center justify-center">
-                 <Trophy className="w-6 h-6" />
+                 <Trophy className="w-6 h-6 transform group-hover:scale-125 transition-transform" />
               </div>
               <div className="text-left pr-4">
-                 <p className="text-[10px] font-black uppercase tracking-widest text-blue-200">View Performance</p>
-                 <p className="font-bold">Your Achievements</p>
+                 <p className="text-[10px] font-black uppercase tracking-widest text-blue-200">Global Ranking</p>
+                 <p className="font-bold text-lg">Hall of Fame</p>
               </div>
            </Link>
+        </div>
+
+        {/* NEW: Analytics Dashboard Widget */}
+        <div className="mb-16 grid grid-cols-1 md:grid-cols-3 gap-6">
+           <div className="bg-white p-8 rounded-[2rem] border border-gray-100 shadow-sm flex items-center justify-between group hover:border-blue-200 transition-all">
+              <div>
+                 <p className="text-[10px] font-black uppercase text-gray-400 tracking-widest mb-1">Total XP Earned</p>
+                 <p className="text-4xl font-black text-gray-900 tracking-tighter">4,250</p>
+              </div>
+              <div className="w-16 h-16 bg-gradient-to-br from-yellow-400 to-orange-500 rounded-2xl flex items-center justify-center text-white shadow-lg shadow-yellow-500/30 group-hover:scale-110 transition-transform">
+                 <Zap className="w-8 h-8" />
+              </div>
+           </div>
+           
+           <div className="bg-white p-8 rounded-[2rem] border border-gray-100 shadow-sm flex items-center justify-between group hover:border-blue-200 transition-all">
+              <div>
+                 <p className="text-[10px] font-black uppercase text-gray-400 tracking-widest mb-1">Assessments Target</p>
+                 <p className="text-4xl font-black text-gray-900 tracking-tighter">12 <span className="text-lg text-gray-400">/20</span></p>
+              </div>
+              <div className="w-16 h-16 bg-gradient-to-br from-blue-400 to-indigo-600 rounded-2xl flex items-center justify-center text-white shadow-lg shadow-blue-500/30 group-hover:scale-110 transition-transform">
+                 <Target className="w-8 h-8" />
+              </div>
+           </div>
+
+           <div className="bg-white p-8 rounded-[2rem] border border-gray-100 shadow-sm flex items-center justify-between group hover:border-blue-200 transition-all">
+              <div>
+                 <p className="text-[10px] font-black uppercase text-gray-400 tracking-widest mb-1">Mastery Rate</p>
+                 <p className="text-4xl font-black text-green-500 tracking-tighter">84%</p>
+              </div>
+              <div className="w-16 h-16 bg-gradient-to-br from-emerald-400 to-green-500 rounded-2xl flex items-center justify-center text-white shadow-lg shadow-green-500/30 group-hover:scale-110 transition-transform">
+                 <TrendingUp className="w-8 h-8" />
+              </div>
+           </div>
         </div>
 
         {/* Categories Section */}

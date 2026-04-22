@@ -31,7 +31,7 @@ export default function QuizTakingPage() {
       .then(data => {
         if (data.error) {
           alert('Quiz not found');
-          router.push('/');
+          router.push('/dashboard');
         } else {
           setQuizInfo(data.quiz);
           setQuestions(data.questions);
@@ -172,10 +172,19 @@ export default function QuizTakingPage() {
     const timeTaken = timeLeft !== null ? totalTime - timeLeft : 0;
 
     try {
+      let currentUserId = 1;
+      let currentUserName = 'Unknown';
+      const storedUser = localStorage.getItem('quiz_user');
+      if (storedUser) {
+         const parsed = JSON.parse(storedUser);
+         currentUserId = parsed.id || 1;
+         currentUserName = parsed.name || 'Unknown';
+      }
+
       const res = await fetch(`http://localhost:5000/api/quizzes/${id}/attempts`, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ userId: 1, answers, time_taken: timeTaken })
+        body: JSON.stringify({ userId: currentUserId, userName: currentUserName, answers, time_taken: timeTaken })
       });
       const data = await res.json();
       if (res.ok) {
@@ -195,10 +204,19 @@ export default function QuizTakingPage() {
      try { if (document.fullscreenElement) await document.exitFullscreen(); } catch(e){}
      const totalTime = quizInfo.time_limit * 60;
      const timeTaken = timeLeft !== null ? totalTime - timeLeft : 0;
+     let currentUserId = 1;
+     let currentUserName = 'Unknown';
+     const storedUser = localStorage.getItem('quiz_user');
+     if (storedUser) {
+        const parsed = JSON.parse(storedUser);
+        currentUserId = parsed.id || 1;
+        currentUserName = parsed.name || 'Unknown';
+     }
+
      const res = await fetch(`http://localhost:5000/api/quizzes/${id}/attempts`, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ userId: 1, answers, time_taken: timeTaken })
+        body: JSON.stringify({ userId: currentUserId, userName: currentUserName, answers, time_taken: timeTaken })
      });
      if (res.ok) setResult(await res.json());
   };
@@ -300,7 +318,7 @@ export default function QuizTakingPage() {
         </div>
         
         <div className="mt-16 text-center">
-            <button onClick={() => router.push('/')} className="px-12 py-4 bg-gray-900 text-white rounded-[2rem] font-black shadow-2xl shadow-gray-900/20 hover:bg-black transition scale-up hover:scale-105">Return to Command Centre</button>
+            <button onClick={() => router.push('/dashboard')} className="px-12 py-4 bg-gray-900 text-white rounded-[2rem] font-black shadow-2xl shadow-gray-900/20 hover:bg-black transition scale-up hover:scale-105">Return to Command Centre</button>
         </div>
       </div>
     );
@@ -413,8 +431,12 @@ export default function QuizTakingPage() {
              {currentIndex === questions.length - 1 ? (
                <button 
                  onClick={submitQuiz} 
-                 disabled={isSubmitting}
-                 className="px-10 py-4 rounded-[1.5rem] bg-gray-900 text-white font-black shadow-2xl shadow-gray-900/20 hover:bg-black transition-all hover:scale-105 active:scale-95 flex items-center"
+                 disabled={isSubmitting || !answers[q.id]}
+                 className={`px-10 py-4 rounded-[1.5rem] font-black shadow-2xl flex items-center transition-all ${
+                   isSubmitting || !answers[q.id]
+                     ? 'bg-gray-200 text-gray-400 cursor-not-allowed shadow-none'
+                     : 'bg-gray-900 text-white shadow-gray-900/20 hover:bg-black hover:scale-105 active:scale-95'
+                 }`}
                >
                  {isSubmitting ? "Processing..." : "Finish Attempt"} <ArrowRight className="ml-3 w-5 h-5" />
                </button>
@@ -429,11 +451,16 @@ export default function QuizTakingPage() {
                     Submit Early
                  </button>
                  <button 
+                   disabled={!answers[q.id]}
                    onClick={() => {
                       setCurrentIndex(prev => prev + 1);
                       setQuestionStartTime(Date.now());
                    }}
-                   className="px-10 py-4 rounded-[1.5rem] bg-blue-600 text-white font-black shadow-xl shadow-blue-600/20 hover:bg-blue-700 transition-all hover:scale-105 active:scale-95 flex items-center"
+                   className={`px-10 py-4 rounded-[1.5rem] font-black shadow-xl flex items-center transition-all ${
+                      !answers[q.id] 
+                        ? 'bg-gray-200 text-gray-400 cursor-not-allowed shadow-none' 
+                        : 'bg-blue-600 text-white shadow-blue-600/20 hover:bg-blue-700 hover:scale-105 active:scale-95'
+                   }`}
                  >
                     Next Question <ArrowRight className="ml-3 w-5 h-5" />
                  </button>
