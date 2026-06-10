@@ -32,9 +32,10 @@ export default function AdminQuizzesPage() {
     try {
       const res = await fetch("http://localhost:5000/api/admin/quizzes");
       const data = await res.json();
-      setQuizzes(data);
+      setQuizzes(Array.isArray(data) ? data : []);
     } catch(err) {
       console.error(err);
+      setQuizzes([]);
     } finally {
       setLoading(false);
     }

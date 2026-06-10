@@ -91,7 +91,7 @@ app.get('/api/admin/quizzes', async (req, res) => {
 
   if (error) return res.status(500).json({ error: error.message });
   
-  const rows = data.map(q => ({
+  const rows = (data || []).map(q => ({
     ...q,
     questions_count: q.questions[0]?.count || 0
   }));
