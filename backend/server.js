@@ -43,7 +43,7 @@ app.post('/api/admin/quiz/validate', upload.single('file'), (req, res) => {
 
 // API 2: Publish Quiz (save to DB)
 app.post('/api/admin/quizzes', async (req, res) => {
-  const { title, category, difficulty, time_limit, pass_percent, show_explanation, questions } = req.body;
+  const { title, category, difficulty, time_limit, pass_percent, show_explanation, questions, phase, subject, year, quiz_mode, topic } = req.body;
   if (!title || !questions || !questions.length) {
     return res.status(400).json({ error: 'Title and questions are required.' });
   }
@@ -55,7 +55,12 @@ app.post('/api/admin/quizzes', async (req, res) => {
     time_limit: time_limit || 0,
     pass_percent: pass_percent || 50,
     show_explanation: show_explanation || 'after_quiz',
-    status: 'Live'
+    status: 'Live',
+    phase: phase || null,
+    subject: subject || null,
+    year: year || null,
+    quiz_mode: quiz_mode || null,
+    topic: topic || null
   }]).select().single();
 
   if (quizError) return res.status(500).json({ error: quizError.message });
@@ -197,10 +202,10 @@ app.delete('/api/admin/quizzes/:id', async (req, res) => {
 // API 7.5: Update Quiz (Metadata + Questions)
 app.put('/api/admin/quizzes/:id', async (req, res) => {
   const quizId = req.params.id;
-  const { title, category, difficulty, status, time_limit, pass_percent, questions } = req.body;
+  const { title, category, difficulty, status, time_limit, pass_percent, show_explanation, questions, phase, subject, year, quiz_mode, topic } = req.body;
 
   const { error: quizError } = await supabase.from('quizzes').update({
-    title, category, difficulty, status, time_limit, pass_percent
+    title, category, difficulty, status, time_limit, pass_percent, show_explanation, phase, subject, year, quiz_mode, topic
   }).eq('id', quizId);
 
   if (quizError) return res.status(500).json({ error: 'Failed to update quiz metadata' });
@@ -284,6 +289,30 @@ app.get('/api/users/:id/attempts', async (req, res) => {
     category: a.quizzes?.category
   }));
   res.json(rows);
+});
+
+// API 11: Get all coding problems for a company
+app.get('/api/coding-problems/company/:company', async (req, res) => {
+  const { data, error } = await supabase
+    .from('coding_problems')
+    .select('id, title, difficulty')
+    .eq('company', req.params.company)
+    .order('created_at', { ascending: true });
+
+  if (error) return res.status(500).json({ error: error.message });
+  res.json(data);
+});
+
+// API 12: Get specific coding problem
+app.get('/api/coding-problems/:id', async (req, res) => {
+  const { data, error } = await supabase
+    .from('coding_problems')
+    .select('*')
+    .eq('id', req.params.id)
+    .single();
+
+  if (error || !data) return res.status(404).json({ error: 'Problem not found' });
+  res.json(data);
 });
 
 // Start

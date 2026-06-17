@@ -1,5 +1,5 @@
 "use client";
-import { useState, useRef } from 'react';
+import { useState, useRef, useEffect } from 'react';
 import { UploadCloud, FileJson, AlertCircle, Play, Settings, Copy, Check, Sparkles, ChevronDown } from 'lucide-react';
 
 const AI_PROMPT = `Convert my raw quiz data into a valid JSON file.
@@ -34,11 +34,16 @@ Use exactly this JSON format:
 Here is my raw data:
 [PASTE YOUR RAW DATA HERE]`;
 
-const EXAM_CATEGORIES = [
-  { group: 'Competitive Exams', items: ['UPSC', 'MPSC', 'GATE', 'SSC', 'Railways', 'Banking', 'Defence'] },
-  { group: 'College Placement', items: ['Quantitative Aptitude', 'Logical Reasoning', 'Verbal Ability'] },
-  { group: 'Other', items: ['General', 'Custom'] }
-];
+const MAIN_CATEGORIES = ['Competitive Exams', 'College Placement', 'Other'];
+const COMPETITIVE_EXAMS = ['UPSC', 'MPSC', 'GATE', 'SSC', 'Railways', 'Banking', 'Defence'];
+const PLACEMENT_COMPANIES = ['TCS', 'Infosys', 'Wipro', 'Accenture', 'Cognizant', 'Capgemini', 'IBM', 'Tech Mahindra', 'HCLTech', 'Deloitte', 'KPMG', 'EY', 'PwC', 'Amazon', 'Microsoft', 'Google', 'Goldman Sachs', 'JP Morgan', 'Oracle', 'Cisco', 'LTIMindtree', 'Hexaware'];
+const PLACEMENT_TOPICS = ['Quantitative Aptitude', 'Logical Reasoning', 'Verbal Ability'];
+const OTHER_CATEGORIES = ['General', 'Custom'];
+const UPSC_SUBJECTS = ['History', 'Geography', 'Polity', 'Economy', 'Science & Tech', 'Environment', 'Current Affairs', 'CSAT', 'General Studies', 'Optional', 'General Aptitude', 'Technical'];
+const EXAM_PHASES = ['Prelims', 'Mains', 'Interview'];
+const SSC_PHASES = ['Tier 1', 'Tier 2'];
+const SSC_EXAMS = ['SSC CGL', 'SSC CHSL', 'SSC MTS', 'SSC GD', 'SSC Stenographer', 'SSC CPO', 'SSC JE', 'SSC Junior Hindi Translator'];
+const QUIZ_MODES = ['PYQ Papers', 'Subject-wise', 'Topic-wise'];
 
 const DIFFICULTIES = [
   { value: 'easy', label: 'Easy', color: 'bg-green-100 text-green-700 border-green-200' },
@@ -55,7 +60,26 @@ export default function AdminUploadPage() {
   
   const [title, setTitle] = useState("New Quiz");
   const [timeLimit, setTimeLimit] = useState(0);
-  const [category, setCategory] = useState("General");
+  const [mainCategory, setMainCategory] = useState("Competitive Exams");
+  const [subCategory, setSubCategory] = useState("UPSC");
+  const [company, setCompany] = useState("TCS");
+  const [topic, setTopic] = useState("Quantitative Aptitude");
+  
+  const [phase, setPhase] = useState("Prelims");
+  const [subject, setSubject] = useState("History");
+  const [year, setYear] = useState(new Date().getFullYear().toString());
+  const [sscExam, setSscExam] = useState("SSC CGL");
+  const [quizMode, setQuizMode] = useState("PYQ Papers");
+  
+  useEffect(() => {
+    if (subCategory === 'SSC') {
+      if (!SSC_PHASES.includes(phase)) setPhase(SSC_PHASES[0]);
+    } else {
+      if (!EXAM_PHASES.includes(phase)) setPhase(EXAM_PHASES[0]);
+    }
+  }, [subCategory, phase]);
+  
+  const computedCategory = mainCategory === "College Placement" ? `${company} - ${topic}` : (subCategory === 'SSC' ? sscExam : subCategory);
   const [difficulty, setDifficulty] = useState("easy");
   const [passPercent, setPassPercent] = useState(50);
   const [showExplanation, setShowExplanation] = useState('after_quiz');
@@ -112,7 +136,12 @@ export default function AdminUploadPage() {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
-          title, time_limit: timeLimit, category, difficulty, pass_percent: passPercent, show_explanation: showExplanation,
+          title, time_limit: timeLimit, category: computedCategory, difficulty, pass_percent: passPercent, show_explanation: showExplanation,
+          phase: mainCategory === "Competitive Exams" ? phase : null,
+          subject: mainCategory === "Competitive Exams" && quizMode !== "PYQ Papers" ? subject : null,
+          year: mainCategory === "Competitive Exams" && quizMode === "PYQ Papers" ? year : null,
+          quiz_mode: mainCategory === "Competitive Exams" ? quizMode : null,
+          topic: mainCategory === "Competitive Exams" && quizMode === "Topic-wise" ? topic : (mainCategory === "College Placement" ? topic : null),
           questions: quizData.questions
         })
       });
@@ -153,14 +182,63 @@ export default function AdminUploadPage() {
                <input value={title} onChange={e => setTitle(e.target.value)} className="w-full border rounded-lg p-2 focus:ring-2 focus:ring-blue-500 outline-none" />
              </div>
              <div>
-               <label className="block text-sm font-medium text-gray-600 mb-1">Category / Exam Type</label>
-               <select value={category} onChange={e => setCategory(e.target.value)} className="w-full border rounded-lg p-2 focus:ring-2 focus:ring-blue-500 outline-none bg-white">
-                  {EXAM_CATEGORIES.map(group => (
-                    <optgroup key={group.group} label={group.group}>
-                       {group.items.map(item => <option key={item} value={item}>{item}</option>)}
-                    </optgroup>
-                  ))}
+               <label className="block text-sm font-medium text-gray-600 mb-1">Category</label>
+               <select value={mainCategory} onChange={e => {
+                 setMainCategory(e.target.value);
+                 if (e.target.value === "Competitive Exams") setSubCategory(COMPETITIVE_EXAMS[0]);
+                 else if (e.target.value === "Other") setSubCategory(OTHER_CATEGORIES[0]);
+               }} className="w-full border rounded-lg p-2 focus:ring-2 focus:ring-blue-500 outline-none bg-white mb-3">
+                  {MAIN_CATEGORIES.map(cat => <option key={cat} value={cat}>{cat}</option>)}
                </select>
+
+               {mainCategory === "College Placement" ? (
+                 <div className="flex gap-2">
+                   <select value={company} onChange={e => setCompany(e.target.value)} className="flex-1 border rounded-lg p-2 focus:ring-2 focus:ring-blue-500 outline-none bg-white">
+                      {PLACEMENT_COMPANIES.map(c => <option key={c} value={c}>{c}</option>)}
+                   </select>
+                   <select value={topic} onChange={e => setTopic(e.target.value)} className="flex-1 border rounded-lg p-2 focus:ring-2 focus:ring-blue-500 outline-none bg-white">
+                      {PLACEMENT_TOPICS.map(t => <option key={t} value={t}>{t}</option>)}
+                   </select>
+                 </div>
+               ) : mainCategory === "Competitive Exams" ? (
+                 <div className="space-y-3">
+                   <select value={subCategory} onChange={e => setSubCategory(e.target.value)} className="w-full border rounded-lg p-2 focus:ring-2 focus:ring-blue-500 outline-none bg-white">
+                      {COMPETITIVE_EXAMS.map(item => <option key={item} value={item}>{item}</option>)}
+                   </select>
+                   <div className="flex gap-2">
+                     <select value={phase} onChange={e => setPhase(e.target.value)} className="flex-1 border rounded-lg p-2 focus:ring-2 focus:ring-blue-500 outline-none bg-white text-sm">
+                        {(subCategory === 'SSC' ? SSC_PHASES : EXAM_PHASES).map(p => <option key={p} value={p}>{p}</option>)}
+                     </select>
+                     {subCategory === 'SSC' && (
+                       <select value={sscExam} onChange={e => setSscExam(e.target.value)} className="flex-1 border rounded-lg p-2 focus:ring-2 focus:ring-blue-500 outline-none bg-white text-sm">
+                          {SSC_EXAMS.map(e => <option key={e} value={e}>{e}</option>)}
+                       </select>
+                     )}
+                   </div>
+                   <div className="flex gap-2">
+                     <select value={quizMode} onChange={e => setQuizMode(e.target.value)} className="w-full border rounded-lg p-2 focus:ring-2 focus:ring-blue-500 outline-none bg-white text-sm">
+                        {QUIZ_MODES.map(m => <option key={m} value={m}>{m}</option>)}
+                     </select>
+                   </div>
+                   <div className="flex gap-2">
+                     {quizMode !== 'PYQ Papers' && (
+                       <select value={subject} onChange={e => setSubject(e.target.value)} className="flex-[1.5] border rounded-lg p-2 focus:ring-2 focus:ring-blue-500 outline-none bg-white text-sm">
+                          {UPSC_SUBJECTS.map(s => <option key={s} value={s}>{s}</option>)}
+                       </select>
+                     )}
+                     {quizMode === 'PYQ Papers' && (
+                       <input type="number" value={year} onChange={e => setYear(e.target.value)} placeholder="Year" className="flex-1 border rounded-lg p-2 focus:ring-2 focus:ring-blue-500 outline-none bg-white text-sm" />
+                     )}
+                     {quizMode === 'Topic-wise' && (
+                       <input type="text" value={topic} onChange={e => setTopic(e.target.value)} placeholder="Topic Name" className="flex-[2] border rounded-lg p-2 focus:ring-2 focus:ring-blue-500 outline-none bg-white text-sm" />
+                     )}
+                   </div>
+                 </div>
+               ) : (
+                 <select value={subCategory} onChange={e => setSubCategory(e.target.value)} className="w-full border rounded-lg p-2 focus:ring-2 focus:ring-blue-500 outline-none bg-white">
+                    {OTHER_CATEGORIES.map(item => <option key={item} value={item}>{item}</option>)}
+                 </select>
+               )}
              </div>
              <div>
                <label className="block text-sm font-medium text-gray-600 mb-1">Difficulty Level</label>
@@ -244,14 +322,63 @@ export default function AdminUploadPage() {
         <div className="bg-white rounded-2xl p-6 border border-gray-100 shadow-sm">
            <div className="grid md:grid-cols-2 gap-6">
               <div>
-                <label className="block text-sm font-medium text-gray-600 mb-2">Category / Exam Type</label>
-                <select value={category} onChange={e => setCategory(e.target.value)} className="w-full border border-gray-200 rounded-xl px-4 py-3 focus:ring-2 focus:ring-blue-500 outline-none bg-white text-gray-800 font-medium">
-                   {EXAM_CATEGORIES.map(group => (
-                     <optgroup key={group.group} label={group.group}>
-                        {group.items.map(item => <option key={item} value={item}>{item}</option>)}
-                     </optgroup>
-                   ))}
+                <label className="block text-sm font-medium text-gray-600 mb-2">Category</label>
+                <select value={mainCategory} onChange={e => {
+                  setMainCategory(e.target.value);
+                  if (e.target.value === "Competitive Exams") setSubCategory(COMPETITIVE_EXAMS[0]);
+                  else if (e.target.value === "Other") setSubCategory(OTHER_CATEGORIES[0]);
+                }} className="w-full border border-gray-200 rounded-xl px-4 py-3 focus:ring-2 focus:ring-blue-500 outline-none bg-white text-gray-800 font-medium mb-3">
+                   {MAIN_CATEGORIES.map(cat => <option key={cat} value={cat}>{cat}</option>)}
                 </select>
+
+                {mainCategory === "College Placement" ? (
+                  <div className="flex gap-3">
+                    <select value={company} onChange={e => setCompany(e.target.value)} className="flex-1 border border-gray-200 rounded-xl px-4 py-3 focus:ring-2 focus:ring-blue-500 outline-none bg-white text-gray-800 font-medium">
+                       {PLACEMENT_COMPANIES.map(c => <option key={c} value={c}>{c}</option>)}
+                    </select>
+                    <select value={topic} onChange={e => setTopic(e.target.value)} className="flex-1 border border-gray-200 rounded-xl px-4 py-3 focus:ring-2 focus:ring-blue-500 outline-none bg-white text-gray-800 font-medium">
+                       {PLACEMENT_TOPICS.map(t => <option key={t} value={t}>{t}</option>)}
+                    </select>
+                  </div>
+                ) : mainCategory === "Competitive Exams" ? (
+                  <div className="space-y-3">
+                    <select value={subCategory} onChange={e => setSubCategory(e.target.value)} className="w-full border border-gray-200 rounded-xl px-4 py-3 focus:ring-2 focus:ring-blue-500 outline-none bg-white text-gray-800 font-medium">
+                       {COMPETITIVE_EXAMS.map(item => <option key={item} value={item}>{item}</option>)}
+                    </select>
+                    <div className="flex gap-3">
+                      <select value={phase} onChange={e => setPhase(e.target.value)} className="flex-1 border border-gray-200 rounded-xl px-4 py-3 focus:ring-2 focus:ring-blue-500 outline-none bg-white text-gray-800 font-medium text-sm">
+                         {(subCategory === 'SSC' ? SSC_PHASES : EXAM_PHASES).map(p => <option key={p} value={p}>{p}</option>)}
+                      </select>
+                      {subCategory === 'SSC' && (
+                        <select value={sscExam} onChange={e => setSscExam(e.target.value)} className="flex-1 border border-gray-200 rounded-xl px-4 py-3 focus:ring-2 focus:ring-blue-500 outline-none bg-white text-gray-800 font-medium text-sm">
+                           {SSC_EXAMS.map(e => <option key={e} value={e}>{e}</option>)}
+                        </select>
+                      )}
+                    </div>
+                      <div className="flex gap-3 mt-3 w-full">
+                       <select value={quizMode} onChange={e => setQuizMode(e.target.value)} className="w-full border border-gray-200 rounded-xl px-4 py-3 focus:ring-2 focus:ring-blue-500 outline-none bg-white text-gray-800 font-medium text-sm">
+                          {QUIZ_MODES.map(m => <option key={m} value={m}>{m}</option>)}
+                       </select>
+                      </div>
+                      <div className="flex gap-3 mt-3 w-full">
+                        {quizMode !== 'PYQ Papers' && (
+                          <select value={subject} onChange={e => setSubject(e.target.value)} className="flex-[1.5] border border-gray-200 rounded-xl px-4 py-3 focus:ring-2 focus:ring-blue-500 outline-none bg-white text-gray-800 font-medium text-sm">
+                           {UPSC_SUBJECTS.map(s => <option key={s} value={s}>{s}</option>)}
+                          </select>
+                        )}
+                        {quizMode === 'PYQ Papers' && (
+                          <input type="number" value={year} onChange={e => setYear(e.target.value)} placeholder="Year" className="flex-1 border border-gray-200 rounded-xl px-4 py-3 focus:ring-2 focus:ring-blue-500 outline-none bg-white text-gray-800 font-medium text-sm" />
+                        )}
+                        {quizMode === 'Topic-wise' && (
+                          <input type="text" value={topic} onChange={e => setTopic(e.target.value)} placeholder="Topic Name" className="flex-[2] border border-gray-200 rounded-xl px-4 py-3 focus:ring-2 focus:ring-blue-500 outline-none bg-white text-gray-800 font-medium text-sm" />
+                        )}
+                      </div>
+                  </div>
+                ) : (
+                  <select value={subCategory} onChange={e => setSubCategory(e.target.value)} className="w-full border border-gray-200 rounded-xl px-4 py-3 focus:ring-2 focus:ring-blue-500 outline-none bg-white text-gray-800 font-medium">
+                     {OTHER_CATEGORIES.map(item => <option key={item} value={item}>{item}</option>)}
+                  </select>
+                )}
               </div>
               <div>
                 <label className="block text-sm font-medium text-gray-600 mb-2">Difficulty Level</label>
@@ -297,7 +424,7 @@ export default function AdminUploadPage() {
             <div className="bg-blue-100 p-3 rounded-xl"><FileJson className="w-6 h-6 text-blue-600" /></div>
             <div>
               <p className="font-semibold text-gray-800">{file.name}</p>
-              <p className="text-sm text-gray-500">{(file.size / 1024).toFixed(1)} KB &middot; {category} &middot; {difficulty}</p>
+              <p className="text-sm text-gray-500">{(file.size / 1024).toFixed(1)} KB &middot; {computedCategory} &middot; {difficulty}</p>
             </div>
           </div>
           <button 

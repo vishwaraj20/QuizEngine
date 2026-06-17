@@ -21,15 +21,34 @@ export default function StudentPortal() {
     { name: 'Defence', desc: 'NDA, CDS, AFCAT', icon: '🎖️' }
   ];
 
-  const placementCategories = [
-    { name: 'Quantitative Aptitude', desc: 'Mathematical Ability', icon: '🔢' },
-    { name: 'Logical Reasoning', desc: 'Puzzles & Logic', icon: '🧩' },
-    { name: 'Verbal Ability', desc: 'English & Grammar', icon: '📚' }
+  const companyCategories = [
+    { name: 'TCS', desc: 'Tata Consultancy Services', icon: '🏢' },
+    { name: 'Infosys', desc: 'Infosys Placement Prep', icon: '💻' },
+    { name: 'Wipro', desc: 'Wipro Elite & Turbo Prep', icon: '🌐' },
+    { name: 'Accenture', desc: 'Accenture Cognitive & Technical', icon: '📈' },
+    { name: 'Cognizant', desc: 'GenC & GenC Next Prep', icon: '🚀' },
+    { name: 'Capgemini', desc: 'Capgemini Analyst Prep', icon: '⚡' },
+    { name: 'IBM', desc: 'IBM Cognitive Assessment', icon: '🧠' },
+    { name: 'Tech Mahindra', desc: 'Tech Mahindra Prep', icon: '📱' },
+    { name: 'HCLTech', desc: 'HCLTech Assessment', icon: '🖥️' },
+    { name: 'Deloitte', desc: 'Deloitte Aptitude Prep', icon: '📊' },
+    { name: 'KPMG', desc: 'KPMG Placement Prep', icon: '📉' },
+    { name: 'EY', desc: 'Ernst & Young Assessment', icon: '👁️' },
+    { name: 'PwC', desc: 'PricewaterhouseCoopers', icon: '🧾' },
+    { name: 'Amazon', desc: 'Amazon SDE & IT Prep', icon: '📦' },
+    { name: 'Microsoft', desc: 'Microsoft Tech Prep', icon: '🪟' },
+    { name: 'Google', desc: 'Google Engineering', icon: '🔍' },
+    { name: 'Goldman Sachs', desc: 'Aptitude & Technical', icon: '🏦' },
+    { name: 'JP Morgan', desc: 'Software Engineer Program', icon: '💳' },
+    { name: 'Oracle', desc: 'Oracle Placement Prep', icon: '🗄️' },
+    { name: 'Cisco', desc: 'Cisco Technical Assessment', icon: '📡' },
+    { name: 'LTIMindtree', desc: 'LTIMindtree Prep', icon: '🌳' },
+    { name: 'Hexaware', desc: 'Hexaware Aptitude', icon: '⚙️' }
   ];
 
-  const CategoryCard = ({ cat }) => (
+  const CategoryCard = ({ cat, baseUrl = '/dashboard/category', customHref }) => (
     <Link 
-      href={`/dashboard/category/${encodeURIComponent(cat.name)}`}
+      href={customHref || `${baseUrl}/${encodeURIComponent(cat.name)}`}
       className="bg-white p-8 rounded-[2rem] border border-gray-100 shadow-sm hover:shadow-xl hover:border-blue-200 transition-all group flex flex-col items-center text-center relative overflow-hidden"
     >
        <div className="absolute top-0 right-0 w-24 h-24 bg-blue-50/50 rounded-bl-[4rem] group-hover:bg-blue-600/10 transition-colors"></div>
@@ -108,7 +127,7 @@ export default function StudentPortal() {
                 <h2 className="text-3xl font-black text-gray-900 tracking-tight underline decoration-indigo-200 underline-offset-8">Competitive Exams</h2>
              </div>
              <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
-                {examCategories.map(cat => <CategoryCard key={cat.name} cat={cat} />)}
+                {examCategories.map(cat => <CategoryCard key={cat.name} cat={cat} baseUrl="/dashboard/exam" customHref={cat.name === 'SSC' ? '/dashboard/ssc' : null} />)}
              </div>
           </section>
 
@@ -120,7 +139,7 @@ export default function StudentPortal() {
                 <h2 className="text-3xl font-black text-gray-900 tracking-tight underline decoration-emerald-200 underline-offset-8">College Placement Prep</h2>
              </div>
              <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
-                {placementCategories.map(cat => <CategoryCard key={cat.name} cat={cat} />)}
+                {companyCategories.map(cat => <CategoryCard key={cat.name} cat={cat} baseUrl="/dashboard/company" />)}
              </div>
           </section>
 
