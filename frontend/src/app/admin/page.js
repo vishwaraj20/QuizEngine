@@ -31,7 +31,50 @@ Use exactly this JSON format:
   ]
 }
 
-Here is my raw data:
+Here is my raw data to parse:
+[PASTE YOUR RAW DATA HERE]`;
+
+const CODING_AI_PROMPT = `You are an expert technical content parser. Your task is to convert raw, unstructured coding problem descriptions into a highly structured, valid JSON file.
+
+Follow these strict parsing instructions:
+1. **Title**: Extract a clear, concise title for the problem.
+2. **Difficulty**: Infer the difficulty level ('easy', 'medium', or 'hard') based on the problem complexity if not explicitly stated.
+3. **Description**: 
+   - Format the entire problem statement into a clean, readable description.
+   - Include the background story, task, input format, output format, and constraints clearly.
+   - Use plain text with clear line breaks (use \\n for line breaks).
+4. **Starter Code**: 
+   - Generate a functional Java boilerplate (public class Main { public static void main(String[] args) { ... } }).
+   - Include necessary imports (e.g., java.util.Scanner).
+   - Provide a basic structure that reads the exact input format specified in the problem statement.
+5. **Test Cases**:
+   - Extract all examples provided in the raw text into a "test_cases" array.
+   - For each test case, strictly extract the raw "input" and "expected_output" strings.
+   - Ensure the input string perfectly matches the expected input format (e.g., handling newlines exactly as the problem specifies).
+6. **Output Requirements**:
+   - Output ONLY the raw JSON object.
+   - Do NOT wrap the JSON in markdown code blocks (\`\`\`json).
+   - Do NOT include any conversational text or explanations.
+
+Use exactly this JSON schema:
+{
+  "problems": [
+    {
+      "title": "Cruise Party Maximum Guests",
+      "difficulty": "medium",
+      "description": "Full formatted problem description including constraints...",
+      "starter_code": "import java.util.Scanner;\\n\\npublic class Main {\\n    public static void main(String[] args) {\\n        Scanner sc = new Scanner(System.in);\\n        // Write your code here\\n    }\\n}",
+      "test_cases": [
+        {
+          "input": "5\\n7\\n0\\n5\\n1\\n3\\n1\\n2\\n1\\n3\\n4",
+          "expected_output": "8"
+        }
+      ]
+    }
+  ]
+}
+
+Here is my raw data to parse:
 [PASTE YOUR RAW DATA HERE]`;
 
 const MAIN_CATEGORIES = ['Competitive Exams', 'College Placement', 'Other'];
@@ -57,6 +100,7 @@ export default function AdminUploadPage() {
   const [quizData, setQuizData] = useState(null);
   const [loading, setLoading] = useState(false);
   const [copied, setCopied] = useState(false);
+  const [uploadMode, setUploadMode] = useState('quiz'); // 'quiz' or 'coding'
   
   const [title, setTitle] = useState("New Quiz");
   const [timeLimit, setTimeLimit] = useState(0);
@@ -87,7 +131,7 @@ export default function AdminUploadPage() {
   const fileInputRef = useRef(null);
 
   const copyPrompt = () => {
-    navigator.clipboard.writeText(AI_PROMPT);
+    navigator.clipboard.writeText(uploadMode === 'coding' ? CODING_AI_PROMPT : AI_PROMPT);
     setCopied(true);
     setTimeout(() => setCopied(false), 2000);
   };
@@ -109,8 +153,9 @@ export default function AdminUploadPage() {
     const formData = new FormData();
     formData.append('file', file);
     
+    const endpoint = uploadMode === 'coding' ? "http://localhost:5000/api/admin/coding-problems/validate" : "http://localhost:5000/api/admin/quiz/validate";
     try {
-      const res = await fetch("http://localhost:5000/api/admin/quiz/validate", {
+      const res = await fetch(endpoint, {
         method: "POST",
         body: formData,
       });
@@ -131,6 +176,32 @@ export default function AdminUploadPage() {
   const publishQuiz = async () => {
     if (!quizData) return;
     setLoading(true);
+    
+    if (uploadMode === 'coding') {
+      try {
+        const res = await fetch("http://localhost:5000/api/admin/coding-problems", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({
+            problems: quizData.problems,
+            company: company
+          })
+        });
+        const data = await res.json();
+        if (res.ok) {
+          alert("Coding problems published!");
+          window.location.href = `/dashboard/company/${company}/coding`;
+        } else {
+          alert("Publish failed: " + data.error);
+        }
+      } catch(err) {
+        alert("Error publishing");
+      } finally {
+        setLoading(false);
+      }
+      return;
+    }
+
     try {
       const res = await fetch("http://localhost:5000/api/admin/quizzes", {
         method: "POST",
@@ -164,7 +235,7 @@ export default function AdminUploadPage() {
     return (
       <div className="max-w-5xl mx-auto p-6">
         <div className="flex justify-between items-center mb-6">
-          <h1 className="text-3xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-blue-600 to-purple-600">Review & Publish Quiz</h1>
+          <h1 className="text-3xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-blue-600 to-purple-600">Review & Publish {uploadMode === 'coding' ? 'Coding Problems' : 'Quiz'}</h1>
           <div className="flex space-x-4">
             <button onClick={() => setQuizData(null)} className="px-5 py-2 rounded-lg bg-gray-200 text-gray-700 font-semibold hover:bg-gray-300 transition shadow">Cancel</button>
             <button onClick={publishQuiz} className="px-5 py-2 rounded-lg bg-blue-600 text-white font-semibold flex items-center hover:bg-blue-700 shadow-lg transition">
@@ -264,10 +335,40 @@ export default function AdminUploadPage() {
            </div>
         </div>
 
-        <div className="space-y-6">
-          <h2 className="text-xl font-bold flex items-center">
-            {quizData.questions.length} Questions imported
-          </h2>
+        {uploadMode === 'coding' ? (
+           <div className="space-y-6">
+             <h2 className="text-xl font-bold flex items-center">
+               {quizData.problems?.length} Problems imported
+             </h2>
+             {quizData.problems?.map((p, idx) => (
+               <div key={idx} className="bg-white p-6 rounded-xl border border-gray-100 shadow-sm">
+                 <div className="font-bold text-xl text-gray-800 mb-2">{idx + 1}. {p.title}</div>
+                 <div className="mb-4">
+                   <span className="px-2 py-1 text-xs font-bold uppercase rounded bg-gray-100 text-gray-600 mr-2">{p.difficulty}</span>
+                 </div>
+                 <div className="text-sm text-gray-600 mb-4 whitespace-pre-wrap">{p.description}</div>
+                 <div className="bg-gray-900 text-gray-300 p-4 rounded-lg font-mono text-xs whitespace-pre-wrap mb-4 overflow-auto">
+                   {p.starter_code}
+                 </div>
+                 <h4 className="font-bold text-sm mb-2 text-gray-700">Test Cases ({p.test_cases?.length})</h4>
+                 <div className="grid grid-cols-2 gap-4">
+                   {p.test_cases?.slice(0, 2).map((tc, tcIdx) => (
+                     <div key={tcIdx} className="bg-gray-50 border p-3 rounded-lg text-xs font-mono whitespace-pre-wrap">
+                       <div className="text-gray-400 mb-1">Input:</div>
+                       <div className="mb-2">{tc.input}</div>
+                       <div className="text-gray-400 mb-1">Expected Output:</div>
+                       <div>{tc.expected_output}</div>
+                     </div>
+                   ))}
+                 </div>
+               </div>
+             ))}
+           </div>
+         ) : (
+           <div className="space-y-6">
+             <h2 className="text-xl font-bold flex items-center">
+               {quizData.questions?.length} Questions imported
+             </h2>
           {quizData.questions.map((q, idx) => (
             <div key={idx} className="bg-white p-6 rounded-xl border border-gray-100 shadow-sm">
               <div className="font-semibold text-lg text-gray-800 mb-4 flex items-start">
@@ -288,6 +389,7 @@ export default function AdminUploadPage() {
             </div>
           ))}
         </div>
+        )}
       </div>
     );
   }
@@ -295,8 +397,33 @@ export default function AdminUploadPage() {
   // UPLOAD SCREEN
   return (
     <div className="max-w-5xl mx-auto p-6">
+      
+      {/* Upload Mode Toggle */}
+      <div className="flex justify-center mb-8">
+        <div className="bg-gray-200 p-1 rounded-xl flex">
+          <button 
+            onClick={() => setUploadMode('quiz')}
+            className={`px-6 py-2 rounded-lg font-bold text-sm transition-colors ${uploadMode === 'quiz' ? 'bg-white shadow text-blue-600' : 'text-gray-500 hover:text-gray-700'}`}
+          >
+            MCQ Quiz
+          </button>
+          <button 
+            onClick={() => {
+              setUploadMode('coding');
+              if (mainCategory === 'Competitive Exams') {
+                setMainCategory('College Placement');
+                setCompany(PLACEMENT_COMPANIES[0]);
+              }
+            }}
+            className={`px-6 py-2 rounded-lg font-bold text-sm transition-colors ${uploadMode === 'coding' ? 'bg-white shadow text-purple-600' : 'text-gray-500 hover:text-gray-700'}`}
+          >
+            Coding Problems
+          </button>
+        </div>
+      </div>
+
       <div className="text-center mb-10">
-        <h1 className="text-4xl font-extrabold text-gray-900 mb-3 tracking-tight">Create Quiz with AI</h1>
+        <h1 className="text-4xl font-extrabold text-gray-900 mb-3 tracking-tight">Create {uploadMode === 'coding' ? 'Coding Problems' : 'Quiz'} with AI</h1>
         <p className="text-lg text-gray-500">Copy the prompt below, paste it into ChatGPT / Gemini / Claude with your raw data, then upload the JSON output.</p>
       </div>
 
@@ -312,7 +439,7 @@ export default function AdminUploadPage() {
           </button>
         </div>
         <div className="bg-gray-900 text-gray-200 rounded-2xl p-6 font-mono text-sm leading-relaxed whitespace-pre-wrap max-h-80 overflow-y-auto border border-gray-700 shadow-inner">
-          {AI_PROMPT}
+          {uploadMode === 'coding' ? CODING_AI_PROMPT : AI_PROMPT}
         </div>
       </div>
 
@@ -328,7 +455,7 @@ export default function AdminUploadPage() {
                   if (e.target.value === "Competitive Exams") setSubCategory(COMPETITIVE_EXAMS[0]);
                   else if (e.target.value === "Other") setSubCategory(OTHER_CATEGORIES[0]);
                 }} className="w-full border border-gray-200 rounded-xl px-4 py-3 focus:ring-2 focus:ring-blue-500 outline-none bg-white text-gray-800 font-medium mb-3">
-                   {MAIN_CATEGORIES.map(cat => <option key={cat} value={cat}>{cat}</option>)}
+                   {MAIN_CATEGORIES.filter(cat => uploadMode === 'quiz' || cat !== 'Competitive Exams').map(cat => <option key={cat} value={cat}>{cat}</option>)}
                 </select>
 
                 {mainCategory === "College Placement" ? (
@@ -336,9 +463,11 @@ export default function AdminUploadPage() {
                     <select value={company} onChange={e => setCompany(e.target.value)} className="flex-1 border border-gray-200 rounded-xl px-4 py-3 focus:ring-2 focus:ring-blue-500 outline-none bg-white text-gray-800 font-medium">
                        {PLACEMENT_COMPANIES.map(c => <option key={c} value={c}>{c}</option>)}
                     </select>
-                    <select value={topic} onChange={e => setTopic(e.target.value)} className="flex-1 border border-gray-200 rounded-xl px-4 py-3 focus:ring-2 focus:ring-blue-500 outline-none bg-white text-gray-800 font-medium">
-                       {PLACEMENT_TOPICS.map(t => <option key={t} value={t}>{t}</option>)}
-                    </select>
+                    {uploadMode === 'quiz' && (
+                      <select value={topic} onChange={e => setTopic(e.target.value)} className="flex-1 border border-gray-200 rounded-xl px-4 py-3 focus:ring-2 focus:ring-blue-500 outline-none bg-white text-gray-800 font-medium">
+                         {PLACEMENT_TOPICS.map(t => <option key={t} value={t}>{t}</option>)}
+                      </select>
+                    )}
                   </div>
                 ) : mainCategory === "Competitive Exams" ? (
                   <div className="space-y-3">

@@ -4,6 +4,7 @@ const multer = require('multer');
 const fs = require('fs');
 const supabase = require('./database');
 const { validateQuizJSON } = require('./utils/validateQuizJSON');
+const { validateCodingJSON } = require('./utils/validateCodingJSON');
 
 const app = express();
 app.use(cors());
@@ -88,6 +89,53 @@ app.post('/api/admin/quizzes', async (req, res) => {
 });
 
 // API 3: Get all quizzes (Admin Dashboard)
+app.post('/api/admin/coding-problems/validate', upload.single('file'), (req, res) => {
+  if (!req.file) {
+    return res.status(400).json({ error: 'No file uploaded' });
+  }
+  if (!req.file.originalname.endsWith('.json')) {
+    fs.unlinkSync(req.file.path);
+    return res.status(400).json({ errors: ['Only .json files are accepted'] });
+  }
+
+  try {
+    const fileContent = fs.readFileSync(req.file.path, 'utf8');
+    const jsonParsed = JSON.parse(fileContent);
+    fs.unlinkSync(req.file.path);
+
+    const validationResult = validateCodingJSON(jsonParsed);
+    if (!validationResult.isValid) {
+      return res.status(400).json({ errors: validationResult.errors, data: jsonParsed });
+    }
+    return res.json({ success: true, data: jsonParsed });
+  } catch (err) {
+    if (req.file && fs.existsSync(req.file.path)) fs.unlinkSync(req.file.path);
+    return res.status(400).json({ errors: ['Invalid JSON format. Could not parse file.'] });
+  }
+});
+
+app.post('/api/admin/coding-problems', async (req, res) => {
+  const { problems, company } = req.body;
+  if (!problems || !problems.length) {
+    return res.status(400).json({ error: 'Problems array is required.' });
+  }
+
+  const formattedProblems = problems.map(p => ({
+    title: p.title,
+    company: company || 'TCS',
+    difficulty: p.difficulty || 'medium',
+    description: p.description,
+    starter_code: p.starter_code,
+    test_cases: p.test_cases
+  }));
+
+  const { error } = await supabase.from('coding_problems').insert(formattedProblems);
+  if (error) return res.status(500).json({ error: error.message });
+
+  res.json({ success: true, message: 'Coding problems published successfully!' });
+});
+
+// API 4: Get all quizzes
 app.get('/api/admin/quizzes', async (req, res) => {
   const { data, error } = await supabase
     .from('quizzes')
@@ -313,6 +361,129 @@ app.get('/api/coding-problems/:id', async (req, res) => {
 
   if (error || !data) return res.status(404).json({ error: 'Problem not found' });
   res.json(data);
+});
+
+// API 13: Execute Code (Proxy to Paiza.io)
+app.post('/api/execute', async (req, res) => {
+  const { code, language, input } = req.body;
+  const paizaLang = language === 'python' ? 'python3' : language;
+  
+  try {
+    const createRes = await fetch('https://api.paiza.io/runners/create', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        source_code: code,
+        language: paizaLang,
+        input: input || '',
+        api_key: 'guest'
+      })
+    });
+    
+    const createData = await createRes.json();
+    if (!createData.id) {
+      return res.status(400).json({ error: createData.error || 'Failed to start execution' });
+    }
+
+    // Poll for details
+    let details;
+    for (let i = 0; i < 15; i++) {
+      await new Promise(r => setTimeout(r, 1000));
+      const detailRes = await fetch(`https://api.paiza.io/runners/get_details?id=${createData.id}&api_key=guest`);
+      details = await detailRes.json();
+      if (details.status === 'completed') {
+        break;
+      }
+    }
+
+    if (details?.status === 'completed') {
+      const errorOut = (details.build_stderr || '') + (details.stderr || '');
+      const output = errorOut ? errorOut + (details.stdout || '') : (details.stdout || 'Code executed successfully with no output.');
+      return res.json({ output });
+    } else {
+      return res.status(504).json({ error: 'Execution timed out or failed.' });
+    }
+  } catch (err) {
+    return res.status(500).json({ error: 'Execution server error: ' + err.message });
+  }
+});
+
+// API 14: Submit Code against test cases
+app.post('/api/submit', async (req, res) => {
+  const { code, language, problem_id } = req.body;
+  const paizaLang = language === 'python' ? 'python3' : language;
+  
+  try {
+    // 1. Fetch test cases from database
+    const { data: problem, error } = await supabase
+      .from('coding_problems')
+      .select('test_cases')
+      .eq('id', problem_id)
+      .single();
+
+    if (error || !problem) {
+      return res.status(404).json({ error: 'Problem not found.' });
+    }
+
+    const testCases = problem.test_cases || [];
+    if (testCases.length === 0) {
+      return res.status(400).json({ error: 'No test cases available for this problem.' });
+    }
+
+    // 2. Execute code against each test case in parallel
+    const runPromises = testCases.map(async (tc, index) => {
+      try {
+        const createRes = await fetch('https://api.paiza.io/runners/create', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({
+            source_code: code,
+            language: paizaLang,
+            input: tc.input || '',
+            api_key: 'guest'
+          })
+        });
+        
+        const createData = await createRes.json();
+        if (!createData.id) return { status: 'Error starting execution' };
+
+        let details;
+        for (let i = 0; i < 15; i++) {
+          await new Promise(r => setTimeout(r, 1000));
+          const detailRes = await fetch(`https://api.paiza.io/runners/get_details?id=${createData.id}&api_key=guest`);
+          details = await detailRes.json();
+          if (details.status === 'completed') break;
+        }
+
+        if (details?.status === 'completed') {
+          const errorOut = (details.build_stderr || '') + (details.stderr || '');
+          const output = errorOut ? errorOut + (details.stdout || '') : (details.stdout || '');
+          const actualOutput = output.trim();
+          const expectedOutput = (tc.expected_output || '').trim();
+          
+          return {
+            testCase: index + 1,
+            input: tc.input,
+            expectedOutput,
+            actualOutput,
+            passed: actualOutput === expectedOutput && !errorOut,
+            error: !!errorOut
+          };
+        } else {
+          return { testCase: index + 1, passed: false, error: true, actualOutput: 'Timeout or execution failed.' };
+        }
+      } catch (e) {
+        return { testCase: index + 1, passed: false, error: true, actualOutput: e.message };
+      }
+    });
+
+    const results = await Promise.all(runPromises);
+    const allPassed = results.every(r => r.passed);
+    
+    return res.json({ success: true, allPassed, results });
+  } catch (err) {
+    return res.status(500).json({ error: 'Submit execution error: ' + err.message });
+  }
 });
 
 // Start

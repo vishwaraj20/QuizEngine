@@ -2,18 +2,21 @@
 import { useEffect, useState } from 'react';
 import { useParams } from 'next/navigation';
 import Link from 'next/link';
-import { ArrowLeft, Code2, PlayCircle } from 'lucide-react';
+import { ArrowLeft, Code2, PlayCircle, CheckCircle2, Circle } from 'lucide-react';
 
 export default function CodingProblemListPage() {
   const params = useParams();
   const companyName = decodeURIComponent(params.name);
   
   const [problems, setProblems] = useState([]);
+  const [solved, setSolved] = useState([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
 
   useEffect(() => {
     fetchProblems();
+    const solvedData = JSON.parse(localStorage.getItem('solved_problems') || '[]');
+    setSolved(solvedData);
   }, [companyName]);
 
   const fetchProblems = async () => {
@@ -62,31 +65,59 @@ export default function CodingProblemListPage() {
              <p className="text-gray-500">We couldn't find any coding problems for {companyName} yet.</p>
           </div>
         ) : (
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-            {problems.map(prob => (
-              <div key={prob.id} className="bg-white rounded-3xl p-6 border border-gray-100 shadow-sm hover:shadow-xl hover:border-purple-200 transition-all flex flex-col group relative overflow-hidden">
-                <div className="absolute top-0 right-0 w-32 h-32 bg-gradient-to-br from-purple-50 to-pink-50 rounded-bl-[100px] -z-10 group-hover:scale-110 transition-transform"></div>
-                
-                <div className="flex justify-between items-start mb-4">
-                   <div className={`px-3 py-1 text-xs font-black uppercase tracking-wider rounded-lg ${
-                     prob.difficulty === 'easy' ? 'bg-green-100 text-green-700' : 
-                     prob.difficulty === 'hard' ? 'bg-red-100 text-red-700' : 'bg-orange-100 text-orange-700'
-                   }`}>
-                     {prob.difficulty || 'medium'}
-                   </div>
-                </div>
-                
-                <h3 className="text-xl font-black text-gray-900 mb-6 leading-tight">{prob.title}</h3>
-                
-                <Link 
-                   href={`/coding/${prob.id}`}
-                   target="_blank"
-                   className="w-full mt-auto py-3 bg-gray-900 text-white rounded-xl font-bold hover:bg-purple-600 transition-colors flex justify-center items-center"
-                >
-                   Solve Problem <PlayCircle className="w-4 h-4 ml-2" />
-                </Link>
-              </div>
-            ))}
+          <div className="bg-white rounded-3xl shadow-sm border border-gray-100 overflow-hidden">
+            <table className="w-full text-left border-collapse">
+              <thead>
+                <tr className="bg-gray-50 border-b border-gray-100 text-xs uppercase tracking-widest text-gray-400">
+                  <th className="py-4 px-6 font-bold w-16 text-center">Status</th>
+                  <th className="py-4 px-6 font-bold">Title</th>
+                  <th className="py-4 px-6 font-bold w-32">Difficulty</th>
+                  <th className="py-4 px-6 font-bold w-40 text-right">Action</th>
+                </tr>
+              </thead>
+              <tbody className="divide-y divide-gray-50">
+                {problems.map(prob => {
+                  const isSolved = solved.includes(Number(prob.id));
+                  return (
+                    <tr key={prob.id} className="hover:bg-gray-50/50 transition-colors group">
+                      <td className="py-5 px-6 text-center">
+                        {isSolved ? (
+                          <CheckCircle2 className="w-5 h-5 text-emerald-500 mx-auto" />
+                        ) : (
+                          <Circle className="w-5 h-5 text-gray-300 mx-auto" />
+                        )}
+                      </td>
+                      <td className="py-5 px-6">
+                        <Link href={`/coding/${prob.id}`} target="_blank" className="text-lg font-bold text-gray-900 hover:text-blue-600 transition-colors">
+                          {prob.title}
+                        </Link>
+                      </td>
+                      <td className="py-5 px-6">
+                        <span className={`px-3 py-1 text-[10px] font-black uppercase tracking-wider rounded-lg ${
+                           prob.difficulty === 'easy' ? 'bg-green-100 text-green-700' : 
+                           prob.difficulty === 'hard' ? 'bg-red-100 text-red-700' : 'bg-orange-100 text-orange-700'
+                        }`}>
+                          {prob.difficulty || 'medium'}
+                        </span>
+                      </td>
+                      <td className="py-5 px-6 text-right">
+                        <Link 
+                           href={`/coding/${prob.id}`}
+                           target="_blank"
+                           className={`inline-flex items-center justify-center px-4 py-2 rounded-xl font-bold text-sm transition-all ${
+                             isSolved 
+                               ? 'bg-gray-100 text-gray-700 hover:bg-gray-200' 
+                               : 'bg-gray-900 text-white hover:bg-purple-600'
+                           }`}
+                        >
+                           {isSolved ? 'Solve Again' : 'Solve'} <PlayCircle className="w-4 h-4 ml-2" />
+                        </Link>
+                      </td>
+                    </tr>
+                  );
+                })}
+              </tbody>
+            </table>
           </div>
         )}
       </div>
