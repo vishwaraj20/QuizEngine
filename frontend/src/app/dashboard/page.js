@@ -133,11 +133,7 @@ export default function StudentPortal() {
   const examCategories = [
     { name: 'UPSC', desc: 'Civil Services Examination', icon: '🏛️' },
     { name: 'MPSC', desc: 'State Service Commission', icon: '⚖️' },
-    { name: 'GATE', desc: 'Engineering Aptitude Test', icon: '⚙️' },
-    { name: 'SSC', desc: 'Staff Selection Commission', icon: '📋' },
-    { name: 'Railways', desc: 'RRB NTPC, Group D', icon: '🚆' },
-    { name: 'Banking', desc: 'IBPS, SBI PO/Clerk', icon: '💰' },
-    { name: 'Defence', desc: 'NDA, CDS, AFCAT', icon: '🎖️' }
+    { name: 'GATE', desc: 'Engineering Aptitude Test', icon: '⚙️' }
   ];
 
   const companyCategories = [

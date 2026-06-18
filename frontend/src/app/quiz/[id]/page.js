@@ -1,11 +1,13 @@
 "use client";
 import React, { useEffect, useState, useRef } from 'react';
 import { Clock, ArrowRight, ArrowLeft, CheckCircle, XCircle, AlertCircle, ShieldAlert, Maximize, AlertTriangle } from 'lucide-react';
-import { useParams, useRouter } from 'next/navigation';
+import { useParams, useRouter, useSearchParams } from 'next/navigation';
 
 export default function QuizTakingPage() {
   const { id } = useParams();
   const router = useRouter();
+  const searchParams = useSearchParams();
+  const isPractice = searchParams.get('practice') === 'true';
 
   const [quizInfo, setQuizInfo] = useState(null);
   const [questions, setQuestions] = useState([]);
@@ -25,35 +27,44 @@ export default function QuizTakingPage() {
   const [showSubmitConfirm, setShowSubmitConfirm] = useState(false);
 
   const timerRef = useRef(null);
+  const lastViolationTimeRef = useRef(0); // Rate-limiting cooldown for violations
   const isSubmittingRef = useRef(false);
+  const startCooldownRef = useRef(true);
 
   useEffect(() => {
     fetch(`http://localhost:5000/api/quizzes/${id}/take`)
       .then(r => r.json())
       .then(data => {
         if (data.error) {
-          alert('Quiz not found');
-          router.push('/dashboard');
+           alert('Quiz not found');
+           router.push('/dashboard');
         } else {
-          setQuizInfo(data.quiz);
-          setQuestions(data.questions);
-          // Initialize timer if time_limit > 0 (convert mins to secs)
-          if (data.quiz.time_limit > 0) {
-            setTimeLeft(data.quiz.time_limit * 60);
-          }
+           setQuizInfo(data.quiz);
+           setQuestions(data.questions);
+           // Initialize timer if time_limit > 0 (convert mins to secs)
+           if (data.quiz.time_limit > 0) {
+             setTimeLeft(data.quiz.time_limit * 60);
+           }
+           if (isPractice) {
+             setHasStarted(true);
+           }
         }
       })
       .catch(console.error)
       .finally(() => setLoading(false));
-  }, [id, router]);
+  }, [id, router, isPractice]);
 
   // Anti-Cheat Listeners
   useEffect(() => {
-    if (!hasStarted || result) return;
+    if (!hasStarted || result || isPractice) return;
 
     let hiddenTriggered = false;
 
     const handleVisibilityChange = () => {
+      if (startCooldownRef.current) {
+        hiddenTriggered = false;
+        return;
+      }
       if (document.hidden) {
         hiddenTriggered = true;
       } else if (hiddenTriggered) {
@@ -72,6 +83,7 @@ export default function QuizTakingPage() {
     };
 
     const handleFullscreenChange = () => {
+      if (startCooldownRef.current) return;
       if (!document.fullscreenElement) {
          handleViolation("Exited fullscreen mode.");
       }
@@ -84,16 +96,24 @@ export default function QuizTakingPage() {
     document.addEventListener("fullscreenchange", handleFullscreenChange);
 
     return () => {
-       document.removeEventListener("visibilitychange", handleVisibilityChange);
-       document.removeEventListener("copy", handleCopyPaste);
-       document.removeEventListener("paste", handleCopyPaste);
-       document.removeEventListener("contextmenu", handleContext);
-       document.removeEventListener("fullscreenchange", handleFullscreenChange);
+        document.removeEventListener("visibilitychange", handleVisibilityChange);
+        document.removeEventListener("copy", handleCopyPaste);
+        document.removeEventListener("paste", handleCopyPaste);
+        document.removeEventListener("contextmenu", handleContext);
+        document.removeEventListener("fullscreenchange", handleFullscreenChange);
     }
-  }, [hasStarted, result]);
+  }, [hasStarted, result, isPractice]);
 
   const handleViolation = (reason) => {
-    if (isSubmittingRef.current) return;
+    if (isSubmittingRef.current || result || startCooldownRef.current) {
+      return;
+    }
+    const now = Date.now();
+    if (now - lastViolationTimeRef.current < 2000) {
+      return; // 2 second cooldown to prevent a flurry of events from causing instant auto-submission
+    }
+    lastViolationTimeRef.current = now;
+
     setWarnings(prev => {
        const newCount = prev + 1;
        if (newCount >= 3) {
@@ -117,6 +137,13 @@ export default function QuizTakingPage() {
   const dismissCheatAlert = () => {
      if (!cheatAlert?.fatal) {
         setCheatAlert(null);
+        
+        // Cooldown during fullscreen re-entry transition
+        startCooldownRef.current = true;
+        setTimeout(() => {
+           startCooldownRef.current = false;
+        }, 3000);
+
         // Force them back to fullscreen if they left
         try {
            if (!document.fullscreenElement) document.documentElement.requestFullscreen();
@@ -126,7 +153,7 @@ export default function QuizTakingPage() {
 
   // Countdown Logic
   useEffect(() => {
-    if (timeLeft === null || result || !hasStarted) return;
+    if (timeLeft === null || result || !hasStarted || isPractice) return;
     
     if (timeLeft <= 0) {
       alert("Time is up! Submitting your answers automatically.");
@@ -139,7 +166,7 @@ export default function QuizTakingPage() {
     }, 1000);
 
     return () => clearInterval(timerRef.current);
-  }, [timeLeft, result, hasStarted]);
+  }, [timeLeft, result, hasStarted, isPractice]);
 
   const startQuiz = async () => {
     try {
@@ -147,15 +174,24 @@ export default function QuizTakingPage() {
          await document.documentElement.requestFullscreen();
       }
     } catch(e) { console.error("Fullscreen blocked", e); }
+    
+    // Cooldown during initial fullscreen entry transition
+    startCooldownRef.current = true;
+    setTimeout(() => {
+       startCooldownRef.current = false;
+     }, 3000);
+
     setHasStarted(true);
     setQuestionStartTime(Date.now());
   };
 
   const selectOption = (opt) => {
     // Fast Answer Check: Sub-1-second answer on a brand new question is suspicious
-    const timeDiff = Date.now() - questionStartTime;
-    if (timeDiff < 800 && !answers[questions[currentIndex].id]) {
-       handleViolation("Suspiciously fast answer (Bot/Script behavior detected).");
+    if (!isPractice) {
+      const timeDiff = Date.now() - questionStartTime;
+      if (timeDiff < 250 && !answers[questions[currentIndex].id]) {
+         handleViolation("Suspiciously fast answer (Bot/Script behavior detected).");
+      }
     }
 
     setAnswers(prev => ({
@@ -174,7 +210,7 @@ export default function QuizTakingPage() {
     try { if (document.fullscreenElement) await document.exitFullscreen(); } catch(e){}
     
     const totalTime = quizInfo.time_limit * 60;
-    const timeTaken = timeLeft !== null ? totalTime - timeLeft : 0;
+    const timeTaken = (timeLeft !== null && !isPractice) ? totalTime - timeLeft : 0;
 
     try {
       let currentUserId = 1;
@@ -209,7 +245,7 @@ export default function QuizTakingPage() {
      isSubmittingRef.current = true;
      try { if (document.fullscreenElement) await document.exitFullscreen(); } catch(e){}
      const totalTime = quizInfo.time_limit * 60;
-     const timeTaken = timeLeft !== null ? totalTime - timeLeft : 0;
+     const timeTaken = (timeLeft !== null && !isPractice) ? totalTime - timeLeft : 0;
      let currentUserId = 1;
      let currentUserName = 'Unknown';
      const storedUser = localStorage.getItem('quiz_user');
@@ -308,14 +344,14 @@ export default function QuizTakingPage() {
                    <p className={`font-bold ${item.is_correct ? 'text-green-600' : 'text-red-600'}`}>{item.selected_option || 'No Response'}</p>
                 </div>
                 {!item.is_correct && (
-                   <div className="p-4 bg-green-50 rounded-2xl border border-green-100">
+                   <div className="p-4 bg-green-550 dark:bg-green-950/20 text-green-700 dark:text-green-400 rounded-2xl border border-green-100 dark:border-green-900/50">
                      <p className="text-[10px] font-black text-green-400 uppercase tracking-widest mb-1">Correct Key</p>
-                     <p className="font-bold text-green-700">{item.correct_option}</p>
+                     <p className="font-bold">{item.correct_option}</p>
                    </div>
                 )}
               </div>
               
-              <div className="ml-14 p-6 bg-blue-50/50 rounded-2xl text-sm font-medium text-blue-800 border border-blue-100 italic">
+              <div className="ml-14 p-6 bg-blue-50/50 dark:bg-blue-950/20 rounded-2xl text-sm font-medium text-blue-800 dark:text-blue-200 border border-blue-100 dark:border-blue-900/50 italic">
                 <span className="font-black uppercase text-[10px] tracking-widest block mb-2 opacity-50">Professional Rationale</span>
                 {item.explanation}
               </div>
@@ -347,7 +383,7 @@ export default function QuizTakingPage() {
     <div className="min-h-screen bg-gray-50 dark:bg-slate-900 flex items-center justify-center p-6 bg-[url('https://www.transparenttextures.com/patterns/cubes.png')] bg-fixed">
       {/* CUSTOM CHEAT WARNING MODAL */}
       {cheatAlert && (
-         <div className="fixed inset-0 z-[100] flex items-center justify-center bg-gray-900 dark:bg-blue-600/90 backdrop-blur-sm p-4">
+         <div className="fixed inset-0 z-[100] flex items-center justify-center bg-gray-900/80 dark:bg-blue-600/90 backdrop-blur-sm p-4">
             <div className="bg-white dark:bg-slate-800 rounded-[2rem] p-10 max-w-md w-full text-center shadow-2xl border border-red-500 animate-in zoom-in duration-200">
                <div className="w-20 h-20 bg-red-100 text-red-600 rounded-full flex items-center justify-center mx-auto mb-6">
                   <AlertTriangle className="w-10 h-10" />
@@ -368,127 +404,206 @@ export default function QuizTakingPage() {
          </div>
       )}
 
-      <div className="max-w-4xl w-full bg-white dark:bg-slate-800 rounded-[3rem] shadow-2xl overflow-hidden border border-gray-100 dark:border-slate-700 animate-in zoom-in-95 duration-300">
+      <div className="max-w-7xl w-full flex flex-col lg:flex-row gap-8 items-start justify-center animate-in zoom-in-95 duration-300">
         
-        {/* Header with Progress and Timer */}
-        <div className="p-10 pb-0 shrink-0">
-           <div className="flex justify-between items-center mb-10">
-              <div className="flex items-center gap-6">
-                 <div className="w-16 h-16 bg-blue-600 text-white rounded-3xl flex items-center justify-center font-black text-2xl shadow-xl shadow-blue-600/20">
-                    {currentIndex + 1}
-                 </div>
-                 <div>
-                    <h1 className="text-xl font-black text-gray-900 dark:text-white tracking-tight">{quizInfo.title}</h1>
-                    <div className="w-48 h-2 bg-gray-100 dark:bg-slate-800 rounded-full mt-2 overflow-hidden">
-                       <div className="h-full bg-blue-600 transition-all duration-500" style={{ width: `${((currentIndex+1)/questions.length)*100}%` }}></div>
-                    </div>
-                 </div>
-              </div>
-
-               {timeLeft !== null && (
-                 <div className="flex items-center gap-4">
-                   {warnings > 0 && (
-                     <div className="px-4 py-2 bg-red-100 text-red-700 rounded-xl flex items-center font-black text-xs uppercase tracking-widest animate-pulse border border-red-200 shadow-sm">
-                       <AlertTriangle className="w-4 h-4 mr-2" /> {warnings}/3 Strikes
-                     </div>
-                   )}
-                   <div className={`px-6 py-3 rounded-2xl flex items-center gap-3 border-2 transition-colors duration-500 ${timeLeft < 60 ? 'bg-red-50 border-red-200 text-red-600 animate-pulse' : 'bg-blue-50 border-blue-100 text-blue-700'}`}>
-                      <Clock className="w-6 h-6" />
-                      <span className="text-2xl font-black tabular-nums">{formatTime(timeLeft)}</span>
-                   </div>
-                 </div>
-              )}
-           </div>
-        </div>
-
-        {/* Question Area */}
-        <div className="px-10 py-12">
-           <h2 className="text-4xl font-black text-gray-900 dark:text-white mb-12 leading-[1.1] tracking-tighter">
-              {q.question_text}
-           </h2>
-
-           <div className="grid sm:grid-cols-1 md:grid-cols-2 gap-5">
-             {['A', 'B', 'C', 'D'].map(opt => (
-               <div 
-                 key={opt}
-                 onClick={() => selectOption(opt)}
-                 className={`group p-6 rounded-[2rem] border-2 flex items-center cursor-pointer transition-all duration-300 
-                  ${answers[q.id] === opt ? 'border-blue-600 bg-blue-50 shadow-lg shadow-blue-600/5' : 'border-gray-100 dark:border-slate-700 hover:border-blue-200 hover:bg-gray-50/50 dark:bg-slate-900/50'}
-                 `}
-               >
-                 <div className={`w-12 h-12 rounded-2xl flex items-center justify-center font-black mr-5 transition-all duration-300 transform group-hover:scale-110 ${answers[q.id] === opt ? 'bg-blue-600 text-white shadow-lg' : 'bg-gray-100 dark:bg-slate-800 text-gray-400 group-hover:bg-blue-100 group-hover:text-blue-600'}`}>
-                    {opt}
-                 </div>
-                 <span className={`text-lg transition-all ${answers[q.id] === opt ? 'text-blue-900 font-black' : 'text-gray-600 dark:text-gray-400 font-bold'}`}>
-                    {q[`option_${opt.toLowerCase()}`]}
-                 </span>
-               </div>
-             ))}
-           </div>
-        </div>
-
-        {/* Navigation & Submission Footer */}
-        <div className="p-10 bg-gray-50 dark:bg-slate-900 border-t border-gray-100 dark:border-slate-700 flex justify-between items-center">
-          <button 
-            disabled={currentIndex === 0} 
-            onClick={() => {
-                setCurrentIndex(prev => prev - 1);
-                setQuestionStartTime(Date.now());
-            }}
-            className="px-8 py-4 flex items-center font-black text-gray-400 hover:text-blue-600 disabled:opacity-0 transition-all text-sm uppercase tracking-widest"
-          >
-             <ArrowLeft className="w-5 h-5 mr-3" /> Previous
-          </button>
+        {/* Main Quiz Card */}
+        <div className="flex-1 w-full bg-white dark:bg-slate-800 rounded-[3rem] shadow-2xl overflow-hidden border border-gray-100 dark:border-slate-700">
           
-          <div className="flex gap-4">
-             {/* Always show Submit Quiz button if user wants to finish early, or only at the end? 
-                 The user said: "before user clicking last question option submit button still of"
-                 I'll make it always visible but perhaps with a different style. */}
-             
-             {currentIndex === questions.length - 1 ? (
-               <button 
-                 onClick={submitQuiz} 
-                 disabled={isSubmitting || !answers[q.id]}
-                 className={`px-10 py-4 rounded-[1.5rem] font-black shadow-2xl flex items-center transition-all ${
-                   isSubmitting || !answers[q.id]
-                     ? 'bg-gray-200 text-gray-400 cursor-not-allowed shadow-none'
-                     : 'bg-gray-900 text-white shadow-gray-900/20 hover:bg-black hover:scale-105 active:scale-95'
-                 }`}
-               >
-                 {isSubmitting ? "Processing..." : "Finish Attempt"} <ArrowRight className="ml-3 w-5 h-5" />
-               </button>
-             ) : (
-               <>
-                 <button 
-                    onClick={() => setShowSubmitConfirm(true)}
-                    className="px-6 py-4 rounded-[1.5rem] text-gray-400 font-black hover:text-blue-600 transition-all text-xs uppercase tracking-widest"
+          {/* Header with Progress and Timer */}
+          <div className="p-10 pb-0 shrink-0">
+             <div className="flex justify-between items-center mb-10">
+                <div className="flex items-center gap-6">
+                   <div className="w-16 h-16 bg-blue-600 text-white rounded-3xl flex items-center justify-center font-black text-2xl shadow-xl shadow-blue-600/20">
+                      {currentIndex + 1}
+                   </div>
+                   <div>
+                      <h1 className="text-xl font-black text-gray-900 dark:text-white tracking-tight">{quizInfo.title}</h1>
+                      <div className="w-48 h-2 bg-gray-100 dark:bg-slate-900 rounded-full mt-2 overflow-hidden">
+                         <div className="h-full bg-blue-600 transition-all duration-500" style={{ width: `${((currentIndex+1)/questions.length)*100}%` }}></div>
+                      </div>
+                   </div>
+                </div>
+
+                 {isPractice ? (
+                   <div className="px-6 py-3 rounded-2xl bg-green-50 dark:bg-green-950/30 border-2 border-green-100 dark:border-green-900/50 text-green-700 dark:text-green-400 font-black flex items-center gap-2 text-xs uppercase tracking-widest shadow-sm">
+                     <span className="w-2.5 h-2.5 rounded-full bg-green-500 animate-pulse"></span>
+                     Practice Mode
+                   </div>
+                 ) : (
+                   timeLeft !== null && (
+                     <div className="flex items-center gap-4">
+                       {warnings > 0 && (
+                         <div className="px-4 py-2 bg-red-100 text-red-700 rounded-xl flex items-center font-black text-xs uppercase tracking-widest animate-pulse border border-red-200 shadow-sm">
+                           <AlertTriangle className="w-4 h-4 mr-2" /> {warnings}/3 Strikes
+                         </div>
+                       )}
+                       <div className={`px-6 py-3 rounded-2xl flex items-center gap-3 border-2 transition-colors duration-500 ${timeLeft < 60 ? 'bg-red-50 border-red-200 text-red-600 animate-pulse' : 'bg-blue-50 border-blue-100 text-blue-700'}`}>
+                          <Clock className="w-6 h-6" />
+                          <span className="text-2xl font-black tabular-nums">{formatTime(timeLeft)}</span>
+                       </div>
+                     </div>
+                   )
+                 )}
+             </div>
+          </div>
+
+          {/* Question Area */}
+          <div className="px-10 py-12">
+             <h2 className="text-4xl font-black text-gray-900 dark:text-white mb-12 leading-[1.1] tracking-tighter">
+                {q.question_text}
+             </h2>
+
+             <div className="grid sm:grid-cols-1 md:grid-cols-2 gap-5">
+               {['A', 'B', 'C', 'D'].map(opt => (
+                 <div 
+                   key={opt}
+                   onClick={() => selectOption(opt)}
+                   className={`group p-6 rounded-[2rem] border-2 flex items-center cursor-pointer transition-all duration-300 
+                    ${answers[q.id] === opt ? 'border-blue-600 bg-blue-50 dark:bg-blue-950/20 shadow-lg shadow-blue-600/5 border-transparent' : 'border-gray-100 dark:border-slate-700 hover:border-blue-200 hover:bg-gray-50/50 dark:bg-slate-900/50'}
+                   `}
                  >
-                    Submit Early
-                 </button>
+                   <div className={`w-12 h-12 rounded-2xl flex items-center justify-center font-black mr-5 transition-all duration-300 transform group-hover:scale-110 ${answers[q.id] === opt ? 'bg-blue-600 text-white shadow-lg' : 'bg-gray-100 dark:bg-slate-800 text-gray-400 group-hover:bg-blue-100 group-hover:text-blue-600'}`}>
+                      {opt}
+                   </div>
+                   <span className={`text-lg transition-all ${answers[q.id] === opt ? 'text-blue-905 dark:text-blue-200 font-black' : 'text-gray-650 dark:text-gray-400 font-bold'}`}>
+                      {q[`option_${opt.toLowerCase()}`]}
+                   </span>
+                 </div>
+               ))}
+             </div>
+          </div>
+
+          {/* Navigation & Submission Footer */}
+          <div className="p-10 bg-gray-50 dark:bg-slate-900 border-t border-gray-100 dark:border-slate-700 flex justify-between items-center">
+            <button 
+              disabled={currentIndex === 0} 
+              onClick={() => {
+                  setCurrentIndex(prev => prev - 1);
+                  setQuestionStartTime(Date.now());
+              }}
+              className="px-8 py-4 flex items-center font-black text-gray-400 hover:text-blue-600 disabled:opacity-0 transition-all text-sm uppercase tracking-widest"
+            >
+               <ArrowLeft className="w-5 h-5 mr-3" /> Previous
+            </button>
+            
+            <div className="flex gap-4">
+               {currentIndex === questions.length - 1 ? (
                  <button 
-                   disabled={!answers[q.id]}
-                   onClick={() => {
-                      setCurrentIndex(prev => prev + 1);
-                      setQuestionStartTime(Date.now());
-                   }}
-                   className={`px-10 py-4 rounded-[1.5rem] font-black shadow-xl flex items-center transition-all ${
-                      !answers[q.id] 
-                        ? 'bg-gray-200 text-gray-400 cursor-not-allowed shadow-none' 
-                        : 'bg-blue-600 text-white shadow-blue-600/20 hover:bg-blue-700 hover:scale-105 active:scale-95'
+                   onClick={submitQuiz} 
+                   disabled={isSubmitting || !answers[q.id]}
+                   className={`px-10 py-4 rounded-[1.5rem] font-black shadow-2xl flex items-center transition-all ${
+                     isSubmitting || !answers[q.id]
+                       ? 'bg-gray-200 text-gray-400 cursor-not-allowed shadow-none'
+                       : 'bg-gray-900 dark:bg-blue-600 text-white shadow-gray-900/20 hover:bg-black dark:hover:bg-blue-700 hover:scale-105 active:scale-95'
                    }`}
                  >
-                    Next Question <ArrowRight className="ml-3 w-5 h-5" />
+                   {isSubmitting ? "Processing..." : "Finish Attempt"} <ArrowRight className="ml-3 w-5 h-5" />
                  </button>
-               </>
-             )}
+               ) : (
+                 <>
+                   <button 
+                      onClick={() => setShowSubmitConfirm(true)}
+                      className="px-6 py-4 rounded-[1.5rem] text-gray-400 font-black hover:text-blue-600 transition-all text-xs uppercase tracking-widest"
+                   >
+                      Submit Early
+                   </button>
+                   <button 
+                     disabled={!answers[q.id]}
+                     onClick={() => {
+                        setCurrentIndex(prev => prev + 1);
+                        setQuestionStartTime(Date.now());
+                     }}
+                     className={`px-10 py-4 rounded-[1.5rem] font-black shadow-xl flex items-center transition-all ${
+                        !answers[q.id] 
+                          ? 'bg-gray-200 text-gray-400 cursor-not-allowed shadow-none' 
+                          : 'bg-blue-600 text-white shadow-blue-600/20 hover:bg-blue-700 hover:scale-105 active:scale-95'
+                     }`}
+                   >
+                      Next Question <ArrowRight className="ml-3 w-5 h-5" />
+                   </button>
+                 </>
+               )}
+            </div>
+          </div>
+
+        </div>
+
+        {/* Question Palette Sidebar */}
+        <div className="w-full lg:w-80 shrink-0 bg-white dark:bg-slate-800 rounded-[3rem] shadow-2xl border border-gray-100 dark:border-slate-700 p-8 flex flex-col">
+          <h3 className="text-lg font-black text-gray-900 dark:text-white mb-6 tracking-tight flex items-center">
+            <span className="w-2.5 h-2.5 rounded-full bg-blue-600 mr-2.5 animate-pulse"></span>
+            Question Palette
+          </h3>
+          
+          <div className="grid grid-cols-5 sm:grid-cols-6 md:grid-cols-8 lg:grid-cols-5 gap-2 max-h-[380px] overflow-y-auto pr-2 custom-scrollbar">
+            {questions.map((question, idx) => {
+              const isAnswered = !!answers[question.id];
+              const isCurrent = currentIndex === idx;
+              
+              // Determine difficulty
+              const diff = question.difficulty || (
+                idx < questions.length * 0.4 ? 'easy' :
+                idx < questions.length * 0.8 ? 'moderate' : 'hard'
+              );
+              
+              let btnClass = "";
+              if (isCurrent) {
+                btnClass = "bg-blue-600 text-white shadow-lg shadow-blue-600/30 ring-4 ring-blue-100 dark:ring-blue-900";
+              } else if (isAnswered) {
+                btnClass = "bg-green-500 text-white shadow-md shadow-green-500/20";
+              } else if (diff === 'easy') {
+                btnClass = "bg-emerald-50 dark:bg-emerald-950/20 text-emerald-600 dark:text-emerald-400 border border-emerald-100 dark:border-emerald-900/50 hover:bg-emerald-100 dark:hover:bg-emerald-900/50";
+              } else if (diff === 'moderate') {
+                btnClass = "bg-amber-50 dark:bg-amber-950/20 text-amber-600 dark:text-amber-400 border border-amber-100 dark:border-amber-900/50 hover:bg-amber-100 dark:hover:bg-amber-900/50";
+              } else {
+                btnClass = "bg-rose-50 dark:bg-rose-950/20 text-rose-600 dark:text-rose-400 border border-rose-100 dark:border-rose-900/50 hover:bg-rose-100 dark:hover:bg-rose-900/50";
+              }
+
+              return (
+                <button
+                  key={question.id}
+                  onClick={() => {
+                    setCurrentIndex(idx);
+                    setQuestionStartTime(Date.now());
+                  }}
+                  className={`w-9 h-9 rounded-xl font-extrabold text-xs flex items-center justify-center transition-all duration-200 hover:scale-105 active:scale-95 ${btnClass}`}
+                >
+                  {idx + 1}
+                </button>
+              );
+            })}
+          </div>
+
+          <div className="mt-8 pt-6 border-t border-gray-100 dark:border-slate-700 space-y-3 text-[10px] font-black text-gray-400 uppercase tracking-wider">
+            <div className="flex items-center gap-3">
+              <span className="w-4 h-4 rounded-lg bg-blue-600 ring-2 ring-blue-100 dark:ring-blue-900 shrink-0"></span>
+              <span>Current</span>
+            </div>
+            <div className="flex items-center gap-3">
+              <span className="w-4 h-4 rounded-lg bg-green-500 shrink-0"></span>
+              <span>Answered</span>
+            </div>
+            <div className="flex items-center gap-3">
+              <span className="w-4 h-4 rounded-lg bg-emerald-50 dark:bg-emerald-950/20 border border-emerald-100 dark:border-emerald-900/50 shrink-0"></span>
+              <span className="text-emerald-700 dark:text-emerald-450">Easy (Unvisited)</span>
+            </div>
+            <div className="flex items-center gap-3">
+              <span className="w-4 h-4 rounded-lg bg-amber-50 dark:bg-amber-950/20 border border-amber-100 dark:border-amber-900/50 shrink-0"></span>
+              <span className="text-amber-700 dark:text-amber-450">Moderate (Unvisited)</span>
+            </div>
+            <div className="flex items-center gap-3">
+              <span className="w-4 h-4 rounded-lg bg-rose-50 dark:bg-rose-950/20 border border-rose-100 dark:border-rose-900/50 shrink-0"></span>
+              <span className="text-rose-700 dark:text-rose-450">Hard (Unvisited)</span>
+            </div>
           </div>
         </div>
+
       </div>
       {/* Submit Early Confirmation Modal */}
       {showSubmitConfirm && (
-        <div className="fixed inset-0 z-50 flex items-center justify-center bg-gray-900 dark:bg-blue-600/80 backdrop-blur-sm p-4">
-          <div className="bg-white dark:bg-slate-800 rounded-[2rem] shadow-2xl p-8 max-w-sm w-full text-center border-4 border-white animate-in fade-in zoom-in duration-300">
-            <div className="w-20 h-20 bg-blue-50 text-blue-600 rounded-full flex items-center justify-center mx-auto mb-6">
+        <div className="fixed inset-0 z-50 flex items-center justify-center bg-gray-900/80 dark:bg-blue-600/80 backdrop-blur-sm p-4">
+          <div className="bg-white dark:bg-slate-800 rounded-[2rem] shadow-2xl p-8 max-w-sm w-full text-center border-4 border-white dark:border-slate-700 animate-in fade-in zoom-in duration-300">
+            <div className="w-20 h-20 bg-blue-50 dark:bg-slate-900 text-blue-600 dark:text-blue-400 rounded-full flex items-center justify-center mx-auto mb-6">
                <AlertCircle className="w-10 h-10" />
             </div>
             <h2 className="text-2xl font-black text-gray-900 dark:text-white mb-2 uppercase tracking-tight">Submit Early?</h2>
@@ -496,7 +611,7 @@ export default function QuizTakingPage() {
             <div className="flex gap-4">
               <button 
                 onClick={() => setShowSubmitConfirm(false)}
-                className="flex-1 py-4 rounded-xl font-bold text-gray-500 dark:text-gray-400 bg-gray-100 dark:bg-slate-800 hover:bg-gray-200 transition"
+                className="flex-1 py-4 rounded-xl font-bold text-gray-500 dark:text-gray-400 bg-gray-100 dark:bg-slate-800 hover:bg-gray-200 dark:hover:bg-slate-700 transition"
               >
                 Cancel
               </button>

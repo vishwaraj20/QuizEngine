@@ -182,7 +182,7 @@ app.get('/api/quizzes/:id/take', async (req, res) => {
   
   const { data: questions, error: qErr } = await supabase
     .from('questions')
-    .select('id, quiz_id, question_text, option_a, option_b, option_c, option_d')
+    .select('id, quiz_id, question_text, option_a, option_b, option_c, option_d, difficulty')
     .eq('quiz_id', quiz.id);
 
   if (qErr) return res.status(500).json({ error: qErr.message });

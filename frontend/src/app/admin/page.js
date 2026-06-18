@@ -32,9 +32,7 @@ Use exactly this JSON format:
 }
 
 Here is my raw data to parse:
-[PASTE YOUR RAW DATA HERE]`;
-
-const CODING_AI_PROMPT = `You are an expert technical content parser. Your task is to convert raw, unstructured coding problem descriptions into a highly structured, valid JSON file.
+[PASTE YOUR RAW DATA HERE]`;const CODING_AI_PROMPT = `You are an expert technical content parser. Your task is to convert raw, unstructured coding problem descriptions into a highly structured, valid JSON file.
 
 Follow these strict parsing instructions:
 1. **Title**: Extract a clear, concise title for the problem.
