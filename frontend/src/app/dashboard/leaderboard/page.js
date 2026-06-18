@@ -10,10 +10,10 @@ export default function LeaderboardPage() {
   const topStudents = [
     { rank: 1, name: "Arjun Verma", score: 9850, category: "UPSC", badges: ["Flawless", "Speed Demon"] },
     { rank: 2, name: "Neha Sharma", score: 9200, category: "GATE", badges: ["Consistent"] },
-    { rank: 3, name: "Ravi Kumar", score: 8900, category: "SSC", badges: ["Sharpshooter"] },
-    { rank: 4, name: "Priya Singh", score: 8450, category: "Banking", badges: [] },
+    { rank: 3, name: "Ravi Kumar", score: 8900, category: "MPSC", badges: ["Sharpshooter"] },
+    { rank: 4, name: "Priya Singh", score: 8450, category: "GATE", badges: [] },
     { rank: 5, name: "Amit Patel", score: 8100, category: "UPSC", badges: ["Night Owl"] },
-    { rank: 6, name: "Sneha Reddy", score: 7900, category: "Defence", badges: [] },
+    { rank: 6, name: "Sneha Reddy", score: 7900, category: "MPSC", badges: [] },
   ];
 
   return (
@@ -38,7 +38,7 @@ export default function LeaderboardPage() {
 
         {/* Filter Tabs */}
         <div className="flex bg-gray-200/50 p-1.5 rounded-2xl mb-12 max-w-md mx-auto">
-          {['global', 'upsc', 'gate', 'ssc'].map(tab => (
+          {['global', 'upsc', 'gate', 'mpsc'].map(tab => (
             <button 
               key={tab}
               onClick={() => setActiveTab(tab)}

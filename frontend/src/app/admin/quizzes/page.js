@@ -81,7 +81,7 @@ export default function AdminQuizzesPage() {
   };
 
   const CATEGORIES = [
-    'UPSC', 'MPSC', 'GATE', 'SSC', 'Railways', 'Banking', 'Defence',
+    'UPSC', 'MPSC', 'GATE',
     'Quantitative Aptitude', 'Logical Reasoning', 'Verbal Ability', 'General'
   ];
 

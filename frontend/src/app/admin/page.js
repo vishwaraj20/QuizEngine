@@ -35,7 +35,7 @@ Here is my raw data:
 [PASTE YOUR RAW DATA HERE]`;
 
 const EXAM_CATEGORIES = [
-  { group: 'Competitive Exams', items: ['UPSC', 'MPSC', 'GATE', 'SSC', 'Railways', 'Banking', 'Defence'] },
+  { group: 'Competitive Exams', items: ['UPSC', 'MPSC', 'GATE'] },
   { group: 'College Placement', items: ['Quantitative Aptitude', 'Logical Reasoning', 'Verbal Ability'] },
   { group: 'Other', items: ['General', 'Custom'] }
 ];
