@@ -79,27 +79,27 @@ export default function AuthPage() {
   };
 
   return (
-    <div className="min-h-[calc(100vh-4rem)] flex items-center justify-center bg-gray-50 p-6">
-      <div className="max-w-md w-full bg-white rounded-3xl shadow-xl border border-gray-100 overflow-hidden">
+    <div className="min-h-[calc(100vh-4rem)] flex items-center justify-center bg-gray-50 dark:bg-slate-900 p-6">
+      <div className="max-w-md w-full bg-white dark:bg-slate-800 rounded-3xl shadow-xl border border-gray-100 dark:border-slate-700 overflow-hidden">
         <div className="p-8 sm:p-10">
           <div className="text-center mb-8">
-            <h1 className="text-3xl font-extrabold text-gray-900 mb-2">{isLogin ? 'Welcome Back' : 'Create Account'}</h1>
-            <p className="text-gray-500">Sign in to your CampusQuest portal.</p>
+            <h1 className="text-3xl font-extrabold text-gray-900 dark:text-white mb-2">{isLogin ? 'Welcome Back' : 'Create Account'}</h1>
+            <p className="text-gray-500 dark:text-gray-400">Sign in to your CampusQuest portal.</p>
           </div>
 
           {/* Role Toggle */}
-          <div className="flex bg-gray-100 p-1 rounded-2xl mb-8">
+          <div className="flex bg-gray-100 dark:bg-slate-900/50 p-1 rounded-2xl mb-8">
             <button 
               type="button"
               onClick={() => setRole('student')}
-              className={`flex-1 py-2.5 rounded-xl text-sm font-semibold flex items-center justify-center transition-all ${role === 'student' ? 'bg-white text-blue-600 shadow-sm' : 'text-gray-500 hover:text-gray-700'}`}
+              className={`flex-1 py-2.5 rounded-xl text-sm font-semibold flex items-center justify-center transition-all ${role === 'student' ? 'bg-white dark:bg-slate-700 text-blue-600 dark:text-blue-400 shadow-sm' : 'text-gray-500 dark:text-gray-400 hover:text-gray-700 dark:hover:text-gray-300'}`}
             >
               <UserCircle className="w-4 h-4 mr-2"/> Student
             </button>
             <button 
               type="button"
               onClick={() => setRole('admin')}
-              className={`flex-1 py-2.5 rounded-xl text-sm font-semibold flex items-center justify-center transition-all ${role === 'admin' ? 'bg-white text-purple-600 shadow-sm' : 'text-gray-500 hover:text-gray-700'}`}
+              className={`flex-1 py-2.5 rounded-xl text-sm font-semibold flex items-center justify-center transition-all ${role === 'admin' ? 'bg-white dark:bg-slate-700 text-purple-600 dark:text-purple-400 shadow-sm' : 'text-gray-500 dark:text-gray-400 hover:text-gray-700 dark:hover:text-gray-300'}`}
             >
               <Shield className="w-4 h-4 mr-2"/> Admin
             </button>
@@ -108,12 +108,12 @@ export default function AuthPage() {
           <form onSubmit={handleSubmit} className="space-y-5">
             {!isLogin && (
               <div>
-                <label className="block text-sm font-medium text-gray-700 mb-1">Full Name</label>
+                <label className="block text-sm font-medium text-gray-700 dark:text-gray-300 mb-1">Full Name</label>
                 <input 
                   type="text" 
                   value={name}
                   onChange={e => setName(e.target.value)}
-                  className="w-full text-gray-900 bg-white placeholder-gray-400 border-gray-200 border rounded-xl px-4 py-3 focus:ring-2 focus:ring-blue-500 focus:border-transparent outline-none transition"
+                  className="w-full text-gray-900 dark:text-white bg-white dark:bg-slate-800 placeholder-gray-400 border-gray-200 dark:border-slate-700 border rounded-xl px-4 py-3 focus:ring-2 focus:ring-blue-500 focus:border-transparent outline-none transition"
                   placeholder="John Doe"
                   required
                 />
@@ -121,32 +121,32 @@ export default function AuthPage() {
             )}
             
             <div>
-              <label className="block text-sm font-medium text-gray-700 mb-1">Email Address</label>
+              <label className="block text-sm font-medium text-gray-700 dark:text-gray-300 mb-1">Email Address</label>
               <input 
                 type="email" 
                 value={email}
                 onChange={e => setEmail(e.target.value)}
-                className="w-full text-gray-900 bg-white placeholder-gray-400 border-gray-200 border rounded-xl px-4 py-3 focus:ring-2 focus:ring-blue-500 focus:border-transparent outline-none transition"
+                className="w-full text-gray-900 dark:text-white bg-white dark:bg-slate-800 placeholder-gray-400 border-gray-200 dark:border-slate-700 border rounded-xl px-4 py-3 focus:ring-2 focus:ring-blue-500 focus:border-transparent outline-none transition"
                 placeholder="you@college.edu"
                 required
               />
             </div>
             
             <div>
-              <label className="block text-sm font-medium text-gray-700 mb-1">Password</label>
+              <label className="block text-sm font-medium text-gray-700 dark:text-gray-300 mb-1">Password</label>
               <div className="relative">
                  <input 
                    type={showPassword ? "text" : "password"} 
                    value={password}
                    onChange={e => setPassword(e.target.value)}
-                   className="w-full text-gray-900 bg-white placeholder-gray-400 border-gray-200 border rounded-xl px-4 py-3 focus:ring-2 focus:ring-blue-500 focus:border-transparent outline-none transition"
+                   className="w-full text-gray-900 dark:text-white bg-white dark:bg-slate-800 placeholder-gray-400 border-gray-200 dark:border-slate-700 border rounded-xl px-4 py-3 focus:ring-2 focus:ring-blue-500 focus:border-transparent outline-none transition"
                    placeholder="••••••••"
                    required
                  />
                  <button 
                    type="button" 
                    onClick={() => setShowPassword(!showPassword)}
-                   className="absolute right-4 top-1/2 -translate-y-1/2 text-gray-400 hover:text-gray-600 focus:outline-none"
+                   className="absolute right-4 top-1/2 -translate-y-1/2 text-gray-400 hover:text-gray-600 dark:text-gray-400 focus:outline-none"
                  >
                    {showPassword ? <EyeOff className="w-5 h-5" /> : <Eye className="w-5 h-5" />}
                  </button>
@@ -170,8 +170,8 @@ export default function AuthPage() {
           </form>
         </div>
 
-        <div className="bg-gray-50 border-t border-gray-100 p-6 text-center">
-          <p className="text-sm text-gray-600">
+        <div className="bg-gray-50 dark:bg-slate-900 border-t border-gray-100 dark:border-slate-700 p-6 text-center">
+          <p className="text-sm text-gray-600 dark:text-gray-400">
             {isLogin ? "Don't have an account?" : "Already have an account?"}{' '}
             <button 
               onClick={() => setIsLogin(!isLogin)} 

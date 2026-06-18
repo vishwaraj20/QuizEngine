@@ -22,8 +22,10 @@ export default function QuizTakingPage() {
   const [warnings, setWarnings] = useState(0);
   const [questionStartTime, setQuestionStartTime] = useState(Date.now());
   const [cheatAlert, setCheatAlert] = useState(null); // Custom alert state
+  const [showSubmitConfirm, setShowSubmitConfirm] = useState(false);
 
   const timerRef = useRef(null);
+  const isSubmittingRef = useRef(false);
 
   useEffect(() => {
     fetch(`http://localhost:5000/api/quizzes/${id}/take`)
@@ -91,6 +93,7 @@ export default function QuizTakingPage() {
   }, [hasStarted, result]);
 
   const handleViolation = (reason) => {
+    if (isSubmittingRef.current) return;
     setWarnings(prev => {
        const newCount = prev + 1;
        if (newCount >= 3) {
@@ -163,10 +166,12 @@ export default function QuizTakingPage() {
 
   const submitQuiz = async () => {
     if (isSubmitting) return;
+    
+    isSubmittingRef.current = true;
+    setIsSubmitting(true);
+
     // Exit fullscreen elegantly if permitted
     try { if (document.fullscreenElement) await document.exitFullscreen(); } catch(e){}
-    
-    setIsSubmitting(true);
     
     const totalTime = quizInfo.time_limit * 60;
     const timeTaken = timeLeft !== null ? totalTime - timeLeft : 0;
@@ -201,6 +206,7 @@ export default function QuizTakingPage() {
 
   // Dedicated force submit for cheaters to bypass the React state lock
   const forceSubmit = async () => {
+     isSubmittingRef.current = true;
      try { if (document.fullscreenElement) await document.exitFullscreen(); } catch(e){}
      const totalTime = quizInfo.time_limit * 60;
      const timeTaken = timeLeft !== null ? totalTime - timeLeft : 0;
@@ -228,9 +234,9 @@ export default function QuizTakingPage() {
   };
 
   if (loading) return (
-    <div className="min-h-screen flex flex-col items-center justify-center bg-gray-50">
+    <div className="min-h-screen flex flex-col items-center justify-center bg-gray-50 dark:bg-slate-900">
        <div className="w-16 h-16 border-4 border-blue-600 border-t-transparent rounded-full animate-spin mb-4"></div>
-       <p className="text-gray-500 font-bold tracking-widest text-xs uppercase">Initialising Secure Environment...</p>
+       <p className="text-gray-500 dark:text-gray-400 font-bold tracking-widest text-xs uppercase">Initialising Secure Environment...</p>
     </div>
   );
   
@@ -238,24 +244,24 @@ export default function QuizTakingPage() {
 
   if (!hasStarted && !result) {
     return (
-      <div className="min-h-screen bg-gray-900 flex items-center justify-center p-6 text-center">
-         <div className="max-w-lg bg-white p-12 rounded-[3.5rem] shadow-2xl animate-in zoom-in duration-300">
-             <div className="w-24 h-24 bg-red-100 text-red-600 rounded-3xl flex items-center justify-center mx-auto mb-8 shadow-inner">
+      <div className="min-h-screen bg-gray-900 dark:bg-blue-600 flex items-center justify-center p-6 text-center">
+         <div className="max-w-lg bg-white dark:bg-slate-800 p-12 rounded-[3.5rem] shadow-2xl animate-in zoom-in duration-300">
+             <div className="w-24 h-24 bg-red-100 dark:bg-red-900/30 text-red-600 dark:text-red-400 rounded-3xl flex items-center justify-center mx-auto mb-8 shadow-inner">
                 <ShieldAlert className="w-12 h-12" />
              </div>
-             <h1 className="text-4xl font-black mb-4 tracking-tighter text-gray-900">Competitive Mode</h1>
-             <p className="text-gray-500 font-medium mb-8 leading-relaxed">This assessment is protected by an advanced Anti-Cheat engine. You are being monitored.</p>
+             <h1 className="text-4xl font-black mb-4 tracking-tighter text-gray-900 dark:text-white">Competitive Mode</h1>
+             <p className="text-gray-500 dark:text-gray-400 font-medium mb-8 leading-relaxed">This assessment is protected by an advanced Anti-Cheat engine. You are being monitored.</p>
              
-             <ul className="text-sm font-bold text-gray-700 text-left space-y-4 mb-10 bg-gray-50 p-8 rounded-3xl border border-gray-100">
+             <ul className="text-sm font-bold text-gray-700 dark:text-gray-300 text-left space-y-4 mb-10 bg-gray-50 dark:bg-slate-900 p-8 rounded-3xl border border-gray-100 dark:border-slate-700">
                 <li className="flex items-center"><span className="w-2 h-2 rounded-full bg-red-500 mr-4 shrink-0"></span> No tab switching or exiting fullscreen</li>
                 <li className="flex items-center"><span className="w-2 h-2 rounded-full bg-red-500 mr-4 shrink-0"></span> Copy-pasting text is strictly disabled</li>
                 <li className="flex items-center"><span className="w-2 h-2 rounded-full bg-red-500 mr-4 shrink-0"></span> Suspicious patterns (too fast) trigger alerts</li>
-                <li className="flex items-center text-red-600 mt-4 pt-4 border-t border-gray-200"><span className="w-2 h-2 rounded-full bg-red-600 mr-4 shrink-0"></span> 3 Warnings = Automatic Termination</li>
+                <li className="flex items-center text-red-600 mt-4 pt-4 border-t border-gray-200 dark:border-slate-700"><span className="w-2 h-2 rounded-full bg-red-600 mr-4 shrink-0"></span> 3 Warnings = Automatic Termination</li>
              </ul>
              
              <button 
                onClick={startQuiz}
-               className="w-full py-5 rounded-[2rem] bg-gray-900 text-white font-black hover:bg-black transition shadow-2xl shadow-gray-900/30 flex justify-center items-center hover:scale-105 active:scale-95"
+               className="w-full py-5 rounded-[2rem] bg-gray-900 dark:bg-blue-600 text-white font-black hover:bg-black transition shadow-2xl shadow-gray-900/30 flex justify-center items-center hover:scale-105 active:scale-95"
              >
                 <Maximize className="w-6 h-6 mr-3"/> Enter Fullscreen & Start
              </button>
@@ -268,18 +274,18 @@ export default function QuizTakingPage() {
     const passed = (result.score / result.total) * 100 >= quizInfo.pass_percent;
     return (
       <div className="max-w-4xl mx-auto p-6 md:p-12 mb-20 animate-in fade-in slide-in-from-bottom-4 duration-500">
-        <div className="bg-white rounded-[3rem] p-12 shadow-2xl shadow-blue-900/10 text-center mb-12 border border-gray-100">
-          <div className={`w-24 h-24 rounded-[2rem] flex items-center justify-center mx-auto mb-8 shadow-inner ${passed ? 'bg-green-50 text-green-500' : 'bg-red-50 text-red-500'}`}>
+        <div className="bg-white dark:bg-slate-800 rounded-[3rem] p-12 shadow-2xl shadow-blue-900/10 text-center mb-12 border border-gray-100 dark:border-slate-700">
+          <div className={`w-24 h-24 rounded-[2rem] flex items-center justify-center mx-auto mb-8 shadow-inner ${passed ? 'bg-green-50 dark:bg-green-900/30 text-green-500 dark:text-green-400' : 'bg-red-50 dark:bg-red-900/30 text-red-500 dark:text-red-400'}`}>
              {passed ? <CheckCircle className="w-12 h-12" /> : <XCircle className="w-12 h-12" />}
           </div>
-          <h1 className="text-5xl font-black mb-4 tracking-tighter text-gray-900">{passed ? "Mission Accomplished!" : "Assessment Failed"}</h1>
+          <h1 className="text-5xl font-black mb-4 tracking-tighter text-gray-900 dark:text-white">{passed ? "Mission Accomplished!" : "Assessment Failed"}</h1>
           <p className="text-xl text-gray-400 font-medium mb-8">Role: Candidate 001 &middot; Score Achieved</p>
-          <div className="inline-flex items-center gap-10 px-10 py-5 bg-gray-50 rounded-3xl border border-gray-100">
+          <div className="inline-flex items-center gap-10 px-10 py-5 bg-gray-50 dark:bg-slate-900 rounded-3xl border border-gray-100 dark:border-slate-700">
              <div className="text-left">
                 <p className="text-[10px] font-black text-gray-400 uppercase tracking-widest">Final Marks</p>
-                <p className="text-3xl font-black text-gray-900">{result.score}/{result.total}</p>
+                <p className="text-3xl font-black text-gray-900 dark:text-white">{result.score}/{result.total}</p>
              </div>
-             <div className="w-px h-10 bg-gray-200"></div>
+             <div className="w-px h-10 bg-gray-200 dark:bg-slate-700"></div>
              <div className="text-left">
                 <p className="text-[10px] font-black text-gray-400 uppercase tracking-widest">Mastery Rate</p>
                 <p className="text-3xl font-black text-blue-600">{Math.round((result.score/result.total)*100)}%</p>
@@ -288,16 +294,16 @@ export default function QuizTakingPage() {
         </div>
 
         <div className="space-y-6">
-          <h2 className="text-2xl font-black text-gray-900 mb-8 flex items-center"><AlertCircle className="w-6 h-6 mr-3 text-blue-600"/> Post-Assessment Review</h2>
+          <h2 className="text-2xl font-black text-gray-900 dark:text-white mb-8 flex items-center"><AlertCircle className="w-6 h-6 mr-3 text-blue-600"/> Post-Assessment Review</h2>
           {result.review.map((item, idx) => (
-            <div key={idx} className={`p-8 rounded-[2.5rem] border-2 transition hover:shadow-lg ${item.is_correct ? 'border-green-100 bg-white' : 'border-red-100 bg-white'}`}>
-              <div className="font-extrabold text-xl mb-6 text-gray-900 flex items-start">
+            <div key={idx} className={`p-8 rounded-[2.5rem] border-2 transition hover:shadow-lg ${item.is_correct ? 'border-green-100 dark:border-green-900/50 bg-white dark:bg-slate-800' : 'border-red-100 dark:border-red-900/50 bg-white dark:bg-slate-800'}`}>
+              <div className="font-extrabold text-xl mb-6 text-gray-900 dark:text-white flex items-start">
                  <span className={`w-10 h-10 shrink-0 inline-flex items-center justify-center rounded-xl mr-5 text-sm font-black shadow-sm ${item.is_correct ? 'bg-green-500 text-white' : 'bg-red-500 text-white'}`}>{idx + 1}</span>
                  {item.question_text}
               </div>
               
               <div className="grid md:grid-cols-2 gap-6 pl-14 mb-8">
-                <div className="p-4 bg-gray-50 rounded-2xl border border-gray-100">
+                <div className="p-4 bg-gray-50 dark:bg-slate-900 rounded-2xl border border-gray-100 dark:border-slate-700">
                    <p className="text-[10px] font-black text-gray-400 uppercase tracking-widest mb-1">Your response</p>
                    <p className={`font-bold ${item.is_correct ? 'text-green-600' : 'text-red-600'}`}>{item.selected_option || 'No Response'}</p>
                 </div>
@@ -318,7 +324,18 @@ export default function QuizTakingPage() {
         </div>
         
         <div className="mt-16 text-center">
-            <button onClick={() => router.push('/dashboard')} className="px-12 py-4 bg-gray-900 text-white rounded-[2rem] font-black shadow-2xl shadow-gray-900/20 hover:bg-black transition scale-up hover:scale-105">Return to Command Centre</button>
+            <button 
+              onClick={() => {
+                 if (quizInfo && quizInfo.category) {
+                    router.push(`/dashboard/category/${encodeURIComponent(quizInfo.category)}`);
+                 } else {
+                    router.push('/dashboard');
+                 }
+              }} 
+              className="px-12 py-4 bg-gray-900 dark:bg-blue-600 text-white rounded-[2rem] font-black shadow-2xl shadow-gray-900/20 hover:bg-black transition scale-up hover:scale-105"
+            >
+              Return to Modules
+            </button>
         </div>
       </div>
     );
@@ -327,16 +344,16 @@ export default function QuizTakingPage() {
   const q = questions[currentIndex];
   
   return (
-    <div className="min-h-screen bg-gray-50 flex items-center justify-center p-6 bg-[url('https://www.transparenttextures.com/patterns/cubes.png')] bg-fixed">
+    <div className="min-h-screen bg-gray-50 dark:bg-slate-900 flex items-center justify-center p-6 bg-[url('https://www.transparenttextures.com/patterns/cubes.png')] bg-fixed">
       {/* CUSTOM CHEAT WARNING MODAL */}
       {cheatAlert && (
-         <div className="fixed inset-0 z-[100] flex items-center justify-center bg-gray-900/90 backdrop-blur-sm p-4">
-            <div className="bg-white rounded-[2rem] p-10 max-w-md w-full text-center shadow-2xl border border-red-500 animate-in zoom-in duration-200">
+         <div className="fixed inset-0 z-[100] flex items-center justify-center bg-gray-900 dark:bg-blue-600/90 backdrop-blur-sm p-4">
+            <div className="bg-white dark:bg-slate-800 rounded-[2rem] p-10 max-w-md w-full text-center shadow-2xl border border-red-500 animate-in zoom-in duration-200">
                <div className="w-20 h-20 bg-red-100 text-red-600 rounded-full flex items-center justify-center mx-auto mb-6">
                   <AlertTriangle className="w-10 h-10" />
                </div>
-               <h2 className="text-3xl font-black text-gray-900 mb-4">{cheatAlert.title}</h2>
-               <p className="text-lg text-gray-600 mb-8 whitespace-pre-line font-medium leading-relaxed">
+               <h2 className="text-3xl font-black text-gray-900 dark:text-white mb-4">{cheatAlert.title}</h2>
+               <p className="text-lg text-gray-600 dark:text-gray-400 mb-8 whitespace-pre-line font-medium leading-relaxed">
                  {cheatAlert.message}
                </p>
                {!cheatAlert.fatal && (
@@ -351,7 +368,7 @@ export default function QuizTakingPage() {
          </div>
       )}
 
-      <div className="max-w-4xl w-full bg-white rounded-[3rem] shadow-2xl overflow-hidden border border-gray-100 animate-in zoom-in-95 duration-300">
+      <div className="max-w-4xl w-full bg-white dark:bg-slate-800 rounded-[3rem] shadow-2xl overflow-hidden border border-gray-100 dark:border-slate-700 animate-in zoom-in-95 duration-300">
         
         {/* Header with Progress and Timer */}
         <div className="p-10 pb-0 shrink-0">
@@ -361,8 +378,8 @@ export default function QuizTakingPage() {
                     {currentIndex + 1}
                  </div>
                  <div>
-                    <h1 className="text-xl font-black text-gray-900 tracking-tight">{quizInfo.title}</h1>
-                    <div className="w-48 h-2 bg-gray-100 rounded-full mt-2 overflow-hidden">
+                    <h1 className="text-xl font-black text-gray-900 dark:text-white tracking-tight">{quizInfo.title}</h1>
+                    <div className="w-48 h-2 bg-gray-100 dark:bg-slate-800 rounded-full mt-2 overflow-hidden">
                        <div className="h-full bg-blue-600 transition-all duration-500" style={{ width: `${((currentIndex+1)/questions.length)*100}%` }}></div>
                     </div>
                  </div>
@@ -386,7 +403,7 @@ export default function QuizTakingPage() {
 
         {/* Question Area */}
         <div className="px-10 py-12">
-           <h2 className="text-4xl font-black text-gray-900 mb-12 leading-[1.1] tracking-tighter">
+           <h2 className="text-4xl font-black text-gray-900 dark:text-white mb-12 leading-[1.1] tracking-tighter">
               {q.question_text}
            </h2>
 
@@ -396,13 +413,13 @@ export default function QuizTakingPage() {
                  key={opt}
                  onClick={() => selectOption(opt)}
                  className={`group p-6 rounded-[2rem] border-2 flex items-center cursor-pointer transition-all duration-300 
-                  ${answers[q.id] === opt ? 'border-blue-600 bg-blue-50 shadow-lg shadow-blue-600/5' : 'border-gray-100 hover:border-blue-200 hover:bg-gray-50/50'}
+                  ${answers[q.id] === opt ? 'border-blue-600 bg-blue-50 shadow-lg shadow-blue-600/5' : 'border-gray-100 dark:border-slate-700 hover:border-blue-200 hover:bg-gray-50/50 dark:bg-slate-900/50'}
                  `}
                >
-                 <div className={`w-12 h-12 rounded-2xl flex items-center justify-center font-black mr-5 transition-all duration-300 transform group-hover:scale-110 ${answers[q.id] === opt ? 'bg-blue-600 text-white shadow-lg' : 'bg-gray-100 text-gray-400 group-hover:bg-blue-100 group-hover:text-blue-600'}`}>
+                 <div className={`w-12 h-12 rounded-2xl flex items-center justify-center font-black mr-5 transition-all duration-300 transform group-hover:scale-110 ${answers[q.id] === opt ? 'bg-blue-600 text-white shadow-lg' : 'bg-gray-100 dark:bg-slate-800 text-gray-400 group-hover:bg-blue-100 group-hover:text-blue-600'}`}>
                     {opt}
                  </div>
-                 <span className={`text-lg transition-all ${answers[q.id] === opt ? 'text-blue-900 font-black' : 'text-gray-600 font-bold'}`}>
+                 <span className={`text-lg transition-all ${answers[q.id] === opt ? 'text-blue-900 font-black' : 'text-gray-600 dark:text-gray-400 font-bold'}`}>
                     {q[`option_${opt.toLowerCase()}`]}
                  </span>
                </div>
@@ -411,7 +428,7 @@ export default function QuizTakingPage() {
         </div>
 
         {/* Navigation & Submission Footer */}
-        <div className="p-10 bg-gray-50 border-t border-gray-100 flex justify-between items-center">
+        <div className="p-10 bg-gray-50 dark:bg-slate-900 border-t border-gray-100 dark:border-slate-700 flex justify-between items-center">
           <button 
             disabled={currentIndex === 0} 
             onClick={() => {
@@ -443,9 +460,7 @@ export default function QuizTakingPage() {
              ) : (
                <>
                  <button 
-                    onClick={() => {
-                        if(confirm("Submit quiz early?")) submitQuiz();
-                    }}
+                    onClick={() => setShowSubmitConfirm(true)}
                     className="px-6 py-4 rounded-[1.5rem] text-gray-400 font-black hover:text-blue-600 transition-all text-xs uppercase tracking-widest"
                  >
                     Submit Early
@@ -469,6 +484,35 @@ export default function QuizTakingPage() {
           </div>
         </div>
       </div>
+      {/* Submit Early Confirmation Modal */}
+      {showSubmitConfirm && (
+        <div className="fixed inset-0 z-50 flex items-center justify-center bg-gray-900 dark:bg-blue-600/80 backdrop-blur-sm p-4">
+          <div className="bg-white dark:bg-slate-800 rounded-[2rem] shadow-2xl p-8 max-w-sm w-full text-center border-4 border-white animate-in fade-in zoom-in duration-300">
+            <div className="w-20 h-20 bg-blue-50 text-blue-600 rounded-full flex items-center justify-center mx-auto mb-6">
+               <AlertCircle className="w-10 h-10" />
+            </div>
+            <h2 className="text-2xl font-black text-gray-900 dark:text-white mb-2 uppercase tracking-tight">Submit Early?</h2>
+            <p className="text-gray-500 dark:text-gray-400 font-medium mb-8 leading-relaxed">Are you sure you want to finish your attempt early? You cannot return to the quiz once submitted.</p>
+            <div className="flex gap-4">
+              <button 
+                onClick={() => setShowSubmitConfirm(false)}
+                className="flex-1 py-4 rounded-xl font-bold text-gray-500 dark:text-gray-400 bg-gray-100 dark:bg-slate-800 hover:bg-gray-200 transition"
+              >
+                Cancel
+              </button>
+              <button 
+                onClick={() => {
+                   setShowSubmitConfirm(false);
+                   submitQuiz();
+                }}
+                className="flex-1 py-4 rounded-xl font-bold text-white bg-blue-600 hover:bg-blue-700 shadow-lg shadow-blue-600/20 transition"
+              >
+                Submit
+              </button>
+            </div>
+          </div>
+        </div>
+      )}
     </div>
   );
 }

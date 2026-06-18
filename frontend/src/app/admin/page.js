@@ -89,9 +89,9 @@ const SSC_EXAMS = ['SSC CGL', 'SSC CHSL', 'SSC MTS', 'SSC GD', 'SSC Stenographer
 const QUIZ_MODES = ['PYQ Papers', 'Subject-wise', 'Topic-wise'];
 
 const DIFFICULTIES = [
-  { value: 'easy', label: 'Easy', color: 'bg-green-100 text-green-700 border-green-200' },
-  { value: 'moderate', label: 'Moderate', color: 'bg-orange-100 text-orange-700 border-orange-200' },
-  { value: 'hard', label: 'Hard', color: 'bg-red-100 text-red-700 border-red-200' }
+  { value: 'easy', label: 'Easy', color: 'bg-green-100 dark:bg-green-900/30 text-green-700 dark:text-green-400 border-green-200 dark:border-green-800/50' },
+  { value: 'moderate', label: 'Moderate', color: 'bg-orange-100 dark:bg-orange-900/30 text-orange-700 dark:text-orange-400 border-orange-200 dark:border-orange-800/50' },
+  { value: 'hard', label: 'Hard', color: 'bg-red-100 dark:bg-red-900/30 text-red-700 dark:text-red-400 border-red-200 dark:border-red-800/50' }
 ];
 
 export default function AdminUploadPage() {
@@ -101,6 +101,9 @@ export default function AdminUploadPage() {
   const [loading, setLoading] = useState(false);
   const [copied, setCopied] = useState(false);
   const [uploadMode, setUploadMode] = useState('quiz'); // 'quiz' or 'coding'
+  
+  const [pastedJson, setPastedJson] = useState("");
+  const [inputType, setInputType] = useState('file'); // 'file' or 'paste'
   
   const [title, setTitle] = useState("New Quiz");
   const [timeLimit, setTimeLimit] = useState(0);
@@ -139,19 +142,27 @@ export default function AdminUploadPage() {
   const handleFileChange = (e) => {
     if (e.target.files && e.target.files.length > 0) {
       setFile(e.target.files[0]);
+      setInputType('file');
       setErrors([]);
       setQuizData(null);
     }
   };
 
   const validateFile = async () => {
-    if (!file) return;
+    if (inputType === 'file' && !file) return;
+    if (inputType === 'paste' && !pastedJson.trim()) return;
+    
     setLoading(true);
     setErrors([]);
     setQuizData(null);
     
     const formData = new FormData();
-    formData.append('file', file);
+    if (inputType === 'file') {
+       formData.append('file', file);
+    } else {
+       const blob = new Blob([pastedJson], { type: 'application/json' });
+       formData.append('file', blob, 'pasted.json');
+    }
     
     const endpoint = uploadMode === 'coding' ? "http://localhost:5000/api/admin/coding-problems/validate" : "http://localhost:5000/api/admin/quiz/validate";
     try {
@@ -237,7 +248,7 @@ export default function AdminUploadPage() {
         <div className="flex justify-between items-center mb-6">
           <h1 className="text-3xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-blue-600 to-purple-600">Review & Publish {uploadMode === 'coding' ? 'Coding Problems' : 'Quiz'}</h1>
           <div className="flex space-x-4">
-            <button onClick={() => setQuizData(null)} className="px-5 py-2 rounded-lg bg-gray-200 text-gray-700 font-semibold hover:bg-gray-300 transition shadow">Cancel</button>
+            <button onClick={() => setQuizData(null)} className="px-5 py-2 rounded-lg bg-gray-200 text-gray-700 dark:text-gray-300 font-semibold hover:bg-gray-300 transition shadow">Cancel</button>
             <button onClick={publishQuiz} className="px-5 py-2 rounded-lg bg-blue-600 text-white font-semibold flex items-center hover:bg-blue-700 shadow-lg transition">
               {loading ? "Publishing..." : "Publish Quiz"} <Play className="ml-2 w-4 h-4"/>
             </button>
@@ -245,91 +256,91 @@ export default function AdminUploadPage() {
         </div>
         
         {/* Settings Panel */}
-        <div className="p-6 bg-white rounded-xl shadow-sm border border-gray-100 mb-8 flex flex-col space-y-4">
+        <div className="p-6 bg-white dark:bg-slate-800 rounded-xl shadow-sm border border-gray-100 dark:border-slate-700 mb-8 flex flex-col space-y-4">
            <h2 className="text-xl font-bold flex items-center"><Settings className="w-5 h-5 mr-2 text-gray-400" /> Quiz Settings</h2>
            <div className="grid grid-cols-2 gap-6">
              <div>
-               <label className="block text-sm font-medium text-gray-600 mb-1">Quiz Title</label>
+               <label className="block text-sm font-medium text-gray-600 dark:text-gray-400 mb-1">Quiz Title</label>
                <input value={title} onChange={e => setTitle(e.target.value)} className="w-full border rounded-lg p-2 focus:ring-2 focus:ring-blue-500 outline-none" />
              </div>
              <div>
-               <label className="block text-sm font-medium text-gray-600 mb-1">Category</label>
+               <label className="block text-sm font-medium text-gray-600 dark:text-gray-400 mb-1">Category</label>
                <select value={mainCategory} onChange={e => {
                  setMainCategory(e.target.value);
                  if (e.target.value === "Competitive Exams") setSubCategory(COMPETITIVE_EXAMS[0]);
                  else if (e.target.value === "Other") setSubCategory(OTHER_CATEGORIES[0]);
-               }} className="w-full border rounded-lg p-2 focus:ring-2 focus:ring-blue-500 outline-none bg-white mb-3">
+               }} className="w-full border rounded-lg p-2 focus:ring-2 focus:ring-blue-500 outline-none bg-white dark:bg-slate-800 mb-3">
                   {MAIN_CATEGORIES.map(cat => <option key={cat} value={cat}>{cat}</option>)}
                </select>
 
                {mainCategory === "College Placement" ? (
                  <div className="flex gap-2">
-                   <select value={company} onChange={e => setCompany(e.target.value)} className="flex-1 border rounded-lg p-2 focus:ring-2 focus:ring-blue-500 outline-none bg-white">
+                   <select value={company} onChange={e => setCompany(e.target.value)} className="flex-1 border rounded-lg p-2 focus:ring-2 focus:ring-blue-500 outline-none bg-white dark:bg-slate-800">
                       {PLACEMENT_COMPANIES.map(c => <option key={c} value={c}>{c}</option>)}
                    </select>
-                   <select value={topic} onChange={e => setTopic(e.target.value)} className="flex-1 border rounded-lg p-2 focus:ring-2 focus:ring-blue-500 outline-none bg-white">
+                   <select value={topic} onChange={e => setTopic(e.target.value)} className="flex-1 border rounded-lg p-2 focus:ring-2 focus:ring-blue-500 outline-none bg-white dark:bg-slate-800">
                       {PLACEMENT_TOPICS.map(t => <option key={t} value={t}>{t}</option>)}
                    </select>
                  </div>
                ) : mainCategory === "Competitive Exams" ? (
                  <div className="space-y-3">
-                   <select value={subCategory} onChange={e => setSubCategory(e.target.value)} className="w-full border rounded-lg p-2 focus:ring-2 focus:ring-blue-500 outline-none bg-white">
+                   <select value={subCategory} onChange={e => setSubCategory(e.target.value)} className="w-full border rounded-lg p-2 focus:ring-2 focus:ring-blue-500 outline-none bg-white dark:bg-slate-800">
                       {COMPETITIVE_EXAMS.map(item => <option key={item} value={item}>{item}</option>)}
                    </select>
                    <div className="flex gap-2">
-                     <select value={phase} onChange={e => setPhase(e.target.value)} className="flex-1 border rounded-lg p-2 focus:ring-2 focus:ring-blue-500 outline-none bg-white text-sm">
+                     <select value={phase} onChange={e => setPhase(e.target.value)} className="flex-1 border rounded-lg p-2 focus:ring-2 focus:ring-blue-500 outline-none bg-white dark:bg-slate-800 text-sm">
                         {(subCategory === 'SSC' ? SSC_PHASES : EXAM_PHASES).map(p => <option key={p} value={p}>{p}</option>)}
                      </select>
                      {subCategory === 'SSC' && (
-                       <select value={sscExam} onChange={e => setSscExam(e.target.value)} className="flex-1 border rounded-lg p-2 focus:ring-2 focus:ring-blue-500 outline-none bg-white text-sm">
+                       <select value={sscExam} onChange={e => setSscExam(e.target.value)} className="flex-1 border rounded-lg p-2 focus:ring-2 focus:ring-blue-500 outline-none bg-white dark:bg-slate-800 text-sm">
                           {SSC_EXAMS.map(e => <option key={e} value={e}>{e}</option>)}
                        </select>
                      )}
                    </div>
                    <div className="flex gap-2">
-                     <select value={quizMode} onChange={e => setQuizMode(e.target.value)} className="w-full border rounded-lg p-2 focus:ring-2 focus:ring-blue-500 outline-none bg-white text-sm">
+                     <select value={quizMode} onChange={e => setQuizMode(e.target.value)} className="w-full border rounded-lg p-2 focus:ring-2 focus:ring-blue-500 outline-none bg-white dark:bg-slate-800 text-sm">
                         {QUIZ_MODES.map(m => <option key={m} value={m}>{m}</option>)}
                      </select>
                    </div>
                    <div className="flex gap-2">
                      {quizMode !== 'PYQ Papers' && (
-                       <select value={subject} onChange={e => setSubject(e.target.value)} className="flex-[1.5] border rounded-lg p-2 focus:ring-2 focus:ring-blue-500 outline-none bg-white text-sm">
+                       <select value={subject} onChange={e => setSubject(e.target.value)} className="flex-[1.5] border rounded-lg p-2 focus:ring-2 focus:ring-blue-500 outline-none bg-white dark:bg-slate-800 text-sm">
                           {UPSC_SUBJECTS.map(s => <option key={s} value={s}>{s}</option>)}
                        </select>
                      )}
                      {quizMode === 'PYQ Papers' && (
-                       <input type="number" value={year} onChange={e => setYear(e.target.value)} placeholder="Year" className="flex-1 border rounded-lg p-2 focus:ring-2 focus:ring-blue-500 outline-none bg-white text-sm" />
+                       <input type="number" value={year} onChange={e => setYear(e.target.value)} placeholder="Year" className="flex-1 border rounded-lg p-2 focus:ring-2 focus:ring-blue-500 outline-none bg-white dark:bg-slate-800 text-sm" />
                      )}
                      {quizMode === 'Topic-wise' && (
-                       <input type="text" value={topic} onChange={e => setTopic(e.target.value)} placeholder="Topic Name" className="flex-[2] border rounded-lg p-2 focus:ring-2 focus:ring-blue-500 outline-none bg-white text-sm" />
+                       <input type="text" value={topic} onChange={e => setTopic(e.target.value)} placeholder="Topic Name" className="flex-[2] border rounded-lg p-2 focus:ring-2 focus:ring-blue-500 outline-none bg-white dark:bg-slate-800 text-sm" />
                      )}
                    </div>
                  </div>
                ) : (
-                 <select value={subCategory} onChange={e => setSubCategory(e.target.value)} className="w-full border rounded-lg p-2 focus:ring-2 focus:ring-blue-500 outline-none bg-white">
+                 <select value={subCategory} onChange={e => setSubCategory(e.target.value)} className="w-full border rounded-lg p-2 focus:ring-2 focus:ring-blue-500 outline-none bg-white dark:bg-slate-800">
                     {OTHER_CATEGORIES.map(item => <option key={item} value={item}>{item}</option>)}
                  </select>
                )}
              </div>
              <div>
-               <label className="block text-sm font-medium text-gray-600 mb-1">Difficulty Level</label>
+               <label className="block text-sm font-medium text-gray-600 dark:text-gray-400 mb-1">Difficulty Level</label>
                <div className="flex space-x-3">
                  {DIFFICULTIES.map(d => (
                     <button
                       key={d.value}
                       type="button"
                       onClick={() => setDifficulty(d.value)}
-                      className={`flex-1 py-2 rounded-lg text-sm font-bold border-2 transition ${difficulty === d.value ? d.color + ' border-current' : 'bg-gray-50 text-gray-400 border-gray-200 hover:bg-gray-100'}`}
+                      className={`flex-1 py-2 rounded-lg text-sm font-bold border-2 transition ${difficulty === d.value ? d.color + ' border-current' : 'bg-gray-50 dark:bg-slate-900 text-gray-400 border-gray-200 dark:border-slate-700 hover:bg-gray-100 dark:bg-slate-800'}`}
                     >{d.label}</button>
                  ))}
                </div>
              </div>
              <div>
-               <label className="block text-sm font-medium text-gray-600 mb-1">Time Limit (mins, 0 for infinite)</label>
+               <label className="block text-sm font-medium text-gray-600 dark:text-gray-400 mb-1">Time Limit (mins, 0 for infinite)</label>
                <input type="number" value={timeLimit} onChange={e => setTimeLimit(Number(e.target.value))} className="w-full border rounded-lg p-2 focus:ring-2 focus:ring-blue-500 outline-none" />
              </div>
              <div>
-               <label className="block text-sm font-medium text-gray-600 mb-1">Pass %</label>
+               <label className="block text-sm font-medium text-gray-600 dark:text-gray-400 mb-1">Pass %</label>
                <input type="number" value={passPercent} onChange={e => setPassPercent(Number(e.target.value))} className="w-full border rounded-lg p-2 focus:ring-2 focus:ring-blue-500 outline-none" />
              </div>
            </div>
@@ -341,19 +352,19 @@ export default function AdminUploadPage() {
                {quizData.problems?.length} Problems imported
              </h2>
              {quizData.problems?.map((p, idx) => (
-               <div key={idx} className="bg-white p-6 rounded-xl border border-gray-100 shadow-sm">
-                 <div className="font-bold text-xl text-gray-800 mb-2">{idx + 1}. {p.title}</div>
+               <div key={idx} className="bg-white dark:bg-slate-800 p-6 rounded-xl border border-gray-100 dark:border-slate-700 shadow-sm">
+                 <div className="font-bold text-xl text-gray-800 dark:text-gray-200 mb-2">{idx + 1}. {p.title}</div>
                  <div className="mb-4">
-                   <span className="px-2 py-1 text-xs font-bold uppercase rounded bg-gray-100 text-gray-600 mr-2">{p.difficulty}</span>
+                   <span className="px-2 py-1 text-xs font-bold uppercase rounded bg-gray-100 dark:bg-slate-800 text-gray-600 dark:text-gray-400 mr-2">{p.difficulty}</span>
                  </div>
-                 <div className="text-sm text-gray-600 mb-4 whitespace-pre-wrap">{p.description}</div>
-                 <div className="bg-gray-900 text-gray-300 p-4 rounded-lg font-mono text-xs whitespace-pre-wrap mb-4 overflow-auto">
+                 <div className="text-sm text-gray-600 dark:text-gray-400 mb-4 whitespace-pre-wrap">{p.description}</div>
+                 <div className="bg-gray-900 dark:bg-blue-600 text-gray-300 p-4 rounded-lg font-mono text-xs whitespace-pre-wrap mb-4 overflow-auto">
                    {p.starter_code}
                  </div>
-                 <h4 className="font-bold text-sm mb-2 text-gray-700">Test Cases ({p.test_cases?.length})</h4>
+                 <h4 className="font-bold text-sm mb-2 text-gray-700 dark:text-gray-300">Test Cases ({p.test_cases?.length})</h4>
                  <div className="grid grid-cols-2 gap-4">
                    {p.test_cases?.slice(0, 2).map((tc, tcIdx) => (
-                     <div key={tcIdx} className="bg-gray-50 border p-3 rounded-lg text-xs font-mono whitespace-pre-wrap">
+                     <div key={tcIdx} className="bg-gray-50 dark:bg-slate-900 border p-3 rounded-lg text-xs font-mono whitespace-pre-wrap">
                        <div className="text-gray-400 mb-1">Input:</div>
                        <div className="mb-2">{tc.input}</div>
                        <div className="text-gray-400 mb-1">Expected Output:</div>
@@ -370,15 +381,15 @@ export default function AdminUploadPage() {
                {quizData.questions?.length} Questions imported
              </h2>
           {quizData.questions.map((q, idx) => (
-            <div key={idx} className="bg-white p-6 rounded-xl border border-gray-100 shadow-sm">
-              <div className="font-semibold text-lg text-gray-800 mb-4 flex items-start">
+            <div key={idx} className="bg-white dark:bg-slate-800 p-6 rounded-xl border border-gray-100 dark:border-slate-700 shadow-sm">
+              <div className="font-semibold text-lg text-gray-800 dark:text-gray-200 mb-4 flex items-start">
                 <span className="bg-blue-100 text-blue-700 w-8 h-8 flex items-center justify-center rounded-lg mr-3 shrink-0">{idx + 1}</span>
                 {q.question}
               </div>
               <div className="grid grid-cols-2 gap-3 pl-11 mb-4">
                 {Object.keys(q.options).map(key => (
-                   <div key={key} className={`p-3 border rounded-xl flex items-center ${key === q.correct ? 'bg-green-50 border-green-200 text-green-800 font-medium' : 'bg-gray-50'}`}>
-                     <span className={`w-6 h-6 flex justify-center items-center rounded-md mr-3 font-bold ${key === q.correct ? 'bg-green-500 text-white' : 'bg-gray-300 text-gray-600'}`}>{key}</span>
+                   <div key={key} className={`p-3 border rounded-xl flex items-center ${key === q.correct ? 'bg-green-50 border-green-200 text-green-800 font-medium' : 'bg-gray-50 dark:bg-slate-900'}`}>
+                     <span className={`w-6 h-6 flex justify-center items-center rounded-md mr-3 font-bold ${key === q.correct ? 'bg-green-500 text-white' : 'bg-gray-300 text-gray-600 dark:text-gray-400'}`}>{key}</span>
                      {q.options[key]}
                    </div>
                 ))}
@@ -403,7 +414,7 @@ export default function AdminUploadPage() {
         <div className="bg-gray-200 p-1 rounded-xl flex">
           <button 
             onClick={() => setUploadMode('quiz')}
-            className={`px-6 py-2 rounded-lg font-bold text-sm transition-colors ${uploadMode === 'quiz' ? 'bg-white shadow text-blue-600' : 'text-gray-500 hover:text-gray-700'}`}
+            className={`px-6 py-2 rounded-lg font-bold text-sm transition-colors ${uploadMode === 'quiz' ? 'bg-white dark:bg-slate-800 shadow text-blue-600' : 'text-gray-500 dark:text-gray-400 hover:text-gray-700 dark:text-gray-300'}`}
           >
             MCQ Quiz
           </button>
@@ -415,7 +426,7 @@ export default function AdminUploadPage() {
                 setCompany(PLACEMENT_COMPANIES[0]);
               }
             }}
-            className={`px-6 py-2 rounded-lg font-bold text-sm transition-colors ${uploadMode === 'coding' ? 'bg-white shadow text-purple-600' : 'text-gray-500 hover:text-gray-700'}`}
+            className={`px-6 py-2 rounded-lg font-bold text-sm transition-colors ${uploadMode === 'coding' ? 'bg-white dark:bg-slate-800 shadow text-purple-600' : 'text-gray-500 dark:text-gray-400 hover:text-gray-700 dark:text-gray-300'}`}
           >
             Coding Problems
           </button>
@@ -423,14 +434,14 @@ export default function AdminUploadPage() {
       </div>
 
       <div className="text-center mb-10">
-        <h1 className="text-4xl font-extrabold text-gray-900 mb-3 tracking-tight">Create {uploadMode === 'coding' ? 'Coding Problems' : 'Quiz'} with AI</h1>
-        <p className="text-lg text-gray-500">Copy the prompt below, paste it into ChatGPT / Gemini / Claude with your raw data, then upload the JSON output.</p>
+        <h1 className="text-4xl font-extrabold text-gray-900 dark:text-white mb-3 tracking-tight">Create {uploadMode === 'coding' ? 'Coding Problems' : 'Quiz'} with AI</h1>
+        <p className="text-lg text-gray-500 dark:text-gray-400">Copy the prompt below, paste it into ChatGPT / Gemini / Claude with your raw data, then upload the JSON output.</p>
       </div>
 
       {/* Step 1: AI Prompt */}
       <div className="mb-10">
         <div className="flex items-center justify-between mb-4">
-          <h2 className="text-xl font-bold text-gray-900 flex items-center"><Sparkles className="w-5 h-5 mr-2 text-yellow-500"/>Step 1: Copy this Prompt for AI</h2>
+          <h2 className="text-xl font-bold text-gray-900 dark:text-white flex items-center"><Sparkles className="w-5 h-5 mr-2 text-yellow-500"/>Step 1: Copy this Prompt for AI</h2>
           <button
             onClick={copyPrompt}
             className={`flex items-center px-4 py-2 rounded-lg font-semibold text-sm transition shadow-sm ${copied ? 'bg-green-100 text-green-700 border border-green-200' : 'bg-gray-900 text-white hover:bg-gray-800'}`}
@@ -438,86 +449,86 @@ export default function AdminUploadPage() {
             {copied ? <><Check className="w-4 h-4 mr-2"/>Copied!</> : <><Copy className="w-4 h-4 mr-2"/>Copy Prompt</>}
           </button>
         </div>
-        <div className="bg-gray-900 text-gray-200 rounded-2xl p-6 font-mono text-sm leading-relaxed whitespace-pre-wrap max-h-80 overflow-y-auto border border-gray-700 shadow-inner">
+        <div className="bg-gray-900 dark:bg-blue-600 text-gray-200 rounded-2xl p-6 font-mono text-sm leading-relaxed whitespace-pre-wrap max-h-80 overflow-y-auto border border-gray-700 shadow-inner">
           {uploadMode === 'coding' ? CODING_AI_PROMPT : AI_PROMPT}
         </div>
       </div>
 
       {/* Step 2: Select Category & Difficulty */}
       <div className="mb-10">
-        <h2 className="text-xl font-bold text-gray-900 flex items-center mb-4"><Settings className="w-5 h-5 mr-2 text-blue-500"/>Step 2: Select Quiz Type & Difficulty</h2>
-        <div className="bg-white rounded-2xl p-6 border border-gray-100 shadow-sm">
+        <h2 className="text-xl font-bold text-gray-900 dark:text-white flex items-center mb-4"><Settings className="w-5 h-5 mr-2 text-blue-500"/>Step 2: Select Quiz Type & Difficulty</h2>
+        <div className="bg-white dark:bg-slate-800 rounded-2xl p-6 border border-gray-100 dark:border-slate-700 shadow-sm">
            <div className="grid md:grid-cols-2 gap-6">
               <div>
-                <label className="block text-sm font-medium text-gray-600 mb-2">Category</label>
+                <label className="block text-sm font-medium text-gray-600 dark:text-gray-400 mb-2">Category</label>
                 <select value={mainCategory} onChange={e => {
                   setMainCategory(e.target.value);
                   if (e.target.value === "Competitive Exams") setSubCategory(COMPETITIVE_EXAMS[0]);
                   else if (e.target.value === "Other") setSubCategory(OTHER_CATEGORIES[0]);
-                }} className="w-full border border-gray-200 rounded-xl px-4 py-3 focus:ring-2 focus:ring-blue-500 outline-none bg-white text-gray-800 font-medium mb-3">
+                }} className="w-full border border-gray-200 dark:border-slate-700 rounded-xl px-4 py-3 focus:ring-2 focus:ring-blue-500 outline-none bg-white dark:bg-slate-800 text-gray-800 dark:text-gray-200 font-medium mb-3">
                    {MAIN_CATEGORIES.filter(cat => uploadMode === 'quiz' || cat !== 'Competitive Exams').map(cat => <option key={cat} value={cat}>{cat}</option>)}
                 </select>
 
                 {mainCategory === "College Placement" ? (
                   <div className="flex gap-3">
-                    <select value={company} onChange={e => setCompany(e.target.value)} className="flex-1 border border-gray-200 rounded-xl px-4 py-3 focus:ring-2 focus:ring-blue-500 outline-none bg-white text-gray-800 font-medium">
+                    <select value={company} onChange={e => setCompany(e.target.value)} className="flex-1 border border-gray-200 dark:border-slate-700 rounded-xl px-4 py-3 focus:ring-2 focus:ring-blue-500 outline-none bg-white dark:bg-slate-800 text-gray-800 dark:text-gray-200 font-medium">
                        {PLACEMENT_COMPANIES.map(c => <option key={c} value={c}>{c}</option>)}
                     </select>
                     {uploadMode === 'quiz' && (
-                      <select value={topic} onChange={e => setTopic(e.target.value)} className="flex-1 border border-gray-200 rounded-xl px-4 py-3 focus:ring-2 focus:ring-blue-500 outline-none bg-white text-gray-800 font-medium">
+                      <select value={topic} onChange={e => setTopic(e.target.value)} className="flex-1 border border-gray-200 dark:border-slate-700 rounded-xl px-4 py-3 focus:ring-2 focus:ring-blue-500 outline-none bg-white dark:bg-slate-800 text-gray-800 dark:text-gray-200 font-medium">
                          {PLACEMENT_TOPICS.map(t => <option key={t} value={t}>{t}</option>)}
                       </select>
                     )}
                   </div>
                 ) : mainCategory === "Competitive Exams" ? (
                   <div className="space-y-3">
-                    <select value={subCategory} onChange={e => setSubCategory(e.target.value)} className="w-full border border-gray-200 rounded-xl px-4 py-3 focus:ring-2 focus:ring-blue-500 outline-none bg-white text-gray-800 font-medium">
+                    <select value={subCategory} onChange={e => setSubCategory(e.target.value)} className="w-full border border-gray-200 dark:border-slate-700 rounded-xl px-4 py-3 focus:ring-2 focus:ring-blue-500 outline-none bg-white dark:bg-slate-800 text-gray-800 dark:text-gray-200 font-medium">
                        {COMPETITIVE_EXAMS.map(item => <option key={item} value={item}>{item}</option>)}
                     </select>
                     <div className="flex gap-3">
-                      <select value={phase} onChange={e => setPhase(e.target.value)} className="flex-1 border border-gray-200 rounded-xl px-4 py-3 focus:ring-2 focus:ring-blue-500 outline-none bg-white text-gray-800 font-medium text-sm">
+                      <select value={phase} onChange={e => setPhase(e.target.value)} className="flex-1 border border-gray-200 dark:border-slate-700 rounded-xl px-4 py-3 focus:ring-2 focus:ring-blue-500 outline-none bg-white dark:bg-slate-800 text-gray-800 dark:text-gray-200 font-medium text-sm">
                          {(subCategory === 'SSC' ? SSC_PHASES : EXAM_PHASES).map(p => <option key={p} value={p}>{p}</option>)}
                       </select>
                       {subCategory === 'SSC' && (
-                        <select value={sscExam} onChange={e => setSscExam(e.target.value)} className="flex-1 border border-gray-200 rounded-xl px-4 py-3 focus:ring-2 focus:ring-blue-500 outline-none bg-white text-gray-800 font-medium text-sm">
+                        <select value={sscExam} onChange={e => setSscExam(e.target.value)} className="flex-1 border border-gray-200 dark:border-slate-700 rounded-xl px-4 py-3 focus:ring-2 focus:ring-blue-500 outline-none bg-white dark:bg-slate-800 text-gray-800 dark:text-gray-200 font-medium text-sm">
                            {SSC_EXAMS.map(e => <option key={e} value={e}>{e}</option>)}
                         </select>
                       )}
                     </div>
                       <div className="flex gap-3 mt-3 w-full">
-                       <select value={quizMode} onChange={e => setQuizMode(e.target.value)} className="w-full border border-gray-200 rounded-xl px-4 py-3 focus:ring-2 focus:ring-blue-500 outline-none bg-white text-gray-800 font-medium text-sm">
+                       <select value={quizMode} onChange={e => setQuizMode(e.target.value)} className="w-full border border-gray-200 dark:border-slate-700 rounded-xl px-4 py-3 focus:ring-2 focus:ring-blue-500 outline-none bg-white dark:bg-slate-800 text-gray-800 dark:text-gray-200 font-medium text-sm">
                           {QUIZ_MODES.map(m => <option key={m} value={m}>{m}</option>)}
                        </select>
                       </div>
                       <div className="flex gap-3 mt-3 w-full">
                         {quizMode !== 'PYQ Papers' && (
-                          <select value={subject} onChange={e => setSubject(e.target.value)} className="flex-[1.5] border border-gray-200 rounded-xl px-4 py-3 focus:ring-2 focus:ring-blue-500 outline-none bg-white text-gray-800 font-medium text-sm">
+                          <select value={subject} onChange={e => setSubject(e.target.value)} className="flex-[1.5] border border-gray-200 dark:border-slate-700 rounded-xl px-4 py-3 focus:ring-2 focus:ring-blue-500 outline-none bg-white dark:bg-slate-800 text-gray-800 dark:text-gray-200 font-medium text-sm">
                            {UPSC_SUBJECTS.map(s => <option key={s} value={s}>{s}</option>)}
                           </select>
                         )}
                         {quizMode === 'PYQ Papers' && (
-                          <input type="number" value={year} onChange={e => setYear(e.target.value)} placeholder="Year" className="flex-1 border border-gray-200 rounded-xl px-4 py-3 focus:ring-2 focus:ring-blue-500 outline-none bg-white text-gray-800 font-medium text-sm" />
+                          <input type="number" value={year} onChange={e => setYear(e.target.value)} placeholder="Year" className="flex-1 border border-gray-200 dark:border-slate-700 rounded-xl px-4 py-3 focus:ring-2 focus:ring-blue-500 outline-none bg-white dark:bg-slate-800 text-gray-800 dark:text-gray-200 font-medium text-sm" />
                         )}
                         {quizMode === 'Topic-wise' && (
-                          <input type="text" value={topic} onChange={e => setTopic(e.target.value)} placeholder="Topic Name" className="flex-[2] border border-gray-200 rounded-xl px-4 py-3 focus:ring-2 focus:ring-blue-500 outline-none bg-white text-gray-800 font-medium text-sm" />
+                          <input type="text" value={topic} onChange={e => setTopic(e.target.value)} placeholder="Topic Name" className="flex-[2] border border-gray-200 dark:border-slate-700 rounded-xl px-4 py-3 focus:ring-2 focus:ring-blue-500 outline-none bg-white dark:bg-slate-800 text-gray-800 dark:text-gray-200 font-medium text-sm" />
                         )}
                       </div>
                   </div>
                 ) : (
-                  <select value={subCategory} onChange={e => setSubCategory(e.target.value)} className="w-full border border-gray-200 rounded-xl px-4 py-3 focus:ring-2 focus:ring-blue-500 outline-none bg-white text-gray-800 font-medium">
+                  <select value={subCategory} onChange={e => setSubCategory(e.target.value)} className="w-full border border-gray-200 dark:border-slate-700 rounded-xl px-4 py-3 focus:ring-2 focus:ring-blue-500 outline-none bg-white dark:bg-slate-800 text-gray-800 dark:text-gray-200 font-medium">
                      {OTHER_CATEGORIES.map(item => <option key={item} value={item}>{item}</option>)}
                   </select>
                 )}
               </div>
               <div>
-                <label className="block text-sm font-medium text-gray-600 mb-2">Difficulty Level</label>
+                <label className="block text-sm font-medium text-gray-600 dark:text-gray-400 mb-2">Difficulty Level</label>
                 <div className="flex space-x-3">
                   {DIFFICULTIES.map(d => (
                      <button
                        key={d.value}
                        type="button"
                        onClick={() => setDifficulty(d.value)}
-                       className={`flex-1 py-3 rounded-xl text-sm font-bold border-2 transition ${difficulty === d.value ? d.color + ' border-current shadow-sm' : 'bg-gray-50 text-gray-400 border-gray-200 hover:bg-gray-100'}`}
+                       className={`flex-1 py-3 rounded-xl text-sm font-bold border-2 transition ${difficulty === d.value ? d.color + ' border-current shadow-sm' : 'bg-gray-50 dark:bg-slate-900 text-gray-400 border-gray-200 dark:border-slate-700 hover:bg-gray-100 dark:bg-slate-800'}`}
                      >{d.label}</button>
                   ))}
                 </div>
@@ -526,34 +537,52 @@ export default function AdminUploadPage() {
         </div>
       </div>
 
-      {/* Step 3: Upload JSON */}
+      {/* Step 3: Input JSON */}
       <div className="mb-10">
-        <h2 className="text-xl font-bold text-gray-900 flex items-center mb-4"><UploadCloud className="w-5 h-5 mr-2 text-purple-500"/>Step 3: Upload the AI-generated JSON</h2>
-        <div 
-          className="w-full bg-white border-2 border-dashed border-gray-300 rounded-3xl p-10 flex flex-col items-center justify-center transition hover:border-blue-500 hover:bg-blue-50/50 cursor-pointer"
-          onClick={() => fileInputRef.current.click()}
-        >
-          <UploadCloud className="w-16 h-16 text-blue-500 mb-4" />
-          <h3 className="text-xl font-bold mb-2">Drag JSON file here</h3>
-          <p className="text-gray-500 mb-6">or click to browse from your computer</p>
-          <div className="px-6 py-2 bg-gray-900 text-white rounded-full font-medium">Browse Files</div>
-          <input 
-            type="file" 
-            accept=".json" 
-            ref={fileInputRef} 
-            className="hidden" 
-            onChange={handleFileChange} 
-          />
+        <div className="flex justify-between items-center mb-4">
+           <h2 className="text-xl font-bold text-gray-900 dark:text-white flex items-center"><UploadCloud className="w-5 h-5 mr-2 text-purple-500"/>Step 3: Provide the AI-generated JSON</h2>
+           <div className="bg-gray-100 dark:bg-slate-800 p-1 rounded-lg flex text-sm font-semibold">
+              <button onClick={() => setInputType('file')} className={`px-4 py-1.5 rounded-md transition ${inputType === 'file' ? 'bg-white dark:bg-slate-800 shadow text-blue-600' : 'text-gray-500 dark:text-gray-400 hover:text-gray-700 dark:text-gray-300'}`}>Upload File</button>
+              <button onClick={() => setInputType('paste')} className={`px-4 py-1.5 rounded-md transition ${inputType === 'paste' ? 'bg-white dark:bg-slate-800 shadow text-blue-600' : 'text-gray-500 dark:text-gray-400 hover:text-gray-700 dark:text-gray-300'}`}>Paste JSON</button>
+           </div>
         </div>
+
+        {inputType === 'file' ? (
+          <div 
+            className="w-full bg-white dark:bg-slate-800 border-2 border-dashed border-gray-300 rounded-3xl p-10 flex flex-col items-center justify-center transition hover:border-blue-500 hover:bg-blue-50/50 cursor-pointer"
+            onClick={() => fileInputRef.current.click()}
+          >
+            <UploadCloud className="w-16 h-16 text-blue-500 mb-4" />
+            <h3 className="text-xl font-bold mb-2">Drag JSON file here</h3>
+            <p className="text-gray-500 dark:text-gray-400 mb-6">or click to browse from your computer</p>
+            <div className="px-6 py-2 bg-gray-900 dark:bg-blue-600 text-white rounded-full font-medium">Browse Files</div>
+            <input 
+              type="file" 
+              accept=".json" 
+              ref={fileInputRef} 
+              className="hidden" 
+              onChange={handleFileChange} 
+            />
+          </div>
+        ) : (
+          <div className="bg-white dark:bg-slate-800 rounded-3xl border border-gray-200 dark:border-slate-700 overflow-hidden shadow-sm">
+             <textarea 
+               value={pastedJson}
+               onChange={(e) => { setPastedJson(e.target.value); setErrors([]); setQuizData(null); }}
+               placeholder="Paste your JSON here..."
+               className="w-full h-64 p-6 font-mono text-sm resize-y outline-none"
+             ></textarea>
+          </div>
+        )}
       </div>
 
-      {file && (
-        <div className="mb-8 w-full bg-white p-4 rounded-2xl shadow-sm border border-gray-100 flex items-center justify-between">
+      {((inputType === 'file' && file) || (inputType === 'paste' && pastedJson.trim())) && (
+        <div className="mb-8 w-full bg-white dark:bg-slate-800 p-4 rounded-2xl shadow-sm border border-gray-100 dark:border-slate-700 flex items-center justify-between">
           <div className="flex items-center space-x-4">
             <div className="bg-blue-100 p-3 rounded-xl"><FileJson className="w-6 h-6 text-blue-600" /></div>
             <div>
-              <p className="font-semibold text-gray-800">{file.name}</p>
-              <p className="text-sm text-gray-500">{(file.size / 1024).toFixed(1)} KB &middot; {computedCategory} &middot; {difficulty}</p>
+              <p className="font-semibold text-gray-800 dark:text-gray-200">{inputType === 'file' ? file.name : 'Pasted JSON Data'}</p>
+              <p className="text-sm text-gray-500 dark:text-gray-400">{inputType === 'file' ? `${(file.size / 1024).toFixed(1)} KB` : `${pastedJson.length} chars`} &middot; {computedCategory} &middot; {difficulty}</p>
             </div>
           </div>
           <button 

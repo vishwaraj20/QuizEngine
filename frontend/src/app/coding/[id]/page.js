@@ -94,16 +94,16 @@ export default function CodingWorkspacePage() {
     }
   };
 
-  if (loading) return <div className="min-h-screen flex items-center justify-center font-bold text-gray-500" style={{ backgroundColor: '#0f172a' }}>Loading Workspace...</div>;
+  if (loading) return <div className="min-h-screen flex items-center justify-center font-bold text-gray-500 dark:text-gray-400" style={{ backgroundColor: '#0f172a' }}>Loading Workspace...</div>;
   if (error) return <div className="min-h-screen flex items-center justify-center font-bold text-red-500" style={{ backgroundColor: '#0f172a' }}>{error}</div>;
 
   return (
     <div className="flex h-[calc(100vh-64px)] text-gray-300 font-sans p-4 gap-4 overflow-hidden" style={{ backgroundColor: '#0f172a' }}>
       
       {/* LEFT PANEL: Problem Description */}
-      <div className="w-[35%] flex flex-col bg-white/[0.02] border border-white/5 rounded-2xl overflow-hidden shadow-2xl backdrop-blur-xl">
-         <div className="p-4 border-b border-white/5 bg-white/[0.01] flex flex-col gap-3">
-            <Link href={`/dashboard/company/${problem?.company || 'TCS'}/coding`} className="text-gray-500 hover:text-white flex items-center gap-2 text-xs font-bold uppercase tracking-widest transition-colors w-fit">
+      <div className="w-[35%] flex flex-col bg-white dark:bg-slate-800/[0.02] border border-white/5 rounded-2xl overflow-hidden shadow-2xl backdrop-blur-xl">
+         <div className="p-4 border-b border-white/5 bg-white dark:bg-slate-800/[0.01] flex flex-col gap-3">
+            <Link href={`/dashboard/company/${problem?.company || 'TCS'}/coding`} className="text-gray-500 dark:text-gray-400 hover:text-white flex items-center gap-2 text-xs font-bold uppercase tracking-widest transition-colors w-fit">
               <ArrowLeft className="w-4 h-4" /> Back to {problem?.company || 'TCS'} Problems
             </Link>
             <div className="flex items-center justify-between">
@@ -133,8 +133,8 @@ export default function CodingWorkspacePage() {
       <div className="w-[65%] flex flex-col gap-4 h-full">
          
          {/* Top section: Editor */}
-         <div className="flex-1 flex flex-col bg-white/[0.02] border border-white/5 rounded-2xl overflow-hidden shadow-2xl backdrop-blur-xl">
-           <div className="h-16 border-b border-white/5 bg-white/[0.01] flex items-center justify-between px-5">
+         <div className="flex-1 flex flex-col bg-white dark:bg-slate-800/[0.02] border border-white/5 rounded-2xl overflow-hidden shadow-2xl backdrop-blur-xl">
+           <div className="h-16 border-b border-white/5 bg-white dark:bg-slate-800/[0.01] flex items-center justify-between px-5">
               <div className="flex items-center gap-4">
                  <select 
                    value={language} 
@@ -145,7 +145,7 @@ export default function CodingWorkspacePage() {
                    <option value="python" className="bg-slate-800 text-white">Python 3</option>
                    <option value="cpp" className="bg-slate-800 text-white">C++</option>
                  </select>
-                 <button onClick={() => setCode(problem.starter_code || '')} className="text-gray-500 hover:text-gray-200 text-sm flex items-center gap-1.5 transition-colors">
+                 <button onClick={() => setCode(problem.starter_code || '')} className="text-gray-500 dark:text-gray-400 hover:text-gray-200 text-sm flex items-center gap-1.5 transition-colors">
                    <RefreshCw className="w-3.5 h-3.5" /> Reset
                  </button>
               </div>
@@ -153,7 +153,7 @@ export default function CodingWorkspacePage() {
                 <button 
                   onClick={handleRunCode}
                   disabled={running || submitting}
-                  className="bg-white/5 hover:bg-white/10 border border-white/10 text-gray-200 font-medium py-2 px-5 rounded-lg text-sm flex items-center gap-2 transition-all disabled:opacity-50"
+                  className="bg-white dark:bg-slate-800/5 hover:bg-white dark:bg-slate-800/10 border border-white/10 text-gray-200 font-medium py-2 px-5 rounded-lg text-sm flex items-center gap-2 transition-all disabled:opacity-50"
                 >
                    {running ? <RefreshCw className="w-4 h-4 animate-spin" /> : <Play className="w-4 h-4 text-emerald-400" />} 
                    {running ? 'Running...' : 'Run Code'}
@@ -181,23 +181,23 @@ export default function CodingWorkspacePage() {
          </div>
 
          {/* Bottom section: Tabs for Input / Output / Results */}
-         <div className="h-[35%] flex flex-col bg-white/[0.02] border border-white/5 rounded-2xl overflow-hidden shadow-2xl backdrop-blur-xl">
-            <div className="flex items-center border-b border-white/5 bg-white/[0.01] px-2 pt-2">
+         <div className="h-[35%] flex flex-col bg-white dark:bg-slate-800/[0.02] border border-white/5 rounded-2xl overflow-hidden shadow-2xl backdrop-blur-xl">
+            <div className="flex items-center border-b border-white/5 bg-white dark:bg-slate-800/[0.01] px-2 pt-2">
                <button 
                  onClick={() => setActiveTab('input')}
-                 className={`px-4 py-3 text-xs font-bold uppercase tracking-widest flex items-center gap-2 border-b-2 transition-colors ${activeTab === 'input' ? 'border-indigo-500 text-indigo-400' : 'border-transparent text-gray-500 hover:text-gray-300'}`}
+                 className={`px-4 py-3 text-xs font-bold uppercase tracking-widest flex items-center gap-2 border-b-2 transition-colors ${activeTab === 'input' ? 'border-indigo-500 text-indigo-400' : 'border-transparent text-gray-500 dark:text-gray-400 hover:text-gray-300'}`}
                >
                  <Terminal className="w-4 h-4" /> Custom Input
                </button>
                <button 
                  onClick={() => setActiveTab('output')}
-                 className={`px-4 py-3 text-xs font-bold uppercase tracking-widest flex items-center gap-2 border-b-2 transition-colors ${activeTab === 'output' ? 'border-indigo-500 text-indigo-400' : 'border-transparent text-gray-500 hover:text-gray-300'}`}
+                 className={`px-4 py-3 text-xs font-bold uppercase tracking-widest flex items-center gap-2 border-b-2 transition-colors ${activeTab === 'output' ? 'border-indigo-500 text-indigo-400' : 'border-transparent text-gray-500 dark:text-gray-400 hover:text-gray-300'}`}
                >
                  <Code2 className="w-4 h-4" /> Console
                </button>
                <button 
                  onClick={() => setActiveTab('results')}
-                 className={`px-4 py-3 text-xs font-bold uppercase tracking-widest flex items-center gap-2 border-b-2 transition-colors ${activeTab === 'results' ? 'border-indigo-500 text-indigo-400' : 'border-transparent text-gray-500 hover:text-gray-300'}`}
+                 className={`px-4 py-3 text-xs font-bold uppercase tracking-widest flex items-center gap-2 border-b-2 transition-colors ${activeTab === 'results' ? 'border-indigo-500 text-indigo-400' : 'border-transparent text-gray-500 dark:text-gray-400 hover:text-gray-300'}`}
                >
                  <Beaker className="w-4 h-4" /> Test Results
                </button>
@@ -233,7 +233,7 @@ export default function CodingWorkspacePage() {
                {/* Console Output Tab */}
                {activeTab === 'output' && (
                  <div className="w-full h-full p-5 overflow-y-auto font-mono text-[13px] whitespace-pre-wrap text-gray-300 custom-scrollbar">
-                    {output || <span className="text-gray-600">Run your code to see the output here.</span>}
+                    {output || <span className="text-gray-600 dark:text-gray-400">Run your code to see the output here.</span>}
                  </div>
                )}
 
@@ -241,7 +241,7 @@ export default function CodingWorkspacePage() {
                {activeTab === 'results' && (
                  <div className="w-full h-full p-5 overflow-y-auto custom-scrollbar">
                     {!submitResults ? (
-                      <span className="text-gray-600 font-mono text-[13px]">Submit your code to see test case results.</span>
+                      <span className="text-gray-600 dark:text-gray-400 font-mono text-[13px]">Submit your code to see test case results.</span>
                     ) : submitResults.error ? (
                       <div className="text-red-400 font-mono text-[13px] bg-red-500/10 p-4 rounded-lg border border-red-500/20 whitespace-pre-wrap">
                         {submitResults.error}
@@ -273,11 +273,11 @@ export default function CodingWorkspacePage() {
                                {!tc.passed && (
                                  <div className="grid grid-cols-2 gap-4 mt-4 font-mono text-xs">
                                     <div className="bg-black/40 rounded-lg p-3 border border-white/5">
-                                      <div className="text-gray-500 mb-1 uppercase tracking-wider text-[10px] font-bold">Input</div>
+                                      <div className="text-gray-500 dark:text-gray-400 mb-1 uppercase tracking-wider text-[10px] font-bold">Input</div>
                                       <div className="text-gray-300 whitespace-pre-wrap">{tc.input || 'None'}</div>
                                     </div>
                                     <div className="bg-black/40 rounded-lg p-3 border border-white/5">
-                                      <div className="text-gray-500 mb-1 uppercase tracking-wider text-[10px] font-bold">Expected Output</div>
+                                      <div className="text-gray-500 dark:text-gray-400 mb-1 uppercase tracking-wider text-[10px] font-bold">Expected Output</div>
                                       <div className="text-gray-300 whitespace-pre-wrap">{tc.expectedOutput || 'None'}</div>
                                     </div>
                                     <div className="col-span-2 bg-black/40 rounded-lg p-3 border border-red-500/20">

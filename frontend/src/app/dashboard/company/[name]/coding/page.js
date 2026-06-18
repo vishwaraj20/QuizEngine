@@ -33,7 +33,7 @@ export default function CodingProblemListPage() {
   };
 
   if (loading) {
-    return <div className="min-h-screen flex justify-center items-center text-xl font-bold text-gray-500">Loading Coding Challenges...</div>;
+    return <div className="min-h-screen flex justify-center items-center text-xl font-bold text-gray-500 dark:text-gray-400">Loading Coding Challenges...</div>;
   }
 
   if (error) {
@@ -41,34 +41,34 @@ export default function CodingProblemListPage() {
   }
 
   return (
-    <div className="min-h-screen bg-gray-50/50 p-6 md:p-12">
+    <div className="min-h-screen bg-gray-50/50 dark:bg-slate-900/50 p-6 md:p-12">
       <div className="max-w-6xl mx-auto">
         <div className="flex flex-col md:flex-row justify-between items-end md:items-center mb-10 gap-6">
            <div className="flex items-center gap-6">
-              <div className="w-24 h-24 bg-white rounded-[2rem] shadow-xl flex items-center justify-center text-4xl border border-gray-100">
+              <div className="w-24 h-24 bg-white dark:bg-slate-800 rounded-[2rem] shadow-xl flex items-center justify-center text-4xl border border-gray-100 dark:border-slate-700">
                  💻
               </div>
               <div>
                  <Link href={`/dashboard/company/${encodeURIComponent(companyName)}`} className="text-blue-600 font-bold text-sm flex items-center gap-1 hover:underline mb-2">
                     <ArrowLeft className="w-3 h-3" /> Back to {companyName} Tracks
                  </Link>
-                 <h1 className="text-5xl font-black text-gray-900 tracking-tighter uppercase">{companyName}</h1>
-                 <p className="text-gray-500 font-medium mt-1">Technical Interview Coding Problems</p>
+                 <h1 className="text-5xl font-black text-gray-900 dark:text-white tracking-tighter uppercase">{companyName}</h1>
+                 <p className="text-gray-500 dark:text-gray-400 font-medium mt-1">Technical Interview Coding Problems</p>
               </div>
            </div>
         </div>
 
         {problems.length === 0 ? (
-          <div className="bg-white border-2 border-dashed border-gray-200 rounded-3xl p-16 text-center">
+          <div className="bg-white dark:bg-slate-800 border-2 border-dashed border-gray-200 dark:border-slate-700 rounded-3xl p-16 text-center">
              <div className="text-6xl mb-4 opacity-50">📂</div>
-             <h3 className="text-xl font-bold text-gray-800 mb-2">No problems found</h3>
-             <p className="text-gray-500">We couldn't find any coding problems for {companyName} yet.</p>
+             <h3 className="text-xl font-bold text-gray-800 dark:text-gray-200 mb-2">No problems found</h3>
+             <p className="text-gray-500 dark:text-gray-400">We couldn't find any coding problems for {companyName} yet.</p>
           </div>
         ) : (
-          <div className="bg-white rounded-3xl shadow-sm border border-gray-100 overflow-hidden">
+          <div className="bg-white dark:bg-slate-800 rounded-3xl shadow-sm border border-gray-100 dark:border-slate-700 overflow-hidden">
             <table className="w-full text-left border-collapse">
               <thead>
-                <tr className="bg-gray-50 border-b border-gray-100 text-xs uppercase tracking-widest text-gray-400">
+                <tr className="bg-gray-50 dark:bg-slate-900 border-b border-gray-100 dark:border-slate-700 text-xs uppercase tracking-widest text-gray-400">
                   <th className="py-4 px-6 font-bold w-16 text-center">Status</th>
                   <th className="py-4 px-6 font-bold">Title</th>
                   <th className="py-4 px-6 font-bold w-32">Difficulty</th>
@@ -79,7 +79,7 @@ export default function CodingProblemListPage() {
                 {problems.map(prob => {
                   const isSolved = solved.includes(Number(prob.id));
                   return (
-                    <tr key={prob.id} className="hover:bg-gray-50/50 transition-colors group">
+                    <tr key={prob.id} className="hover:bg-gray-50/50 dark:bg-slate-900/50 transition-colors group">
                       <td className="py-5 px-6 text-center">
                         {isSolved ? (
                           <CheckCircle2 className="w-5 h-5 text-emerald-500 mx-auto" />
@@ -88,7 +88,7 @@ export default function CodingProblemListPage() {
                         )}
                       </td>
                       <td className="py-5 px-6">
-                        <Link href={`/coding/${prob.id}`} target="_blank" className="text-lg font-bold text-gray-900 hover:text-blue-600 transition-colors">
+                        <Link href={`/coding/${prob.id}`} target="_blank" className="text-lg font-bold text-gray-900 dark:text-white hover:text-blue-600 transition-colors">
                           {prob.title}
                         </Link>
                       </td>
@@ -106,7 +106,7 @@ export default function CodingProblemListPage() {
                            target="_blank"
                            className={`inline-flex items-center justify-center px-4 py-2 rounded-xl font-bold text-sm transition-all ${
                              isSolved 
-                               ? 'bg-gray-100 text-gray-700 hover:bg-gray-200' 
+                               ? 'bg-gray-100 dark:bg-slate-800 text-gray-700 dark:text-gray-300 hover:bg-gray-200' 
                                : 'bg-gray-900 text-white hover:bg-purple-600'
                            }`}
                         >
