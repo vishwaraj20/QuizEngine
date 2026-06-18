@@ -13,6 +13,8 @@ export default function CategoryQuizzesPage() {
   const [leaderboard, setLeaderboard] = useState([]);
 
   const pyqQuizzes = quizzes.filter(q => q.title.includes('UPSC Prelims 2')).sort((a, b) => b.title.localeCompare(a.title));
+  const gspyqQuizzes = pyqQuizzes.filter(q => q.title.includes('GS Paper') || q.subject === 'General Studies' || (!q.title.toLowerCase().includes('csat') && q.title.includes('UPSC Prelims 2')));
+  const csatpyqQuizzes = pyqQuizzes.filter(q => q.title.toLowerCase().includes('csat') || q.subject === 'CSAT');
   const practiceQuizzes = quizzes.filter(q => !q.title.includes('UPSC Prelims 2'));
 
   const stage2Quizzes = practiceQuizzes.filter(q => 
@@ -377,7 +379,7 @@ export default function CategoryQuizzesPage() {
                   <span className="text-2xl">🎯</span>
                   <div>
                     <h3 className="text-2xl font-black text-gray-900 dark:text-white tracking-tight">1. Prelims Stage (Official PYQs)</h3>
-                    <p className="text-gray-400 font-medium text-xs uppercase tracking-wider mt-0.5">Objective Type Multiple Choice Questions</p>
+                    <p className="text-gray-400 font-medium text-xs uppercase tracking-wider mt-0.5">Objective Type Multiple Choice Questions · {pyqQuizzes.length} papers available</p>
                   </div>
                 </div>
 
@@ -385,40 +387,52 @@ export default function CategoryQuizzesPage() {
                   {/* A. GS Paper 1 */}
                   <div>
                     <h4 className="text-lg font-black text-gray-800 dark:text-gray-200 mb-6 flex items-center gap-2">
-                      <span className="w-2.5 h-2.5 rounded-full bg-blue-500"></span> A. GS Paper 1
+                      <span className="w-2.5 h-2.5 rounded-full bg-blue-500"></span> A. GS Paper 1 · 100 Questions Each
                     </h4>
-                    <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-                      {pyqQuizzes.map(quiz => (
-                        <div key={quiz.id} className="bg-gradient-to-br from-slate-900 via-indigo-950 to-slate-900 p-7 rounded-[2rem] border border-indigo-500/20 shadow-md hover:shadow-xl hover:-translate-y-1 transition-all group flex flex-col justify-between text-white relative overflow-hidden">
-                          <div className="absolute top-0 right-0 w-20 h-20 bg-indigo-500/5 rounded-bl-[3.5rem] pointer-events-none group-hover:bg-indigo-500/10 transition-colors"></div>
-                          
-                          <div className="relative z-10">
-                            <span className="px-3 py-0.5 bg-indigo-500/20 text-indigo-300 border border-indigo-500/30 rounded-full text-[9px] font-black uppercase tracking-widest">Official PYQ</span>
-                            <h5 className="text-xl font-black mt-4 mb-6 leading-tight tracking-tight group-hover:text-indigo-300 transition-colors">{quiz.title}</h5>
-                            
-                            <div className="flex items-center gap-5 text-[9px] font-black text-slate-400 uppercase tracking-widest mb-4">
-                              <div className="flex items-center"><Clock className="w-4 h-4 mr-1.5 text-indigo-400"/> {quiz.time_limit || '120'}m</div>
-                              <div className="flex items-center"><CheckCircle className="w-4 h-4 mr-1.5 text-emerald-400"/> {quiz.pass_percent}%</div>
-                            </div>
-                          </div>
-                          
-                          <Link href={`/quiz/${quiz.id}`} className="mt-4 block w-full py-3.5 bg-white/10 hover:bg-indigo-600 text-white rounded-xl font-black text-xs text-center transition-all shadow-sm group-hover:bg-indigo-600 shadow-indigo-600/10">
-                            Start Official Exam
-                          </Link>
-                        </div>
-                      ))}
+                    <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 gap-4">
+                      {gspyqQuizzes.map(quiz => {
+                        const yearMatch = quiz.title.match(/(\d{4})/);
+                        const year = yearMatch ? yearMatch[1] : '';
+                        return (
+                        <Link key={quiz.id} href={`/quiz/${quiz.id}`}
+                          className="bg-gradient-to-br from-slate-900 via-indigo-950 to-slate-900 p-5 rounded-2xl border border-indigo-500/20 shadow-md hover:shadow-xl hover:-translate-y-1 transition-all group flex flex-col items-center justify-center text-white relative overflow-hidden text-center gap-2">
+                          <span className="px-2 py-0.5 bg-indigo-500/20 text-indigo-300 border border-indigo-500/30 rounded-full text-[8px] font-black uppercase tracking-widest">Official PYQ</span>
+                          <span className="text-3xl font-black tracking-tight group-hover:text-indigo-300 transition-colors">{year}</span>
+                          <span className="text-[10px] text-slate-400 font-bold">GS Paper I</span>
+                          <span className="text-[9px] text-slate-500">100 Qs · 120 min</span>
+                        </Link>
+                        );
+                      })}
                     </div>
                   </div>
 
                   {/* B. CSAT Paper 2 */}
                   <div className="pt-6 border-t border-gray-100 dark:border-slate-700">
                     <h4 className="text-lg font-black text-gray-800 dark:text-gray-200 mb-6 flex items-center gap-2">
-                      <span className="w-2.5 h-2.5 rounded-full bg-blue-500"></span> B. CSAT Paper 2
+                      <span className="w-2.5 h-2.5 rounded-full bg-teal-500"></span> B. CSAT Paper 2
                     </h4>
-                    <div className="bg-gray-50/50 dark:bg-slate-900/50 p-8 rounded-3xl border border-dashed border-gray-200 dark:border-slate-700 text-center">
-                      <p className="text-gray-500 dark:text-gray-400 font-bold text-sm">Official CSAT past papers are currently being uploaded.</p>
-                      <p className="text-gray-400 text-xs mt-1">Please check back later or practice via the Stage 1 Mock section below.</p>
-                    </div>
+                    {csatpyqQuizzes.length > 0 ? (
+                      <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 gap-4">
+                        {csatpyqQuizzes.map(quiz => {
+                          const yearMatch = quiz.title.match(/(\d{4})/);
+                          const year = yearMatch ? yearMatch[1] : '';
+                          return (
+                          <Link key={quiz.id} href={`/quiz/${quiz.id}`}
+                            className="bg-gradient-to-br from-slate-900 via-teal-950 to-slate-900 p-5 rounded-2xl border border-teal-500/20 shadow-md hover:shadow-xl hover:-translate-y-1 transition-all group flex flex-col items-center justify-center text-white relative overflow-hidden text-center gap-2">
+                            <span className="px-2 py-0.5 bg-teal-500/20 text-teal-300 border border-teal-500/30 rounded-full text-[8px] font-black uppercase tracking-widest">CSAT PYQ</span>
+                            <span className="text-3xl font-black tracking-tight group-hover:text-teal-300 transition-colors">{year}</span>
+                            <span className="text-[10px] text-slate-400 font-bold">CSAT Paper II</span>
+                            <span className="text-[9px] text-slate-500">80 Qs · 120 min</span>
+                          </Link>
+                          );
+                        })}
+                      </div>
+                    ) : (
+                      <div className="bg-gray-50/50 dark:bg-slate-900/50 p-8 rounded-3xl border border-dashed border-gray-200 dark:border-slate-700 text-center">
+                        <p className="text-gray-500 dark:text-gray-400 font-bold text-sm">Official CSAT past papers are currently being uploaded.</p>
+                        <p className="text-gray-400 text-xs mt-1">Please check back later or practice via the Stage 1 Mock section below.</p>
+                      </div>
+                    )}
                   </div>
                 </div>
               </div>

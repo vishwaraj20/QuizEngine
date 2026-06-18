@@ -242,12 +242,74 @@ export default function ExamPrepPage() {
           <div className="bg-white dark:bg-slate-800 border-2 border-dashed border-gray-200 dark:border-slate-700 rounded-3xl p-16 text-center">
              <div className="text-6xl mb-4 opacity-50">📂</div>
              <h3 className="text-xl font-bold text-gray-800 dark:text-gray-200 mb-2">No tests found</h3>
-             <p className="text-gray-500 dark:text-gray-400">We couldn't find any {activePhase} tests for the selected filters.</p>
+             <p className="text-gray-500 dark:text-gray-400">We couldn&apos;t find any {activePhase} tests for the selected filters.</p>
              <button onClick={() => {setSelectedSubject('All'); setSelectedYear('All');}} className="mt-6 px-6 py-2 bg-blue-50 text-blue-600 font-bold rounded-lg hover:bg-blue-100">
                Clear Filters
              </button>
           </div>
+        ) : activeMode === 'PYQ Papers' ? (
+          /* ── PYQ Papers: split into GS Paper + CSAT Paper sections ── */
+          <div className="space-y-10">
+            {/* 1. GS Paper I */}
+            {(() => {
+              const gsQuizzes = filteredQuizzes
+                .filter(q => q.subject === 'General Studies' || (q.title && q.title.toLowerCase().includes('gs paper')) || (q.subject !== 'CSAT' && !(q.title || '').toLowerCase().includes('csat')))
+                .sort((a, b) => (b.year || '').localeCompare(a.year || ''));
+              if (gsQuizzes.length === 0) return null;
+              return (
+                <div className="bg-white dark:bg-slate-800 p-8 rounded-[2.5rem] border border-gray-100 dark:border-slate-700 shadow-sm">
+                  <div className="flex items-center gap-3 mb-6 pb-4 border-b border-gray-100 dark:border-slate-700">
+                    <div className="w-10 h-10 rounded-xl bg-indigo-100 dark:bg-indigo-950/50 text-indigo-600 dark:text-indigo-400 flex items-center justify-center font-black text-lg">I</div>
+                    <div>
+                      <h3 className="text-xl font-black text-gray-900 dark:text-white">📝 GS Paper I — General Studies</h3>
+                      <p className="text-gray-400 text-xs font-medium mt-0.5">100 Questions · 200 Marks · Decides the cutoff · {gsQuizzes.length} years available</p>
+                    </div>
+                  </div>
+                  <div className="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-6 lg:grid-cols-8 xl:grid-cols-10 gap-3">
+                    {gsQuizzes.map(quiz => (
+                      <Link key={quiz.id} href={`/quiz/${quiz.id}`}
+                        className="bg-gradient-to-br from-slate-900 via-indigo-950 to-slate-900 p-4 rounded-2xl border border-indigo-500/20 shadow-md hover:shadow-xl hover:-translate-y-1 transition-all group flex flex-col items-center justify-center text-white text-center gap-1">
+                        <span className="text-[9px] text-indigo-400 font-black uppercase tracking-wider">GS</span>
+                        <span className="text-2xl font-black tracking-tight group-hover:text-indigo-300 transition-colors">{quiz.year}</span>
+                        <span className="text-[9px] text-slate-500">100 Qs</span>
+                      </Link>
+                    ))}
+                  </div>
+                </div>
+              );
+            })()}
+
+            {/* 2. CSAT Paper II */}
+            {(() => {
+              const csatQuizzes = filteredQuizzes
+                .filter(q => q.subject === 'CSAT' || (q.title && q.title.toLowerCase().includes('csat')))
+                .sort((a, b) => (b.year || '').localeCompare(a.year || ''));
+              if (csatQuizzes.length === 0) return null;
+              return (
+                <div className="bg-white dark:bg-slate-800 p-8 rounded-[2.5rem] border border-gray-100 dark:border-slate-700 shadow-sm">
+                  <div className="flex items-center gap-3 mb-6 pb-4 border-b border-gray-100 dark:border-slate-700">
+                    <div className="w-10 h-10 rounded-xl bg-teal-100 dark:bg-teal-950/50 text-teal-600 dark:teal-400 flex items-center justify-center font-black text-lg">II</div>
+                    <div>
+                      <h3 className="text-xl font-black text-gray-900 dark:text-white">🧠 CSAT Paper II — Aptitude &amp; Reasoning</h3>
+                      <p className="text-gray-400 text-xs font-medium mt-0.5">80 Questions · 200 Marks · Qualifying (33% min) · {csatQuizzes.length} years available</p>
+                    </div>
+                  </div>
+                  <div className="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-6 lg:grid-cols-8 xl:grid-cols-10 gap-3">
+                    {csatQuizzes.map(quiz => (
+                      <Link key={quiz.id} href={`/quiz/${quiz.id}`}
+                        className="bg-gradient-to-br from-slate-900 via-teal-950 to-slate-900 p-4 rounded-2xl border border-teal-500/20 shadow-md hover:shadow-xl hover:-translate-y-1 transition-all group flex flex-col items-center justify-center text-white text-center gap-1">
+                        <span className="text-[9px] text-teal-400 font-black uppercase tracking-wider">CSAT</span>
+                        <span className="text-2xl font-black tracking-tight group-hover:text-teal-300 transition-colors">{quiz.year}</span>
+                        <span className="text-[9px] text-slate-500">80 Qs</span>
+                      </Link>
+                    ))}
+                  </div>
+                </div>
+              );
+            })()}
+          </div>
         ) : (
+          /* ── Subject-wise / Topic-wise: original card grid ── */
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
             {filteredQuizzes.map(quiz => (
               <div key={quiz.id} className="bg-white dark:bg-slate-800 rounded-3xl p-6 border border-gray-100 dark:border-slate-700 shadow-sm hover:shadow-xl hover:border-blue-200 transition-all flex flex-col group relative overflow-hidden">
