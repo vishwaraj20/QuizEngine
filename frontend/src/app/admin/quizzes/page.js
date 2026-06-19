@@ -249,7 +249,7 @@ export default function AdminQuizzesPage() {
                           </div>
                        </div>
 
-                       <div className="grid md:grid-cols-3 gap-8">
+                       <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
                           <div>
                              <label className="block text-[10px] font-black text-gray-400 uppercase tracking-[0.2em] mb-3">Live Status</label>
                              <select value={editingQuiz.status} onChange={e => setEditingQuiz({...editingQuiz, status: e.target.value})} className="w-full bg-gray-50 dark:bg-slate-900 border-2 border-transparent focus:border-blue-500 focus:bg-white dark:focus:bg-slate-800 rounded-[1.5rem] px-6 py-4 outline-none transition font-bold text-gray-800 dark:text-gray-200 appearance-none cursor-pointer">
@@ -268,6 +268,10 @@ export default function AdminQuizzesPage() {
                           <div>
                              <label className="block text-[10px] font-black text-gray-400 uppercase tracking-[0.2em] mb-3">Pass Threshold (%)</label>
                              <input type="number" value={editingQuiz.pass_percent} onChange={e => setEditingQuiz({...editingQuiz, pass_percent: e.target.value})} className="w-full bg-gray-50 dark:bg-slate-900 border-2 border-transparent focus:border-blue-500 focus:bg-white dark:focus:bg-slate-800 rounded-[1.5rem] px-6 py-4 outline-none transition font-bold text-gray-800 dark:text-gray-200" />
+                          </div>
+                          <div>
+                             <label className="block text-[10px] font-black text-gray-400 uppercase tracking-[0.2em] mb-3">Time (Mins, 0=None)</label>
+                             <input type="number" value={editingQuiz.time_limit} onChange={e => setEditingQuiz({...editingQuiz, time_limit: Number(e.target.value)})} className="w-full bg-gray-50 dark:bg-slate-900 border-2 border-transparent focus:border-blue-500 focus:bg-white dark:focus:bg-slate-800 rounded-[1.5rem] px-6 py-4 outline-none transition font-bold text-gray-800 dark:text-gray-200" />
                           </div>
                        </div>
                     </div>

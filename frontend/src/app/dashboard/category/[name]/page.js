@@ -12,10 +12,10 @@ export default function CategoryQuizzesPage() {
   const [loading, setLoading] = useState(true);
   const [leaderboard, setLeaderboard] = useState([]);
 
-  const pyqQuizzes = quizzes.filter(q => q.title.includes('UPSC Prelims 2')).sort((a, b) => b.title.localeCompare(a.title));
-  const gspyqQuizzes = pyqQuizzes.filter(q => q.title.includes('GS Paper') || q.subject === 'General Studies' || (!q.title.toLowerCase().includes('csat') && q.title.includes('UPSC Prelims 2')));
+  const pyqQuizzes = quizzes.filter(q => q.quiz_mode === 'PYQ Papers' || q.title.includes('Prelims 2')).sort((a, b) => (b.year||b.title).localeCompare(a.year||a.title));
+  const gspyqQuizzes = pyqQuizzes.filter(q => q.title.includes('GS Paper') || q.subject === 'General Studies' || (!q.title.toLowerCase().includes('csat') && (q.quiz_mode === 'PYQ Papers' || q.title.includes('Prelims 2'))));
   const csatpyqQuizzes = pyqQuizzes.filter(q => q.title.toLowerCase().includes('csat') || q.subject === 'CSAT');
-  const practiceQuizzes = quizzes.filter(q => !q.title.includes('UPSC Prelims 2'));
+  const practiceQuizzes = quizzes.filter(q => q.quiz_mode !== 'PYQ Papers' && !q.title.includes('Prelims 2'));
 
   const stage2Quizzes = practiceQuizzes.filter(q => 
     q.title.includes('Ethics') || 
@@ -88,52 +88,6 @@ export default function CategoryQuizzesPage() {
           setLeaderboard([]);
        }
      } catch(err) { console.error(err); }
-  };
-
-  const DifficultySection = ({ difficultyLabel }) => {
-    const filtered = (categoryName === 'UPSC' ? practiceQuizzes : quizzes)
-      .filter(q => q.difficulty === difficultyLabel.toLowerCase());
-    if (filtered.length === 0) return null;
-
-    return (
-      <div className="mb-12">
-        <div className="flex items-center gap-3 mb-6">
-           <div className={`w-3 h-3 rounded-full animate-pulse ${
-             difficultyLabel === 'Easy' ? 'bg-green-500' : 
-             difficultyLabel === 'Moderate' ? 'bg-orange-500' : 'bg-red-500'
-           }`}></div>
-           <h3 className="text-xl font-bold text-gray-800 dark:text-gray-200 tracking-tight uppercase text-sm tracking-[0.2em]">{difficultyLabel} Track</h3>
-        </div>
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-          {filtered.map(quiz => (
-            <div key={quiz.id} className="bg-white dark:bg-slate-800 p-7 rounded-[2rem] border border-gray-100 dark:border-slate-700 shadow-sm hover:shadow-xl transition-all group flex flex-col h-full">
-               <div className="flex justify-between items-start mb-4">
-                  <div className="p-2 bg-gray-50 dark:bg-slate-900 rounded-xl group-hover:bg-blue-50 transition-colors">
-                     <Zap className="w-5 h-5 text-gray-400 group-hover:text-blue-600" />
-                  </div>
-                  <span className={`px-3 py-1 rounded-full text-[10px] font-black uppercase tracking-widest border ${
-                    quiz.difficulty === 'hard' ? 'bg-red-50 text-red-600 border-red-100' :
-                    quiz.difficulty === 'moderate' ? 'bg-orange-50 text-orange-600 border-orange-100' :
-                    'bg-green-50 text-green-600 border-green-100'
-                  }`}>
-                    {quiz.difficulty}
-                  </span>
-               </div>
-               <h4 className="text-xl font-extrabold text-gray-900 dark:text-white mb-4 tracking-tight group-hover:text-blue-600 transition-colors">{quiz.title}</h4>
-               
-               <div className="flex items-center gap-6 mt-auto text-xs font-bold text-gray-400 uppercase tracking-widest">
-                  <div className="flex items-center"><Clock className="w-4 h-4 mr-2 text-blue-400"/> {quiz.time_limit || '0'}m</div>
-                  <div className="flex items-center"><CheckCircle className="w-4 h-4 mr-2 text-emerald-400"/> {quiz.pass_percent}%</div>
-               </div>
-
-               <Link href={`/quiz/${quiz.id}`} className="mt-8 w-full py-4 bg-gray-50 dark:bg-slate-900 group-hover:bg-blue-600 text-gray-700 dark:text-gray-350 group-hover:text-white rounded-2xl font-black text-sm text-center transition-all shadow-sm group-hover:shadow-blue-600/20">
-                 Start Assessment
-               </Link>
-            </div>
-          ))}
-        </div>
-      </div>
-    );
   };
 
   const QuizCard = ({ quiz }) => (
@@ -262,7 +216,11 @@ export default function CategoryQuizzesPage() {
                 </div>
                 <div>
                    <p className="text-[10px] font-black uppercase tracking-widest text-gray-400">Top Rank</p>
-                   <p className="font-bold text-gray-900 dark:text-white">User {leaderboard[0].user_id}</p>
+                   <p className="font-bold text-gray-900 dark:text-white truncate max-w-[150px] sm:max-w-[200px]">
+                     {leaderboard[0].user_name && leaderboard[0].user_name !== 'Unknown' 
+                       ? leaderboard[0].user_name 
+                       : `User ${leaderboard[0].user_id ? leaderboard[0].user_id.toString().split('-')[0] : ''}`}
+                   </p>
                 </div>
              </div>
            )}
@@ -361,7 +319,7 @@ export default function CategoryQuizzesPage() {
           </div>
         )}
 
-        {categoryName === 'UPSC' && pyqQuizzes.length > 0 && (
+        {isPSC && pyqQuizzes.length > 0 && (
           <div className="mb-20 animate-in fade-in slide-in-from-bottom-4 duration-300">
             {/* Main Section Header */}
             <div className="flex items-center gap-4 mb-10">
@@ -492,17 +450,51 @@ export default function CategoryQuizzesPage() {
              <p className="text-gray-400 mt-2">Check back later or try another category.</p>
              <Link href={backUrl} className="mt-8 inline-block px-8 py-3 bg-blue-600 text-white rounded-2xl font-bold shadow-lg shadow-blue-600/20">{isCompanyCategory ? `Browse ${companyName} Modules` : 'Browse All Categories'}</Link>
           </div>
-        ) : categoryName === 'UPSC' ? (
+        ) : isPSC ? (
           <div className="space-y-12">
              <StageSection stageLabel="Stage 1: Preliminary Exam" sectionQuizzes={stage1Quizzes} />
              <StageSection stageLabel="Stage 2: Mains Exam" sectionQuizzes={stage2Quizzes} />
              <StageSection stageLabel="Stage 3: Personality Test (Interview)" sectionQuizzes={stage3Quizzes} />
           </div>
         ) : (
-          <div className="space-y-4">
-             <DifficultySection difficultyLabel="Easy" />
-             <DifficultySection difficultyLabel="Moderate" />
-             <DifficultySection difficultyLabel="Hard" />
+          <div className="mb-12">
+            <div className="flex items-center gap-3 mb-8">
+               <div className="w-10 h-10 rounded-xl bg-blue-50 dark:bg-slate-900 text-blue-600 dark:text-blue-400 flex items-center justify-center">
+                  <BrainCircuit className="w-5 h-5" />
+               </div>
+               <div>
+                  <h2 className="text-2xl font-black text-gray-900 dark:text-white tracking-tight">Available Practice Modules</h2>
+                  <p className="text-gray-400 font-medium text-xs">All modules for {categoryName}</p>
+               </div>
+            </div>
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+              {quizzes.map(quiz => (
+                <div key={quiz.id} className="bg-white dark:bg-slate-800 p-7 rounded-[2rem] border border-gray-100 dark:border-slate-700 shadow-sm hover:shadow-xl transition-all group flex flex-col h-full">
+                   <div className="flex justify-between items-start mb-4">
+                      <div className="p-2 bg-gray-50 dark:bg-slate-900 rounded-xl group-hover:bg-blue-50 transition-colors">
+                         <Zap className="w-5 h-5 text-gray-400 group-hover:text-blue-600" />
+                      </div>
+                      <span className={`px-3 py-1 rounded-full text-[10px] font-black uppercase tracking-widest border ${
+                        quiz.difficulty === 'hard' ? 'bg-red-50 text-red-600 border-red-100' :
+                        quiz.difficulty === 'moderate' ? 'bg-orange-50 text-orange-600 border-orange-100' :
+                        'bg-green-50 text-green-600 border-green-100'
+                      }`}>
+                        {quiz.difficulty}
+                      </span>
+                   </div>
+                   <h4 className="text-xl font-extrabold text-gray-900 dark:text-white mb-4 tracking-tight group-hover:text-blue-600 transition-colors">{quiz.title}</h4>
+                   
+                   <div className="flex items-center gap-6 mt-auto text-xs font-bold text-gray-400 uppercase tracking-widest">
+                      <div className="flex items-center"><Clock className="w-4 h-4 mr-2 text-blue-400"/> {quiz.time_limit || '0'}m</div>
+                      <div className="flex items-center"><CheckCircle className="w-4 h-4 mr-2 text-emerald-400"/> {quiz.pass_percent}%</div>
+                   </div>
+
+                   <Link href={`/quiz/${quiz.id}`} className="mt-8 w-full py-4 bg-gray-50 dark:bg-slate-900 group-hover:bg-blue-600 text-gray-700 dark:text-gray-300 group-hover:text-white rounded-2xl font-black text-sm text-center transition-all shadow-sm group-hover:shadow-blue-600/20 block">
+                     Start Assessment
+                   </Link>
+                </div>
+              ))}
+            </div>
           </div>
         )}
 

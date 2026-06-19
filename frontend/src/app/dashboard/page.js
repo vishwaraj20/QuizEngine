@@ -133,7 +133,11 @@ export default function StudentPortal() {
   const examCategories = [
     { name: 'UPSC', desc: 'Civil Services Examination', icon: '🏛️' },
     { name: 'MPSC', desc: 'State Service Commission', icon: '⚖️' },
-    { name: 'GATE', desc: 'Engineering Aptitude Test', icon: '⚙️' }
+    { name: 'GATE', desc: 'Engineering Aptitude Test', icon: '⚙️' },
+    { name: 'SSC', desc: 'Staff Selection Commission', icon: '📋' },
+    { name: 'Railways', desc: 'RRB NTPC, Group D', icon: '🚆' },
+    { name: 'Banking', desc: 'IBPS, SBI PO/Clerk', icon: '💰' },
+    { name: 'Defence', desc: 'NDA, CDS, AFCAT', icon: '🎖️' }
   ];
 
   const companyCategories = [
@@ -428,7 +432,7 @@ export default function StudentPortal() {
              <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
                 {examCategories.map((cat, i) => (
                    <motion.div key={cat.name} initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.6 + (i * 0.1) }}>
-                      <CategoryCard cat={cat} baseUrl="/dashboard/exam" customHref={cat.name === 'SSC' ? '/dashboard/ssc' : null} />
+                      <CategoryCard cat={cat} baseUrl="/dashboard/exam" customHref={cat.name === 'SSC' ? '/dashboard/ssc' : (cat.name === 'UPSC' || cat.name === 'MPSC') ? `/dashboard/category/${cat.name}` : null} />
                    </motion.div>
                 ))}
              </div>
@@ -436,7 +440,7 @@ export default function StudentPortal() {
 
           <section id="college-placement">
              <div className="flex items-center gap-4 mb-10">
-                <div className="w-12 h-12 bg-emerald-100 dark:bg-emerald-900/40 text-emerald-600 dark:text-emerald-400 rounded-2xl flex items-center justify-center shadow-sm">
+                <div className="w-12 h-12 bg-emerald-100 dark:bg-emerald-900/40 text-emerald-600 dark:emerald-400 rounded-2xl flex items-center justify-center shadow-sm">
                    <Briefcase className="w-6 h-6" />
                 </div>
                 <h2 className="text-3xl font-black text-gray-900 dark:text-white tracking-tight underline decoration-emerald-200 dark:decoration-emerald-800 underline-offset-8">College Placement Prep</h2>

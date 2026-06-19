@@ -2,18 +2,27 @@
 import { useState, useRef, useEffect } from 'react';
 import { UploadCloud, FileJson, AlertCircle, Play, Settings, Copy, Check, Sparkles, ChevronDown } from 'lucide-react';
 
-const AI_PROMPT = `Convert my raw quiz data into a valid JSON file.
-
-My data is below — questions, options and correct answers are in a mixed/comma format. Some may be messy or inconsistently formatted.
-
+const AI_PROMPT = `Convert my raw quiz data into valid JSON format directly in your response text (do not create or attach a file).
+My data below may be messy, inconsistently formatted, or contain mixed separators (commas, dashes, newlines, numbering etc.). Some questions may also have images/figures/diagrams that are not visible in this text.
 Your job:
-1. Parse every question from my raw data
-2. Identify the 4 options (label them A, B, C, D)
-3. Identify the correct answer
-4. Write a short explanation for why the answer is correct
-5. Output ONLY the JSON — no extra text, no markdown code blocks, no explanation
 
-Use exactly this JSON format:
+Parse every question from my raw data
+Identify the 4 options and label them A, B, C, D
+Identify the correct answer
+Write a short explanation for why the answer is correct
+If a question is based on a reading comprehension passage or a common paragraph, YOU MUST include the FULL text of that passage inside the 'question' field BEFORE the actual question text for EVERY question that relies on it. Separate the passage and the question with '<br><br>'. Keep the entire string on one line by using '\\n' for newlines and escaping quotes if necessary.
+If a question has an image, add this placeholder inside the question field: <br><br><img src='IMAGE_PENDING' width='100%' style='border-radius:8px;' data-desc='DESCRIBE_WHAT_IMAGE_SHOWS_HERE' />
+If a question has no image, do NOT add any image tag
+After the JSON, add a plain text section titled "IMAGE_REQUIRED_LIST:" that lists every question ID that needs an image, with a one-line description of what the image shows. Example:
+
+IMAGE_REQUIRED_LIST:
+Q2 - Figure series showing shapes (triangles, circles) changing across 5 boxes
+Q3 - Two dice positions showing faces with numbers 3,7,8,2,9,4
+Q4 - A geometric figure made of overlapping squares
+
+Output the JSON first, then the IMAGE_REQUIRED_LIST — nothing else
+
+Use exactly this format:
 {
   "questions": [
     {
@@ -27,11 +36,34 @@ Use exactly this JSON format:
       },
       "correct": "B",
       "explanation": "Short explanation of why this is correct."
+    },
+    {
+      "id": 2,
+      "question": "[FULL PASSAGE TEXT GOES HERE IF APPLICABLE]<br><br>Actual question text here?",
+      "options": {
+        "A": "option text",
+        "B": "option text",
+        "C": "option text",
+        "D": "option text"
+      },
+      "correct": "A",
+      "explanation": "Short explanation."
     }
   ]
 }
 
-Here is my raw data to parse:
+IMAGE_REQUIRED_LIST:
+Q2 - description here
+Q4 - description here
+Rules:
+
+Fix any spelling/formatting issues in questions and options
+If correct answer is given as a number (1,2,3,4), map it to (A,B,C,D)
+Never skip a question even if formatting is unclear — make your best guess
+For image questions, always write the full question text that exists, just add the IMAGE_PENDING placeholder
+Do not add any text before the JSON or between the JSON and IMAGE_REQUIRED_LIST
+
+Here is my raw data:
 [PASTE YOUR RAW DATA HERE]`;const CODING_AI_PROMPT = `You are an expert technical content parser. Your task is to convert raw, unstructured coding problem descriptions into a highly structured, valid JSON file.
 
 Follow these strict parsing instructions:
@@ -382,18 +414,18 @@ export default function AdminUploadPage() {
             <div key={idx} className="bg-white dark:bg-slate-800 p-6 rounded-xl border border-gray-100 dark:border-slate-700 shadow-sm">
               <div className="font-semibold text-lg text-gray-800 dark:text-gray-200 mb-4 flex items-start">
                 <span className="bg-blue-100 text-blue-700 w-8 h-8 flex items-center justify-center rounded-lg mr-3 shrink-0">{idx + 1}</span>
-                {q.question}
+                <div dangerouslySetInnerHTML={{ __html: q.question }} />
               </div>
               <div className="grid grid-cols-2 gap-3 pl-11 mb-4">
                 {Object.keys(q.options).map(key => (
                    <div key={key} className={`p-3 border rounded-xl flex items-center ${key === q.correct ? 'bg-green-50 border-green-200 text-green-800 font-medium' : 'bg-gray-50 dark:bg-slate-900'}`}>
                      <span className={`w-6 h-6 flex justify-center items-center rounded-md mr-3 font-bold ${key === q.correct ? 'bg-green-500 text-white' : 'bg-gray-300 text-gray-600 dark:text-gray-400'}`}>{key}</span>
-                     {q.options[key]}
+                     <div dangerouslySetInnerHTML={{ __html: q.options[key] }} />
                    </div>
                 ))}
               </div>
-              <div className="pl-11 pr-4 py-3 bg-blue-50 rounded-lg text-sm text-blue-900 border border-blue-100">
-                <strong>Explanation: </strong> {q.explanation}
+              <div className="pl-11 pr-4 py-3 bg-blue-50 rounded-lg text-sm text-blue-900 border border-blue-100 flex gap-2">
+                <strong>Explanation: </strong> <div dangerouslySetInnerHTML={{ __html: q.explanation }} />
               </div>
             </div>
           ))}

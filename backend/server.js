@@ -167,12 +167,17 @@ app.get('/api/admin/quizzes/:id', async (req, res) => {
 app.get('/api/quizzes', async (req, res) => {
   const { data, error } = await supabase
     .from('quizzes')
-    .select('*')
+    .select('*, questions(count)')
     .eq('status', 'Live')
     .order('created_at', { ascending: false });
 
   if (error) return res.status(500).json({ error: error.message });
-  res.json(data);
+  
+  const rows = (data || []).map(q => ({
+    ...q,
+    questions_count: q.questions[0]?.count || 0
+  }));
+  res.json(rows);
 });
 
 // API 5: Get quiz questions for user (no correct_option/explanation)

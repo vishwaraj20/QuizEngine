@@ -12,6 +12,7 @@ export default function QuizTakingPage() {
   const [quizInfo, setQuizInfo] = useState(null);
   const [questions, setQuestions] = useState([]);
   const [answers, setAnswers] = useState({});
+  const [markedForReview, setMarkedForReview] = useState({});
   const [currentIndex, setCurrentIndex] = useState(0);
   
   const [timeLeft, setTimeLeft] = useState(null);
@@ -295,12 +296,20 @@ export default function QuizTakingPage() {
                 <li className="flex items-center text-red-600 mt-4 pt-4 border-t border-gray-200 dark:border-slate-700"><span className="w-2 h-2 rounded-full bg-red-600 mr-4 shrink-0"></span> 3 Warnings = Automatic Termination</li>
              </ul>
              
-             <button 
-               onClick={startQuiz}
-               className="w-full py-5 rounded-[2rem] bg-gray-900 dark:bg-blue-600 text-white font-black hover:bg-black transition shadow-2xl shadow-gray-900/30 flex justify-center items-center hover:scale-105 active:scale-95"
-             >
-                <Maximize className="w-6 h-6 mr-3"/> Enter Fullscreen & Start
-             </button>
+             <div className="flex flex-col gap-3">
+                 <button 
+                   onClick={startQuiz}
+                   className="w-full py-5 rounded-[2rem] bg-gray-900 dark:bg-blue-600 text-white font-black hover:bg-black transition shadow-2xl shadow-gray-900/30 flex justify-center items-center hover:scale-105 active:scale-95"
+                 >
+                    <Maximize className="w-6 h-6 mr-3"/> Enter Fullscreen & Start
+                 </button>
+                 <button 
+                   onClick={() => router.back()}
+                   className="w-full py-4 rounded-[2rem] bg-transparent text-gray-500 dark:text-gray-400 font-bold hover:bg-gray-100 dark:hover:bg-slate-700 transition flex justify-center items-center"
+                 >
+                    <ArrowLeft className="w-5 h-5 mr-2"/> Go Back
+                 </button>
+             </div>
          </div>
       </div>
     );
@@ -359,18 +368,22 @@ export default function QuizTakingPage() {
           ))}
         </div>
         
-        <div className="mt-16 text-center">
+        <div className="mt-16 flex flex-col md:flex-row items-center justify-center gap-6">
             <button 
               onClick={() => {
-                 if (quizInfo && quizInfo.category) {
-                    router.push(`/dashboard/category/${encodeURIComponent(quizInfo.category)}`);
-                 } else {
-                    router.push('/dashboard');
-                 }
+                 router.back();
               }} 
-              className="px-12 py-4 bg-gray-900 dark:bg-blue-600 text-white rounded-[2rem] font-black shadow-2xl shadow-gray-900/20 hover:bg-black transition scale-up hover:scale-105"
+              className="px-12 py-4 bg-gray-100 dark:bg-slate-800 border-2 border-gray-200 dark:border-slate-700 text-gray-700 dark:text-gray-300 rounded-[2rem] font-black hover:bg-gray-200 dark:hover:bg-slate-700 transition hover:scale-105"
             >
-              Return to Modules
+              Go Back
+            </button>
+            <button 
+              onClick={() => {
+                 router.push('/dashboard');
+              }} 
+              className="px-12 py-4 bg-gray-900 dark:bg-blue-600 text-white rounded-[2rem] font-black shadow-2xl shadow-gray-900/20 dark:shadow-blue-900/20 hover:bg-black dark:hover:bg-blue-700 transition scale-up hover:scale-105"
+            >
+              Explore More Quizzes
             </button>
         </div>
       </div>
@@ -449,9 +462,10 @@ export default function QuizTakingPage() {
 
           {/* Question Area */}
           <div className="px-10 py-12">
-             <h2 className="text-4xl font-black text-gray-900 dark:text-white mb-12 leading-[1.1] tracking-tighter">
-                {q.question_text}
-             </h2>
+             <h2 
+                className="text-2xl md:text-3xl font-bold text-gray-800 dark:text-gray-100 mb-10 leading-relaxed"
+                dangerouslySetInnerHTML={{ __html: q.question_text }}
+             />
 
              <div className="grid sm:grid-cols-1 md:grid-cols-2 gap-5">
                {['A', 'B', 'C', 'D'].map(opt => (
@@ -465,34 +479,46 @@ export default function QuizTakingPage() {
                    <div className={`w-12 h-12 rounded-2xl flex items-center justify-center font-black mr-5 transition-all duration-300 transform group-hover:scale-110 ${answers[q.id] === opt ? 'bg-blue-600 text-white shadow-lg' : 'bg-gray-100 dark:bg-slate-800 text-gray-400 group-hover:bg-blue-100 group-hover:text-blue-600'}`}>
                       {opt}
                    </div>
-                   <span className={`text-lg transition-all ${answers[q.id] === opt ? 'text-blue-905 dark:text-blue-200 font-black' : 'text-gray-650 dark:text-gray-400 font-bold'}`}>
-                      {q[`option_${opt.toLowerCase()}`]}
-                   </span>
+                   <span 
+                     className={`text-lg transition-all ${answers[q.id] === opt ? 'text-blue-900 dark:text-blue-200 font-black' : 'text-gray-600 dark:text-gray-400 font-bold'}`}
+                     dangerouslySetInnerHTML={{ __html: q[`option_${opt.toLowerCase()}`] }}
+                   />
                  </div>
                ))}
              </div>
           </div>
 
           {/* Navigation & Submission Footer */}
-          <div className="p-10 bg-gray-50 dark:bg-slate-900 border-t border-gray-100 dark:border-slate-700 flex justify-between items-center">
+          <div className="p-10 bg-gray-50 dark:bg-slate-900 border-t border-gray-100 dark:border-slate-700 flex flex-col sm:flex-row justify-between items-center gap-6">
             <button 
               disabled={currentIndex === 0} 
               onClick={() => {
                   setCurrentIndex(prev => prev - 1);
                   setQuestionStartTime(Date.now());
               }}
-              className="px-8 py-4 flex items-center font-black text-gray-400 hover:text-blue-600 disabled:opacity-0 transition-all text-sm uppercase tracking-widest"
+              className="px-8 py-4 flex items-center font-black text-gray-500 hover:text-blue-600 disabled:opacity-40 disabled:cursor-not-allowed transition-all text-sm uppercase tracking-widest w-full sm:w-auto justify-center"
             >
                <ArrowLeft className="w-5 h-5 mr-3" /> Previous
             </button>
             
-            <div className="flex gap-4">
+            <div className="flex flex-wrap items-center justify-center gap-4 w-full sm:w-auto">
+               <button
+                  onClick={() => setMarkedForReview(prev => ({ ...prev, [q.id]: !prev[q.id] }))}
+                  className={`px-6 py-4 rounded-[1.5rem] font-bold text-sm uppercase tracking-widest transition-all border-2 ${
+                    markedForReview[q.id] 
+                      ? 'bg-purple-100 dark:bg-purple-900/30 text-purple-700 dark:text-purple-400 border-purple-200 dark:border-purple-800' 
+                      : 'bg-transparent text-gray-500 dark:text-gray-400 border-gray-200 dark:border-slate-700 hover:bg-gray-100 dark:hover:bg-slate-800'
+                  }`}
+               >
+                  {markedForReview[q.id] ? '★ Marked' : '☆ Mark for Review'}
+               </button>
+
                {currentIndex === questions.length - 1 ? (
                  <button 
                    onClick={submitQuiz} 
-                   disabled={isSubmitting || !answers[q.id]}
+                   disabled={isSubmitting}
                    className={`px-10 py-4 rounded-[1.5rem] font-black shadow-2xl flex items-center transition-all ${
-                     isSubmitting || !answers[q.id]
+                     isSubmitting
                        ? 'bg-gray-200 text-gray-400 cursor-not-allowed shadow-none'
                        : 'bg-gray-900 dark:bg-blue-600 text-white shadow-gray-900/20 hover:bg-black dark:hover:bg-blue-700 hover:scale-105 active:scale-95'
                    }`}
@@ -503,23 +529,18 @@ export default function QuizTakingPage() {
                  <>
                    <button 
                       onClick={() => setShowSubmitConfirm(true)}
-                      className="px-6 py-4 rounded-[1.5rem] text-gray-400 font-black hover:text-blue-600 transition-all text-xs uppercase tracking-widest"
+                      className="px-6 py-4 rounded-[1.5rem] text-gray-400 font-black hover:text-red-500 transition-all text-xs uppercase tracking-widest hidden lg:block"
                    >
                       Submit Early
                    </button>
                    <button 
-                     disabled={!answers[q.id]}
                      onClick={() => {
                         setCurrentIndex(prev => prev + 1);
                         setQuestionStartTime(Date.now());
                      }}
-                     className={`px-10 py-4 rounded-[1.5rem] font-black shadow-xl flex items-center transition-all ${
-                        !answers[q.id] 
-                          ? 'bg-gray-200 text-gray-400 cursor-not-allowed shadow-none' 
-                          : 'bg-blue-600 text-white shadow-blue-600/20 hover:bg-blue-700 hover:scale-105 active:scale-95'
-                     }`}
+                     className="px-10 py-4 rounded-[1.5rem] font-black shadow-xl flex items-center transition-all bg-blue-600 text-white shadow-blue-600/20 hover:bg-blue-700 hover:scale-105 active:scale-95"
                    >
-                      Next Question <ArrowRight className="ml-3 w-5 h-5" />
+                      Next <ArrowRight className="ml-3 w-5 h-5" />
                    </button>
                  </>
                )}
@@ -539,6 +560,7 @@ export default function QuizTakingPage() {
             {questions.map((question, idx) => {
               const isAnswered = !!answers[question.id];
               const isCurrent = currentIndex === idx;
+              const isMarked = !!markedForReview[question.id];
               
               // Determine difficulty
               const diff = question.difficulty || (
@@ -566,9 +588,12 @@ export default function QuizTakingPage() {
                     setCurrentIndex(idx);
                     setQuestionStartTime(Date.now());
                   }}
-                  className={`w-9 h-9 rounded-xl font-extrabold text-xs flex items-center justify-center transition-all duration-200 hover:scale-105 active:scale-95 ${btnClass}`}
+                  className={`w-9 h-9 rounded-xl font-extrabold text-xs flex items-center justify-center transition-all duration-200 hover:scale-105 active:scale-95 relative ${btnClass}`}
                 >
                   {idx + 1}
+                  {isMarked && (
+                    <div className="absolute -top-1 -right-1 w-3 h-3 bg-purple-500 rounded-full border-2 border-white dark:border-slate-800 shadow-sm"></div>
+                  )}
                 </button>
               );
             })}
@@ -579,22 +604,57 @@ export default function QuizTakingPage() {
               <span className="w-4 h-4 rounded-lg bg-blue-600 ring-2 ring-blue-100 dark:ring-blue-900 shrink-0"></span>
               <span>Current</span>
             </div>
-            <div className="flex items-center gap-3">
-              <span className="w-4 h-4 rounded-lg bg-green-500 shrink-0"></span>
-              <span>Answered</span>
+            <div className="flex items-center justify-between gap-3">
+              <div className="flex items-center gap-3">
+                <span className="w-4 h-4 rounded-lg bg-green-500 shrink-0"></span>
+                <span>Answered</span>
+              </div>
+              <span className="text-gray-500 bg-gray-100 dark:bg-slate-700 px-2 py-0.5 rounded-md">{Object.keys(answers).filter(k => answers[k]).length}</span>
             </div>
-            <div className="flex items-center gap-3">
-              <span className="w-4 h-4 rounded-lg bg-emerald-50 dark:bg-emerald-950/20 border border-emerald-100 dark:border-emerald-900/50 shrink-0"></span>
-              <span className="text-emerald-700 dark:text-emerald-450">Easy (Unvisited)</span>
+            <div className="flex items-center justify-between gap-3">
+              <div className="flex items-center gap-3">
+                <span className="w-4 h-4 rounded-full bg-purple-500 shrink-0 border-2 border-white dark:border-slate-800"></span>
+                <span className="text-purple-600 dark:text-purple-400">Marked for Review</span>
+              </div>
+              <span className="text-purple-600 bg-purple-50 dark:bg-purple-900/30 px-2 py-0.5 rounded-md">{Object.keys(markedForReview).filter(k => markedForReview[k]).length}</span>
             </div>
-            <div className="flex items-center gap-3">
-              <span className="w-4 h-4 rounded-lg bg-amber-50 dark:bg-amber-950/20 border border-amber-100 dark:border-amber-900/50 shrink-0"></span>
-              <span className="text-amber-700 dark:text-amber-450">Moderate (Unvisited)</span>
-            </div>
-            <div className="flex items-center gap-3">
-              <span className="w-4 h-4 rounded-lg bg-rose-50 dark:bg-rose-950/20 border border-rose-100 dark:border-rose-900/50 shrink-0"></span>
-              <span className="text-rose-700 dark:text-rose-450">Hard (Unvisited)</span>
-            </div>
+            
+            {(() => {
+              let easy = 0, mod = 0, hard = 0;
+              questions.forEach((q, idx) => {
+                if (!answers[q.id]) {
+                  const diff = q.difficulty || (idx < questions.length * 0.4 ? 'easy' : idx < questions.length * 0.8 ? 'moderate' : 'hard');
+                  if (diff === 'easy') easy++;
+                  else if (diff === 'moderate') mod++;
+                  else hard++;
+                }
+              });
+              return (
+                <>
+                  <div className="flex items-center justify-between gap-3">
+                    <div className="flex items-center gap-3">
+                      <span className="w-4 h-4 rounded-lg bg-emerald-50 dark:bg-emerald-950/20 border border-emerald-100 dark:border-emerald-900/50 shrink-0"></span>
+                      <span className="text-emerald-700 dark:text-emerald-450">Easy (Unvisited)</span>
+                    </div>
+                    <span className="text-emerald-600 bg-emerald-50 dark:bg-emerald-900/30 px-2 py-0.5 rounded-md">{easy}</span>
+                  </div>
+                  <div className="flex items-center justify-between gap-3">
+                    <div className="flex items-center gap-3">
+                      <span className="w-4 h-4 rounded-lg bg-amber-50 dark:bg-amber-950/20 border border-amber-100 dark:border-amber-900/50 shrink-0"></span>
+                      <span className="text-amber-700 dark:text-amber-450">Moderate (Unvisited)</span>
+                    </div>
+                    <span className="text-amber-600 bg-amber-50 dark:bg-amber-900/30 px-2 py-0.5 rounded-md">{mod}</span>
+                  </div>
+                  <div className="flex items-center justify-between gap-3">
+                    <div className="flex items-center gap-3">
+                      <span className="w-4 h-4 rounded-lg bg-rose-50 dark:bg-rose-950/20 border border-rose-100 dark:border-rose-900/50 shrink-0"></span>
+                      <span className="text-rose-700 dark:text-rose-450">Hard (Unvisited)</span>
+                    </div>
+                    <span className="text-rose-600 bg-rose-50 dark:bg-rose-900/30 px-2 py-0.5 rounded-md">{hard}</span>
+                  </div>
+                </>
+              );
+            })()}
           </div>
         </div>
 

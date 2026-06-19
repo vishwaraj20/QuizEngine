@@ -1,11 +1,13 @@
 "use client";
 import { useEffect, useState, useMemo } from 'react';
-import { useParams } from 'next/navigation';
+import { useParams, useRouter, useSearchParams } from 'next/navigation';
 import Link from 'next/link';
 import { ArrowLeft, Clock, Award, Filter, PlayCircle, BookOpen } from 'lucide-react';
 
 export default function ExamPrepPage() {
   const params = useParams();
+  const router = useRouter();
+  const searchParams = useSearchParams();
   const examName = decodeURIComponent(params.name);
   
   const [quizzes, setQuizzes] = useState([]);
@@ -15,12 +17,25 @@ export default function ExamPrepPage() {
   const phases = examName === 'SSC CGL' || examName === 'SSC CHSL' || examName.startsWith('SSC') ? ['Tier 1', 'Tier 2'] : ['Prelims', 'Mains', 'Interview'];
   const QUIZ_MODES = ['PYQ Papers', 'Subject-wise', 'Topic-wise'];
   
-  const [activePhase, setActivePhase] = useState(phases[0]);
-  const [activeMode, setActiveMode] = useState(QUIZ_MODES[0]);
-  const [selectedSubject, setSelectedSubject] = useState('All');
-  const [selectedYear, setSelectedYear] = useState('All');
-  const [selectedTopic, setSelectedTopic] = useState('All');
-  const [step, setStep] = useState(1);
+  const [activePhase, setActivePhase] = useState(searchParams.get('phase') || phases[0]);
+  const [activeMode, setActiveMode] = useState(searchParams.get('mode') || QUIZ_MODES[0]);
+  const [selectedSubject, setSelectedSubject] = useState(searchParams.get('subject') || 'All');
+  const [selectedYear, setSelectedYear] = useState(searchParams.get('year') || 'All');
+  const [selectedTopic, setSelectedTopic] = useState(searchParams.get('topic') || 'All');
+  const [step, setStep] = useState(parseInt(searchParams.get('step')) || 1);
+
+  // Sync state to URL parameters
+  useEffect(() => {
+    const p = new URLSearchParams();
+    if (activePhase) p.set('phase', activePhase);
+    if (activeMode) p.set('mode', activeMode);
+    if (selectedSubject !== 'All') p.set('subject', selectedSubject);
+    if (selectedYear !== 'All') p.set('year', selectedYear);
+    if (selectedTopic !== 'All') p.set('topic', selectedTopic);
+    p.set('step', step.toString());
+    
+    router.replace(`/dashboard/exam/${examName}?${p.toString()}`, { scroll: false });
+  }, [activePhase, activeMode, selectedSubject, selectedYear, selectedTopic, step, examName, router]);
 
   useEffect(() => {
     fetchQuizzes();
@@ -247,8 +262,8 @@ export default function ExamPrepPage() {
                Clear Filters
              </button>
           </div>
-        ) : activeMode === 'PYQ Papers' ? (
-          /* ── PYQ Papers: split into GS Paper + CSAT Paper sections ── */
+        ) : activeMode === 'PYQ Papers' && (examName === 'UPSC' || examName === 'MPSC') ? (
+          /* ── PYQ Papers: split into GS Paper + CSAT Paper sections for UPSC/MPSC ── */
           <div className="space-y-10">
             {/* 1. GS Paper I */}
             {(() => {
@@ -271,7 +286,10 @@ export default function ExamPrepPage() {
                         className="bg-gradient-to-br from-slate-900 via-indigo-950 to-slate-900 p-4 rounded-2xl border border-indigo-500/20 shadow-md hover:shadow-xl hover:-translate-y-1 transition-all group flex flex-col items-center justify-center text-white text-center gap-1">
                         <span className="text-[9px] text-indigo-400 font-black uppercase tracking-wider">GS</span>
                         <span className="text-2xl font-black tracking-tight group-hover:text-indigo-300 transition-colors">{quiz.year}</span>
-                        <span className="text-[9px] text-slate-500">100 Qs</span>
+                        <div className="flex items-center justify-center gap-3 mt-2 text-[10px] text-slate-400">
+                          <span className="flex items-center gap-1"><BookOpen className="w-3 h-3"/> {quiz.questions_count || 0} Qs</span>
+                          <span className="flex items-center gap-1"><Clock className="w-3 h-3"/> {quiz.time_limit ? `${quiz.time_limit}m` : 'No limit'}</span>
+                        </div>
                       </Link>
                     ))}
                   </div>
@@ -300,12 +318,62 @@ export default function ExamPrepPage() {
                         className="bg-gradient-to-br from-slate-900 via-teal-950 to-slate-900 p-4 rounded-2xl border border-teal-500/20 shadow-md hover:shadow-xl hover:-translate-y-1 transition-all group flex flex-col items-center justify-center text-white text-center gap-1">
                         <span className="text-[9px] text-teal-400 font-black uppercase tracking-wider">CSAT</span>
                         <span className="text-2xl font-black tracking-tight group-hover:text-teal-300 transition-colors">{quiz.year}</span>
-                        <span className="text-[9px] text-slate-500">80 Qs</span>
+                        <div className="flex items-center justify-center gap-3 mt-2 text-[10px] text-slate-400">
+                          <span className="flex items-center gap-1"><BookOpen className="w-3 h-3"/> {quiz.questions_count || 0} Qs</span>
+                          <span className="flex items-center gap-1"><Clock className="w-3 h-3"/> {quiz.time_limit ? `${quiz.time_limit}m` : 'No limit'}</span>
+                        </div>
                       </Link>
                     ))}
                   </div>
                 </div>
               );
+            })()}
+          </div>
+        ) : activeMode === 'PYQ Papers' ? (
+          /* ── PYQ Papers: generic layout grouped by year ── */
+          <div className="space-y-10">
+            {(() => {
+              const groupedByYear = filteredQuizzes.reduce((acc, q) => {
+                const y = q.year || 'All Years';
+                if (!acc[y]) acc[y] = [];
+                acc[y].push(q);
+                return acc;
+              }, {});
+              
+              const sortedYears = Object.keys(groupedByYear).sort((a, b) => {
+                if (a === 'All Years') return 1;
+                if (b === 'All Years') return -1;
+                return b.localeCompare(a); // Descending year
+              });
+              
+              return sortedYears.map(year => (
+                <div key={year} className="bg-white dark:bg-slate-800 p-8 rounded-[2.5rem] border border-gray-100 dark:border-slate-700 shadow-sm">
+                  <div className="flex items-center gap-3 mb-6 pb-4 border-b border-gray-100 dark:border-slate-700">
+                    <div className="w-10 h-10 rounded-xl bg-indigo-100 dark:bg-indigo-950/50 text-indigo-600 dark:text-indigo-400 flex items-center justify-center font-black text-lg">
+                      {year === 'All Years' ? '📄' : '📅'}
+                    </div>
+                    <div>
+                      <h3 className="text-xl font-black text-gray-900 dark:text-white">
+                        {year === 'All Years' ? 'Miscellaneous Papers' : `${year} Papers`}
+                      </h3>
+                      <p className="text-gray-400 text-xs font-medium mt-0.5">{groupedByYear[year].length} papers available for this year</p>
+                    </div>
+                  </div>
+                  <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 gap-4">
+                    {groupedByYear[year].sort((a,b) => (a.title||'').localeCompare(b.title||'', undefined, { numeric: true, sensitivity: 'base' })).map(quiz => (
+                      <Link key={quiz.id} href={`/quiz/${quiz.id}`}
+                        className="bg-gradient-to-br from-slate-900 via-indigo-950 to-slate-900 p-5 rounded-2xl border border-indigo-500/20 shadow-md hover:shadow-xl hover:-translate-y-1 transition-all group flex flex-col items-center justify-center text-white text-center gap-2">
+                        <span className="text-[10px] text-indigo-400 font-black uppercase tracking-wider">Official PYQ</span>
+                        <span className="text-sm md:text-base font-black tracking-tight group-hover:text-indigo-300 transition-colors line-clamp-3 leading-tight">{quiz.title || `${examName} Paper`}</span>
+                        <div className="flex items-center justify-center gap-3 w-full mt-auto pt-3 text-[10px] text-slate-400">
+                          <span className="flex items-center gap-1"><BookOpen className="w-3 h-3"/> {quiz.questions_count || 0} Qs</span>
+                          <span className="flex items-center gap-1"><Clock className="w-3 h-3"/> {quiz.time_limit ? `${quiz.time_limit}m` : 'No limit'}</span>
+                        </div>
+                      </Link>
+                    ))}
+                  </div>
+                </div>
+              ));
             })()}
           </div>
         ) : (
