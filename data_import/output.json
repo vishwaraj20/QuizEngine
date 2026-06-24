@@ -1,0 +1,1204 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "If + = -, - = ×, × = +, evaluate: 6 + 3 × 2 - 4?",
+      "options": {
+        "A": "14",
+        "B": "16",
+        "C": "18",
+        "D": "11"
+      },
+      "correct": "D",
+      "explanation": "Option D is the correct answer."
+    },
+    {
+      "id": 2,
+      "question": "If 5 @ 2 = 25, 4 @ 3 = 64, then 3 @ 4 = ?",
+      "options": {
+        "A": "81",
+        "B": "64",
+        "C": "48",
+        "D": "12"
+      },
+      "correct": "A",
+      "explanation": "Option A is the correct answer."
+    },
+    {
+      "id": 3,
+      "question": "Select the correct letter-cluster to replace (?). AEEI, BFJN, CGOS, DHTX, ?",
+      "options": {
+        "A": "EIQC",
+        "B": "EIQZ",
+        "C": "EIYC",
+        "D": "EJQZ"
+      },
+      "correct": "C",
+      "explanation": "Option C is the correct answer."
+    },
+    {
+      "id": 4,
+      "question": "Complete the analogy: BDGK : YWTP :: CEHL : ?",
+      "options": {
+        "A": "XVSK",
+        "B": "XVSO",
+        "C": "XWSL",
+        "D": "XWTL"
+      },
+      "correct": "B",
+      "explanation": "Option B is the correct answer."
+    },
+    {
+      "id": 5,
+      "question": "Choose the address that is exactly the same as the one given below. B-45, Green Park Extension, New Delhi, Delhi - 110016",
+      "options": {
+        "A": "B-45, Green Park Extention, New Delhi, Delhi - 110016",
+        "B": "B-45, Green Park Extension, New Delli, Delhi - 110016",
+        "C": "B-45, Green Park Extension, New Delhi, Delhi - 110061",
+        "D": "B-45, Green Park Extension, New Delhi, Delhi - 110016"
+      },
+      "correct": "D",
+      "explanation": "Option D is the correct answer."
+    },
+    {
+      "id": 6,
+      "question": "If A = +, B = -, C = ×, D = ÷ Find the value of: 20 B 5 C 2 A 10 D 5?",
+      "options": {
+        "A": "12",
+        "B": "14",
+        "C": "16",
+        "D": "18"
+      },
+      "correct": "A",
+      "explanation": "Option A is the correct answer."
+    },
+    {
+      "id": 7,
+      "question": "Compute: √169 + ³√64 = ?",
+      "options": {
+        "A": "17",
+        "B": "18",
+        "C": "19",
+        "D": "20"
+      },
+      "correct": "A",
+      "explanation": "Option A is the correct answer."
+    },
+    {
+      "id": 8,
+      "question": "Delhi is a busy city and Paris is a famous capital. What is the total number of words that begin with a consonant? Delhi is a busy city and Paris is a famous capital.",
+      "options": {
+        "A": "6",
+        "B": "7",
+        "C": "8",
+        "D": "9"
+      },
+      "correct": "A",
+      "explanation": "Option A is the correct answer."
+    },
+    {
+      "id": 9,
+      "question": "Statement: A ≥ B < C = D > E ; C ≥ F Conclusions: I. B < D II. F ≤ D",
+      "options": {
+        "A": "Only I",
+        "B": "Only II",
+        "C": "Both I and II",
+        "D": "Neither I nor II"
+      },
+      "correct": "C",
+      "explanation": "Option C is the correct answer."
+    },
+    {
+      "id": 10,
+      "question": "Complete the pattern: 5, 15, 45, 135, 405, ?",
+      "options": {
+        "A": "1225",
+        "B": "1220",
+        "C": "1240",
+        "D": "1215"
+      },
+      "correct": "D",
+      "explanation": "Option D is the correct answer."
+    },
+    {
+      "id": 11,
+      "question": "If the sum of 18 and 32 is multiplied by 4, what is the result?",
+      "options": {
+        "A": "180",
+        "B": "200",
+        "C": "220",
+        "D": "240"
+      },
+      "correct": "B",
+      "explanation": "Option B is the correct answer."
+    },
+    {
+      "id": 12,
+      "question": "A pen costs ₹12 and a notebook costs ₹35. If a customer buys 4 pens and 2 notebooks, what is the total cost?",
+      "options": {
+        "A": "₹118",
+        "B": "₹124",
+        "C": "₹134",
+        "D": "₹140"
+      },
+      "correct": "A",
+      "explanation": "Option A is the correct answer."
+    },
+    {
+      "id": 13,
+      "question": "Select the letter-cluster that will replace the question mark (?). CHI, FKL, INO, LQR, ?",
+      "options": {
+        "A": "OSU",
+        "B": "OTU",
+        "C": "PRU",
+        "D": "PSV"
+      },
+      "correct": "B",
+      "explanation": "Option B is the correct answer."
+    },
+    {
+      "id": 14,
+      "question": "Statement: The company introduced a flexible work-from-home policy. Conclusions: I. The company wants to improve employee satisfaction. II. All employees will work from home daily.",
+      "options": {
+        "A": "Only I follows",
+        "B": "Only II follows",
+        "C": "Both I and II follow",
+        "D": "Neither I nor II follows"
+      },
+      "correct": "A",
+      "explanation": "Option A is the correct answer."
+    },
+    {
+      "id": 15,
+      "question": "Statement: 1. Some teachers are writers. 2. Some writers are poets. Conclusions: I. Some teachers are poets. II. All poets are teachers.",
+      "options": {
+        "A": "Only I follows",
+        "B": "Only II follows",
+        "C": "Both I and II follow",
+        "D": "Neither I nor II follows"
+      },
+      "correct": "D",
+      "explanation": "Option D is the correct answer."
+    },
+    {
+      "id": 16,
+      "question": "Statement: The increasing use of artificial intelligence in healthcare improves diagnosis accuracy but raises concerns about data  privacy.  Assumptions: I. AI can improve medical diagnosis. II. Data privacy is a concern in healthcare technology. III. AI benefits outweigh privacy concerns.",
+      "options": {
+        "A": "Only I and II are implicit",
+        "B": "Only II and III are implicit",
+        "C": "Only I is implicit",
+        "D": "All I, II and III are implicit"
+      },
+      "correct": "A",
+      "explanation": "Option A is the correct answer."
+    },
+    {
+      "id": 17,
+      "question": "If MONEY is written as NPOFZ, how will PAPER be written?",
+      "options": {
+        "A": "QBQFS",
+        "B": "QBQER",
+        "C": "QBQFR",
+        "D": "QBRFS"
+      },
+      "correct": "A",
+      "explanation": "Option A is the correct answer."
+    },
+    {
+      "id": 18,
+      "question": "M is the father of N. N is the brother of P. How is M related to P?",
+      "options": {
+        "A": "Uncle",
+        "B": "Father",
+        "C": "Grandfather",
+        "D": "Brother"
+      },
+      "correct": "B",
+      "explanation": "Option B is the correct answer."
+    },
+    {
+      "id": 19,
+      "question": "In a code language: TRAIN → 59321 and COLD → 4826. How is CARD coded?",
+      "options": {
+        "A": "3216",
+        "B": "4396",
+        "C": "3156",
+        "D": "4193"
+      },
+      "correct": "B",
+      "explanation": "Option B is the correct answer."
+    },
+    {
+      "id": 20,
+      "question": "If ‘+’ means ‘×’, ‘×’ means ‘-’, ‘-’ means ‘÷’, ‘÷’ means ‘+’, then which is correct?",
+      "options": {
+        "A": "8 + 2 × 4 - 2 = 14",
+        "B": "6 ÷ 3 + 2 × 1 = 8",
+        "C": "9 - 3 ÷ 3 + 1 = 4",
+        "D": "10 × 2 - 4 + 1 = 5"
+      },
+      "correct": "A",
+      "explanation": "Option A is the correct answer."
+    },
+    {
+      "id": 21,
+      "question": "The 4th term of a GP is 81 and the first term is 3. Find the common ratio.",
+      "options": {
+        "A": "2",
+        "B": "3",
+        "C": "4",
+        "D": "5"
+      },
+      "correct": "B",
+      "explanation": "Option B is the correct answer."
+    },
+    {
+      "id": 22,
+      "question": "A + B means A is the sister of B, A - B means A is the father of B, A × B means A is the brother of B, A ÷ B means A is the mother of B. What does X - Y + Z mean?",
+      "options": {
+        "A": "X is Z’s father",
+        "B": "Y is Z’s daughter",
+        "C": "X is Z’s grandfather",
+        "D": "Z is X’s daughter"
+      },
+      "correct": "A",
+      "explanation": "Option A is the correct answer."
+    },
+    {
+      "id": 23,
+      "question": "Find the odd one out:",
+      "options": {
+        "A": "Subhas Chandra Bose",
+        "B": "Jawaharlal Nehru",
+        "C": "Sardar Patel",
+        "D": "Mahatma Gandhi"
+      },
+      "correct": "A",
+      "explanation": "Option A is the correct answer."
+    },
+    {
+      "id": 24,
+      "question": "Find the odd one out:",
+      "options": {
+        "A": "12 # 3 = 4",
+        "B": "16 # 4 = 6",
+        "C": "20 # 5 = 4",
+        "D": "18 # 3 = 6"
+      },
+      "correct": "B",
+      "explanation": "Option B is the correct answer."
+    },
+    {
+      "id": 25,
+      "question": "Select the word which cannot be formed using the letters of the given word: COMMUNICATION",
+      "options": {
+        "A": "ACTION",
+        "B": "COUNT",
+        "C": "NATIONAL",
+        "D": "MOUNT"
+      },
+      "correct": "C",
+      "explanation": "Option C is the correct answer."
+    },
+    {
+      "id": 26,
+      "question": "Which of the following pairs of Indian folk dance and its state is correctly matched?",
+      "options": {
+        "A": "Garba – Punjab",
+        "B": "Bihu – Assam",
+        "C": "Lavani – Odisha",
+        "D": "Ghoomar – Himachal Pradesh"
+      },
+      "correct": "B",
+      "explanation": "Option B is the correct answer."
+    },
+    {
+      "id": 27,
+      "question": "Which of the following statements best reflects the symbolic significance of the Ashoka Chakra in the Indian  National Flag?",
+      "options": {
+        "A": "It represents royal authority of ancient kings",
+        "B": "It symbolizes the cycle of law, motion, and progress",
+        "C": "It signifies agricultural prosperity",
+        "D": "It is associated with seasonal festivals"
+      },
+      "correct": "B",
+      "explanation": "Option B is the correct answer."
+    },
+    {
+      "id": 28,
+      "question": "Which of the following statements correctly identifies the venue and schedule of the BWF World Championships  2025?",
+      "options": {
+        "A": "It was held at Istora Senayan, Jakarta, from August 21 to 27, 2025, as part of the BWF World Tour.",
+        "B": "It was conducted at OVO Arena Wembley, London, from July 15 to 21, 2025, under the BWF Super 750 category.",
+        "C": "It was hosted at Adidas Arena, Paris, from August 25 to 31, 2025, as the BWF World Championships.",
+        "D": "It took place at Tokyo Metropolitan Gymnasium, from September 10 to 16, 2025, under the BWF Super Series."
+      },
+      "correct": "C",
+      "explanation": "Option C is the correct answer."
+    },
+    {
+      "id": 29,
+      "question": "Which corridor is associated with enhancing India’s connectivity with Russia and Europe via Iran?",
+      "options": {
+        "A": "East–West Corridor",
+        "B": "International North–South Transport Corridor",
+        "C": "India–Myanmar Highway",
+        "D": "Trans-Asian Railway"
+      },
+      "correct": "B",
+      "explanation": "Option B is the correct answer."
+    },
+    {
+      "id": 30,
+      "question": "What is India’s urban population percentage as per the UN World Urbanization Prospects (latest estimate, around  2025)?",
+      "options": {
+        "A": "31%",
+        "B": "34%",
+        "C": "36%",
+        "D": "41%"
+      },
+      "correct": "C",
+      "explanation": "Option C is the correct answer."
+    },
+    {
+      "id": 31,
+      "question": "Which Article of the Indian Constitution allows Parliament to legislate on a subject in the State List with the  consent of States?",
+      "options": {
+        "A": "Article 249",
+        "B": "Article 252",
+        "C": "Article 253",
+        "D": "Article 356"
+      },
+      "correct": "B",
+      "explanation": "Option B is the correct answer."
+    },
+    {
+      "id": 32,
+      "question": "Which theme was adopted for World Environment Day 2025?",
+      "options": {
+        "A": "Beat Plastic Pollution",
+        "B": "Land Restoration, Desertification and Drought Resilience",
+        "C": "Ecosystem Restoration",
+        "D": "Solutions to Plastic Pollution"
+      },
+      "correct": "B",
+      "explanation": "Option B is the correct answer."
+    },
+    {
+      "id": 33,
+      "question": "What is the primary objective of the PLI (Production Linked Incentive) Scheme?",
+      "options": {
+        "A": "Promote domestic manufacturing and exports",
+        "B": "Provide crop insurance to farmers",
+        "C": "Regulate prices of essential medicines",
+        "D": "Improve cold storage infrastructure"
+      },
+      "correct": "A",
+      "explanation": "Option A is the correct answer."
+    },
+    {
+      "id": 34,
+      "question": "What is the primary objective of the PM Gati Shakti National Master Plan?",
+      "options": {
+        "A": "Integrated development of multimodal infrastructure",
+        "B": "Providing minimum support price to farmers",
+        "C": "Regulating drug prices",
+        "D": "Expanding cold storage facilities"
+      },
+      "correct": "A",
+      "explanation": "Option A is the correct answer."
+    },
+    {
+      "id": 35,
+      "question": "Read the following Assertion (A) and Reason (R) carefully and choose the correct option: Assertion (A): India adopted economic liberalisation in 1991. Reason (R): This was done to integrate the Indian economy with the global market.",
+      "options": {
+        "A": "Both A and R are true and R is the correct explanation of A",
+        "B": "Both A and R are true but R is not the correct explanation of A",
+        "C": "A is true but R is false",
+        "D": "A is false but R is true"
+      },
+      "correct": "A",
+      "explanation": "Option A is the correct answer."
+    },
+    {
+      "id": 36,
+      "question": "Consider the following statements: 1. Article 352 of the Indian Constitution deals with National Emergency. 2. A National Emergency can be proclaimed due to war, external aggression, or armed rebellion. Which of the above is/are correct?",
+      "options": {
+        "A": "Only 1",
+        "B": "Only 2",
+        "C": "Both 1 and 2",
+        "D": "Neither 1 nor 2"
+      },
+      "correct": "C",
+      "explanation": "Option C is the correct answer."
+    },
+    {
+      "id": 37,
+      "question": "Read the below statements marked as Assertion (A) and Reason (R). Mark the correct option: Assertion (A): The Human Development Index (HDI) includes indicators of health, education, and income. Reason (R): The HDI is published by the United Nations Development Programme (UNDP).",
+      "options": {
+        "A": "Both A and R are true, and R is the correct explanation of A",
+        "B": "Both A and R are true, but R is not the correct explanation of A",
+        "C": "A is true, but R is false",
+        "D": "A is false, but R is true"
+      },
+      "correct": "B",
+      "explanation": "Option B is the correct answer."
+    },
+    {
+      "id": 38,
+      "question": "Consider the following statements: 1. Comets are icy bodies that develop a glowing coma when they approach the Sun. 2. Asteroids are mostly found in the Kuiper Belt beyond Neptune. Which of the above is/are correct?",
+      "options": {
+        "A": "Statement 1 only",
+        "B": "Statement 2 only",
+        "C": "Both 1 and 2",
+        "D": "Neither 1 nor 2"
+      },
+      "correct": "A",
+      "explanation": "Option A is the correct answer."
+    },
+    {
+      "id": 39,
+      "question": "Which of the following statements about the Mahamatya during Mauryan administration is correct?",
+      "options": {
+        "A": "He was the chief priest of the kingdom",
+        "B": "He acted as a high-ranking civil administrator assisting the king",
+        "C": "He was responsible only for military training",
+        "D": "He managed temple rituals and donations"
+      },
+      "correct": "B",
+      "explanation": "Option B is the correct answer."
+    },
+    {
+      "id": 40,
+      "question": "What is the central theme of Aravind Adiga’s novel “The White Tiger”, which won the Booker Prize?",
+      "options": {
+        "A": "India’s freedom struggle",
+        "B": "Rural–urban divide and social inequality",
+        "C": "India–China relations",
+        "D": "Historical trade routes"
+      },
+      "correct": "B",
+      "explanation": "Option B is the correct answer."
+    },
+    {
+      "id": 41,
+      "question": "What does Article 269 of the Indian Constitution primarily deal with?",
+      "options": {
+        "A": "Taxes levied and collected by the Union and distributed between Union and States",
+        "B": "Taxes levied by States but collected by the Union",
+        "C": "Distribution of GST between Centre and States",
+        "D": "Grants-in-aid to States"
+      },
+      "correct": "A",
+      "explanation": "Option A is the correct answer."
+    },
+    {
+      "id": 42,
+      "question": "Which of the following sequences correctly represents the flow of energy in an ecosystem?",
+      "options": {
+        "A": "Producer → Decomposer → Consumer",
+        "B": "Consumer → Producer → Decomposer",
+        "C": "Producer → Consumer → Decomposer",
+        "D": "Decomposer → Producer → Consumer"
+      },
+      "correct": "C",
+      "explanation": "Option C is the correct answer."
+    },
+    {
+      "id": 43,
+      "question": "If the speed of light in vacuum is 3 × 10⁸ m/s and its frequency is 6 × 10¹⁴ Hz, what is its wavelength?",
+      "options": {
+        "A": "0.5 μm",
+        "B": "2 μm",
+        "C": "0.05 μm",
+        "D": "5 μm"
+      },
+      "correct": "A",
+      "explanation": "Option A is the correct answer."
+    },
+    {
+      "id": 44,
+      "question": "Which of the following is a typical feature of Buddhist Stupa architecture?",
+      "options": {
+        "A": "Tall shikhara with amalaka",
+        "B": "Hemispherical dome with harmika",
+        "C": "Ornate spires and flying buttresses",
+        "D": "Flat roof with wooden beams"
+      },
+      "correct": "B",
+      "explanation": "Option B is the correct answer."
+    },
+    {
+      "id": 45,
+      "question": "The Bhilai Steel Plant, one of India’s major public sector steel plants, is located in which state?",
+      "options": {
+        "A": "Odisha",
+        "B": "Jharkhand",
+        "C": "Chhattisgarh",
+        "D": "West Bengal"
+      },
+      "correct": "C",
+      "explanation": "Option C is the correct answer."
+    },
+    {
+      "id": 46,
+      "question": "Consider the following statements: The Strait of Malacca is one of the most important sea routes in the world. It connects the Indian Ocean with the Pacific Ocean. Which of the above statement(s) is/are correct?",
+      "options": {
+        "A": "Only 1 is correct",
+        "B": "Only 2 is correct",
+        "C": "Both statements 1 and 2 are correct",
+        "D": "Neither statement 1 nor 2 is correct"
+      },
+      "correct": "C",
+      "explanation": "Option C is the correct answer."
+    },
+    {
+      "id": 47,
+      "question": "Why is renewable energy expansion important for India’s climate commitments?",
+      "options": {
+        "A": "To increase dependence on coal",
+        "B": "To reduce greenhouse gas emissions",
+        "C": "To promote deforestation",
+        "D": "To increase fossil fuel imports"
+      },
+      "correct": "B",
+      "explanation": "Option B is the correct answer."
+    },
+    {
+      "id": 48,
+      "question": "What is the central theme of Salman Rushdie’s novel “Midnight’s Children”, which won the Booker Prize?",
+      "options": {
+        "A": "India’s freedom struggle and post-independence history",
+        "B": "Indo-Persian trade relations",
+        "C": "A political thriller set in Delhi",
+        "D": "A romantic tale in colonial India"
+      },
+      "correct": "A",
+      "explanation": "Option A is the correct answer."
+    },
+    {
+      "id": 49,
+      "question": "What is the maximum payload capacity of India’s Next Generation Launch Vehicle (NGLV) to Low Earth Orbit  (LEO)?",
+      "options": {
+        "A": "10 tonnes",
+        "B": "20 tonnes",
+        "C": "30 tonnes",
+        "D": "40 tonnes"
+      },
+      "correct": "C",
+      "explanation": "Option C is the correct answer."
+    },
+    {
+      "id": 50,
+      "question": "Match the dynasties listed in Column A with the regions they primarily ruled over, as given in Column B: Column A: Dynasty Column B: Region A. Mauryas 1. Magadha B. Guptas 2. Deccan C. Satavahanas 3. North India D. Kushanas 4. North-West India A. A–1, B–3, C–2, D–4 (b) A–3, B–1, C–2, D–4 (c) A–1, B–2, C–3, D–4 (d) A–4, B–3, C–1, D–2",
+      "options": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+      },
+      "correct": "A",
+      "explanation": "Option A is the correct answer."
+    },
+    {
+      "id": 51,
+      "question": "Alloy X contains copper and zinc in ratio 3:2, and Alloy Y in ratio 4:5. If 15 kg of X and 18 kg of Y are melted  together, find the ratio of copper to zinc in the new alloy.",
+      "options": {
+        "A": "17:16",
+        "B": "15:14",
+        "C": "19:17",
+        "D": "11:9"
+      },
+      "correct": "A",
+      "explanation": "Option A is the correct answer."
+    },
+    {
+      "id": 52,
+      "question": "Two circles of radii 9 cm and 4 cm touch each other externally. Find the length of their direct common tangent.",
+      "options": {
+        "A": "13 cm",
+        "B": "12 cm",
+        "C": "10 cm",
+        "D": "11 cm"
+      },
+      "correct": "B",
+      "explanation": "Option B is the correct answer."
+    },
+    {
+      "id": 53,
+      "question": "Simplify:3/4 + 2/3 ÷ 4/9 ÷ 5/2 − 1/4 × 2/5",
+      "options": {
+        "A": "50/40",
+        "B": "51/40",
+        "C": "39/40",
+        "D": "11/10"
+      },
+      "correct": "A",
+      "explanation": "Option A is the correct answer."
+    },
+    {
+      "id": 54,
+      "question": "A container holds 8 1/2 litres of oil. If 1.125 litres are removed three times, how much oil is left?",
+      "options": {
+        "A": "5 1/8",
+        "B": "4 3/4",
+        "C": "5 1/4",
+        "D": "5"
+      },
+      "correct": "A",
+      "explanation": "Option A is the correct answer."
+    },
+    {
+      "id": 55,
+      "question": "A square pyramid has a base side of 12 cm and a slant height of 10 cm. Find its lateral surface area.",
+      "options": {
+        "A": "240 cm²",
+        "B": "120 cm²",
+        "C": "480 cm²",
+        "D": "360 cm²"
+      },
+      "correct": "A",
+      "explanation": "Option A is the correct answer."
+    },
+    {
+      "id": 56,
+      "question": "In a circle PM and QN intersect at point O. If PM = 15 cm, find the length of OM.",
+      "options": {
+        "A": "10 cm",
+        "B": "7.5 cm",
+        "C": "5 cm",
+        "D": "6 cm"
+      },
+      "correct": "C",
+      "explanation": "Option C is the correct answer."
+    },
+    {
+      "id": 57,
+      "question": "Simplify: 3 1/4 + 4.8 ÷ 1.2 + 2.5 × 3/5",
+      "options": {
+        "A": "35/4",
+        "B": "31/4",
+        "C": "33/4",
+        "D": "37/4"
+      },
+      "correct": "A",
+      "explanation": "Option A is the correct answer."
+    },
+    {
+      "id": 58,
+      "question": "The marked price of a cycle is ₹8,000. After two successive discounts, it is sold for ₹5,760. If the first discount is  10%, find the second discount rate.",
+      "options": {
+        "A": "15%",
+        "B": "20%",
+        "C": "25%",
+        "D": "18%"
+      },
+      "correct": "B",
+      "explanation": "Option B is the correct answer."
+    },
+    {
+      "id": 59,
+      "question": "P and Q invested in a venture in the ratio 4:7. The profit was shared in the ratio 8:7. If P invested for 14 months,  for how long did Q invest?",
+      "options": {
+        "A": "6 months",
+        "B": "7 months",
+        "C": "8 months",
+        "D": "9 months"
+      },
+      "correct": "B",
+      "explanation": "Option B is the correct answer."
+    },
+    {
+      "id": 60,
+      "question": "What is the capital of Australia?",
+      "options": {
+        "A": "Sydney",
+        "B": "Melbourne",
+        "C": "Canberra",
+        "D": "Brisbane"
+      },
+      "correct": "C",
+      "explanation": "Canberra is the capital of Australia."
+    },
+    {
+      "id": 61,
+      "question": "When two circles do not intersect and do not touch each other, how many common tangents can be drawn?",
+      "options": {
+        "A": "2",
+        "B": "3",
+        "C": "4",
+        "D": "1"
+      },
+      "correct": "C",
+      "explanation": "Option C is the correct answer."
+    },
+    {
+      "id": 62,
+      "question": "If A : B = 4 : 9, B : C = 3 : 7 and C : D = 5 : 2, find A : B : C : D.",
+      "options": {
+        "A": "20 : 45 : 105 : 42",
+        "B": "4 : 9 : 7 : 2",
+        "C": "12 : 27 : 63 : 18",
+        "D": "20 : 105 : 45 : 42"
+      },
+      "correct": "A",
+      "explanation": "Option A is the correct answer."
+    },
+    {
+      "id": 63,
+      "question": "The average weight of 11 players is 72 kg. If the coach's weight is excluded, the average decreases by 1 kg. What  is the weight of the coach?",
+      "options": {
+        "A": "81 kg",
+        "B": "82 kg",
+        "C": "83 kg",
+        "D": "84 kg"
+      },
+      "correct": "B",
+      "explanation": "Option B is the correct answer."
+    },
+    {
+      "id": 64,
+      "question": "If the side of a cube is tripled, what is the ratio of the new total surface area to the original, and the ratio of the  new volume to the original volume?",
+      "options": {
+        "A": "9:1 and 27:1",
+        "B": "6:1 and 9:1",
+        "C": "3:1 and 9:1",
+        "D": "9:1 and 3:1"
+      },
+      "correct": "A",
+      "explanation": "Option A is the correct answer."
+    },
+    {
+      "id": 65,
+      "question": "A box contains ₹2, ₹1, and 50p coins in the ratio 3 : 4 : 5. If the total value is ₹250, find the number of 50p coins.",
+      "options": {
+        "A": "50",
+        "B": "100",
+        "C": "125",
+        "D": "150"
+      },
+      "correct": "B",
+      "explanation": "Option B is the correct answer."
+    },
+    {
+      "id": 66,
+      "question": "A cylinder and a cone have the same base radius and the same volume. What is the ratio of the height of the  cylinder to the height of the cone?",
+      "options": {
+        "A": "1 : 3",
+        "B": "3 : 1",
+        "C": "1 : 1",
+        "D": "2 : 3"
+      },
+      "correct": "A",
+      "explanation": "Option A is the correct answer."
+    },
+    {
+      "id": 67,
+      "question": "The circumferences of two circles are in the ratio 4:5. If the area of the larger circle is 625 sq. units, find the area  of the smaller circle.",
+      "options": {
+        "A": "400 sq. units",
+        "B": "300 sq. units",
+        "C": "500 sq. units",
+        "D": "450 sq. units"
+      },
+      "correct": "A",
+      "explanation": "Option A is the correct answer."
+    },
+    {
+      "id": 68,
+      "question": "A chord of length 16 cm is at a distance of 6 cm from the center of a circle. What is the length of the radius?",
+      "options": {
+        "A": "8 cm",
+        "B": "10 cm",
+        "C": "12 cm",
+        "D": "14 cm"
+      },
+      "correct": "B",
+      "explanation": "Option B is the correct answer."
+    },
+    {
+      "id": 69,
+      "question": "A sum of money amounts to ₹13,225 in 2 years at 15% Compound Interest annually. Find the sum.",
+      "options": {
+        "A": "₹10,000",
+        "B": "₹9,500",
+        "C": "₹11,000",
+        "D": "₹10,500"
+      },
+      "correct": "A",
+      "explanation": "Option A is the correct answer."
+    },
+    {
+      "id": 70,
+      "question": "A circle of radius 12 cm has a sector with a central angle of 90°. Find the area of the minor segment formed by  the chord of this sector. (   = 3.14)",
+      "options": {
+        "A": "41.04 cm²",
+        "B": "36.52 cm²",
+        "C": "45.18 cm²",
+        "D": "39.24 cm²"
+      },
+      "correct": "A",
+      "explanation": "Option A is the correct answer."
+    },
+    {
+      "id": 71,
+      "question": "A right-angled triangle ABC (∠   = 90∘ ) has sides AB = 8 cm and BC = 15 cm. A perpendicular BD is dropped onto  the hypotenuse AC. Find the length of AD.",
+      "options": {
+        "A": "3.76 cm",
+        "B": "3.01 cm",
+        "C": "4.12 cm",
+        "D": "5.24 cm"
+      },
+      "correct": "A",
+      "explanation": "Option A is the correct answer."
+    },
+    {
+      "id": 72,
+      "question": "A trader bought 40 kg of wheat at ₹25/kg and 30 kg at ₹35/kg. He mixed them and sold the mixture at ₹32/kg.  Find his net gain or loss.",
+      "options": {
+        "A": "Profit of ₹180",
+        "B": "Loss of ₹190",
+        "C": "Profit of ₹190",
+        "D": "Loss of ₹180"
+      },
+      "correct": "C",
+      "explanation": "Option C is the correct answer."
+    },
+    {
+      "id": 73,
+      "question": "A retailer marks his goods 40% above the cost price. He allows a discount and still gains 19%. What was the  discount percentage?",
+      "options": {
+        "A": "12%",
+        "B": "15%",
+        "C": "18%",
+        "D": "10%"
+      },
+      "correct": "B",
+      "explanation": "Option B is the correct answer."
+    },
+    {
+      "id": 74,
+      "question": "Two triangles △        and △        are such that XY = LM, YZ = MN and XZ = LN. By which property are they  congruent?",
+      "options": {
+        "A": "SAS",
+        "B": "SSS",
+        "C": "RHS",
+        "D": "ASA"
+      },
+      "correct": "B",
+      "explanation": "Option B is the correct answer."
+    },
+    {
+      "id": 75,
+      "question": "A solid metallic sphere of radius 12 cm is melted to form three smaller spheres. If the radii of two spheres are 6  cm and 8 cm, find the radius of the third sphere.",
+      "options": {
+        "A": "10 cm",
+        "B": "9 cm",
+        "C": "11 cm",
+        "D": "10.5 cm"
+      },
+      "correct": "A",
+      "explanation": "Option A is the correct answer."
+    },
+    {
+      "id": 76,
+      "question": "Select the most appropriate synonym of the given word: INTRANSIGENT",
+      "options": {
+        "A": "Yielding",
+        "B": "Amenable",
+        "C": "Obstinate",
+        "D": "Pliant"
+      },
+      "correct": "C",
+      "explanation": "Option C is the correct answer."
+    },
+    {
+      "id": 77,
+      "question": "Rearrange the following sentences to form a coherent paragraph: 1. This sequence is important because it ensures reliability and repeatability in scientific outcomes. 2. Scientific inquiry begins by framing a testable hypothesis from an observation or question. 3. The information from these experiments is then evaluated to draw conclusions about the hypothesis. 4. Next, a controlled experiment is planned and conducted to gather evidence.",
+      "options": {
+        "A": "2, 4, 3, 1",
+        "B": "4, 3, 2, 1",
+        "C": "1, 2, 4, 3",
+        "D": "3, 1, 4, 2"
+      },
+      "correct": "A",
+      "explanation": "Option A is the correct answer."
+    },
+    {
+      "id": 78,
+      "question": "Select the most appropriate antonym of the given word. Incorrigible",
+      "options": {
+        "A": "Incurable",
+        "B": "Entrenched",
+        "C": "Inveterate",
+        "D": "Reformable"
+      },
+      "correct": "D",
+      "explanation": "Option D is the correct answer."
+    },
+    {
+      "id": 79,
+      "question": "Convert the sentence provided below from its passive voice structure to an active voice structure: The injured passenger was carried to the clinic by a few locals.",
+      "options": {
+        "A": "A few locals carry the injured passenger to the clinic.",
+        "B": "A few locals were carrying the injured passenger to the clinic.",
+        "C": "A few locals had carried the injured passenger to the clinic.",
+        "D": "A few locals carried the injured passenger to the clinic."
+      },
+      "correct": "D",
+      "explanation": "Option D is the correct answer."
+    },
+    {
+      "id": 80,
+      "question": "Select the most appropriate antonym of the given word. Pulchritude",
+      "options": {
+        "A": "Elegance",
+        "B": "Ugliness",
+        "C": "Allure",
+        "D": "Beauty"
+      },
+      "correct": "B",
+      "explanation": "Option B is the correct answer."
+    },
+    {
+      "id": 81,
+      "question": "Fill in the blank with the most appropriate option: Rarely ____ witnessed such unanimous agreement among reviewers.",
+      "options": {
+        "A": "has there been",
+        "B": "their has been",
+        "C": "was there",
+        "D": "had they"
+      },
+      "correct": "A",
+      "explanation": "Option A is the correct answer."
+    },
+    {
+      "id": 82,
+      "question": "Spot the correct spelling of an adjective related to causing hallucinations.",
+      "options": {
+        "A": "Halucinogenic",
+        "B": "Hallucinogenic",
+        "C": "Hallucenogenic",
+        "D": "Halluscinogenic"
+      },
+      "correct": "B",
+      "explanation": "Option B is the correct answer."
+    },
+    {
+      "id": 83,
+      "question": "Choose the correct one-word substitute for: ‘A formal division within a religious body’.",
+      "options": {
+        "A": "Serendipity",
+        "B": "Heresy",
+        "C": "Apostasy",
+        "D": "Schism"
+      },
+      "correct": "D",
+      "explanation": "Option D is the correct answer."
+    },
+    {
+      "id": 84,
+      "question": "In the tireless pursuit of achievement, the contrast between hard work and smart work appears not simply as a preference but as a subtle interplay within human productivity. Hard work—linked with sustained effort, unwavering perseverance, and sheer diligence—has long been praised as the foundation of accomplishment. Stories and biographies often glorify the individual who relies on grit and time to reach goals. Yet in a world shaped by precision tools, automation, and mental efficiency, these older assumptions are increasingly questioned. By contrast, smart work emphasizes strategic deployment of effort—using reflection, optimal resource use, and careful situational judgment. It attempts to reduce waste in labour while boosting returns on both thought and action. Smart workers examine systems, identify bottlenecks, and exploit tools—digital platforms or networks—to accelerate results. They step off the treadmill of one-direction exertion by embedding intelligence into execution. Still, praising smart work alone creates its own weakness. Intelligence without discipline often ends in shallowness—a surface-level capability that collapses under prolonged pressure. In the same way, relentless hard work without strategic course-correction can cause exhaustion and low effectiveness. Thus, modern success demands a blend: the wise worker mixes determination with strategy, working not only harder but better. The contrast is therefore not an either-or divide but a complementary relationship. Treating either extreme as ideal ignores the complex realities of performance. In today’s demanding landscape, the combined force of persistence and precision makes outcomes sustainable and impact stronger. Success, ultimately, is not produced by blind toil or cleverness alone, but by intelligent perseverance.<br><br>Which of the following best describes the author’s tone in the passage?",
+      "options": {
+        "A": "Rigidly opinionated",
+        "B": "Admiring and devotional",
+        "C": "Analytical",
+        "D": "Unconcerned"
+      },
+      "correct": "C",
+      "explanation": "Option C is the correct answer."
+    },
+    {
+      "id": 85,
+      "question": "In the tireless pursuit of achievement, the contrast between hard work and smart work appears not simply as a preference but as a subtle interplay within human productivity. Hard work—linked with sustained effort, unwavering perseverance, and sheer diligence—has long been praised as the foundation of accomplishment. Stories and biographies often glorify the individual who relies on grit and time to reach goals. Yet in a world shaped by precision tools, automation, and mental efficiency, these older assumptions are increasingly questioned. By contrast, smart work emphasizes strategic deployment of effort—using reflection, optimal resource use, and careful situational judgment. It attempts to reduce waste in labour while boosting returns on both thought and action. Smart workers examine systems, identify bottlenecks, and exploit tools—digital platforms or networks—to accelerate results. They step off the treadmill of one-direction exertion by embedding intelligence into execution. Still, praising smart work alone creates its own weakness. Intelligence without discipline often ends in shallowness—a surface-level capability that collapses under prolonged pressure. In the same way, relentless hard work without strategic course-correction can cause exhaustion and low effectiveness. Thus, modern success demands a blend: the wise worker mixes determination with strategy, working not only harder but better. The contrast is therefore not an either-or divide but a complementary relationship. Treating either extreme as ideal ignores the complex realities of performance. In today’s demanding landscape, the combined force of persistence and precision makes outcomes sustainable and impact stronger. Success, ultimately, is not produced by blind toil or cleverness alone, but by intelligent perseverance.<br><br>Select the sentence that most directly states the drawback of depending only on smart work.",
+      "options": {
+        "A": "“Hard work…has long been praised…”",
+        "B": "“They break the pattern…”",
+        "C": "“Intelligence without discipline often ends in shallowness…”",
+        "D": "“Thus, modern success demands a blend…”"
+      },
+      "correct": "C",
+      "explanation": "Option C is the correct answer."
+    },
+    {
+      "id": 86,
+      "question": "In the tireless pursuit of achievement, the contrast between hard work and smart work appears not simply as a preference but as a subtle interplay within human productivity. Hard work—linked with sustained effort, unwavering perseverance, and sheer diligence—has long been praised as the foundation of accomplishment. Stories and biographies often glorify the individual who relies on grit and time to reach goals. Yet in a world shaped by precision tools, automation, and mental efficiency, these older assumptions are increasingly questioned. By contrast, smart work emphasizes strategic deployment of effort—using reflection, optimal resource use, and careful situational judgment. It attempts to reduce waste in labour while boosting returns on both thought and action. Smart workers examine systems, identify bottlenecks, and exploit tools—digital platforms or networks—to accelerate results. They step off the treadmill of one-direction exertion by embedding intelligence into execution. Still, praising smart work alone creates its own weakness. Intelligence without discipline often ends in shallowness—a surface-level capability that collapses under prolonged pressure. In the same way, relentless hard work without strategic course-correction can cause exhaustion and low effectiveness. Thus, modern success demands a blend: the wise worker mixes determination with strategy, working not only harder but better. The contrast is therefore not an either-or divide but a complementary relationship. Treating either extreme as ideal ignores the complex realities of performance. In today’s demanding landscape, the combined force of persistence and precision makes outcomes sustainable and impact stronger. Success, ultimately, is not produced by blind toil or cleverness alone, but by intelligent perseverance.<br><br>From a broader viewpoint, what claim does the author make about hard work and smart work?",
+      "options": {
+        "A": "One must overpower the other to succeed",
+        "B": "They should combine to produce lasting success",
+        "C": "They cannot exist together",
+        "D": "Smart work alone fits modern life"
+      },
+      "correct": "B",
+      "explanation": "Option B is the correct answer."
+    },
+    {
+      "id": 87,
+      "question": "In the tireless pursuit of achievement, the contrast between hard work and smart work appears not simply as a preference but as a subtle interplay within human productivity. Hard work—linked with sustained effort, unwavering perseverance, and sheer diligence—has long been praised as the foundation of accomplishment. Stories and biographies often glorify the individual who relies on grit and time to reach goals. Yet in a world shaped by precision tools, automation, and mental efficiency, these older assumptions are increasingly questioned. By contrast, smart work emphasizes strategic deployment of effort—using reflection, optimal resource use, and careful situational judgment. It attempts to reduce waste in labour while boosting returns on both thought and action. Smart workers examine systems, identify bottlenecks, and exploit tools—digital platforms or networks—to accelerate results. They step off the treadmill of one-direction exertion by embedding intelligence into execution. Still, praising smart work alone creates its own weakness. Intelligence without discipline often ends in shallowness—a surface-level capability that collapses under prolonged pressure. In the same way, relentless hard work without strategic course-correction can cause exhaustion and low effectiveness. Thus, modern success demands a blend: the wise worker mixes determination with strategy, working not only harder but better. The contrast is therefore not an either-or divide but a complementary relationship. Treating either extreme as ideal ignores the complex realities of performance. In today’s demanding landscape, the combined force of persistence and precision makes outcomes sustainable and impact stronger. Success, ultimately, is not produced by blind toil or cleverness alone, but by intelligent perseverance.<br><br>In the context of smart work, what does the idea “reduce waste in labour” suggest?",
+      "options": {
+        "A": "Decrease physical effort by using machines",
+        "B": "Cut inefficiency and unnecessary randomness in work",
+        "C": "Avoid planning or structure in tasks",
+        "D": "Increase total workload to finish sooner"
+      },
+      "correct": "B",
+      "explanation": "Option B is the correct answer."
+    },
+    {
+      "id": 88,
+      "question": "In the tireless pursuit of achievement, the contrast between hard work and smart work appears not simply as a preference but as a subtle interplay within human productivity. Hard work—linked with sustained effort, unwavering perseverance, and sheer diligence—has long been praised as the foundation of accomplishment. Stories and biographies often glorify the individual who relies on grit and time to reach goals. Yet in a world shaped by precision tools, automation, and mental efficiency, these older assumptions are increasingly questioned. By contrast, smart work emphasizes strategic deployment of effort—using reflection, optimal resource use, and careful situational judgment. It attempts to reduce waste in labour while boosting returns on both thought and action. Smart workers examine systems, identify bottlenecks, and exploit tools—digital platforms or networks—to accelerate results. They step off the treadmill of one-direction exertion by embedding intelligence into execution. Still, praising smart work alone creates its own weakness. Intelligence without discipline often ends in shallowness—a surface-level capability that collapses under prolonged pressure. In the same way, relentless hard work without strategic course-correction can cause exhaustion and low effectiveness. Thus, modern success demands a blend: the wise worker mixes determination with strategy, working not only harder but better. The contrast is therefore not an either-or divide but a complementary relationship. Treating either extreme as ideal ignores the complex realities of performance. In today’s demanding landscape, the combined force of persistence and precision makes outcomes sustainable and impact stronger. Success, ultimately, is not produced by blind toil or cleverness alone, but by intelligent perseverance.<br><br>. Which metaphor in the passage refers to repetitive, one-way exertion?",
+      "options": {
+        "A": "Pattern",
+        "B": "Precision tools",
+        "C": "Demanding landscape",
+        "D": "Treadmill"
+      },
+      "correct": "D",
+      "explanation": "Option D is the correct answer."
+    },
+    {
+      "id": 89,
+      "question": "Choose the correct meaning of idiom: Down in the dumps",
+      "options": {
+        "A": "Moving at full speed",
+        "B": "In a state of sadness or inactivity",
+        "C": "About to achieve success",
+        "D": "Working with intense enthusiasm"
+      },
+      "correct": "B",
+      "explanation": "Option B is the correct answer."
+    },
+    {
+      "id": 90,
+      "question": "Select the sentence containing the homonym of the highlighted word: He chose the current route to reach the station faster.",
+      "options": {
+        "A": "The current pulled the boat toward the rocks.",
+        "B": "The professor analyzed current economic reforms.",
+        "C": "She quickly adjusted to current trends in design.",
+        "D": "He revised current affairs before the interview."
+      },
+      "correct": "A",
+      "explanation": "Option A is the correct answer."
+    },
+    {
+      "id": 91,
+      "question": "A sentence is provided in indirect speech. From the four given options, choose the one that most accurately  conveys the sentence in its corresponding direct speech. He suggested that, if stochastic volatility had been included, the valuation might have been more conservative.",
+      "options": {
+        "A": "He suggested, “If stochastic volatility had been included, the valuation might have been more conservative.”",
+        "B": "He suggested, “If stochastic volatility is included, valuation will be conservative.”",
+        "C": "He suggested, “If volatility included, valuation more conservative.”",
+        "D": "He said, “Including volatility makes valuation conservative.”"
+      },
+      "correct": "A",
+      "explanation": "Option A is the correct answer."
+    },
+    {
+      "id": 92,
+      "question": "A sentence is provided in direct speech. From the four given options, choose the one that most accurately conveys  the sentence in its corresponding indirect speech. They said, “We are leaving for a tour.”",
+      "options": {
+        "A": "They said that they are leaving for a tour.",
+        "B": "They said that they were leaving for a tour.",
+        "C": "They said that they left for a tour.",
+        "D": "They said they had leaving for a tour."
+      },
+      "correct": "B",
+      "explanation": "Option B is the correct answer."
+    },
+    {
+      "id": 93,
+      "question": "Choose the most suitable option to replace the highlighted part of the sentence: Ragini insisted that she comes along with us.",
+      "options": {
+        "A": "came along with us",
+        "B": "should come along with us",
+        "C": "is coming along with us",
+        "D": "has to come along with us"
+      },
+      "correct": "B",
+      "explanation": "Option B is the correct answer."
+    },
+    {
+      "id": 94,
+      "question": "Select the correct option: Only after years of meticulous study could the researcher ___ the conflicting narratives of the empire’s downfall.",
+      "options": {
+        "A": "retract",
+        "B": "modify",
+        "C": "reconcile",
+        "D": "resonate"
+      },
+      "correct": "C",
+      "explanation": "Option C is the correct answer."
+    },
+    {
+      "id": 95,
+      "question": "Choose the correct one-word substitution for: ‘A person who renounces his religious faith’.",
+      "options": {
+        "A": "Dissenter",
+        "B": "Skeptic",
+        "C": "Iconoclast",
+        "D": "Apostate"
+      },
+      "correct": "D",
+      "explanation": "Option D is the correct answer."
+    },
+    {
+      "id": 96,
+      "question": "Rearrange the following sentences to form a coherent paragraph: 1. Human-driven climate change, caused by greenhouse gas emissions, is disrupting global ecosystems in many ways. 2. Polar ice melt and shrinking glaciers have accelerated, contributing to rising sea levels. 3. This has resulted in more frequent and severe extreme weather events such as droughts, floods, and heatwaves. 4. Together, these impacts pose a major threat to biodiversity and human societies.",
+      "options": {
+        "A": "2, 4, 3, 1",
+        "B": "3, 1, 4, 2",
+        "C": "1, 2, 3, 4",
+        "D": "1, 4, 2, 3"
+      },
+      "correct": "C",
+      "explanation": "Option C is the correct answer."
+    },
+    {
+      "id": 97,
+      "question": "Choose the most suitable option to replace the highlighted part of the sentence: He is good in Physics.",
+      "options": {
+        "A": "has been better in",
+        "B": "is good at",
+        "C": "is good for",
+        "D": "is best in"
+      },
+      "correct": "B",
+      "explanation": "Option B is the correct answer."
+    },
+    {
+      "id": 98,
+      "question": "Find the part of the sentence that contains an error: Little did the board knew (1)/ about the concealed risks (2)/ when it endorsed the acquisition (3)/ late last year. (4)/",
+      "options": {
+        "A": "(1)",
+        "B": "(2)",
+        "C": "(3)",
+        "D": "(4)"
+      },
+      "correct": "A",
+      "explanation": "Option A is the correct answer."
+    },
+    {
+      "id": 99,
+      "question": "Change the following from active to passive: Have the technicians fixed the alignment fault yet?",
+      "options": {
+        "A": "Has the alignment fault had been fixed by the technicians yet?",
+        "B": "Has the alignment fault been fixed by the technicians yet?",
+        "C": "Has the alignment fault be fixed by the technicians yet?",
+        "D": "Has the alignment fault fixed by the technicians yet?"
+      },
+      "correct": "B",
+      "explanation": "Option B is the correct answer."
+    },
+    {
+      "id": 100,
+      "question": "Find the part of the sentence that contains an error: All that is required for the motion to succeed (1)/ are a two-thirds vote (2)/ and approval from the chairperson (3)/ to  validate the decision. (4)/",
+      "options": {
+        "A": "(1)",
+        "B": "(2)",
+        "C": "(3)",
+        "D": "(4)"
+      },
+      "correct": "B",
+      "explanation": "Option B is the correct answer."
+    }
+  ]
+}
