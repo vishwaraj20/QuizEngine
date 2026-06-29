@@ -388,7 +388,7 @@ export default function AdminUploadPage() {
                    <span className="px-2 py-1 text-xs font-bold uppercase rounded bg-gray-100 dark:bg-slate-800 text-gray-600 dark:text-gray-400 mr-2">{p.difficulty}</span>
                  </div>
                  <div className="text-sm text-gray-600 dark:text-gray-400 mb-4 whitespace-pre-wrap">{p.description}</div>
-                 <div className="bg-gray-900 dark:bg-blue-600 text-gray-300 p-4 rounded-lg font-mono text-xs whitespace-pre-wrap mb-4 overflow-auto">
+                 <div className="bg-gray-900 dark:bg-slate-950 text-gray-300 p-4 rounded-lg font-mono text-xs whitespace-pre-wrap mb-4 overflow-auto">
                    {p.starter_code}
                  </div>
                  <h4 className="font-bold text-sm mb-2 text-gray-700 dark:text-gray-300">Test Cases ({p.test_cases?.length})</h4>
@@ -479,7 +479,7 @@ export default function AdminUploadPage() {
             {copied ? <><Check className="w-4 h-4 mr-2"/>Copied!</> : <><Copy className="w-4 h-4 mr-2"/>Copy Prompt</>}
           </button>
         </div>
-        <div className="bg-gray-900 dark:bg-blue-600 text-gray-200 rounded-2xl p-6 font-mono text-sm leading-relaxed whitespace-pre-wrap max-h-80 overflow-y-auto border border-gray-700 shadow-inner">
+        <div className="bg-gray-900 dark:bg-slate-950 text-gray-200 rounded-2xl p-6 font-mono text-sm leading-relaxed whitespace-pre-wrap max-h-80 overflow-y-auto border border-gray-700 shadow-inner">
           {uploadMode === 'coding' ? CODING_AI_PROMPT : AI_PROMPT}
         </div>
       </div>

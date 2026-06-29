@@ -258,7 +258,7 @@ export default function ExamPrepPage() {
              <div className="text-6xl mb-4 opacity-50">📂</div>
              <h3 className="text-xl font-bold text-gray-800 dark:text-gray-200 mb-2">No tests found</h3>
              <p className="text-gray-500 dark:text-gray-400">We couldn&apos;t find any {activePhase} tests for the selected filters.</p>
-             <button onClick={() => {setSelectedSubject('All'); setSelectedYear('All');}} className="mt-6 px-6 py-2 bg-blue-50 text-blue-600 font-bold rounded-lg hover:bg-blue-100">
+              <button onClick={() => {setSelectedSubject('All'); setSelectedYear('All');}} className="mt-6 px-6 py-2 bg-blue-50 dark:bg-blue-950/40 text-blue-600 dark:text-blue-400 font-bold rounded-lg hover:bg-blue-100 dark:hover:bg-blue-900/50">
                Clear Filters
              </button>
           </div>
@@ -380,12 +380,12 @@ export default function ExamPrepPage() {
           /* ── Subject-wise / Topic-wise: original card grid ── */
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
             {filteredQuizzes.map(quiz => (
-              <div key={quiz.id} className="bg-white dark:bg-slate-800 rounded-3xl p-6 border border-gray-100 dark:border-slate-700 shadow-sm hover:shadow-xl hover:border-blue-200 transition-all flex flex-col group relative overflow-hidden">
-                <div className="absolute top-0 right-0 w-32 h-32 bg-gradient-to-br from-blue-50 to-purple-50 rounded-bl-[100px] -z-10 group-hover:scale-110 transition-transform"></div>
+              <div key={quiz.id} className="bg-white dark:bg-slate-800 rounded-3xl p-6 border border-gray-100 dark:border-slate-700 shadow-sm hover:shadow-xl hover:border-blue-200 dark:hover:border-slate-600 transition-all flex flex-col group relative overflow-hidden">
+                <div className="absolute top-0 right-0 w-32 h-32 bg-gradient-to-br from-blue-50 to-purple-50 dark:from-slate-700/30 dark:to-slate-800/20 rounded-bl-[100px] -z-10 group-hover:scale-110 transition-transform"></div>
                 
                 <div className="flex justify-between items-start mb-4">
                   {quiz.subject && quiz.quiz_mode !== 'PYQ Papers' && (
-                    <div className="px-3 py-1 bg-blue-100 text-blue-700 text-xs font-black uppercase tracking-wider rounded-lg">
+                    <div className="px-3 py-1 bg-blue-100 dark:bg-blue-950/40 text-blue-700 dark:text-blue-300 text-xs font-black uppercase tracking-wider rounded-lg">
                       {quiz.subject}
                     </div>
                   )}
@@ -398,7 +398,7 @@ export default function ExamPrepPage() {
                 
                 <h3 className="text-xl font-black text-gray-900 dark:text-white mb-2 leading-tight">{quiz.title}</h3>
                 
-                <div className="flex items-center gap-4 text-sm font-medium text-gray-500 dark:text-gray-400 mb-6 mt-auto pt-4 border-t border-gray-50">
+                <div className="flex items-center gap-4 text-sm font-medium text-gray-500 dark:text-gray-400 mb-6 mt-auto pt-4 border-t border-gray-50 dark:border-slate-700">
                    <div className="flex items-center"><Clock className="w-4 h-4 mr-1 text-gray-400" /> {quiz.time_limit ? `${quiz.time_limit}m` : 'No limit'}</div>
                    <div className="flex items-center"><Award className="w-4 h-4 mr-1 text-orange-400" /> {quiz.pass_percent}% pass</div>
                 </div>

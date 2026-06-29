@@ -281,7 +281,7 @@ export default function QuizTakingPage() {
 
   if (!hasStarted && !result) {
     return (
-      <div className="min-h-screen bg-gray-900 dark:bg-blue-600 flex items-center justify-center p-6 text-center">
+      <div className="min-h-screen bg-gray-900 dark:bg-slate-950 flex items-center justify-center p-6 text-center">
          <div className="max-w-lg bg-white dark:bg-slate-800 p-12 rounded-[3.5rem] shadow-2xl animate-in zoom-in duration-300">
              <div className="w-24 h-24 bg-red-100 dark:bg-red-900/30 text-red-600 dark:text-red-400 rounded-3xl flex items-center justify-center mx-auto mb-8 shadow-inner">
                 <ShieldAlert className="w-12 h-12" />
@@ -396,7 +396,7 @@ export default function QuizTakingPage() {
     <div className="min-h-screen bg-gray-50 dark:bg-slate-900 flex items-center justify-center p-6 bg-[url('https://www.transparenttextures.com/patterns/cubes.png')] bg-fixed">
       {/* CUSTOM CHEAT WARNING MODAL */}
       {cheatAlert && (
-         <div className="fixed inset-0 z-[100] flex items-center justify-center bg-gray-900/80 dark:bg-blue-600/90 backdrop-blur-sm p-4">
+         <div className="fixed inset-0 z-[100] flex items-center justify-center bg-gray-900/80 dark:bg-slate-950/85 backdrop-blur-sm p-4">
             <div className="bg-white dark:bg-slate-800 rounded-[2rem] p-10 max-w-md w-full text-center shadow-2xl border border-red-500 animate-in zoom-in duration-200">
                <div className="w-20 h-20 bg-red-100 text-red-600 rounded-full flex items-center justify-center mx-auto mb-6">
                   <AlertTriangle className="w-10 h-10" />
@@ -446,11 +446,11 @@ export default function QuizTakingPage() {
                    timeLeft !== null && (
                      <div className="flex items-center gap-4">
                        {warnings > 0 && (
-                         <div className="px-4 py-2 bg-red-100 text-red-700 rounded-xl flex items-center font-black text-xs uppercase tracking-widest animate-pulse border border-red-200 shadow-sm">
+                         <div className="px-4 py-2 bg-red-100 dark:bg-red-950/40 text-red-700 dark:text-red-400 rounded-xl flex items-center font-black text-xs uppercase tracking-widest animate-pulse border border-red-200 dark:border-red-900/50 shadow-sm">
                            <AlertTriangle className="w-4 h-4 mr-2" /> {warnings}/3 Strikes
                          </div>
                        )}
-                       <div className={`px-6 py-3 rounded-2xl flex items-center gap-3 border-2 transition-colors duration-500 ${timeLeft < 60 ? 'bg-red-50 border-red-200 text-red-600 animate-pulse' : 'bg-blue-50 border-blue-100 text-blue-700'}`}>
+                       <div className={`px-6 py-3 rounded-2xl flex items-center gap-3 border-2 transition-colors duration-500 ${timeLeft < 60 ? 'bg-red-50 dark:bg-red-950/40 border-red-200 dark:border-red-900/50 text-red-600 dark:text-red-400 animate-pulse' : 'bg-blue-50 dark:bg-blue-950/40 border-blue-100 dark:border-blue-900/50 text-blue-700 dark:text-blue-300'}`}>
                           <Clock className="w-6 h-6" />
                           <span className="text-2xl font-black tabular-nums">{formatTime(timeLeft)}</span>
                        </div>
@@ -661,7 +661,7 @@ export default function QuizTakingPage() {
       </div>
       {/* Submit Early Confirmation Modal */}
       {showSubmitConfirm && (
-        <div className="fixed inset-0 z-50 flex items-center justify-center bg-gray-900/80 dark:bg-blue-600/80 backdrop-blur-sm p-4">
+        <div className="fixed inset-0 z-50 flex items-center justify-center bg-gray-900/80 dark:bg-slate-950/85 backdrop-blur-sm p-4">
           <div className="bg-white dark:bg-slate-800 rounded-[2rem] shadow-2xl p-8 max-w-sm w-full text-center border-4 border-white dark:border-slate-700 animate-in fade-in zoom-in duration-300">
             <div className="w-20 h-20 bg-blue-50 dark:bg-slate-900 text-blue-600 dark:text-blue-400 rounded-full flex items-center justify-center mx-auto mb-6">
                <AlertCircle className="w-10 h-10" />

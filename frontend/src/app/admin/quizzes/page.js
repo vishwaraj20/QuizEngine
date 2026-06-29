@@ -179,7 +179,7 @@ export default function AdminQuizzesPage() {
 
       {/* CUSTOM DELETE CONFIRMATION MODAL */}
       {deletePendingId && (
-        <div className="fixed inset-0 z-[60] flex items-center justify-center p-4 bg-gray-900 dark:bg-blue-600/60 backdrop-blur-md">
+        <div className="fixed inset-0 z-[60] flex items-center justify-center p-4 bg-gray-900/80 dark:bg-slate-950/80 backdrop-blur-md">
            <div className="bg-white dark:bg-slate-800 rounded-[2rem] p-10 max-w-sm w-full text-center shadow-2xl border border-gray-100 dark:border-slate-700 animate-in fade-in zoom-in duration-200">
               <div className="w-20 h-20 bg-red-50 text-red-600 rounded-3xl flex items-center justify-center mx-auto mb-6 shadow-inner">
                  <AlertTriangle className="w-10 h-10" />
@@ -196,7 +196,7 @@ export default function AdminQuizzesPage() {
 
       {/* FULL FEATURED EDIT MODAL */}
       {isEditModalOpen && editingQuiz && (
-        <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-gray-900 dark:bg-blue-600/40 backdrop-blur-sm overflow-y-auto">
+        <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-gray-900/80 dark:bg-slate-950/80 backdrop-blur-sm overflow-y-auto">
            <div className="bg-white dark:bg-slate-800 rounded-[3rem] shadow-2xl w-full max-w-4xl my-auto overflow-hidden border border-gray-100 dark:border-slate-700 animate-in fade-in zoom-in duration-200 flex flex-col max-h-[90vh]">
               
               {/* Modal Header */}
