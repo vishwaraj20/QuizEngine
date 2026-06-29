@@ -188,7 +188,8 @@ app.get('/api/quizzes/:id/take', async (req, res) => {
   const { data: questions, error: qErr } = await supabase
     .from('questions')
     .select('id, quiz_id, question_text, option_a, option_b, option_c, option_d, difficulty')
-    .eq('quiz_id', quiz.id);
+    .eq('quiz_id', quiz.id)
+    .order('id', { ascending: true });
 
   if (qErr) return res.status(500).json({ error: qErr.message });
   res.json({ quiz, questions: questions || [] });
@@ -199,30 +200,20 @@ app.post('/api/quizzes/:id/attempts', async (req, res) => {
   const quizId = req.params.id;
   const { userId, userName, answers, time_taken } = req.body; 
 
-  const { data: questions, error } = await supabase.from('questions').select('*').eq('quiz_id', quizId);
+  const { data: questions, error } = await supabase.from('questions').select('*').eq('quiz_id', quizId).order('id', { ascending: true });
   if (error || !questions.length) return res.status(404).json({ error: 'Quiz missing questions' });
 
   let score = 0;
   const total = questions.length;
   const reviewData = [];
 
-  const mappedQuestions = questions.reduce((acc, q) => {
-    acc[q.id] = q;
-    return acc;
-  }, {});
-
-  const answerKeys = Object.keys(answers || {});
-  for (const qIdStr of answerKeys) {
-    const qId = parseInt(qIdStr);
-    const selected = answers[qIdStr];
-    const q = mappedQuestions[qId];
-    if (!q) continue;
-
-    const isCorrect = q.correct_option === selected;
+  for (const q of questions) {
+    const selected = (answers || {})[q.id] || null;
+    const isCorrect = selected !== null && q.correct_option === selected;
     if (isCorrect) score++;
 
     reviewData.push({
-      question_id: qId,
+      question_id: q.id,
       question_text: q.question_text,
       selected_option: selected,
       correct_option: q.correct_option,
