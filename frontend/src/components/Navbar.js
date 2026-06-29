@@ -65,7 +65,26 @@ export default function Navbar() {
          <Link href="/auth" className="px-4 py-2 bg-gray-900 dark:bg-blue-600 text-white rounded-md hover:bg-gray-800 dark:hover:bg-blue-700 transition">Login / Register</Link>
       )}
 
-      {user && user.role === 'admin' && (
+      {/* Simplified Navbar for Landing Page (Option 2) */}
+      {user && pathname === '/' && (
+         <div className="flex items-center space-x-4">
+           <Link 
+             href={user.role === 'admin' ? '/admin' : '/dashboard'} 
+             className="px-4 py-2 bg-blue-600 dark:bg-blue-500 hover:bg-blue-700 dark:hover:bg-blue-600 text-white font-bold rounded-full shadow transition flex items-center gap-2 text-xs md:text-sm"
+           >
+             Go to Dashboard &rarr;
+           </Link>
+           <div className="flex items-center border-l pl-4 border-gray-300 dark:border-gray-700 space-x-3">
+              <Link href={user.role === 'admin' ? '/admin' : '/profile'} className="w-9 h-9 bg-gradient-to-br from-blue-500 to-purple-600 text-white rounded-full flex items-center justify-center font-bold text-sm shadow hover:shadow-md hover:scale-105 transition-transform" title="View Profile">
+                {user.name ? user.name.charAt(0).toUpperCase() : (user.role === 'admin' ? 'A' : 'S')}
+              </Link>
+              <span className="text-blue-600 dark:text-blue-400 font-bold hidden md:inline">{user.name || 'Admin'}</span>
+              <button onClick={logout} className="text-red-500 font-bold hover:underline text-xs">Logout</button>
+           </div>
+         </div>
+      )}
+
+      {user && user.role === 'admin' && pathname !== '/' && (
          <>
            <Link href="/admin/quizzes" className={`transition ${pathname === '/admin/quizzes' ? 'text-blue-600 dark:text-blue-400 font-bold' : 'hover:text-blue-600 dark:hover:text-blue-400'}`}>Admin Dashboard</Link>
            <Link href="/admin" className={`transition ${pathname === '/admin' ? 'text-blue-600 dark:text-blue-400 font-bold' : 'hover:text-blue-600 dark:hover:text-blue-400'}`}>Create Quiz</Link>
@@ -76,7 +95,7 @@ export default function Navbar() {
          </>
       )}
 
-      {user && user.role === 'student' && (
+      {user && user.role === 'student' && pathname !== '/' && (
          <>
            <Link href="/dashboard" className={`transition ${pathname === '/dashboard' ? 'text-blue-600 dark:text-blue-400 font-bold' : 'hover:text-blue-600 dark:hover:text-blue-400'}`}>Dashboard</Link>
            <Link href="/dashboard/leaderboard" className={`transition ${pathname === '/dashboard/leaderboard' ? 'text-blue-600 dark:text-blue-400 font-bold' : 'hover:text-blue-600 dark:hover:text-blue-400'}`}>Leaderboard</Link>

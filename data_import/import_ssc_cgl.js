@@ -852,7 +852,10 @@ async function runImport() {
     time_limit: 60,
     pass_percent: 50,
     show_explanation: "after_quiz",
-    status: "Published"
+    status: "Published",
+    year: "2025",
+    phase: "Tier 1",
+    quiz_mode: "PYQ Papers"
   }]).select();
 
   if (quizError) {
