@@ -336,6 +336,36 @@ export default function QuizTakingPage() {
                 <p className="text-3xl font-black text-blue-600">{Math.round((result.score/result.total)*100)}%</p>
              </div>
           </div>
+
+          <div className="mt-8 flex flex-wrap items-center justify-center gap-4">
+            <button 
+              onClick={() => router.back()} 
+              className="px-8 py-3.5 bg-gray-100 dark:bg-slate-700 hover:bg-gray-200 dark:hover:bg-slate-600 text-gray-800 dark:text-white rounded-2xl font-bold flex items-center gap-2 transition"
+            >
+              <ArrowLeft className="w-4 h-4" /> Go Back
+            </button>
+            {quizInfo && quizInfo.category && (
+              <button 
+                onClick={() => router.push(`/dashboard/exam/${quizInfo.category}`)} 
+                className="px-8 py-3.5 bg-indigo-50 dark:bg-indigo-950/60 hover:bg-indigo-100 dark:hover:bg-indigo-900/60 text-indigo-600 dark:text-indigo-400 border border-indigo-200 dark:border-indigo-800 rounded-2xl font-bold transition"
+              >
+                Back to {quizInfo.category} Papers
+              </button>
+            )}
+            <button 
+              onClick={() => {
+                setResult(null);
+                setAnswers({});
+                setMarkedForReview({});
+                setCurrentIndex(0);
+                setHasStarted(false);
+                setTimeLeft((quizInfo?.time_limit || 60) * 60);
+              }} 
+              className="px-8 py-3.5 bg-blue-600 hover:bg-blue-700 text-white rounded-2xl font-bold shadow-lg shadow-blue-600/30 transition"
+            >
+              Retake Assessment
+            </button>
+          </div>
         </div>
 
         <div className="space-y-6">
