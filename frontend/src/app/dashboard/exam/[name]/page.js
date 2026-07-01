@@ -268,7 +268,7 @@ export default function ExamPrepPage() {
             {/* 1. GS Paper I */}
             {(() => {
               const gsQuizzes = filteredQuizzes
-                .filter(q => q.subject === 'General Studies' || (q.title && q.title.toLowerCase().includes('gs paper')) || (q.subject !== 'CSAT' && !(q.title || '').toLowerCase().includes('csat')))
+                .filter(q => q.subject === 'General Studies' || (q.title && q.title.toLowerCase().includes('prelims') && q.title.toLowerCase().includes('gs paper')) || (q.subject !== 'CSAT' && !q.subject?.includes('Mains') && !(q.title || '').toLowerCase().includes('csat') && !(q.title || '').toLowerCase().includes('mains')))
                 .sort((a, b) => (b.year || '').localeCompare(a.year || ''));
               if (gsQuizzes.length === 0) return null;
               return (
@@ -276,7 +276,7 @@ export default function ExamPrepPage() {
                   <div className="flex items-center gap-3 mb-6 pb-4 border-b border-gray-100 dark:border-slate-700">
                     <div className="w-10 h-10 rounded-xl bg-indigo-100 dark:bg-indigo-950/50 text-indigo-600 dark:text-indigo-400 flex items-center justify-center font-black text-lg">I</div>
                     <div>
-                      <h3 className="text-xl font-black text-gray-900 dark:text-white">📝 GS Paper I — General Studies</h3>
+                      <h3 className="text-xl font-black text-gray-900 dark:text-white">📝 Prelims GS Paper I — General Studies</h3>
                       <p className="text-gray-400 text-xs font-medium mt-0.5">100 Questions · 200 Marks · Decides the cutoff · {gsQuizzes.length} years available</p>
                     </div>
                   </div>
@@ -308,7 +308,7 @@ export default function ExamPrepPage() {
                   <div className="flex items-center gap-3 mb-6 pb-4 border-b border-gray-100 dark:border-slate-700">
                     <div className="w-10 h-10 rounded-xl bg-teal-100 dark:bg-teal-950/50 text-teal-600 dark:teal-400 flex items-center justify-center font-black text-lg">II</div>
                     <div>
-                      <h3 className="text-xl font-black text-gray-900 dark:text-white">🧠 CSAT Paper II — Aptitude &amp; Reasoning</h3>
+                      <h3 className="text-xl font-black text-gray-900 dark:text-white">🧠 Prelims CSAT Paper II — Aptitude &amp; Reasoning</h3>
                       <p className="text-gray-400 text-xs font-medium mt-0.5">80 Questions · 200 Marks · Qualifying (33% min) · {csatQuizzes.length} years available</p>
                     </div>
                   </div>
@@ -318,6 +318,134 @@ export default function ExamPrepPage() {
                         className="bg-gradient-to-br from-slate-900 via-teal-950 to-slate-900 p-4 rounded-2xl border border-teal-500/20 shadow-md hover:shadow-xl hover:-translate-y-1 transition-all group flex flex-col items-center justify-center text-white text-center gap-1">
                         <span className="text-[9px] text-teal-400 font-black uppercase tracking-wider">CSAT</span>
                         <span className="text-2xl font-black tracking-tight group-hover:text-teal-300 transition-colors">{quiz.year}</span>
+                        <div className="flex items-center justify-center gap-3 mt-2 text-[10px] text-slate-400">
+                          <span className="flex items-center gap-1"><BookOpen className="w-3 h-3"/> {quiz.questions_count || 0} Qs</span>
+                          <span className="flex items-center gap-1"><Clock className="w-3 h-3"/> {quiz.time_limit ? `${quiz.time_limit}m` : 'No limit'}</span>
+                        </div>
+                      </Link>
+                    ))}
+                  </div>
+                </div>
+              );
+            })()}
+
+            {/* 3. Mains GS Paper I */}
+            {(() => {
+              const mains1 = filteredQuizzes
+                .filter(q => q.subject === 'Mains GS Paper I' || (q.title && q.title.toLowerCase().includes('mains') && q.title.toLowerCase().includes('paper 1')))
+                .sort((a, b) => (b.year || '').localeCompare(a.year || ''));
+              if (mains1.length === 0) return null;
+              return (
+                <div className="bg-white dark:bg-slate-800 p-8 rounded-[2.5rem] border border-gray-100 dark:border-slate-700 shadow-sm">
+                  <div className="flex items-center gap-3 mb-6 pb-4 border-b border-gray-100 dark:border-slate-700">
+                    <div className="w-10 h-10 rounded-xl bg-purple-100 dark:bg-purple-950/50 text-purple-600 dark:text-purple-400 flex items-center justify-center font-black text-lg">M1</div>
+                    <div>
+                      <h3 className="text-xl font-black text-gray-900 dark:text-white">🏛️ Mains GS Paper I — History, Geography &amp; Agriculture</h3>
+                      <p className="text-gray-400 text-xs font-medium mt-0.5">150 Questions · 150 Marks · Rajyaseva Mains · {mains1.length} years available</p>
+                    </div>
+                  </div>
+                  <div className="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-6 lg:grid-cols-8 xl:grid-cols-10 gap-3">
+                    {mains1.map(quiz => (
+                      <Link key={quiz.id} href={`/quiz/${quiz.id}`}
+                        className="bg-gradient-to-br from-slate-900 via-purple-950 to-slate-900 p-4 rounded-2xl border border-purple-500/20 shadow-md hover:shadow-xl hover:-translate-y-1 transition-all group flex flex-col items-center justify-center text-white text-center gap-1">
+                        <span className="text-[9px] text-purple-400 font-black uppercase tracking-wider">GS 1</span>
+                        <span className="text-2xl font-black tracking-tight group-hover:text-purple-300 transition-colors">{quiz.year}</span>
+                        <div className="flex items-center justify-center gap-3 mt-2 text-[10px] text-slate-400">
+                          <span className="flex items-center gap-1"><BookOpen className="w-3 h-3"/> {quiz.questions_count || 0} Qs</span>
+                          <span className="flex items-center gap-1"><Clock className="w-3 h-3"/> {quiz.time_limit ? `${quiz.time_limit}m` : 'No limit'}</span>
+                        </div>
+                      </Link>
+                    ))}
+                  </div>
+                </div>
+              );
+            })()}
+
+            {/* 4. Mains GS Paper II */}
+            {(() => {
+              const mains2 = filteredQuizzes
+                .filter(q => q.subject === 'Mains GS Paper II' || (q.title && q.title.toLowerCase().includes('mains') && q.title.toLowerCase().includes('paper 2')))
+                .sort((a, b) => (b.year || '').localeCompare(a.year || ''));
+              if (mains2.length === 0) return null;
+              return (
+                <div className="bg-white dark:bg-slate-800 p-8 rounded-[2.5rem] border border-gray-100 dark:border-slate-700 shadow-sm">
+                  <div className="flex items-center gap-3 mb-6 pb-4 border-b border-gray-100 dark:border-slate-700">
+                    <div className="w-10 h-10 rounded-xl bg-blue-100 dark:bg-blue-950/50 text-blue-600 dark:text-blue-400 flex items-center justify-center font-black text-lg">M2</div>
+                    <div>
+                      <h3 className="text-xl font-black text-gray-900 dark:text-white">⚖️ Mains GS Paper II — Indian Constitution, Polity &amp; Law</h3>
+                      <p className="text-gray-400 text-xs font-medium mt-0.5">150 Questions · 150 Marks · Rajyaseva Mains · {mains2.length} years available</p>
+                    </div>
+                  </div>
+                  <div className="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-6 lg:grid-cols-8 xl:grid-cols-10 gap-3">
+                    {mains2.map(quiz => (
+                      <Link key={quiz.id} href={`/quiz/${quiz.id}`}
+                        className="bg-gradient-to-br from-slate-900 via-blue-950 to-slate-900 p-4 rounded-2xl border border-blue-500/20 shadow-md hover:shadow-xl hover:-translate-y-1 transition-all group flex flex-col items-center justify-center text-white text-center gap-1">
+                        <span className="text-[9px] text-blue-400 font-black uppercase tracking-wider">GS 2</span>
+                        <span className="text-2xl font-black tracking-tight group-hover:text-blue-300 transition-colors">{quiz.year}</span>
+                        <div className="flex items-center justify-center gap-3 mt-2 text-[10px] text-slate-400">
+                          <span className="flex items-center gap-1"><BookOpen className="w-3 h-3"/> {quiz.questions_count || 0} Qs</span>
+                          <span className="flex items-center gap-1"><Clock className="w-3 h-3"/> {quiz.time_limit ? `${quiz.time_limit}m` : 'No limit'}</span>
+                        </div>
+                      </Link>
+                    ))}
+                  </div>
+                </div>
+              );
+            })()}
+
+            {/* 5. Mains GS Paper III */}
+            {(() => {
+              const mains3 = filteredQuizzes
+                .filter(q => q.subject === 'Mains GS Paper III' || (q.title && q.title.toLowerCase().includes('mains') && q.title.toLowerCase().includes('paper 3')))
+                .sort((a, b) => (b.year || '').localeCompare(a.year || ''));
+              if (mains3.length === 0) return null;
+              return (
+                <div className="bg-white dark:bg-slate-800 p-8 rounded-[2.5rem] border border-gray-100 dark:border-slate-700 shadow-sm">
+                  <div className="flex items-center gap-3 mb-6 pb-4 border-b border-gray-100 dark:border-slate-700">
+                    <div className="w-10 h-10 rounded-xl bg-amber-100 dark:bg-amber-950/50 text-amber-600 dark:text-amber-400 flex items-center justify-center font-black text-lg">M3</div>
+                    <div>
+                      <h3 className="text-xl font-black text-gray-900 dark:text-white">👥 Mains GS Paper III — Human Resource Development &amp; Human Rights</h3>
+                      <p className="text-gray-400 text-xs font-medium mt-0.5">150 Questions · 150 Marks · Rajyaseva Mains · {mains3.length} years available</p>
+                    </div>
+                  </div>
+                  <div className="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-6 lg:grid-cols-8 xl:grid-cols-10 gap-3">
+                    {mains3.map(quiz => (
+                      <Link key={quiz.id} href={`/quiz/${quiz.id}`}
+                        className="bg-gradient-to-br from-slate-900 via-amber-950 to-slate-900 p-4 rounded-2xl border border-amber-500/20 shadow-md hover:shadow-xl hover:-translate-y-1 transition-all group flex flex-col items-center justify-center text-white text-center gap-1">
+                        <span className="text-[9px] text-amber-400 font-black uppercase tracking-wider">GS 3</span>
+                        <span className="text-2xl font-black tracking-tight group-hover:text-amber-300 transition-colors">{quiz.year}</span>
+                        <div className="flex items-center justify-center gap-3 mt-2 text-[10px] text-slate-400">
+                          <span className="flex items-center gap-1"><BookOpen className="w-3 h-3"/> {quiz.questions_count || 0} Qs</span>
+                          <span className="flex items-center gap-1"><Clock className="w-3 h-3"/> {quiz.time_limit ? `${quiz.time_limit}m` : 'No limit'}</span>
+                        </div>
+                      </Link>
+                    ))}
+                  </div>
+                </div>
+              );
+            })()}
+
+            {/* 6. Mains GS Paper IV */}
+            {(() => {
+              const mains4 = filteredQuizzes
+                .filter(q => q.subject === 'Mains GS Paper IV' || (q.title && q.title.toLowerCase().includes('mains') && q.title.toLowerCase().includes('paper 4')))
+                .sort((a, b) => (b.year || '').localeCompare(a.year || ''));
+              if (mains4.length === 0) return null;
+              return (
+                <div className="bg-white dark:bg-slate-800 p-8 rounded-[2.5rem] border border-gray-100 dark:border-slate-700 shadow-sm">
+                  <div className="flex items-center gap-3 mb-6 pb-4 border-b border-gray-100 dark:border-slate-700">
+                    <div className="w-10 h-10 rounded-xl bg-rose-100 dark:bg-rose-950/50 text-rose-600 dark:text-rose-400 flex items-center justify-center font-black text-lg">M4</div>
+                    <div>
+                      <h3 className="text-xl font-black text-gray-900 dark:text-white">📈 Mains GS Paper IV — Economy &amp; Science Tech</h3>
+                      <p className="text-gray-400 text-xs font-medium mt-0.5">150 Questions · 150 Marks · Rajyaseva Mains · {mains4.length} years available</p>
+                    </div>
+                  </div>
+                  <div className="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-6 lg:grid-cols-8 xl:grid-cols-10 gap-3">
+                    {mains4.map(quiz => (
+                      <Link key={quiz.id} href={`/quiz/${quiz.id}`}
+                        className="bg-gradient-to-br from-slate-900 via-rose-950 to-slate-900 p-4 rounded-2xl border border-rose-500/20 shadow-md hover:shadow-xl hover:-translate-y-1 transition-all group flex flex-col items-center justify-center text-white text-center gap-1">
+                        <span className="text-[9px] text-rose-400 font-black uppercase tracking-wider">GS 4</span>
+                        <span className="text-2xl font-black tracking-tight group-hover:text-rose-300 transition-colors">{quiz.year}</span>
                         <div className="flex items-center justify-center gap-3 mt-2 text-[10px] text-slate-400">
                           <span className="flex items-center gap-1"><BookOpen className="w-3 h-3"/> {quiz.questions_count || 0} Qs</span>
                           <span className="flex items-center gap-1"><Clock className="w-3 h-3"/> {quiz.time_limit ? `${quiz.time_limit}m` : 'No limit'}</span>
