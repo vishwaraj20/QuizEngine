@@ -1,13 +1,20 @@
 "use client";
 import { useEffect, useState } from 'react';
-import { useParams } from 'next/navigation';
+import { useParams, useRouter } from 'next/navigation';
 import { Clock, CheckCircle, BrainCircuit, ArrowLeft, Filter, Zap, Trophy } from 'lucide-react';
 import Link from 'next/link';
 
 export default function CategoryQuizzesPage() {
   const params = useParams();
+  const router = useRouter();
   const categoryName = decodeURIComponent(params.name);
-  
+
+  useEffect(() => {
+    if (categoryName === 'MPSC' || categoryName === 'UPSC') {
+      router.replace(`/dashboard/exam/${categoryName}`);
+    }
+  }, [categoryName, router]);
+
   const [quizzes, setQuizzes] = useState([]);
   const [loading, setLoading] = useState(true);
   const [leaderboard, setLeaderboard] = useState([]);

@@ -375,6 +375,7 @@ async function runImport() {
         subject: p.subject,
         quiz_mode: 'PYQ Papers',
         year: String(year),
+        status: 'Live',
         time_limit: p.timeLimit,
         pass_percent: p.subject === 'CSAT' ? 33 : 45
       }]).select();

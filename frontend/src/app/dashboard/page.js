@@ -432,7 +432,7 @@ export default function StudentPortal() {
              <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
                 {examCategories.map((cat, i) => (
                    <motion.div key={cat.name} initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.6 + (i * 0.1) }}>
-                      <CategoryCard cat={cat} baseUrl="/dashboard/exam" customHref={cat.name === 'SSC' ? '/dashboard/ssc' : (cat.name === 'UPSC' || cat.name === 'MPSC') ? `/dashboard/category/${cat.name}` : null} />
+                      <CategoryCard cat={cat} baseUrl="/dashboard/exam" customHref={cat.name === 'SSC' ? '/dashboard/ssc' : null} />
                    </motion.div>
                 ))}
              </div>
