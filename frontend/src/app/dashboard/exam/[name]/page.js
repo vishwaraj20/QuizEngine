@@ -14,15 +14,23 @@ export default function ExamPrepPage() {
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
 
+  const isDirectExam = examName === 'MPSC' || examName === 'UPSC';
   const phases = examName === 'SSC CGL' || examName === 'SSC CHSL' || examName.startsWith('SSC') ? ['Tier 1', 'Tier 2'] : ['Prelims', 'Mains', 'Interview'];
   const QUIZ_MODES = ['PYQ Papers', 'Subject-wise', 'Topic-wise'];
   
   const [activePhase, setActivePhase] = useState(searchParams.get('phase') || phases[0]);
-  const [activeMode, setActiveMode] = useState(searchParams.get('mode') || QUIZ_MODES[0]);
+  const [activeMode, setActiveMode] = useState(isDirectExam ? 'PYQ Papers' : (searchParams.get('mode') || QUIZ_MODES[0]));
   const [selectedSubject, setSelectedSubject] = useState(searchParams.get('subject') || 'All');
   const [selectedYear, setSelectedYear] = useState(searchParams.get('year') || 'All');
   const [selectedTopic, setSelectedTopic] = useState(searchParams.get('topic') || 'All');
-  const [step, setStep] = useState(parseInt(searchParams.get('step')) || 1);
+  const [step, setStep] = useState(isDirectExam ? 3 : (parseInt(searchParams.get('step')) || 1));
+
+  useEffect(() => {
+    if (isDirectExam) {
+      setStep(3);
+      setActiveMode('PYQ Papers');
+    }
+  }, [isDirectExam]);
 
   // Sync state to URL parameters
   useEffect(() => {
@@ -32,10 +40,10 @@ export default function ExamPrepPage() {
     if (selectedSubject !== 'All') p.set('subject', selectedSubject);
     if (selectedYear !== 'All') p.set('year', selectedYear);
     if (selectedTopic !== 'All') p.set('topic', selectedTopic);
-    p.set('step', step.toString());
+    p.set('step', isDirectExam ? '3' : step.toString());
     
     router.replace(`/dashboard/exam/${examName}?${p.toString()}`, { scroll: false });
-  }, [activePhase, activeMode, selectedSubject, selectedYear, selectedTopic, step, examName, router]);
+  }, [activePhase, activeMode, selectedSubject, selectedYear, selectedTopic, step, examName, router, isDirectExam]);
 
   useEffect(() => {
     fetchQuizzes();
@@ -59,7 +67,7 @@ export default function ExamPrepPage() {
 
   // Extract unique subjects, years, and topics for the active phase & mode
   const filterOptions = useMemo(() => {
-    const phaseModeQuizzes = quizzes.filter(q => (q.phase || phases[0]) === activePhase && (q.quiz_mode || 'PYQ Papers') === activeMode);
+    const phaseModeQuizzes = isDirectExam ? quizzes : quizzes.filter(q => (q.phase || phases[0]) === activePhase && (q.quiz_mode || 'PYQ Papers') === activeMode);
     
     // Default subjects based on exam
     const defaultSubjects = [];
@@ -90,7 +98,7 @@ export default function ExamPrepPage() {
       years: Array.from(years).sort((a,b) => b.localeCompare(a)), // Sort years descending
       topics: Array.from(topics).sort()
     };
-  }, [quizzes, activePhase, activeMode, examName]);
+  }, [quizzes, activePhase, activeMode, examName, isDirectExam]);
 
   // Handle phase change to reset filters
   const handlePhaseChange = (phase) => {
@@ -112,14 +120,14 @@ export default function ExamPrepPage() {
   // Final filtered list
   const filteredQuizzes = useMemo(() => {
     return quizzes.filter(q => {
-      const matchPhase = (q.phase || phases[0]) === activePhase;
-      const matchMode = (q.quiz_mode || 'PYQ Papers') === activeMode;
+      const matchPhase = isDirectExam ? true : (q.phase || phases[0]) === activePhase;
+      const matchMode = isDirectExam ? true : (q.quiz_mode || 'PYQ Papers') === activeMode;
       const matchSubject = selectedSubject === 'All' || q.subject === selectedSubject;
       const matchYear = selectedYear === 'All' || String(q.year) === String(selectedYear);
       const matchTopic = selectedTopic === 'All' || q.topic === selectedTopic;
       return matchPhase && matchMode && matchSubject && matchYear && matchTopic;
     });
-  }, [quizzes, activePhase, activeMode, selectedSubject, selectedYear, selectedTopic, examName]);
+  }, [quizzes, activePhase, activeMode, selectedSubject, selectedYear, selectedTopic, examName, isDirectExam]);
 
   if (loading) {
     return <div className="min-h-screen flex justify-center items-center text-xl font-bold text-gray-500 dark:text-gray-400">Loading PYQs...</div>;
@@ -140,7 +148,7 @@ export default function ExamPrepPage() {
                  🏛️
               </div>
               <div>
-                 {step === 1 ? (
+                 {isDirectExam || step === 1 ? (
                    <Link href="/dashboard#competitive-exams" className="text-blue-600 font-bold text-sm flex items-center gap-1 hover:underline mb-2">
                       <ArrowLeft className="w-3 h-3" /> Back to Dashboard
                    </Link>
@@ -155,17 +163,19 @@ export default function ExamPrepPage() {
                  )}
                  <h1 className="text-5xl font-black text-gray-900 dark:text-white tracking-tighter uppercase flex items-center gap-2">
                     {examName}
-                    {step >= 2 && <span className="text-gray-300 text-3xl">/</span>}
-                    {step >= 2 && <span className="text-3xl text-gray-500 dark:text-gray-400">{activePhase}</span>}
-                    {step >= 3 && <span className="text-gray-300 text-3xl">/</span>}
-                    {step >= 3 && <span className="text-3xl text-gray-400">{activeMode}</span>}
+                    {!isDirectExam && step >= 2 && <span className="text-gray-300 text-3xl">/</span>}
+                    {!isDirectExam && step >= 2 && <span className="text-3xl text-gray-500 dark:text-gray-400">{activePhase}</span>}
+                    {!isDirectExam && step >= 3 && <span className="text-gray-300 text-3xl">/</span>}
+                    {!isDirectExam && step >= 3 && <span className="text-3xl text-gray-400">{activeMode}</span>}
+                    {isDirectExam && <span className="text-gray-300 text-3xl">/</span>}
+                    {isDirectExam && <span className="text-3xl text-gray-400">Previous Year Papers</span>}
                  </h1>
                  <p className="text-gray-500 dark:text-gray-400 font-medium mt-1">Previous Year Questions & Mock Tests</p>
               </div>
            </div>
         </div>
 
-        {step === 1 && (
+        {!isDirectExam && step === 1 && (
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             {phases.map(phase => (
               <button
@@ -181,7 +191,7 @@ export default function ExamPrepPage() {
           </div>
         )}
 
-        {step === 2 && (
+        {!isDirectExam && step === 2 && (
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             {QUIZ_MODES.map((mode, idx) => (
               <button
@@ -199,7 +209,7 @@ export default function ExamPrepPage() {
           </div>
         )}
 
-        {step === 3 && (
+        {(isDirectExam || step === 3) && (
           <>
             {/* Filters Section */}
             <div className="flex flex-col sm:flex-row items-center gap-4 mb-8 bg-white dark:bg-slate-800 p-4 rounded-2xl shadow-sm border border-gray-100 dark:border-slate-700">
@@ -250,7 +260,7 @@ export default function ExamPrepPage() {
         {/* Quiz Grid */}
         <h2 className="text-2xl font-black mb-6 text-gray-900 dark:text-white flex items-center">
           <BookOpen className="w-6 h-6 mr-3 text-blue-500" />
-          {activePhase} - {activeMode}
+          {isDirectExam ? `All ${examName} Prelims & Mains PYQ Papers` : `${activePhase} - ${activeMode}`}
         </h2>
 
         {filteredQuizzes.length === 0 ? (
@@ -262,7 +272,7 @@ export default function ExamPrepPage() {
                Clear Filters
              </button>
           </div>
-        ) : activeMode === 'PYQ Papers' && (examName === 'UPSC' || examName === 'MPSC') ? (
+        ) : activeMode === 'PYQ Papers' && isDirectExam ? (
           /* ── PYQ Papers: split into GS Paper + CSAT Paper sections for UPSC/MPSC ── */
           <div className="space-y-10">
             {/* 1. GS Paper I */}
