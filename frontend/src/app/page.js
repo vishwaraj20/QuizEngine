@@ -6,25 +6,58 @@ import { motion } from 'framer-motion';
 
 export default function LandingPage() {
   const [userRole, setUserRole] = useState(null);
+  const [activeSection, setActiveSection] = useState('hero');
 
   useEffect(() => {
     const stored = localStorage.getItem('quiz_user');
     if (stored) {
       setUserRole(JSON.parse(stored).role);
     }
+    
+    // Scroll spy logic
+    const handleScroll = () => {
+      const sections = ['hero', 'placement', 'cta'];
+      const scrollPosition = window.scrollY + window.innerHeight / 3;
+      for (const section of sections) {
+        const el = document.getElementById(section);
+        if (el && scrollPosition >= el.offsetTop && scrollPosition <= (el.offsetTop + el.offsetHeight)) {
+          setActiveSection(section);
+        }
+      }
+    };
+    window.addEventListener('scroll', handleScroll);
+    // Initial check
+    handleScroll();
+    return () => window.removeEventListener('scroll', handleScroll);
   }, []);
+
+  const scrollTo = (id) => {
+    document.getElementById(id)?.scrollIntoView({ behavior: 'smooth' });
+  };
 
   const getStartedHref = userRole === 'admin' ? '/admin' : userRole === 'student' ? '/dashboard' : '/auth';
 
   return (
-    <div className="min-h-screen">
+    <div className="min-h-screen relative">
+      {/* Scroll Navigation */}
+      <div className="fixed right-6 top-1/2 -translate-y-1/2 flex flex-col gap-3 z-50 hidden md:flex">
+         {['hero', 'placement', 'cta'].map((section) => (
+            <button
+               key={section}
+               onClick={() => scrollTo(section)}
+               className={`w-6 h-1 rounded-full transition-all duration-300 ${activeSection === section ? 'bg-blue-600 dark:bg-white shadow-[0_0_10px_rgba(37,99,235,0.8)] dark:shadow-[0_0_10px_rgba(255,255,255,0.8)]' : 'bg-gray-300 dark:bg-gray-600 hover:bg-gray-400 dark:hover:bg-gray-400'}`}
+               aria-label={`Scroll to ${section}`}
+            />
+         ))}
+      </div>
+
       {/* Dynamic Navigation Gradient Background */}
       <div className="absolute inset-x-0 -top-40 -z-10 transform-gpu overflow-hidden blur-3xl sm:-top-80">
         <div className="relative left-[calc(50%-11rem)] aspect-[1155/678] w-[36.125rem] -translate-x-1/2 rotate-[30deg] bg-gradient-to-tr from-[#ff80b5] to-[#9089fc] opacity-20 sm:left-[calc(50%-30rem)] sm:w-[72.1875rem]"></div>
       </div>
 
       {/* Hero Section */}
-      <div className="relative isolate px-6 pt-14 lg:px-8 overflow-hidden">
+      <div id="hero" className="relative isolate px-6 pt-14 lg:px-8 overflow-hidden">
         {/* Ambient Glow Orbs */}
         <div className="absolute top-1/4 left-1/2 -translate-x-1/2 w-[800px] h-[800px] bg-blue-500/10 dark:bg-blue-600/20 blur-[120px] rounded-full pointer-events-none -z-10"></div>
         
@@ -94,65 +127,117 @@ export default function LandingPage() {
         </div>
       </div>
 
-      {/* Feature Grid */}
-      <div className="py-32 bg-gray-50/50 dark:bg-slate-900/50 relative">
-        <div className="w-full mx-auto px-6 md:px-12">
-           <div className="mx-auto max-w-2xl lg:text-center mb-20">
-              <h2 className="text-base font-black leading-7 text-blue-600 uppercase tracking-widest">Advanced Infrastructure</h2>
-              <p className="mt-2 text-4xl font-black tracking-tight text-gray-900 dark:text-white sm:text-5xl">Engineered for Excellence</p>
+      {/* Information Section for Students */}
+      <div id="placement" className="py-32 bg-gray-50/50 dark:bg-slate-900/50 relative overflow-hidden">
+        <div className="w-full mx-auto px-6 md:px-12 max-w-7xl">
+           <div className="mx-auto max-w-3xl lg:text-center mb-16">
+              <h2 className="text-base font-black leading-7 text-blue-600 uppercase tracking-widest">Placement Preparation</h2>
+              <p className="mt-2 text-4xl font-black tracking-tight text-gray-900 dark:text-white sm:text-5xl">Cracking Campus Placements at RSCOE</p>
            </div>
            
-           <motion.div 
-             initial={{ opacity: 0 }}
-             whileInView={{ opacity: 1 }}
-             viewport={{ once: true }}
-             transition={{ duration: 0.5 }}
-             className="grid md:grid-cols-3 gap-12 relative z-10"
-           >
-              {[
-                { 
-                  title: 'Atomic AI Generation', 
-                  desc: 'Import raw data blocks and let our AI engine create flawless JSON schemas with intelligent explanations.',
-                  icon: <BrainCircuit className="w-8 h-8"/>,
-                  color: 'bg-blue-600'
-                },
-                { 
-                  title: 'Category Navigators', 
-                  desc: 'Deeply nested, exam-specific dashboards that keep your study materials organized by curriculum requirements.',
-                  icon: <Zap className="w-8 h-8"/>,
-                  color: 'bg-indigo-600'
-                },
-                { 
-                  title: 'Real-time Analytics', 
-                  desc: 'Track every second and every mark. Our leaderboard system keeps you motivated to hit the top rank.',
-                  icon: <Award className="w-8 h-8"/>,
-                  color: 'bg-emerald-600'
-                }
-              ].map((f, i) => (
-                <motion.div 
-                   key={i} 
-                   initial={{ opacity: 0, y: 30 }}
-                   whileInView={{ opacity: 1, y: 0 }}
-                   viewport={{ once: true }}
-                   transition={{ duration: 0.5, delay: i * 0.15 }}
-                   className="relative group p-10 bg-white/60 dark:bg-slate-800/60 backdrop-blur-md rounded-[2.5rem] border border-white/20 dark:border-white/5 shadow-sm hover:shadow-2xl hover:shadow-blue-500/10 transition-all hover:-translate-y-2"
-                >
-                   <div className={`mb-8 w-16 h-16 ${f.color} text-white rounded-2xl flex items-center justify-center shadow-lg shadow-${f.color.split('-')[1]}-500/30`}>
-                      {f.icon}
-                   </div>
-                   <h3 className="text-2xl font-black text-gray-900 dark:text-white mb-4">{f.title}</h3>
-                   <p className="text-gray-500 dark:text-gray-400 font-medium leading-relaxed">{f.desc}</p>
-                   <div className="mt-6 flex items-center text-blue-600 dark:text-blue-400 font-bold opacity-0 group-hover:opacity-100 transition-opacity">
-                      Learn more <ArrowRight className="ml-2 w-4 h-4" />
-                   </div>
-                </motion.div>
-              ))}
-           </motion.div>
+           <div className="grid grid-cols-1 lg:grid-cols-12 gap-12 items-start relative z-10">
+              
+              {/* Main Content Area */}
+              <motion.div 
+                initial={{ opacity: 0, x: -30 }}
+                whileInView={{ opacity: 1, x: 0 }}
+                viewport={{ once: true }}
+                transition={{ duration: 0.6 }}
+                className="lg:col-span-7 space-y-8"
+              >
+                 <div className="prose prose-lg dark:prose-invert max-w-none">
+                    <p className="text-xl leading-relaxed text-gray-700 dark:text-gray-300 font-medium">
+                       Campus placements are a defining milestone for students at <strong>JSPM's Rajarshi Shahu College of Engineering (RSCOE), Tathawade</strong>. Every year, top-tier IT, engineering, and consulting firms visit the campus, seeking the brightest minds.
+                    </p>
+                    <p className="text-gray-600 dark:text-gray-400 leading-relaxed mt-4">
+                       Industry giants such as <strong>TCS, Capgemini, Accenture, Cognizant, Infosys, KPIT, LTIMindtree, Bosch, Siemens, JSW</strong>, and many others conduct rigorous placement drives at our institute. The competition is fierce, and preparation is the key to standing out.
+                    </p>
+                    
+                    <div className="mt-10 p-8 bg-blue-50 dark:bg-blue-900/20 rounded-[2rem] border border-blue-100 dark:border-blue-900/50 relative overflow-hidden shadow-sm">
+                       <div className="absolute top-0 right-0 p-4 opacity-10">
+                          <BrainCircuit className="w-24 h-24 text-blue-600" />
+                       </div>
+                       <h3 className="text-2xl font-black text-gray-900 dark:text-white mb-4 relative z-10">The First Hurdle: Aptitude Tests</h3>
+                       <p className="text-gray-700 dark:text-gray-300 relative z-10 mb-4 leading-relaxed">
+                          The recruitment journey typically kicks off with an <strong>Aptitude Test</strong>. This crucial screening round evaluates your numerical agility, logical reasoning, and verbal communication. 
+                       </p>
+                       <p className="text-gray-700 dark:text-gray-300 relative z-10 font-semibold leading-relaxed">
+                          Performing well here is non-negotiable—only the shortlisted candidates advance to coding assessments, technical interviews, and HR rounds. Speed and accuracy are your best assets.
+                       </p>
+                    </div>
+
+                    <p className="text-gray-600 dark:text-gray-400 leading-relaxed mt-10">
+                       This module has been developed specifically to help RSCOE students prepare effectively. It covers the major aptitude topics, provides practice questions with answers, and offers deep explanations to strengthen problem-solving skills.
+                    </p>
+                 </div>
+              </motion.div>
+
+              {/* Syllabus / Modules Area */}
+              <motion.div 
+                 initial={{ opacity: 0, x: 30 }}
+                 whileInView={{ opacity: 1, x: 0 }}
+                 viewport={{ once: true }}
+                 transition={{ duration: 0.6, delay: 0.2 }}
+                 className="lg:col-span-5 bg-white/80 dark:bg-slate-800/80 backdrop-blur-md rounded-[2.5rem] p-8 shadow-xl shadow-gray-200/50 dark:shadow-none border border-gray-100 dark:border-slate-700"
+              >
+                 <h3 className="text-2xl font-black text-gray-900 dark:text-white mb-8 border-b border-gray-100 dark:border-slate-700 pb-4">
+                    Master the Modules
+                 </h3>
+                 
+                 <div className="space-y-8">
+                    {/* Quant */}
+                    <div>
+                       <div className="flex items-center gap-3 mb-4">
+                          <div className="w-12 h-12 rounded-2xl bg-blue-100 dark:bg-blue-900/50 text-blue-600 dark:text-blue-400 flex items-center justify-center shadow-inner">
+                             <Zap className="w-6 h-6" />
+                          </div>
+                          <h4 className="text-xl font-black text-gray-900 dark:text-white tracking-tight">Quantitative Aptitude</h4>
+                       </div>
+                       <div className="flex flex-wrap gap-2 pl-15">
+                          {['Number Systems', 'HCF & LCM', 'Percentages', 'Profit & Loss', 'Ratio & Proportion', 'Time & Distance', 'Time & Work', 'Data Interpretation'].map(topic => (
+                             <span key={topic} className="px-3 py-1.5 bg-gray-50 dark:bg-slate-700/50 text-gray-600 dark:text-gray-300 rounded-xl text-sm font-semibold border border-gray-100 dark:border-slate-600">{topic}</span>
+                          ))}
+                       </div>
+                    </div>
+
+                    {/* Reasoning */}
+                    <div>
+                       <div className="flex items-center gap-3 mb-4">
+                          <div className="w-12 h-12 rounded-2xl bg-indigo-100 dark:bg-indigo-900/50 text-indigo-600 dark:text-indigo-400 flex items-center justify-center shadow-inner">
+                             <BrainCircuit className="w-6 h-6" />
+                          </div>
+                          <h4 className="text-xl font-black text-gray-900 dark:text-white tracking-tight">Logical Reasoning</h4>
+                       </div>
+                       <div className="flex flex-wrap gap-2 pl-15">
+                          {['Blood Relations', 'Coding-Decoding', 'Syllogisms', 'Seating Arrangements', 'Puzzles', 'Series Completion', 'Pattern Recognition'].map(topic => (
+                             <span key={topic} className="px-3 py-1.5 bg-gray-50 dark:bg-slate-700/50 text-gray-600 dark:text-gray-300 rounded-xl text-sm font-semibold border border-gray-100 dark:border-slate-600">{topic}</span>
+                          ))}
+                       </div>
+                    </div>
+
+                    {/* Verbal */}
+                    <div>
+                       <div className="flex items-center gap-3 mb-4">
+                          <div className="w-12 h-12 rounded-2xl bg-emerald-100 dark:bg-emerald-900/50 text-emerald-600 dark:text-emerald-400 flex items-center justify-center shadow-inner">
+                             <Sparkles className="w-6 h-6" />
+                          </div>
+                          <h4 className="text-xl font-black text-gray-900 dark:text-white tracking-tight">Verbal Ability</h4>
+                       </div>
+                       <div className="flex flex-wrap gap-2 pl-15">
+                          {['Reading Comprehension', 'Grammar', 'Vocabulary', 'Sentence Completion', 'Error Detection', 'Sentence Rearrangement'].map(topic => (
+                             <span key={topic} className="px-3 py-1.5 bg-gray-50 dark:bg-slate-700/50 text-gray-600 dark:text-gray-300 rounded-xl text-sm font-semibold border border-gray-100 dark:border-slate-600">{topic}</span>
+                          ))}
+                       </div>
+                    </div>
+                 </div>
+              </motion.div>
+              
+           </div>
         </div>
       </div>
 
       {/* Final Call to Action */}
-      <div className="relative isolate py-32 overflow-hidden bg-gray-900 dark:bg-slate-900">
+      <div id="cta" className="relative isolate py-32 overflow-hidden bg-gray-900 dark:bg-slate-900">
          <div className="w-full mx-auto px-6 md:px-12 text-center flex flex-col items-center">
             <h2 className="text-4xl font-black tracking-tight text-white sm:text-6xl mb-10">Start your journey to the <br/> <span className="text-blue-500">Global Leaderboard.</span></h2>
             <Link 
