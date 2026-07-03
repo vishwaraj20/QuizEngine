@@ -14,15 +14,23 @@ export default function ExamPrepPage() {
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
 
+  const isDirectExam = examName === 'MPSC' || examName === 'UPSC';
   const phases = examName === 'SSC CGL' || examName === 'SSC CHSL' || examName.startsWith('SSC') ? ['Tier 1', 'Tier 2'] : ['Prelims', 'Mains', 'Interview'];
   const QUIZ_MODES = ['PYQ Papers', 'Subject-wise', 'Topic-wise'];
   
   const [activePhase, setActivePhase] = useState(searchParams.get('phase') || phases[0]);
-  const [activeMode, setActiveMode] = useState(searchParams.get('mode') || QUIZ_MODES[0]);
+  const [activeMode, setActiveMode] = useState(isDirectExam ? 'PYQ Papers' : (searchParams.get('mode') || QUIZ_MODES[0]));
   const [selectedSubject, setSelectedSubject] = useState(searchParams.get('subject') || 'All');
   const [selectedYear, setSelectedYear] = useState(searchParams.get('year') || 'All');
   const [selectedTopic, setSelectedTopic] = useState(searchParams.get('topic') || 'All');
-  const [step, setStep] = useState(parseInt(searchParams.get('step')) || 1);
+  const [step, setStep] = useState(isDirectExam ? 3 : (parseInt(searchParams.get('step')) || 1));
+
+  useEffect(() => {
+    if (isDirectExam) {
+      setStep(3);
+      setActiveMode('PYQ Papers');
+    }
+  }, [isDirectExam]);
 
   // Sync state to URL parameters
   useEffect(() => {
@@ -32,10 +40,10 @@ export default function ExamPrepPage() {
     if (selectedSubject !== 'All') p.set('subject', selectedSubject);
     if (selectedYear !== 'All') p.set('year', selectedYear);
     if (selectedTopic !== 'All') p.set('topic', selectedTopic);
-    p.set('step', step.toString());
+    p.set('step', isDirectExam ? '3' : step.toString());
     
     router.replace(`/dashboard/exam/${examName}?${p.toString()}`, { scroll: false });
-  }, [activePhase, activeMode, selectedSubject, selectedYear, selectedTopic, step, examName, router]);
+  }, [activePhase, activeMode, selectedSubject, selectedYear, selectedTopic, step, examName, router, isDirectExam]);
 
   useEffect(() => {
     fetchQuizzes();
@@ -59,7 +67,7 @@ export default function ExamPrepPage() {
 
   // Extract unique subjects, years, and topics for the active phase & mode
   const filterOptions = useMemo(() => {
-    const phaseModeQuizzes = quizzes.filter(q => (q.phase || phases[0]) === activePhase && (q.quiz_mode || 'PYQ Papers') === activeMode);
+    const phaseModeQuizzes = isDirectExam ? quizzes : quizzes.filter(q => (q.phase || phases[0]) === activePhase && (q.quiz_mode || 'PYQ Papers') === activeMode);
     
     // Default subjects based on exam
     const defaultSubjects = [];
@@ -90,7 +98,7 @@ export default function ExamPrepPage() {
       years: Array.from(years).sort((a,b) => b.localeCompare(a)), // Sort years descending
       topics: Array.from(topics).sort()
     };
-  }, [quizzes, activePhase, activeMode, examName]);
+  }, [quizzes, activePhase, activeMode, examName, isDirectExam]);
 
   // Handle phase change to reset filters
   const handlePhaseChange = (phase) => {
@@ -112,14 +120,14 @@ export default function ExamPrepPage() {
   // Final filtered list
   const filteredQuizzes = useMemo(() => {
     return quizzes.filter(q => {
-      const matchPhase = (q.phase || phases[0]) === activePhase;
-      const matchMode = (q.quiz_mode || 'PYQ Papers') === activeMode;
+      const matchPhase = isDirectExam ? true : (q.phase || phases[0]) === activePhase;
+      const matchMode = isDirectExam ? true : (q.quiz_mode || 'PYQ Papers') === activeMode;
       const matchSubject = selectedSubject === 'All' || q.subject === selectedSubject;
       const matchYear = selectedYear === 'All' || String(q.year) === String(selectedYear);
       const matchTopic = selectedTopic === 'All' || q.topic === selectedTopic;
       return matchPhase && matchMode && matchSubject && matchYear && matchTopic;
     });
-  }, [quizzes, activePhase, activeMode, selectedSubject, selectedYear, selectedTopic, examName]);
+  }, [quizzes, activePhase, activeMode, selectedSubject, selectedYear, selectedTopic, examName, isDirectExam]);
 
   if (loading) {
     return <div className="min-h-screen flex justify-center items-center text-xl font-bold text-gray-500 dark:text-gray-400">Loading PYQs...</div>;
@@ -140,7 +148,7 @@ export default function ExamPrepPage() {
                  🏛️
               </div>
               <div>
-                 {step === 1 ? (
+                 {isDirectExam || step === 1 ? (
                    <Link href="/dashboard#competitive-exams" className="text-blue-600 font-bold text-sm flex items-center gap-1 hover:underline mb-2">
                       <ArrowLeft className="w-3 h-3" /> Back to Dashboard
                    </Link>
@@ -155,17 +163,19 @@ export default function ExamPrepPage() {
                  )}
                  <h1 className="text-5xl font-black text-gray-900 dark:text-white tracking-tighter uppercase flex items-center gap-2">
                     {examName}
-                    {step >= 2 && <span className="text-gray-300 text-3xl">/</span>}
-                    {step >= 2 && <span className="text-3xl text-gray-500 dark:text-gray-400">{activePhase}</span>}
-                    {step >= 3 && <span className="text-gray-300 text-3xl">/</span>}
-                    {step >= 3 && <span className="text-3xl text-gray-400">{activeMode}</span>}
+                    {!isDirectExam && step >= 2 && <span className="text-gray-300 text-3xl">/</span>}
+                    {!isDirectExam && step >= 2 && <span className="text-3xl text-gray-500 dark:text-gray-400">{activePhase}</span>}
+                    {!isDirectExam && step >= 3 && <span className="text-gray-300 text-3xl">/</span>}
+                    {!isDirectExam && step >= 3 && <span className="text-3xl text-gray-400">{activeMode}</span>}
+                    {isDirectExam && <span className="text-gray-300 text-3xl">/</span>}
+                    {isDirectExam && <span className="text-3xl text-gray-400">Previous Year Papers</span>}
                  </h1>
                  <p className="text-gray-500 dark:text-gray-400 font-medium mt-1">Previous Year Questions & Mock Tests</p>
               </div>
            </div>
         </div>
 
-        {step === 1 && (
+        {!isDirectExam && step === 1 && (
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             {phases.map(phase => (
               <button
@@ -181,7 +191,7 @@ export default function ExamPrepPage() {
           </div>
         )}
 
-        {step === 2 && (
+        {!isDirectExam && step === 2 && (
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             {QUIZ_MODES.map((mode, idx) => (
               <button
@@ -199,7 +209,7 @@ export default function ExamPrepPage() {
           </div>
         )}
 
-        {step === 3 && (
+        {(isDirectExam || step === 3) && (
           <>
             {/* Filters Section */}
             <div className="flex flex-col sm:flex-row items-center gap-4 mb-8 bg-white dark:bg-slate-800 p-4 rounded-2xl shadow-sm border border-gray-100 dark:border-slate-700">
@@ -250,7 +260,7 @@ export default function ExamPrepPage() {
         {/* Quiz Grid */}
         <h2 className="text-2xl font-black mb-6 text-gray-900 dark:text-white flex items-center">
           <BookOpen className="w-6 h-6 mr-3 text-blue-500" />
-          {activePhase} - {activeMode}
+          {isDirectExam ? `All ${examName} Prelims & Mains PYQ Papers` : `${activePhase} - ${activeMode}`}
         </h2>
 
         {filteredQuizzes.length === 0 ? (
@@ -262,13 +272,13 @@ export default function ExamPrepPage() {
                Clear Filters
              </button>
           </div>
-        ) : activeMode === 'PYQ Papers' && (examName === 'UPSC' || examName === 'MPSC') ? (
+        ) : activeMode === 'PYQ Papers' && isDirectExam ? (
           /* ── PYQ Papers: split into GS Paper + CSAT Paper sections for UPSC/MPSC ── */
           <div className="space-y-10">
             {/* 1. GS Paper I */}
             {(() => {
               const gsQuizzes = filteredQuizzes
-                .filter(q => q.subject === 'General Studies' || (q.title && q.title.toLowerCase().includes('gs paper')) || (q.subject !== 'CSAT' && !(q.title || '').toLowerCase().includes('csat')))
+                .filter(q => q.subject === 'General Studies' || (q.title && q.title.toLowerCase().includes('prelims') && q.title.toLowerCase().includes('gs paper')) || (q.subject !== 'CSAT' && !q.subject?.includes('Mains') && !(q.title || '').toLowerCase().includes('csat') && !(q.title || '').toLowerCase().includes('mains')))
                 .sort((a, b) => (b.year || '').localeCompare(a.year || ''));
               if (gsQuizzes.length === 0) return null;
               return (
@@ -276,7 +286,7 @@ export default function ExamPrepPage() {
                   <div className="flex items-center gap-3 mb-6 pb-4 border-b border-gray-100 dark:border-slate-700">
                     <div className="w-10 h-10 rounded-xl bg-indigo-100 dark:bg-indigo-950/50 text-indigo-600 dark:text-indigo-400 flex items-center justify-center font-black text-lg">I</div>
                     <div>
-                      <h3 className="text-xl font-black text-gray-900 dark:text-white">📝 GS Paper I — General Studies</h3>
+                      <h3 className="text-xl font-black text-gray-900 dark:text-white">📝 Prelims GS Paper I — General Studies</h3>
                       <p className="text-gray-400 text-xs font-medium mt-0.5">100 Questions · 200 Marks · Decides the cutoff · {gsQuizzes.length} years available</p>
                     </div>
                   </div>
@@ -308,7 +318,7 @@ export default function ExamPrepPage() {
                   <div className="flex items-center gap-3 mb-6 pb-4 border-b border-gray-100 dark:border-slate-700">
                     <div className="w-10 h-10 rounded-xl bg-teal-100 dark:bg-teal-950/50 text-teal-600 dark:teal-400 flex items-center justify-center font-black text-lg">II</div>
                     <div>
-                      <h3 className="text-xl font-black text-gray-900 dark:text-white">🧠 CSAT Paper II — Aptitude &amp; Reasoning</h3>
+                      <h3 className="text-xl font-black text-gray-900 dark:text-white">🧠 Prelims CSAT Paper II — Aptitude &amp; Reasoning</h3>
                       <p className="text-gray-400 text-xs font-medium mt-0.5">80 Questions · 200 Marks · Qualifying (33% min) · {csatQuizzes.length} years available</p>
                     </div>
                   </div>
@@ -318,6 +328,134 @@ export default function ExamPrepPage() {
                         className="bg-gradient-to-br from-slate-900 via-teal-950 to-slate-900 p-4 rounded-2xl border border-teal-500/20 shadow-md hover:shadow-xl hover:-translate-y-1 transition-all group flex flex-col items-center justify-center text-white text-center gap-1">
                         <span className="text-[9px] text-teal-400 font-black uppercase tracking-wider">CSAT</span>
                         <span className="text-2xl font-black tracking-tight group-hover:text-teal-300 transition-colors">{quiz.year}</span>
+                        <div className="flex items-center justify-center gap-3 mt-2 text-[10px] text-slate-400">
+                          <span className="flex items-center gap-1"><BookOpen className="w-3 h-3"/> {quiz.questions_count || 0} Qs</span>
+                          <span className="flex items-center gap-1"><Clock className="w-3 h-3"/> {quiz.time_limit ? `${quiz.time_limit}m` : 'No limit'}</span>
+                        </div>
+                      </Link>
+                    ))}
+                  </div>
+                </div>
+              );
+            })()}
+
+            {/* 3. Mains GS Paper I */}
+            {(() => {
+              const mains1 = filteredQuizzes
+                .filter(q => q.subject === 'Mains GS Paper I' || (q.title && q.title.toLowerCase().includes('mains') && q.title.toLowerCase().includes('paper 1')))
+                .sort((a, b) => (b.year || '').localeCompare(a.year || ''));
+              if (mains1.length === 0) return null;
+              return (
+                <div className="bg-white dark:bg-slate-800 p-8 rounded-[2.5rem] border border-gray-100 dark:border-slate-700 shadow-sm">
+                  <div className="flex items-center gap-3 mb-6 pb-4 border-b border-gray-100 dark:border-slate-700">
+                    <div className="w-10 h-10 rounded-xl bg-purple-100 dark:bg-purple-950/50 text-purple-600 dark:text-purple-400 flex items-center justify-center font-black text-lg">M1</div>
+                    <div>
+                      <h3 className="text-xl font-black text-gray-900 dark:text-white">🏛️ Mains GS Paper I — History, Geography &amp; Agriculture</h3>
+                      <p className="text-gray-400 text-xs font-medium mt-0.5">150 Questions · 150 Marks · Rajyaseva Mains · {mains1.length} years available</p>
+                    </div>
+                  </div>
+                  <div className="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-6 lg:grid-cols-8 xl:grid-cols-10 gap-3">
+                    {mains1.map(quiz => (
+                      <Link key={quiz.id} href={`/quiz/${quiz.id}`}
+                        className="bg-gradient-to-br from-slate-900 via-purple-950 to-slate-900 p-4 rounded-2xl border border-purple-500/20 shadow-md hover:shadow-xl hover:-translate-y-1 transition-all group flex flex-col items-center justify-center text-white text-center gap-1">
+                        <span className="text-[9px] text-purple-400 font-black uppercase tracking-wider">GS 1</span>
+                        <span className="text-2xl font-black tracking-tight group-hover:text-purple-300 transition-colors">{quiz.year}</span>
+                        <div className="flex items-center justify-center gap-3 mt-2 text-[10px] text-slate-400">
+                          <span className="flex items-center gap-1"><BookOpen className="w-3 h-3"/> {quiz.questions_count || 0} Qs</span>
+                          <span className="flex items-center gap-1"><Clock className="w-3 h-3"/> {quiz.time_limit ? `${quiz.time_limit}m` : 'No limit'}</span>
+                        </div>
+                      </Link>
+                    ))}
+                  </div>
+                </div>
+              );
+            })()}
+
+            {/* 4. Mains GS Paper II */}
+            {(() => {
+              const mains2 = filteredQuizzes
+                .filter(q => q.subject === 'Mains GS Paper II' || (q.title && q.title.toLowerCase().includes('mains') && q.title.toLowerCase().includes('paper 2')))
+                .sort((a, b) => (b.year || '').localeCompare(a.year || ''));
+              if (mains2.length === 0) return null;
+              return (
+                <div className="bg-white dark:bg-slate-800 p-8 rounded-[2.5rem] border border-gray-100 dark:border-slate-700 shadow-sm">
+                  <div className="flex items-center gap-3 mb-6 pb-4 border-b border-gray-100 dark:border-slate-700">
+                    <div className="w-10 h-10 rounded-xl bg-blue-100 dark:bg-blue-950/50 text-blue-600 dark:text-blue-400 flex items-center justify-center font-black text-lg">M2</div>
+                    <div>
+                      <h3 className="text-xl font-black text-gray-900 dark:text-white">⚖️ Mains GS Paper II — Indian Constitution, Polity &amp; Law</h3>
+                      <p className="text-gray-400 text-xs font-medium mt-0.5">150 Questions · 150 Marks · Rajyaseva Mains · {mains2.length} years available</p>
+                    </div>
+                  </div>
+                  <div className="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-6 lg:grid-cols-8 xl:grid-cols-10 gap-3">
+                    {mains2.map(quiz => (
+                      <Link key={quiz.id} href={`/quiz/${quiz.id}`}
+                        className="bg-gradient-to-br from-slate-900 via-blue-950 to-slate-900 p-4 rounded-2xl border border-blue-500/20 shadow-md hover:shadow-xl hover:-translate-y-1 transition-all group flex flex-col items-center justify-center text-white text-center gap-1">
+                        <span className="text-[9px] text-blue-400 font-black uppercase tracking-wider">GS 2</span>
+                        <span className="text-2xl font-black tracking-tight group-hover:text-blue-300 transition-colors">{quiz.year}</span>
+                        <div className="flex items-center justify-center gap-3 mt-2 text-[10px] text-slate-400">
+                          <span className="flex items-center gap-1"><BookOpen className="w-3 h-3"/> {quiz.questions_count || 0} Qs</span>
+                          <span className="flex items-center gap-1"><Clock className="w-3 h-3"/> {quiz.time_limit ? `${quiz.time_limit}m` : 'No limit'}</span>
+                        </div>
+                      </Link>
+                    ))}
+                  </div>
+                </div>
+              );
+            })()}
+
+            {/* 5. Mains GS Paper III */}
+            {(() => {
+              const mains3 = filteredQuizzes
+                .filter(q => q.subject === 'Mains GS Paper III' || (q.title && q.title.toLowerCase().includes('mains') && q.title.toLowerCase().includes('paper 3')))
+                .sort((a, b) => (b.year || '').localeCompare(a.year || ''));
+              if (mains3.length === 0) return null;
+              return (
+                <div className="bg-white dark:bg-slate-800 p-8 rounded-[2.5rem] border border-gray-100 dark:border-slate-700 shadow-sm">
+                  <div className="flex items-center gap-3 mb-6 pb-4 border-b border-gray-100 dark:border-slate-700">
+                    <div className="w-10 h-10 rounded-xl bg-amber-100 dark:bg-amber-950/50 text-amber-600 dark:text-amber-400 flex items-center justify-center font-black text-lg">M3</div>
+                    <div>
+                      <h3 className="text-xl font-black text-gray-900 dark:text-white">👥 Mains GS Paper III — Human Resource Development &amp; Human Rights</h3>
+                      <p className="text-gray-400 text-xs font-medium mt-0.5">150 Questions · 150 Marks · Rajyaseva Mains · {mains3.length} years available</p>
+                    </div>
+                  </div>
+                  <div className="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-6 lg:grid-cols-8 xl:grid-cols-10 gap-3">
+                    {mains3.map(quiz => (
+                      <Link key={quiz.id} href={`/quiz/${quiz.id}`}
+                        className="bg-gradient-to-br from-slate-900 via-amber-950 to-slate-900 p-4 rounded-2xl border border-amber-500/20 shadow-md hover:shadow-xl hover:-translate-y-1 transition-all group flex flex-col items-center justify-center text-white text-center gap-1">
+                        <span className="text-[9px] text-amber-400 font-black uppercase tracking-wider">GS 3</span>
+                        <span className="text-2xl font-black tracking-tight group-hover:text-amber-300 transition-colors">{quiz.year}</span>
+                        <div className="flex items-center justify-center gap-3 mt-2 text-[10px] text-slate-400">
+                          <span className="flex items-center gap-1"><BookOpen className="w-3 h-3"/> {quiz.questions_count || 0} Qs</span>
+                          <span className="flex items-center gap-1"><Clock className="w-3 h-3"/> {quiz.time_limit ? `${quiz.time_limit}m` : 'No limit'}</span>
+                        </div>
+                      </Link>
+                    ))}
+                  </div>
+                </div>
+              );
+            })()}
+
+            {/* 6. Mains GS Paper IV */}
+            {(() => {
+              const mains4 = filteredQuizzes
+                .filter(q => q.subject === 'Mains GS Paper IV' || (q.title && q.title.toLowerCase().includes('mains') && q.title.toLowerCase().includes('paper 4')))
+                .sort((a, b) => (b.year || '').localeCompare(a.year || ''));
+              if (mains4.length === 0) return null;
+              return (
+                <div className="bg-white dark:bg-slate-800 p-8 rounded-[2.5rem] border border-gray-100 dark:border-slate-700 shadow-sm">
+                  <div className="flex items-center gap-3 mb-6 pb-4 border-b border-gray-100 dark:border-slate-700">
+                    <div className="w-10 h-10 rounded-xl bg-rose-100 dark:bg-rose-950/50 text-rose-600 dark:text-rose-400 flex items-center justify-center font-black text-lg">M4</div>
+                    <div>
+                      <h3 className="text-xl font-black text-gray-900 dark:text-white">📈 Mains GS Paper IV — Economy &amp; Science Tech</h3>
+                      <p className="text-gray-400 text-xs font-medium mt-0.5">150 Questions · 150 Marks · Rajyaseva Mains · {mains4.length} years available</p>
+                    </div>
+                  </div>
+                  <div className="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-6 lg:grid-cols-8 xl:grid-cols-10 gap-3">
+                    {mains4.map(quiz => (
+                      <Link key={quiz.id} href={`/quiz/${quiz.id}`}
+                        className="bg-gradient-to-br from-slate-900 via-rose-950 to-slate-900 p-4 rounded-2xl border border-rose-500/20 shadow-md hover:shadow-xl hover:-translate-y-1 transition-all group flex flex-col items-center justify-center text-white text-center gap-1">
+                        <span className="text-[9px] text-rose-400 font-black uppercase tracking-wider">GS 4</span>
+                        <span className="text-2xl font-black tracking-tight group-hover:text-rose-300 transition-colors">{quiz.year}</span>
                         <div className="flex items-center justify-center gap-3 mt-2 text-[10px] text-slate-400">
                           <span className="flex items-center gap-1"><BookOpen className="w-3 h-3"/> {quiz.questions_count || 0} Qs</span>
                           <span className="flex items-center gap-1"><Clock className="w-3 h-3"/> {quiz.time_limit ? `${quiz.time_limit}m` : 'No limit'}</span>

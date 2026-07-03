@@ -71,77 +71,7 @@ const allQuizzes = [
     {question:"NITI Aayog replaced which body?",options:{A:"Finance Commission",B:"Planning Commission",C:"Election Commission",D:"UGC"},correct:"B",explanation:"NITI Aayog replaced the Planning Commission in 2015."}
   ]},
 
-  // ===== MPSC (10) =====
-  { title:"Maharashtra Geography",category:"MPSC",difficulty:"easy",pass_percent:50,questions:[
-    {question:"What is the capital of Maharashtra?",options:{A:"Pune",B:"Mumbai",C:"Nagpur",D:"Nashik"},correct:"B",explanation:"Mumbai is the capital of Maharashtra."},
-    {question:"Which is the highest peak in Maharashtra?",options:{A:"Kalsubai",B:"Salher",C:"Torana",D:"Sinhagad"},correct:"A",explanation:"Kalsubai at 1646m is the highest peak."},
-    {question:"How many divisions does Maharashtra have?",options:{A:"4",B:"5",C:"6",D:"7"},correct:"C",explanation:"Maharashtra has 6 revenue divisions."},
-    {question:"Which river flows through Pune?",options:{A:"Godavari",B:"Krishna",C:"Mula-Mutha",D:"Tapi"},correct:"C",explanation:"Mula and Mutha rivers flow through Pune."},
-    {question:"Lonar Lake is famous for being a?",options:{A:"Salt lake",B:"Crater lake",C:"Glacial lake",D:"Oxbow lake"},correct:"B",explanation:"Lonar Lake is a meteorite crater lake."}
-  ]},
-  { title:"Maharashtra History",category:"MPSC",difficulty:"moderate",pass_percent:55,questions:[
-    {question:"Who founded the Maratha Empire?",options:{A:"Sambhaji",B:"Shivaji Maharaj",C:"Bajirao I",D:"Balaji Vishwanath"},correct:"B",explanation:"Chhatrapati Shivaji Maharaj founded the Maratha Empire."},
-    {question:"Shivaji was crowned in which year?",options:{A:"1670",B:"1674",C:"1680",D:"1664"},correct:"B",explanation:"Shivaji was crowned at Raigad in 1674."},
-    {question:"Battle of Panipat (3rd) was fought in?",options:{A:"1757",B:"1761",C:"1775",D:"1780"},correct:"B",explanation:"Third Battle of Panipat was fought in 1761."},
-    {question:"Pune Pact was signed between?",options:{A:"Gandhi & Jinnah",B:"Gandhi & Ambedkar",C:"Nehru & Tilak",D:"Ambedkar & Nehru"},correct:"B",explanation:"Pune Pact (1932) was between Gandhi and Ambedkar."},
-    {question:"Raigad Fort was the capital of?",options:{A:"Peshwas",B:"Mughals",C:"Maratha Empire",D:"Deccan Sultanate"},correct:"C",explanation:"Raigad was the capital of the Maratha Empire under Shivaji."}
-  ]},
-  { title:"Maharashtra Polity",category:"MPSC",difficulty:"moderate",pass_percent:55,questions:[
-    {question:"Maharashtra was formed on?",options:{A:"1 May 1956",B:"1 May 1960",C:"15 Aug 1960",D:"26 Jan 1960"},correct:"B",explanation:"Maharashtra was formed on 1 May 1960."},
-    {question:"How many districts does Maharashtra have?",options:{A:"34",B:"36",C:"38",D:"40"},correct:"B",explanation:"Maharashtra has 36 districts."},
-    {question:"Winter session of Maharashtra legislature is held in?",options:{A:"Mumbai",B:"Pune",C:"Nagpur",D:"Aurangabad"},correct:"C",explanation:"Winter session is held in Nagpur."},
-    {question:"First CM of Maharashtra was?",options:{A:"Vasantrao Naik",B:"Y.B. Chavan",C:"Sharad Pawar",D:"A.R. Antulay"},correct:"B",explanation:"Yashwantrao Balwantrao Chavan was the first CM."},
-    {question:"Maharashtra Vidhan Sabha has how many seats?",options:{A:"272",B:"288",C:"300",D:"256"},correct:"B",explanation:"Maharashtra Vidhan Sabha has 288 seats."}
-  ]},
-  { title:"Maharashtra Economy",category:"MPSC",difficulty:"easy",pass_percent:50,questions:[
-    {question:"Maharashtra's largest contributor to GDP is?",options:{A:"Agriculture",B:"Services",C:"Manufacturing",D:"Mining"},correct:"B",explanation:"The services sector dominates Maharashtra's economy."},
-    {question:"Which city is India's financial capital?",options:{A:"Delhi",B:"Bangalore",C:"Mumbai",D:"Chennai"},correct:"C",explanation:"Mumbai is India's financial capital."},
-    {question:"Bombay Stock Exchange is located in?",options:{A:"Delhi",B:"Mumbai",C:"Kolkata",D:"Chennai"},correct:"B",explanation:"BSE is located in Mumbai."},
-    {question:"Which district leads sugarcane production in MH?",options:{A:"Pune",B:"Kolhapur",C:"Sangli",D:"Solapur"},correct:"B",explanation:"Kolhapur is a leading sugarcane-producing district."},
-    {question:"MIDC stands for?",options:{A:"Maharashtra Industrial Dev Corp",B:"Mumbai Industrial Dist Centre",C:"Maha Infrastructure Dev Corp",D:"Metropolitan Industrial Dev Council"},correct:"A",explanation:"MIDC = Maharashtra Industrial Development Corporation."}
-  ]},
-  { title:"Maharashtra Culture & Heritage",category:"MPSC",difficulty:"easy",pass_percent:50,questions:[
-    {question:"Lavani is a folk dance of which state?",options:{A:"Gujarat",B:"Rajasthan",C:"Maharashtra",D:"MP"},correct:"C",explanation:"Lavani is a traditional folk dance of Maharashtra."},
-    {question:"Pandharpur is famous for which deity?",options:{A:"Shiva",B:"Ganesh",C:"Vitthal",D:"Hanuman"},correct:"C",explanation:"Pandharpur is famous for Lord Vitthal (Vithoba)."},
-    {question:"Elephanta Caves are near?",options:{A:"Pune",B:"Mumbai",C:"Nashik",D:"Aurangabad"},correct:"B",explanation:"Elephanta Caves are on an island near Mumbai."},
-    {question:"Who is known as the Saint of Maharashtra?",options:{A:"Tukaram",B:"Dnyaneshwar",C:"Ramdas",D:"All of these"},correct:"D",explanation:"All are revered saints of Maharashtra."},
-    {question:"Warli painting originated from?",options:{A:"Pune",B:"Thane tribal region",C:"Nashik",D:"Nagpur"},correct:"B",explanation:"Warli art comes from tribal communities in Thane/Palghar."}
-  ]},
-  { title:"MPSC General Science",category:"MPSC",difficulty:"easy",pass_percent:50,questions:[
-    {question:"Water boils at what temperature?",options:{A:"90°C",B:"100°C",C:"110°C",D:"120°C"},correct:"B",explanation:"Water boils at 100°C at standard atmospheric pressure."},
-    {question:"Which organ purifies blood?",options:{A:"Heart",B:"Lungs",C:"Kidneys",D:"Liver"},correct:"C",explanation:"Kidneys filter and purify blood."},
-    {question:"What is the chemical formula of water?",options:{A:"H2O",B:"CO2",C:"NaCl",D:"O2"},correct:"A",explanation:"Water is H2O."},
-    {question:"Which planet is closest to the Sun?",options:{A:"Venus",B:"Earth",C:"Mercury",D:"Mars"},correct:"C",explanation:"Mercury is the closest planet to the Sun."},
-    {question:"Photosynthesis produces?",options:{A:"CO2",B:"Oxygen",C:"Nitrogen",D:"Hydrogen"},correct:"B",explanation:"Photosynthesis produces oxygen and glucose."}
-  ]},
-  { title:"MPSC Reasoning & Aptitude",category:"MPSC",difficulty:"moderate",pass_percent:55,questions:[
-    {question:"Complete: 2, 6, 12, 20, ?",options:{A:"28",B:"30",C:"32",D:"25"},correct:"B",explanation:"Pattern: differences are 4,6,8,10. Next = 20+10 = 30."},
-    {question:"If APPLE = 50, then MANGO = ?",options:{A:"55",B:"57",C:"60",D:"52"},correct:"A",explanation:"A=1,P=16,P=16,L=12,E=5=50; M=13,A=1,N=14,G=7,O=15=50. Trick question - pattern based."},
-    {question:"Odd one out: 3, 5, 11, 14, 17",options:{A:"3",B:"14",C:"11",D:"17"},correct:"B",explanation:"14 is the only even number; others are odd."},
-    {question:"A clock shows 3:15. What is the angle?",options:{A:"0°",B:"7.5°",C:"15°",D:"22.5°"},correct:"B",explanation:"At 3:15, the angle between hands is 7.5°."},
-    {question:"If A>B, B>C, then?",options:{A:"C>A",B:"A>C",C:"A=C",D:"Cannot determine"},correct:"B",explanation:"By transitivity, A>B>C means A>C."}
-  ]},
-  { title:"Maharashtra Current Affairs",category:"MPSC",difficulty:"moderate",pass_percent:50,questions:[
-    {question:"Which is Maharashtra's state animal?",options:{A:"Tiger",B:"Indian Giant Squirrel",C:"Elephant",D:"Leopard"},correct:"B",explanation:"Indian Giant Squirrel (Shekru) is MH's state animal."},
-    {question:"Maharashtra's state flower is?",options:{A:"Lotus",B:"Jarul",C:"Rose",D:"Sunflower"},correct:"B",explanation:"Jarul (Lagerstroemia) is Maharashtra's state flower."},
-    {question:"Which city is called the Oxford of the East?",options:{A:"Mumbai",B:"Nagpur",C:"Pune",D:"Kolhapur"},correct:"C",explanation:"Pune is known as the Oxford of the East."},
-    {question:"Ajanta & Ellora caves are in which district?",options:{A:"Pune",B:"Nashik",C:"Aurangabad",D:"Kolhapur"},correct:"C",explanation:"They are in Aurangabad district (now Chhatrapati Sambhajinagar)."},
-    {question:"Which dam is the largest earthen dam in MH?",options:{A:"Koyna",B:"Jayakwadi",C:"Ujjani",D:"Bhatsa"},correct:"B",explanation:"Jayakwadi Dam on the Godavari is the largest earthen dam."}
-  ]},
-  { title:"Maharashtra Agriculture",category:"MPSC",difficulty:"hard",pass_percent:55,questions:[
-    {question:"Major Kharif crop of Maharashtra?",options:{A:"Wheat",B:"Rice",C:"Jowar",D:"Bajra"},correct:"C",explanation:"Jowar (sorghum) is a major Kharif crop in Maharashtra."},
-    {question:"Which region is known for cotton in MH?",options:{A:"Konkan",B:"Vidarbha",C:"Western MH",D:"Marathwada"},correct:"B",explanation:"Vidarbha is the cotton belt of Maharashtra."},
-    {question:"Alphonso mango is primarily from?",options:{A:"Nagpur",B:"Pune",C:"Ratnagiri/Sindhudurg",D:"Nashik"},correct:"C",explanation:"Alphonso mangoes come from the Konkan region (Ratnagiri/Sindhudurg)."},
-    {question:"Maharashtra ranks 1st in production of?",options:{A:"Wheat",B:"Sugarcane",C:"Onion",D:"Rice"},correct:"C",explanation:"Maharashtra is the largest onion producer in India."},
-    {question:"Warna cooperative is famous for?",options:{A:"Cotton",B:"Milk",C:"Sugar",D:"Oil"},correct:"C",explanation:"Warna is a famous sugar cooperative in Maharashtra."}
-  ]},
-  { title:"MPSC Administrative Structure",category:"MPSC",difficulty:"hard",pass_percent:60,questions:[
-    {question:"Who heads a district administration?",options:{A:"SP",B:"Collector",C:"Tehsildar",D:"CEO ZP"},correct:"B",explanation:"The District Collector heads the district administration."},
-    {question:"ZP stands for?",options:{A:"Zone Parliament",B:"Zilla Parishad",C:"Zone Panchayat",D:"Zilla Parliament"},correct:"B",explanation:"ZP = Zilla Parishad (District Council)."},
-    {question:"Gram Panchayat is headed by?",options:{A:"Collector",B:"Sarpanch",C:"Talathi",D:"Tehsildar"},correct:"B",explanation:"The Sarpanch heads the Gram Panchayat."},
-    {question:"MPSC is responsible for?",options:{A:"Elections",B:"State civil service recruitment",C:"Law making",D:"Tax collection"},correct:"B",explanation:"MPSC recruits for Maharashtra state civil services."},
-    {question:"How many Municipal Corporations in MH (approx)?",options:{A:"15",B:"20",C:"27",D:"32"},correct:"C",explanation:"Maharashtra has approximately 27 Municipal Corporations."}
-  ]},
+
 
   // ===== GATE (10) =====
   { title:"GATE Data Structures",category:"GATE",difficulty:"moderate",pass_percent:50,questions:[

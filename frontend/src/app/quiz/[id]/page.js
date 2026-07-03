@@ -336,6 +336,36 @@ export default function QuizTakingPage() {
                 <p className="text-3xl font-black text-blue-600">{Math.round((result.score/result.total)*100)}%</p>
              </div>
           </div>
+
+          <div className="mt-8 flex flex-wrap items-center justify-center gap-4">
+            <button 
+              onClick={() => router.back()} 
+              className="px-8 py-3.5 bg-gray-100 dark:bg-slate-700 hover:bg-gray-200 dark:hover:bg-slate-600 text-gray-800 dark:text-white rounded-2xl font-bold flex items-center gap-2 transition"
+            >
+              <ArrowLeft className="w-4 h-4" /> Go Back
+            </button>
+            {quizInfo && quizInfo.category && (
+              <button 
+                onClick={() => router.push(`/dashboard/exam/${quizInfo.category}`)} 
+                className="px-8 py-3.5 bg-indigo-50 dark:bg-indigo-950/60 hover:bg-indigo-100 dark:hover:bg-indigo-900/60 text-indigo-600 dark:text-indigo-400 border border-indigo-200 dark:border-indigo-800 rounded-2xl font-bold transition"
+              >
+                Back to {quizInfo.category} Papers
+              </button>
+            )}
+            <button 
+              onClick={() => {
+                setResult(null);
+                setAnswers({});
+                setMarkedForReview({});
+                setCurrentIndex(0);
+                setHasStarted(false);
+                setTimeLeft((quizInfo?.time_limit || 60) * 60);
+              }} 
+              className="px-8 py-3.5 bg-blue-600 hover:bg-blue-700 text-white rounded-2xl font-bold shadow-lg shadow-blue-600/30 transition"
+            >
+              Retake Assessment
+            </button>
+          </div>
         </div>
 
         <div className="space-y-6">
@@ -461,53 +491,60 @@ export default function QuizTakingPage() {
           </div>
 
           {/* Question Area */}
-          <div className="px-10 py-12">
-             <h2 
-                className="text-2xl md:text-3xl font-bold text-gray-800 dark:text-gray-100 mb-10 leading-relaxed"
-                dangerouslySetInnerHTML={{ __html: q.question_text }}
-             />
+          <div className="p-8 md:p-10">
+             <div className="max-h-[380px] overflow-y-auto pr-3 mb-8 custom-scrollbar">
+               <h2 
+                  className="text-lg md:text-xl font-semibold text-gray-900 dark:text-slate-100 leading-relaxed tracking-wide select-none"
+                  dangerouslySetInnerHTML={{ __html: q.question_text }}
+               />
+             </div>
 
-             <div className="grid sm:grid-cols-1 md:grid-cols-2 gap-5">
-               {['A', 'B', 'C', 'D'].map(opt => (
-                 <div 
-                   key={opt}
-                   onClick={() => selectOption(opt)}
-                   className={`group p-6 rounded-[2rem] border-2 flex items-center cursor-pointer transition-all duration-300 
-                    ${answers[q.id] === opt ? 'border-blue-600 bg-blue-50 dark:bg-blue-950/20 shadow-lg shadow-blue-600/5 border-transparent' : 'border-gray-100 dark:border-slate-700 hover:border-blue-200 hover:bg-gray-50/50 dark:bg-slate-900/50'}
-                   `}
-                 >
-                   <div className={`w-12 h-12 rounded-2xl flex items-center justify-center font-black mr-5 transition-all duration-300 transform group-hover:scale-110 ${answers[q.id] === opt ? 'bg-blue-600 text-white shadow-lg' : 'bg-gray-100 dark:bg-slate-800 text-gray-400 group-hover:bg-blue-100 group-hover:text-blue-600'}`}>
-                      {opt}
+             <div className="grid sm:grid-cols-1 md:grid-cols-2 gap-4">
+               {['A', 'B', 'C', 'D'].map(opt => {
+                 const isSelected = answers[q.id] === opt;
+                 return (
+                   <div 
+                     key={opt}
+                     onClick={() => selectOption(opt)}
+                     className={`group p-5 rounded-2xl border-2 flex items-center cursor-pointer transition-all duration-200 select-none
+                      ${isSelected 
+                        ? 'border-blue-600 bg-blue-50/90 dark:bg-blue-900/40 shadow-lg shadow-blue-500/10' 
+                        : 'border-gray-200 dark:border-slate-700/80 hover:border-blue-400 dark:hover:border-blue-500/50 bg-white dark:bg-slate-800/60 hover:bg-gray-50 dark:hover:bg-slate-800'}
+                     `}
+                   >
+                     <div className={`w-10 h-10 shrink-0 rounded-xl flex items-center justify-center font-black mr-4 text-sm transition-all duration-200 ${isSelected ? 'bg-blue-600 text-white shadow-md shadow-blue-600/30' : 'bg-gray-100 dark:bg-slate-700 text-gray-600 dark:text-gray-300 group-hover:bg-blue-100 dark:group-hover:bg-blue-900/50 group-hover:text-blue-600 dark:group-hover:text-blue-400'}`}>
+                        {opt}
+                     </div>
+                     <span 
+                       className={`text-base font-medium transition-all ${isSelected ? 'text-blue-900 dark:text-blue-100 font-bold' : 'text-gray-700 dark:text-gray-200'}`}
+                       dangerouslySetInnerHTML={{ __html: q[`option_${opt.toLowerCase()}`] }}
+                     />
                    </div>
-                   <span 
-                     className={`text-lg transition-all ${answers[q.id] === opt ? 'text-blue-900 dark:text-blue-200 font-black' : 'text-gray-600 dark:text-gray-400 font-bold'}`}
-                     dangerouslySetInnerHTML={{ __html: q[`option_${opt.toLowerCase()}`] }}
-                   />
-                 </div>
-               ))}
+                 );
+               })}
              </div>
           </div>
 
           {/* Navigation & Submission Footer */}
-          <div className="p-10 bg-gray-50 dark:bg-slate-900 border-t border-gray-100 dark:border-slate-700 flex flex-col sm:flex-row justify-between items-center gap-6">
+          <div className="p-6 md:p-8 bg-gray-50/80 dark:bg-slate-900/80 border-t border-gray-100 dark:border-slate-700/80 flex flex-col sm:flex-row justify-between items-center gap-4">
             <button 
               disabled={currentIndex === 0} 
               onClick={() => {
                   setCurrentIndex(prev => prev - 1);
                   setQuestionStartTime(Date.now());
               }}
-              className="px-8 py-4 flex items-center font-black text-gray-500 hover:text-blue-600 disabled:opacity-40 disabled:cursor-not-allowed transition-all text-sm uppercase tracking-widest w-full sm:w-auto justify-center"
+              className="px-6 py-3.5 rounded-xl flex items-center font-bold text-gray-700 dark:text-slate-300 bg-white dark:bg-slate-800 border border-gray-200 dark:border-slate-700 hover:bg-gray-100 dark:hover:bg-slate-700 disabled:opacity-40 disabled:cursor-not-allowed transition-all text-xs uppercase tracking-wider shadow-sm w-full sm:w-auto justify-center"
             >
-               <ArrowLeft className="w-5 h-5 mr-3" /> Previous
+               <ArrowLeft className="w-4 h-4 mr-2" /> Previous
             </button>
             
-            <div className="flex flex-wrap items-center justify-center gap-4 w-full sm:w-auto">
+            <div className="flex flex-wrap items-center justify-center gap-3 w-full sm:w-auto">
                <button
                   onClick={() => setMarkedForReview(prev => ({ ...prev, [q.id]: !prev[q.id] }))}
-                  className={`px-6 py-4 rounded-[1.5rem] font-bold text-sm uppercase tracking-widest transition-all border-2 ${
+                  className={`px-5 py-3.5 rounded-xl font-bold text-xs uppercase tracking-wider transition-all border ${
                     markedForReview[q.id] 
-                      ? 'bg-purple-100 dark:bg-purple-900/30 text-purple-700 dark:text-purple-400 border-purple-200 dark:border-purple-800' 
-                      : 'bg-transparent text-gray-500 dark:text-gray-400 border-gray-200 dark:border-slate-700 hover:bg-gray-100 dark:hover:bg-slate-800'
+                      ? 'bg-purple-600 text-white border-purple-600 shadow-md shadow-purple-600/20' 
+                      : 'bg-white dark:bg-slate-800 text-gray-700 dark:text-slate-300 border-gray-200 dark:border-slate-700 hover:bg-purple-50 dark:hover:bg-purple-950/30 hover:border-purple-300 dark:hover:border-purple-800 hover:text-purple-600 dark:hover:text-purple-400 shadow-sm'
                   }`}
                >
                   {markedForReview[q.id] ? '★ Marked' : '☆ Mark for Review'}
@@ -517,19 +554,19 @@ export default function QuizTakingPage() {
                  <button 
                    onClick={submitQuiz} 
                    disabled={isSubmitting}
-                   className={`px-10 py-4 rounded-[1.5rem] font-black shadow-2xl flex items-center transition-all ${
+                   className={`px-8 py-3.5 rounded-xl font-black text-xs uppercase tracking-wider shadow-lg flex items-center transition-all ${
                      isSubmitting
-                       ? 'bg-gray-200 text-gray-400 cursor-not-allowed shadow-none'
-                       : 'bg-gray-900 dark:bg-blue-600 text-white shadow-gray-900/20 hover:bg-black dark:hover:bg-blue-700 hover:scale-105 active:scale-95'
+                       ? 'bg-gray-200 dark:bg-slate-700 text-gray-400 cursor-not-allowed shadow-none'
+                       : 'bg-green-600 text-white shadow-green-600/20 hover:bg-green-700 hover:scale-105 active:scale-95'
                    }`}
                  >
-                   {isSubmitting ? "Processing..." : "Finish Attempt"} <ArrowRight className="ml-3 w-5 h-5" />
+                   {isSubmitting ? "Processing..." : "Finish Attempt"} <ArrowRight className="ml-2 w-4 h-4" />
                  </button>
                ) : (
                  <>
                    <button 
                       onClick={() => setShowSubmitConfirm(true)}
-                      className="px-6 py-4 rounded-[1.5rem] text-gray-400 font-black hover:text-red-500 transition-all text-xs uppercase tracking-widest hidden lg:block"
+                      className="px-5 py-3.5 rounded-xl bg-red-50 dark:bg-red-950/30 border border-red-200 dark:border-red-900/50 text-red-600 dark:text-red-400 font-bold hover:bg-red-100 dark:hover:bg-red-900/50 transition-all text-xs uppercase tracking-wider shadow-sm hidden md:block"
                    >
                       Submit Early
                    </button>
@@ -538,9 +575,9 @@ export default function QuizTakingPage() {
                         setCurrentIndex(prev => prev + 1);
                         setQuestionStartTime(Date.now());
                      }}
-                     className="px-10 py-4 rounded-[1.5rem] font-black shadow-xl flex items-center transition-all bg-blue-600 text-white shadow-blue-600/20 hover:bg-blue-700 hover:scale-105 active:scale-95"
+                     className="px-8 py-3.5 rounded-xl font-black text-xs uppercase tracking-wider shadow-lg flex items-center transition-all bg-blue-600 text-white shadow-blue-600/25 hover:bg-blue-700 hover:scale-105 active:scale-95"
                    >
-                      Next <ArrowRight className="ml-3 w-5 h-5" />
+                      Next <ArrowRight className="ml-2 w-4 h-4" />
                    </button>
                  </>
                )}
