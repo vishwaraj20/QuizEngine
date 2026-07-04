@@ -1,0 +1,942 @@
+
+
+Free Placement Preparation Online Course with Free Mock Test 
+visit: www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+www.MyPlacementPrep.com 
+ 
+Pro Material Series 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Join Telegram Channel for more updates: 
+https://t.me/MyPlacementprepApp 
+ 
+Visit www.MyPlacementPrep.com .  
+India’s No1 website for Placement Materials and Free mock test Series 
+Free Placement Preparation Online Course video now available. 
+
+Free Placement Preparation Online Course with Free Mock Test 
+visit: www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+ 
+English  
+TCS Ninja questions: 2
+nd 
+September 2018, Slot 1  
+ 
+We were not able to obtain options, but answers are highlighted.  
+Technology has revolutionized our lives and influenced nearly every industry, including 
+fitness. From apps to wearables, technology is constantly changing the way the fitness 
+industry functions. Mobile technology, fitness wearables and data, and smart equipment are 
+shaping the way health clubs and equipment manufacturers operate today. Engaging 
+members via mobile with digital fitness challenges, reward programs, push notifications and 
+wearable integration not only allows fitness operators to foster existing relationships with 
+clients but also build on them.  
+Quantitative Aptitude 
+1. Advanced: In how many ways can we give change for rs 100 using 1 rupee and 2  
+rupee coins? For example for 5 rs we can give three ways (1,1,1,1) (1,1,1,2) )(,1,2,2) 
+Answer: 51  
+2. We are driving along a highway at a constant speed of 55 miles per hour (mph). You 
+observe a car one half mile behind you. The car is moving fast and zooms past you exactly 
+one minute later. How fast is this car traveling (mph) if its speed is constant?  
+a. 80 
+b. 70 
+c. 72 
+d. 85 
+Answer: 85 
+3. What is the next number in the series 70,54,45,41? a. 40  
+b. 35 
+c. 45 
+d. 54 Answer: 40  
+4. George can do some work in 8 hours. Paul can do the same work in 10 hours while Hari 
+can do the same work in 12 hours. All the three of them start working at 9 AM. while George 
+stops work at 11 am,the remaining two complete the work,approximately when will the work 
+be finished?  
+
+Free Placement Preparation Online Course with Free Mock Test 
+visit: www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+a. 11:30 AM  
+b. 12 noon  
+c. 12.30 PM  
+d. 1 PM  
+Answer: 1 PM  
+5. A certain sum of money is sufficient to pay either George’s wages for 15 days or mark’s 
+wages for 10 days, for how long will it suffice it both George and mark work together?  
+a. 9 
+b. 8 
+c. 6 
+d. 5 
+Answer: 6 
+6. Advanced: a,b,c are positive numbers such that a+b+ab= 8, b+c+bc=15 and c+a+ca = 35 
+What is the value of a+b+c+abc?  
+Answer: 36 
+7. The 260th term of the series a,b,b,c,c,c,d,d,d,d,e,e,e,e,e,f,f,f,f,f,f,....is: a. U 
+b. W 
+c. T 
+d. V 
+Answer: W  
+8. Advanced: It is possible to pair up all the numbers from 1 to 70 so that the positive 
+difference of the numbers in each pair is always the same. For example, one such pairing up 
+is (1,2), (3,4), (5,6),....(69,70). Here the common on difference is 1. What is the sum of all 
+such common differences.  
+Answer: 1680  
+9. Advanced: A regular polygon with 12 sides (dodecagon) is inscribed in a square of area 
+24 square units as shown in the figure where four of the vertices are mid points of the sides of 
+the square . The area of the dodecagon in square units is.  
+
+Free Placement Preparation Online Course with Free Mock Test 
+visit: www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+ 
+Answer: 19.26 10. Advanced:  
+In how many ways can we give change for 100 using 1 rupee and 2 rupee coins? For example 
+for 5 rs, we can give in three ways : (1,1,1,1,1) (1,1,1,2) (1,2,2)  
+Answer: 51  
+11. Advanced: In the figure shown, a triangle is divided into nine strpes of equal height each 
+parallel to the same side of the triangle. The shaped stripes have a total area of 135 square 
+units. What is the area of the triangle in square units.  
+ 
+Answer: 243  
+12. In the IT department of backrub, the administrator password is changed every month. The 
+team of administrator, spread across the globe, receive an 8 digits number via email. This 
+number is to be prefixed with a single digit number and suffixed with a single digit number to 
+
+Free Placement Preparation Online Course with Free Mock Test 
+visit: www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+get the actual password. The password is divisible by 11 and 8. If the team received 
+54218345 this month. Then which of the following pairs give valid prefix and suffix 
+respectively?  
+a. 3,7  
+b. 1,6  
+c. 2,4  
+d. 4,2  
+Answer: 1,6  
+13. In the diagram below, the areas of the triangles are as follows: A1=1024, A2=1016, 
+A3=1057. What is the area of A4?  
+a. 1032 
+b. 1036 
+c. 1020 
+d. 1065 Answer: 1065  
+14. The people of the land of unsymmetrix to ensure that there is very little symmetry in life. 
+Even their unit of length (no one knows what it is) is called as unsym. It is their pride that the 
+front wheel and the real wheels of their bikes are of different sizes but are made so that they 
+will not slip on the road . In a certain model of bike the radius of the front wheel is 28 
+unsyms and that of the back wheels is 14 unsyms after driving a certain distance if front 
+wheel had revolution 54 times how many revolution would the back wheel have undergone?  
+a. 136  
+ 
+b. 122  
+
+Free Placement Preparation Online Course with Free Mock Test 
+visit: www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+c. 108  
+d. 94  
+Answer: 108  
+15. Rs. 3000 is distributed among A, B and C such that A gets 2/3rd of what B and C together 
+get and C gets 1⁄2 of what A and B together get. Find C’s share.  
+a. 1500 
+b. 1000 
+c. 1200 
+d. 1800 
+Answer: 1000 
+16. Given that 1<a<b<c a. exp(a^d)/exp(b^c)  
+b. exp(b^d)/exp(a^c)  
+c. exp(c^d)/exp(a^b)  
+d. exp(b^c)/exp(a^d)  
+Answer: exp(c^d)/exp(a^b)  
+17. 32 times of a two digit number is 23 times the number obtained by reversing its digit. The 
+sum of its digit is 15 Find the number:  
+a. 96 
+b. 69 
+c. 87 
+d. Insufficient information Answer: 69  
+18. Let N be the greatest number that will divide 148, 246 and 623 leaving remainders 4, 6 
+and 11 respectively. What is the remainder if N is divided by 7?  
+a. 0  
+b. 1 
+c. 5 
+d. 6 Answer: 5  
+19. A store is selling a jacket on sale at 30% off the marked price. A matching pair of pants is 
+on sale at 40% off the marked price. If the marked price of the pants is Rs. 8500 less than the 
+
+Free Placement Preparation Online Course with Free Mock Test 
+visit: www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+marked price of the jacket and the total sale price of both items is Rs. 23500, then what is the 
+marked price of the jacket?  
+a. 21700 
+b. 21800 
+c. 22000 
+d. 22100 Answer: 22000  
+20. Initially, when Sona and Tina left for a shopping expedition , Sona had three times the 
+money than Tina had. They bought things amounting to Rs. 480 altogether, out of which 
+Tina’s share was 65%. At the end of shopping, Sona was left with 4 times the amount that 
+Tina had. What was the amount with Tina at the beginning?  
+a. 1080 
+b. 1248 
+c. 768 
+d. 936 Answer: 1080  
+21. In a group of 5 families, every family has a certain number of children, such that the 
+number of children forms an arthmetic progression with a common difference of one, starting 
+with two children in the first family. Despite the objection of their parents every child in a 
+family has three times as many pets to look after as the number of offspring in the family. 
+What is the total number of pets in the entire group of five families.  
+a. 270 b. 99 c. 165  
+d. 27 
+Answer: 270 Programming Concepts  
+1. Eesha was in a wonderland where she saw a treasure trove of seven items of various items 
+(in lakhs) and weights (in kgs) as per the table given below.  
+Value - Weight 12 4 10 6 85  
+11 7 14 3 
+5 10 5 12  
+She wanted to bring back maximum value of items but she was not able to carry more than 
+10 kgs. Using dynamic programing, what is the maximum value of of the items that she could 
+carry back with her.  
+Answer: 26 
+2. In c language, if a function return type is not explicitly defined then it defaults to what data  
+
+Free Placement Preparation Online Course with Free Mock Test 
+visit: www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+type? 
+Answer: Int 
+3. Which of the following syntax is correct for command -line arguments? a. int main (char 
+*argv[], int argc) 
+b. none of the three options 
+c. int main () 
+{ 
+int argv, char *argc[]; 
+}  
+d. int main(int var, char *varg[])  
+Answer: int main (int var,char *varg[])  
+4. Advanced The figure depicts a search space in which the nodes are labelled with names 
+like A,B,A1,B1. Node S is the start node. The goal are drawn as square boxes and the other 
+noted in circle Enter answer as a sequence of node separated by a comma, please DO NOT 
+enter any blanks anywhare in the response  
+For example, If the answer (order of nodes) is a followed by c, followed by A1, followed by 
+D, the answer should be A,C,A1,D  
+Starting with the node start node,list the order in which the depth first search algorithm 
+explore the graph till termination, searching from right to left until it reaches one of the goal 
+nodes.  
+[gallery ids="1695"] 
+Answer: S,C,J,T,I1 
+5. 
+The full set of operations allowed on a stack are a. Push ,pop  
+b. Push,pop,remove 
+c. Push,pop, add,remove 
+d. Push,pop,add,remove,substitute Answer: push,pop 
+6. Realloc () function is used to:  
+a. Get back the memory that was released earlier using dree() funcion b. Reallocate a file 
+pointer when switching between files 
+c. Change the size of an array 
+d. Change the size of dynamically allocated memory  
+Answer: change the size of dynamically allocated memory  
+
+Free Placement Preparation Online Course with Free Mock Test 
+visit: www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+7. Advanced Consider a hash function that distributes keys uniformly. The hash table size is 
+20. After hashing of how many keys will the probability that any new key hashed collides 
+with an existing one exceed 0.5.  
+a. 10 b. 7  
+c. 6 
+d. 5 
+Answer: 5 
+8. 
+Which of the below is NOT a data type in C language: a. Signed int 
+b. Big int 
+c. Short int 
+d. Long int 
+Answer: Big int  
+9. Eesha wants to implement an image viewer application to view images in a given folder. 
+The application will be able to display an image and will also know what its next and 
+previous images are at any given point of time so that the user can so that the user can view 
+next/previous image by pressing right/left keys on the keyboard. Which data structure is 
+appropriate for Esha to use?  
+a. Tree  
+b. Queue  
+c. Linked list  
+d. Stack  
+Answer: Linked list  
+10. The pseudo code below sorts an array using bubble sort. Here A is the array and the” n” is 
+the number of element in it. Function swap exchanges the value of 2 given value.  
+This function is called with A and 7 as parameter where the array a initially contains the 
+element 64, 34, 25,12, 22, 11, 9  
+
+Free Placement Preparation Online Course with Free Mock Test 
+visit: www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+ 
+a. 34 25 12 22 11 9 64 
+b. 25 12 22 11 9 34 64 
+c. 11 9 12 22 25 34 64 
+d. 12 11 9 22 25 34 64 Answer:25 12 22 11 9 34 64  
+Coding  
+Consider the following series: 1,1,2,3,4,9,8,27,16,81,32,243,64,729,128,2187...  
+This series is a mixture of 2 series - all the odd terms in this series form a geometric series 
+and all the even terms form yet another geometric series. Write a program to find the Nth 
+term in the series.  
+The value N in a positive integer that should be read from STDIN. The Nth term that is 
+calculated by the program should be written to STDOUT. Other than value of n th term,no 
+other character / string or message should be written to STDOUT. For example , if N=16, the 
+16th term in the series is 2187, so only value 2187 should be printed to STDOUT.  
+You can assume that N will not exceed 30.  
+Answer:  
+#include #include  
+int main()  
+{ 
+//code 
+int n; 
+scanf("%d", &n); 
+if(n % 2 == 1) 
+{ 
+int a = 1; 
+int r = 2; 
+int term_in_series = (n+1)/2; 
+
+Free Placement Preparation Online Course with Free Mock Test 
+visit: www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+int res = pow(2, term_in_series - 1); printf("%d ", res); 
+} 
+else 
+{ 
+int a = 1; 
+int r = 3;  
+int term_in_series = n/2; 
+int res = pow(3, term_in_series - 1); printf("%d ", res); 
+}  
+return 0; }  
+TCS Ninja questions: 2
+nd 
+September 2018, Slot 2 Quantitative Aptitude  
+1. How many number plates can be made if the number plates have two letters of the English 
+alphabet (A-Z) followed by two digits (0-9) if the repetition of digits or alphabets is not 
+allowed?  
+a. 56800 
+b. 56500 
+c. 52500 
+d. 58500 Answer: 58500  
+2. A,B and C can together do some work in 72 days.A and B together do two times as much 
+work as C alone, and A and C together can do our times as much word as B alone. Find the 
+time taken by C alone to do the whole work.  
+a. 144 days 
+b. 360 days 
+c. 216 days 
+d. 180 days Answer: 216 days  
+3. In a cricket tournament, 16 school teams participated. A sum of Rs.8000 is to be awarded 
+among them as prize money. If the team placed last is award Rs.275 as prize money and the 
+award increases by the same amount for successive finishing places, how much will the team 
+placed first receive?  
+a. 1000 b. 500  
+ 
+c. 1250 
+d. 725 Answer: 725  
+
+Free Placement Preparation Online Course with Free Mock Test 
+visit: www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+4. A and B completed a work together in 5 days. Had A worked at twice his own speed and B 
+half his own speed, it would have taken them 4 days to complete the job. How much time 
+would it take for A alone to do the job?  
+a. 10 days 
+b. 20 days 
+c. 25 days 
+d. 15 days Answer: 10 days  
+5. Eesha’s father was 34 years of age when she was born.her younger brother, Shashank, now 
+that he is 13,is very proud of the fact that he is as tell as her, even though he is three years 
+younger than her. Eesha’s mother , who is shorter than Eesha,was only 29 when Shashank 
+was born .what is the sum of the ages of Eesha’s parents now?  
+a. 92 
+b. 76 
+c. 66 
+d. 89 Answer: 92  
+6. A sum of Rs 2387 is divided into three parts in such a way that one fifth of the first 
+part,one half of the second part and fourth one the third part are equal. Find the sum of five 
+times the first part,three times the second part and four times the third part (in rupees).  
+a. 9982 
+b. 7812 
+c. 9114 
+d. 10199 Answer: 10199  
+7. Apples cost L rupees per kilogram for the first 30 kilograms and Q rupees per kilogram for 
+each additional kilogram. If the price paid for 33 kilograms of apples is Rs. 1167 and for 36 
+kilograms of apples is Rs. 1284, then the cost of the first 10 kgs of apples is:  
+a. Rs.117 
+b. Rs.1053 
+c. Rs.350 
+d. Rs.281 Answer: Rs.350  
+8. A, B and C can together do some work in 72 days. A and B together do two times as much 
+work as C alone, and A and C together can do four times as much work as B alone. Find the 
+time taken by C alone to do the work.  
+a. 144 days 
+b. 360 days 
+
+Free Placement Preparation Online Course with Free Mock Test 
+visit: www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+c. 216 days 
+d. 180 days Answer: 216 days  
+9. A and B are traveling in the same duration. B is traveling at a constant speed of 55kmph 
+and the distance between A and B is 1.5 km. If A crosses B within 1 minute, what is the 
+speed of A?  
+Answer: 145 kmph  
+10. In a test with 26 questions, five points were deducted for each wrong answer and eight 
+points were added for every correct answer. How many were answered correctly if the score 
+was zero?  
+a. 11 
+b. 10 
+c. 13 
+d. 12 Answer: 10  
+11. In a week in July the average daily temperature of Monday to Wednesday was 27 degrees 
+and of Tuesday to Thursday was 24 degrees.if the temperature remained constant throughout 
+in any given day.  
+a. 20  
+b. 22  
+c. 18  
+d. 16  
+Answer: 18  
+12. In this question x^y stands for x raised to the power y. For example ,2^3=8 and 4^1.5=8. 
+If a,b are real numbers such that a+b=3, a^2+b^2=7, the value of a^4+b^4 is?  
+a. 49 
+b. 45 
+c. 51 
+d. 47 Answer: 47  
+13. The air conditioned bus service from Siruseri industry park runs at regular intervals 
+throughout the day. It is now 3:12 pm and it has arrived 1 minute ago but it was 2 minutes 
+late. The next bus is due 3:18 pm. When is the next bus due?  
+
+Free Placement Preparation Online Course with Free Mock Test 
+visit: www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+a. 3:27 pm 
+b. 3:29 pm 
+c. 3:24 pm 
+d. 3:25 pm Answer: 3:27 pm  
+14. A road network covers some cities.city c can be reached only from city a or city b.the 
+distance from a to c is 65 kms and that from B to C is 30 kms. The shortest distance from a to 
+b is 58 kms. The shortest distance from city P to A is 420 kms and the shortest distance from 
+city P to B is 345 kms. The shortest distance from city P to city C in kms is:  
+a. 153 b. 478  
+c. 403 
+d. 375 Answer: 375  
+15. A 70 foot pole stands vertically in a horizontal plane supported by three 490 foot wires, 
+all attached to the top of the pole. Pulled and anchored to three equally spaced points in the 
+plane. How many feet apart are any two of those anchor points?  
+Answer: 149.61  
+16. Advanced: The set A (0) is (1,2,3,4). For n > 0,A(n+1) contains all possible sums that 
+can be obtained by adding two different numbers from what is the number of integers in 
+A(10).  
+Answer: 67  
+17. Advanced What is the number of positive integers less than or equal to 2017 that have at 
+least one pair of adjacent digits that are both even. For example 24,564 are two examples of 
+such numbers while 1276 does not satisfy the required property.  
+Answer: 738 
+18. In the following star, the numbers on each straight line are in arithmetic progression.  
+What is H+K+L?  
+a. -8 
+b. 11 
+c. 5 Answer: -8  
+19. Considering a hash table with 100 slots. Collisions are resolved using chaining. Assuming 
+simple uniform hashing, what is the probability that the first 3 slots are unfilled after the first 
+3 insertions? (NOTE:100 ^ 3 means 100 raised to the power 3)  
+
+Free Placement Preparation Online Course with Free Mock Test 
+visit: www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+ 
+a. (97 * 96 * 95) / 100 ^ 3  
+b. (97 * 96 * 95) / (6 * 100 ^ 3)  
+c. (97 * 97 * 97 ) / 100 ^ 3  
+d. (99 * 98 * 97) / 100 ^3  
+Answer: (97 * 97 * 97 ) / 100 ^ 3  
+20. Advanced In this question x^y stands for x raised to the power y .for example 2^3=8 and 
+4^1.5=8  
+Find the number of positive integers n>2000 which can be expressed as n=2^m+2^n where m 
+and n are integers (for example, 33=2^0+2^5)  
+Answer: 65  
+21. Fishing is a serious environmental issue.It has been determined by the scientists that if the 
+net of a trawler has mesh size x cm by x (square mesh) then the percentage of fish entering 
+the net that are caught in the net is (100-0.02x^2-0.05x.for example if the mesh size is zero 
+100% of the fish that enter the net will be caught. The trawler with net with a square mesh 
+that was suspected of using an illegal size net dropped its net to the ocean floor near the 
+damans and coast guard officials arrested the crew.the scientists later looked at the size of the 
+fish caught and estimated that the net used by the trawler at least 97.93% of the fish entering 
+the net would be caught. What is the maximum value of x for the net by the trawler?  
+a. 8.5 
+b. 9 
+c. 11 
+d. None of the answers Answer: 9  
+
+Free Placement Preparation Online Course with Free Mock Test 
+visit: www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+Programming Concepts  
+1. Advanced Consider a hash function that distributes keys uniformly. The hash table size is 
+20. After hashing of how many keys will the probability that any new key hashed collides 
+with an existing one exceed 0.5.  
+a. 10 b. 7 c. 6 d. 5  
+Answer: 5 
+2. #define is used to 
+a. Define a variable 
+b. Define a macro 
+c. Define a function 
+d. Define a constant 
+Answer: Define a macro 
+3. What type of data structures are queues? 
+a. First in last out 
+b. First in first out 
+c. Last in first out 
+d. Last in last out 
+Answer: First in first out 
+4. Which of the following is NOT a valid storage class in C language? a. Extern 
+b. Dynamic 
+c. Register 
+d. Auto 
+Answer: Dynamic  
+5. Eesha is developing a word processing software in which she wants to provide undo 
+feature.the software will maintain all the sequential changes and at any point of time pressing 
+control z will undo the latest change,what data structure should Eesha use for this?  
+a. Stack 
+b. Queue 
+c. Linked list d. Array  
+Answer: Stack 
+6. #include 
+Main(int argc,char**argv) 
+{ 
+printf(“%s\n”,argv[--argc]); 
+Return 1; 
+} 
+The above program was run with the following command line parameters Asha usha nisha 
+easha 
+
+Free Placement Preparation Online Course with Free Mock Test 
+visit: www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+What was the output? 
+a. Nisha 
+b. Unable to run due to compilation error 
+c. No output,run time error 
+d. Eesha 
+Answer: Eesha  
+7. Considering a hash table with 100 slots. Collisions are resolved using chaining. Assuming 
+simple uniform hashing, what is the probability that the first 3 slots are unfilled after the first 
+3 insertions? (NOTE:100 ^ 3 means 100 raised to the power 3)  
+a. (97 * 96 * 95) / 100 ^ 3 
+b. (97 * 96 * 95) / (6 * 100 ^ 3) 
+c. (97 * 97 * 97 ) / 100 ^ 3 
+d. (99 * 98 * 97) / 100 ^3 Answer: (97 * 97 * 97 ) / 100 ^ 3  
+8. Advanced Consider the following graph starting at node A. In what order will the nodes 
+be visited using a breadth first search?  
+ 
+NOTE 1 : Is there is ever a decision between multiple neighbour nodes in the algorithm, 
+assume we always choose the letter closest to the beginning of the first alphabet  
+NOTE 2: Enter the answer as a sequence of nodes separated by a comma. Please do NOT 
+enter any blanks anywhere in the response. For example, is the answer (order of nodes) is A 
+followed by C, followed by X, followed by D. the answer should be A,C,X,D.  
+Answer: A,B,D,E,G,C,H,F 
+9. This function is called with A and 7 as parameters where the array A initially contains the  
+elements 34,14,65 be the value of the elements in A after 3 iterations of the outer loop?  
+a. 14 12 22 5 34 65 71 
+b. 14 34 22 12 65 5 71 
+c. 14 22 12 34 5 65 71 Answer: 14 12 22 5 34 65 71 Coding  
+
+Free Placement Preparation Online Course with Free Mock Test 
+visit: www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+Consider the below series : 0,0,2,1,4,2,6,3,8,4,10,5,12,6,14,7,16,8  
+This series is a mixture of 2 series all the odd terms in this series form even numbers in 
+ascending order and every even terms is derived from the previous term using the formula 
+(x/2)  
+ 
+Write a program to find the nth term in this series.  
+The value n in a positive integer that should be read from STDIN the nth term that is 
+calculated by the program should be written to STDOUT. Other than the value of the nth 
+term no other characters /strings or message should be written to STDOUT.  
+For example if n=10,the 10 th term in the series is to be derived from the 9th term in the 
+series. The 9th term is 8 so the 10th term is (8/2)=4. Only the value 4 should be printed to 
+STDOUT.  
+You can assume that the n will not exceed 20,000.  
+Code:  
+#include #include  
+int main() { //code 
+int n; scanf("%d", &n); if(n % 2 == 1)  
+{ 
+int a = 1; 
+int r = 2; 
+int term_in_series = (n+1)/2; 
+int res = 2 * (term_in_series - 1); printf("%d ", res); 
+} 
+else 
+
+Free Placement Preparation Online Course with Free Mock Test 
+visit: www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+{ 
+int a = 1; 
+int r = 3; 
+int term_in_series = n/2;  
+int res = term_in_series - 1; printf("%d ", res); 
+}  
+return 0; }  
+English  
+TCS Ninja questions: 2
+nd 
+September 2018, Slot 3  
+ 
+We were not able to obtain options, but answers are highlighted.  
+Chatbots are now part of the cultural narrative and are becoming even more sophisticated. It 
+is hard to find someone who has not had an interaction with a chatbot or virtual assistant. As 
+chatbots and virtual assistants get more sophisticated, they will be able to respond with 
+increasing empathy and personalization, seamlessly tracking the customer journey. Whether 
+voice or text activated, bots will be able to help users find products and answers 24 X 7, on 
+any device or channel faster than ever before. In fact, more and more people are rating 
+messaging as a top choice for customer service.  
+Quantitative Aptitude  
+1. Babla alone can do a piece of work in 10 days. Ashu alone can do it in 15 days. The total 
+wages for the work is Rs.5000. How much should be Babla be paid if they work together for 
+an entire duration of work?  
+a. 5000 
+b. 4000 
+c. 3000 
+d. 2000 Answer: 3000 2.  
+How many of the integers from 1 to 86 (inclusive) contain the digit 4 or have the digit sum 
+divisible by 4?  
+a. 40 
+b. 41 
+
+Free Placement Preparation Online Course with Free Mock Test 
+visit: www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+c. 24 
+d. 35 Answer: 35  
+3.in this problem ABS(X)is the mathematical value of X without regard to its sign. for 
+example ABS(3)IS 3 and ABS(-3) is also 3.if the equation ABS(x+12)+ABS(x-5)=r is 
+satisfied by infinitely many values of x the value of r is 
+a. 12  
+b. No such r exists c. 17 
+d. 5  
+Answer: 17  
+4. Of height 36 m at the edge of a road broke ( While remaining attached to the tree ) at a 
+certain height and it fell in such a way that touched the other edge of the road. If the breadth 
+of the road is 12m. Then the height at which the tree broke was 
+a. 16  
+b. 18 c. 24 d. 12  
+Answer: 16  
+5. Two cars start at the same time from a and b and travel towards each other at speeds of 
+50kmph and 60 kmph respectively at the time of their of their meeting the second car has 
+travelled 120 km more than the first the distance between a and b is 
+a. 720 km  
+b. 1320 km c. 600 km d. 1230 km  
+Answer: 1320 KM  
+6. The numbers from 5 to 26 are written side-by-side as follows 567..2526. What is the 
+remainder of dividing the resultant number by 9? 
+a. 1 
+b. 3  
+c. 8 d. 5  
+Answer: 5  
+7. A certain number of teams took part in a competition each team in the competition must 
+play one game with each of the other teams, how many teams took part in the competition if 
+they played 55 games in all? 
+a. 10  
+
+Free Placement Preparation Online Course with Free Mock Test 
+visit: www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+b. 12 c. 7 d. 11  
+Answer: 11  
+8. Which of the following represents the largest 4 digit number which can be added to 7855 in 
+order to make the derived number divisible by each of the following numbers 12,14,21,33 
+and 54? 
+a. 461  
+b. 8777 c. 9953 d. 9965  
+Answer: 461  
+9. You are driving along a highway at a constant speed of 55 miles per hour you observe a car 
+one-half mile behind you the car is moving fast and zooms past you exactly one minute later. 
+How fast is this car travelling (mph)if its speed is constant? 
+a. 80  
+b. 70 c. 85 d. 72  
+Answer: 85  
+10. A store is selling a jacket on sale at 30% off the marked price. A matching pair of pants is 
+on sale at 40% off the marked price. If the marked price of the pants is Rs. 8500 less than the 
+marked price of the jacket and the total sale price of both items is Rs. 23500, then what is the 
+marked price of the jacket?  
+a. 21700 b. 21800 c. 22000 d. 22100  
+Answer: 22000  
+11. In a group of 5 families, every family has a certain number of children, such that the 
+number of children forms an arthmetic progression with a common difference of one, starting 
+with two children in the first family. Despite the objection of their parents every child in a 
+family has three times as many pets to look after as the number of offspring in the family. 
+What is the total number of pets in the entire group of five families.  
+a. 270 b. 99 c. 165 d. 27  
+Answer: 270  
+12. If we add x to both numerator and denominator of the fractions 2⁄3 and 20/23 the resulting 
+fractions are equal x is 
+
+Free Placement Preparation Online Course with Free Mock Test 
+visit: www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+a. 56 
+b. 12  
+c. 7 
+d. 143  
+Answer: 7  
+13. How many words of 11 letters could be formed with all the vowels present only in the 
+even places, and the consonants only in the odd places, using letters of the english alphabet? 
+Each letter may appear only once . the vowels are A,E,I,O,U and the consonants are the 
+remaining letters of the alphabet. In the answer ,n! Donotes n factorial (or 1*2*...*n)  
+a. 21! 
+b. 26! / 5! 
+c. 21! * 5! / 15! d. 21! / (5!*5!)  
+Answer: 21! * 5! / 15!  
+14. On a certain assembly line the rejection rate for hyundai i10’s production was 4 percent 
+for hyundai i20’s production 8 percent and the two cars combined 7 percent .what was the 
+ratio of hyundai i20’s production to hyundai i10’s production? 
+a. 1:1  
+b. 2:1 c. 1:2 d. 3:1  
+Answer: 3:1  
+15.the average temperature of may, July and august was 31 degrees. The average temperature 
+of July, august and October was 30 degrees, if the temperature of May was 30 degrees , find 
+the temperature October (in degrees) 
+a. 27  
+b. 28 
+c. 26 
+d. 25 Answer: 27  
+16. The arithmetic mean of three numbers is 147.if the mean of the first two numbers is 
+141.what is the third number? 
+a. 18 
+b. 159  
+c. 6 
+d. 723  
+
+Free Placement Preparation Online Course with Free Mock Test 
+visit: www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+Answer: 159  
+17. Raj divided 50 in to two parts such that the sum of their reciprocal is 1/12 we get the parts 
+as 
+a. 28,22 
+b. 36,14  
+c. 20,30  
+d. 24,36 Answer: 20, 30  
+18. A child was looking for his father. He went 90 metres in the East before turning to his 
+right. He went 20 metres before turning to his right again to look for his father at his uncle’s 
+place 30 metres from this point. His father was not there. From here he went 100 metres to 
+the North before meeting his father in a street. How far did the son meet his father from the 
+starting point?  
+a. 80 b. 30 c. 90 d. 100  
+Answer:100 
+19. The greatest common divisor of two numbers A and B is 22. The least common multiple  
+of A and B is 2002, if A has fewer divisors B, what is A + B?  
+Answer: 20  
+20. Usha has three boxes with ten balls in each.she plays a game where the goal is to end up 
+with as few balls as possible in the boxes.the boxes are each marked with a seperate number 
+4,7, and 10.it is allowed to remove n balls from the box marked with the number n,put three 
+of them aside and put the rest in another box.what is the least possible number of balls the 
+boxes together can contain in the end??  
+Answer: 1 
+21. For a positive integer N. Let P(N) be the product of the digits of N. example,P(123) = 6.  
+The value of P(101) + P (102)+.....P(201) + P(202) is  
+Answer: 504  
+22. We have two cubes . the sum of the two cubes is 25. The sum of a side length of one cube 
+and a side length of the other is 4. What is the sum of the total surface areas of the two cubes?  
+Answer: 57 Programming MCQ  
+
+Free Placement Preparation Online Course with Free Mock Test 
+visit: www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+1. Eesha is developing an IP telephony software in which the audio is encoded and transmitted by the 
+sender as network packets through a communication channel. At the other end these packets are 
+assembled and processed further.eesha recognizes that there maybe a very large number of packets 
+this number is unknown nd which will be processed while more packets are being received .assume 
+that the packets arrive in right order .what data structure should eesha use?  
+a. Array b. List 
+c. Queue d. Stack  
+Answer: List  
+2. A structure in C language is  
+1. System defined data type that holds predefined collection of data types  
+2. User defined data type holding similar or dissimilar data types  
+3. Another name for union data type  
+4. A collection of similar user defined data type  
+Ans : User defined data type holding similar or dissimilar data types  
+ 
+ 
+www.MyPlacementPrep.com 
+ 
+Free Mock Test and Video 
+Tutorial 
+ 
+ 
+ 
+ 
+ 
+ 
+Visit www.MyPlacementPrep.com .  
+India’s No1 website Placement and Mock Test series 
+Free Placement Learning Path with Free Video Course. 
+
+Free Placement Preparation Online Course with Free Mock Test 
+visit: www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

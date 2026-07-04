@@ -1,0 +1,438 @@
+
+
+ 
+TCS Placement Papers 2013 
+ 
+Naradha.in Page 1 
+ 
+1.  If 3y + x > 2 and x + 2y ≤ 3, What can be said about the value of y? 
+A. y = -1 
+B. y >-1 
+C. y <-1 
+D. y = 1 
+Answer: B 
+ 
+Multiply the second equation with -1 then it will become - x - 2y ≥ - 3.  Add the equations.  You will get 
+y > -1. 
+ 
+2. If the price of an item is decreased by 10% and then increased by 10%, the net effect on the price of 
+the item is 
+A. A decrease of 99% 
+B. No change 
+C. A decrease of 1% 
+D. An increase of 1% 
+Answer: C 
+ 
+If a certain number is increased by x% then decreased by x% or vice versa, the net change is always 
+decrease.  This change is given by a simple formula − (
+x
+⁄
+10
+)
+2
+ = − (
+10
+⁄
+10
+)
+2
+ = −1 %.  Negitive sign indicates 
+decrease. 
+ 
+3. If m is an odd integer and n an even integer, which of the following is definitely odd? 
+A. (2m+n)(m-n) 
+B. (m + n
+2
+) + (m - n
+2
+) 
+C. m
+2
+ + mn + n
+2
+ 
+D. m +n 
+Answer: C and D (Original Answer given as D) 
+ 
+You just remember the following odd ± odd = even; even ± even = even; even ± odd = odd 
+Also odd × odd = odd; even × even = even; even × odd = even. 
+ 
+4.  What is the sum of all even integers between 99 and 301? 
+A. 40000 
+B. 20000 
+C. 40400 
+D. 20200 
+Answer: D 
+ 
+The first even number after 99 is 100 and last even number below 301 is 300.  We have to find the sum 
+of even numbers from 100 to 300.  i.e., 100 + 102 + 104 + ............... 300.  
+Take 2 Common.  2 x ( 50 + 51 + ...........150) 
+There are total 101 terms in this series.  So formula for the sum of n terms when first term and last term 
+is known isn2(a+l) 
+So 50 + 51 + ...........150 = 1012(50+150) 
+
+ 
+TCS Placement Papers 2013 
+ 
+Naradha.in Page 2 
+ 
+So 2 x 1012(50+150) = 20200 
+ 
+5. There are 20 balls which are red, blue or green.  If 7 balls are green and the sum of red balls and green 
+balls is less than 13, at most how many red balls are there? 
+A. 4 
+B. 5 
+C. 6 
+D. 7 
+Answer: B 
+ 
+Given R + B + G = 17; G = 7; and R + G < 13.  Substituting G = 7 in the last equation, We get R < 6. 
+ So maximum value of R = 6 
+ 
+6.  If n is the sum of two consecutive odd integers and less than 100, what is greatest possibility of n? 
+A. 98 
+B. 94 
+C. 96 
+D. 99 
+Answer : C 
+ 
+We take two odd numbers as (2n + 1) and (2n - 1). 
+Their sum should be less than 100. So (2n + 1) + (2n - 1) < 100 ⇒ 4n < 100. 
+The largest 4 multiple which is less than 100 is 96 
+ 
+7. x2 < 1/100, and x < 0 what is the highest range in which x can lie? 
+A. -1/10 < x < 0 
+B. -1 < x < 0 
+C. -1/10 < x < 1/10 
+D. -1/10 < x 
+Answer: A 
+ 
+Remember: 
+(x - a)(x - b) < 0 then value of x lies in between a and b.  
+(x - a)(x - b) > 0 then value of x does not lie inbetween a and b. or ( −∞, a) and (b, −∞) if a < b 
+x2 < 1/100 ⇒ 
+(x2−1/100)<0⇒(x2−(1/10)2)<0⇒(x−1/10)(x+1/10)<0 
+So x should lie inbetween - 1/10 and 1/10.  But it was given that x is -ve. So x lies in -1/10 to 0 
+ 
+8.  There are 4 boxes colored red, yellow, green and blue.  If 2 boxes are selected, how many 
+combinations are there for at least one green box or one red box to be selected? 
+A. 1 
+B . 6 
+C. 9 
+D. 5 
+Answer: 5 
+
+ 
+TCS Placement Papers 2013 
+ 
+Naradha.in Page 3 
+ 
+ 
+Total ways of selecting two boxes out of 4 is 4C2 = 6.  Now, the number of ways of selecting two boxes 
+where none of the green or red box included is only 1 way.  (we select yellow and blue in only one 
+way).  If we substract this number from total ways we get 5 ways. 
+ 
+9. All faces of a cube with an eight - meter edge are painted red.  If the cube is cut into smaller cubes 
+with a two - meter edge, how many of the two meter cubes have paint on exactly one face? 
+A. 24 
+B. 36 
+C. 60 
+D. 48 
+Answer : A 
+ 
+If there are n cubes lie on an edge, then total number of cubes with one side painting is given 
+by 6×(n−2)2.  Here side of the bigger cube is 8, and small cube is 2.  So there are 4 cubes lie on an edge. 
+Hence answer = 24 
+ 
+10. Two cyclists begin training on an oval racecourse at the same time.  The professional cyclist 
+completes each lap in 4 minutes; the novice takes 6 minutes to complete each lap.  How many minutes 
+after the start will both cyclists pass at exactly the same spot where they began to cycle? 
+A. 10 
+B. 8 
+C. 14 
+D. 12 
+Answer: D 
+ 
+The faster cyclyst comes to the starting point for every 4 min so his times are 4, 8, 12, .........  The slower 
+cyclist comes to the starting point for every 6 min so his times are 6, 12, 18, .........  So both comes at the 
+end of the 12th min. 
+ 
+11. M, N, O and P are all different individuals; M is the daughter of N; N is the son of O; O is the father 
+of P; Among the following statements, which one is true? 
+A. M is the daughter of P 
+B. If B is the daughter of N, then M and B are sisters 
+C. If C is the granddaughter of O, then C and M are sisters 
+
+ 
+TCS Placement Papers 2013 
+ 
+Naradha.in Page 4 
+ 
+D. P and N are bothers.   
+Answer: B 
+ 
+From the diagram it is clear that If B is the daughter of N, then M and B are sisters.  Rectangle indicates 
+Male, and Oval indicates Female. 
+ 
+ 
+ 
+12. In the adjoining diagram, ABCD and EFGH are squres of side 1 unit 
+such that they intersect in a square of diagonal length (CE) = 1/2.  The total area covered by the squares 
+is  
+ 
+A. Cannot be found from the information 
+B. 1 1/2 
+C. 1 7/8 
+D. None of these 
+Answer:  C 
+ 
+ 
+Let CG = x then using pythogerous theorem CG2+GE2=CE2 
+⇒  x2+x2=(1/2)2⇒2x2=1/4⇒x2=1/8 
+Total area covered by two bigger squares = ABCD + EFGE - Area of small square = 2 - 1/8 = 15/8 
+ 
+ 
+
+ 
+TCS Placement Papers 2013 
+ 
+Naradha.in Page 5 
+ 
+13. There are 10 stepping stones numbered 1 to 10 as shown at the side.  A fly jumps 
+from the first stone as follows; Every minute it jumps to the 4th stone from where it started - that is from 
+1st it would go to 5th and from 5th it would go to 9th and from 9th it would go to 3rd etc.  Where would 
+the fly be at the 60th minute if it starts at 1? 
+A. 1 
+B. 5 
+C. 4 
+D. 9 
+Answer : A 
+ 
+Assume these steps are in circular fashion.  
+Then the fly jumps are denoted in the diagram.  It is clear that fly came to the 1st position after 5th 
+minute.  So again it will be at 1st position after 10th 15th .....60th. min. 
+ 
+So the fly will be at 1st stone after 60th min.  
+ 
+   
+ 
+14. What is the remainder when 617+1176  is divided by 7? 
+A. 1 
+B. 6 
+C. 0 
+D. 3 
+Answer: C 
+ 
+617 = (7−1)17 =  
+17C0.717−17C1.716.11.....+17C16.71.116−17C17.117 
+
+ 
+TCS Placement Papers 2013 
+ 
+Naradha.in Page 6 
+ 
+ 
+If we divide this expansion except the last term each term gives a remainder 0.  Last term gives a 
+remainder of - 1. 
+ 
+Now From Fermat little theorem, [ap−1p]Rem=1 
+So [1767]Rem=1 
+ 
+Adding these two remainders we get the final remainder = 0 
+ 
+15. In base 7, a number is written only using the digits 0, 1, 2, .....6.  The number 135 in base 7 is 1 
+x 72 + 3 x 7 + 5 = 75 in base 10.  What is the sum of the base 7 numbers 1234 and 6543 in base 7.  
+A. 11101 
+B. 11110 
+C. 10111 
+D. 11011 
+Answer: B  
+ 
+ 
+In base 7 there is no 7.  So to write 7 we use 10.  for 8 we use 11...... for 13 we use 16, for 14 we use 20 
+and so on. 
+So from the column d, 4 + 3 = 7 = 10, we write 0 and 1 carried over.  now 1 + 3 + 4 = 8 = 11, then we 
+write 1 and 1 carried over.  again 1 + 2 + 5 = 8 = 11 and so on 
+ 
+ 
+ 
+16. The sequence {An} is defined by A1 = 2 and An+1=An+2n what is the value of A100 
+A. 9902 
+B. 9900 
+C. 10100 
+D. 9904 
+Answer: A 
+We know that A1 = 2 so A2=A1+1=A1+2(1)=4 
+A3=A2+1=A2+2(2)=8 
+A4=A3+1=A3+2(3)=14 
+So the first few terms are 2, 4, 8, 14, 22, ...... 
+The differences of the above terms are 2, 4, 6, 8, 10... 
+and the differences of differences are 2, 2, 2, 2.  all are equal.  so this series represents a quadratic 
+equation. 
+Assume  An = an2+bn+c 
+
+ 
+TCS Placement Papers 2013 
+ 
+Naradha.in Page 7 
+ 
+Now A1 = a + b + c = 2 
+A2 = 4a + 2b + c = 4 
+A3 = 9a + 3b + c = 8 
+Solving above equations we get a = 1, b = - 1 and C = 2 
+So substituting in An = n2+bn+c = n2−n+2 
+Substitute 100 in the above equation we get 9902. 
+ 
+17.Find the number of rectangles from the adjoining figure (A square is also considered a rectangle) 
+ 
+A. 864 
+B. 3276 
+C. 1638 
+D. None 
+ 
+Answer: C 
+ 
+To form a rectangle we need two horizontal lines and two vertical lines.  Here there are 13 vertical lines 
+and 7 horizontal lines.  The number of ways of selecting 2 lines from 13 vertical lines is 13C2 and the 
+number of ways of selecting 2 lines from 7 horizontals is 7C2. So total rectangles =7C2x13C2 
+ 
+18. A, B, C and D go for a picnic.  When A stands on a weighing machine, B also climbs on, and the 
+weight shown was 132 kg.  When B stands, C also climbs on, and the machine shows 130 kg.  Similarly 
+the weight of C and D is found as 102 kg and that of B and D is 116 kg.  What is D's weight 
+A. 58kg 
+B. 78 kg 
+C. 44 kg 
+D. None 
+Answer : C  
+ 
+Given A + B = 132; B + C = 130; C + D = 102, B + D = 116 
+Eliminate B from 2nd and 4th equation and solving this equation and 3rd we get D value as 44. 
+ 
+19.  Roy is now 4 years older than Erik and half of that amount older than Iris.  If in 2 years, roy will be 
+twice as old as Erik, then in 2 years what would be Roy's age multiplied by Iris's age? 
+
+ 
+TCS Placement Papers 2013 
+ 
+Naradha.in Page 8 
+ 
+A. 28 
+B. 48 
+C. 50 
+D. 52 
+Answer: 48 
+ 
+20. X, Y, X and W are integers.  The expression X - Y - Z is even and the expression Y - Z - W is odd.  
+If X is even what must be true? 
+A. W must be odd 
+B. Y - Z must be odd 
+C. W must be odd 
+D. Z must be odd 
+Answer: A or C (But go for C) 
+ 
+21.  Mr and Mrs Smith have invited 9 of their friends and their spouses for a party at the Waikiki Beach 
+resort.  They stand for a group photograph.  If Mr Smith never stands next to Mrs Smith (as he says they 
+are always together otherwise). How many ways the group can be arranged in a row for the photograph? 
+A. 20! 
+B. 19! + 18! 
+C. 18 x 19! 
+D. 2 x 19! 
+Answer: C 
+ 
+22.  In a rectanglular coordinate system, what is the area of a triangle whose vertices whose vertices 
+have the coordinates (4,0), (6, 3) adn (6 , -3) 
+A. 6 
+B. 7 
+C. 7.5 
+D. 6.5 
+Answer: A 
+ 
+23. A drawer holds 4 red hats and 4 blue hats.  What is the probability of getting exactly three red hats or 
+exactly three blue hats when taking out 4 hats randomly out of the drawer and immediately returning 
+every hat to the drawer before taking out the next? 
+A. 1/2 
+B. 1/8 
+C. 1/4 
+D. 3/8 
+Answer: B 
+
+ 
+TCS Placement Papers 2013 
+ 
+Naradha.in Page 9 
+ 
+ 
+24. In how many ways can we distribute 10 identical looking pencils to 4 students so that each student 
+gets at least one pencil? 
+A. 5040 
+B. 210 
+C. 84 
+D. None of these 
+Answer: C 
+ 
+25. The prime factorization of intezer N is A x A x B x C, where A, B and C are all distinct prine 
+intezers.  How many factors does N have? 
+A. 12 
+B. 24 
+C. 4 
+D. 6 
+Answer: A 
+ 
+26. Tim and Elan are 90 km from each other.they start to move each other simultanously tim at speed 10 
+and elan 5 kmph. If every hour they double their speed what is the distance that Tim will pass until he 
+meet Elan  
+A. 45 
+B. 60 
+C. 20 
+D. 80 
+Answer: B 
+ 
+27. A father purchases dress for his three daughter. The dresses are of same color but of different size 
+.the dress is kept in dark room .What is the probability that all the three will not choose their own dress. 
+A.  2/3 
+B.  1/3 
+C.  1/6 
+D.  1/9  
+Answer: B 
+ 
+28. N is an integer and N>2, at most how many integers among N + 2, N + 3, N + 4, N + 5, N + 6,  and 
+N + 7 are prime integers? 
+A. 1 
+B. 3 
+C. 2 
+
+ 
+TCS Placement Papers 2013 
+ 
+Naradha.in Page 10 
+ 
+D. 4 
+Answer: C 
+ 
+29. A turtle is crossing a field.  What is the total distance (in meters) passed by turtle? Consider the 
+following two statements 
+(X) The average speed of the turtle is 2 meters per minute 
+(Y) Had the turtle walked 1 meter per minute faster than his average speed it would have finished 40 
+minutes earlier 
+A. Statement X alone is enough to get the answer 
+B. Both statements X and Y are needed to get the answer 
+C. Statement Y alone is enough to get the answer 
+D. Data inadequate 
+Answer: B 
+ 
+30. Given the following information, who is youngest? 
+C is younger than A; A is talled than B 
+C is older than B; C is younger than D 
+B is taller than C; A is older than D 
+A. D 
+B. B 
+C. C 
+D. A 
+Answer: B 
+ 
+31. If P(x) = ax4+bx3+cx2+dx+e has roots at x = 1, 2, 3, 4 and P(0) = 48, what is P(5) 
+A. 48 
+B. 24 
+C. 0 
+D. 50  
+Answer: A 

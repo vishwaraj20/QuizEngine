@@ -1,0 +1,340 @@
+
+
+TCS NQT Reasoning Problems With Solutions 
+ 
+ 
+Directions for questions from 1 to 5: 
+ 
+Eachquestionbelowconsistsofawordprintedincapitalletters,followedbyfour              
+letteredwordsorphrases.Choosetheletteredwordorphrasethatismostnearly              
+opposite​ in meaning to the word in the capital letters. 
+ 
+ 
+Q1. PROLOGUE 
+ 
+a) soliloquy  
+b) trilogy  
+c) analogue  
+d) epilogue 
+ 
+ 
+Q2. INFLATE 
+ 
+a) converge  
+b) inhibit  
+c) audit  
+d)minimize 
+ 
+ 
+Q3. VAGUE  
+ 
+a) expressive  
+b) Felicitous  
+c) well-defined  
+d) nearly perfect 
+ 
+ 
+Q4. DISARM 
+ 
+a) hold close  
+b) put on guard  
+
+c) challenge  
+d) entertain 
+ 
+ 
+Q5. FOCUS 
+ 
+a) disappear  
+b) disperse  
+c) link  
+d) activate 
+ 
+ 
+Directions for questions 6 to 10: 
+ 
+Ineachofthefollowingquestion,arelatedpairofwordsorphrasesisfollowed               
+byfourletteredpairsofwordsorphrases.Selecttheletteredpairthatbest              
+expresses the relationship similar to that expressed in the original pair. 
+ 
+ 
+Q6. VOTING : ROLL CALL 
+ 
+a) termination : cloture  
+b) amendment : constitution 
+c) majority : concession  
+d) quorum : filibuster 
+ 
+ 
+Q7. INSULIN : PANCREAS 
+ 
+a) bile : liver  
+b) menthol : eucalyptus 
+c) oxygen : heart  
+d) honey : bee 
+ 
+ 
+Q8. MISER : THRIFT 
+ 
+a) performer : artistry  
+b) chauvinist : patriotism 
+
+c) mimic : ridicule  
+d) politician : compromise 
+ 
+ 
+Q9. TALON : EAGLE 
+ 
+a) fang : snake  
+b) hoof : horse 
+c) claw : panther  
+d) quill : porcupine 
+ 
+ 
+Q10. ARTICULATE : CLEARLY 
+ 
+a) orate : strongly  
+b) shout : loudly 
+c) lecture : willfully  
+d) malign : incoherently 
+ 
+ 
+Directions for questions 11 to 15: 
+ 
+Eachsentencebelowhasoneortwoblanks,eachblankindicatingthat            
+somethinghasbeenomitted.Beneaththesentencearefourletteredwordsor            
+setsofwords.Choosethewordorsetofwordsforeachblankthatbestfitsthe                 
+meaning of the sentence a whole. 
+ 
+ 
+Q11.Aleadingchemistbelievesthatmanyscientistshavedifficultywith           
+stereochemistrybecausemuchoftherelevantnomenclatureis______inthatit            
+combines concepts that should be kept ______. 
+ 
+a) obscure..interrelated  
+b) impressive..discrete 
+c) subtle..inviolate  
+d) descriptive..seperate 
+ 
+ 
+
+Q12.Manyoftheearliestcolonialhousesthatarestillstandinghavebeenso              
+modified and enlarged that the ______ design is no longer ______. 
+ 
+a) pertinent..relevant  
+b) initial..discriminable 
+c) embellished..attractive  
+d) appropriate..applicable 
+ 
+ 
+Q13.Thoughscienceisoftenimaginedasa_______explorationofexternal            
+reality,scientistsarenodifferentfromanyoneelse:theyare______human            
+beingsenmeshedinawebofpersonalandsocialcircumstances.          
+https://www.freshersnow.com/placement-papers-download/ 
+ 
+a) fervent..vulnerable  
+b) neutral..rational 
+c) painstaking..careless  
+d) disinterested..passionate 
+ 
+ 
+Q14.Theoldmancouldnothavebeenaccusedof______hisaffection;his              
+conduct towards the child betrayed his ______ her. 
+ 
+a) lavishing..fondness for  
+b) sparing..tolerance of 
+c) rationing..antipathy for  
+d) stinting..adoration of 
+ 
+ 
+Q15.Amongthemany______oftheproject,expensecannotbenumbered;the             
+goals of the project promoters can be achieved with impressive ______. 
+ 
+a) highlights..efficiency  
+b) features..savings 
+c) disadvantages..innovation  
+d) defects..economy 
+ 
+ 
+Directions for Questions 16 to 21: 
+
+ 
+Inatelecommunication-cableassemblyplant,cablesareassembledbytwistingplastic             
+-coatedwirestogether.Therearewiresofexactlysixdifferentsolidcolours-red,               
+yellow,violet,green,whiteandblack.Wiresmustbeassembledintosinglecable             
+according the following rules. 
+ 
+Each cable must contain at least three wires and wires of atleast three different colours. 
+At most two wires in a single cable can be black. 
+At most two wires in a single cable can be white. 
+There can be at most one wire of each of the other colours in a single cable. 
+If one wire is red, then one wire must be yellow. 
+If one wire is violet, then no wire can be green. 
+ 
+ 
+Q16.Ifanassembledcableconsistsoffivewires,eachadifferentcolour,itcould               
+be true that a colour not used is 
+ 
+a) Black  
+b) White  
+c) Green  
+d) Red 
+ 
+ 
+Q17.Whichofthefollowingcouldbethecompletesetofwiresinanacceptable               
+cable? 
+ 
+a) A green wire, a white wire and a violet wire 
+b) A violet wire, a black wire and white wires 
+c) A red wire, a black wire and a green wire 
+d) A yellow wire and exactly two black wires 
+ 
+ 
+Q18. The maximum number of wires that can be used in an acceptable is 
+ 
+a) 8  
+b) 7  
+c) 6  
+d) 4 
+ 
+
+ 
+Q19.Ifthereisanadditionalrequirementthatvioletwiremustbeused,ifyellow               
+is used, which of the following must be true? 
+ 
+a) No cable contains fewer than six wires 
+b) No cable contains more than five wires 
+c) Green is never used if red is used 
+d) Red is always used if violet is used 
+ 
+ 
+Q20.Ifexactlyoneblackwireandexactlyonewhitewireareusedinan               
+assembled cable, which of the following must be true? 
+ 
+a) the cable contains no more than five wires 
+b) the cable contains exactly six wires 
+c) the cable contains a yellow wire 
+d) the cable does not contain a red wire 
+ 
+ 
+Q21.Ifawhitewireandavioletwiremustbeamongthewireschoosefora                 
+particularcable,anyofthefollowingpairsofwirescouldcompletethecable             
+except a ---? 
+ 
+a) black wire and a second white wire 
+b) yellow wire and second white wire 
+c) yellow wire and a black wire 
+d) red wire and a black wire 
+ 
+ 
+Directions for Question 22 to 24: 
+ 
+EachQuestionorgroupofquestionsisbasedonapassageorsetofconditions.In                
+answeringsomeofthequestions,itmaybeusefultodrawaroughdiagram.Foreach                
+question, select the best answer choice given. 
+ 
+Aninstrumenthasexactlysixkeys,eachsoundingadifferentnote.The            
+notesareK,L,M,N,OandP.Playingthisinstrumentinvolvesplaying              
+
+successivechords;eachconsistingofthreeofthenotesproduceds           
+simultaneously; 
+ 
+NotesKandNcanonlybeproducedsimultaneously.NotesLcannotbeproduced              
+simultaneouslywithnoteO.achordcanneitherbethesameastheoneimmediatelyis                
+nor be the same as the one immediately after it. 
+ 
+ 
+Q22.ChordLMPcouldbeimmediatelyfollowedbyeachofthefollowingchords             
+EXCEPT 
+ 
+a) KLN  
+b) KMN  
+c) KNP  
+d) LMP  
+e) MOP 
+ 
+ 
+Q23. Each of the following is an acceptable chord EXCEPT 
+ 
+a) KLP  
+b) KMN  
+c) KNP  
+d) LMP  
+e) MOP 
+ 
+ 
+Q24.WhichofthefollowingpairsofnotescanbeplayedsimultaneouslywithKto               
+produce an acceptable chord? 
+ 
+a) LM  
+b) LO  
+c) LP  
+d) MN  
+e) OP 
+ 
+ 
+Directions for questions 25 to 30: 
+
+ 
+ThemanagerofaradioprogramisgoingtofuturesixVocalists-M,N,P,Q,RandS-                     
+onanhalf-an-hourradioshowduringthecourseofoneweek.Shewillfeatureone               
+vocalistontheshoweachdayfromMondaythroughSaturday.Themanagermust             
+schedule the vocalists for the show according to the following conditions. 
+ 
+M must be featured earlier in the week than R 
+P must be featured on Tuesday 
+Qmustbefeaturedonthedayimmediatelybeforeorimmediatelyafterthedayon               
+which N is featured. 
+ 
+ 
+Q25.IfQistobefeaturedonThursday,thelatestdayonwhichMcanbefeatured                  
+is 
+ 
+a) Monday  
+b) Tuesday  
+c) Wednesday  
+d) Friday 
+ 
+ 
+Q26.IfSistobefeaturedonFriday,whatisthetotalnumberofacceptable                
+schedules available to the manager? 
+ 
+a) 1  
+b) 2  
+c) 3  
+d) 4 
+ 
+ 
+Q27.IfNistobefeaturedonThursday,theearliestdayonwhichRcanbe                 
+featured is 
+ 
+a) Monday  
+b) Tuesday  
+c) Wednesday  
+d) Friday 
+ 
+ 
+
+Q28. If S is to be featured on Thursday, which of the following is true? 
+ 
+a) M must be featured on Wednesday  
+b) N must be featured on Saturday  
+c) Q must be featured exactly two days after R is featured 
+d) R must be featured on Wednesday  
+ 
+ 
+Q29. Which of the following vocalist can be featured on Monday? 
+ 
+a) N  
+b) P  
+c) Q  
+d) S 
+ 
+ 
+Q30. If S is to be featured on Friday, M must be featured on 
+ 
+a) Monday  
+b) Tuesday  
+c) Wednesday  
+d) Thursday 
+ 

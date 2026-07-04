@@ -1,0 +1,218 @@
+
+
+TEST CODE	: TCS17-03T
+
+Total number of question	: 10
+
+Test duration (min)	: 20 min
+
+Correct attempt (mark)	: 1 
+
+Wrong attempt (mark)	: Nil
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TECHNICAL
+
+
+
+Certain questions are self-explanatory. Thus detailed solutions are provided only wherever required.
+
+
+
+1. Assume int is 4 bytes, char is 1 byte and float is 4 bytes. Also, assume that pointer size is 4 bytes (i.e. typical case)
+
+char *p;
+
+int *q;
+
+float *r;
+
+
+
+sizeof(p);
+
+sizeof(q);
+
+sizeof(r);
+
+a. 4 4 4			b. 1 4 4
+
+c. 1 4 8			d. None of the mentioned
+
+
+
+Answer: A
+
+
+
+Explanation: 
+
+ Irrespective of the type of pointer, the size for a pointer is always same. So whether it’s pointer to char or pointer to float, the size of any pointer would be same. Even size of a pointer to user defined data type (e.g. struct) is also would be same.
+
+
+
+2. Continue statement used for
+
+a. to continue the next line of code
+
+b. to stop the current iteration and begin the next iteration from the beginning
+
+c. to handle runtime error
+
+d. None of the mentioned
+
+
+
+Answer: B
+
+
+
+ 3. What will be the output of following program?
+
+a. error	           b. 0	c. 10	d. Garbage value
+
+
+
+Answer: B
+
+
+
+4. What is the use of \r in C?
+
+a. used to insert a vertical tab
+
+b. used to insert a tab
+
+c. places cursor at the end of line
+
+d. places cursor at the start of line
+
+Answer: D
+
+
+
+5. In the context of the following printf() in C, pick the best statement.
+
+i) printf("%d",8);
+
+ii) printf("%d",090);
+
+iii) printf("%d",00200);
+
+iv) printf("%d",0007000);
+
+a. Only i) would compile. And it will print 8.
+
+b. Both i) and ii) would compile. i) will print 8 while ii) will print 90
+
+c. All i), ii), iii) and iv) would compile successfully and they will print 8, 90, 200 & 7000 respectively.q
+
+d. Only i), iii) and iv) would compile successfully. They will print 8, 128 and 3584 respectively.
+
+
+
+Answer: D
+
+
+
+Explanation: 
+
+ As per C standard, "An octal constant consists of the prefix 0 optionally followed by a sequence of the digits 0 through 7 only."So 090 isn’t valid because 0 prefix is used for octal but 9 isn’t valid octal-digit.
+
+
+
+6. What’s going to happen when we compile and run the following C program?
+
+a. Compile Error.
+
+b. No compile error but it will run into infinite loop printing FACE
+
+c. No compile error and it’ll print FACE 10 times
+
+d. No compile error but it’ll print FACE 9 times.
+
+
+
+Answer: C
+
+
+
+Explanation: 
+
+ Basically, even though for loop doesn’t have any of three expressions in parenthesis, the initialization, control and increment has been done in the body of the loop. So j would be initialized to 0 via first if. This if itself would be executed only once due to i--. Next if and else blocks are being used to check the value of j and existing the loop if j becomes 10. Please note that j is getting incremented in printf even though there’s no format specifier in format string. That’s why FACE would be printed for j=0 to j=9 i.e. a total of 10 times.
+
+7. The compiler in C ignores all test till the end of line using
+
+a. //			b. /
+
+c. */			d. None of the mentioned
+
+
+
+Answer: A
+
+
+
+8. UML Meaning is
+
+a. Unique modeling language
+
+b. Unified modeling language
+
+c. Unified modern language
+
+d. Unified master language
+
+
+
+Answer: B
+
+
+
+9. Disadvantage of array in C is
+
+a. We can easily access each element
+
+b. It is necessary to declare too many variables
+
+c. It can store only one similar type of data
+
+d. None of the mentioned
+
+
+
+Answer: C
+
+ 
+
+10. What is wild pointer in C
+
+a. a pointer which we need to write in future
+
+b. a pointer which has had naming convention
+
+c. a pointer which had no limit
+
+d. a pointer which has not initialized
+
+
+
+Answer: D
+

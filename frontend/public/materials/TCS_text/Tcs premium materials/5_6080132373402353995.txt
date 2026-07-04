@@ -1,0 +1,395 @@
+
+
+Free Placement Preparation Online Course with Free Mock Test 
+visit: www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+www.MyPlacementPrep.com 
+ 
+Pro Material Series 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Join Telegram Channel for more updates: 
+https://t.me/MyPlacementprepApp 
+ 
+Visit www.MyPlacementPrep.com .  
+India’s No1 website for Placement Materials and Free mock test Series 
+Free Placement Preparation Online Course video now available. 
+
+Free Placement Preparation Online Course with Free Mock Test 
+visit: www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+ 
+Technical Round  
+Intro about the company  
+• Tata Consultancy Services Limited (TCS) is 
+an Indian multinational information 
+technology (IT) service, consulting and 
+business solutions company 
+Headquartered in Mumbai, Maharashtra.  
+• It is a subsidiary of the Tata Group and 
+operates in 46 countries.  
+• TCS is now placed among the ‘Big 4’ most 
+valuable IT services brands worldwide.  
+• TCS is one of the largest private sector 
+employers in India, and the fourth-largest 
+employer among listed Indian companies 
+
+Free Placement Preparation Online Course with Free Mock Test 
+visit: www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+(after Indian Railways, Indian Army and 
+India Post).  
+TCS Technical round  
+• There are two components of technical 
+questions. MCQ's and Programming.  
+• MCQ (or) Fill in the blanks – 20 Minutes  
+– 10 Questions  
+• Coding round – 20 Minutes  
+– One C program  
+
+Free Placement Preparation Online Course with Free Mock Test 
+visit: www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+ 
+Coding platform  
+Coding platform - Instructions  
+• There was only one question.  
+• It has 10 attempts(We can compile only 
+10 times).  
+• We must start our code from the scratch.  
+
+Free Placement Preparation Online Course with Free Mock Test 
+visit: www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+• The coding platform is divided into two, 
+one for writing the code and other for 
+output. We should write the whole 
+program.  
+• We can't use any input functions like 
+scanf(), getch(), getchar().  
+• The input to be provided should be read 
+as command line arguments.  
+Coding platform - Instructions  
+• We must only print exact output.  
+• Output must not be re-framed by extra 
+words.  
+• If there is any error, the error will be 
+shown in the output dialog box.  
+• The errors are clearly mentioned.  
+• If there are no errors, a message like 
+"compiled successfully"  
+will be printed.  
+
+Free Placement Preparation Online Course with Free Mock Test 
+visit: www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+• Along with that they will mention four 
+test cases are 'passed' or 'failed'. They are 
+indicated like private and public test 
+cases. They have not mentioned what is 
+the test case, which is difficult to 
+understand.  
+• There is no time limit. But, when all the 
+10 attempts are over, a message like 
+"attempts exhausted" will be shown.  
+• To compile and run there is a button 
+provided. To run the code, just click on 
+that.  
+1) How many times the below loop will 
+be executed?  
+#include<stdio.h> int main() {  
+int x, y; for(x=5;x>=1;x--) {  
+for(y=1;y<=x;y++) printf("%d\n",y);  
+} }  
+
+Free Placement Preparation Online Course with Free Mock Test 
+visit: www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+Options  
+1. 15  
+2. 11  
+3. 10  
+4. 13  
+ 
+2) Where the local variables are 
+stored?  
+A. Disk B. Stack C. Heap D. 13  
+ 
+3) Select the missing statement?  
+#include<stdio.h> long int fact(int n); int main() 
+{  
+\\missing statement }  
+long int fact(int n) {  
+
+Free Placement Preparation Online Course with Free Mock Test 
+visit: www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+if(n>=1) 
+return n*fact(n-1);  
+else 
+return 1;  
+}  
+Options  
+1. printf(“%ll\n",fact(5));  
+2. printf("%u\n",fact(5));  
+3. printf("%d\n",fact(5));  
+4. printf("%ld\n",fact(5));  
+ 
+4) Which of the following indicate the 
+end of the file?  
+A. Feof() 
+B. EOF 
+C. Both feof() and EOF 
+D. None of the mentioned  
+
+Free Placement Preparation Online Course with Free Mock Test 
+visit: www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+ 
+5) If a function’s return type is not 
+explicitly defined then it’s default to 
+______ (In C).  
+A. int 
+B. float C. void D. Error  
+ 
+6) For passing command line argument 
+the main function should be like 
+_______  
+1. int main(char *argv[], int argc)  
+2. int main(int argc)  
+3. int main(char *argv[])  
+4. int main( int argc, char *argv[])  
+ 
+
+Free Placement Preparation Online Course with Free Mock Test 
+visit: www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+7) How many times the below loop will 
+be executed?  
+#include<stdio.h> int main() 
+{  
+int i; for(i=0;i<5;i++) {  
+printf("Hello\n"); }  
+}  
+Options  
+1. 5  
+2. 1  
+3. 0  
+4. 3  
+ 
+8) Which of the following is a User-
+defined data type?  
+
+Free Placement Preparation Online Course with Free Mock Test 
+visit: www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+A. long int 
+B. double 
+C. unsigned long int D. enum  
+ 
+9) Which has the highest precision?  
+A. float 
+B. double 
+C. unsigned long int D. Long int  
+ 
+Floating point types  
+The following table provide the details of 
+standard floating-point types with storage 
+sizes and value ranges and their precision −  
+Type  
+Storage 
+size  
+Value range  Precision  
+float  4 byte  1.2E-38 to 3.4E+38  
+6 decimal 
+places  
+
+Free Placement Preparation Online Course with Free Mock Test 
+visit: www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+double  8 byte  2.3E-308 to 1.7E+308  
+15 decimal 
+places  
+long 
+double  
+10 byte  
+3.4E-4932 to 
+1.1E+4932  
+19 decimal 
+places  
+10) What will be the output/error?(for 
+input: 6, 9  
+#include<stdio.h> int fg(int,int); 
+int main() 
+{  
+int n1,n2,g;  
+scanf("%d%d", &n1,&n2);  
+g=fg(n1,n2);  
+printf("%d",g); }  
+int fg(int x,int y)  
+{ 
+while(x!=y) {  
+
+Free Placement Preparation Online Course with Free Mock Test 
+visit: www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+if(x>y) 
+return fg(x-y,y);  
+else 
+return fg(x,y-x);  
+}  
+return x; }  
+Options  
+1. 3  
+2. 6  
+3. 9  
+4. Error  
+ 
+Tips to Crack Test  
+• Never guess an answer  
+• Attend only the questions you are 
+reasonably certain of  
+
+Free Placement Preparation Online Course with Free Mock Test 
+visit: www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+answering correctly  
+• If you don’t get the answer in the first try 
+then skip the question  
+• Read the question fully once and find out 
+what they are asking  
+• Try not to panic at the sight of those long 
+programming questions.  
+• Most programming questions are very 
+simple which require you to do some 
+logical thinking with a clear mind.  
+ 
+ 
+ 
+www.MyPlacementPrep.com 
+ 
+Free Mock Test and Video 
+Tutorial 
+ 
+
+Free Placement Preparation Online Course with Free Mock Test 
+visit: www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Visit www.MyPlacementPrep.com .  
+India’s No1 website Placement and Mock Test series 
+Free Placement Learning Path with Free Video Course. 

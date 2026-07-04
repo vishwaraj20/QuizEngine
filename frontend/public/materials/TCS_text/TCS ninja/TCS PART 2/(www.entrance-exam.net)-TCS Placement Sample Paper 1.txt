@@ -1,0 +1,648 @@
+TCS Placement Papers – jan 2010
+
+26JAN
+
+
+
+Latest Sample Placement Paper Of TCS For Year-2009-10  (Mathematic,English)
+
+1. (38 x 142) ÷ (4096) =?
+
+1) 337.25
+
+2) 269.8
+
+3) 490
+
+4) 84.3125
+
+5) None of these
+
+2. 3 + 33.3 + 3.03 + 333 =?
+
+1) 666
+
+2) 636.33
+
+3) 372.33
+
+4) 672.66
+
+5) None of these
+
+3. (17.52)2 =?
+
+1) 280.9504
+
+2) 290.5904
+
+3) 306.9504
+
+4) 280.5904
+
+5) None of these
+
+4. (37% of 2370) – (41% of 2105) =?
+
+1) 13.85
+
+2) 12.56
+
+3) 13.10
+
+4) 12.15
+
+5) None of these
+
+Directions (Q. 5-14): In the following passage there are blanks, each of which has been numbered. These numbers are printed below the passage and against each five words are suggested, one of which fits the blank appropriately. Find out the appropriate words. It is a 5 that Communists are opposed to economic reforms. The fact of the life is that Communists are the most 6 fighters for economic reforms, the reforms that lead to self-reliant and democratic economic development with social justice. To term the market-oriented changes as reform is a 7. The development strategy 8 under Structural Adjustment and dictated by the World Bank, IMF and WTO is a strategy for the 9 development of capitalism under which the working people, who are the main productive force, are made 10, kept unemployed, thrown out of jobs, and so on. It has no social relevance. In the phase of globalization, no country can develop in 11 and entry of the foreign capital can not be12 altogether. Integration with world economy has to ensure the free and speedy 13 of the national economy. Foreign capital has to be allowed in the areas where we really need huge investment, which our resources cannot meet, and where we need technology, not available in the country. Economic14 should not mean license for plunder by MNCs.
+
+5.
+
+1) problem
+
+2) mysticism
+
+3) curiosity
+
+4) misconception
+
+5) mistake
+
+6.
+
+1) liberal
+
+2) demanding
+
+3) strident
+
+4) detrimental
+
+5) horrible
+
+7.
+
+1) misnomer
+
+2) terrible
+
+3) danger
+
+4) tragedy
+
+5) shame
+
+8.
+
+1) reached
+
+2) verified
+
+3) assembled
+
+4) hurled
+
+5) envisaged
+
+9.
+
+1) westernised
+
+2) unfettered
+
+3) gross
+
+4) accumulated
+
+5) astounding
+
+10.
+
+1) labourers
+
+2) culprit
+
+3) redundant
+
+4) escapists
+
+5) icons
+
+11.
+
+1) unison
+
+2) liberalisation
+
+3) coalition
+
+4) association
+
+5) isolation
+
+12.
+
+1) forced
+
+2) loaded
+
+3) denied
+
+4) stated
+
+5) scrutinised
+
+13.
+
+1) development
+
+2) empowerment
+
+3) unity
+
+4) mobilisation
+
+5) cohesion
+
+14.
+
+1) growth
+
+2) potential
+
+3) strategy
+
+4) reforms
+
+5) vitality
+
+Directions (Q. 15-24): Given below are two passages. Read them carefully and answer the questions given below them.
+
+Certain words are given in bold to help you to locate them while answering some of the questions.
+
+Passage – I
+
+Americans have a variety of superstitions like walking under a ladder, a black cat crossing your path and the number 13, none of which seem to have a logical reason for being. However, there are no serious taboos attached to them. Individuals may have an array of sensitivities based on their personal beliefs. If you do offend someone inadvertently, a sincere apology will usually go a long way toward making amends. The one sensitivity that almost all Americans have is about slights to their country. Either complaining about the US or expressing an attitude that your culture is superior can cause Americans to take offence. Americans do possess a great deal of culture arrogance, and think that their way is the only right way. They think that the US is the best place on earth, otherwise why would everybody by trying to get here? Whether you agree or not, remember that you are a guest in the US and it would be rude for a guest to insult his host
+
+15. Which of the following can be presumed about Americans regarding superstition?
+
+1) It is a cultural custom for them to believe in superstitions.
+
+2) They can satisfy you by placing arguments about the validity of superstitions.
+
+3) Americans cannot justify their adherence to superstitions.
+
+4) Americans are highly superstitious people.
+
+5) None of these
+
+16. If you offend an American inadvertently, a sincere apology will
+
+1) take a long time to repair the damage.
+
+2) not necessarily by enough to amend it.
+
+3) be turned down.
+
+4) succeed in making amends.
+
+5) None of these
+
+17. Americans feel usually offended whenever there is a(n)
+
+1) argument posed before them.
+
+2) rude remark against their culture.
+
+3) threat to their sovereignty.
+
+4) attack on their religion.
+
+5) None of these
+
+18. What makes the Americans feel that their country is the best in the world?
+
+1) mad rush of people from other countries to America
+
+2) the best facilities available there
+
+3) their culture and custom which they feel is the best in the world
+
+4) the economic superiority of America
+
+5) None of these
+
+19. What is the antonym of the word inadvertently as given in bold in the passage?
+
+1) intentionally
+
+2) occasionally
+
+3) unwittingly
+
+4) avowedly
+
+5) adroitly
+
+Passage – II
+
+Population is one resource that never depletes and is a living development parameter. But it is at times interpreted as a hindering factor for development. This happens because population is both a consumer and producer. There are two schools of thought. One which treats population as a resource, and the other as a burden to the society. The truth, in fact, lies somewhere in between. The interplay of factors responsible for population growth and those for development decide the resourcefulness of population.
+
+20. Why is it said that population is one resource that never depletes?
+
+1) because other resources deplete
+
+2) because population is an ever-increasing phenomenon
+
+3) because population is seen as a resource
+
+4) because it is an easily available commodity
+
+5) None of these
+
+21. Why population is at the same time treated as a resource and also as a burden to the society?
+
+1) because population is the creator and at the same time it is also the user
+
+2) because a less number of people are engaged in production and a large number of people are dependent on it
+
+3) because population is not always a producer but it is always a consumer
+
+4) when the growth of population is checked it is a resource and when it increases rapidly it is burden to the society
+
+5) None of these
+
+22. The resourcefulness of population can be decided by
+
+(i) skilled manpower (ii) scale of development (iii) population control measures (iv) scale of population growth
+
+1) All of the above
+
+2) Only (i), (ii) and (iii)
+
+3) Only (i) and (iii)
+
+4) Only (ii) and (iv)
+
+5) None of these
+
+23.Which of the following is true in context of the passage?
+
+1) It is not necessary that the population always grows.
+
+2) Population is burdensome.
+
+3) Most of the natural resources are exhaustible.
+
+4) Population is a big consumer and a meager producer.
+
+5) None of these
+
+24.What will be the synonym of the word depletes as given in bold in the passage?
+
+1) disappears
+
+2) sustains
+
+3) worsens
+
+4) evades
+
+5) reduces
+
+25. – 65 x39 + 335 =?
+
+1) – 849225
+
+2) – 2200
+
+3) – 2870
+
+4) 2870
+
+5) None of these
+
+ANSWERS :  1. (1)   2. (3)   3. (3) 4. (1)   5. (4)   6. (3)   7. (1)   8. (5)   9. (2)   10. (3)   11. (5)   12. (3)   13. (1)   14. (4)   15. (3)   16. (4)   17. (2)   18. (1)   19. (1)  20. (2)   21. (1)   22. (3)   23. (3)  24. (5)   25.(2)
+
+Latest Sample Placement Paper Of TCS For Year-2009-10  (Mathematic,English)
+
+1. (38 x 142) ÷ (4096) =?
+
+1) 337.25
+
+2) 269.8
+
+3) 490
+
+4) 84.3125
+
+5) None of these
+
+2. 3 + 33.3 + 3.03 + 333 =?
+
+1) 666
+
+2) 636.33
+
+3) 372.33
+
+4) 672.66
+
+5) None of these
+
+3. (17.52)2 =?
+
+1) 280.9504
+
+2) 290.5904
+
+3) 306.9504
+
+4) 280.5904
+
+5) None of these
+
+4. (37% of 2370) – (41% of 2105) =?
+
+1) 13.85
+
+2) 12.56
+
+3) 13.10
+
+4) 12.15
+
+5) None of these
+
+Directions (Q. 5-14): In the following passage there are blanks, each of which has been numbered. These numbers are printed below the passage and against each five words are suggested, one of which fits the blank appropriately. Find out the appropriate words. It is a 5 that Communists are opposed to economic reforms. The fact of the life is that Communists are the most 6 fighters for economic reforms, the reforms that lead to self-reliant and democratic economic development with social justice. To term the market-oriented changes as reform is a 7. The development strategy 8 under Structural Adjustment and dictated by the World Bank, IMF and WTO is a strategy for the 9 development of capitalism under which the working people, who are the main productive force, are made 10, kept unemployed, thrown out of jobs, and so on. It has no social relevance. In the phase of globalization, no country can develop in 11 and entry of the foreign capital can not be12 altogether. Integration with world economy has to ensure the free and speedy 13 of the national economy. Foreign capital has to be allowed in the areas where we really need huge investment, which our resources cannot meet, and where we need technology, not available in the country. Economic14 should not mean license for plunder by MNCs.
+
+5.
+
+1) problem
+
+2) mysticism
+
+3) curiosity
+
+4) misconception
+
+5) mistake
+
+6.
+
+1) liberal
+
+2) demanding
+
+3) strident
+
+4) detrimental
+
+5) horrible
+
+7.
+
+1) misnomer
+
+2) terrible
+
+3) danger
+
+4) tragedy
+
+5) shame
+
+8.
+
+1) reached
+
+2) verified
+
+3) assembled
+
+4) hurled
+
+5) envisaged
+
+9.
+
+1) westernised
+
+2) unfettered
+
+3) gross
+
+4) accumulated
+
+5) astounding
+
+10.
+
+1) labourers
+
+2) culprit
+
+3) redundant
+
+4) escapists
+
+5) icons
+
+11.
+
+1) unison
+
+2) liberalisation
+
+3) coalition
+
+4) association
+
+5) isolation
+
+12.
+
+1) forced
+
+2) loaded
+
+3) denied
+
+4) stated
+
+5) scrutinised
+
+13.
+
+1) development
+
+2) empowerment
+
+3) unity
+
+4) mobilisation
+
+5) cohesion
+
+14.
+
+1) growth
+
+2) potential
+
+3) strategy
+
+4) reforms
+
+5) vitality
+
+Directions (Q. 15-24): Given below are two passages. Read them carefully and answer the questions given below them.
+
+Certain words are given in bold to help you to locate them while answering some of the questions.
+
+Passage – I
+
+Americans have a variety of superstitions like walking under a ladder, a black cat crossing your path and the number 13, none of which seem to have a logical reason for being. However, there are no serious taboos attached to them. Individuals may have an array of sensitivities based on their personal beliefs. If you do offend someone inadvertently, a sincere apology will usually go a long way toward making amends. The one sensitivity that almost all Americans have is about slights to their country. Either complaining about the US or expressing an attitude that your culture is superior can cause Americans to take offence. Americans do possess a great deal of culture arrogance, and think that their way is the only right way. They think that the US is the best place on earth, otherwise why would everybody by trying to get here? Whether you agree or not, remember that you are a guest in the US and it would be rude for a guest to insult his host
+
+15. Which of the following can be presumed about Americans regarding superstition?
+
+1) It is a cultural custom for them to believe in superstitions.
+
+2) They can satisfy you by placing arguments about the validity of superstitions.
+
+3) Americans cannot justify their adherence to superstitions.
+
+4) Americans are highly superstitious people.
+
+5) None of these
+
+16. If you offend an American inadvertently, a sincere apology will
+
+1) take a long time to repair the damage.
+
+2) not necessarily by enough to amend it.
+
+3) be turned down.
+
+4) succeed in making amends.
+
+5) None of these
+
+17. Americans feel usually offended whenever there is a(n)
+
+1) argument posed before them.
+
+2) rude remark against their culture.
+
+3) threat to their sovereignty.
+
+4) attack on their religion.
+
+5) None of these
+
+18. What makes the Americans feel that their country is the best in the world?
+
+1) mad rush of people from other countries to America
+
+2) the best facilities available there
+
+3) their culture and custom which they feel is the best in the world
+
+4) the economic superiority of America
+
+5) None of these
+
+19. What is the antonym of the word inadvertently as given in bold in the passage?
+
+1) intentionally
+
+2) occasionally
+
+3) unwittingly
+
+4) avowedly
+
+5) adroitly
+
+Passage – II
+
+Population is one resource that never depletes and is a living development parameter. But it is at times interpreted as a hindering factor for development. This happens because population is both a consumer and producer. There are two schools of thought. One which treats population as a resource, and the other as a burden to the society. The truth, in fact, lies somewhere in between. The interplay of factors responsible for population growth and those for development decide the resourcefulness of population.
+
+20. Why is it said that population is one resource that never depletes?
+
+1) because other resources deplete
+
+2) because population is an ever-increasing phenomenon
+
+3) because population is seen as a resource
+
+4) because it is an easily available commodity
+
+5) None of these
+
+21. Why population is at the same time treated as a resource and also as a burden to the society?
+
+1) because population is the creator and at the same time it is also the user
+
+2) because a less number of people are engaged in production and a large number of people are dependent on it
+
+3) because population is not always a producer but it is always a consumer
+
+4) when the growth of population is checked it is a resource and when it increases rapidly it is burden to the society
+
+5) None of these
+
+22. The resourcefulness of population can be decided by
+
+(i) skilled manpower (ii) scale of development (iii) population control measures (iv) scale of population growth
+
+1) All of the above
+
+2) Only (i), (ii) and (iii)
+
+3) Only (i) and (iii)
+
+4) Only (ii) and (iv)
+
+5) None of these
+
+23.Which of the following is true in context of the passage?
+
+1) It is not necessary that the population always grows.
+
+2) Population is burdensome.
+
+3) Most of the natural resources are exhaustible.
+
+4) Population is a big consumer and a meager producer.
+
+5) None of these
+
+24.What will be the synonym of the word depletes as given in bold in the passage?
+
+1) disappears
+
+2) sustains
+
+3) worsens
+
+4) evades
+
+5) reduces
+
+25. – 65 x39 + 335 =?
+
+1) – 849225
+
+2) – 2200
+
+3) – 2870
+
+4) 2870
+
+5) None of these
+
+ANSWERS :  1. (1)   2. (3)   3. (3) 4. (1)   5. (4)   6. (3)   7. (1)   8. (5)   9. (2)   10. (3)   11. (5)   12. (3)   13. (1)   14. (4)   15. (3)   16. (4)   17. (2)   18. (1)   19. (1)  20. (2)   21. (1)   22. (3)   23. (3)  24. (5)   25.(2)
+
+
+

@@ -1,0 +1,301 @@
+
+
+TCS NQT Aptitude Paper 
+ 
+1. A two digit number is 18 less than the ​square of the sum of its digits​. How many such numbers 
+are there? 
+(1) 1 
+(2) 2 
+(3) 3 
+(4) 4 
+Ans: Option 2 
+Take N = 10a+b.  
+Given that, (10a+b)+18 = K​
+2 ​
+= (a+b)​
+2 
+Given number = K​
+2 ​
+-​
+ ​
+18 = (10a+b) 
+That means, when we add 18 to the given number it should be a perfect square. So K​
+2 ​
+takes the 
+following values. 1, 4, 9, 16, 25, 36, 49, 64, 81, 100, 121, .... 
+1 to 16 are ruled out as if we subtract 18 from them, the resulting number is a single digit number. 
+Now 25 - 18 = 7 
+36 - 18 = 18 
+49 - 18 = 31 
+64 - 18 = 46 
+81 - 18 = 63 
+100 - 18 = 82 
+121 - 18 = 103 
+Now 63, 82 satisfies. 
+ 
+2. A two digit number is 18 less than the​ ​sum of the squares of its digits.​ How many such 
+numbers are there? 
+(1) 1 
+(2) 2 
+(3) 3 
+(4) 4 
+Ans: Option 2 
+Only 47 and 67 satisfy the condition 
+ 
+3. For real number x, int(x) denotes integer part of x.int(x) is the largest integer less than or equal to 
+x.int(1,2)=1,int(-2,4)=-3.  Find the value of int(1/2)+int(1/2+ 100)+int(1/2+2/100)+....+int(1/2+99/100) 
+Sol: int (1/2) = 0 
+int (1/2 + 100 ) = 100 
+into (1/2 + 2/100) = 0 
+...... 
+int ( 1/2 + 50/100 ) = 1 
+int (1/2 + 51 /100) = 1 
+....... 
+int (1/2 + 99/100) = 1 
+So 100 +  1 + 1 + .....50 times = 150 
+
+ 
+4. Given a square of length 2m. Its corners are cut such that to represent a regular octagon.   Find 
+the length of side of octagon 
+Sol: 
+ 
+Let x is the side of the octagon and x + 2y is the side of the square. 
+In the given octagon,  
+ 
+ 
+ 
+5. Find the number of ways a batsman can score a double century only in terms of 4's & 6's? 
+Assume the batsman scored x 4's and y 6's. 
+4x + 6y = 200  
+⇒ 
+2 
+x 
++ 
+3 
+y 
+= 
+100 
+⇒2x+3y=100 
+  
+⇒ 
+
+x 
+= 
+100 
+− 
+3 
+y 
+2 
+= 
+50 
+− 
+3 
+2 
+y 
+⇒x=100−3y2=50−32y 
+ 
+As x is an integer, y should be a multiple of 2. 
+If 
+y = 0, x = 50 
+y = 2, x = 47 
+y = 4, x = 44 
+... 
+y = 32, x = 2 
+ 
+So total ways are (32-0)/2 + 1 = 17 ( if 0 6's are possible) otherwise 16 
+ 
+6. 5000 voted in an election between two candidates.14% of the votes were invalid.The winner won 
+by a margin approximately closer to 15%.Find the number of votes secured by the person 
+Invalid Votes = 14 % (5000) = 700 
+Valid Votes = 5000 - 700 = 4300 = R (say) 
+Assume the looser got 'L" votes and winner got "W" votes. 
+W - L = 15% (R) 
+W + L = R 
+Solving we get W = 57.5% and L = 42.5% 
+So Winner got 57.5%(4300) = 2472 
+ 
+7. There are 100 wine glasses.  I offered my servant to 3 paise for every broken glass to be 
+delivered safely and forfeit 9 paisa for every glass broken at the end of day. He recieved Rs.2.40 
+.how many glass did he break. 
+a. 20  b. 73  c. 5  d. 8 
+If a glass has been broken, he has to loose 3 paisa + 9 paise = 12 paise 
+Assume K  glasses got broken 
+100 x 3 - 12 x K = 240  
+⇒ 
+
+K 
+= 
+5 
+⇒K=5 
+ 
+ 
+8. A is 20 percent more efficient than B.  If the two person can complete a piece of work in 60 
+days.in how many days.  A working alone can complete the work 
+a. 80   b. 90    c. 100     d. 110 
+As A is 20% more efficient than B, If B's per day work is 100 units then A's 120. 
+Both persons together completes (100 + 120) units = 220 units a day. 
+They took 60 days to complete the work. So total work = 60 x 220 
+If A alone set to complete the work, he takes =  
+60 
+× 
+220 
+120 
+= 
+110 
+60×220120=110 
+ days 
+ 
+9. A property was originally on a 99 years lease and two thirds of the time passed is equal to the four 
+fifth of the time to come.how many years are there to go. 
+a. 45   b. 50    c. 60     d. 55 
+Assume x years have passed and y years to go 
+Given  
+2 
+3 
+x 
+= 
+4 
+5 
+y 
+23x=45y 
+  
+⇒ 
+x 
+= 
+3 
+2 
+× 
+
+4 
+5 
+y 
+= 
+6 
+5 
+y 
+⇒x=32×45y=65y 
+ 
+But x + y = 99 
+So  
+6 
+5 
+y 
++ 
+y 
+= 
+99 
+65y+y=99 
+ 
+Solving we get y = 45 years 
+ 
+10. In how many different ways can the letters of the word "LEADING" be arranged in such a way 
+that the vowels always come together ​https://www.freshersnow.com/placement-papers-download/ 
+a. 360 
+b. 720 
+c. 480 
+d. 5040 
+Given letters are A, E, I, D, L, N, G 
+Of which AEI are vowels. Let us combine them into a single letter x.  Now total letters are x, D, L, N, 
+G 
+These letter are arranged in 5! ways.  But 3 vowels can arrange themselves in 3! ways.  So total 
+ways 5! x 3! = 720 
+ 
+11. There is a plane contains 32 points.all the 32 points have equal distance from point x. which of 
+the following is true . 
+a. all 32 points lie in circle 
+b. the distance from x to all 32 points is less than the distance between each other 
+c. both a and b 
+d. none of these 
+Sol: Option 3 
+X must be the center of the circle and 32 points are  on the circumference. So Option A is correct 
+Number of diagnols of a regular polygon =  
+n 
+
+( 
+n 
+− 
+3 
+) 
+2 
+n(n−3)2 
+ 
+So for a polygon of 32 sides, Number of diagnols = 464. Now the minimum distance between any 
+two points =  
+2 
+π 
+r 
+32 
+= 
+11 
+56 
+r 
+2πr32=1156r 
+ 
+Now total lengh of all the distances from 32 points =  
+2 
+π 
+r 
+2πr 
+ + Sum of the lengths of all the 464 diagnols. 
+Sum of the lengths of x to all the 32 points = 32 radius = 32r 
+But the 464 diagnols have 16 diameters connecting 2 oposite points connecting via center. So Sum 
+of the lengths of distances from point to point is clearly greater than sum of the length from x to all 32 
+ponts. Option B is correct 
+Correct Option 3 
+ 
+12. When asked what the time is,a person answered that the amount of time left is 1/5 of the time 
+already completed.what is the time. 
+1. 8 pm 
+2. 8 am 
+3. 12 pm 
+4. 12 am 
+Sol: A day has 24 hrs. Assume x hours have passed. Remaining time is (24 - x) 
+24 
+− 
+x 
+
+= 
+1 
+5 
+x 
+⇒ 
+x 
+= 
+20 
+24−x=15x⇒x=20 
+ 
+Time is 8 PM 
+ 
+13. Perimeter of the backwheel =9 feet,front wheel=7 feet on a certain distance ,the front wheel gets 
+10 revolution more than the back wheel.what is the distance 
+Let the backwheel made x revolutions then front wheel makes x + 10 
+x x 9 = (x + 10) x 7 
+x = 35 
+So distance traveled = 35 x 9 = 315 
+ 
+14. There are 2 groups named brown and red. They can n't marry in the same group. If the husband 
+or wife dies then the person will revert to their own group.  If a person is married then the husband 
+will have to change his group to his wife's group. Children will own the mother's group. If man is red 
+then his mother's brother belong to which group if he is married 
+a. red 
+b. brown 
+c. red and brown 
+d. none 
+Option: b 
+If a man is Red, his mother must be red, his mothers brother also red but after marriage, he gets 
+converted to Brown. 
+ 
+15. A rectangular park 60 m long and 40 m wide has concrete crossroads running in the middle of 
+the park and rest of the park has been used as a lawn.if the area of the lawn is 2109 sq.m,then what 
+is the width of the road. 
+a. 2.91 m 
+b. 3m 
+c. 5.82 m 
+d. none 
+Option : B 
+
+ 
+Let us shift the path to the left hand side and top. This does not change the area of the lawn.  
+Now lawn area = (60 - x) (40 - x) 
+for x = 3, we get lawn area = 2109.  
+ 

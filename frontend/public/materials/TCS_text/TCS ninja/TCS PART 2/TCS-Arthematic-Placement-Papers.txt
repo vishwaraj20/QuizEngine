@@ -1,0 +1,341 @@
+
+
+ 
+ 
+ Q1) Given a collection of points P in the plane , a 1-set is a point in P that can be separated from the 
+rest by a line, .i.e the point lies on one side of the line while the others lie on the other side. The number 
+of 1-sets of P is denoted by n1(P). The minimum value of n1(P) over all configurations P of 5 points in 
+the plane in general position (.i.e no three points in P lie on a line) is 
+ 
+a) 3    
+b) 5  
+c) 2 
+ 
+ 
+ Q2) Paul the octopus who has been forecasting the outcome of FIFA world cup matches with 
+tremendous accuracy has now been invited to predict ICC world cup matches in 2011. We will assume 
+that the world cup contenders have been divided into 2 groups of 9 teams each. Each team in a group 
+plays the other teams in the group. The top two teams from each group enter the semi finals ( after 
+which the winner is decided by knockout). 
+        However, Paul has a soft spot for India and when India plays any team, Paul always backs India. 
+Alas, his predictions on matches involving India are right only 2 out of 3 times. In order to qualify for 
+the semi finals, it is sufficient for India to win 7 of its group matches. What is the probability that India 
+will win the ICC world cup? 
+ 
+a) (2/3)^10                                   
+b) (2/3)^9 + 8/3 * (2/3)^9   
+c) 8/3 * (2/3)^9                            
+d) (2/3)^10 + 8/3*(2/3)^9 
+ 
+ 
+Q3) A toy train produces at least 10 different tunes when it moves around a circular toy track of radius 
+5 meters at 10 meters per minute. However , the toy train is defective and it now produces only two 
+different tunes at random. What are the odds that the toy train produces 4 consecutive music tunes of 
+the same type? 
+ 
+a) 1 in 16   
+b) 1 in 4   
+c) 1 in 8 
+ 
+ 
+Q4) A number when divided by D leaves a remainder of 8 and when divided by 3D leaves a remainder 
+of 21 . What is the remainder left, when twice the number is divided by 3D? 
+ 
+a) 13                                                           
+b) cannot be determined 
+c) 3 
+d)  42                                                                                                                                (solution:c) 
+ 
+ 
+ 
+ 
+www.freshersnow.com
+
+Q5) Six friends decide to share a big cake. Since all of them like the cake, they begin quarreling who 
+gets to first cut and have a piece of the cake. One friend suggests that they have a blindfold friend 
+choose from well shuffled set of cards numbered one to six. You check and find that this method works 
+as it should simulating a fair throw of a die. You check by performing multiple simultaneous trials of 
+picking the cards blindfold and throwing a die. You note that the number shown by the method of 
+picking up a card and throwing a real world die, sums to a number between 2 and 12. Which total 
+would be likely to appear more often – 8,9 or 10? 
+ 
+a) 8                                                              
+b) All are equally likely 
+c) 9 
+d) 10 
+ 
+ 
+    
+Q6) One day Alice meets pal and byte in fairyland. She knows that pal  lies on Mondays, Tuesdays and 
+Wednesdays and tells the truth on the other days of the week byte, on the other hand, lies  on 
+Thursdays, Fridays and Saturdays, but tells the truth on the other days of the week. Now they make the 
+following statements to Alice – pal. Yesterday was one of those days when I lie byte. Yesterday was one 
+of those days when I lie too. What day is it ? 
+ 
+a) Thursday                                                         
+b) Tuesday 
+c) Monday 
+d) Sunday                                                                                                                   (solution:a) 
+         
+ 
+ 
+Q7) A car manufacturer produces only red and blue models which come out of the final testing area 
+completely at random. What are the odds that 5 consecutive cars of the same color will come through 
+the test area at any one time? 
+  
+a) 1 in 16                                                               
+b) 1 in 125 
+c) 1 in 32                                                              
+d) 1 in 25 
+ 
+Q8) Alok is attending a workshop “How to do more with less” and today's theme is Working with fewer 
+digits. The speakers discuss how a lot of miraculous mathematics can be achieved if mankind(as well 
+as womankind) had only worked with fewer digits. 
+ 
+The problem posed at the end of the workshop is 
+ 
+How many four digit numbers can be formed using the digits 1, 2,3,4 ,5 ( but with repetition) that are 
+divisible by 4? 
+ 
+Can you help Alok find the answer? 
+ 
+   a) 100           b) 125      c) 75    d) 85 
+www.freshersnow.com
+
+ 
+Q9) Rearrange the following letters to make a word and choose the category in which it Ms 
+RAPETEKA 
+ 
+a) Bird   
+b) Vegetable     
+c) City      
+d) Fruit 
+ 
+ 
+Q10) On planet korba, a solar blast has melted the ice caps on its equator. 9 years after the ice melts, 
+tiny planetoids called  echina start growing on the rocks. Echina grows in the form of circle, and the 
+relationship between the diameter of this circle and the age of echina is given by the formula 
+  d = 4*√ (t-9) for t ≥ 9  
+ 
+where d represents the diameter in mm and t  the number of years since the solar blast. 
+ 
+Jagan recorded the radius of some echina at a particular spot as 7mm. How many years back did the 
+solar blast occur? 
+ 
+a) 17     
+b) 21.25 
+c) 12.25 
+d) 12.06                   (solution:b) 
+ 
+ 
+Q11) In the reading room of a library, there are23 reading spots. Each reading spot consists of a round 
+table with 9 chairs placed around it. There are some readers such that in each occupied reading spot 
+there are different numbers of readers. If in all there are 36 readers, how many reading spots do not 
+have even a single  reader? 
+ 
+a)  8   
+b) None         
+c) 16         
+d) 15             (solution:d) 
+ 
+ 
+Q12) Ferrari S.P.A is an Italian sports car manufacturer based in Maranello, Italy. Founded by Enzo 
+Ferrari in 1928 as Scuderia Ferrari , the company sponsored drivers and manufactured race cars before 
+moving into production of street-legal vehicles in 1947 as Feraari S.P.A. Throughout its history, the 
+company has been noted for its continued participation in racing, especially in Formula One where it 
+has employed great success .Rohit once bought a Ferrari . It could go 4 times as fast as Mohan's old 
+Mercedes. If  the speed of Mohan's Mercedes is 46 km/hr and the distance traveled  by the Ferrari is 
+953 km, find the total time taken for Rohit to drive that distance. 
+ 
+a) 20.72 
+b) 5.18 
+c) 238.25    
+d) 6.18              (solution:b) 
+www.freshersnow.com
+
+ 
+ 
+ 
+Q13) A sheet of paper has statements numbered from 1 to 70. For all values of n from 1 to 70. 
+Statement n says ' At least n of the statements on this sheet are false. ' Which statements are true and 
+which are false? 
+ 
+             a) The even numbered statements are true and the odd numbered are false. 
+ 
+             b) The odd numbered statements are true and the even numbered are false. 
+ 
+ c)      The first 35 statements are true and the last 35 are false. 
+ 
+d) The first 35 statements are false and the last 35 are false. 
+ 
+(solution:d) 
+ 
+ 
+ 
+Q14) Middle – earth  is a fictional land inhabited by Hobbits, Elves, dwarves and men. The Hobbits 
+and the Elves are peaceful creatures who prefer slow, silent lives and appreciate nature and art. The 
+dwarves and the men engage in physical games. The game is as follows . A tournol is one where out of 
+the two teams that play a match, the one that loses get eliminated. The matches are played in different   
+rounds where in every round , half of the teams get eliminated from the tournament. If  there are 8 
+rounds played in a knock-out tournol how many matches were played? 
+ 
+a) 257    
+b) 256   
+c) 72   
+d) 255                                      (solution:d) 
+ 
+  
+Q15) A research lab in Chennai requires 100 mice and 75 sterilized cages for a certain set of laboratory 
+experiments . To identify the mice, the lab has prepared labels with numbers 1 to 100 , by combining 
+tags numbered 0 to 9. The SPCA  requires that the tags be made of toxin-free material and that the 
+temperature of the cages be maintained at 27 degree Celsius. Also , not more than 2 mice can be caged  
+together and each cage must be at least 2 sq.ft in area. The 5 experiments to be conducted by lab are to 
+be thoroughly documented and performed only after a round of approval by authorities. The approval 
+procedure takes around 48 hours. How many times is the tag numbered '4' used by the lab in numbering 
+these mice? 
+ 
+a)  9              
+b) 19        
+c) 20      
+d) 21              (solution:b) 
+ 
+ 
+ 
+ 
+www.freshersnow.com
+
+ 
+Q16)There are two water tanks A and B, A is much smaller than B. While water fills at the rate of one 
+litre every hour in A, it gets filled up like 10, 20, 40, 80, 160... in tank B.( At the end of first hour, B has 
+10 litres , second hour it has 20, and so on). If tank B is 1/32 filled after 21 hours, what is the total 
+duration required to fill it completely? 
+ 
+a) 26 hrs     
+b) 25 hrs      
+c) 5 hrs    
+d) 27 hrs            (solution:a) 
+ 
+ 
+ 
+Q17) Consider two tumblers, the first containing one litre of coffee. Suppose you take one spoon of 
+water out of the first tumbler and pour it into the second tumbler. After moving you take one spoon of 
+the mixture from the second tumbler and pour it back into the first tumbler . Which one of the 
+following statement holds now? 
+ 
+          a)  There is less coffee in the first tumbler than water in the second tumbler. 
+ 
+          b)  There is more coffee in the firs tumbler than water in the second tumbler 
+ 
+          c)  There is as much coffee in the first tumbler as there is water in the second tumbler 
+ 
+d) None of the statements holds true. 
+ 
+ 
+Q18) Francois Pachet , a researcher at Sony Computer Science laboratories is also a jazz musician. He 
+decided to build a  robot able to improvise like a pro. Named Continuator, the robot can duet with a live 
+musician in real- time. It listens to a musical phrase and then computes  a complementary phrase with 
+the same playing style. If the cost of making the robot is divided between and then computes a 
+complementary phrase with the same playing style. If the cost of making the robot is divided between 
+materials , labour and overheads in the ratio of 4:6:2.If the materials cost $108. the cost of  the robot is 
+ 
+a) $270      
+b) $324    
+c) $216   
+d) $ 648                   (solution:b) 
+ 
+ 
+Q19) A lady has fine gloves and hats in her closet- 18 blue- 32 red and 25 yellow. The lights are out 
+and it is totally dark inspite of the darkness. She can make out the difference between a hat and a glove. 
+She takes out an   item out of the closet only if she is sure that if it is a glove. How many gloves must 
+she take out to make sure she has a pair of  each colour? 
+ 
+a) 50   
+b) 8   
+c) 60   
+d) 42                            
+www.freshersnow.com
+
+ 
+ 
+Q20) A man jogs at 6 mph over a certain journey and walks over the same route at 4 mph. What is his 
+average speed for the journey? 
+ 
+       a) 2.4 mph    
+       b)  4 mph   
+       c)  4.8 mph 
+       d)  5 mph            (solution:d) 
+ 
+ 
+ 
+ 
+ 
+Q21) Spores of a fungus, called late blight, grow and spread infection rapidly. These pathogens were 
+responsible for the Irish potato famine of the mid-19
+th
+ century. These seem to have attacked the tomato 
+crops in England this year. The tomato crops have reduced and the price of the crop has risen up . The 
+price has already gone up to $45 a box from $27 a box a month ago. How much more would a 
+vegetable vendor need to pay to buy 27 boxes this month over what he would have paid last month? 
+ 
+a) $27     
+b) $ 18    
+c) $45     
+d) $ 486 
+ 
+Q22) Given a collection of 36 points P in the plane and a point equidistant from all points in P, which 
+of the following are necessarily true? 
+   
+  A. The points in P lie on a circle. 
+ 
+  B. The distance between any pair of points in P is larger than the distance between X and a point in P 
+ 
+ 
+a) A and B    
+b) Neither A nor B   
+c) B only    
+d) A only 
+ 
+ 
+Q23) In the year 2002, Britain was reported to have had 4.3m closed – circuit television (CCTV) 
+cameras – one for every 14 people in the country . This scrutiny is supposed to deter and detect crime. 
+In one criminal case, the police interrogates two suspects . The ratio between the ages of the two 
+suspects is 6:5 and the sum of their ages is 6:5 and the sum of their ages is 55 years. After how many 
+years will the ratio be 8:7.? 
+ 
+a) 11                        
+b)   6                    
+c) 10              
+d)   5   
+www.freshersnow.com
+
+ 
+ 
+Q24) Susan made a block with small cubes of 8 cubic cm volume to make a block 3 small cubes long, 
+9 small cubes wide and 5 small cubes deep. She realizes that she has used more small cubes than she 
+really needed. She realized that she could have glued a fewer number of cubes together to lock like a 
+block with same dimensions, if it were made hollow. What is the minimum number of cubes that she 
+needs to make the block? 
+ 
+a) 114                     
+b) 135                 
+c)   21             
+d)   71 
+ 
+ 
+Q25) Alok and Bhanu play the following coins in a circle game. 99 coins are arranged in a circle with 
+each coin touching two other coin. Two of the coins are special and the rest are ordinary. Alok starts 
+and the players take turns removing an ordinary coin of their choice from the circle and bringing the 
+other coins closer until they again form a (smaller) circle. The goal is to bring the special coins adjacent  
+to each other and the first player to do so wins the game. Initially the special coins are separated by two 
+ordinary coins O1 and O2. Which of the following is true ? 
+ 
+  a) In order to win, Alok should remove O1 on his first turn. 
+ 
+  b) In order to win, Alok should remove one of the coins different from O1 and O2 on his first turn. 
+ 
+   c) In order to win, Alok should remove O2 on his first turn. 
+ 
+  d)  Alok has no winning strategy. 
+ 
+ 
+www.freshersnow.com

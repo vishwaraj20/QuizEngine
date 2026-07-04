@@ -1,0 +1,545 @@
+
+
+Visit www.downloadmela.com for more papers
+2005-2008 Placement
+Papers
+2010 Placement Papers2011 Placement Papers2009 Placement Papers
+Hello Friends,
+ 
+TCS came to our college (Technocrats Institute Of Technology, Bhopal) on 15th January 
+and made the highest number of selection in the Madhya Pradesh region in this session 
+with 173 selections from our college.
+ 
+There were only 3 rounds:
+ 
+1) Written test
+2) Technical round
+3) HR round
+ 
+There were around 340 students who sat for the campus out of which 243 cleared the 
+written and finally 173 were selected from the college. 
+It was very easy exam as compared with other company written exams. Test contains 35 
+questions, only from quantitative, in 60 minutes. You can get through if you prepared 
+with previous papers All patterns are same but with different values. Refer 
+Freshersworld.com question papers.
+I am giving the answers that are 100 % correct because we have researched a lot on the 
+answers with friends and got the most correct answers after consulting the we and the 
+yahoo groups.
+Written questions
+ 
+1) (1/3) of a number is 3 more than the (1/6) of the same number?
+a) 6 b) 16 c) 18 d) 21
+Ans- x/3=x/6 +3 .....solve ans is 18
+2) There are two pipes A and B. If A filled 10 liters in an hour, B can fill 20 liters in same 
+time. Likewise B can fill 10, 20, 40, 80, 160. If B filled in 1/16 of a tank in 3 hours, how 
+much time will it take to fill the tank completely?
+a) 9 B) 8 c) 7 d) 6
+This question repeated two times in my paper
+ 
+Ans: (b) these type of que are repeated frequently but the numeric values 
+change.Simple approach is- count the number of hours taken to fill the part of the tank 
+from the given  part  ie. Initially the tank is 1/32 then after 1 hour it will become 1/16 
+then 1/8 then ¼ then ½ then 1. Here 1 is the state when the tank is full so the number 
+of hours is (1+1+1+1+1)=5. Now add this number of hours to the given time ie 5+3=8
+ 
+3) A lady has fine gloves and hats in her closet- 18 blue, 32 red, and 25 yellow. The 
+lights are out and it is totally dark. In spite of the darkness, she can make out the 
+difference between a hat and a glove. She takes out an item out of the closet only if she 
+is sure that if it is a glove. How many gloves must she take out to make sure she has a 
+pair of each color?
+a) 50 b) 8 c) 60 d) 42
+Ans: Do not get trapped in these type of questions .a very simple trick to solve these 
+type of question is just see the max and the middle value of gloves and hats ...ie 32 and 
+25 . just add max+min_values +2 or 1 or 3 ie 32+25+3=60 the answer will definitely 
+fall in this range as 60 here
+4) Middle- earth is a fictional land inhabited by hobbits, elves, dwarves and men. The 
+hobbits and elves are peaceful creatures that prefer slow, silent lives and appreciate 
+nature and art. The dwarves and the men engage in physical games. The game is as 
+follows. A tournament is one where out of the two teams that play a match, the one that 
+loses get eliminated. The matches are played in different rounds, where in every round; 
+half of the teams get eliminated from the tournament. If there are 8 rounds played in 
+
+Visit www.downloadmela.com for more papers
+2005-2008 Placement
+Papers
+2010 Placement Papers2011 Placement Papers2009 Placement Papers
+knock out tournament, how many matches were played?
+a) 257 b) 256 c) 72 d) 255
+Ans: (255) there are two varieties of this type of que in one they ask about the number 
+of matches in the first round ...so solution to that is 2^(number of rounds)...ie 2^8=256 
+another variety is the number of matches played in the  tournament so ans is 
+2^(number of teams )-1 ..ie 2^8 -1=255
+5) Ferrari S.P.A is an Italian sports car manufacturer based in Marane llo, Italy. Founded 
+by Enzo Ferrari in 1928 as Scuderia Ferrari, the company sponsored drivers and 
+manufactured race cars before moving into production of street-legal vehicles in 1947 as 
+Ferrari S.P.A. Throughout its history, the company has been noted for its continued 
+participation in racing, especially in Formula One where it has employed great success 
+.Rohit once bought a Ferrari. It could go 4 times as fast as Mohan's old Mercedes. If the 
+speed of Mohan's Mercedes is 46 km/hr and the distance traveled by the Ferrari is 953 
+km, find the total time taken for Rohit to drive that distance.
+a) 20.72 b) 5.18 c) 238.25 d) 6.18
+Ans very simple question approach is time =dist./speed ie 953/(4*35)=6.18
+ 
+6) how many 8 digit numbers are possible by using the digits 1,2,3,4,5 which are 
+divisible by 4 if repetition of digits is allowed?
+ 
+Ans: (78125) simple trick to these type of que is that 5^(number of digits-1) ie 5^(8-1) 
+i.e. 5^(7)=78125
+By math’s first 6 digits of the 8 digit number can be filled in by using any 5 digits given 
+so it come out (5*5*5*5*5*5) and last two must be divisible by 4 ie (44,52,32,12,24) 
+are the 5 possibilities. So the anwer is (5*5*5*5*5*5*5=5^7)
+7) Hare in the other. The hare starts after the tortoise has covered 1/5 of its distance 
+and that too leisurely3. A hare and a tortoise have a race along a circle of 100 yards 
+diameter. The tortoise goes in one direction and the. The hare and tortoise meet when 
+the hare has covered only 1/8 of the distance. By what factor should the hare increase 
+its speed so as to tie the race?
+a) 37.80  b)8  c) 40  d) 5
+Ans: 37.80
+8) Alok and Bhanu play the following min-max game. Given the expression
+N = 9 + X + Y - Z
+ 
+Where X, Y and Z are variables representing single digits (0 to 9), Alok would like to 
+maximize N while Bhanu 
+would like to minimize it. Towards this end, Alok chooses a single digit number and 
+Bhanu substitutes this for a variable of her choice (X, Y or Z). Alok then chooses the next 
+value and Bhanu, the variable to substitute the value. Finally Alok proposes the value for 
+the remaining variable. Assuming both play to their optimal strategies, the value of N at 
+the end of the game would be
+a) 0 b) 27 c) 18 d) 20
+ 
+Ans: Do not get trapped in this que i am giving a very short trick that guarantees 100% 
+correct solution just add the  following number if the que contains the following changes
+ 
+X*(Y-Z) then add  18 to the given constant to get N....ie 9+18=27
+X+(Y-Z) = then add the 12 ie 9+11=20
+X-(Y-Z)  is  then add 2 ie 9+2=11
+ 
+9) For the FIFA world cup, Paul the octopus has been predicting the winner of each 
+match with amazing success. It is rumored that in a match between 2 teams A and B, 
+Paul picks A with the same probability as A's chances of winning. Let's assume such 
+rumors to be true and that in a match between Ghana and Bolivia, Ghana the stronger 
+team has a probability of 2/3 of winning the game. What is the probability that Paul will 
+
+Visit www.downloadmela.com for more papers
+2005-2008 Placement
+Papers
+2010 Placement Papers2011 Placement Papers2009 Placement Papers
+correctly pick the winner of the Ghana-Bolivia game?
+a)1/9    b)4/9    c)5/9    d)2/3
+Ans: 5/9....just do 1-(probability)^2.....1-(2/3)^2
+11). On planet zorba, a solar blast has melted the ice caps on its equator. 8 years after 
+the ice melts, tiny planetoids called echina start growing on the rocks. echina grows in 
+the form of a circle and the relationship between the diameter of this circle and the age 
+of echina is given by the formula
+d = 4 * sqrt (t – 8)for t = 8
+Where the represents the diameter in mm and t the number of years since the solar 
+blast. 
+Jagan recorded the time of some echina at a particular spot is 24 years then what is 
+diameter?
+a) 8 b) 16 c) 25 d) 2
+ 
+Ans: Put the value of years in equation and get the answer ie
+ 
+10) A sheet of paper has statements numbered from 1 to 70. For all values of n from 1 
+to 70. Statement n says ' At least n of the statements on this sheet are false. ' Which 
+statements are true and which are false?
+a) The even numbered statements are true and the odd numbered are false.
+b) The odd numbered statements are true and the even numbered are false.
+c) The first 35 statements are true and the last 35 are false.
+d)  The first 35 statements are false and the last 35 are false.
+Ans: c 
+ 
+There are two more varieties of this type of questions. I am giving those also below just 
+concentrate on the part underlined in the questions and mark the answer.
+ 
+11) A sheet of paper has statements numbered from 1 to 40. For all values of n from 1 
+to 40, statement n says: 'Exactly n of the statements on this sheet are false.' Which 
+statements are true and which are false?
+a) The even numbered statements are true and the odd numbered statements are false. 
+b) The odd numbered statements are true and the even numbered statements are false. 
+c) All the statements are false. 
+d) The 39th statement is true and the rest are false.
+Ans: d
+12) The IT giant Tirnop has recently crossed a head count of 150000 and earnings of $7 
+billion. As one of the forerunners in the technology front, Tirnop continues to lead the 
+way in products and services in India. At Tirnop, all programmers are equal in every 
+respect. They receive identical salaries ans also write code at the same rate.Suppose 12 
+such programmers take 12 minutes to write 12 lines of code in total. How long will it 
+take 72 programmers to write 72 lines of code in total?
+a) 6   b) 18  c) 72  d) 12
+ 
+Ans: d (w1/w2=m1*t1/m2*T2)
+ 
+13) A circular dartboard of radius 1 foot is at a distance of 20 feet from you. You throw a 
+dart at it and it hits the dartboard at some point Q in the circle. What is the probability 
+that Q is closer to the center of the circle than the periphery?
+a)0.75 b)1 c)0.5, d)0.25
+Ans: Probability=  (area of inner circle)/(area of outer circle)
+i.e (r/2)^2/r^2 =1/4=0.25
+ 
+14) After the typist writes 12 letters and addresses 12 envelopes, she inserts the letters 
+randomly into the envelopes (1 letter per envelope). What is the probability that exactly 
+
+Visit www.downloadmela.com for more papers
+2005-2008 Placement
+Papers
+2010 Placement Papers2011 Placement Papers2009 Placement Papers
+1 letter is inserted in an improper envelope?
+a) 0  b) 1/12  c) 11/12  d) 12/212
+ 
+Ans: 0
+ 
+This questions repeated in my paper thrice.
+ 
+15) Given 3 lines in the plane such that the points of intersection form a triangle with 
+sides of length 20, 20 and 30, the number of points equidistant from all the 3 lines is
+a) 4  b) 3  c) 1  d) 0
+ 
+Ans: 4
+ 
+If it is given line then there are 4 points – one inCentre and three circumcentres
+If it it given line segment then and is 1 bcoz only one incentre is there
+ 
+16) For the FIFA world cup, Paul the octopus has been predicting the winner of each 
+match with amazing success. It is rumored that in a match between 2 teams A and B, 
+Paul picks A with the same probability as A's chances of winning.
+ 
+Let's assume such rumors to be true and that in a match between Ghana and Bolivia, 
+Ghana the stronger team has a probability of 2/3 of winning the game. What is the 
+probability that Paul will correctly pick the winner of the Ghana-Bolivia game?
+a) 5/9  b) 1/9  c) 2/3  d) 4/9
+ 
+Ans: 5/9
+ 
+17) Mr. Bean went to a shop for buying a gift to his wife on her Birthday. He bought 28 
+purple marbles as her wife was fond of marbles. He also bought 21greem marbles. While 
+coming out of the shop on the way he also bought 24 red, 42 yellow and 12 pink marbles 
+and he put them all in a bag. When he was returning back to the home a lightning 
+occurred and suddenly due to some reasons the red, green, and yellow balls got 
+converted into white color. But in spite of this Mr. Beans decided to give few marbles to 
+his lovely wife. So, how many times he should put his hand in the bag so that he can gift 
+his wife at least one ball of each color.
+Ans: logic is same as I told in the question 3 i.e 24+42+2=68
+18) Alice and Bob play the following coins-on-a-stack game. 50 coins are stacked one 
+above the other. One of them is a special (gold) coin and the rest are ordinary coins. The 
+goal is to bring the gold coin to the top by repeatedly moving the topmost coin to 
+another position in the stack.Alice starts and the players take turns. A turn consists of 
+moving the coin on the top to a position i below the top coin (0 ≤ i ≤ 20). We will call 
+this an i-move (thus a 0-move implies doing nothing). The proviso is that an i-move 
+cannot be repeated; for example once a player makes a 2-move, on subsequent turns 
+neither player can make a 2-move. If the gold coin happens to be on top when it's a 
+player's turn then the player wins the game. Initially, the gold coinis the third coin from 
+the top. Then
+a) In order to win, Alice’s first move should be a 0-move. 
+b) In order to win, Alice’s first move should be a 1-move. 
+c) Alice has no winning strategy. 
+d) In order to win, Alice’s first move can be a 0-move or a 1-move
+ 
+Ans: (d)
+ 
+
+Visit www.downloadmela.com for more papers
+2005-2008 Placement
+Papers
+2010 Placement Papers2011 Placement Papers2009 Placement Papers
+In this type of question if the coin is at the 3 position (as here )then the answer is d 
+otherwise at the 1 or second position of the coin the answer is always. No chance of 
+winning ie C
+ 
+19) There is a planet oz . The people there are  four fingered and reside in 4 – 
+dimensional space and thus the currency used by its residents are 3 – dimensional 
+objects. The rupees notes are cubical in shape while their coins are spherical. However 
+the coin minting machinery lays out some stipulations on the size of the coins.
+ 
+· The diameter of the coins should be at least 16mm and not exceed 64mm
+· Given a coin, the diameter of the next larger coin is at least 50% greater.
+· The diameter of the coin must always be an integer.
+You are asked to design a set of coins of different diameters with these requirements and 
+your goal is to design as many coins as possible. How many coins can you design?
+ 
+Ans: 4
+At least 16 coins so the series is 16, (16+16/2)= 24 , (24+24/2)=36, (36+36/2)=54. 
+Now next value of coin exceeds 64 so the number of coins is 4
+20) 21 people meet and shake hands. The maximum number of handshakes possible if 
+there is to be no ‘cycle’ of handshakes is (A cycle of handshakes is a sequence of people 
+a1, a2, ... , aK such that the pairs (a1, a2), (a2, a3),... , (a (k-1), a k) , (ak, a1) shake 
+hands.
+a) 17   b) 18   c) 19   d) 20
+ 
+Ans: n
+ 
+21) 10 suspects are rounded by the police and questioned about a bank robbery. Only 
+one of them is guilty. The suspects are made to stand in a line and each person declares 
+that the person next to him on his right is guilty. The rightmost person is not questioned. 
+Which of the following possibilities are true?
+ 
+A. All suspects are lying.  
+B. leftmost suspect is innocent.
+C. leftmost suspect is guilty
+a) A only    b) A or C   c) A or B    d) B only            
+ 
+Ans: c
+ 
+22) In planet OZ planet there are 8 days, Sunday to Saturday and 8th day is Oz day. 
+There is 36 hours in a day. What is angle between 12.40?
+a) 80  b) 81  c) 87  d) 89                                    
+Ans: 89
+ 
+23) 36 people {a1, a2, ..., a36} meet and shake hands in a circular fashion. In other 
+words, there are totally 36 handshakes involving the pairs, {a1, a2}, {a2, a3}, ..., {a35, 
+a36}, {a36, a1}.  Then size of the smallest set of people such that the rest have shaken 
+hands with at least one person in the set is
+a) 13  b) 18  c) 11  d) 12
+Ans:18
+ 
+24) The pace length P is the distance between the rear of two consecutive footprints. For 
+men, the formula, n/P = 144 gives an approximate relationship between n and P where, 
+n = number of steps per minute and P = pace length in meters. Bernard knows his pace 
+length is 164cm. The formula applies to Bernard's walking. Calculate Bernard's walking 
+speed in kmph.
+a) 23.62  b) 8.78  c) 11.39  d) 236.16
+
+Visit www.downloadmela.com for more papers
+2005-2008 Placement
+Papers
+2010 Placement Papers2011 Placement Papers2009 Placement Papers
+Ans: 236.16    (144*1.64 m)
+ 
+25) Anoop managed to draw 7 circles of equal radii with their centers on the diagonal of 
+a square such that the two extreme circles touch two sides of the square and each 
+middle circle touches two circles on either side. Find the ratio of the radius of the circles 
+to the side of the square.
+a) 1:(4+ 7v3)  b) 1:(2+ 6v2) 
+c) 1:(2+ 7v2)  d) (2+ 7v2):1
+Ans: b
+ 
+26) There are 1000 pillars for a temple. 3 friends Linda, Chelsea, Juli visited that temple. 
+(Som unrelated stuff) Linda is taller than Chelsea and taller than 2 of 1000 pillars. Juli is 
+shorter than Linda. Find the correct sentence?
+ 
+a) Linda is shorter among them
+b) Chelsea is taller than Juli
+c) Chelsea is shorter than Juli
+d) Cannot determine who is taller among Chelsea and Juli
+Ans: d
+ 
+Friends there is a trick of solving this questions any question in the paper of TCS that 
+involves comparison the answer is always –cannot determine
+ 
+27) Horse started to chase dog as it relieved stable two hrs. ago.  And horse started to 
+ran with average speed 22km/hr., horse crossed 10 mts road and two small pounds with 
+depth 3m, and it crossed two small street with 200 mts length. After traveling 6 hrs., 
+2hrs after sunset it got dog. compute the speed of dog?
+ 
+Ans: As we have speed and travel time of horse, we can get distance travelled by it.  
+Hence d = 22*6 = 132km,
+ 
+Exactly this 132km was travelled by dog in 8 hours (as it started two hours earlier).
+Hence speed of dog = 132/8 = 16.5km/hr
+Ans: 16.5km/hr.
+ 
+28) Given a collection of points P in the plane , a 1-set is a point in P that can be 
+separated from the rest by a line, .i.e the point lies on one side of the line while the 
+others lie on the other side. The number of 1-sets of P is denoted by n1(P). The 
+minimum value of n1(P) over all configurations P of 5 points in the plane in general 
+position (.i.e. no three points in P lie on a line) is
+a) 3   b)  5  c)   2
+ 
+Ans: 5
+ 
+Friends there is a trick of solving this questions any question in the paper of  TCS that 
+involves points separated by line with a set of points points each side the answer is the  
+number of points in plane as 5 here the answer is always –cannot determine
+ 
+29) Alok and Bhanu play the following min-max game. Given the expression
+N =9+ X + Y - Z
+ 
+Where X, Y and Z are variables representing single digits (0 to 9), Alok would like to 
+maximize N while Bhanu 
+would like to minimize it. Towards this end, Alok chooses a single digit number and 
+Bhanu substitutes this for a variable of her choice (X, Y or Z). Alok then chooses the next 
+value and Bhanu, the variable to substitute the value. Finally Alok proposes the value for 
+
+Visit www.downloadmela.com for more papers
+2005-2008 Placement
+Papers
+2010 Placement Papers2011 Placement Papers2009 Placement Papers
+the remaining variable. Assuming both play to their optimal strategies, the value of N at 
+the end of the game would be
+a) 0 b) 27 c) 18 d) 20
+Ans: 20
+ 
+Here it is X+Y-Z  then add the 11 so ans is (11+9)=20
+ 
+30). The citizens of planet nigiet are 8 fingered and have thus developed their decimal 
+system in base 8. A certain street in nigiet contains 1000 (in base 8) buildings numbered 
+1 to 1000. How many 3s are used in numbering these buildings?
+a) 54 b) 64 c) 265 d) 192
+Ans: 192
+ 
+From 1 to 100 3 comes 192 
+Once you clear this test you are promoted to Technical round
+I attempted 35 questions and I was sure that at test 31 were correct, the cut of was high 
+in our college most probably above 25. So be accurate and score high, as the questions 
+are easy.
+Technical interview:
+ 
+Our interview was in the university campus, in Bhopal itself. I reached the campus 
+around 3 pm. We were given a form from the TCS that contained our basic details from 
+our name to the project and all.
+ 
+Finally our technical started at 7 in the evening .there were around 9 panels in the 
+conference hall taking the technical interviews I had to wait for a long time and my 
+technical started at around 10 pm in the night.
+ 
+My TR was more of  HR than  the technical one. Luckily my TR came out to be from my 
+city itself God favored and the luck!
+ 
+Questions asked from me were:
+ 
+Me: Good evening, sir
+TR: Good evening, take your seat.
+ 
+TR: How was your day. You must have waited for a long time
+Me: I had a great day, this morning I took my written test and, gave my best. I think 
+have scored well and cleared it. It is my first interview so I liked waiting for a long time 
+because I was waiting anxiously for this time.
+ 
+TR: Ok, Abhinav tell me why have you written basics of C++, C  and java in your resume
+Me: sir. I had studied C++ and c in the class 12 as it was in my syllabus so I had 
+acquired basic knowledge of that and recently I have studied java  and the other 
+modules are yet to finish so I have written basic word. But sir I have done a project in 
+java recently and did well in it.
+ 
+TR: looking at my project in the resume, of tell me something about your project 
+Me: I was waiting eagerly for this question, that Is why I said I made a project in Java. I 
+told about my project “Bhopal road transport enquiry system” everything in deep. TR 
+was impressed.
+ 
+TR: Ok, you have written you gave paper presentation on surface computer. Tell me 
+about it
+Me: I was prepared for this. I told all that I had prepared
+
+Visit www.downloadmela.com for more papers
+2005-2008 Placement
+Papers
+2010 Placement Papers2011 Placement Papers2009 Placement Papers
+ 
+TR: Ok, tell me Abhinav, where do you belong to natively 
+Me: Told
+ 
+TR: Then why you chose to study in Bhopal
+Me: I told that I had taken a year drop and prepared for the competitive exams and I 
+got good college like TIT in Bhopal so I opted for this. He was satisfied
+ 
+TR: Where are you from basically 
+Me: I told Kanpur 
+ 
+TR: He asked me about a location from Kanpur that how far was it. I was surprised how 
+come he knows about all in Kanpur. I replied easily 
+ 
+TR: Tell me about batch 
+Me: I said that sir I had heard about batch but not had full information about it so can’t 
+answer it. I said sorry sir
+ 
+TR: He says but you have written OS as technical skill in Your subject. Didn't you know 
+batch processing 
+Me: I said sorry sir
+ 
+TR: Then he a asked about deadlock
+Me: I replied all I knew about deadlock. He was satisfied  
+ 
+TR: what is merge sort explain 
+Me: I explained d but I told incorrectly initially then I corrected my answer by this 
+permission
+ 
+TR: Ok can you write a program in Java for me. He asked me to print prime numbers 
+between 1 to 100 
+Me: I gave the logic and wrote the program 
+ 
+TR: You have drawing and sketching as your hobby, can you draw my sketch
+Me: I was prepared for this  I said yes sir but I will take 1 or 2 hours’ time and you have 
+it sit still for that period he smiled and said leave it 
+ 
+Finally he said ok you can go now
+Me: But I had a question in my mind I told that I wanted to ask a question. He said yes 
+you can 
+ 
+I asked about his introduction 
+ 
+He said that he belongs to Kanpur. He keeps on visiting there often but, he is basically 
+from Lucknow. I had a smile on the face. Then he shook hands with me I returned with 
+smile confident that my TR will easily promote me.
+ 
+HR round:
+ 
+It's very easy round and less elimination round. In this round they ask simple questions 
+and give a situations and observe ur feelings. So be confident in this round. If you 
+cleared this round then you are almost placed.
+ 
+I was called for my HR at 2:00 am in the morning . My HR had the last resume of mine 
+for the day 
+
+Visit www.downloadmela.com for more papers
+2005-2008 Placement
+Papers
+2010 Placement Papers2011 Placement Papers2009 Placement Papers
+ 
+He was siting tired. 
+Me: Good evening sir
+ 
+HR: Good evening. Are you tired of waiting. Have you had your dinner
+Me: no sir I am not feeling tired but energetic because I have been promoted to my last 
+round of the interviews. I said I had my dinner
+ 
+HR: What did you have in the dinner? Was it sufficient? 
+Me: Told what all the lunch packet was provided by out college and that amount each 
+dish had
+ 
+HR: Ok tell me about you family?
+Me: I told all
+ 
+HR: Tell me why you want you choose a private sector than a government sector
+Me: I told
+ 
+HR: Tell me about you project?
+Me: I explained d all I was already waiting for this question
+ 
+HR: Ok you have drawing and sketching as your hobby, can you draw my sketch.
+Me: I was prepared for this I said yes sir but I will take 1 or 2 hours’ time and you have 
+it sit still for that period. He smiled why not in 10-15 minutes.
+ 
+Me: I said sir it will be just a rough sketch not an accurate on. He smiled and said do you 
+have any of your sketched in your folder.
+Me: I said no sir but I have several certificates I got during college and school days
+ 
+HR: Are you comfortable to be relocated. Bond with TCS 
+Me: I said yes with suitable reason that I had inters in travelling to new place d as I 
+mentioned d it in resume and I am sociable as my strength is that so I m comfortable
+ 
+HR: Ok thank you do you have any questions to ask 
+Me: I asked about his introduction and the skill I needed to develop till I join TCS. 
+ 
+Finally I left and returned home at 3 :00 am in the morning in the chilling cold. And had 
+a sigh of relief.
+ 
+Finally the results were out in the college on 17th  January at 10 am in the morning 
+answered I was selected out of the 173 from out college.
+ 
+Finally my suggestion is 
+ 
+1) Concentrate on written test and Technical Round. Thank you for reading my 
+experience.
+2) Use Freshersworld.com and read all the patterns from Freshersworld.com. I am 
+sure you need not even consult RS Aggarwal or any other books. Your written will be 
+cleared easily just from here   
+3) Go for mock TCS online exam pattern at the www.openseesame.tcs.com
+For any help set of TCS sample papers contact me at abhinav.dwivedi.01@gmail.com
+Best of Luck!
+ 
+Have faith on God. Sure success comes to you.
+
+Visit www.downloadmela.com for more papers
+2005-2008 Placement
+Papers
+2010 Placement Papers2011 Placement Papers2009 Placement Papers

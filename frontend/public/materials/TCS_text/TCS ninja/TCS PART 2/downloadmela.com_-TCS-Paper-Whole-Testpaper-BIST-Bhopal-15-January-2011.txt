@@ -1,0 +1,212 @@
+
+
+Visit www.downloadmela.com for more papers
+2005-2008 Placement
+Papers
+2010 Placement Papers2011 Placement Papers2009 Placement Papers
+Hi,
+I am Pushpendra Khangan form BIST Bhopal. Finally get selected in 
+TCS!!!!!!!!!!!!!!!!!!!!!!!!!
+There are some questions which are important as a view of TCS. Plz get prepare of it.........
+(Written Test: 35 questions 80 mins calci aloud)
+1) How many four digit numbers can be formed using the digits 1, 2, 3, 4, 5 (but with 
+repetition) that are divisible by 4? 
+5^(n-1) Can you help Alok find the answer?
+a) 100   b) 125   c) 75    d) 85
+ 
+2) On planet korba, a solar blast has melted the ice caps on its equator. 9 years after the 
+ice melts, tiny planetoids called  echina start growing on the rocks. Echina grows in the 
+form of circle, and the relationship between the diameter of this circle and the age of 
+echina is given by the formula
+d = 4* (t-9) for t ≥ 9where d represents the diameter in mm and t  the number of years 
+since the solar blast.Jagan recorded the radius of some echina at a particular spot as 
+12mm. How many years back did the solar blast occur?
+a) 17   b)   21.25  c)   12  d) 12.06
+Ans: c
+3) Ferrari S.P.A is an Italian sports car manufacturer based in Maranello, Italy. Founded 
+by Enzo Ferrari in 1928 as Scuderia Ferrari , the company sponsored drivers and 
+manufactured race cars before moving into production of street-legal vehicles in 1947 as 
+Feraari S.P.A. Throughout its history, the company has been noted for its continued 
+participation in racing, especially in Formula One where it has employed great success 
+.Rohit once bought a Ferrari . It could go 4 times as fast as Mohan's old Mercedes. If  the 
+speed of Mohan's Mercedes is 46 km/hr and the distance traveled  by the Ferrari is 953 
+km, find the total time taken for Rohit to drive that distance. 
+a)   20.72    b)  5.18   c) 238.25  d) 6.18
+Ans: b
+4) There are two water tanks A and B, A is much smaller than B. While water fills at the 
+rate of one litre every hour in A, it gets filled up like 10, 20, 40, 80, 160 in tank B. (At 
+the end of first hour, B has 10 litres, second hour it has 20, and so on). If tank B is 1/32 
+filled after 21 hours, what is the total duration required to fill it completely?
+a)  26 hrs    b) 25 hrs     c) 5 hrs   d) 27 hrs
+Ans: a 
+5)There are two water tanks A and B, A is much smaller than B. While water fills at the 
+rate of one litre every hour in A, it gets filled up like 10, 20, 40, 80, 160... in tank B. (At 
+the end of first hour, B has 10 litres , second hour it has 20, and so on). If tank B is 1/16 
+filled after 4 hours, what is the total duration required to fill it completely? 
+a)       8hrs   b)      25 hrs     c)      5 hrs   d) 27 hrs
+Ans: a 
+ 
+6) Unnecessary data. A lady has fine gloves and hats in her closet- 18 blue- 32 red , 10 
+white , 25 yellow, 55 purple, 30 orange. The lights are out and it is totally dark inspite of 
+the darkness. She can make out the difference between a hat and a glove. She takes out 
+an item out of the closet only if she is sure that if it is a glove. How many gloves must 
+she take out to make sure she has a pair of  each colour of blue, red, yellow?
+a)  59  b)  8  c) 50   d) 42
+Ans: a(32+25+2)
+
+Visit www.downloadmela.com for more papers
+2005-2008 Placement
+Papers
+2010 Placement Papers2011 Placement Papers2009 Placement Papers
+7) The IT giant Tirnop has recently crossed a head count of 150000 and earnings of $7 
+billion. As one of the forerunners in the technology front, Tirnop continues to lead the 
+way in products and services in India. At Tirnop, all programmers are equal in every 
+respect. They receive identical salaries ans also write code at the same rate.Suppose 12 
+such programmers take 12 minutes to write 12 lines of code in total. How long will it 
+take 72 programmers to write 72 lines of code in total?
+a) 6   b) 18  c) 72  d) 12
+Ans: d (w1/w2=m1*t1/m2*T2)
+8) The citizens of planet nigiet are 6 fingered and have thus developed their decimal 
+system in base 6. A certain street in nigiet contains 1000 (in base 8) buildings numbered 
+1 to 1000. How many 3s are used in numbering these buildings?
+a) 256     b) 54      c) 192       d) 108                       
+Ans: d
+9) 12 people {a1, a2, ..., a12} meet and shake hands in a circular fashion. In other 
+words, there are totally 36 handshakes involving the pairs, {a1, a2}, {a2, a3}, ..., {a11, 
+a12}, {a12, a1}. Then size of the smallest set of people such that the rest have shaken 
+hands with at least one person in the set is
+a) 12   b) 4     c) 18    d) 11       
+Ans: B
+10) Alice and Bob play the following coins-on-a-stack game. 100 coins are stacked one 
+above the other. One of them is a special (gold) coin and the rest are ordinary coins. The 
+goal is to bring the gold coin to the top by repeatedly moving the topmost coin to 
+another position in the stack. 
+Alice starts and the players take turns. A turn consists of moving the coin on the top to a 
+position i below the top coin (0 = i = 100). We will call this an i-move (thus a 0-move 
+implies doing nothing). The proviso is that an i-move cannot be repeated; for example 
+once a player makes a 2-move, on subsequent turns neither player can make a 2-move.
+If the gold coin happens to be on top when it’s a player’s turn then the player wins the 
+game.
+A. Alice has no winning strategy.
+B. Initially, the gold coinis the third coin from the top. Then
+C. In order to win, Alice’s first move should be a 0-move.
+D. In order to win, Alice’s first move should be a 1-move.
+Ans: D
+11) 10 people meet and shake hands. The maximum number of handshakes possible if 
+there is to be no “cycle” of handshakes is (A cycle of handshakes is a sequence of k 
+people a1, a2, ......, ak (k > 2) such that the pairs {a1, a2}, {a2, a3}, ......, {ak-1, ak}, 
+{ak, a1} shake hands).
+a)7      b) 6     c) 9     d) 8
+Ans: c
+12) After the typist writes 12 letters and addresses 12 envelopes, she inserts the letters 
+randomly into the envelopes (1 letter per envelope). What is the probability that exactly 
+1 letter is inserted in an improper envelope?
+a) 0      b) 12/212    c) 11/12     d) 1/12     
+Ans: a
+13) 10 suspects are rounded by the police and questioned about a bank robbery. Only 
+one of them is guilty. The suspects are made to stand in a line and each person declares 
+that the person next to him on his right is guilty. The rightmost person is not questioned. 
+Which of the following possibilities are true? 
+A. All suspects are lying   
+B. leftmost suspect is innocent .
+C.  leftmost suspect is guilty
+a) A only    b) A or C     c) A or B    d) B only             
+Ans: c
+
+Visit www.downloadmela.com for more papers
+2005-2008 Placement
+Papers
+2010 Placement Papers2011 Placement Papers2009 Placement Papers
+14) Given 3 lines in the plane such that the points of intersection form a triangle with 
+sides of length 20, 20 and 30, the number of points equidistant from all the 3 lines is
+a) 4    b) 3   c) 0    d) 1
+Ans: a 3 lines are given so ans is 4 one incenter and 3 excenters. If it is 3 line segments 
+then ans would be 1
+15) Alok and Bhanu play the following min-max game. Given the expression - N = 15 + 
+X*(Y – Z)
+Where X, Y and Z are variables representing single digits (0 to 9), Alok would like to 
+maximize N while Bhanu would like to minimize it. Towards this end, Alok chooses a 
+single digit number and Bhanu substitutes this for a variable of her choice (X, Y or Z). 
+Alok then chooses the next value and Bhanu, the variable to substitute the value. Finally 
+Alok proposes the value for the remaining variable. Assuming both play to their optimal 
+strategies, the value of N at the end of the game would be
+Ans: 15+18 =33
+16) A hare and a tortoise have a race along a circle of 100 yards diameter. The tortoise 
+goes in one direction and the hare in the other. The hare starts after the tortoise has 
+covered 1/5 of its distance and that too leisurely. The hare and tortoise meet when the 
+hare has covered only 1/8 of the distance. By what factor should the hare increase its 
+speed so as the win the race?(for this values are changed)
+a) 8   b) 5   c) 37  d) 80                   
+Ans: c
+17) A sheet of paper has statements numbered from 1 to 45. For all values of n from 1 
+to 45, statement n says “At most n of the statements on this sheet are false”. Which 
+statements are true and which are false?
+A. The odd numbered statements are true and the even numbered are false. 
+B. The even numbered statements are true and the odd numbered are false.
+C. All statements are true.              
+Ans: c
+18) A hollow cube of size 5 cm is taken, with a thickness of 1 cm. It is made of smaller 
+cubes of size 1 cm. If 1face of the outer surface of the cube are painted, totally how 
+many faces of the smaller cubes remain unpainted?
+a) 900  b) 488   c) 563   d) 800     
+Ans: c
+19) The IT giant Tirnop has recently crossed a head count of 150000 and earnings of $7 
+billion. As one of the forerunners in the technology front, Tirnop continues to lead the 
+way in products and services in India. At Tirnop, all programmers are equal in every 
+respect. They receive identical salaries ans also write code at the same rate.Suppose 12 
+such programmers take 12 minutes to write 12 lines of code in total. How many lines of 
+code can be written by 72 programmers in 72 minutes?
+a) 72     b) 432     c) 12     d) 144 
+Ans: b
+20) The teacher is testing a student’s proficiency in arithmetic and poses the following 
+question. 1/3 of a number is 3 more than 1/6 of the same number. What is the number? 
+Can you help the student find the answer?
+a) 12    b) 18     c) 6     d) 21   
+Ans: b
+Alok and Bhanu play the following min-max game. Given the expression
+N = X – Y – Z
+21) Where X, Y and Z are variables representing single digits (0 to 9), Alok would like to 
+maximize N while Bhanu would like to minimize it. Towards this end, Alok chooses a 
+single digit number and Bhanu substitutes this for a variable of her choice (X, Y or Z). 
+Alok then chooses the next value and Bhanu, the variable to substitute the value. Finally 
+
+Visit www.downloadmela.com for more papers
+2005-2008 Placement
+Papers
+2010 Placement Papers2011 Placement Papers2009 Placement Papers
+Alok proposes the value for the remaining variable. Assuming both play to their optimal 
+strategies, the value of N at the end of the game would be
+a) 2    b) 4     c) 9    d) -18  
+Ans: a
+22) Horse started to chase dog as it relieved stable two hrs ago.  And horse started to ran with 
+average speed 22km/hr, horse crossed 10 mts road and two small pounds with depth 3m, 
+and it crossed two small street with 200 mts length. After traveling 6 hrs, 2hrs after 
+sunset it got dog. compute the speed of dog?
+Ans: As we have speed and travel time of horse, we can get distance travelled by it.  
+Hence d = 22*6 = 132km,
+Exactly this 132km was travelled by dog in 8 hours (as it started two hours earlier).
+Hence speed of dog = 132/8 = 16.5km/hr
+Ans: 16.5km/hr.
+23) A and B play a game between them. The dice consist of colors on their faces(instead 
+of number). When the dice are thrown, A wins if both show the same color, otherwise B 
+wins. One die has 3 red faces and 3 blue faces. How many red and blue faces should the 
+other die have if the both players have if the both players have the same chances of 
+winning?
+a) 5 red and 1 blue faces.
+b) 1 red and 5 blue faces.
+c) 3 red and 3 blue faces.
+Ans: c
+24) In planet OZ planet there are 8 days, sunday to saturday and 8th day is Oz day. 
+There is 36 hours in a day. What is angle between 12.40?
+a) 80  b) 81  c) 87  d) 89                                    
+Ans: 89
+Technical and managerial Round:
+1. Programs on Fibanoci, Reversing a string, sorting techniques normally and by using 
+double pointers, programs on pointers, swapping normally and by using pointers.
+2. Difference between C and C++?
+3. Inheritance, polymorphism?
+4. Why do we use header files, how are they created?
+HR-
+1.About urself?
+2. r u mobile?
+3. Why TCS??

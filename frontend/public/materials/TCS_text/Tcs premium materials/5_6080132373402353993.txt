@@ -1,0 +1,151 @@
+
+
+Free Placement Preparation Online Course with Free Mock Test 
+visit: www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+www.MyPlacementPrep.com 
+ 
+Pro Material Series 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Join Telegram Channel for more updates: 
+https://t.me/MyPlacementprepApp 
+ 
+Visit www.MyPlacementPrep.com .  
+India’s No1 website for Placement Materials and Free mock test Series 
+Free Placement Preparation Online Course video now available. 
+
+Free Placement Preparation Online Course with Free Mock Test 
+visit: www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+ 
+The TCS test Sampus seasons will have four sections:  
+1) Section-1 Quantitative Test 
+2) Section-2 Verbal Test (Test on Written English skills)  
+3) Section-3 Test on Programming Language Proficiency (based on ‘C’) 4) Section-4 Coding test (C 
+Language)  
+Question 1: Difference between pass by reference and pass by value? Answer:  
+Pass by value just passes the value from caller to calling function so the called function cannot 
+modify the values in caller function. But Pass by reference will pass the address to  
+the caller function instead of value if called function requires to modify any value it can directly 
+modify.  
+Question 2: What is an object? Answer:  
+Object is a software bundle of variables and related methods. Objects have state and behaviour.  
+Question 3: What is a class? Answer:  
+Class is a user-defined data type in C++. It can be created to solve a particular kind of problem. After 
+creation the user need not know the specifics of the working of a class.  
+Question 4: What is the difference between class and structure? Answer:  
+Structure: Initially (in C) a structure was used to bundle different type of data types together to 
+perform a particular functionality. But C++ extended the structure to contain functions  
+also. 
+The major difference is that all declarations inside a structure are by default public.  
+Class: Class is a successor of Structure. By default all the members inside the class are private.  
+Question 5: What is pointer? Answer:  
+Pointer is a variable in a program is something with a name, the value of which can vary. The  
+way the compiler and linker handles this is that it assigns 
+a specific block of memory within the computer to hold the value of that variable.  
+Question 6: What is the difference between null and void pointer? Answer:  
+A Null pointer has the value 0. Void pointer is a generic pointer introduced by ANSI. Generic pointer 
+can hold the address of any data type.  
+Question 7: what is function overloading? Answer:  
+Function overloading is a feature of C++ that allows us to create multiple functions with the same 
+name, so long as they have different parameters.Consider the following function:  
+int Add(int nX, int nY) {  
+return nX + nY;  
+}  
+Question 8: what is friend function? Answer:  
+
+Free Placement Preparation Online Course with Free Mock Test 
+visit: www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+A friend function for a class is used in object-oriented programming to allow access to public, 
+private, or protected data in the class from the outside.  
+Normally, a function that is not a member of a class cannot access such information; neither  
+can an external class. Occasionally, such access will be advantageous for the programmer. Under 
+these circumstances, the function or external class can be declared as a friend of the  
+class using the friend keyword 
+Question 9: What do you mean by inline function?  
+Answer: The idea behind inline functions is to insert the code of a called function at the  
+point where the function is called. If done carefully, this can improve the application's performance 
+in exchange for increased compile time and possibly (but not always) an  
+increase in the size of the generated binary executables.  
+Question 10: Tell me something about abstract classes? Answer:  
+An abstract class is a class which does not fully represent an object. Instead, it represents a  
+broad range of different classes of objects. However, this representation extends only to the 
+features that those classes of objects have in common. Thus, an abstract class provides only  
+a partial description of its objects.  
+ 
+ 
+ 
+www.MyPlacementPrep.com 
+ 
+Free Mock Test and Video 
+Tutorial 
+ 
+ 
+ 
+ 
+Visit www.MyPlacementPrep.com .  
+India’s No1 website Placement and Mock Test series 
+Free Placement Learning Path with Free Video Course. 
+
+Free Placement Preparation Online Course with Free Mock Test 
+visit: www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

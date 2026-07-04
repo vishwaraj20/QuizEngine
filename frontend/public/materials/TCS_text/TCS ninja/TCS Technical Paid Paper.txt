@@ -1,0 +1,772 @@
+
+
+TCS ​Previous Papers  
+www.prepinsta.com 
+ 
+Technical and C Questions  
+TCS Previous Year Papers 
+and Study materials 
+ 
+ 
+ 
+Also, don't share this PDF with anyone as if they will score good marks too your 
+percentile will get decreased 
+ 
+
+Some Questions don’t have options since we couldn’t find the options while trying to get 
+questions from students who have already given TCS Test but anyways we have put the 
+questions so can atleast give them a shot. 
+ 
+Q.A pointer variable can be 
+1. Changed within function. 
+2. Assigned an integer value. 
+3. None of these 
+4. Passed to a function as argument. 
+Correct Op: 4 
+ 
+Q. Which of the following uses structure? 
+1. Linked Lists 
+2. Array of structures 
+3. All of these 
+4. Binary Tree 
+Correct Op: 3 
+ 
+Q. Strings are character arrays. The last index of it contains the null-terminated 
+character 
+1. \t 
+2. \1 
+3. \0 
+4. \n 
+Correct Op: 3 
+
+ 
+Q. Which of the following is a collection of different data types? 
+1. String 
+2. Structure 
+3. Array 
+4. Files 
+Correct Op: 2 
+ 
+Q. What function should be used to free the memory allocated by calloc() ? 
+1. free(); 
+2. malloc(variable_name, 0) 
+3. dealloc(); 
+4. memalloc(variable_name, 0) 
+Correct Op: 1 
+ 
+Q. In the standard library of C programming language, which of the following header file 
+is designed for basic mathematical operations? 
+1. conio.h 
+2. stdio.h 
+3. math.h 
+4. Dos.h 
+Correct Op: 3 
+ 
+Q. int **ptr; is? 
+
+1. Pointer to integer 
+2. None of these 
+3. Pointer to pointer 
+4. Invalid declaration 
+Correct Op: 3 
+ 
+Q8. Which of the following special symbol allowed in a variable name? 
+1. (underscore) 
+2. - (hyphen) 
+3. | (pipeline) 
+4. * (asterisk) 
+Correct Op: 1 
+ 
+Q9. All keywords in C are in 
+1. Uppercase letters 
+2. None of these 
+3. Lowercase letters 
+4. Camel Case letters 
+ 
+Correct Op: 3 
+ 
+Q10. What should the program below print? 
+#include <stdio.h> 
+#include <string.h> 
+
+#include <stdlib.h> 
+void myfunc(char** param){ 
+++param; 
+} 
+int main(){ 
+char* string = (char*)malloc(64); 
+strcpy(string, "hello_World"); 
+myfunc(&string); 
+myfunc(&string); 
+printf("%s\n", string); 
+// ignore memory leak for sake of quiz 
+return 0; 
+} 
+1. hello_World 
+2. ello_World 
+3. lo_World 
+4. llo_World 
+ 
+Correct Op: 1 
+ 
+Q: What is the output of this C code? 
+#include <stdio.h> 
+void main() 
+{ 
+
+int k = 5; 
+int *p = &k; 
+int **m = &p; 
+printf("%d%d%d\n", k, *p, **p); 
+} 
+a) 5 5 5 
+b) 5 5 junk 
+c) 5 junk junk 
+d) Compile time error 
+ 
+Correct op: D 
+Explanations 
+1) It would have been 5 5 5 if it were **m and not **p.  
+ 
+Q. Which of the following statements about stdout and stderr are true? 
+a) They both are the same 
+b) Run time errors are automatically displayed in stderr 
+c) Both are connected to the screen by default. 
+d) stdout is line buffered but stderr is unbuffered. 
+ 
+Correct Op: D 
+Explanation -  
+ a) False. b) Not by default. c) Not by default. d) True.  
+ 
+
+Q: Given the below statements about C programming language: 
+1) main() function should always be the first function present in a C program file 
+2) all the elements of an union share their memory location 
+3) A void pointer can hold address of any type and can be typcasted to any type 
+4) A static variable hold random junk value if it is not initialised 
+ 
+Which of the above are correct statements? 
+A) 2,3 
+B) 1,2 
+C) 1,2,3 
+D) 1,2,3,4 
+Correct Op - A 
+Explanations 
+In a file you can write a function before main() - False 
+all the elements of an union share their memory location - True. 
+A void pointer can hold address of any type and can be typcasted to any type - True 
+Static value - False as value is 0  
+In C, if an object that has static storage duration is not initialized explicitly, then: 
+— if it has pointer type, it is initialized to a NULL pointer; 
+— if it has arithmetic type, it is initialized to (positive or unsigned) zero; 
+— if it is an aggregate, every member is initialized (recursively) according to these rules; 
+— if it is a union, the first named member is initialized (recursively) according to these 
+rules. 
+ 
+
+ 
+ Q If a function is defined as static, it means 
+A) The value returned by the function does not change 
+B) all the variable declared inside the function automatically will be assigned initial 
+value of zero 
+C) It should be called only within the same source code / program file. 
+D) None of the other choices as it is wrong to add static prefix to a function 
+Correct Op: C 
+Access to static functions is restricted to the file where they are declared. Therefore, 
+when we want to restrict access to functions, we make them static.  
+ 
+Q: Comment on the below while statement= 
+while (0 == 0) { }  
+A) It has syntax error as there are no statements within braces {} 
+B) It will run forever 
+C) It compares 0 with 0 and since they are equal it will exit the loop immediately 
+D) It has syntax error as the same number is being compared with itself 
+Correct Op: B 
+while( 0==0) {} is equivalent to while(1) {} 
+ 
+1. What will happen if in a C program you assign a value to an array element whose 
+subscript exceeds the size of array? 
+A. The element will be set to 0. 
+B. The compiler would report an error. 
+C. The program may crash if some important data gets overwritten. 
+
+D. The array size would appropriately grow. 
+Answer: Option C 
+Explanation: 
+If the index of the array size is exceeded, the program will crash. Hence "option c" is the 
+correct answer. But the modern compilers will take care of this kind of errors. 
+ 
+2. What does the following declaration mean? 
+int (*ptr)[10]; 
+A.ptr is array of pointers to 10 integers 
+B.ptr is a pointer to an array of 10 integers 
+C.ptr is an array of 10 integers 
+D.ptr is an pointer to array 
+Answer: Option B 
+ 
+3. In C, if you pass an array as an argument to a function, what actually gets passed? 
+A.Value of elements in array 
+B.First element of the array 
+C.Base address of the array 
+D.Address of the last element of array 
+Answer: Option C 
+Explanation: 
+The statement 'C' is correct. When we pass an array as a function argument, the base 
+address of the array will be passed. 
+ 
+
+4. What will be the output of the program ? 
+#include<stdio.h> 
+int main() 
+{ 
+    int a[5] = {5, 1, 15, 20, 25}; 
+    int i, j, m; 
+    i = ++a[1]; 
+    j = a[1]++; 
+    m = a[i++]; 
+    printf("%d, %d, %d", i, j, m); 
+    return 0; 
+} 
+A.2, 1, 15  
+B.1, 2, 5 
+C.3, 2, 15 
+D.2, 3, 20 
+Answer: Option C 
+Explanation: 
+Step 1: int a[5] = {5, 1, 15, 20, 25}; The variable arr is declared as an integer array with a 
+size of 5 and it is initiapzed to 
+a[0] = 5, a[1] = 1, a[2] = 15, a[3] = 20, a[4] = 25 . 
+Step 2: int i, j, m; The variable i,j,m are declared as an integer type. 
+Step 3: i = ++a[1]; becomes i = ++1; Hence i = 2 and a[1] = 2 
+Step 4: j = a[1]++; becomes j = 2++; Hence j = 2 and a[1] = 3. 
+
+Step 5: m = a[i++]; becomes m = a[2]; Hence m = 15 and i is incremented by 1(i++ means 
+2++ so i=3) 
+Step 6: printf("%d, %d, %d", i, j, m); It prints the value of the variables i, j, m 
+Hence the output of the program is 3, 2, 15 
+ 
+5. Is there any difference int the following declarations? 
+int fun(int arr[]); 
+int fun(int arr[2]); 
+A.Yes 
+B.No 
+Answer: Option B 
+Explanation: 
+No, both the statements are same. It is the prototype for the function fun() that accepts 
+one integer array as an parameter and returns an integer value. 
+ 
+6. Are the expressions arr and &arr same for an array of 10 integers? 
+A.Yes  
+B.No 
+Answer: Option B 
+Explanation: 
+Both mean two different things. arr gives the address of the first int, whereas the &arr 
+gives the address of array of ints. 
+ 
+7. Which of the fplowing statements should be used to obtain a remainder after dividing 
+3.14 by 2.1? 
+
+A.rem = 3.14 % 2.1; 
+B.rem = modf(3.14, 2.1); 
+C.rem = fmod(3.14, 2.1); 
+D.Remainder cannot be obtain in floating point division. 
+Answer: Option C 
+Explanation: 
+fmod(x,y) - Calculates x modulo y, the remainder of x/y. 
+This function is the same as the modulus operator. But fmod() performs floating point 
+divisions. 
+ 
+8. What are the types of pnkages? 
+A.Internal and External 
+B.External, Internal and None 
+C.External and None  
+D.Internal 
+Answer: Option B 
+Explanation: 
+External pnkage-> means global, non-static variables and functions. 
+Internal pnkage-> means static variables and functions with file scope. 
+None pnkage-> means Local variable 
+ 
+9. Which of the fplowing special symbp allowed in a variable name? 
+A.* (asterisk)  
+B.| (pipepne) 
+
+C.-(hyphen) 
+D._(underscore) 
+Answer: Option D 
+Explanation: 
+Variable names in C are made up of letters (upper and lower case) and digits. The 
+underscore character ("_") is also permitted. Names must not begin with a digit. 
+Examples of vapd (but not very descriptive) C variable names: 
+=> foo 
+=> Bar 
+=> BAZ 
+=> foo_bar 
+=> _foo42 
+=> _ 
+=> QuUx 
+ 
+10. Is there any difference between fplowing declarations? 
+1 : extern int fun(); 
+2 : int fun(); 
+A.Both are identical 
+B.No difference, except extern int fun(); is probably in another file 
+C.int fun(); is overrided with extern int fun(); 
+D.None of these 
+Answer: Option B 
+Explanation: 
+
+extern int fun(); declaration in C is to indicate the existence of a global function and it is 
+defined externally to the current module or in another file. 
+int fun(); declaration in C is to indicate the existence of a function inside the current 
+module or in the same file. 
+ 
+Question 1: Use of an increment statement or decrement statement in C? 
+Answer: 
+There are actually two ways you can do this. One is to use the increment operator ++ and 
+decrement operator - -. For example, the statement x++ means to increment the value of 
+x by 1. Likewise, the statement x -- means to decrement the value of x by 1. 
+Two types of increments are: 
+1. pre increment: (increment by 1 then print) and 
+2. post increment: (print then incremented value will be in buffer). Same thing will be 
+with decrement. 
+ 
+Question 2: In programs we place comment symbols on some codes instead of deleting it. 
+How does this aid in debugging? 
+Answer: 
+Placing comment symbols /* */ around a code, also referred to as ​commenting out​, is a 
+way of isolating some codes that you think maybe causing errors in the program, 
+without deleting the code. 
+ 
+Question 3: What is the use of a ‘\0' character? 
+Answer: 
+This character is used primarily to show the end of a string value. 
+ 
+
+Question 4: What is the difference between the = symbol and == symbol? 
+Answer: 
+The = symbol is often used in mathematical operations. It is used to assign a value to a 
+given variable. On the other hand, the == symbol, also known as equal to or equivalent 
+to, is a relational operator that is used to compare two values. 
+ 
+Question 5: In C Programming, which of the following operators is incorrect and why? ( 
+>=, <=, <>, ==) 
+Answer: 
+<> is incorrect, all other operators are relational operators. While this operator is 
+correctly interpreted as not equal to in writing conditional statements, it is not the 
+proper operator to be used in C programming. Instead, the operator !=  must be used to 
+indicate not equal to condition. 
+ 
+Question 6: Can the curly brackets { } be used to enclose a single line of code? 
+Answer: 
+While curly brackets are mainly used to group several lines of codes, it will still work 
+without error if you used it for a single line. Some programmers prefer this method as a 
+way of organizing codes to make it look clearer, especially in conditional statements. 
+ 
+Question 7: Can I use int data type to store the value 32768? Why/why not? 
+Answer: 
+No. int data type is capable of storing values from -32768 to 32767. To store 32768, you 
+can use long int instead. You can also use ‘unsigned int, assuming you don’t intend to 
+store negative values. 
+ 
+
+Question 8: Can two or more operators such as \n and \t be combined in a single line of 
+program code? 
+Answer: Yes, it’s perfectly valid to combine operators, especially if the need arises. 
+For example: you can have a code like ‘printf (‘Hello\n\n\’World\’)’ to output the text 
+‘Hello’ on the first line and ‘World’ enclosed in single quotes to appear on the next two 
+lines. 
+ 
+Question 9: When is the ‘void’ keyword used in a function? 
+Answer: 
+When declaring functions, you will decide whether that function would be returning a 
+value or not. If that function will not return a value, such as when the purpose of a 
+function is to display some outputs on the screen, then ​void​ is to be placed at the 
+leftmost part of the function header. When a return value is expected after the function 
+execution, the data type of the return value is placed instead of void. 
+ 
+Question 10: Write a loop statement that will show the following output: 
+1 
+12 
+123 
+1234 
+12345 
+Answer: 
+ 
+for (a=1; a<=5; i++) { 
+for (b=1; b<=a; b++) 
+printf("%d",b); 
+
+printf("\n"); 
+} 
+Question 1:  How would you round off a value from 1.66 to 2.0? 
+ 
+A. ceil (1.66) 
+B. floor (1.66) 
+C. roundup (1.66) 
+D. Round to (1.66) 
+ 
+Answer: A 
+ 
+/* Example for ceil() and floor() functions: */ 
+#include<stdio.h> 
+#include<math.h> 
+int main() 
+{ 
+    printf("\n Result : %f" , ceil(1.44) ); 
+    printf("\n Result : %f" , ceil(1.66) ); 
+    printf("\n Result : %f" , floor(1.44) );  
+    printf("\n Result : %f" , floor(1.66) ); 
+    return 0; 
+} 
+// Output: 
+// Result : 2.000000 
+
+// Result : 2.000000 
+// Result : 1.000000 
+// Result : 1.000000 
+ 
+Question 2: What will be the output of the program? 
+#include<stdio.h> 
+int X=40; 
+int main() 
+{ 
+    int X=20; 
+    printf("%d\n", X); 
+    return 0; 
+} 
+A.20 
+B.40 
+C.Error 
+D.No Output 
+Answer:  A 
+Whenever there is conflict between a local variable and global variable, the local 
+variable gets priority. 
+ 
+Question 3:  A long double can be used if range of a double is not enough to 
+accommodate a real number. 
+A. True 
+
+B. False 
+ 
+Answer: A 
+True, we can use long double; if double range is not enough. 
+Double = 8 bytes.  
+Long double = 10 bytes. 
+ 
+Question 4: A float is 4 bytes wide, whereas a double is 8 bytes wide. 
+A.True 
+B. False 
+Answer: A 
+ 
+True,  
+float = 4 bytes.  
+Double = 8 bytes. 
+ 
+Question 5: If the definition of the external variable occurs in the source file before its 
+use in a particular function, then there is no need for an extern declaration in the 
+function. 
+A. True 
+B. False 
+Answer: A 
+True, when a function is declared inside the source file, that function (local function) get 
+a priority than the extern function. So there is no need to declare a function as extern 
+inside the same source file 
+
+ 
+Question 6: If the definition of the external variable occurs in the source file before its 
+use in a particular function, then there is no need for an extern declaration in the 
+function. 
+A. True 
+B. False 
+Answer: A 
+True, When a function is declared inside the source file, that function(local function) get 
+a priority than the extern function. So there is no need to declare a function as extern 
+inside the same source file 
+Question 7: Size of short integer and long integer can be verified using the size of() 
+operator. 
+A. True 
+B. False 
+Answer: A 
+True, we can find the size of short integer and long integer using the sizeof() operator. 
+ 
+Question 8: Range of double is -1.7e-38 to 1.7e+38 (in 16 bit platform - Turbo C under 
+DOS) 
+A. True 
+B. False 
+Answer: B 
+False, the range of double is -1.7e-308 to 1.7e+308. 
+ 
+Question 9: Size of short integer and long integer would vary from one platform to 
+another. 
+
+A. True 
+B. False 
+Answer: A 
+True, Depending on the operating system/compiler/system architecture you are working 
+on, the range of data types can vary. 
+ 
+Question 10: Range of float id -2.25e-308 to 2.25e+308 
+A. True 
+B. False 
+Answer: Option B 
+False, the range of float is -3.4e-38 to 3.4e+38. 
+ 
+Question 1: What is wrong in this statement?  
+scanf(%d,whatnumber); 
+Answer: 
+An ampersand '&' symbol must be placed before the variable name whatnumber. Placing 
+& means whatever integer value is entered by the user is stored at the ​address​ of the 
+variable name. This is a common mistake for programmers, often leading to logical 
+errors. 
+ 
+Question 2: What does the format %10.2 mean when included in a printf statement? 
+Answer: 
+This format is used for two things: to set the number of spaces allotted for the output 
+number and to set the number of decimal places. The number before the decimal point is 
+for the allotted space, in this case it would allot 10 spaces for the output number. If the 
+number of space occupied by the output number is less than 10, addition space 
+
+characters will be inserted before the actual output number. The number after the 
+decimal point sets the number of decimal places, in this case, it’s 2 decimal spaces. 
+ 
+ Question 3: What are linked list? 
+Answer: 
+A linked list is composed of nodes that are connected with another. In C programming, 
+linked lists are created using pointers. Using linked lists is one efficient way of utilizing 
+memory for storage. 
+ 
+ Question 4: What are binary trees? 
+Answer: 
+Binary trees are actually an extension of the concept of linked lists. A binary tree has 
+two pointers, a left one and a right one. Each side can further branch to form additional 
+nodes, which each node having two pointers as well. 
+ 
+Question 5: Differences between C and Java? 
+Answer: 
+ 
+JAVA is Object-Oriented while C is procedural. 
+2. Java is an Interpreted language while C is a compiled language. 
+3. C is a low-level language while JAVA is a high-level language. 
+4. C uses the top-down approach while JAVA uses the bottom-up approach. 
+5. Pointer goes backstage in JAVA while C requires explicit handling of pointers. 
+ Question 6: In header files whether functions are declared or defined? 
+Answer: Functions are declared within header file. That is function prototypes exist in a 
+header file, not function bodies. They are defined in library (lib). 
+
+ 
+Question 7: What are the different storage classes in C? 
+Answer: 
+There are four types of storage classes in C. They are extern, register, auto and static. 
+ 
+Question 8: What does static variable mean? 
+Answer: 
+Static is an access qualifier. If a variable is declared as static inside a function, the scope 
+is limited to the function, but it will exists for the life time of the program. Values will 
+be persisted between successive calls to a function. 
+ 
+ Question 9: How do you print an address? 
+Answer: 
+Use %p in printf to print the address. 
+ 
+Question 10: What are macros? What are its advantages and disadvantages? 
+Answer: 
+Macros are processor directive which will be replaced at compile time. 
+The disadvantage with macros is that they just replace the code they are not function 
+calls. Similarly the advantage is they can reduce time for replacing the same values. 
+ 
+Question 1: Difference between pass by reference and pass by value? 
+Answer: 
+Pass by value just passes the value from caller to calling function so the called function 
+cannot modify the values in caller function. But Pass by reference will pass the address 
+
+to the caller function instead of value if called function requires to modify any value it 
+can directly modify. 
+ 
+ Question 2: What is an object? 
+Answer: 
+Object is a software bundle of variables and related methods. Objects have state and 
+behaviour. 
+ 
+ Question 3: What is a class? 
+Answer: 
+Class is a user-defined data type in C++. It can be created to solve a particular kind of 
+problem. After creation the user need not know the specifics of the working of a class. 
+ 
+Question 4: What is the difference between class and structure? 
+Answer: 
+Structure: Initially (in C) a structure was used to bundle different type of data types 
+together to perform a particular functionality. But C++ extended the structure to contain 
+functions also.  
+The major difference is that all declarations inside a structure are by default public. 
+Class: Class is a successor of Structure. By default all the members inside the class are 
+private. 
+ 
+ Question 5: What is pointer? 
+Answer: 
+Pointer is a variable in a program is something with a name, the value of which can vary. 
+The way the compiler and linker handles this is that it assigns  
+
+a specific block of memory within the computer to hold the value of that variable. 
+ 
+ Question 6: What is the difference between null and void pointer? 
+Answer: 
+ A Null pointer has the value 0. Void pointer is a generic pointer introduced by ANSI. 
+Generic pointer can hold the address of any data type. 
+ 
+ Question 7: what is function overloading? 
+Answer: 
+Function overloading is a feature of C++ that allows us to create multiple functions with 
+the same name, so long as they have different parameters.Consider the following 
+function: 
+   int Add(int nX, int nY) 
+    { 
+      return nX + nY; 
+    } 
+ 
+ Question 8: what is friend function? 
+Answer: 
+A friend function for a class is used in object-oriented programming to allow access to 
+public, private, or protected data in the class from the outside. 
+Normally, a function that is not a member of a class cannot access such information; 
+neither can an external class. Occasionally, such access will be advantageous for the 
+programmer. Under these circumstances, the function or external class can be declared 
+as a friend of the class using the friend keyword 
+ 
+
+ Question 9: What do you mean by inline function? 
+Answer: The idea behind inline functions is to insert the code of a called function at the 
+point where the function is called. If done carefully, this can improve the application's 
+performance in exchange for increased compile time and possibly (but not always) an 
+increase in the size of the generated binary executables. 
+ 
+ Question 10: Tell me something about abstract classes? 
+Answer: 
+An abstract class is a class which does not fully represent an object. Instead, it represents 
+a broad range of different classes of objects. However, this representation extends only 
+to the features that those classes of objects have in common. Thus, an abstract class 
+provides only a partial description of its objects. 
+ 
+Question 1: What is the difference between an array and a list? 
+Answer: 
+Array is collection of homogeneous elements. List is collection of heterogeneous 
+elements. 
+For Array memory allocated is static and continuous. For List memory allocated is 
+dynamic and random. 
+Array: User need not have to keep in track of next memory allocation. 
+List: User has to keep in Track of next location where memory is allocated. 
+Array uses direct access of stored members; list uses sequential access for members. 
+ 
+Question 2: What are the differences between structures and arrays? 
+Answer: 
+Arrays are a group of similar data types but Structures can be group of different data 
+types. 
+
+ 
+Question 3: What is data structure? 
+Answer: 
+ A data structure is a way of organizing data that considers not only the items stored, but 
+also their relationship to each other. Advance knowledge about the relationship between 
+data items allows designing of efficient algorithms for the manipulation of data. 
+ 
+Question 4: Can you list out the areas in which data structures are applied extensively? 
+Answer: 
+Compiler Design, 
+Operating System, 
+Database Management System, 
+Statistical analysis package, 
+Numerical Analysis, 
+Graphics, 
+ 
+Question 5: What are the advantages of inheritance? 
+Answer: 
+It permits code reusability. Reusability saves time in program development. It 
+encourages the reuse of proven and debugged high-quality software, thus reducing 
+problem after a system becomes functional. 
+ 
+Question 6: Advantages of a macro over a function? 
+Answer: 
+
+Macro gets to see the Compilation environment, so it can expand #defines. It is 
+expanded by the pre-processor. 
+ 
+Question 7: What is command line argument? 
+Answer: 
+ 
+Getting the arguments from command prompt in c is known as command line 
+arguments. In c main function has three arguments. They are: 
+Argument counter 
+Argument vector 
+Environment vector 
+ 
+Question 8: What are the 4 basics of OOP?  
+Answer: 
+Abstraction, Inheritance, Encapsulation, and Polymorphism. 
+ 
+Question 9: Tell how to check whether a linked list is circular. 
+Answer: 
+Create two pointers, each set to the start of the list. Update each as follows: 
+while (pointer1) { 
+pointer1 = pointer1->next; 
+pointer2 = pointer2->next; if (pointer2) pointer2=pointer2->next; 
+if (pointer1 == pointer2) { 
+print ("circular\n"); 
+
+} 
+} 
+ 
+Question 10:  Write a program to swap two numbers without using a temporary variable. 
+Answer: 
+void swap(int &i, int &j) 
+{ 
+i=i+j; 
+j=i-j; 
+i=i-j; 
+} 
+ 
+Ques. 1 Which is the character array used to accept command line arguments? 
+A) char argv 
+B) char* argv[] 
+C) char argv[] 
+D) char* argv 
+Ques. 2 What is a dangling pointer? 
+Ques. 3 Which is not a string function? 
+A) strstr 
+B)strcmp 
+C) strupr 
+D) strchr 
+Ques. 4 Which of the following does not require to include math.h header file? 
+A) pow() 
+
+B) rand() 
+C)sqrt() 
+D) sinh() 
+Ques. 5 What is the task of pre-processor? 
+A) Expanding 
+B) Compiling 
+C) Linking 
+D) All of the above 
+Ques. 6 Which of the following is true? 
+A) realloc() can change the memory size of arrays 
+B) Unary operator works on only one operand 
+C) Struct and Union works in same way. 
+D) None of the above 
+Ques. 7 Which of this is used to skip one iteration: 
+A) break 
+B) continue 
+C) goto 
+D) return 
+Ques. 8 Which address does a pointer to an array store: 
+A) Memory address of the first element of the array Don’t remember the other 
+options. 
+Ques. 9 Predict the output: 
+float a = 0.1; 
+if(a==0.1) 
+printf(“Yes”); 
+else 
+printf(“No”);​ Answer would be No. 
+
+Ques. 10 Another output based question which basically displayed the input 
+string in reverse pattern. 
+For example, ABRACADABRA was displayed as ARBADACARBA. 
+ 

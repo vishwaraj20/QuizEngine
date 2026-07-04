@@ -1,0 +1,209 @@
+
+
+1.TofindGCDof twonumbers
+#include<stdio.h>
+int main(int argc,char*argv[])
+{
+int a,b,small,i;
+a=atoi(argv[1]);
+b=atoi(argv[2]);
+if(a>b)
+small=b;
+else
+small=a;
+for(i=small;i>=1;i--)
+{
+if((a%i)==0&&(b%i)==0)
+{
+printf("%d",i);
+break;
+}
+}
+return0;
+}
+
+2. Tofindthelcmof twonumbers
+#include<stdio.h>
+int main(int argc,char*argv[])
+{
+int a,b,large;
+a=atoi(argv[1]);
+b=atoi(argv[2]);
+if(a>b)
+large=a;
+else
+large=b;
+while(1)
+{
+if((large%a)==0&&(large%b)==0)
+{
+printf("%d",large);
+break;
+}
+large++;
+}
+return0;
+}
+
+3. TofindtheFactorialof a nonnegativenumber
+#include<stdio.h>
+int main(int argc,char*argv[])
+{
+int n,fact=1,i;
+n=atoi(argv[1]);
+for(i=1;i<=n;i++)
+{
+fact=fact*i;
+}
+printf("%d",fact);
+return0;
+}
+4. To findtheareaof a circle(area=3.14*r*r),when
+diameteris given.
+#include<stdio.h>
+#definePI 3.14
+int main(int argc,char*argv[])
+{
+floatdia,radius,area=0;
+dia=atoi(argv[1]);
+radius=0.5*dia;
+area=PI*radius*radius;
+printf("%.2f",area);
+return0;
+}
+
+5.Tocheckwhetherthegivenyearis Leapyearor not.
+#include<stdio.h>
+intmain(intargc,char*argv[])
+{
+intyear;
+year=atoi(argv[1]);
+if(year%100==0)
+{
+if(year%400==0)
+printf("Leapyear");
+else
+printf("notleapyear");
+}
+else
+if(year%4==0)
+printf("leapyear");
+else
+printf("notleapyear");
+return0;
+}
+
+6.Tofindtheareaof trianglewhenbaseandheightis
+given.
+#include<stdio.h>
+intmain(intargc,char*argv[])
+{
+floatheight,base,area;
+height=atoi(argv[1]);
+base=atoi(argv[2]);
+area=0.5*base*height;
+printf("%.2f",area);
+return0;
+}
+
+7. ToprinttheFibonacciseries.
+Input=6Output=11 2 3 5 8
+#include<stdio.h>
+intmain(intargc,char*argv[])
+{
+intn,first=1,sec=1,next,i;
+n=atoi(argv[1]);
+for(i=0;i<n;i++)
+{
+if (i<=1)
+next=1;
+else
+{
+next=first+sec;
+first=sec;
+sec=next;
+}
+printf("%d",next);
+}
+return0;
+}
+
+8.Tocheckwhetherthegivennumberis primeor not.
+#include<stdio.h>
+intmain(intargc,char*argv[])
+{
+intn,i,count=0;
+n=atoi(argv[1]);
+for(i=1;i<=n;i++)
+{
+if(n%i==0)
+{
+count++;
+}
+}
+if(count==2)
+printf("primenumber");
+else
+printf("notprimenumber");
+return0;
+}
+
+9.Tocheckwhethergiven numberis strongnumberor
+not.
+#include<stdio.h>
+intfact(int);
+intmain(intargc, char*argv[])
+{
+intnum,d,n,res=0,i,count=0,x;
+n=atoi(argv[1]);
+num=n;
+x=num;
+while(n!=0)
+{
+n=n/10;
+count++;
+}
+for(i=0;i<count;i++){
+if(x>0)
+{
+d=x%10;
+res=res+fact(d);
+x=x/10;
+}
+}
+if(res==num)
+{
+printf("strongnumber");
+}
+elseprintf("notstrongnumber");
+
+return0;
+}
+intfact(intx)
+{
+if(x==0)
+return1;
+else
+returnx*fact(x-1);
+}
+
+10.Tocheckwhethernumberis palindromeornot.
+#include<stdio.h>
+intmain(intargc,char*argv[])
+{
+intnum,rev=0,digit,orig;
+num=atoi(argv[1]);
+orig=num;
+while(num>0){
+digit=num%10;
+rev=rev*10+digit;
+num=num/10;
+}
+if(orig==rev)
+{
+printf("palindrome");
+}
+else
+printf("notpalindrome");
+return0;
+}

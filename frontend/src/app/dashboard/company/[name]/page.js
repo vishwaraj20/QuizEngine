@@ -7,11 +7,19 @@ export default function CompanyTracksPage() {
   const params = useParams();
   const companyName = decodeURIComponent(params.name);
 
-  const topicCategories = [
+  let topicCategories = [
     { name: 'Quantitative Aptitude', desc: 'Mathematical Ability', icon: '🔢' },
     { name: 'Logical Reasoning', desc: 'Puzzles & Logic', icon: '🧩' },
     { name: 'Verbal Ability', desc: 'English & Grammar', icon: '📚' }
   ];
+
+  if (companyName.toUpperCase() === 'TCS') {
+    topicCategories = [
+      ...topicCategories,
+      { name: 'TCS Ninja', desc: 'Previous Year Ninja Papers', icon: '🥷' },
+      { name: 'TCS Question Bank', desc: 'Aptitude Question Bank (44 pgs)', icon: '📖' }
+    ];
+  }
 
   const TopicCard = ({ topic }) => {
     // The final category string sent to the backend will be "Company - Topic"

@@ -1,0 +1,556 @@
+
+
+Free Placement Preparation Online Course with Free Mock Test 
+visit: www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+www.MyPlacementPrep.com 
+ 
+Pro Material Series 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Join Telegram Channel for more updates: 
+https://t.me/MyPlacementprepApp 
+ 
+Visit www.MyPlacementPrep.com .  
+India’s No1 website for Placement Materials and Free mock test Series 
+Free Placement Preparation Online Course video now available. 
+
+Free Placement Preparation Online Course with Free Mock Test 
+visit: www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+ 
+TCS Coding Programming Questions 2018-2019  
+1. Property which allows to produce different executable for different 
+platforms in C is called?  
+A. File inclusion B. Selective inclusion C. Conditional compilation D. Recursive 
+macros  
+Answer: Option C Explanation:  
+Conditional compilation is the preprocessor facility to produce different 
+executable.  
+2. C preprocessors can have compiler specific features.  
+A. true B. false C. Depends on the standard D. Depends on the platform  
+Answer: Option A  
+Explanation:  
+#pragma is compiler specific feature.  
+3. Preprocessor feature that supply line numbers and file names to compiler is 
+called?  
+A. Selective inclusion control  
+B. macro substitution  
+C. Concatenation  
+D. Line  
+Answer: Option D 
+Explanation: 
+
+Free Placement Preparation Online Course with Free Mock Test 
+visit: www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+None. 
+4. Which of the following are C preprocessors?  
+www.freshersnow.com  
+A. #ifdef B. #define C. #endif D. All of the mentioned. Answer: Option D 
+Explanation: 
+None.  
+5. The C-preprocessors are specified with _________symbol. A. # B. $ C. " " D. 
+None of the mentioned. 
+Answer: Option A 
+Explanation:  
+The C-preprocessors are specified with # symbol. 6. What is the output of this 
+C code?  
+#define a 20 
+int main() 
+{ 
+const int a = 50; printf("a = %d\n", a); }  
+A. a = 50 B. a = 20 C. Run time error D. Compilation Error Answer: Option D 
+Explanation:  
+The #define substitutes a with 20 leaving no identifier and hence compilation 
+error.  
+www.freshersnow.com  
+Complilation Error: expected identifier or ‘(’ before numeric constant 7. What 
+is the output of this C code?  
+int main() 
+{ 
+int var = 010; 
+printf("%d", var); 
+
+Free Placement Preparation Online Course with Free Mock Test 
+visit: www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+} 
+A. 2 B. 8 C. 9 D. 10 
+Answer: Option B 
+Explanation: 
+010 is octal representation of 8. 
+8. enum types are processed by? 
+A. Compiler B. Preprocessor C. Linker D. Assembler Answer: Option A 
+Explanation: 
+None. 
+9. What is the output of this C code? 
+int main() 
+{ 
+printf("AllIndiaExams\r\nclass\n"); 
+return 0;  
+www.freshersnow.com  
+}  
+A. AllIndiaExamsclass B. AllIndiaExamsclass C. classundry D. AllIndiaExams  
+Answer: Option B  
+Explanation:  
+rn combination makes cursor move to nextline.  
+10. What is the output of this C code?  
+int main()  
+{  
+const int a;  
+a = 32;  
+
+Free Placement Preparation Online Course with Free Mock Test 
+visit: www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+printf("a is %d", a);  
+return 0;  
+}  
+A. a is 32 B. Compile time error C. Run time error D. none  
+Answer: Option B  
+Explanation:  
+Since the constant variable has to be declared and defined at the same time, 
+not doing it results in an error.  
+11. Comment on the output of this C code? int const print() 
+{ 
+printf("AllIndiaExams.in");  
+www.freshersnow.com  
+return 0; 
+} 
+void main() {  
+print(); 
+} 
+A. AllIndiaExams.in is printed infinite number of times  
+C. Runtime Error error  
+Answer: Option B 
+Explanation: 
+None. 
+12. Does this compile without error? int main()  
+
+Free Placement Preparation Online Course with Free Mock Test 
+visit: www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+{ 
+int k; 
+{ 
+int k; 
+for (k = 0; k < 10; k++); 
+} 
+} 
+A. Yes B. No C. Depends on the compiler  
+B. AllIndiaExams.in D. complilation  
+www.freshersnow.com  
+D. Depends on the C standard implemented by compilers  
+Answer: Option A  
+Explanation:  
+There can be blocks inside block and within blocks variables have only block 
+scope.  
+Output: 
+$ cc pgm5.c 
+13. What is the output of this C code? 
+void main() 
+{ 
+int k = 4; 
+float k = 4; 
+printf("%d", k) 
+} 
+A. Compile time error 
+Answer: Option A 
+Explanation: 
+Since the variable k is defined both as integer and as float, it results in an error. 
+Output: 
+
+Free Placement Preparation Online Course with Free Mock Test 
+visit: www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+$ cc pgm8.c 
+14. A variable declared in a function can be used in main? 
+A. True B. False C. True if it is declared static D. None of the mentioned.  
+B. 4  
+C. 4.0000000  
+D. 4.4  
+www.freshersnow.com  
+Answer: Option B Explanation:  
+Since the scope of the variable declared within a function is restricted only 
+within that function,  
+the above statement is false.  
+15.The name of the variable used in one function cannot be used in another 
+function?  
+A. True B. False C. May be D. None of the mentioned. Answer: Option B 
+Explanation:  
+Since the scope of the variable declared within a function is restricted only 
+within that function, the same name can be used to declare another variable in 
+another function.  
+16. C99 standard guarantees uniqueness of ____ characters for internal 
+names. A.31 B.63 C.12 D.14 
+Answer: Option B 
+Explanation:  
+ISO C99 compiler may consider only first 63 characters for internal. 
+17. Which of the following is not a valid variable name declaration? 
+A. int __a3; B. int __3a; C. int __A3; D. None of the mentioned. Answer: Option 
+
+Free Placement Preparation Online Course with Free Mock Test 
+visit: www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+D 
+Explanation: 
+None.  
+www.freshersnow.com  
+18. Which of the following is not a valid variable name declaration? A. int _a3; 
+B. int a_3; C. int 3_a; D. int _3a 
+Answer: Option C 
+Explanation:  
+Variable name cannot start with a digit.  
+19. All keywords in C are in?  
+A. Lower Case letters B. Upper Case letters C. Camel Case letters D. None  
+Answer: Option A  
+Explanation:  
+None.  
+20. Variable name resolving (number of significant characters for uniqueness 
+of variable) depends on?  
+A. Compiler and linker implementations B. Assemblers and loaders 
+implementations C. C Language D. None  
+Answer: Option A 
+Explanation: 
+It depends on the standard to which compiler and linkers are adhering to. 21. 
+Which of the following is not a valid C variable name? 
+A. int number; B. float rate; C. int variable_count; D. int $main; Answer: Option 
+D 
+Explanation:  
+
+Free Placement Preparation Online Course with Free Mock Test 
+visit: www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+Since only underscore and no other special character is allowed in a variable 
+name, it results in an error.  
+www.freshersnow.com  
+22. Which is valid C expression?  
+A. int my_num = 100,000; B. int my_num = 100000; C. int my num = 1000; D. 
+int $my_num = 10000;  
+Answer: Option B 
+Explanation: 
+space, comma and $ cannot be used in a variable name. 
+23. What is the output of this C code? 
+int main() 
+{ 
+int y = 10000; 
+int y = 34; 
+printf("Hello World! %d\n", y); 
+return 0; 
+} 
+A. Compile time error B. Hello World! 34 
+Answer: Option A 
+Explanation: 
+Since y is already defined, redefining it results in an error. 
+Output: 
+$ cc pgm2.c 
+24. Which of the following is not a valid variable name declaration? 
+A. float PI = 3.14; B. double PI = 3.14; C. int PI = 3.14; D. #define PI 3.14  
+www.freshersnow.com  
+Answer: Option D 
+Explanation: 
+#define PI 3.14 is a macro preprocessor, it is a textual substitution. 25. Which 
+of the following cannot be a variable name in C? 
+
+Free Placement Preparation Online Course with Free Mock Test 
+visit: www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+A. Volatile B. True C. friend D. export 
+Answer: Option A 
+Explanation: 
+volatile is C keyword. 
+26. What is the output of this C code? 
+int main() 
+{ 
+void foo(); 
+void f() 
+{ 
+foo(); 
+} 
+f(); 
+} 
+void foo() 
+{ 
+printf("2 "); 
+}  
+www.freshersnow.com  
+A. 2 2 B. 2 C. Compile time error D. Depends on the compiler Answer: Option D 
+Explanation:  
+Even though the answer is 2, this code will compile fine only with gcc. GNU C 
+supports nesting of functions in C as a language extension where as standard C 
+compiler doesn’t.  
+27. What is the output of this C code? void foo(); 
+int main() 
+{  
+void foo(); foo(); return 0; 
+}  
+
+Free Placement Preparation Online Course with Free Mock Test 
+visit: www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+void foo() 
+{ 
+printf("2 "); }  
+A. Compile time error the standard  
+Answer: Option B Explanation: None.  
+B. 2  
+C. Depends on the compiler  
+D. Depends on  
+www.freshersnow.com  
+28. What is the default return type if it is not specified in function definition? 
+A. void B. int C. double D. short int 
+Answer: Option B 
+Explanation:  
+None. 
+29. What is the output of this C code?  
+int foo(); int main() {  
+int i = foo(); }  
+foo() {  
+printf("2 ");  
+return 2; }  
+A. 2 B. Compile time error C. Depends on the compiler D. Depends on the 
+standard  
+
+Free Placement Preparation Online Course with Free Mock Test 
+visit: www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+Answer: Option A 
+Explanation: 
+None. 
+30. functions can return structure in c?  
+www.freshersnow.com  
+A. true B. false C. Depends on the compiler D. Depends on the standard 
+Answer: Option A 
+Explanation: 
+None.  
+31. functions can return enumeration constants in c? 
+A. true B. false C. depends on the compiler D. depends on the standard 
+Answer: Option A 
+Explanation: 
+None. 
+32. Which keyword can be used for coming out of recursion? 
+A. break B. return C. exit D. Both (a) and (b) 
+Answer: Option B 
+Explanation: 
+none 
+33. What is the output of this C code? 
+int main() 
+{  
+int a = 0, i = 0, b;  
+for (i = 0;i < 5; i++) {  
+a++; continue;  
+www.freshersnow.com  
+} }  
+
+Free Placement Preparation Online Course with Free Mock Test 
+visit: www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+A. 2 B. 3 C. 4 D. 5 Answer: Option D Explanation: 
+none  
+34. Which keyword is used to come out of a loop only for that iteration? A. 
+break B. continue C. return D. None of the mentioned 
+Answer: Option B 
+Explanation:  
+none 
+35. What is the output of this C code?  
+void main() {  
+double k = 0; 
+for (k = 0.0; k < 3.0; k++)  
+printf("Hello"); }  
+A. Run time error B. Hello is printed thrice C. Hello is printed twice D. Hello is 
+printed infinitely  
+Answer: Option B Explanation:  
+www.freshersnow.com  
+none 
+36. What is the output of this C code?  
+void main() {  
+double k = 0; 
+for (k = 0.0; k < 3.0; k++);  
+printf("%lf", k); }  
+
+Free Placement Preparation Online Course with Free Mock Test 
+visit: www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+A. 2.000000 B. 4.000000 C. 3.000000 D. Run time error Answer: Option C 
+Explanation: 
+none  
+37. typedef which of the following may create problem in the program? 
+A. ; B. printf/scanf C. Arithmetic operators D. All of the mentioned. Answer: 
+Option D 
+Explanation: 
+None. 
+38. typedef declaration:  
+A. Does not create a new type existing type. C. Both a & b mentioned  
+Answer: Option C  
+B. It merely adds a new name for some D. None of the  
+www.freshersnow.com  
+Explanation: 
+None. 
+39. What is the output of this C code? 
+typedef struct p 
+{ 
+int x, y; 
+}k; 
+int main() 
+{ 
+struct p p = {1, 2}; 
+k k1 = p; 
+printf("%d\n", k1.x); 
+} 
+A. Compile time error 
+Answer: Option B 
+Explanation: 
+None. 
+
+Free Placement Preparation Online Course with Free Mock Test 
+visit: www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+40. The following query belongs to which condition types? 
+SELECT fname 
+FROM person 
+WHERE dept_id= (SELECT dept_id FROM department WHERE names=’s’); 
+A. Equality condition B. Inequality condition C. Range condition D. All of  
+B. 1  
+C. 0  
+D. Depends on the standard  
+www.freshersnow.com  
+the mentioned 
+Answer: Option A 
+Explanation: 
+In the following query column equate to the value returned by subquery.  
+www.freshersnow.com  
+ 
+ 
+www.MyPlacementPrep.com 
+ 
+Free Mock Test and Video 
+Tutorial 
+
+Free Placement Preparation Online Course with Free Mock Test 
+visit: www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Visit www.MyPlacementPrep.com .  
+India’s No1 website Placement and Mock Test series 
+Free Placement Learning Path with Free Video Course. 

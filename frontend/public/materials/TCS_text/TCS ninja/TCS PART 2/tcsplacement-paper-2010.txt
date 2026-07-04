@@ -1,0 +1,100 @@
+
+
+TCS Latest Placement Paper Aug 22nd 2010 at SJB college Of Eng,bangalore 
+Aptitude Test consists of 35 questions and here we have been given Negative 
+Marking of 0.33 per wrong answer. At the selection the bench mark was 22marks. 
+It’s an easy test where more than 25 questions can be cleared easily 
+Coming to questions first search for the numerical data in the questions and just 
+the logic how the questions can be solved 
+ 
+1. Two bowls are taken, one contains water and another contains tea.one spoon of 
+water is added to second bowl and mixed well, and a spoon of mixture is taken 
+from second bowl and added to the second bowl. Which statement will hold good 
+for the above? 
+(Ans: second liquid in first bowl is smaller than the first mixture in second bowl) 
+2. Which is the smallest no divides 2880 and gives a perfect square? 
+a.1 b.2 c.5 d.6 
+Ans: c 
+3. Form 8 digit numbers from by using 1, 2,3,4,5 with repetition is allowed and 
+must be divisible by4? 
+a.31250 b.97656 c.78125 d.97657 
+Ans: c 
+4. One problem on (a3-b3)/(a2+ab+b2) 
+Ans: ‘a-b’ 
+5. Rearrange and categorize the word ‘RAPETEKA’? 
+Ans: bird 
+6. In school there are some bicycles and 4wheeler wagons.one Tuesday there are 
+190 wheels in the campus. How many bicycles are there? 
+Ans: 15 
+7. Key words in question (Fibonacci series, infinite series, in the middle of the 
+question one number series is there....I got the series 3 12 7 26b 15? 
+Ans:54 
+(Logic: 3*2+1=7 12*2+2=26 
+7*2+1=15 26*2+2=54) 
+8. A father has 7 penny’s with him and 1 water melon is for 1p, 2chickoos for 1p, 3 
+grapes foe 1p.he has three sons. How can he share the fruits equally? 
+Ans: 1 watermelon,2chickoos,1grape 
+ 
+9. A lies on mon, tues, wed and speak truths on other days, B lies on thur, fri, sat 
+
+and speaks truths on other days.. one day a said I lied today and B said I too lied 
+today. What is the day? 
+10. Man, Bear, North, South, walks. 
+Ans: White 
+11. (1/2) of a number is 3 times more than the (1/6) of the same number? 
+Ans: 9 
+12. There are two pipes A and B. If A filled 10 liters in hour B can fills 20 liters in 
+same time. Likewise B can fill 10, 20, 40, 80,160....if B filled in (1/16) th of a tank 
+in 3 hours, how much time will it take to fill completely? 
+Ans:7 hours 
+13. KEYWORDS:T.Nagar,Chennai,1-100,prime numbers b/n 140-180,How many 2’s 
+are there? 
+Ans: 20 (Not only 2’s ,1’s,3’s,4’s,5’s,6’s,7’s,8’s,9’s,0’s also 20) 
+14. One question has last part like difference between two terms is 9 and product 
+of two numbers is 14, what is the squares of sum of numbers? 
+Ans:109 
+15. A man is standing before a painting of a man and he says I have no bro and sis 
+and his father is my father’s son? 
+Ans: His son 
+16. What is the value of [(3x+8Y)/(x-2Y)]; if x/2y=2? 
+Ans:10 {the numerical may change) 
+17. A pizza shop made pizzas 
+with to flavours.in home there are ‘N’ different flavors, in that ‘M’ flavors are 
+taken to made pizza.in how many ways they can arrange? 
+(Logic: NcM ) 
+18. One grandfather has three grandchildren, two of their age difference is 3, 
+eldest child age is 3 times youngest child’s age and eldest child’s age is two times 
+of sum of other two children. What is the age of eldest child? 
+Ans:15 
+19. In a market 4 man are standing .the average age of the four before 4years is 
+45,aftyer some days one man is added and his age is 49.what is the 
+average weight of all? 
+Ans: 49 
+20. KEYWORDS: one organization ,material labor and maintenance are in the ratio 
+of 4:6:7,the material cost is:100,what is the total cost? 
+Ans: 425 
+ 
+
+21. KEYWORDS: density, reluctance, sensitivity, voltage ,current, what is the 
+resistance Formula is “R=V/I” 
+22. KEYWORDS: Sports readers,10 tables,4chairs per table, each table has 
+differentnumber of people then how many tables will left without at least one 
+person? 
+Ans : 6 
+23. KEYWORDS: Die, card, coin, b/n 2 to 12 
+Ans: All are equal 
+24. In a school for a student out of a 100 he got 74 of average for 7 subjects and 
+he got 79 marks in 8th subject. what is the average of all the subjects? 
+Ans: 74.625 
+25. In a question ,last part has ,the ages of two people has the ratio of 6:6 and by 
+adding the numbers we get 44,after how many years the ratio would be 8:7? 
+Ans: 8 
+ 
+26. Two years before Paul’s age is 2times the Alice age and the present age of 
+Paul is 6times the Alice. what is the presents Paul’s age???( 3years) “u try to solve 
+this question once” 
+27. One train travels 200m from A to B with 70 km/ph. and returns to A with 
+80kmph, what is the average of their speed? 
+This are the only question which i remember 
+All The Very Best to my dear friends ! 
+ 

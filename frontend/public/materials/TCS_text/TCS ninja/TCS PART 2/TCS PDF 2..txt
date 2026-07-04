@@ -1,0 +1,1029 @@
+
+
+TCS Placement Papers 
+TCS Aptitude Test Placement Papers 
+1. Excluding stoppages, the speed of a bus is 54 km/hr and including stoppages, it is 45 km/hr. For how
+many minutes does the bus stop per hour?
+A. 9
+B. 10
+C. 12
+D. 20
+Answer: Option B 
+Solution: 
+Due to stoppages, it covers 9 km less. 
+Time taken to cover 9 km = 9/54 * 60 = 10 min. 
+2. A jogger running at 9 km/hr along side a railway track is 240 m ahead of the engine of a 120 m long
+train running at 45 km/hr in the same direction. In how much time will the train pass the jogger?
+A. 3.6 sec
+B. 18 sec
+C. 36 sec
+D. 72 sec
+www.allindiajobs.in
+www.allindiajobs.in
+www.allindiajobs.in
+
+ 
+Answer: Option C 
+ 
+Solution: 
+ 
+Speed of train relative to jogger = 45 - 9 = 36 km/hr. 
+= 36 * 5/18 = 10 m/sec. 
+Distance to be covered = 240 + 120 = 360 m. 
+Time taken = 360/10 = 36 sec. 
+ 
+ 
+3. Kim can do a work in 3 days while David can do the same work in 2 days. Both of them finish the work 
+together and get Rs. 150. What is the share of Kim? 
+ 
+A. Rs. 30  
+B. Rs. 60  
+C. Rs. 70  
+D. Rs. 75 
+ 
+Answer: Option B 
+ 
+Solution: 
+ 
+Kim's wages : David's wages = Kim's 1 day work : David's 1 day work = 1/3 : 1/2 = 2:3 
+Kim's share = 2/5 * 150 = Rs. 60 
+ 
+www.allindiajobs.in
+www.allindiajobs.in
+www.allindiajobs.in
+
+ 
+4. A and B start a business, with A investing the total capital of Rs.50000, on the condition that B pays A 
+interest @ 10% per annum on his half of the capital. A is a working partner and receives Rs.1500 per  
+ 
+month from the total profit and any profit remaining is equally shared by both of them. At the end of 
+the year, it was found that the income of A is twice that of B. Find the total profit for the year? 
+ 
+A. 53000  
+B. 58000  
+C. 50000  
+D. 59000 
+ 
+Answer: Option D 
+ 
+Solution: 
+ 
+Interest received by A from B = 10% of half of Rs.50000 = 10% * 25000 = 2500. 
+Amount received by A per annum for being a working partner = 1500 * 12 = Rs.18000. 
+Let 'P' be the part of the remaining profit that A receives as his share. Total income of A = (2500 + 18000 
++ P) 
+Total income of B = only his share from the remaining profit = 'P', as A and B share the remaining profit 
+equally. 
+Income of A = Twice the income of B 
+(2500 + 18000 + P) = 2(P) 
+P = 20500 
+Total profit = 2P + 18000 
+= 2*20500 + 18000 = 59000 
+www.allindiajobs.in
+www.allindiajobs.in
+www.allindiajobs.in
+
+ 
+ 
+5. Salaries of Ravi and Sumit are in the ratio 2:3. If the salary of each is increased by Rs. 4000, the new 
+ratio becomes 40:57. What is Sumit's present salary? 
+ 
+A. Rs. 17,000  
+B. Rs. 20,000  
+C. Rs. 25,500  
+D. None of these 
+ 
+Answer: Option D 
+ 
+Solution: 
+ 
+Let the original salaries of Ravi and Sumit be Rs. 2x and Rs. 3x respectively.  
+Then, (2x + 4000)/(3x + 4000) = 40/57  
+6x = 68000 => 3x = 34000 
+Sumit's present salary = (3x + 4000) = 34000 + 4000 = Rs. 38,000. 
+ 
+ 
+6. A man can row 6 kmph in still water. When the river is running at 1.2 kmph, it takes him 1 hour to row 
+to a place and black. What is the total distance traveled by the man? 
+ 
+A. 6.24 km  
+B. 6 km  
+C. 5.76 km  
+www.allindiajobs.in
+www.allindiajobs.in
+www.allindiajobs.in
+
+D. 5.66 km 
+ 
+Answer: Option C 
+ 
+Solution: 
+ 
+M = 6 
+S = 1.2 
+DS = 7.2 
+US = 4.8 
+x/7.2 + x/4.8 = 1 
+x = 2.88 
+D = 2.88 * 2 = 5.76 
+ 
+ 
+7. At what rate percent per annum will the simple interest on a sum of money be 2/5 of the amount in 
+10 years? 
+ 
+A. 4%  
+B. 5 2/3 %  
+C. 6%  
+D. 6 2/3 % 
+ 
+Answer: Option A 
+ 
+Solution: 
+www.allindiajobs.in
+www.allindiajobs.in
+www.allindiajobs.in
+
+ 
+Let sum = x. Then, S.I. = 2x/5, Time = 10 years. 
+Rate = (100 * 2x) / (x * 5 * 10) = 4% 
+ 
+ 
+8. If the area of a circle is 616 sq cm then its circumference? 
+ 
+A. 78 m  
+B. 88 m  
+C. 75 m  
+D. 70 m 
+ 
+Answer: Option B 
+ 
+Solution: 
+ 
+22/7 r2 = 616 => r = 14 
+2 * 22/7 * 14 = 88 
+ 
+ 
+9. The mean of 50 observations was 36. It was found later that an observation 48 was wrongly taken as 
+23. The corrected new mean is: 
+ 
+A. 35.2  
+B. 36.1  
+C. 36.5  
+www.allindiajobs.in
+www.allindiajobs.in
+www.allindiajobs.in
+
+D. 39.1 
+ 
+Answer: Option C 
+ 
+Solution: 
+ 
+Correct sum = (36 * 50 + 48 - 23) = 1825. 
+Correct mean = 1825/50 = 36.5 
+ 
+ 
+10. The H.C.F and L.C.M of two numbers are 84 and 21 respectively. If the ratio of the two numbers is 
+1:4, then the larger of the two numbers is: 
+ 
+A. 12  
+B. 48  
+C. 84  
+D. 108 
+ 
+Answer: Option C 
+ 
+Solution: 
+ 
+Let the numbers be x and 4x. Then, x * 4x = 84 * 21 x2 = (84 * 21)/4 = x = 21.  
+Hence, larger number = 4x = 84. 
+ 
+ 
+www.allindiajobs.in
+www.allindiajobs.in
+www.allindiajobs.in
+
+11. If the sum and difference of two numbers are 20 and 8 respectively, then the difference of their 
+square is: 
+ 
+A. 12  
+B. 28  
+C. 160  
+D. 180 
+ 
+Answer: Option C 
+ 
+Solution: 
+ 
+Let the numbers be x and y.  
+Then, x + y = 20 and x - y = 8 
+x2 - y2 = (x + y)(x - y) = 20 * 8 = 160. 
+ 
+ 
+12. Pipes A and B can fill a tank in 5 and 6 hours respectively. Pipe C can empty it in 12 hours. If all the 
+three pipes are opened together, then the tank will be filled in? 
+ 
+A. 1 13/17 hours  
+B. 2 8/11 hours  
+C. 3 9/17 hours  
+D. 4 1/2 hours 
+ 
+Answer: Option C 
+www.allindiajobs.in
+www.allindiajobs.in
+www.allindiajobs.in
+
+ 
+Solution: 
+ 
+Net part filled in 1 hour = 1/5 + 1/6 - 1/12 = 17/60 
+The tank will be full in 60/17 hrs, i.e., 3 9/17 hrs. 
+ 
+ 
+13. The compound interest on Rs. 30,000 at 7% per annum is Rs. 4347. The period(in years) is? 
+ 
+A. 2  
+B. 2 1/2  
+C. 3  
+D. 4 
+ 
+Answer: Option A 
+ 
+Solution: 
+ 
+Amount = (30000 + 4347) = Rs. 34347  
+Let the time be n years. Then,  
+30000(1 + 7/100)n = 34347  
+= (107/100)n = 34347/30000 = (107/100)2  
+n = 2 years. 
+ 
+ 
+www.allindiajobs.in
+www.allindiajobs.in
+www.allindiajobs.in
+
+14. A cylinder and a cone have a same height and same radius of the base. The ratio between the 
+volumes of the cylinder and cone is? 
+ 
+A. 1:3  
+B. 3:1  
+C. 1:2  
+D. 2:1 
+ 
+Answer: Option B 
+ 
+Solution: 
+ 
+3:1 
+ 
+ 
+15. Find the one which does not belong to that group ? 
+ 
+A. Baseball  
+B. Boxing  
+C. Chess  
+D. Wrestling  
+ 
+Answer: Option A 
+ 
+Solution: 
+ 
+www.allindiajobs.in
+www.allindiajobs.in
+www.allindiajobs.in
+
+Boxing, Chess, Wrestling and Squash are individual events, while Baseball is a team event. 
+ 
+ 
+16. A fair price shopkeeper takes 10% profit on his goods. He lost 20% goods during theft. His loss 
+percent is: 
+ 
+A. 8  
+B. 10  
+C. 11  
+D. 12 
+ 
+Answer: Option D 
+ 
+Solution: 
+ 
+Suppose he has 100 items. Let C.P. of each item be Re. 1. 
+Total cost = Rs. 100. Number of items left after theft = 80. 
+S.P. of each item = Rs. 1.10 
+Total sale =  1.10 * 80 = Rs. 88 
+Hence, loss % = 12/100 * 100 = 12% 
+ 
+ 
+17. Eighteen years ago, a father was three times as old as his son. Now the father is only twice as old his 
+son. Then the sum of the present ages of the son and the father is: 
+ 
+A. 54  
+www.allindiajobs.in
+www.allindiajobs.in
+www.allindiajobs.in
+
+B. 72  
+C. 105  
+D. 108 
+ 
+Answer: Option D 
+ 
+Solution: 
+ 
+Let the present ages of the father and son be 2x and x years respectively.  
+Then, (2x - 18) = 3(x - 18) => x = 36  
+Required sum = (2x + x) = 108 years. 
+ 
+ 
+18. In an office, totally there are 6400 employees and 65% of the total employees are males. 25% of the 
+males in the office are at-least 50 years old. Find the number of males aged below 50 years? 
+ 
+A. 1040  
+B. 2080  
+C. 3120  
+D. 4160  
+ 
+Answer: Option C 
+ 
+Solution: 
+ 
+Number of male employees = 6400 * 65/100 = 4160 
+www.allindiajobs.in
+www.allindiajobs.in
+www.allindiajobs.in
+
+Required number of male employees who are less than 50 years old = 4160 * (100 - 25)% 
+= 4160 * 75/100 = 3120. 
+ 
+ 
+19. The sum of four consecutive even numbers is 292. What would be the smallest number? 
+ 
+A. 74  
+B. 76  
+C. 70  
+D. 68  
+E. None of these 
+ 
+Answer: Option C 
+ 
+Solution: 
+ 
+Let the four consecutive even numbers be 2(x - 2), 2(x - 1), 2x, 2(x + 1) 
+Their sum = 8x - 4 = 292 => x = 37 
+Smallest number is: 2(x - 2) = 70. 
+ 
+ 
+20. I. a2 - 9a + 20 = 0, 
+II. 2b2 - 5b - 12 = 0 to solve both the equations to find the values of a and b? 
+ 
+A. If a < b  
+www.allindiajobs.in
+www.allindiajobs.in
+www.allindiajobs.in
+
+B. If a = b  
+C. If the relationship between a and b cannot be established  
+D. If a > b  
+E. If a = b 
+ 
+Answer: Option E 
+ 
+Solution: 
+ 
+I. (a - 5)(a - 4) = 0 
+=> a = 5, 4 
+II. (2b + 3)(b - 4) = 0 
+=> b = 4, -3/2 => a = b 
+ 
+ 
+21. 6.4 * 1.25 = (?)3 
+ 
+A. 1  
+B. 4  
+C. 2  
+D. 3  
+E. 5 
+ 
+Answer: Option C 
+ 
+www.allindiajobs.in
+www.allindiajobs.in
+www.allindiajobs.in
+
+Solution: 
+ 
+8 = (?)3  
+=> ?3 = 23 => ? = 2 
+ 
+ 
+22. The dimensions of a room are 25 feet * 15 feet * 12 feet. What is the cost of white washing the four 
+walls of the room at Rs. 5 per square feet if there is one door of dimensions 6 feet * 3 feet and three  
+ 
+windows of dimensions 4 feet * 3 feet each? 
+ 
+A. Rs. 4800  
+B. Rs. 3600  
+C. Rs. 3560  
+D. Rs. 4530  
+E. None of these 
+ 
+Answer: Option D 
+ 
+Solution: 
+ 
+Area of the four walls = 2h(l + b) 
+Since there are doors and windows, area of the walls = 2 * 12 (15 + 25) - (6 * 3) - 3(4 * 3) = 906 sq.ft. 
+Total cost = 906 * 5 = Rs. 4530. 
+ 
+ 
+www.allindiajobs.in
+www.allindiajobs.in
+www.allindiajobs.in
+
+23. Four of the following five are alike in a certain way and so form a group. Which is the one that does 
+not belong to that group? 
+ 
+A. Food: Hunger  
+B. Water: Thirst  
+C. Air: Suffocation  
+D. Talent: Education  
+E. Leg: Lame 
+ 
+Answer: Option D 
+ 
+Solution: 
+-NA- 
+ 
+ 
+24. Four of the following five are alike in a certain way and so form a group. Which is the one that does 
+not belong to that group? 
+ 
+A. 226  
+B. 290  
+C. 360  
+D. 170  
+E. 122 
+ 
+Answer: Option C 
+ 
+www.allindiajobs.in
+www.allindiajobs.in
+www.allindiajobs.in
+
+Solution: 
+ 
+After a close look you will get the exact 360 each number is one more than square of a natural number, 
+i.e.,  
+226 = 152+ 1 ; 290 = 172+ 1 ; 170 = 132+ 1 ; 122 = 112+ 1. 
+ 
+ 
+25. Choose the correct alternative that will continue the same pattern and fill in the blank spaces: 
+19, 2, 38, 3, 114, 4, (....) 
+ 
+A. 228  
+B. 256  
+C. 352  
+D. 456 
+ 
+Answer: Option D 
+ 
+Solution: 
+ 
+The sequence is a combination of two series:  
+I. 19, 38, 114, (....)     II. 2, 3, 4  
+The pattern followed in I is *2, *3, ...  
+Missing number = 114 * 4 = 456. 
+ 
+ 
+www.allindiajobs.in
+www.allindiajobs.in
+www.allindiajobs.in
+
+26. In a certain code language, the word DISTANCE is written as FLUWCQEH. How will the word 
+NUMERALS be written in that code language? 
+ 
+A. PXNHTDNV  
+B. PXOITDNV  
+C. PWOHTDNV  
+D. PXOHTDNV  
+E. None of these 
+ 
+Answer: Option D 
+ 
+Solution: 
+ 
+Odd-positioned letters are coded as the positions forward and even-positioned three positions forward. 
+ 
+ 
+27. Study the following information and answer the questions given below: 
+(i) 'P * Q' means 'Q is mother of Q' 
+(ii) 'P + Q' means 'P is father of Q' 
+(iii) 'P - Q' means 'P is brother of Q' 
+(iv) 'P ÷ Q' means 'Q is sister of P'. 
+ 
+Which of the following means 'M is niece of T' ? 
+ 
+A. M ÷ D + T * R  
+B. T - D + R ÷ M  
+www.allindiajobs.in
+www.allindiajobs.in
+www.allindiajobs.in
+
+C. T * D + R ÷ M  
+D. Cannot be determined  
+E. None of these 
+ 
+Answer: Option B 
+ 
+Solution: 
+ 
+T(+) ---- D(+) 
+               | 
+               R ---- M(-) 
+ 
+ 
+ 
+28. After 4 p.m. on a sunny day when Ramesh was returning from his school, he saw his uncle coming in 
+the opposite direction. His uncle talked to him for some time. Ramesh saw that the shadow of his uncle  
+ 
+was to his right side. Which direction was his uncle facing during their talk? 
+ 
+A. North  
+B. South  
+C. East  
+D. Data inadequate  
+E. None of these 
+ 
+Answer: Option B 
+www.allindiajobs.in
+www.allindiajobs.in
+www.allindiajobs.in
+
+ 
+Solution: 
+ 
+After 4 p.m. the shadow will be towards East. Now, East is to the right of Ramesh. So Ramesh faces 
+North. And his uncle, who is opposite him, faces South. 
+ 
+ 
+29. QLR, JPD, RNU, GNC, SPX, DLB, __ 
+ 
+A. ARE  
+B. AJA  
+C. BTU  
+D. KJE  
+E. TRA 
+ 
+Answer: Option E 
+ 
+Solution: 
+ 
+The alternate groups are in different series. 
+QLR, RNU, SPX are in one series. The pattern for the first letter: 
+Q+1, R+1, S+1, T 
+The pattern for the second letter: 
+L+2, N+2, P+2, R 
+The pattern for the third letter: 
+R+3, U+3, X+3, A 
+www.allindiajobs.in
+www.allindiajobs.in
+www.allindiajobs.in
+
+Hence, the next group in the series is TRA. 
+ 
+ 
+30. 6, 24, 60, 120, 210, __ 
+ 
+A. 432  
+B. 343  
+C. 368  
+D. 322  
+E. 336 
+ 
+Answer: Option E 
+ 
+Solution: 
+ 
+6, 24, 60, 120, 210, __ 
+=>23 - 2, 33 - 3, 43 - 4, 53 - 5, 63 - 6, __ The next number in the series is 
+73 - 7 = 336. 
+ 
+TCS Placement Papers Reasoning Test Placement Papers 
+ 
+1. Choose out the odd one. 
+ 
+A. Dog  
+B. Lion  
+www.allindiajobs.in
+www.allindiajobs.in
+www.allindiajobs.in
+
+C. Jackal  
+D. Tiger 
+ 
+Answer: Option A 
+ 
+Explanation: 
+All except dog are wild animals. 
+ 
+2. Four of the following five are alike in a certain way and so form a group. Which is the one that does 
+not belong to that group? 
+ 
+A. PY8  
+B. EK5  
+C. RV3  
+D. DG2  
+E. JR6 
+ 
+Answer: Option E 
+ 
+Explanation: 
+In all others, the digit indicates the gap between the two letters. 
+ 
+3. Odd man out: 1, 2, 4, 8, 16, 32, 64, 96 
+ 
+A. 4  
+B. 32 
+www.allindiajobs.in
+www.allindiajobs.in
+www.allindiajobs.in
+
+C. 64 
+D. 96 
+ 
+Answer: Option D 
+ 
+Explanation: 
+Each term of the series is obtained by multiplying the preceding term by 2. So, 96 is wrong and must be 
+replaced by (64 * 2) i.e. 128. 
+ 
+4. In a coded language ‘HOSPITAL’ is written as ‘32574618’ in the same language ‘POSTAL’ would be 
+written as 
+ 
+A. 752618  
+B. 725618  
+C. 725168  
+D. 725681 
+ 
+Answer: Option B 
+ 
+5. Pointing to a photograph a lady tell’s Pramod,”I am the only daughter of this lady and her son is your 
+maternal uncle,”How are the speakers related to Pramod's father? 
+ 
+A. Sister-in-law  
+B. Wife  
+C. Either (A) or (B)  
+D. Neither (A) Nor (B) 
+ 
+www.allindiajobs.in
+www.allindiajobs.in
+www.allindiajobs.in
+
+Answer: Option B 
+ 
+Explanation: 
+Clearly the speakers brother is Pramod’s maternal uncle .So the speaker is Pramod’s mother or his 
+father wife. 
+ 
+6. One afternoon, Manisha and Madhuri were talking to each other face to face in Bhopal on M.G. Road. 
+If Manisha's shadow was exactly to the exactly to the left of Madhuri, which direction was Manisha  
+ 
+facing? 
+ 
+A. North  
+B. South  
+C. East  
+D. Data inadequate 
+ 
+Answer: Option A 
+ 
+Explanation: 
+In the afternoon the sun is in the west. Hence, the shadow is in the East. Now, East is to the left of 
+Madhuri. So, Madhuri is facing South. Therfore, Manisha, who is face to face with Madhuri, is facing 
+North. 
+ 
+7. If it is possible to make a meaningful word with the second, the fourth, the seventh and the eight 
+letters of the word CONTROVERSIAL which of the following will be the first letter of the word? If more 
+than  
+ 
+one such word can be made, given 'M' as the answer. If no such word can be made, give 'X' as the 
+answer. 
+www.allindiajobs.in
+www.allindiajobs.in
+www.allindiajobs.in
+
+ 
+A. X  
+B. V  
+C. M  
+D. T 
+ 
+Answer: Option C 
+ 
+Explanation: 
+The respective letters are O, T, V and E.  
+The words that can be formed are VOTE AND VETO. 
+ 
+8. Examine the following statements:  
+ 
+1. Lady finger is tastier than cabbage  
+ 
+2. Cauliflower is tastier than lady's finger  
+ 
+3. Cabbage is not tastier than peas  
+ 
+The conclusion that can be drawn from these statements is that 
+ 
+A. Peas are as tasty as lady finger  
+B. Peas are as tasty as cauliflower and lady finger  
+C. Cabbage is the least tasty of the four vegetables  
+www.allindiajobs.in
+www.allindiajobs.in
+www.allindiajobs.in
+
+D. Cauliflower is tastier than cabbage 
+ 
+ 
+Answer: Option C 
+ 
+Explanation: 
+According to the given information in the question  
+ 
+Lady Finger > Cabbage Cauliflower> Lady Finger Cabbage<= Peas  
+ 
+From equations (i) and (ii) Cauliflower> Lady's Finger> Cabbage  
+ 
+Thus, Cabbage is the least tasty of the four vegetables. 
+ 
+9. If the digits in the number "298490721" are arranged in descending order, then how many digits 
+remain in same place? 
+ 
+A. 2  
+B. 4  
+C. 6  
+D. 5 
+ 
+Answer: Option B 
+ 
+10. 1. Andhra Pradesh 2. Universe 3. Tirupathi 4. World 5. India 
+ 
+www.allindiajobs.in
+www.allindiajobs.in
+www.allindiajobs.in
+
+A. 1,5,3,2,4  
+B. 2,1,3,5,4  
+C. 3,1,5,4,2  
+D. 5,4,2,1,3 
+ 
+Answer: Option C 
+ 
+11. All except one of the following are important strategies that a manager can use to create a more 
+effective decision-making environment, Which one is not? 
+ 
+A. Encourage others to make Decisions  
+B. Be ready to try new things  
+C. Relying solely upon himself/herself  
+D. Recognize the importance of quality information 
+ 
+Answer: Option C 
+ 
+Explanation: 
+To get effective decision-making environment, Manager should encourage others to make decisions as 
+well as should recognize the importance of quality information. The manager is also expected to try new  
+ 
+things to improvise the outcome of a decision. So manager should encourage for the participative/ 
+Democratic process of decision making rather relying solely up on himself/herself. 
+ 
+12.  Assertion: 
+The problem solving ability, mental performance and memory of the employees of company C are 
+deteriorating. 
+www.allindiajobs.in
+www.allindiajobs.in
+www.allindiajobs.in
+
+RI. Due to tight schedule at company C, the employees of the company are skipping their breakfast 
+regularly. 
+RII. The job is physical in nature, but not mental. 
+ 
+A. Only RI and not RII is the reason for the assertion.  
+B. only RII and not RI is the reason for the assertion.  
+C. either RI or RII, but not both, is the reason for the assertion.  
+D. neither RI nor RII is the reason for the assertion. 
+ 
+Answer: Option D 
+ 
+Explanation: 
+Here in the assertion, we are only talking about the weakness of the employees. RI is giving the reason 
+for skipping breakfast, so it is not the reason. RII is also not a valid reason, as lack of mental exercise may  
+ 
+not lead to deterioration. 
+ 
+13. While travelling in a train, you notice a man from the coach behind yours fall of the train. You would: 
+ 
+A. pull the alarm chain so that the train may stop and the man may be helped.  
+B. shout at the falling man asking him to get quickly and entrain.  
+C. jump off the train to assist the falling man.  
+D. wait till the train stops at the next station and inform the railway authorities there. 
+ 
+Answer: Option A 
+ 
+Explanation: 
+www.allindiajobs.in
+www.allindiajobs.in
+www.allindiajobs.in
+
+pull the alarm chain so that the train may stop and the man may be helped. 
+ 
+ 
+14. A lotus flower always has 
+ 
+A. Petals  
+B. Mud  
+C. Root  
+D. Water 
+ 
+Answer: Option A 
+ 
+15. Given Set : (223, 324, 425) 
+ 
+A. (225, 326, 437)  
+B. (4511, 552, 626)  
+C. (554, 655, 756)  
+D. (623, 723, 823) 
+ 
+Answer: Option C 
+ 
+Explanation: 
+In each set 2nd number = (1st number +101)  
+ 
+And 3rd number = (1st number +101) 
+www.allindiajobs.in
+www.allindiajobs.in
+www.allindiajobs.in
+
+ 
+ 
+TCS Placement Papers Verbal Ability Test Model Papers 
+ 
+1.  It is ------ absurd story 
+ 
+A. an  
+B. a  
+C. the  
+D. no article 
+ 
+Answer: Option B 
+ 
+2. Despair 
+ 
+A. desperate  
+B. despairing  
+C. despairingly  
+D. none of these 
+ 
+Answer: Option A 
+ 
+3. She is not interested in ----- sweets. 
+ 
+A. eat  
+www.allindiajobs.in
+www.allindiajobs.in
+www.allindiajobs.in
+
+B. eaten  
+C. eating  
+D. to be eating 
+ 
+Answer: Option C 
+ 
+4. He ----- well when he was at school. 
+ 
+A. rote  
+B. wrote  
+C. rout  
+D. route 
+ 
+Answer: Option B 
+ 
+5. The class / is having / forty students / on the rolls. 
+ 
+A. the class  
+B. is having  
+C. forty students  
+D. on the rolls 
+ 
+Answer: Option B 
+ 
+6. She is rich but arrogant. 
+www.allindiajobs.in
+www.allindiajobs.in
+www.allindiajobs.in
+
+ 
+A. simple  
+B. negative  
+C. compound  
+D. complex 
+ 
+Answer: Option C 
+ 
+7. Belief 
+ 
+A. beliefs  
+B. believes  
+C. belives  
+D. beliefings 
+ 
+Answer: Option A 
+ 
+8. Competition 
+ 
+A. compete  
+B. complete  
+C. competent 
+D. competence 
+ 
+Answer: Option A 
+www.allindiajobs.in
+www.allindiajobs.in
+www.allindiajobs.in
+
+ 
+9. Select the odd one out 
+ 
+A. Kitchenware  
+B. Chair  
+C. Sofa  
+D. Table 
+ 
+Answer: Option A 
+ 
+10. University 
+ 
+A. pre  
+B. under  
+C. over  
+D. sub 
+ 
+Answer: Option A 
+ 
+11. Don’t point ----- my mistakes. 
+ 
+A. in  
+B. at  
+C. out  
+D. for 
+www.allindiajobs.in
+www.allindiajobs.in
+www.allindiajobs.in
+
+ 
+Answer: Option C 
+ 
+12. My sister speaks English very well 
+ 
+A. SOA  
+B. SVO  
+C. SV  
+D. SVOA 
+ 
+Answer: Option D 
+ 
+13. Exist 
+ 
+A. ing  
+B. ance  
+C. on  
+D. ice 
+ 
+Answer: Option B 
+ 
+14. I never drink coke. 
+ 
+A. did I?  
+B. will I?  
+www.allindiajobs.in
+www.allindiajobs.in
+www.allindiajobs.in
+
+C. do I?  
+D. don't I? 
+ 
+Answer: Option C 
+ 
+15. Are you playing tennis? 
+ 
+A. simple present  
+B. simple past  
+C. present continuous  
+D. past continuous 
+ 
+Answer: Option C 
+ 
+ 
+ 
+ 
+www.allindiajobs.in
+www.allindiajobs.in
+www.allindiajobs.in

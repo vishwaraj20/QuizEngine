@@ -1,0 +1,180 @@
+
+
+Visit www.downloadmela.com for more papers
+2005-2008 Placement
+Papers
+2010 Placement Papers2011 Placement Papers2009 Placement Papers
+Hi,
+ 
+I am Prem Prakash, i am persuing my B.E (2007-11) in ECE discipline from  TIT 
+BHOPAL.The test pattern is:
+1.apptitude test only 35 questions 80 minutes.(15/01/2011)
+2.technical round(16/01/2011)
+3.HR(06/01/2011)
+I am going to share some apptitude, tr and hr questions
+1.  Out of 7 children the youngest is boy then find the probability that all the remaining 
+children are boys
+a) 1/64 b) 1/32 c) 1/128 d) 1/256
+ans:probability=(1/2)^6=1/64
+2.
+ On planet korba, a solar blast has melted the ice caps on its equator. 9 years after the 
+ice melts, tiny planetoids called echina start growing on the rocks. Echina grows in the 
+form of circle, and the relationship between the diameter of this circle and the age of 
+echina is given by the formula d = 4*√ (t-9) for t ≥ 9 where d represents the diameter 
+in mm and t the number of years since the solar blast.Jagan recorded the radius of some 
+echina at a particular spot as 7mm. How many years back did the solar blast occur?
+a) 17 b) 21.25 c) 12.25 d) 14.05
+Ans:put d=7 in given equation and square both side and then find the value of t.
+ 
+3.Ferrari S.P.A is an Italian sports car manufacturer based in Maranello, Italy. Founded 
+by Enzo Ferrari in 1928 as Scuderia Ferrari, the company sponsored drivers and 
+manufactured race cars before moving into production of street-legal vehicles in 1947 as 
+Ferrari S.P.A. Throughout its history, the company has been noted for its continued 
+participation in racing, especially in Formula One where it has employed great success 
+.Rohit once bought a Ferrari. It could go 4 times as fast as Mohan's old Mercedes. If the 
+speed of Mohan's Mercedes is 35 km/hr and the distance traveled by the Ferrari is 490 
+km, find the total time taken for Rohit to drive that distance.
+a) 20.72 b) 3.5 c) 238.25 d) 6.18
+ 
+ans:Ferrari speed =4*Mercedes speed =4*35=140, t=490/140=3.5
+ 
+4.1/3) of a number is 3 more than the (1/6) of the same number?
+a) 6 b) 7 c) 18 d) 9
+ans:x/3=3+x/6  x/3-x/6=3 x/6=3 x=18
+ 
+5. There are two water tanks A and B, A is much smaller than B. While water fills at the 
+rate of 1 liter every hour in A, it gets filled up like, 10, 20, 40, 80, 160 in tank B. (At the 
+end of first hour, B has 10 liters, second hour it has 20 liters and so on). If tank B is 1/32 
+filled of the 26 hours, what is total duration of hours required to fill it completely?
+a) 26 B) 31 c) 5 d) 27
+ans: 1/32   in 26
+     2/32   in 27
+     4/32   in 28
+     8/32   in 29
+     16/32  in 30
+     32/32  in 31
+ 
+6. lady has fine gloves and hats in her closet- 14 blue, 20 red, and 18 yellow. The lights 
+are out and it is totally dark. In spite of the darkness, she can make out the difference 
+between a hat and a glove. She takes out an item out of the closet only if she is sure 
+that if it is a glove. How many gloves must she take out to make sure she has a pair of 
+each color?
+a) 50 b) 8 c) 40 d) 42
+
+Visit www.downloadmela.com for more papers
+2005-2008 Placement
+Papers
+2010 Placement Papers2011 Placement Papers2009 Placement Papers
+ 
+Solution:
+This is the most repeated question in Tcs so prepare it well. It has no logic but it’s 
+answer comes like this
+Firstly add 2 max values i.e 20+18=38
+Then add 2 to answer i.e. 38+2=40 so this is the answer.
+ 
+7. There is a square. 5 circles are kept on the diagonal of the square such that the two 
+extreme circles touch the two sides of the square.each circle has equal radius.find the 
+ratio of side of hte squae to that of the radius.
+ 
+ans: diagonal=(root 2)*a , a= side of the square.
+The additon of diameters of all the circles is equal to (root2)*a
+2*7*r=(root2)*a
+ 
+But the two extreme circles wiil not touch at the corners so we have to find those 
+distances.
+x=distanse at on corner=r*((root2)-1) 
+but toal distance=2*x due to 2nd corner
+ 
+hence tatladistance=2*x+2*7*r
+  or 2*x+2*7*r=(root2)*a
+now you can find the ratio easily.
+I think that this is oneof  the most conceptual question in the paper.
+ 
+8. A Sheet of paper has statements number from 1 to 20. Statement n says "At least n 
+of the statements on this sheet are true". Which statements are true and which are 
+false.
+ 
+a. The even no statements are true and the odd no statements are false.
+b. The 1st 13 statements are false and rest are true.
+c. The 1st 6 statements are true and rest are false
+d. The odd no statements are true and even no. are false.
+ 
+Solution: This type of question was repeated 3 times but for different case.
+For this type of Questions, follow this:
+At least- Ist half are true, Last half are false
+Exactly- Last second one is true or (N-1)th Statement is true
+Almost- All are true.
+So correct answer is (C)
+9.
+n the planet Oz, there are 8 days in a week- Sunday to Saturday and another day called 
+Oz day. There are 36 hours in a day and each hour has 90 min while each minute has 60 
+sec. As on earth, the hour hand covers the dial twice every day.
+Find the approximate angle between the hands of a clock on Oz when the time is 12:40 
+am.
+ 
+Solution: 89 deg
+36 hours a day mane the clk will be of 18 hours.
+18 hours covrs 360 deg
+Thus 1 hour covrs 20 deg
+12 hours covers 12*20=240 deg
+ekhon,1 hour in 90 min
+thus in 90min the hour hand goes 20deg
+tai, for 1min hr hand goes 2/9deg
+sei jonne, for 40 min hour hnd goes (2/9)*40deg=80/9deg=9deg(approx)
+
+Visit www.downloadmela.com for more papers
+2005-2008 Placement
+Papers
+2010 Placement Papers2011 Placement Papers2009 Placement Papers
+thus hr hand covrs total of 240+9=249deg
+now min hand covrs=40*4=160deg
+(karon, 90min=360deg
+1min=4deg)
+hus angle betwn them 249-160=89deg
+10.Alok and Bhanu play the following min-max game. Given the expression N = 15 + 
+X*(Y â€“ Z) Where X, Y and Z are variables representing single digits (0 to 9), Alok 
+would like to maximize N while Bhanu would like to minimize it. Towards this end, Alok 
+chooses a single digit number and Bhanu substitutes this for a variable of her choice (X, 
+Y or Z). Alok then chooses the next value and Bhanu, the variable to substitute the 
+value. Finally Alok proposes the value for the remaining variable. Assuming both play to 
+their optimal strategies, the value of N at the end of the game would be?
+ 
+Note: For this type of questions:
+x+y-z=11
+x-y-z=2
+x*(y+z)=18
+What should be the approach to do such type of prob?
+ 
+Solution: This question was repeated 3 times for different cases
+Yeah TCS has this 3 type of questions where there is
+x+y-z,=11
+x-y-z ==2
+and x*(y+z)=18
+  TR QUESTIONS:
+mam: what is ur name.
+me: i am prem prakash.donot say my self 
+mam:Explain ur project in detail.
+me: i told.be prepared with ur project in detail.
+mam: what is transistor.expalin cb , ce and cc as an amplifier.
+me: i told. i had given the favourite subjects as edc and data comm. be prepared with 
+two subjects or more. 
+mam:explain full wave rectifier.
+me: i explained.
+mam: what is emi(electro magnetic induction).
+me : i told.
+mam: write a program for leap and non leap year.
+me: i told.plz be prepared with c.programs like factorial,swaping,prime no.,fibonacci 
+series etc are imp.
+mam: do yuo want to ask any question?
+me :plz ask questions .
+i asked: mam right from now i have 4-5 months then how will i utilize this time so that it 
+becomes benificial for me as well as for ur organisation.
+HR:
+again another mam:
+mam:what is ur name?
+me : told
+mam:again about project but not in detail.
+mam:about my training.
+mam :my family background.
+mam:Would you be willing to relocate if required?
+mam: lastly, do yuo want to ask any question?

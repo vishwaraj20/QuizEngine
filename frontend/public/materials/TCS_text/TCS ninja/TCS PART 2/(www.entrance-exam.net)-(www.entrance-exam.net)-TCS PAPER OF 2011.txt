@@ -1,0 +1,370 @@
+
+
+ 
+ 
+ 
+Latest TCS Fresher Job Interview Paper Pattern : 24th-January-2011  
+ 
+Company Name : TCS 
+Type : Fresher 
+Job Interview, Question Paper  
+Dear Friend's, I am belong to Gaya and I will attend the TCS recruitment Process at Gaya. 
+ 
+1. (1/3) of a number is 3 more than the (1/6) of the same number? 
+a) 6 
+b)16 
+c)18  
+d)21 
+Ans: 18 
+ 
+2. There are two water tanks A and B, A is much smaller than B. While water fills at the rate 
+of 1 liter every hour in A, it gets filled up like, 10, 20, 40, 80, 160 in tank B. (At the end of 
+first hour, B has 10 liters, second hour it has 20 liters and so on). If tank B is 1/4 filled of the 
+10 hours, what is total duration of hours required to fill it completely? 
+a) 12 
+b) 25  
+c) 05 
+d) 27 
+Ans: 12 
+ 
+3. Samita was making a cube with dimensions 5*5*5 using 1*1*1 cubes. What is the number 
+of cubes needed to make a hollow cube looking of the same shape? If we are painting only 2 
+face of each cube then how many faces will remain unpaint??? 
+a) 98 
+b) 104 
+c) 538 
+d) 650 
+Ans: 538 
+Sol: (5*5*5-3*3*3)=125-27=98*no of faces=98*6=588-(no of sides painted)=588-50=538 
+ 
+4. Middle- earth is a fictional land inhabited by hobbits, elves, dwarves and men. The hobbits 
+and elves are peaceful creatures that prefer slow, silent lives and appreciate nature and art. 
+The dwarves and the men engage in physical games. The game is as follows. A tournament is 
+one where out of the two teams that play a match, the one that loses get eliminated. The 
+matches are played in different rounds, where in every round; half of the teams get eliminated 
+from the tournament. If there are 8 rounds played in knock out tournament, how many 
+matches were played? 
+a) 257 
+b) 256 
+c) 72  
+
+d) 255 
+Ans: 255 
+Sol: 2^n-1=2^8-1=255 
+ 
+5. Mr. bean having magical balls 25 pink, 10 green, 31 red, 31 yellow, 30 purple. He 
+drenched in rain red, green, and yellow turn into white what is the maximum probability of a 
+pair of same color ? 
+Ans : 31+31+ 2(worst case probability)= 64 
+ 
+6. There is 22 friends (A1, A2, A3....A22).If A1 have to have shake with all without repeat. 
+How many handshakes possible? 
+a) 6 
+b) 21 
+c) 28 
+d) 7 
+Ans: 21 since cycle will not form. 
+ 
+7. we are having 54 men doing hand shake in set what will be minimum required hand shakes 
+for minimum 1 hand shake? 
+Ans : {1,2,3,4,5,6,.....54} 
+Set= { 2,5,8,...........53} 
+So1 set will be ans 18 
+ 
+8. On planet korba, a solar blast has melted the ice caps on its equator. 9 years after the ice 
+melts, tiny planetoids called echina start growing on the rocks. Echina grows in the form of 
+circle, and the relationship between the diameter of this circle and the age of echina is given 
+by the formula d = 4*v (t-9) for t = 9 where d represents the diameter in mm and t the number 
+of years since the solar blast. Jagan recorded the radius of some echina at a particular spot as 
+7mm. How many years back did the solar blast occur? 
+a) 17  
+b) 21.25 
+c) 12.25 
+d) 14.05 
+ 
+9. Ferrari S.P.A is an Italian sports car manufacturer based in Maranello, Italy. Founded by 
+Enzo Ferrari in 1928 as Scuderia Ferrari, the company sponsored drivers and manufactured 
+race cars before moving into production of street-legal vehicles in 1947 as Ferrari S.P.A. 
+Throughout its history, the company has been noted for its continued participation in racing, 
+especially in Formula One where it has employed great success .Rohit once bought a Ferrari. 
+It could go 4 times as fast as Mohan's old Mercedes. If the speed of Mohan's Mercedes is 35 
+km/hr and the distance traveled by the Ferrari is 490 km, find the total time taken for Rohit to 
+drive that distance. 
+a) 20.72  
+b) 3.5  
+c) 238.25 
+d) 6.18 
+ 
+10. A sheet of paper has statements numbered from 1 to 70. For all values of n from 1 to 70. 
+Statement n says ' At least n of the statements on this sheet are false. ‘Which statements are 
+true and which are false? 
+
+a) The even numbered statements are true and the odd numbered are false. 
+b) The odd numbered statements are true and the even numbered are false. 
+c) The first 35 statements are true and the last 35 are false. 
+d) The first 35 statements are false and the last 35 are false. 
+Sol: when 
+Rule 1: exact ( n-1)th will be true and other will be false 
+Rule2: At least (first half will be true) 
+Rule 3: At most (all true) 
+Example : exactly 40 statement 39th will be true other than it false 
+ 
+11. If there are 254 barrels out of them one is poisoned if a person tastes very little he will die 
+within 14 hours so if there are mice to test and 24 hours to test, how many mices are required 
+to find the poisoned can? 
+a) 3  
+b) 2 
+c) 6 
+d) 8 
+Ans : 2^n > no of barrels 
+Then n=will be required mice N=8 
+ 
+12. Consider two tumblers, the first containing Water and next contains coffee. Suppose you 
+take one spoon of water out of the first tumbler and pour it into the second tumbler. After 
+moving you take one spoon of the mixture from the second tumbler and pour it back into the 
+first tumbler . Which one of the following statement holds now? 
+a) There is less coffee in the first tumbler than water in the second tumblers 
+b) There is more coffee in the firs tumbler than water in the second tumbler 
+c) There is as much coffee in the first tumbler as there is water in the second tumbler 
+d) None of the statements holds true 
+Ans: both will be equal 
+ 
+13. Given a collection of points P in the plane, a 1-set is a point in P that can be separated 
+from the rest by a line, that is the point lies on one side of the line while the others lie on the 
+other side. The number of 1-sets of P is denoted by n1(P). The minimum value of n1(P) over 
+all configurations P of 5 points in the plane in general position (that is no three points in P lie 
+on a line) is 
+a)3  
+b)5 
+c) 2 
+d)1 
+Ans: 5 same as given no of points 
+ 
+14. The citizens of planet nigiet are 8 fingered and have thus developed their decimal system 
+in base 8. A certain street in nigiet contains 1000 (in base 8) buildings numbered 1 to 1000. 
+How many 3s are used in numbering these buildings? 
+a) 54 
+b) 64 
+c) 265  
+d) 192 
+Ans: 192 
+Some times base value is change like: 9finger, 1 to 100(base 9) 
+
+For 1..100 = 2x 
+For 1....1000 = 3*x^2 
+ 
+15. Given 3 lines in the plane such that the points of intersection form a triangle with sides of 
+length 20, 20 and 30, the number of points equidistant from all the 3 lines is 
+a)1 
+b)3 
+c)4  
+d)0 
+Ans: 4 
+ 
+16. Hare in the other. The hare starts after the tortoise has covered 1/3 of its distance and that 
+too leisurely. A hare and a tortoise have a race along a circle of 100 yards diameter. The 
+tortoise goes in one direction and the. The hare and tortoise meet when the hare has covered 
+only 1/8 of the distance. By what factor should the hare increase its speed so as to tie the 
+race? 
+a) 30.33 
+b)8  
+c) 40  
+d) 5 
+Ans: 30.33 
+Sol: 1/3, 1/8 
+3*8=24 
+(24-3)=21 
+(21-8)=13 
+(21*13)/3^2  
+ 
+17. Here 10 programmers, type 10 lines with in 10 minutes then 60lines can type within 60 
+minutes. How many programmers are needed? 
+a) 16 
+b) 6 
+c) 10 
+d) 60 
+Solution: (men*time)/work) 
+Ans: 10 
+This type of Q's repeated 4times for me but values are different. 
+ 
+18. Alok and Bhanu play the following min-max game. Given the expression N = 9 + X + Y - 
+Z Where X, Y and Z are variables representing single digits (0 to 9) Alok would like to 
+maximize N while Bhanu would like to minimize it. Towards this end, Alok chooses a single 
+digit number and Bhanu substitutes this for a variable of her choice (X, Y or Z). Alok then 
+chooses the next value and Bhanu, the variable to substitute the value. Finally Alok proposes 
+the value for the remaining variable. Assuming both play to their optimal strategies, the value 
+of N at the end of the game would be. 
+a) 0  
+b) 27 
+c) 18 
+d) 20 
+The Q's concept is same but the equation of N's is changing. 
+ 
+
+19. Alice and Bob play the following coins-on-a-stack game. 20 coins are stacked one above 
+the other. One of them is a special (gold) coin and the rest are ordinary coins. The goal is to 
+bring the gold coin to the top by repeatedly moving the topmost coin to another position in 
+the stack.Alice starts and the players take turns. A turn consists of moving the coin on the top 
+to a position i below the top coin (0 = i = 20). We will call this an i-move (thus a 0-move 
+implies doing nothing). The proviso is that an i-move cannot be repeated; for example once a 
+player makes a 2-move, on subsequent turns neither player can make a 2-move. If the gold 
+coin happens to be on top when it's a player's turn then the player wins the game. Initially, the 
+gold coins the third coin from the top. Then 
+a) In order to win, Alice's first move should be a 1-move. 
+b) In order to win, Alice's first move should be a 0-move. 
+c) In order to win, Alice's first move can be a 0-move or a 1-move. 
+d) Alice has no winning strategy. 
+Ans: d 
+ 
+20. For the FIFA world cup, Paul the octopus has been predicting the winner of each match 
+with amazing success. It is rumored that in a match between 2 teams A and B, Paul picks A 
+with the same probability as A's chances of winning. Let's assume such rumors to be true and 
+that in a match between Ghana and Bolivia, Ghana the stronger team has a probability of 2/3 
+of winning the game. What is the probability that Paul will correctly pick the winner of the 
+Ghana-Bolivia game? 
+a)1/9  
+b)4/9 
+c)5/9  
+d)2/3 
+Ans: 5/9 
+ 
+Q21. 36 people {a1, a2, ..., a36} meet and shake hands in a circular fashion. In other words, 
+there are totally 36 handshakes involving the pairs, {a1, a2}, {a2, a3}, ..., {a35, a36}, {a36, 
+a1}. Then size of the smallest set of people such that the rest have shaken hands with at least 
+one person in the set is 
+a)12  
+b)11 
+c)13  
+d)18 
+Ans: 12 
+ 
+22. After the typist writes 12 letters and addresses 12 envelopes, she inserts the letters 
+randomly into the envelopes (1 letter per envelope). What is the probability that exactly 1 
+letter is inserted in an improper envelope? 
+a)1/12  
+b)0  
+c)12/212  
+d)11/12 
+Ans: b 
+ 
+23. A sheet of paper has statements numbered from 1 to 40. For each value of n from 1 to 40, 
+statement n says "At least and of the statements on this sheet are true." Which statements are 
+true and which are false? 
+a) The even numbered statements are true and the odd numbered are false. 
+
+b) The first 26 statements are false and the rest are true. 
+c) The first 13 statements are true and the rest are false. 
+d) The odd numbered statements are true and the even numbered are false. 
+Ans: c 
+ 
+24. There are two boxes, one containing 10 red balls and the other containing 10 green balls. 
+You are allowed to move the balls between the boxes so that when you choose a box at 
+random and a ball at random from the chosen box, the probability of getting a red ball is 
+maximized. This maximum probability is 
+a)1/2  
+b)14/19  
+c)37/38  
+d)3/4  
+Ans: 14/19 
+ 
+25. A circular dartboard of radius 1 foot is at a distance of 20 feet from you. You throw a dart 
+at it and it hits the dartboard at some point Q in the circle. What is the probability that Q is 
+closer to the center of the circle than the periphery? 
+a) 0.75 
+b) 1  
+c) 0.5  
+d) 0.25 
+Ans: d 
+ 
+26. On planet zorba, a solar blast has melted the ice caps on its equator. 8 years after the ice 
+melts, tiny plantoids called echina start growing on the rocks. echina grows in the form of a 
+circle and the relationship between the diameter of this circle and the age of echina is given 
+by the formula d = 4 * sqrt (t – 8)for t = 8 Where the represents the diameter in mm and t the 
+number of years since the solar blast. Jagan recorded the time of some echina at a particular 
+spot is 24 years then what is diameter? 
+a) 8  
+b) 16  
+c) 25  
+d) 21 
+Ans: 16 
+ 
+27. A sheet of paper has statements numbered from 1 to 40. For all values of n from 1 to 40, 
+statement n says: 'Exactly n of the statements on this sheet are false.' Which statements are 
+true and which are false? 
+a) The even numbered statements are true and the odd numbered statements are false.  
+b) The odd numbered statements are true and the even numbered statements are false.  
+c) All the statements are false.  
+d) The 39th statement is true and the rest are false. 
+Ans: d 
+ 
+28. Alok and Bhanu play the following coins in a circle game. 99 coins are arranged in a 
+circle with each coin touching two other coin. Two of the coins are special and the rest are 
+ordinary. Alok starts and the players take turns removing an ordinary coin of their choice 
+from the circle and bringing the other coins closer until they again form a (smaller) circle. 
+The goal is to bring the special coins adjacent to each other and the first player to do so wins 
+
+the game. Initially the special coins are separated by two ordinary coins O1 and O2. Which of 
+the following is true? 
+a) In order to win, Alok should remove O1 on his first turn. 
+b) In order to win, Alok should remove one of the coins different from O1 and O2 on his first 
+turn. 
+c) In order to win, Alok should remove O2 on his first turn. 
+d) Alok has no winning strategy. 
+Ans: a if the gold coin in 3rd position then mark it otherwise leave it 
+ 
+29. Two pipes A and B fill at A certain rate B is filled at 10, 20, 40, 80. If 1/4 of B if filled in 
+21 hours what time it will take to get completely filled 
+Ans: 23 
+ 
+30. One day Alice meets pal and byte in fairyland. She knows that pal lies on Mondays, 
+Tuesdays and Wednesdays and tells the truth on the other days of the week byte, on the other 
+hand, lies on Thursdays, Fridays and Saturdays, but tells the truth on the other days of the 
+week. Now they make the following statements to Alice – pal. Yesterday was one of those 
+days when I lie byte. Yesterday was one of those days when I lie too. What day is it? 
+a) Thursday b) Tuesday c) Monday d) Sunday 
+Ans: a 
+. 
+31. Sudha Patel +> perfume factory 
+Ans : 2 more cedar 
+ 
+32. A toy train can make 10 sounds sound changes after every 4 minute now train is defective 
+and can make only 2 sounds find probability that same sound is repeated 4 times 
+consecutively (1 OUT OF__)? 
+a 16 
+b 8 
+c 12 
+d 4 
+Ans: 
+(1/2)*(1/2)*(1/2)*(1/2)+ (1/2)*(1/2)*(1/2)*(1/2)=(1/8) 
+thus 1 out of 8 ans 
+33. In there is a planet Oz in which there is 36 hrs in a day & 90 minutes in a hrs and 60 
+seconds in 1 minute it is having same pattern as our watch. Then what will be angle between 
+hour hand and minute hand at 9:40? 
+a) 29 
+b) 12  
+c) 67  
+d) 98 
+Ans :29  
+ 
+34. In a country x we are having diff types of coins ranging from 64...512. All coins having 
+different integral value the difference between two coins comes out to be 50% more than the 
+former coin. Then how many coins can be made? 
+Ans : 6 coins 
+Sol.64 
+64*1.5=96 
+96*1.5=144 
+
+144*1.5=216 
+216*1.5=324 
+324*1.5=486 
+Then total coin will be 6 
+ 
+35. There is a relation is given which is n/P=195 Where n- no of steps in meters P- pace 
+length These Is a man shivam he know his pace length =185cm then what will be the speed 
+of shivam kmph? 
+Ans=195*1.85*1.85*60/1000=40.04kmph 
+ 
+Exam/Interview Date : 24-Jan-2011 
+No of Rounds : Aptitude Test 
+Contributor Name : Shivam Gupta 
+ 

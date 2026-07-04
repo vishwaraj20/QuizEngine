@@ -108,7 +108,7 @@ Here is my raw data to parse:
 [PASTE YOUR RAW DATA HERE]`;
 
 const MAIN_CATEGORIES = ['Competitive Exams', 'College Placement', 'Other'];
-const COMPETITIVE_EXAMS = ['UPSC', 'MPSC', 'GATE', 'SSC', 'Railways', 'Banking', 'Defence'];
+const COMPETITIVE_EXAMS = ['UPSC', 'MPSC', 'GATE', 'SSC'];
 const PLACEMENT_COMPANIES = ['TCS', 'Infosys', 'Wipro', 'Accenture', 'Cognizant', 'Capgemini', 'IBM', 'Tech Mahindra', 'HCLTech', 'Deloitte', 'KPMG', 'EY', 'PwC', 'Amazon', 'Microsoft', 'Google', 'Goldman Sachs', 'JP Morgan', 'Oracle', 'Cisco', 'LTIMindtree', 'Hexaware'];
 const PLACEMENT_TOPICS = ['Quantitative Aptitude', 'Logical Reasoning', 'Verbal Ability'];
 const OTHER_CATEGORIES = ['General', 'Custom'];

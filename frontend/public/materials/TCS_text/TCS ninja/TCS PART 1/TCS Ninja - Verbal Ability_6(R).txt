@@ -1,0 +1,360 @@
+
+
+TEST CODE	: TCS Ninja - Verbal Ability_6(R)
+
+Total number of question	: 10
+
+Test duration (min)	: 10 min
+
+Correct attempt (mark)	: 1
+
+Wrong attempt (mark)	: -0.33
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+VERBAL ABILITY
+
+
+
+Question 1
+
+In the following sentences, there may be some errors in the parts which are marked as A, B, C, D. Identify the part which has errors.
+
+1. I do not wish to make a formal (A)/ complaint, but I would have been better pleased (B)/if you gave the (C)/award to the person who best deserved it.(D)/
+
+a. A		b. B		c. C		d. D
+
+
+
+Answer: C
+
+
+
+Explanation: 
+
+Change gave to had given because the verb in the previous clause is in the past conditional tense.
+
+
+
+Question 2
+
+Choose the most appropriate sentence which can replace the ‘Underlined’ phrase.
+
+2. He refused to co-operate with me, and thus threw a spanner on my plan.
+
+a. executed			b. left me alone with
+
+c. sabotaged			d. restructured
+
+
+
+Answer: C
+
+
+
+Explanation: 
+
+ ’To throw a spanner on something’ is to spoil it from succeeding. 
+
+
+
+Question 3
+
+Directions for questions: Choose the most logical fit for each blank.
+
+3. Shilpa Shetty was cleared of all allegations; she was free of all charges ______against her.
+
+a. accused			b. alleged
+
+c. levelled			d. vindicated
+
+
+
+Answer: C
+
+
+
+Explanation: 
+
+The word in the blank is an adjective for ‘charges’.
+
+Option "accused":
+
+Accused – To charge (someone) with an offence
+
+‘Accused’ is always followed by who is being accused.
+
+E.g. sentence: He accused me of stealing his notebook.
+
+‘Accused’ is always followed by the preposition ‘of’. In the given sentence, the word immediately following the blank is NOT ‘of’. Hence option a is eliminated.
+
+Option "alleged":
+
+Alleged – Claim without proof
+
+E.g. sentence: One of the Delhi gang-rapists alleged that he was innocent of the crime.
+
+‘Alleged’ is not an adjective, but a verb. Thus it cannot be chosen as the answer.
+
+Option "vindicated": 
+
+Vindicated – To clear of blame/suspicion
+
+E.g. sentence: He felt vindicated after all the charges were dropped.
+
+‘Vindicated’ is used to describe people and NOT ‘charges’.
+
+Option "levelled":
+
+Levelled (v.) – Directed
+
+This meaning fits perfectly when describing ‘charges’. This is thus the answer. 
+
+
+
+Question 4 
+
+Choose the most logical order of sentences among the given choices to construct a coherent paragraph.
+
+4. A. There are more than 20 major languages and several hundred minor ones and it is the home of several major religions.
+
+B. There are several million indigenous peoples living in different parts of the country.
+
+C. In spite of all these diversities we share a common land mass.
+
+D. India is a land of continental proportions and immense diversities.
+
+a. DABC	           b. DCBA              c. CABD	       d. BACD
+
+
+
+Answer: A
+
+
+
+Explanation: 
+
+It is very clear that only D can be the beginning sentence and C the ending sentence. The correct sequence is "DABC".
+
+
+
+Questions 5 to 10
+
+Read the passage given below and choose the best option for the blanks.
+
+
+
+
+
+5.Which of the following best fits blank 23?
+
+a. achieved			b. drawn
+
+c. acquired			d. obtained
+
+
+
+Answer: B
+
+
+
+Explanation: 
+
+ • Certain usages in English are always set pairs. One such example is ‘drawing conclusions’. 
+
+• We think in terms of images. Dan Brown, the famous author of ‘The Da Vinci Code’ once talked about his childhood in an interview. When he grew up, Brown never had a TV at home. He looked back at having grown up without a TV, with great happiness. He said, “When you watch a lot of TV, you stop thinking because television paints the picture for you. But when you read books, you paint your own pictures.”
+
+• For example, when you read a biography of Adolph Hitler, you form an opinion (conclusion) about him. The conclusion/opinion you form is the image you paint/draw in your mind. Thus the process of reading and understanding a piece of work is similar to looking at a picture and understanding it. Hence the usage of ‘drawing  conclusions’.
+
+• Moreover, there is the usage of ‘drawing (withdrawing) money from an ATM’ or ‘drawing water from a well’. This usage of ‘drawing conclusions’ is of the same kind.
+
+
+
+6. Which of the following best fits blank 24?
+
+a. clear	       b. distinct	    c. resolved	   d. defined
+
+
+
+Answer: A
+
+
+
+Explanation: 
+
+“The research makes the reason ____: management behaviour is often the root of the problem.”
+
+Observations made from the aforementioned sentence:
+
+1. The blank must be filled with an ‘adjective’. This adjective qualifies the noun ‘reason’.
+
+2. The part which follows the colon is where the reason has been elaborated.
+
+ELIMINATION OF ‘DEFINED’:
+
+• ‘Defined’, by itself, is NOT an adjective. It is merely a verb. If one has to use ‘defined’ as an adjective, one has to add words like ‘clearly’/’well’.
+
+ E.g.: Clearly defined/well-defined
+
+Hence, since ‘defined’ is NOT an adjective by itself, it is eliminated.
+
+ELIMINATION OF ‘RESOLVED’:
+
+• Resolve = Find a solution to
+
+‘Resolve’ is used only with problems and issues, because only problems/issues can have solutions found for. It is illogical to talk about finding a solution for a ‘reason’.
+
+E.g.: The problem of frequent theft in the building was resolved by hiring a security guy.
+
+ELIMINATION OF ‘DISTINCT’:
+
+• Distinct = Different/Unique
+
+‘Distinct’ would not be a grammatically wrong fit for the blank, if we are trying to refer to the ‘reason’ as being ‘distinct’.
+
+“The research makes the reason distinct:.....”
+
+• However, if ‘distinct’ is used in the blank, the part which follows the colon should talk about what makes the reason distinct. That is not the case here.
+
+The part which follows the colon merely states WHAT THE REASON is, not what makes the reason distinct. Hence ‘distinct’ is eliminated.
+
+CASE FOR ‘CLEAR’:
+
+• “The research makes the reason clear:….”
+
+The follow up question is ‘So what is the reason?’ – “Management behaviour is often the root of the problem.”
+
+
+
+7. Which of the following best fits blank 25
+
+a. foundation	b. ground	c. base		d. root
+
+
+
+Answer: D
+
+
+
+Explanation: 
+
+• All the answer options seem to be similar, for all the options refer to a starting point.
+
+• The accepted and popular way of looking at a problem is like looking at a tree. Just like how a tree grows when uncut; a problem grows and becomes bigger when unchecked. The cause (starting point) of problem is usually referred to as the ‘root’ of the problem. 
+
+Popular usages: 
+
+1. “Money is the root of all evil” is a famous proverb.
+
+2. ‘Root cause analysis’ is a common technical term used to refer to the process of finding the cause of any engineering problem.
+
+
+
+8. Which of the following best fits blank 26?
+
+a. notified			b. expressed
+
+c. informed			d. addressed
+
+
+
+Answer: B
+
+
+
+Explanation: 
+
+ Keyword: “View”
+
+ELIMINATION OF ‘NOTIFIED’ AND ‘INFORMED’:• ‘Notified’ and ‘informed’ are synonyms. Both words are used usually only when referring to a piece of information, not when used with views/opinions.
+
+E.g. 1: The staff members were informed of the delay in the meeting.
+
+E.g. 2: The staff members were notified of the delay in the meeting.
+
+ELIMINATION OF ‘ADDRESSED’:
+
+• ‘Addressed’ can have two meanings: ‘Talk to (a gathering)’ and ‘deal with (an issue)’. 
+
+E.g. 1: The Prime Minister addressed the people of India on the eve of Independence Day.
+
+E.g. 2: The Prime Minister addressed the issue of terrorism during his Independence Day speech.
+
+It is again not applicable to be used with views/opinions.
+
+• A view is a personal opinion put forward by someone. Hence it is only logical to say that views are ‘expressed’.
+
+
+
+9. Which of the following best fits blank 27?
+
+a. caught       b. occupied         c. held	    d. contained
+
+
+
+Answer: B
+
+
+
+Explanation: 
+
+ “...day to day issues ____ all their time.”
+
+Keyword: Time
+
+• ‘Contained’ and ‘caught’ are words which are never used with ‘time’. ‘Contained’ in particular is more often used with specific quantified objects. Hence they are eliminated.
+
+• ‘Held’ when used as ‘held up’ would mean ‘delay’, a context relevant to ‘time’.
+
+E.g.: I was held up in traffic and was thus late to the meeting.
+
+However, due to the absence of the word ‘up’ following the blank, ‘held’ cannot be used here.
+
+• ‘Occupied’ would be the best fit, for it means ‘filling up (time or space)’.
+
+
+
+10. Which of the following best fits blank 28?
+
+a. significance			b. meaning
+
+c. definition			d. sense
+
+
+
+Answer: A
+
+
+
+Explanation: 
+
+ Keyword: Minor
+
+• Let X be the answer. X, in the sentence, is attributed to as minor X. This means that X is an item which has got several degrees/levels: Major level and minor level.
+
+• ‘Meaning’, ‘definition’ and ‘sense’ are all items which will never go together with ‘minor’, because it is illogical to talk about several degrees/levels of all of them.
+
+I.e. There is no major/minor meaning, no major/minor definition and no major/minor sense. All three items are very singular, in the sense that they are either present or absent. 
+
+E.g.: Meaning and lack of meaning, sense and lack of sense, definition and lack of definition.
+
+• ‘Significance’ means importance. There can be levels of significance, i.e. major and minor importance. Thus ‘significance’ is the best fitting answer.
+
+
+

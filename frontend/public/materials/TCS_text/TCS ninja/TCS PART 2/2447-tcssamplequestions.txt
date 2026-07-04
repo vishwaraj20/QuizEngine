@@ -1,0 +1,1 @@
+Cannot extract text from .doc file format automatically.

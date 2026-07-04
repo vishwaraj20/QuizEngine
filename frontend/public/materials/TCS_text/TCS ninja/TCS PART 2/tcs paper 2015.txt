@@ -1,0 +1,308 @@
+
+
+ 
+ 
+ 
+ 
+  
+Naradha.in 
+ 
+ 
+Tcs Latest question Papers 
+with Explination 
+ 
+  
+ 
+
+ 
+Tcs Latest question Papers with Explination 
+ 
+ 
+1. The figure shown can be folded into the shape of a cube.  In the resulting cube, which 
+of the lettered faces is opposite the face marked x? 
+ 
+ 
+a. c 
+b. a 
+c. d 
+d. b 
+Ans: C 
+Explanation: If you fold the above picture at the dotted lines, X and C are opposite to 
+each other. 
+ 
+ 
+ 
+2. In how many ways a team of 11 must be selected from 5  men and 11 women such 
+that the team must comprise of not more than 3 men? 
+a. 1565 
+b. 1243 
+c. 2256 
+d. 2456 
+Ans: C 
+Explanation; 
+The team may consist of 0 men + 11 women, 1 men + 10 women, 2 men + 9 women, or 
+3 men + 8 women. 
+So Number of ways are = 11C11+5C1×11C10+5C2×11C9+5C3×11C8 = 2256 
+ 
+3. Given that 0 < a < b < c < d, which of the following the largest ? 
+a.(c+d) / (a+b) 
+b.(a+d) / (b+c) 
+c.(b+c) / (a+d) 
+d.(b+d) / (a+c) 
+Sol: A 
+Explanation: Take a = 1, b = 2, c = 3, d = 4. option A is clearly true. 
+ 
+4. Eesha bought 18 sharpeners for Rs.100.  She paid 1 rupee more for each white 
+sharpener than for each brown sharpener.  What is the price of a white sharpener and 
+how many white sharpener did she buy ? 
+a. Rs.5, 10 
+
+ 
+Tcs Latest question Papers with Explination 
+ 
+ 
+b. Rs.6, 10 
+c. Rs.5, 8 
+d. Rs.6, 8 
+Sol: B 
+Explanation: Just check the options. If she bought 10 white sharpeners at Rs.6 per 
+piece, She has spent Rs.60 already. And with the remaining Rs.40, she bought 8 brown 
+sharpeners at 40/8 = Rs.5 which is Rs.1 less than White sharpener. 
+ 
+5. 
+ 
+ 
+The fourteen digits of a credit card are to be written in the boxes shown above.  If the 
+sum of every three consecutive digits is 18, then the value of x is : 
+a. 3 
+b. cannot be determined from the given information. 
+c. 2 
+d. 1 
+Sol : A 
+Explanation: 
+Let us assume right most two squares are a , b 
+Then Sum of all the squares = 18 x 4 + a + b .......... (1) 
+Also Sum of the squares before 7 = 18 
+Sum of the squares between 7, x = 18 
+and sum of the squares between x , 8 = 18 
+So  Sum of the 14 squares = 18 + 7 + 18 + x + 18  + 8 + a + b (2) 
+Equating 1 and 2 we get x = 3 
+ 
+6. Four people each roll a four die once.  Find the probability that at least two people will 
+roll the same number ? 
+a. 5/18 
+b. 13/18 
+c. None of the given choices 
+d. 1295/1296 
+Sol: B 
+Explanation: 
+The number of ways of rolling a dice where no two numbers probability that no one rolls 
+the same number = 6 x 5 x 4 x 3 
+Now total possibilities of rolling a dice = 64 
+The probability that a no one gets the same number = 6×5×4×364=518 
+So the probability that at least two people gets same number = 1−518=1318 
+
+ 
+Tcs Latest question Papers with Explination 
+ 
+ 
+ 
+7. Jake can dig a well in 16 days.  Paul can dig the same well in 24 days.  Jake, Paul 
+and Hari together dig the well in 8 days.  Hari alone can dig the well in 
+a. 96 days 
+b. 48 days 
+c. 32 days 
+d. 24 days 
+Sol: 
+Explanation: Simple one. Let the total work to be done is 48 meters. Now Jake can dig 3 
+mts, Paul can dig 2 mts a day. Now all of them combined dug in 8 days so per day they 
+dug 48/8 = 6 mts. So Of these 8 mts, Hari capacity is 1 mt. 
+So he takes 48 /1 = 48 days to complete the digging job. 
+ 
+Updated :  
+ 
+8. Eesha bought 18 sharpeners for Rs.100.  She paid 1 rupee more for each white 
+sharpener than for each brown sharpener.  What is the price of a white sharpener and 
+how many white sharpener did she buy ? 
+a. Rs.5, 10 
+b. Rs.6, 10 
+c. Rs.5, 8 
+d. Rs.6, 8 
+Ans: 
+Explanation: This question can be solved easily by going through options.  
+A. White sharpener total cost: Rs.5 x 10 = Rs.50.  Brown sharpeners cost = Rs.4 x 8 = 
+32. Total cost is only Rs.82. Wrong option. 
+B. White sharpener total cost: Rs.6 x 10 = Rs.60.  Brown sharpeners cost = Rs.5 x 8 = 
+40. Total cost is Rs.100. Correct option. 
+ 
+9. The sum of the digits of a three digit number is 17, and the sum of the squares of its 
+digits is 109.  If we subtract 495 from the number, we shall get a number consisting of 
+the same digits written in the reverse order.  Find the number. 
+a. 773 
+b. 683 
+c. 944 
+d. 863 
+Ans: D 
+Explanation: Check options.  Sum of the squares should be equal to 109. Only Options 
+B and D satisfying. When we subtract 495, only 863 becomes 368. 
+
+ 
+Tcs Latest question Papers with Explination 
+ 
+ 
+ 
+10. Mark told John "If you give me half your money I will have Rs.75.  John said, "if you 
+give me one third of your money, I will have Rs.75/-  How much money did John have ? 
+a. 45 
+b. 60 
+c. 48 
+d. 37.5 
+Ans: B 
+Explanation: Let the money with Mark and John are M and J respectively. 
+Now 
+M + J/2 = 75 
+M/3 + J = 75 
+Solving we get M = 45, and J = 60. 
+ 
+11. Eesha has a wheat business.  She purchases wheat from a local wholesaler of a 
+particular cost per pound.  The price of the wheat of her stores is $3 per kg.  Her faulty 
+spring balance reads 0.9 kg for a KG.  Also in the festival season, she gives a 10% 
+discount on the wheat.  She found that she made neither a profit nor a loss in the 
+festival season.  At what price did Eesha purchase the wheat from the wholesaler ? 
+a. 3 
+b. 2.5 
+c. 2.43 
+d. 2.7 
+Ans: C 
+Explanation: Faulty spring balance reads 0.9 kg for a kg" means that she sells 1 kg for 
+the price of 0.9 kgs, so she looses 10% of the price because of the faulty spring 
+balance.  She looses another 10% because of the discount. 
+So, she actually sells 1 kg for $3×0.9×0.9=$2.43 and since at that price she made neither 
+a profit nor a loss, then Eesha purchase the wheat from the wholesaler for $2.43. 
+ 
+12. Raj goes to market to buy oranges.  If he can bargain and reduce the price per 
+orange by Rs.2, he can buy 30 oranges instead of 20 oranges with the money he has. 
+ How much money does he have ? 
+a. Rs.100 
+b. Rs.50 
+c. Rs.150 
+d. Rs.120 
+Ans: D 
+Explanation: Let the money with Raj is M.  So M20−M30=2.  Check options.  Option D 
+
+ 
+Tcs Latest question Papers with Explination 
+ 
+ 
+satisfies. 
+ 
+13. A city in the US has a basketball league with three basketball teams, the Aziecs, the 
+Braves and the Celtics.  A sports writer notices that the tallest player of the Aziecs is 
+shorter than the shortest player of the Braves.  The shortest of the Celtics is shorter 
+than the shortest of the Aziecs, while the tallest of the Braves is shorter than the tallest 
+of the Celtics.  The tallest of the Braves is taller than the tallest of the Aziecs. 
+Which of the following can be judged with certainty ? 
+ 
+X) Paul, a Brave is taller than David, an Aziec 
+Y) David, a Celtic, is shorter than Edward, an Aziec 
+ 
+a. Both X and Y 
+b. X only 
+c. Y only 
+d. Neither X nor Y 
+Ans: B 
+Sol: We solve this problem by taking numbers. Let the shortest of Braves is 4 feet. 
+ Then tallest of Aziecs is less than 4. So let it be 3 feet. 
+A ->  2 - 3 
+B -> 4 - 6 
+C -> 1 - 7 
+From the above we can safely conclude X is correct. but Y cannot be determined. 
+ 
+14. There are 3 classes having 20, 24 and 30 students respectively having average 
+marks in  
+an examination as 20,25 and 30 respectively.  The three classes are represented by A, 
+B and C and you have the following information about the three classes. 
+a. In class A highest score is 22 and lowest score is 18 
+b. In class B highest score is 31 and lowest score is 23 
+c. In class C highest score is 33 and lowest score is 26. 
+ 
+If five students are transferred from A to B, what can be said about the average score of 
+A; and what will happen to the average score of C in a transfer of 5 students from B to C 
+? 
+a. definite decrease in both cases 
+b. can't be determined in both cases 
+c. Definite increase in both cases 
+d. will remain constant in both cases 
+
+ 
+Tcs Latest question Papers with Explination 
+ 
+ 
+Ans: B 
+Explanation: 
+Class A average is 20. And their range is 18 to 22 
+Class B average is 25. And their range is 23 to 31 
+Class A average is 30. And their range is 26 to 33 
+If 5 students transferred from A to B, A's average cannot be determined but B's average 
+comes down as the highest score of A is less than lowest score of B. 
+If 5 students transferred from B to C, C's average cannot be determined the B's range fo 
+marks and C's range of  marks are overlapping. 
+ 
+15. The value of a scooter depreciates in such a way that its value of the end of each 
+year is 3/4 of its value of the beginning of the same year.  If the initial value of the 
+scooter is Rs.40,000, what is the value at the end of 3 years ? 
+a. Rs.13435 
+b. Rs.23125 
+c. Rs.19000 
+d. Rs.16875 
+Ans: D 
+Explanation: 40,000(34)3=16875 
+ 
+16. Rajiv can do a piece of work in 10 days , Venky in 12 days and Ravi in 15 days. 
+ They all start the work together, but Rajiv leaves after 2 days and Venky leaves 3 days 
+before the work is completed.  In how many days is the work completed ? 
+a. 5 
+b. 6 
+c. 9 
+d. 7 
+Ans: D 
+Explanation: Let the work be 60 units. If venky leave 3 days before the work, Last 3 
+days must be worked by Ravi. So the remaining days of work be x days, total days to 
+complete the work be x + 3 days. 
+Now Capacities of Rajiv is 60/10 = 6, Venky is 5, Ravi is 4. 
+(6 + 5 + 4) 2 + (5 + 4) (x – 3) + 4 x 3 = 60. 
+30 + 9x – 27 + 12 = 60 
+9x – 15 =30 
+9x = 45 
+x = 5 
+So total days to complete the work = 2 + 5 = 7 days. 
+ 
+
+ 
+Tcs Latest question Papers with Explination 
+ 
+ 
+17. A man has a job, which requires him to work 8 straight days and rest on the ninth 
+day.  If he started work on Monday, find the day of the week on which he gets his 12th 
+rest day. 
+a. Thursday 
+b. Wednesday 
+c. Tuesday 
+d. Friday 
+Ans: B 
+Explanation: 
+He works for 8 days and takes rest on the 9th day. So On the 12th rest day, there are 9 
+x 12 = 108 days passed. Number of odd days = (108 - 1) / 7 = 107 / 7 = 2. So the 12th 
+rest day is wednesday. 
+ 
+18. On a 26 question test, five points were deducted for each wrong answer and eight 
+points were added for each correct answer.  If all the questions were answered, how 
+many were correct, if the score was zero ? 
+a. 10 
+b. 12 
+c. 11 
+d. 13 
+Ans: A 
+Explanation: 
+Take options and check. If 10 are correct, his score is 10 x 8 = 80.  But 16 are wrong. 
+So total negative marking is 16 x 5 = 80. So final score is zero. 

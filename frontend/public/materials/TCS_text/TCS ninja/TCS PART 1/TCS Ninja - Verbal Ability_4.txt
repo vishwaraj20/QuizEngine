@@ -1,0 +1,282 @@
+
+
+TEST CODE	: TCS Ninja - Verbal Ability_4
+
+Total number of question	: 10
+
+Test duration (min)	: 10 min
+
+Correct attempt (mark)	: 1 
+
+Wrong attempt (mark)	: Nil
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+VERBAL ABILITY
+
+
+
+Question 1
+
+In the following sentences, there may be some errors in the parts which are marked as A, B, C, D. Identify the part which has errors.
+
+1. The University has announced that (A)/ everyone will take the examination now (B)/ will receive their results within (C)/ eight weeks at the latest. (D)
+
+a. A		b. B		c. C		d. D
+
+
+
+Answer: C
+
+
+
+Explanation: 
+
+ Correction: The University has announced that everyone who takes the examination now will receive their results within eight weeks at the latest.
+
+There needs to be a connection between the subject and the verb which is provided by replacing 'will' by 'who'.
+
+
+
+Questions 2 to 3
+
+Choose the most appropriate sentence which can replace the ‘Underlined’ sentence.
+
+2. It is probable that the prototype cellular motor might be ready for testing around the end of next year.
+
+a. might be ready for testing around the end of next year
+
+b. may be ready for testing about the end of next year
+
+c. might be ready for testing toward next year’s end
+
+d. will be ready for testing toward the end of next year
+
+
+
+Answer: D
+
+
+
+Explanation: 
+
+ As the end of the year is the time being mentioned and as it is in the future the most appropriate word to use will be 'toward'. Thus the answer is 'will be ready for testing toward the end of next year'. 
+
+
+
+3. China’s economy continues to flourish this year: industrial production grew, inflation has eased, and the trade surplus swelled.
+
+a. grew, inflation has eased, and the trade surplus swelled
+
+b. is growing, inflation is easing and the trade surplus is swelling
+
+c. has grown, inflation eased, and the trade surplus has swelled
+
+d. has grown, inflation eased, and the trade surplus is swelling
+
+
+
+Answer: B
+
+
+
+Explanation: 
+
+ As the sentence has to be constructed in continuous tense, the only plausible option is 'is growing, inflation is easing and the trade surplus is swelling'
+
+
+
+Questions 4 to 5
+
+For each sentence, choose the most appropriate option that best completes the given sentence.
+
+4. The refugee's poor grasp of English is hardly an ____ problem; she can attend classes and improve within a matter of months.
+
+a. implausible			b. insuperable
+
+c. inconsequential		d. evocative
+
+
+
+Answer: B
+
+
+
+Explanation: 
+
+ The word has to mean 'impossible to be overcome.' The word for it is 'insuperable'
+
+Implausible: not plausible, unlikely.
+
+Inconsequential: having no consequence. Not consequential.
+
+Evocative: that evokes a memory, mood, feeling or image.
+
+
+
+5. The cricket match seemed ____ to our guests; they were used to watching sports in which the action is over in a couple of hours at the most.
+
+a. unintelligible			b. inconsequential
+
+c. interminable			d. implausible
+
+
+
+Answer: C
+
+
+
+Explanation: 
+
+ The word has to mean too long or ceaseless. 
+
+Interminable means existing without interruption or end. Thus the answer is interminable.
+
+Unintelligible: unable to be understood.
+
+Inconsequential: having no consequence. not consequential.
+
+Implausible: not plausible, unlikely.
+
+
+
+Question 6
+
+Choose the most logical order of sentences among the given choices to construct a coherent paragraph.
+
+6. A. Right to Equality provides for equal access to public places like shops, hotels, places of entertainment, wells, bathing Ghats and places of worship.
+
+B. This right is very important because our society did not practice equal access in the past.
+
+C. There cannot be any discrimination in this access on the basis of caste, creed, colour, sex, religion, or place of birth.
+
+D. It also prohibits any discrimination in public employment on any of the above mentioned basis.
+
+a. ACDB	      b. BCDA         c. DBCA         d. ACBD
+
+
+
+Answer: A
+
+
+
+Explanation: 
+
+ The sentence A is the opening sentence. Sentence C follows sentence A by elaborating on the freedom to access certain places. D follows C by referring to the differences mentioned in C. B concludes the paragraph. Thus the answer is ACDB.
+
+
+
+Question 7
+
+In each of the questions given below from the given options select the word which is farthest in meaning to the word given in the question.
+
+7. Yoke
+
+a. mar	        b. Fell	 c. Pervert	d. split
+
+
+
+Answer: D
+
+
+
+Explanation: 
+
+ The word yoke means to unite or join together. Two oxen are yoked if they are tied together to pull a wagon. The opposite of yoke is separate. Because split means to divide or separate, 'split' is the answer. 
+
+'mar' means to damage. This is not the opposite of yoke. 
+
+'fell' means to chop down. This is not the opposite of yoke. 
+
+'pervert ' means to misuse. This is not the opposite of yoke. 
+
+
+
+
+
+
+
+Question 8
+
+Select the lettered pair that best expresses a relationship similar to that expressed by the original pair.
+
+8. TRIPTYCH: PANEL::
+
+a. triangle : hypotenuse		b. circle : arc
+
+c. cathedral : nave		d. blossom : sepal
+
+
+
+Answer: A
+
+
+
+Explanation: 
+
+ A triptych is a hinged set of pictures or carvings with three panels. The
+
+Hypotenuse is one of three sides of a triangle.
+
+
+
+Question 9
+
+In each of the questions given below from the given options select the word which is closest in meaning to the word given in the question.
+
+9. Egregious
+
+a. Outrageous			b. Minor
+
+c. Secondary			d. Wonderful
+
+
+
+Answer: A
+
+
+
+Explanation: 
+
+ Egregious means outrageously bad or shocking. Thus outrageous is the synonymous word.
+
+
+
+QUESTION 10
+
+Choose the alternative to replace the underlined part.
+
+10. Great entrepreneurs always follow the carrot and stick policy.
+
+a. far-seeking		b. reward and punish
+
+c. profit-oriented	d. adaptable
+
+
+
+Answer: B
+
+
+
+Explanation: 
+
+ "Carrot and Stick" is an idiom that refers to a policy of offering a combination of rewards and punishment to induce behaviour. It is named in reference to a cart driver dangling a carrot in front of a mule and holding a stick behind it. The mule would move towards the carrot because it wants the reward of food, while also moving away from the stick behind it, since it does not want the punishment of pain, thus drawing the cart.
+
+
+

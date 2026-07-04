@@ -1,0 +1,148 @@
+
+
+Visit www.downloadmela.com for more papers
+2005-2008 Placement
+Papers
+2010 Placement Papers2011 Placement Papers2009 Placement Papers
+My College Conducted TCS Campus recruitment process on 13 of Jan 2011. The 
+recruitment procedure consisted of three rounds viz.
+# Written Round.
+# Technical Interview & MR
+# HR
+ 
+1. One man want to build a wall the length and breadth of the wall are 20, 30 
+respectively. He need 35 bricks for one square centimeter then how many bricks he 
+need?
+Ans: l*b*35(no of bricks needed for sqcm)
+ 
+2. One person had three children. He has 7 pennies. Then how he can distribute the 
+fruits among his child by folloing conditions.
+a)he can get one water millon for 1 penny.
+b)he can get 2 oranges for 1 penny.
+c)he can get 3 grapes for 1 penny.
+ 
+Ans: 2 water mellon 1 orange 1 grape
+3. 1/3 rd of a number is more 3 than the 1/6
+th
+ of a number then find the number?
+Ans:18
+ 
+4. In Roorkee many buildings were under residential category.for buildings they number 
+as 1 to 100. For shops, corporation numbered between 150 and 200 only prime 
+numbers. how many time 6 will appear in building numbering?
+ 
+Ans:For 1 to 10 - 1 six
+ 
+2 to 20 - 1 six
+Similarly upto 59 we utilise six, 5 times
+from 60 to 69 (including 66) - 11 times
+from 70 to 100 - 3, hence ans = 5+11+3 = 19
+Ans:19.
+ 
+5. One grand father has 3 grand child. Eldest one age is 3 times of the youngest child 
+age. Sum of two youngest child age is more than two of eldest one age. Find the eldest 
+one age?
+Ans: 15(we can easily predict from options, as we take y as 15)
+6. Difference between two numbers is 4 and their product is 17. Then find the sum of 
+their squers?
+Ans: 70 (By using (x-y)2=x2+y2-2xy)
+7.Dr.Shantram was studying a bear in d north pole. For better results he took a left turn 
+and then went straight and then went 3 km towards south to reach his lab , wat is colour 
+of bear?
+Ans: white.
+8. Which is the smallest digit when divides the 2880 gives perfect square.?
+Ans:5(we can easily predict from options, as we divide them with 2880)
+9. I don’t have any brothers and sisters.by pointing a picture that man said that his 
+father is my fathers. Son then who is he?
+Ans: His son
+10. 6 persons standing in queue with different age group, after two years their average 
+age will be 43 and seventh person joined with them. hence the current average age has 
+become 45. Find the age of seventh person?
+
+Visit www.downloadmela.com for more papers
+2005-2008 Placement
+Papers
+2010 Placement Papers2011 Placement Papers2009 Placement Papers
+Solution (x = 41, 6x = 246)
+Let now we compute y,((6x+y)/7) = 45, as we have value of x, compute y.
+Ans: 69
+ 
+11.The ratio between the ages of two pwrsons is 6:5 and sum of there ages is 77 then 
+how many years later there ratio becomes 8:7?
+Ans: we can easily predict from options
+ 
+12. Horse started to chase dog as it relieved stable two hrs ago. And horse started to ran 
+with average speed 22km/hr, horse crossed 10 mts road and two small pounds with 
+depth 3m, and it crossed two small street with 200 mts length. After traveling 6 hrs, 
+2hrs after sunset it got dog. compute the speed of dog?
+Ans: As we have speed and travel time of horse, we can get distance travelled by it.  
+Hence d = 22*6 = 132km,
+Exactly this 132km was travelled by dog in 8 hours (as it started two hours earlier).
+Hence speed of dog = 132/8 = 16.5km/hr
+Ans:16.5km/hr.
+ 
+13. Six friends go to pizza corner there are 2 types of pizzas. And six different flavors 
+are there they has to select 2 flavors from 6 flavors what’s chanses to select?
+Ans:6C2 
+16. 3, 22 , 7, 45, 15, ? , 31
+Solution: Here it appear simple, because it arranged in arranged in sequence manner, 
+but the actual question was some what twist mentioning fibonacci series and more over 
+question was in statements (no numbers). Hence first try to understand the question 
+well.
+Here let group alternate terms 3,7,15,31 (3+4 =7, 7+8 =15, 15+16=31)
+Similarly for second group (22,45,? (22+23 = 45, 45+46 = 91) hence ans is 91.14. 
+Some irrelavent data.in last two lines problem will be there. One man walks certain 
+distance with 5 kmph and walk back the same  
+Ans: A
+ 
+15. A and B tanks r there.1/8
+th
+ of the tank B is filled in 22Hrs.what is time to fill the tank 
+full?
+Ans: 25
+ 
+16. 5 friends went for week end party to Mc donalds restrurent  and there they measure 
+there weights. Some irrilevent data. Final measure is 155 kg then find the average 
+weight of 5 people?
+Ans: 155/5=31
+ 
+17. 2 pots are there. 1
+st
+ pot is filled with ink and 2
+nd
+ pot is filled with water. Take 1 spoon 
+of ink from 1
+st
+ pot and pore it in 2
+nd
+ pot and take 1 spoon of mixture from 2
+nd
+ pot and 
+pore it in 2
+nd
+ pot then which one of following is true?
+Ans: Water in 1
+st
+ pot  is less than the ink in 2
+nd
+ pot.
+ 
+18.There r ten spots in library and each spot has 4 tables and ten readers ar there . 
+sorry I don’t remember complete question?
+Ans: None
+ 
+19. Lion and tiger are there. Lion lies on Monday, Tues, Wends and Tiger lies on Thurs, 
+Frid, Sat. Lion said that today is one of those days when I lies. Tiger said that today is 
+one of those days when I lie too. Then find today?
+Ans: Thursday
+ 
+
+Visit www.downloadmela.com for more papers
+2005-2008 Placement
+Papers
+2010 Placement Papers2011 Placement Papers2009 Placement Papers
+Dere were 30 Questions in total but since I dint need to take up the test all I could 
+remember r dese questions as told by my friends. Be Calm, B Confident, dats d mantra 
+to clear d TCS Campus
+ 
+All the best. Hope to see u all at TCS.

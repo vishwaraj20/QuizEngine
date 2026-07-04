@@ -1,0 +1,2272 @@
+
+
+COMPANY BASED QUESTION BANK
+COMPANY WISE QUESTION BANK COVERED:
+TCS TOPICS COVERED
+AverageTime and Work      Seating ArrangementPartnership
+Coding and DecodingProbabilityTime and DistanceTrain questions
+Number Series,Missing numbersHeight and distanceLogrithmBoats and streams
+MensurationPipes and cisternsHcf and lcmProfit and loss
+Races and gamesSimple and compound intrestAlgebra
+Surds and indicesVolume and surface areaOdd man out
+Cubes and dicesVenn diagramPercentageProblems on ages
+Permutation and combinationLogical DeductionRatio and proportionClock puzzles
+Allegation and mixtureClocks and CalendarsStatement and arguments
+Statement and assumptionsStatement and conditionsCharacter puzzlesDirection sense test
+TCS QUESTION BANK
+1. A team won 80 % of the games it played. It played 5 more games of which it won 3  and lst 2. Its loss 
+percentage changed to 25%. How many games did it play overall?    a)25   b) 14  c) 16   d)20
+2.3 friends A,B,C went for week end party to McDonald's restaurant and there they measure there weights in 
+some order in 7 rounds. A, B, C, AB, BC, AC, ABC. Final round measure is 155 kg, then find the average 
+weight of all the 7 rounds?        a.88.57b.92.47     c.96.54    d. 95.58
+3. Which of the following number must be added to 5678 to give a remainder of 35 when divided by 460?
+a.980b.618c.797d.955
+4.How many prime numbers are there which are less than 100 and greater than 3 such that they are 
+simultaneously of the following forms. 4x+1, 5y-1.A.11b.12c.7d.None of these
+5. In a certain store, the profit is 320% of the cost. If the cost increases by 25% but the selling price remains 
+constant, approximately what percentage of the selling price is the profit? 
+A. 30%   B. 70%   C. 100%   D. 250%
+6. Totally 3 beakers A,B,C are present. A of capacity X lit, B of capacity 2X lit, C of capacity 3X lit. if A 
+contain 2/3 of wine and rest with water. B contains 1/4 of wine and rest with water. if these two liquids are 
+poured in to the 3rd beaker what is the proportion of wine in the 3rd beaker.
+a.7/18b.5/18c.3/18d.1/18
+7. Raj writes a number. He sees that the number of 2digits exceeds 4times the sum of its digits by 3. If the 
+number is increased by 18, the result is the same as the number formed by reversing its digits. Find the 
+numbera) 35 b)57 c)42 d)49
+8.p,q,r,s are distinct integers numbered from 1 to 12. what is possible smallest value for p/q+ r/s
+A.0.256B.0.356C.0.357D.None
+9.George can do some work in 8 hours. Paul can do some work in 10 houtrs while hari can do the same work 
+in 12 hours. All three of them start working at 9.00 am. While George stops work at 11.00 am and the 
+remaining two complete the work. Approximatly at what time the work be finished?
+A.11.30 amB.12.30 pmC.1 PmD.12 noon
+10.1-2+3-4..........200terms. What is the average?a.0.5b.1c.-.5d.-1
+11. Find the number of zeros in the expression 15×32×25×22×40×75×98×112×125 
+a.14b.12c.9d.7
+12. When numbers are written in base b, we have 12 x 25 =333. The value of b is   
+a. 10b. 8c. 7d. 6
+13.If P(x) = ax4+bx3+cx2+dx+e has roots at x = 1, 2, 3, 4 and P(0) = 48, what is P(5)  
+a.45b.48c.50d.52
+14.1!+2!+3!...+50! divided by 5!a)11b)22c)33d)44
+15. A farmer has a rose garden. Every day he either plucks 7 or 6 or 24 or 23 roses. The rose plants are 
+intelligent and when the farmer plucks these numbers of roses, the next day 37 or 36 or 9 or 18 new roses 
+bloom in the garden respectively. On Monday, he counts 189 roses in the garden. He plucks the roses as per 
+
+his plan on consecutive days and the new roses bloom as per intelligence of the plants mentioned above. 
+After some days which of the following can be the number of roses in the garden?
+(a) 4b) 7(c) 30(d) 37
+16.The addition of 641+852+973=2456 is incorrect. What is the largest digit that can be changed to make the 
+addition correct?a)5 b)6 c)4 d)7
+17. g and m can paint 720 box in 20 days,m and h in 24 days and h andg in 15 days.g works for 4 days,m for 
+8 days,h for 8 days.find total no of boxes painted by them?a. 348b.358c.359d.360
+18.x takes 4 days to complete one third of a job, y takes 3 days to complete one sixth of the
+Same job and z takes 5 days to complete half of the job.If all of them work together for 3 days and x and z 
+quit, how long will it take for y to complete the remaining work done?a)6  b)7  c)8.1  d)5.1
+19.  An organization has 3 committees.  Only two persons are the members of all three committees, but every 
+pair of committees has three members in common. What is the least possible number of members on any one 
+committee.A.4B.3C.5C.2
+20.* sum of the digits in the product (16^100)*(125^135)a)25  b)36  c)11 d)69
+21.Mr. lord want to fence his square shaped land of 120 sqft. each side. if a pole is needed every 12 feet how 
+many poles do he need?A.40B.45C.52D.56
+22.There are 5sweets- jamun, kulfi, peda, laddu and jalebi that I wish to eat on 5consequtive days “ Monday 
+through Friday, one sweet at a day, based on the following self imposed constraints:
+A)laddu is not eaten on MondayB)if jamun is eaten on Monday, then laddu must be eaten on Friday
+c)if laddu is eaten on Tuesday, kulfi must be eaten on Monday   D)if peda is eaten the day following the day 
+of eating jalebi
+Based on the above, peda can be eaten on any day except?a. Monday  b.Tuesdayc.Wednesdayd.Friday
+23. A drinks machine offers three solutions Tea, Coffee or Random but the machine has been wired up 
+wrongly so that each button does not give what it claims. If each drink costs Rs.50, what is the minimum 
+amount of money that must be spent to determine with certainity the correct labeling of the buttons?
+a)Rs. 100   b)Can not be determined  c)Rs 150d)Rs 50
+24. In a g6 summit being held in London a French, a german, an Italian, a british, a Spanish and a polish 
+diplomat represent their respective countries and participate in a round table conference to strengthen the co 
+operation between these countries. There are exactly 6chairs evenly spaced around a circular table. The 
+chairs are numbered 1 through 6, with successively numbered chairs next to each other and chair number 1 
+next to chair no6. Each chair is occupied by one of the diplomats. The following conditions apply. â€¢ Polish 
+sits immediately next to british
+German sits immediately next to ItalianFrench doesn’t sit immediately next to Italian
+If Spanish sits immediately next to polish, Spanish doesn’t sit next to Italian
+Which of the following seating arrangement of the 6 diplomats in chair 1-6 would not violate the given 
+conditions?
+A)French, polish, British, Italian, Spanish, GermanB) French, German, Italian, polish, British, Spanish
+C) French, German, Italian, Spanish, polish, BritishD) French, Spanish, polish, British, German, Italian
+25. A lady has fine gloves and hats in her closet- 18 blue 32 red and 25 yellow. The lights are out and it is 
+totally dark, inspite of darkness. She can make out the difference between a hat and a glove. She takes out an 
+item out of the closet only if she is sure that if it is a glove. How many gloves must she take out to make sure 
+she has a pair of each colour?
+a)32b)25c)59d)65
+26.1,7,8,49,50,56,57,343,344,350,351,392,393,399,400 .The above sequence contains sum of distinct power 
+of 7 in increasing order(7^0,7^1,7^1+7^0,7^2 etc.) What is value of term number 38?  a.16863b.16893   
+c.17893  d.19796
+27. 1,2,4,8,16,32,.a.64b.124C.68d.None
+28.If a man walks at rate of 5 kmph, he misses a train by 7 minutes. However, if he walks at rate of 6 
+kmph,he reaches the station 5 minutes before the arrival of train. Find the distance covered by him to reach 
+the station. a.6   b.7   c.8d.9
+29. Among a group of 2500 people, 35 percent invest in municipal bonds, 18 percent invest in oil stocks, and 
+7 percent invest in both municipal bonds and oil stocks. If 1 person is to be randomly selected from 2500 
+
+people, what is the probability that the person selected will be one who invests in municipal bonds but not in 
+oil stocks.
+a.7/25b.3/25c.9/25d.5/25
+30. The letters in the word ADEORV are permuted in all possible ways and arranged in alphabetical order 
+then find the word at position 45th in the permuted alphabetical order?  a.AEVODRb.ADVORE
+C.AEDVORd.AEORDV
+31.Raj divided 50 into 2 parts such that the sum of their reciprocals is 1/12. What are the numbers?
+A.36, 14B.28, 22C.20, 30D. None of these
+32.How many distinct 9 digit numbers can be formed from the number 223355888 by re-arranging its digits 
+so that the odd digits occupy even positions?A.120B.90C.60D.30
+33. When the sum of four consecutive odd numbers is divided by 10, the number obtained is a perfect square. 
+Which one of the following is not one of the four consecutive odd numbers?  A.39B.41C.43
+D.47
+34.Ashok,Eesha ,Farook and Gowri ran a race.Ashok said, “I did not finish 1
+ST
+ or 4
+th
+. Eesha said,”I did not 
+finish 4
+th
+. Farook said, “I finished 1
+st
+.Gowri said,”I finished 4
+th
+. There were no lies in the competition, and 
+exactly three of the children told truth. Who finished 4
+th
+?A. AshokB. GowriC. Eesha
+D. Farook
+35. The two sides of a triangle are 32 and 68. The area is 960 sq.cm. Find the third side  A.60B.62
+C.59D.63
+36.A and B completed a work together in 5 days. Had A worked at twice the speed and B at half the speed, it 
+would have taken them 4 days to complete the job. How much time would it take for A alone to do the work?
+A.15 daysB.10 daysC.25 daysD.20 days
+37. Find the odd man out 7, 9, 17, 47, 91, and 172.A.17       B.47       C.9    D.91
+38. A village milkman carried out adulteration of milk with water to make higher profits. He has 2 cans, one 
+with water another with pure milk, He pours water from can No.1 into can no.2  sufficient ot double its 
+contains. He again pours from No.2 into No.1 ugh of the mixture to double the contains. He again pours from 
+No.1 into No.2 to double the contains of No.2 and find the same number of litres of milk in each can, 
+although there is one more liter of water in No.2 than there is a milk. How much more water than milk is 
+there in can No.1?A.1B.2C.3D.4
+39. *This is a credit card number. The sum of 3 consecutive terms is 18, Find X
+7X8
+A.2B.1C.3D.4
+40. Two equilateral triangles 12cm sides overlap to form a star. The star is circumscribed by a circle. Find the 
+area of the circle lying outside the star? A.48(-3)B. 483C. 48(-D.Cannot say
+41. One man travels 10 km upstream in 5 hrs. Another man travels downstream 10 km in 3 hrs. if the speed 
+of the stream is 0.5 km/hr, what is the difference between the speed of men?  A.5/4B.7/3
+C.4/3D.2/3
+42.The average temperature of Tuesday, Wednesday and Thursday was 37°C. The average temperature of 
+Wednesday, Thursday and Friday was 38°C. If the temperature on Friday was 39°C. Find the temperature on 
+Tuesday.
+A.38.33B. 37.33C. 36D. None of these
+43. What is the largest number which can be added to 5678 such that the remainder is 35 if we divide it by 
+460?
+A.648B.717C.672D.797     e)none of these
+44. The weight and the cost of a 2*2*2 cup are 1.5 kg and Rs.10000.what is the cost of 3*3*3 cup?
+A.30000B.33450C.33750D. Cannot say
+45. If f[x]= ax^4+bx^2+x+5. f[-3]=2, find f[3].  A.12B.8C.10D.14
+46.Rajesh calculated his average over the last 24 tests and found it to be 76. He finds out that the marks for 
+three tests have been inverted by mistake. The correct marks for these tests are 87, 79 and 98. What is the 
+approximate percentage difference between his actual average and his incorrect average?A.2%B. 
+2.5%C. 2.30%D. None of these
+
+47. Find the last digit of 8+88+888+....... Up to 24 terms.A.682B.672C.666D.632
+48. *The numbers 6,12,21,22,27,34 are placed in the boxes a,b,c,d,e,f shown below in a certain order such 
+that the sum of the entries in each of the extreme rows and each of the extreme columns (i.e. top row,bottom 
+row,left most column, right most column) are the same number K. What is the value of K?
+9AB14
+CD
+23EF25
+A.71 B.66C.61D.69
+49.A rectangular field is 300 feet wide and 400 feet long.Random sampling indicates that ther are,on the 
+average,three ants per square inch throughout the field. [12 inches=1 foot] Of the following, the number most 
+closely approximates the number of ants in the field isA.50 millionB.500 millionC. 5 miilionD. 
+5000
+50.George can do some work in 8 hours. Paul can do some work in 10 houtrs while hari can do the same 
+work in 12 hours. All three of them start working at 9.00 am. While George stops work at 11.00 am and the 
+remaining two complete the work. Approximatly at what time the work be finished?A.11.30 am
+B.12.30 pmC.1 PmD.12 noon
+51.The average of three numbers is 42. if we add one morenumber then the average becomes 40 and if we 
+replace the first number by anumber which is 3 more than the recently added number the new average 
+becomes38. Find the First number.A.45 B.42 C.37 D.38
+52.The area of a triangle and circle are equal.If theradius of the circle is 6 cm and height of the triangle is 7 
+cm then the lengthof the base of the triangle is:  32.32 cm   28.12 cm19.19 cm27.27 cm
+53.A typist A takes twice as much time as another one B or thrice as much time as the typist C to type 150 
+pages. If they work together,they can type 150 papers in 2 hours then C can type 150 papers alone in : 
+A.4hours  B.6h  C.8hD.2h
+54. If 53p26p3 is a 7 digit number divisible by 9 and if757qp is divisible by 8 then the minimum value of p + 
+q is:
+A.4B.8C.12D.16
+55. In a college during the start of the 1 year course, thenumber of boys and girls are in the ratio   5 : 4. After 
+few months some of the studentsleft the college in the ratio 3 : 2. At the end of the year the number of 
+boysand girls who have completed the course is 6 and 16 respectively.Find theinitial number of girls in the 
+class   A.50B.60C.58D.72
+56. If 2/5 th of a number exceeds 3/10 of another number by  twice of 17 and 190 is the sum of that two 
+numbers then the biggest of them is:A.120B.130C.165D.132
+57.Dipin's score is 15% more than that of Rafi. Rafi'sscore is 10% less than that of Chandar. If the difference 
+between the scores ofDipin and Chandar is 14, what is the score of Rafi?A.180B.360C.120D.480
+58. Anushka has a jewel chest containing Rings, Pins and Ear-rings. The chest contains 26 pieces. Anushka 
+has 2 1/2 times as many ringsas pins, and the number of pairs of ear rings is 4 less than the number ofrings. 
+How many earrings does Anushka have?A.12B.8C.6D.10
+59.A certain shade of orange color is obtained by mixing 1 part of white color with 2 parts of red color. If 3.6 
+kgs of the mixture is needed and the white and red colors can be purchased only in 1 kg, what is the least 
+amount of color, in kg's, that must be purchased for the mixture?A.5kgB.4kgC.6kgD.4.5kg
+60.Let N = 80pq2pq(7digit number). If N is exactly divisible by 120 then the sum of the digits inN is equal 
+to:
+A.18B.22C.24D.12
+61.A farmer has a rose garden. Every day he either plucks 7or6or24or 23 roses. The rose plant are intelligent 
+and when the farmer plucks these no. of roses, the next day 37 or 36 or 9 or 18 new roses bloom up in the 
+garden respectively. On Monday he counts 189 roses, he plucks the roses as per his plan on consequtive days 
+and new roses bloom up as per the intelligence of the plants mentioned above. After some days which of the 
+following can be the number of roses in the garden?a.4b.7c.15d.18
+62.The sum of three digit number is subtracted from the number. The resulting number is always
+A.divisible by 6B.not divisible by 6C.divisible by 9D.not divisible by 9
+
+63. *Chocolates Rs.164.90 it is used to sell chocolates for Rs.2 each but there were no sales at that price. 
+When it is reduced the price, all chocolates sold out.Enabling the shop keeper to realize Rs. 164.90 from the 
+chocolates alone. If the new price was not less than half the original price. How many chocolates were sold?  
+A.39B.37C.97D.71
+64. Remainder of (16937^30)/31A.1B.2C.3D.6
+65. A workman starts his work on Monday. Work for 8 days and takes every 9 
+th
+ day as his holiday. His 12 
+th
+ 
+holiday will fall on:A. MondayB. WednesdayC.FridayD.Sunday
+66. From a box containing 3 white chips, 7 blue chips &15 green chips, 2 chips are drawn at random. What is 
+the probability that one is of the chips is blue & the other white?a.7/625b.7/50c.7/100d.21/625
+67.HCF of 2472, 1284& 3
+rd
+ number N is 12.if LCM of these three no’s is 2^3*3^2*5^1*103*107,then N?
+a.22*32*51b.22*32*71c.22*32*103d.none
+68. Frame a 4 digit plate which has 2 alphabets and 2 numbers. In how many ways can we frame the same?
+A.448680B.53240C.496800D.None of these
+69. There is a ladder of 100m from the wall and height of the wall is 60m. Find the maximum length (in m) 
+of the cube that can be inscribed inside the triangle.A. 34B. 40C. 30D. 48
+70. Cara, a Blue whale participated in a weight loss program at the biggest office. At the end of every month, 
+the decrese in weight from original weight was measured and noted as 1,2,6,21,86,445,2676. While Cara 
+made a steadfast effort , the weighting machine shoed an erroneous weight once. What was that?A. 2676
+B.86C. 445D. 12500
+71.1,2,2,3,3,3,4,4,4,4,1,1,2,2,2,2,3,3,3,3,3,3,4,4,4,4,4,4,4,4,1,1,1,2,2,2,2,2,2,3,3,3,3,3,3,3,3,3,......in the 
+above sequence what is the number at the position 2888 of the sequence.A. 1B.2C. 3D. 4
+72. Raj earns 25% on an investment but losses 10% on another investment. Of the ratio of the two 
+investments is 3:5, What is the gain or loss on the two investments taken together?   a.6.25% loss    b.3.125% 
+gain  c.13.125% loss  d.13.125% gain
+73.If ABERSU are in sorted in alphabetical order, if 24 sorting are required for ABUSRE, 25 for AEBRSU, 
+49 for ARBESU, then how many sorting are required for AEUSRB?(a) 45(b) 48(c) 47(d) 46
+74. Two vehicles A and B leave from city Y to city X, A overtakes B at 10.30 a.m. and reaches city X at 
+12.00 p.m. It waits for 2 hrs and returns to city Y. On its way, it meets B at 3.00 p.m. and reaches city Y at 
+5.00 p.m. B reaches city X, waits for 1 hr and returns o city Y. After how many hours will B reach city Y 
+from the time A overtook him for the first time? a.50 hrsb.37.5 hrsc.49.5 hrs
+d.41.5 hrs
+75. A number when successively divided by 5,3,2 gives remainder 0,2 and 1 respectively in that order. What 
+will be the remainder when the same number is divided successively by 2,3, and 5 in that order? a) 2,1,3   b) 
+4,1,2   c) 4,3,2d) 1,0,4
+76. . if 1998 = 27, then find out 2997 = ?a.27b.25c.18d.19
+77. In a rectanglular coordinate system, what is the area of a triangle whose vertices have the coordinates 
+(4,0), (6, 3) and (6 , -3)A. 6B. 7C. 7.5D. 6.5
+78.If 75 % of a class answered the first question on a certain test correctly, 55 percent answered the second 
+question on the test correctly, and 20 percent answered neither of the questions correctly, what percentage 
+answered both correctly?
+a)10%b)30%c)50%d)70%
+79. In  a 8 x 8 chess board what is the total number of squares.a)104b)204c)304
+d)404
+80. At the end of 1994 rohit was half an old as his grand mother.The sum of years in which they were born is 
+3844. How old rohit was at the end of 1999.a)46yearsb)53yearsc)62yearsd)96years
+81. P is thirty percentage of Q, Q is twenty percentage of N. M is fifty percentage of N, Find the value of 
+P/N.(a) 0.03(b) 33.33(c) 16.67(d) None of these
+82. *A starts riding his bike at 10am with a speed of 20kmph and B also starts at 10am with a speed of 
+40kmph from the same point in the same direction. A turns south at 12 o’clock and B turns north at 11 am. 
+What will be the distance between A and B at 2 pm?
+(a) 250km(b) 120km(c) 160km(d)145.6km
+
+83.Find the number of triangles in the given figure.
+(a) 10(b) 9(c) 27(d) 13
+84.There are 6 people from different countries namely Germany, Italy, Britain, Spain, Poland and France. 
+They are sitting around a table. Polish sits next to British. German sits next to Italian, or British or both. 
+Italian does not sit next to the Frenchman. Spanish sits immediately after British. Who sits on the either side 
+of the German?
+(a) British and Italian (b) Polish and British(c) British and French (d) Italian and French
+85.A Beaker contains 180 litres of Alcohol. On the first day , 60 litres of alcohol is taken out and replaced by 
+water. On second day , 60 litres of mixture is taken out and replaced by water and the process continues day 
+after day. What will be the quantity of alcohol in the beaker after the third day? (a) 40 litres(b) 80 litres
+(c) 53.33 litres(d) 100 litres
+86.Out of eight crew members three particular members can sit only on the left side. Another two particular 
+members can sit only on the right side. Find the number of ways in which the crew can be arranged so that 
+four men can sit on each side.A.864B.863 C.865 D.1728
+87.A man takes twice as long to row a distance against the stream as to row the same distance in favour of 
+the stream. The ratio of the speed of the boat (in still water) and the stream is:  A. 2 : 1B. 3 : 1       C.3 : 2
+D. 4 : 3
+88.Ten different letters of alphabet are given, words with 5 letters are formed from these given letters. Then, 
+the number of words which have at least one letter repeated is:A.69760    B.30240   C.99748     D.42386
+89. If 15 women or 10 men can complete a project in 55 days, in how many days will 5 women and 4 men 
+working together to complete the same project? a) 75b) 95 c) 55d) 65
+90.A certain number when divided by 222 leaves a remainder 35, another number when divided by 407 
+leaves a remainder 47. What is the remainder when the sum of these two numbers is divided by 37?  A.8  
+B.9C.12D.17
+91. In how many ways can the digits of the number 2,2,3,3,5,5,8,8,8,8 be arranged so that the odd digits are 
+placed in even positions?A.450  B.350C.720D.5040
+92.The wages of 24 men and 16 women amount to Rs.11600 per day. Half of the men and 37 women earn 
+the same money. The daily wages paid to each men:A.375B.400C.350D.325
+93. In a particular year, the month of Jan has exactly four Thursdays and four Sundays. On which day of the 
+week did Jan 1 occur that yearA.MondayB.WednesdayC.Tuesday
+D.Friday
+94. It takes 52 days to complete an agreement deal by a certain number of men. After 17 days 300 men are 
+added and 21 days are reduced. How many men were working initially?A.250B.200C.50D. 
+None
+95. 0>a>b>c>d, which is largest?A. (b+d)/(a+c)B.( a+b)/(c+d)c. (a-b)/(c-d)D. (a+b)/ (c+d)
+96.A sum of Rs.3000 is distributed among a,b,c.  A gets 2/3 of what B+c got together and c gets 1/3 of what 
+a+b together. C’s share is a.1200b. 2250c. 750d. 1050
+97. In the given figure, If the sum of the values along each side is equal, find the possible values of a,b,c,d,e,f
+32AB10
+EF
+15CD5
+a.9,7,20,16,6,38    b. 4,9,10,13,16,38c. 4,7,20,13,6,38d. 4,7,20,16,6,33
+98. A hallow pipe has circumferences 14cm. A bug is on wall (outside) at a distance of 48cm from top. A 
+drop of honey is on the wall (inside the pipe) at 24cm from top. But diametrically opposite to bug. Find the 
+shortest distance bug has to travel to reach honey.a. 24b. 25c.27 d.29
+99. The sum of 3 consecutive no of the 4 no’s A,B,C,D are 4613,4961,5010,5099 then what is the largest no 
+among A,B,C,D?a.1948b.1463c.1601d.1550
+100.1-2+3-4+....-98+99=?a.-49b.0c.50d.-50
+
+101. There is a coniced tent in which 10persons can stand. Each person need 6m
+2 
+to stand and 60m
+2
+ air to 
+breath what is height of tent?a.60 b.30c.20d.45
+102*.2/3
+rd
+ of the balls in bag are blue the rest are pink. If 5/9
+th
+ of the blue balls and 7/8
+th
+ of the pink balls are 
+defective , find the total no of balls in the bag given that the no of non defective balls is 146  
+a.216b.649c.432d.578
+103.An apple costs L rupees per kg up to 30 kg.It will cost Q rupees per kg for every additional kg. If 33 kg 
+apple costs Rs.1167 and 36 kg apple costs Rs.1254. then what is the cost of 10kg of apple?  
+A.300B.360  C.390    D.330
+104. Jack is faster than Paul, Jake and Paul each walk 24 km. The sum f their speed is 7 km per hour. And 
+the sum of times taken by them is 14 hours. Then  Jack’s speed is A. 4 kmphB. 3kmphC.5 kmph
+D.2 kmph
+105. In a certain city, 60% of the registered voters are congress supporters and rest are BJP supporters. In an 
+assembly election, If 75% of the registered congress supporters and 20% of the registered BJP supporters are 
+expected to vote for candidate A. what percentage of the registered voters are expected to vote for candidate 
+A? A. 53 B.70C.60D.20
+106. If f(x)=2x+2 what is f(f(3))?  A.18   B. 8C.64D.16
+107. What is the reminder when 6^17+117^6 is divided by 7?A. 1B. 3C. 6D. 0
+108.George does 3/5
+th
+ of a piece of work in 9 days. He calls Paul, and they finish the remaining work 
+together  in 4 days. How long would Paul, working alone, take to complete the work?a.28b.30c.32
+d.35
+109. Raj drives slowly along the perimeter of a rectangular park at 24 kmph and completes full round in 4 
+minutes. If the ratio of the length to the breadth of the park is 3:2, what are its dimensions?
+a.150m×100mb.480m×320m  c.450m×300m  d.100m×100m
+110.  Oranges cab be packed in sets of 10 oranges in a box type A or 25 oranges in box type B. A carton 
+comprising of 1000 oranges of type A and type B boxes in packed. How many different combinations are 
+possible in the number of type A and type B boxes while organizing the oranges?
+a) 19b) 21 c) 18d) 20
+111. A circular swimming pool is surrounded by a concrete walk 4 feet wide. If the area of the walk is 11/25 
+of the area of the pool. The radius of the pool in feet is
+a) 8 feetb) 20 feet c) 16 feet d) 30 feet
+112. 2 workers, one young and one old, live together and work at the same office. It takes 20 minutes for the 
+young man to walk to office, the old man takes 30 minutes for the same distance, When will the young man 
+catch up with the old man, if the old man starts at 10.00 am and the young man starts at 10.05 am?  
+a) 11.00 am  b) 10.10 amc) 10.15am  d) 10.20 am
+113. A 3x3 grid is colored using red and blue colors such that if we rotate the grid about its center in the 
+plane by 180 degrees, the grid looks the same. The number of ways to color this grid is: 
+a) 256  b) 64 c) 16 d) 32
+114. A student  selects 3 digits from numbers 1 to 9 such that they are in strictly increasing order. How many 
+selections have the property that the three digits form an arithmetic progression?
+a) 7 b) 12c) 16d) 14
+115. Raj tossed three dice and their results are noted down. What is the probability that Raj gets the sum as 
+10?a) 1/72b) 1/9  c) 25/216d) 1/8
+116.  Jake and Paul walks each 10 kilometers. Jake is 1.5 km faster than the Paul because of which covers the 
+distance in 1.5 Hrs faster than the Paul. What is Jake speed?a. 4      b. 6     c.  8   d. 2
+117. From the top of a 9 metres high building AB, the angle of elevation of the top of a tower CD is 30º and 
+the angle of depression of the foot of the tower is 60º. What is the height of the tower? a)6  b)12c)18d)24
+118.A takes 2 hours to make a publication. B takes 10 hours to make a publication. Find the time taken by 
+them to make two publications, working independently.
+(a) 12 hours(b) 11 hours(c) 22 hours(d) None of these
+119) A card is drawn from a pack of 52 cards. The probability of getting a queen of club or a king of heart is:
+A.1/13B. 2/13C. 1/26D. 1/52
+
+120) The marked price of a coat was 40% less than the suggested retail price.Eesha purchased thecoat for 
+half of the marked price at a 50th Anniversary Sale. What percent less than theSuggested retail price did 
+Eesha pay
+(a) 60 % (b) 20% (c) 70% (d) 30%
+121) In a triangle ABC,the length of the sides AB & AC equal 17.5 cm & 9 cm respectively. Let D be a point 
+on the line segment BC Such that AD is perpendicular to BC.If AD = 3 cm, thenwhat is the radius (in cm ) of 
+the circle circumscribing the triangle ABC?(a) 17.05 (b) 27.85 (c) 32.25 (d)26.25
+122) Jain housing complex has a democratically elected governing council comprising of 
+thepresident,Secretary and the Treasurer.During Their Annual meeting,They brought up threedifferent 
+initiatives for discussion and voting namely Painting of exteriors,24 hr Security andadditional water 
+tank.They Vote As below.
+I) Each Member of the council votes for atleast one of the initiatives and against atleast one of the initiatives.
+II) Exactly two members of the council votes for the painting initiatives
+III) Exactly one member of the council votes for the Security Initiatives
+IV) Exactly one member of the council vote for the water tank Initiatives.
+V) The President votes for the Painting Initiatives and votes against Securityinitiatives
+VI) Security Votes against painting InitiativesVII) Treasurer Votes Against water tank initiatives.
+Which one of the following statements could be true?
+(a) President and Secretary vote the same way on the water tank initiative.
+(b) Secretary and Treasurer vote the Same way on the painting inititative.
+(c) Secretary and Treasurer vote the same way on the Security initiative.
+(d) President votes for one of the initiatives and secrets votes for two of the initiatives.
+123) 11 23 47 83 131 .What is the next number ?(a) 145 (b) 178 (c) 176 
+(d) 191
+124) In this question A ^ B Means A raised to the Power B.if f(x)= ax ^ 4 – b x ^ 2 + x+ 5
+F(-3) = 2;Then f(3) = ?(a) 3 (b) -2 (c) 8 (d) 1
+125) If the given Sheet is folded to form a cube, which side will be opposite to X?
+(a) B (b) C (c) D (d) E
+126) What is the greatest possible positive integer n if 8
+n
+ divides 44
+44
+ without leaving a remainder.
+(a) 14 (b) 28 (c) 29(d) 15
+127) 17 x 8m rectangular ground is surrounded by 1.5m width path. Depth of the path is 12cm. Gravel is 
+filled and find the quantity of gravel required in cubic meters a) 5.5 b) 7.5 c) 6.05 d) 10.08
+128) For a real number X,int(X) denotes the intergal of X,that is int(X) is the largest integer less then or 
+equal to X.Thus int(1.2)=1 and int (-2.4)=-3,the value 0 int(1/2)+int 
+(1/2+1/100)+int(1/2+2/100)...int(1/2+99/100) is?
+a) 150 b) 149 c) 151 d)148
+129) There are 5 boxes in a cargo hold. The weight of the first box is 200k and the weight of the second box 
+is 20% higher than the weight of the 3rd box whose weight is 25% higher than the first box’s weight he forth 
+box at 350kg is 30% lighter than the fifth box. Find the difference in the average weight of the four heaviest 
+and four lightest boxes.A.80 B.75 C.37.5 D.116.8
+130) A rectangle of height 100 squares and width 200 squares is drawn on a paper. It is colored square by 
+square from top left corner and living across in a spiral turning right whenever a side of the rectangle on 
+colored square is reached which square is colored square is reached which square is colors last(give its row 
+and column numbers- the bottom right square is on row 100 and column 200) 
+A. 51, 150   B.51, 50   C.50, 150  D.50.50
+131) A bag contains six sticks of the following lengths 1 cm, 3cm, 5cm, 7cm, 11cm and 13cm. three sticks 
+are drawn at random from the bag what is the probability that we can form a triangle with those sticks.?
+A.11/20  B.1 C.1/4D.2/5
+
+132). A survey of n people in the town of bedeviled found that 50% of them perfect brand A. Another survey 
+of 100 people in the tone of chottaville found that 60% prefer bran A. in total 55% of all the people surveyed 
+together prefer Brand A .what is the total number of people surveyed? A.200 B.104 C.213 D.412
+133) (*)An Engineer undertakes a project to bulit a road 15km long in 300 days and employee 45 men for the 
+purpose. After 100 days he find only 2.5 km of the road had been completed. FInd the(app) number of extra 
+men he must employ to finish the work in time? a) 43 b) 45 c) 55 d) 68
+134. Car A leaves city C at 5pm and drives at a speed of 40kmph.2 hours later another car B leaves city C 
+and drives in the same direction as car a.In how much time will car B be 9 km ahead of car A if speed of car 
+B is 60kmoh?a) 4.25hours b) 4.17hours c) 4.30hours d) 4.45hours
+135) 26ab5 is a five digits number divisible by 25.If the number formed from the two digits ab is a multiple 
+of 13, then ab=?a) 52 b) 65 c) 10 d) 25
+136) One day, Eesha started 30 min late from home and reached her office 50 min late while driving 25% 
+slower than her usual speed. How much time in min does Eesha usually take to reach her office from house?
+a) 80 min b) 50min c) 60 min d) 70 min
+137) .Find the odd man out 7, 17,19,43,91,131 a) 17 b) 43 c)91 d) 131
+138) Find the number of zeroes in 1^1*2^2*3^3......48^48*49^49?  a)250 b) 225 c) 545d) 135
+139) George and Mark work for a company. George can finish a certain job in 30 days. Mark can finish the 
+same job in 45 days. A project was taken job in 45 days. A project was taken by the company and George 
+was made superior to Mark. This move from the Company was not liked by Mark. So Mark did not work 
+from 15 days. Find the total number of days the entire work was completed if Mark works at his normal 
+speed after 15 days from the date of commencement?
+a) 15 b) 20 c) 35 d) 24
+140) In a telecom assembly factory,there are 250 men and 150 women.The average productivity of all 
+workers is 12 unit per day.The average productivity of a man is 15 unit per day.What us the average 
+productivity of a woman per day?a) 6 b) 9 c) 7 d)8
+141) A person walks at 4km/hr for a particular duration T1 and 3km/hr for another duration T2 and covers a 
+total distance of 36km.If he walks at 4km/hr for the duration T2 and at 3km/hr for the duration T1,then he 
+covers only 34km.What will be the time taken by him to cover the one of the legs? 
+a) 4hrs b) 7hrs c) 10 hrs d) 6hrs
+142) 60 men can complete a piece of work in 40 days.6 men start the work but aftr every 5 days 5 people 
+leaves.In how many days will work be completed? 
+a) 60 b) 80 c) 120 d) None of these
+143) father is 5 times faster than son.father completes a work 40 days before the son.If both of them work 
+together,when will the work get complete? a) 8 days b) 8 1/3 days c) 10 days d) 20 days
+144).There is a set of number that relate to each other a certain way.Find the way the first set of boxes 
+works.The number in the second set work in exactly the same way.Find the number that must
+20622
+5812
+42102
+12153
+612
+548145
+a) 16 b) 9 c) 12 d)-21
+145) Two people Ranbir and Katrina decide to meet at a beach between 1pm to 2pm,given that both will 
+surely turn up once in the given time frame.If ranbir arrives he waits for 15 min and then leaves feeling 
+betroyed and similarly katrina waits for 15 min sfter she arrives.So what's the probability that thay meet? 
+a) 1/4 b) 1/16 c) 7/16 d) 9/16
+146) Length and breath and height of a cuboid is in the ratio 1:3:7.Volume of the cuboid is 21m3.If the 
+lenght is doubled and Breath & Height are halved,then what is the change in the volume of the cuboid?
+a) Decreased by 15% b) Decreased by 18% c) Decreased by 30% d) Decreased by 50%
+147) Total income of 2003, 2004, 2005 is Rs.36400.Every year the salary increase by 20% what is the salary 
+in 2003
+a) 10,000 b) 12,000 c) 8800 d) 5000
+148) On a toss of two dice, A throws a total of 5.Find the probability that he throws another 5 before he 
+throws 7
+
+a) 40% b) 45% c) 50% d) 60%
+149) There are 5 distinct integer a, b, c, d , e in ascending order (68-a) (68-b) (68-c) (68-d) (68-e)=725 What 
+is a+b+c+d?
+a) 34 b) 136 c) 306 d) 238
+150) If f(1)=4,f(x + y)=f(x)+f(y) +7xy+2 for x>0 and y>0,find f(2)+f(5) a)140 b)160 c)115 d)120
+151)A number divided by 357 leaves 5 as remainder. If the number is divided by 17, what is the remainder?
+a) 9 b) 3 c) 5 d) 7
+152)A girl entered a store and bought X flowers for Y dollars (X and Y are integers). When she was about to 
+leave, the clerk said, if you buy 10 more flowers I will give you all for $2, and you will save 80 cents a 
+dozen. The values of X and Y are ? 
+a) (15,1) b) (10,1) c) (5,1) d) Cannot be determined from the given information
+153) On door A – it leads to freedom  On door B – it leads to Ghost house On door C – door B leads to Ghost 
+house The statement written on one of the doors is wrong. Identify which door leads to freedom? 
+a) A b) B c) C d) None
+154) 70, 54, 45, 41, ? a) 35 b) 36 c) 38 d) 40
+155) How many positive integers less than 500 can be formed using the number 1,2,3 and 5 for digits, each 
+digit being used only one.? a) 52 b) 68 c) 66 d) 34
+156) There is a rectangle with dimension 400 x 300ft. inside the rectangle; there are 3 ants for every square 
+inch. So, how many ants (approximately) will be there inside the rectangle? 
+a) 5 million b) 50 million c) 50000 d) 500
+157) In how many ways can 2310 be expressed as a product of three factors? 
+a) 41 b) 56 c) 23 d) 46
+158) Three sisters are identical triplets. The oldest by minutes is Asha, and Asha always tells anyone the 
+truth. The next oldest is Easha and Easha always will tell anyone a lie. Usha is the youngest of the three. She 
+sometimes lies and sometimes tells the truth. Victor, an old friend of the families, cam over one day and as 
+usual he didn‟t know who was who, as he asked each of them one question. Victor asked the sister that was 
+sitting on the left, “Which sister are in the middle of you three?” and the answer he received was, “Oh, that’s 
+Asha”. Victor then asked the sister in the middle. “What is your name?” The response given was, “I’m 
+Usha”. Victor turned to the sister on the right, and then asked, “Who is that in the middle?” The sister then 
+replied, “She is Easha”. This confused Victor; he had asked the same question three times and received three 
+different answers. Who was actually sitting in the middle?   
+a) Asha b) Easha   c) Usha d) Cannot be determined
+159) Four examiners evaluate certain number of papers in 8 days working 5 hours a day. If deraminers 
+evaluate twice the number of papers in 20 days then how many hours per day should they work? 
+a) 8 b) 9 c) 4.5 d) 7
+160) From a square of side 2cm equal triangle is cut from it corners to form a regular octagon. We will get an 
+octagon. What is the area of that octagon? 
+a) 4(sqrt 2)+8 b) 8(sqrt 2)-8 c) 2(sqrt 2)+8 d) 8(sqrt  2)+4
+161) A travels at 40 kmph and B travels at 60 kmph. They are travelling towards each other and start at the 
+same time. By the time they meet, B would have travelled 120km more than. Find the total distance.
+a) 600 km b) 720 km c) 400 km d) 540 km
+162) There is a circle with two equilateral triangle of side 12cm inscribed in it in opposite direction making it 
+a star as shown in the figure. What is the area of the remaining portion of the circle outside the star (dotted 
+small circled region)?
+a) 48 (π - √3) b) 48 (π + √3) c) 24 (π - √3) d) 24 (π + √3)
+163) What is the value of A such that X^2-11*X+A and X^2-14*X+2A will have a common factor?
+a) -1/2 b) 24 c) -2 d) 20
+
+164) Probability that leap year chosen at random will have 53 Sundays? A.1/49 B.3/7 C.1/7 D.2/7
+165) Average salary of 17 teachers is 45000. 3 teachers went out and the average copped by 2500. What is 
+the sum of salaries of 3 teachers who left? A.173000   B.176000   C.170000   D.85000
+166) A merchant buys 20kg of wheat at Rs.30 per kg and 40 kg of wheat at Rs.25 per kg. He mixes them and 
+sells one third of the mixture at Rs.26 per kg. The price at which the merchant should sell the remaining 
+mixture so that he may earn a profit of 25% on his whole outlay is. A.Rs.30 B.Rs.40
+C.Rs.360 D.Rs. 37
+167) After 6 years Raja’s father‟s age will be twice that of the his age and 2 years ago his mother age was 
+twice that of Raja‟s age What is the sum of Raja’s parent‟s age? A. 4 less than four times Raja‟s age B. 2 
+more than four times Raja‟s age   C.4 more than four times Raja‟s age D.2 less than four times Raja‟s 
+age.
+168) Find the odd man out: 2, 8,20,44,83 A.8   B.20   C.44   D.83
+169) There are 100 in a class and they attend a test. 20 students are failed in both the subjects. 50 students 
+pass in subject A.60 students passed in subject B. How many students passed in subject an Only? A.20 B.30 
+C.15 D.25
+170. If 5+3+2=151022, 9+2+4=183652, 5+6+3 =482466 and 5+4+5=202541 then 7+2+5
+A.14354 B.132234 C.2577224 D.112321
+171) Ashy and Eesha – Eesha lies on Monday, Tuesday and Wednesday. Ashy lies on Thursday Friday and 
+Saturday. Other days they will say the truth. Professor forgets and asked them what day it is. Both of them 
+said yesterday was lying and then professor got the day what day is it? A. Tuesday   B. Thursday    C. Friday    
+D. Cannot is determined.
+172) For a car there are 5 tyros including one spare tyro (4+1). All tyros are equally used. If the total distance 
+travelled by the car is 40000 km then what is the average distance by the each tyros? A.10000 B.40000 
+C.32000 D.8000
+173) A city in the us has a basketball league with 3 basketball teams, the Aztecs, the braves and the Celtics. 
+A sport writer notices that the tallest players of the Aztecs are shorter than the shortest player of the Braves. 
+The shortest of the Celtics is shortest player than the shortest of the tallest of the Celtics. The tallest of the 
+braver is taller than the tallest of the Aztecs. Which of the following can be in edged with certainty? X) Paul, 
+a Brave is taller than David, an Aztec. Y) David, a Celtic is shorter than Edward, an Aztec A.X only B. Both 
+X and Y C. Neither X nor Y D.Y only
+174. Each of A,B and C need a certain unique time to do certain work. C needs 1 hour less than A to 
+complete the work. Working together they require 30 minutes to complete 50% of the work. The work also 
+gets completed if A and B start working together and A leaves after 1 hour and B works further 3 hours. How 
+much work does C do per hour?
+A.16.66 % B.66.66% C.50% D.33.33%
+175) There are 20 persons sitting in a circle. In that there are 18 men and 2 sisters. How many arrangements 
+are possible in which the two sisters are always separated by a men?    a) 18!*2 b) 17! c) 17*2! d) 12!
+176) Length, Breadth and height of a 3D figure is in the ratio 3:2:1. If the length is doubled and breath And 
+height are halved then what is the % decrease in the volume if the solid?
+A .Decreased by 15%      B. Decreased by 18%      C. Decreased by 30%      D. Decreased by 50%
+177. Find the remainder when 2^31 is divided by 5.     A.4B.5C.3D.7
+2. F, G, H, J, K, L, M, N are eight people they need to grouped into two with the following conditions
+I.F,J must be in the same groupII. G,N are in different groups
+III. H,L are in the same groupIV. M,G are not in the same group
+Find the correct ordering of groupsA.FHJLMNGK      B.FJHLMNGK  C.GKFJHLMN
+D.MNGKHLFJ
+178. Find the sum of the series given below:1(1!)+2(2!)+...........+2012(2012!)
+A.2013!+1B.2013!-1C.2012!+1D.2012!-1
+
+179. 2  gear one with 12 teeth & other with 14 teeth are engaged with each other. One tooth in smaller gear 
+and tooth in biggest gear are marked and initially those marked tooth is contact to each other. After how 
+many rotation of the smaller gear with the marked teeth in the other gear  will again come in to contact for 
+the first time?a.7b.84c. 12D. data insufficient
+180.One card is lost from a packet of 52 cards. 2 cards are drawn randomly. They are spade .What is the 
+probability that the lost card is also spadea)¼b. 1/13c. 3/13d. 5/13
+181.Three dice are rolled. What is the probability of getting the sum as 13? 
+a.19/216b.21/216   c. 17/216d. 22/216
+182. Find the parameter of the decagon with given dimension.
+12
+1
+3
+6
+a.32               b.34            c. 44d. 22
+183.Easha invited 8 friends to her birthday party –usha ,nisha, asha, ablisha, suresh, ramesh, naresh, ritesh. 
+They are arrived one after the other around the party time within minute of each other from 19:41 to 19.48 
+hours one friend every minute
+Nisha joined the party before NareshSuresh joined the party before Ablisha
+Naresh and Ablisha joined the party before UshaNaresh joined the party before Ritesh
+Ablisha joined the party before RameshUsha joined the party before Aasha
+Which one is not possible?a.Usha 19:44b.Nisha 19:41c.Nisha 19:43d.ramesh 19:41
+184. The first 44 integers are written in order to form the large number N=123456........424344.What is the 
+reminder when N is divided by 45?a.4b.9c.14d.18
+185.There is a school ware 60% are girls & of which 45 are poor. Students are collected at random , what is 
+the probability of selecting a poor girl out of total strength.a.0.27b.0.45c.0.56d.none
+186.When M is divided by 6 it leaves a remainder 2 & when N is divided by 6, it leaves a remainder 3.what 
+will be remainder if M-N is divided by 6? (M>N)a.1b.2c.4d.5
+187. The 18
+th
+ birthday of a girl is on 28
+th
+ Feb. 2009(Saturday). On what day of the week will be her 
+25
+th
+birthday?A.SundayB. MondayC.TuesdayD. Wednesday
+188.         A  2  C  D
+-   2  B  9  6
+-------------------
+     5  6  4  6
+-------------------         Find 2*A + 4*B + 3*C + D.    A.50B.60C.70D.80
+189. A call center agent has a list if 305 phone numbers of people an alphabetic order of names [but she does 
+not have any of the names]. She needs to quickly contact Deepak Sharma to convey a message to him. If 
+each call takes 2 minute to complete, and every call is answered, what is the minimum amount of time in 
+which she can quarentee to deliver the message to Mr. Sharma?
+A.18 minutesB. 610 minutesC.  206 minutesD. 34 minutes
+190. Two identical circles intersect so that their centers, and the points at which they intersect, form a square 
+of side 1 cm. The area in sq. cm of the portion that is common to the two circles is
+a.√5b.√2-1c.4d.(π/2)-1
+191. Two full tanks, one shapes like a cylinder and the other like a cone , contain liquid fuel. The cylindrical 
+tank held 500 litres more than the conical tank. After 200 litres of fuel is pumped out from each tank the 
+cylindrical tank now contains twice the amount of fuel in the conical tank. How many litres of fuel did the 
+cylindrical tank  have when it was full?
+a.1100b.1200c.1000d.700
+
+192. In how many ways can 7 different objects be divided among 3 persons so that either one or two of them 
+do not get any object? a.180b.84c.381d.36
+193. Two consecutive numbers are removed from the progression 1,2,3,....n. The arithmetic mean of the 
+remaining numbers is 26 ¼. The value of n is a.60b.50c.81d. Cannot be determined
+194. At 12:00 hours Jake starts to walk from his house at 6 Km an hour. At 13:30 hours, Paul follows him 
+from Jake’s house on his bicycle at 8 Km per hour. When will Jake be 3 Km behind Paul?
+a)19.30hrs b) 18.30 hrsc) 20.30 hrsd)19.00 hrs
+195. The letters in the word ADOPTS are permuted in all possible ways and arranged in the alphabetical 
+order. Find the word at position 42 inn the permuted alphabetical order.  a) AOTDPS   b) AOTPDS  c) 
+AOTDPS  d) AOSTPD
+196.Find the number of divisors for 1728?a)27b)28c)32d)34
+197. If there are Six periods in each working day of a school, In how many ways can one arrange 5 subjects 
+such that each subject is allowed at least one period?a)1200                          b)2400
+c)3600d)4800
+198.3 mangoes and 4 apples costs Rs.85. 5 apples and 6 peaches costs 122.  6 mangoes and 2 peaches costs 
+Rs.114.  What is the combined price of 1 apple, 1 peach, and 1 mango.a) 37b) 39c) 
+35d) 36
+199.In a school , sixty percent of the students are girls and thirty five percent of the girls are poor. If a student 
+is randomly selected, what is the probability of selecting a poor girl student?    (a) 60%   (b) 35%(c) 21%   
+(d) None of these
+200. A number is divided by 5,2 and 3 successively in order to get remainders of 0,1, and 2 respectively. 
+What will be the remainders when the same number is divided by 2,3 and 5 respectively? (a) 1,0,4   
+(b) 1,2,3    (c) 1,2,0(d) 1,0,2
+201..In an year N, the 320
+th 
+day of the year is Thursday. In the year N+1, 206
+th
+ day of the year is also 
+Thursday. What is the 168
+th
+ day in the year N-1?    (a) Friday( b)Thursday(c) Tuesday(d) 
+Saturday
+202. A tank is filled by three pipes with uniform flow. The first two pipes operating simultaneously fill the 
+tank in the same time during which the tank is filled by the third pipe alone. The second pipe fills the tank 5 
+hours faster than the first pipe and 4 hours slower than the third pipe. The time required by the first pipe is: 
+A.6 hours B. 10 hours C. 15 hours D. 30 hours
+203.In how many ways can 10 identical pencils and 3 out of 26 sweets can be distributed to 3 students (each 
+of them has at least one pencil)?(a) 10
+3
+*26C3(b) 4560(c) 3620(d) None of these
+204.How many polynomial functions f of degree >=1 satisfy f(x
+2
+ ) = [f(x)]
+2
+=f(f(X)) ?  
+(a) More than 2  (b) 2  (c) 0  (d) 1
+205.A man sold 12 Candies in 10$ had loss of b % then again sold 12 candies had profit of b% find the value 
+of b ?(a) 9(b) 9.09(c) 10(d) 11
+206.Each of A, B and C need a certain unique time to do certain work. C needs one hour less than A to 
+complete the work. Working together they require 30 mins to complete 50% of the work. The work also get 
+completed if A and B starts work together A leaves after 1 hour and B works further 3 hours. How much 
+work does c do per hour?(a) 16.66%(b) 66.66%(c) 50%(d) 33.33%
+207.f(f(n)) +f(n) =2n+3, f(0)=1 Find f(2012) .(a) 2011(b) 2013(c) 4095(d) 2012
+208.A man asks 5 people to make a guess about the amount of money in his pocket which is less than Rs.50. 
+A guesses that the amount is a multiple of 10. B guesses that the amount is a multiple of 12. C guesses that 
+the amount is a multiple of 15. D guesses that the amount is a multiple of 18. E guesses that the amount is a 
+multiple of 30. Which of the following guesses are correct?(a) AE(b) AB(c) BC(d) DE
+209.The letter of the alphabet are numbered from 1 to 26 consecutively with 1 assigned to A and 26 is 
+assigned as Z. By 27th letter we mean A, 28th we letter mean B etc. In general 26m+n where m and n are 
+positive integers is same as the letter numbered in n. Let p=6.Then strange county military general his secret 
+messages according to the following codification scheme. In codifying a sentence, the first the letter occurs it 
+is replaced the P th letter from it, second time it occurs it is replaced by p^2nd letter from it, third time it 
+occurs it is replaced by p^3rd letter from it. What is the code word for ABBATIAL?
+(a) GHMNZOOR(b) GHKJZOHR(c) GHHGZOGR(d) GHLKZOIR
+
+210. In a factory, each day the expected number of accidents is related to the number of overtime hour by 
+linear equation. Suppose that on one day there were 1000 overtime hours logged and 8 accidents reported and 
+on another day there were 400 overtime hours logged and 5 accidents. What is the expected number of 
+accidents when no overtime hours are logged?
+A.2B.3C.4   D.5
+211. Raman scored 456 marks in an exam and Anu got 54 per cent marks in the same exam which is 24 
+marks less than Raman. If the minimum passing marks in the exam is 34 percent, then how much more 
+marks did Raman scored than the minimum passing marks? 
+a.184         b.196       c.190       d.180
+212. In an objective examination of 90 questions, 5 marks are allotted for every correct answer and 2 marks 
+are deducted for every wrong answer. After attempting all the 90 questions a students got a total of 387 
+marks. Find the number of questions that he attempted wrong.A.9 B.10 C.11 D.12
+213. 4.If 5×nP3=4×n+1P3 find n?A.10 B.12 C.11 D.14
+214. Consider an equilateral triangle of side length n, which is divided into unit triangles, as shown. Let f(n) 
+be the number of paths from the triangle in the top row to the middle triangle in the bottom row, such that 
+adjacent triangles in our path share a common edge and the path never travels up (from lower row to a higher 
+row) or revisits a triangle. An example of one such path is illustrated below for n = 5. Determine the value of 
+f(2005)
+(a) f(2005)=(2001)! (b) f(2005)=(2004)!(c) f(2005) = (2011)! (d) f(2005) = 
+(2020)!
+215.The numbers 272738 and 232342,when divided by n, a 2 digit number, leave a reminder of    13 and 17 
+respectively. Find the sum of the digits of n?a. 7b. 8c. 5d. 4
+216.A can complete a piece of work in 8 hours, B can complete in 10 hours and C in 12 hours. If  A,B,C start 
+the work together but A leaves after 2 hours. Find the time taken by B and C to complete the remaining 
+work.
+a.2 1/11b.3 1/5c)6d)7
+217. What is the largest integer that divides all three numbers 23400 , 272304, 205248 without leaving a 
+remainder?
+a) 48   b) 24c) 96d) 72
+218. We have an equal arms two pan balance and need to weigh objects with integral weights in the range  1 
+to 40 kilograms. We have a set of weights and can place the weights in any pan. (i.e) some weights can be in 
+a pan with objects and some weights can be in the other pan. The minimum number of weights required is  a) 
+4  b) 10   c) 5  d) 6
+219.George is two-third as efficient as Smith and smith is three fourth as efficient as John. In one day what 
+will be the fraction of work done by George alone, compared to all of them working together?
+(a) 2/3(b) 2/9(c) 4/9(d) 1/3
+220. A and B starts from their house at 10 a.m. They travel from their house on MG road at 20 kmph and 40 
+kmph. There is a T junction on their path. A turns left at the T junction at 12.00 noon. B reaches the T 
+junction earlier and turns right. Both of them continue travelling till 2.00 p.m. What is the distance between 
+A and B at 2.00 p.m.?a.120 kmb.140kmc.150kmd.160km
+221. Rajesh and Shakil run a race of 2000 m.First , Ram gives Shakil a headstart of 200 m and beats him by 
+1 min. Next, Rajesh gives Shakil a start of 6 minutes and is beaten by 1000 meters. Find the time in minutes 
+in which Rajesh and Shakil run the race separately. 
+a.8,10b.10,18c.12,18 d.10,12
+222.In the polynomial f(x)=2*x^4-49*x^2+54,what is the product of the roots, and what is the sum of the 
+roots (Note that x^n denotes the x raised to the power of n, or x multiplied by itself n times)? A. 27,0     B. 
+54,2C. 49,54    D. None
+
+223. In the polynomial f(x)=x^5+a*x^3+b*x^4+c*x+d, all coefficients a,b,c,d are integers. If  3+ sqrt(7) is a 
+root, which of the following must be also a root? (Note that x^n denotes the x raised to the power n, or 
+multiplied by itself n times. Also sqrt(u) denotes the square root of u, or the number which when multiplied 
+by itself, gives the number u)?A. 3-sqrt(7)B. 3+sqrt(21)C. 5-sqrt(3)D. sqrt(7)
+224. Ratio of the radius of the cylinder to the cone is 1:2 assume their height are the same find the ration of 
+their volumes.a.3:4b.1:2c.1:4d.4:1
+225. How many 5’s will be there is the no 121122123.....til356?a.51b.54c.50d.49
+226. The sum of the digits of a 3 digit number is 17, the sum of the squares of its digits is 109. If we subtract 
+495 form that no, we shall get a no consisting of the same digits written in the reverse order. find the no? 
+a.773  b.944c.863d.683
+227.in a city there are few engineering , MCA & MBA candidates.sum of 4 times engineering, 3 times the 
+MBA & 5 times MCA candidates is 3650.also 3 times MCA equal to 2 times MBA & 3 times engineering is 
+equal to 2 times MCA . in total how many  MCA candidates are there in city?
+a.200b.300c.950d.400
+228. If a ladder is 100m long and distance between bottom of ladder and wall is 60. What is the maximum 
+size of cube that can be placed between the ladder and wall.a.34b.24.28 c.21.42d.28.56
+229.10 years ago, the average age of 10 people was 33 years. After 3 years, a person of age 40 died. After 
+another 3 years, another person of age 40 died. After 3 years, another person of age 30 dies. Find the present 
+average age.
+a. 43b.44c.35d.40
+230. (*)In a staircase, there are 10 steps. A child is attempting to climb the staircase. Each time, She can 
+either make 1 or 2 steps. In how many different ways can she climb the staircases?
+a. 10b. 21c. 26D. None of these
+231.A machine P can print one lakh books in 8 hours, machine Q can print the same number of books in 10 
+hours while machine R can print them in 12 hours. All the machines are started at 9 A.M. while machine P is 
+closed at 11 A.M. and the remaining two machines complete work. Approximately at what time will the 
+work (to print one lakh books) be finished ?
+A. 11:30 A.M.B. 12 noonC. 12:30 P.M.D. 1:00 P.M.
+232. A flagstaff 17.5 m high casts a shadow of length 40.25 m. The height of the building, which casts a 
+shadow of length 28.75 m under similar conditions, will be:
+A. 10 mB. 12.5 mC. 17.5 mD. 21.25 m
+233. When Rs 250 added to 1/4th of a given amount of money makes it smaller than 1/3rd of the given 
+amount of money by Rs 100. What is the given amount of money? 
+(a) Rs 350 (b) Rs 600 (c) Rs 4200 (d) Rs 3600
+234. Find the least number of candidates in an examination so that the percentage of successful candidates 
+should be 76.8%:
+(a) 500 (b) 250 (c) 125 (d) 1000
+235. The number of times a bucket of capacity 4 litres to be used to fill up a tank is less than the number of 
+times another bucket of capacity 3 litres used for the same purpose by 4. What is the capacity of the tank?
+(a) 360 litres `(b) 256 litres (c) 48 litres (d) 525 litres
+236. A certain quantity of rice is spent daily for 30 students in a hostel. One day some students were absent 
+as a result, the quantity of rice has been spent in the ratio of 6:5. How many students were present on that 
+day? (a) 24b) 20 c) 15 d) 25
+237. The ratio of daily wages of two workers is 4:3 and one gets daily Rs 9 more than the other, what are 
+their daily wages?
+(a) Rs 32 and Rs 24 (b) Rs 60 and Rs 45(c) Rs 80 and Rs 60 (d) Rs 36 and Rs 27
+238. The volume is decreased by 10% when ice is melted into water. If water is frozen, the volume is 
+increased by:
+(a) 11 
+1
+/
+10
+% (b) 11 
+1
+/
+9
+ % (c) 9 
+1
+/
+11
+ % (d) 10%
+239. The difference between the length and breadth of a rectangle is 23 m. If its perimeter is 206 m, then its 
+area is:
+A. 1520 m
+2
+B. 2420 m
+2
+C. 2480 m
+2
+D. 2520 m
+2
+
+240. How many vehicle registration plate numbers can be formed with digits 1,2,3,4,5( no repeat). If it is 
+given that the registration number can have 1 to 5 digits. a. 205b. 100c. 325d. 105
+241.There are 60 slots around a circle, numbered 1 to 60. A man starts from the first slot and jumps to the 5
+th
+ 
+slot. From there he jumps to the 9
+th
+ slot and so on. In which slot will he land in his 2200
+th
+ jump? 
+(a) 45(b) 41(c) 1(d) 5
+242.If all the numbers between 11 and 100 are written on a piece of paper. How many times will the number 
+4 be used?(a) 20(b) 19(c) 9(d) None of these
+243. For which of the following “n” is the number 2
+74
+ + 2
+2058
+ + 2
+2n
+ a perfect square?
+(a) 2012  (b) 2100(c) 2011(d) 2020
+244. Two beakers are on the table. The capacity of the first beaker is x litres and that of the second beaker is 
+2x litres. Two thirds of the first beaker and one fourth of the second beaker is filled with wine. The 
+remaining space is filled with water. If the content in both the beakers are mixed in a large beaker of volume 
+3x litres, what is the proportion of wine in the beaker?
+(a) 11/12(b) 11/36(c) 7/6(d) 7/18
+245.Three non negative numbers, X, Y and Z are such that the mean is M and the median is 5. If M is 10 
+more than the smallest number and 15 less than the biggest number, find the value of X+Y+Z.
+(a) 15(b) 5(c) 20(d) 30
+246.From 5 men and 11 women, in how many ways can a panel of 11 be formed such that the number of 
+men is not more than 3?(a) 1650(b) 2255(c) 5522(d) None of these
+247.The cost price of a cow and a horse is Rs 3 lakhs. The cow is sold at 20% profit and the horse is sold at 
+10% loss. Overall gain is Rs 4200. What is the cost price of the cow?   
+(a) 1, 86,000 (b) 1,14,000  (c) 86,000   (d) None of these
+248.When all possible six-letter arrangements of the letters of the word “MASTER” are sorted in 
+alphabetical order, what will be the 49th word?(a)AREMST(b) ARMEST(c) AMERST(d) 
+ARMSET
+249.The price of a book in four different shops and the successive discounts offered for the books is given 
+below. Select the option in which the price of the book is the least.  (a) 10%, 5%, and 5% discount on Rs.195 
+(c) 12.5% and 12.5% discounts on Rs.205    (b)25%, discount on Rs.200 (d) 10%, and 15% 
+discounts on a marked price of Rs.190
+250.There are 3 trucks A,B and C. A loads at the rate of 10kg/min and B loads at the rate of 13 1/3 kg/min. C 
+unloads at the rate of 5kg/min. If all the 3 trucks are acting simultaneously, find the time taken to load 2.4 
+tonnes.
+(a) 120.81min(b) 130.91min(c) 240 min(d) 100min
+251. 30L + 3Q = 1167 30L + 6Q = 1284 Find L ?(a) 30(b) 35(c) 40(d) 45
+13.Three dice are rolled. What is the probability that you will get the sum of the numbers as 10?
+(a) 27/216(b) 25/216(c) 10/216(d) 1/11
+252. A  person buys 18 local tickets for Rs 110. Each first class ticket costs Rs 10 and each second class 
+ticket costs Rs 3. What will another lot of 18 tickets in which the numbers of first class and second class 
+tickets are interchanged cost?
+A.112 B.118C.121   D.124
+253. A drawer holds 4 red hats and 4 blue hats.  What is the probability of getting exactly three red hats or 
+exactly three blue hats when taking out 4 hats randomly out of the drawer and immediately returning every 
+hat to the drawer before taking out the next?A. 1/2B. 1/8C. 1/4D. 3/8
+254 .  2 oranges, 3 bananas and 4 apples cost Rs.15 and 3 oranges, 2 bananas, and 1 apple costs Rs 10. What 
+is the cost of 3 oranges, 3 bananas and 3 apples? a) 20   b) 15c) 12 d) 10
+255. car is filled with four and half gallons of oil for full round trip. Fuel is taken 1/4 gallons more in going 
+than coming. What is the fuel consumed in coming up. a) 2b) 2.5c) 1.5d) 3
+256. George works 5 times as fast as his son and hence completes a job 40 days earlier than his son. Find the 
+time they, working together, would take to finish the job. a) 7.5 b) 6 c) 8.33d) 12.5
+257. a,b,c are non negative integers such that 28a+30b+31c = 365. Then a=b=c is:
+a.12b.13c.less than or equal to 11d.greater than 13
+
+258. In how many ways can the letter of the English alphabet be arranged so that there are seven letters 
+between the letters A and B, and no letter is repeated? 
+a.24P
+₇
+*2*20!   B.24P
+₇
+*2*18!    c.36*24! d.18*24!
+259. Two vertical points 2 meters and 8 meters high stand apart on a horizontal plane. The height in meters 
+of the point of intersection of the lines joining the top of each pole to the bottom of the other pole is
+a.1.6     b.1.8     c.5.6     d.Cannot be determined
+260. A,B,C,D  go for a picnic. In a weighing machine they try to find their weights. When A stands on the 
+machine, B also climbs and the weight shown was  132 kg. when B climbs C also climbs and the weight 
+shown was 130 kg. Similarly the weight of C and D was found to be 102 kg and that of B and D was 116 kg. 
+What was the weight of D?
+A. 58 kgB.40 kgC.78 kgD.44 kg
+261. How many positive integer solutions does the equation 2x+3y = 100 have?a) 50   b) 33   c) 16    d) 35
+262. How many different integes can be expressed as the sum of three distinct umbers from the set 
+{3,10,17,24,31,38,45,52}A. 8B.56C.16D. 15
+263.find the sum of angles 1,2,3,4,5.         a.180b.300c.360d.400
+264. Average of three numbers ABC is given as 48. Average of A,B,C,D is 46. Its given that E is having 
+three more than D, then Average of B,C,D,E is 45. What is the score of A?a.46b.50c.49d.47
+265. Raj travels a part of journey by taxi paying 15/km & rest by train paying 21/km. If he travels a total of 
+450km & pay Rs.8130. Then the distance travelled by Raj in train?a.230b.260c.190d.180
+266.Two cards are drawn at random. What is the probability that both are spade   a.3/51 b. 1/26   c. 
+¼d. 7/51
+267.  60, 48,28,24,20,18,... what is the wrong numbera. 28 b. 38c. 6018
+268. Perimeter of a equilateral triangle is equal to the perimeter of the Hexagon. What is the ratio of their 
+areas?
+A. 6:1b. 1:6c. 3:2d. 2:3
+269. Remainder of(32^31^301) when it is divided by 9.a. 3b. 5 c. 2d. 1
+270. 4 men throw a die each simultaneously.  Find the probability that at least 2 people get the same number?
+a. 5/18b. 13/18c. 1/36d. ½
+271. Raj invested in indigo , HUL & SBI shares at Rs.300, Rs.200 & Rs.5 per share respectively and 
+purchased a total of 100 shares for Rs.10000. The number of Indigo & HUL shares he bought are  
+a.15,25  b.23,17  c.17,23  d.17,60
+272.Raju can do piece of work in 10days, Vicky in 12 days, Tinku in 15 days. They all started work together, 
+but Raju leaves after 2 days, Vicky leaves 3 days before work is completed. In how many days work is 
+completed.
+a. 7b.5c.9d.6
+273
+ .
+A rectangle is divided into  40 rectangles with area 70,36,20 and x the value of x is ?
+7036
+X20
+a.350/9b.350/7c.350/11d.350/13
+274. Find the reminder when the number 1234567...4481 is divided by 45.A.36B.31C.44
+D.43
+275. How many ways a committee of 11 people can be formed out of 11 women and 5 men?(there should not 
+be more than 3 men in the committee)A.1596B.2256C.1856D.1586
+
+276. How many triangles can be formed using 87 match sticks?
+(Shape will be like this)
+A.47B.48C.43D.None of these
+277. If a lemon and apple together  cost Rs.12.00, a tomato and a lemon cost Rs. 4.00 and an apple cost 
+Rs.8.00 more than a tomato or a lemon then which of the following can be the price of lemon?     
+a.Rs.3b.Rs.4c.Rs.1d.Rs.2
+278. Two ISB alumni decide to meet at cafe linger On between 9.30 am and 10.30 am. They agree that the 
+persn who arrives first at the café would wait for exactly 15 minutes for the other. If each of them arrives at a 
+random time between 279.30 am and 10.30 am. What is the probability that the meeting takes place?   A. 
+7/18B.9/16C. 7/16D. 11/18
+280. If x^2-16>0, which of the following must be true?a. -4<x<4B. 4<xC. -4>x>4D. -4>x<4
+281.  George, Paul and Hari start a business by contributing Rs.30000, Rs. 40000 and Rs. 50000 respectively. 
+After  ½ a year George withdraws half his contribution. At the end of the year the business showed a profit of 
+Rs. 90000 which we divided amongst the 3 men proportionate to amount and duration of their investment in 
+the enterprise. Paul got:
+a) Rs.18000 b)25000c)32000d)24000
+282. letters in the word ABUSER are permuted in all possible ways and arranged in alphabetical order then 
+find the word at position 49 in the permuted alphabetical order?   a) ARBSEUb) ARBESUc) 
+ARBSUEd) ARBEUS
+283. Badri has 9 pairs of dark Blue socks and 9 pairs of Black socks. He keeps them all in a samebag. If he 
+picks out three socks at random what is the probability he will get a matching pair?
+A. (2*9C2 * 9C1) / 18C3 B.(9C2 * 9C1) / 18C3  C. 1 D.None of these
+284. The difference between a two-digit number and the number obtained by interchanging thedigits is 36. 
+What is the difference between the sum and the difference of the digits of the number if the ratio between the 
+digits of the number is 1 : 2 ?A.4  B.8  C.16  D.None of these
+285. A and B can do a piece of work in 75 and 70 days respectively. They began the work  together but A 
+Leaves after some days and B finished the remaining work in 23 days. After how many days did A leave
+A.23 9/28 days B.) 24 3/29 days C.) 24 3/28 days D.) 23 3/29 days
+286 .A, B, C and D are seated in four adjacent seats. They make the following statements. A : I am not in the 
+third position. B : I am in the second or third position. C : I am in the first position. D : I am in the fourth 
+position. If three of them are speaking the truth and one of them is lying, who is in the fourth position? (a) B
+(b) C(c) D(d) A
+287. If YWUSQ is 25 - 23 - 21 - 19 - 17 then MKIGF is
+(a) 13 - 11 - 9 - 7 – 6(b) 1 - 2 - 3 - 5 – 7(c) 9 - 8 - 7 - 6 – 5 (d) 7 - 8 - 4 - 5 - 3
+288.In the equation A + B + C + D + E = FG where FG is the two digit number whose value is 10F + G and 
+letters A, B , C , D , E, F and G each represent different digits. If FG is as large as possible. What is the value 
+of G?
+(a) 4(b) 2(c) 1(d) 3
+289. There are 10 stepping stones numbered 1 to 10 as shown at the side.  A fly jumps from the first stone as 
+follows; Every minute it jumps to the 4th stone from where it started - that is from 1st it would go to 5th and 
+from 5th it would go to 9th and from 9th it would go to 3rd etc.  Where would the fly be at the 60th minute if 
+it starts at 1? a)1  b)5  c)4  d)9
+290. A closed cylindrical tank contains 36π cubic feet of water and its filled to half its capacity. When the 
+tank is placed upright on its circular base on level ground, the height of water in the tank is 4 feet. When the 
+tank is placed on its side on level ground, what is the height, in feet, of the surface of the water above the 
+ground? a)3ftb)4ftc)5ftd)6ft
+291.If n is the sum of two consecutive odd integers and less than 100, what is the greatest possibility of n?
+a.96b.97c.98d.99
+292. A farmer has a rose garden. Every day he either plucks 10 or 8 or 36 or 28 roses. The rose plant are 
+intelligent and when the farmer plucks these no. of roses, the next day 31 or 36 or 18 or 8 new roses bloom 
+
+up in the garden respectively. On Monday he counts 205 roses, he plucks the roses as per his plan on 
+consecutive days and new roses bloom up as per the intelligence of the plants mentioned above. After some 
+days which of the following can be the number of roses in the garden?   a)4 b)3 c)7
+ d)30
+293. Which of the following  represents the largest 4 digit number which can be added to 7249 in order to 
+make the derived number divisible by each of the following numbers: 12,14,21,33 and 54?  a) 8316    b) 
+8727   c) 9123d)9383
+294. What is the distance in cm between two parallel chords of length 32 cm and 24 cm in a circle of radius 
+20 cm?  a.3 or 21b.1 or 7c.4 or 29d.2 or 14
+295. A semicircle is drawn with AB as its diameter. From C, a point on AB, a line perpendicular to AB is 
+drawn, meeting the circumference of the semicircle at D. Given that AC=2 cm and CD=6 cm, the area of the 
+semicircle (in sq cm) will be: a.82πb.50πc.55πd.31π
+296. A container contains 40 liters of milk. From this container 4 liters of milk was taken out and replaced by 
+water. This process was repeated further two times. How much milk is now contained by the container?
+A.26.34 liters B. 27.36 liters C. 28 liters D. 29.16 liters
+297. A person walking at 4 Kmph reaches his office 8 minutes late. If he walks at 6 Kmph, he reaches there 8 
+minutes earlier. How far is the office from his house? A.) 3 1/5 Km B.) 2 1/5 Km C.) 4 1/5 Km D.) 
+5 1/5 Km
+298.A trader mixes 26 kg of rice at Rs. 20 per kg with 30 kg of rice of other variety at Rs. 36 per kg and sells 
+the  mixture at Rs. 30 per kg. His profit percent is: A. No profit, no loss B. 5%     C. 8%   D. 10%    E. None 
+of these
+299.Mahesh visited his cousin Akash during the summer vacation. In the mornings, they both would go for 
+swimming. In the evenings, they would play tennis. They would engage in at most one activity per day, i.e.  
+either they went swimming or played tennis each day. There were days when they took rest and stayed home 
+all  day long. There were 32 mornings when they did nothing, 18 evenings when they stayed at home, and a 
+total of  28 days when they swam or played tennis. What duration of the summer vacation did Mahesh stay 
+with Akash?    A.46 days   B.36 days   C.39 days   D.58 days
+300. You have three bags, each containing two marbles. Bag A contains two white marbles, Bag B contains 
+two black marbles, and Bag C contains one white marble and one black marble. You pick a random bag and 
+take out one marble. It is a white marble. What is the probability that the remaining marble from the same 
+bag is also  white?
+A.2/3   B.1/2   C.3/4   D. None
+301.Six persons A, B, C , D, E, F are invited to the party. i) A accepts invitation only if B or F accepts. ii)C 
+may accept if b accept. iii) F will accept if B C and D accept. iv) E and B may accept if D accepts. What is 
+the possible order if they accept the invitation?(a) DBECFA(b) DABEFC(c) DCBEFA(d) 
+BFDECA
+302.What will be the next term in this series 1,7,8,49,50,57,343......?   (a) 344  (b) 350  (c) 2401  (d) Cannot 
+be determined
+303.In group of 5, Anooj said, “One of us is lying” . Pooja said “Exactly two of us are lying”. Bitoo said 
+“Exactly three of us are lying” .Billa said “Exactly four of us are lying” .Chitra said “Exactly five of us 
+lying”. Which one said the truth?
+(a) Anooj(b) Pooja(c) Bitoo(d) Billa
+304.P(X) = (X
+2012
++X
+2011+
+ +X
+2010
++........+X+1) – X
+2012  
+           Q(X) = X
+2011
++ X
+2012
++.........+X+1
+The remainder when P(X) divided by Q(X) is:    (a) 1(b) 0(c) X+1(d) 
+X-1
+305.There is a set of 9 numbers that relate to each other in a certain way. Find the way the first set of boxes 
+works. The numbers in the second set work in exactly the same way. Find the number that must go in the 
+empty box in the second set.
+2062212153
+5812612
+7542102548145
+a) 16(b) 9(c) 12(d) -21
+
+306. If 3y + x > 2 and x + 2y≤3, What can be said about the value of y?   A. y = -1B. y >-1     C. y <-1      D. 
+y = 1
+307. What is the sum of all even integers between 99 and 301?  A. 40000     B. 20000C. 40400D. 
+20200
+308.Of a set of 30 numbers, average of first 10 numbers = average of last 20 numbers. Then the sum of the 
+last 20 numbers is?a.2 X sum of last ten numbers   b. 2 X sum of first ten numbers c. Sum of 
+first ten numbers
+d. cannot be determined with the given data
+309.  Arun makes a popular brand of ice-cream in a rectangular shaped bar 6 cm long, 5 cm wide and 4 cm 
+thick. To cut costs, the company had decided to reduce the volume of the bar by 19%. The thickness will 
+remain the same, but the length and width will be decreased by the same percentage. The new width will be    
+a)6.5 m b)4.5 m   c)5.5 m d) 7.5 m
+310. Two circles of radii 5cm and 3cm touch each other at A and also touch a line at B and C so that the line 
+drawn joining the center of the circles is parallel to BC. The distance BC in cm is?   A. √60B. √62C. 
+√68D. √64
+311. An army camp has provisions for 52 days. 17 days later,300 new recruits join the camp and the 
+remaining provisions will now last onl for 21 days. How many recruits are there in the camp.  A. 420
+B.750C.450D. 633
+312. If M is 30% of Q, Q is 20% of P and N is 50% of P, then M/N is ,A. 3/25B.6/5C.4/2
+D.3/250
+313. Alvin,Ben and Clindon run a race, with Alvin finishing 48 meters ahed of ben and 72 meters ahed of 
+Clindon, while runner Ben finishes 32 meters ahead of runner Clindon. Each runner travels the entire 
+distance at a constant speed. What is the length of the race? A. 480B. 96C. 192D. None
+314. In how many arrangements of the word ERASED is the letter ‘A’ positioned in between the 3 ‘E’ s?
+A. 80  B.120  C.360  D. None
+315. How many 6 digit even numbers can be formed from the digits 1,2,3,4,5,6 and 7 so that the digits 
+should not repeat and the second last digit is even?   a) 6480 b) 2160 c) 
+720 d) 320
+316. A owes B Rs.50. He agrees to pay B over a number of consecutive days starting on Monday,  paying 
+single note of  Rs. 10 or Rs. 20 on each day. In how many different ways can A repay B. (Two ways are said 
+to be different if on at least one day, a note of different  denomination is given.)  a) 6 b) 8 
+c) 7d) 5
+317. The value of a bicycle depreciates in such a way that at the end of each year, is Â 2/5 of its value at the 
+beginning of same year. If the initial value of the scooter is Rs.15,000. What is the value at the end of 4yrs?
+a)384   b)2400   c)960   d)6000
+318. Tim and Elan are 90 km from each other. they start to move each other simultaneously tim at speed 10 
+and elan 5 kmph. If every hour they double their speed what is the distance that Tim will pass until he meet 
+Elan
+A. 45B. 60C. 20D. 80
+319. Analysing the good returns that Halocircle Insurance Pvt Ltd was giving, Ratika bought a 1-year, Rs 
+10,000 certificate of deposit that paid interest at an annual rate of 8% compounded semi-annually. What was 
+the total amount of interest paid on this certificate at maturity? a)10816b)916c)11826
+d)816
+320. The price of lunch for 15 people was 207 pounds, including a 15 percent gratuity of service. What was 
+the average price per person, EXCLUDING the gratuity?  a)11b)12c)13d)14
+321.All faces of a cube with an eight - meter edge are painted red.  If the cube is cut into smaller cubes with a 
+two - meter edge, how many of the two meter cubes have paint on exactly one face?  A. 24B. 36C. 
+60D. 48
+322. Mean of three no. is 10 more than the least of the numbers and 15 less than the greatest of the three. If 
+the median of the three numbers is 5 then the sum of three is:   A.5B.20C.30D.25
+323. There is a circle which circumscribes 3 unit circles which are tangential to each other. What is the 
+circumference of the bigger circle?A .π(7+2√3)/√3    B. π(4+2√3)/√3C. Cannot be determined
+D. None of these
+
+324. Sum of the weights of mother,daughter,infant is 74kg.  Mother’s weight is 46 kg more than the sum of 
+the weights of the daughter and the infant. Infant’s weight is less than the daughter’s weight by 60%. Find 
+the daughter’s weight.
+a.10   B.7C.4D.60
+325. In an office, at various times during the day the boss gives secretary a letter to type, each time putting 
+the letter on the top of the pile in the secretary takes the inbox. When there is time the secretary takes the top 
+letter of the pile and type it. If there are 5 letters in all  and the boss delivers them in order 1,2,3,4,5 which of 
+the following could not be the order in which the secretary types them:A.2,4,3,5,1B.4,5,2,3,1
+C.3,2,4,1,5D.1,2,3,4,5
+326. 6 task and 6 person   p1& p2 does not do task t1. T2 is assigned to p3 or p4. Each person should be 
+assigned to with atleast one task. In how ways the task can be assigned?A.192B.360
+C.144D.180
+327. If x^y denotes x raised to the power of y. Find the last two digit of  (1941^3843)+(1961^4181)
+a.02b. 82c. 42d.22
+328. A child was looking for his father. He went 90m in the east before turning to his right again to look for 
+his father at his uncle’s place30m from this point. His father was not there from here he went 100m to north 
+be fore meeting his father in a street. How far did the son meet his father from the starting  point?A.90 b. 
+30c. 80d.100
+329. In how many possible ways can you write 3240 as a product of 3 positive integers a,b,c   a. 450 b. 420  
+c. 350 d. 320
+330.The saving of an employee equals income & expenditure. If the income of A,B,C are in the ratio 1:2:3. 
+Expenses is 3:2:1. Then what is the order of employees A, B, C in the increasing order of their size of their 
+savings?  a. A>C>B   b. b>a>c   c. B>C>A  d. C>B>A
+331. Radius of the bigger circle is 1. Which area will be greater?
+a.5b.4c. cannot be determinedd. none of these
+332.77!*(77!-2*54!)
+3 
+/ (77!+54!)
+3 
++54!* (2*77!+54!)
+3 
+/(77!+54!)
+3
+    A.2*77!+2*54!  B.77!-54!C.77!+54!  
+D.2*77!-2*54!
+333.A sum is sufficient to pay either George age for 15 days or marks wage to 10days how long together? a.9  
+b.5   c.6    d.8
+334. 18 horses run a race. Probability of winning the race is given for H1, H2, and H3. What is the 
+probability that any of the three winning the race? P(H1) = 1/7 P(H2) = 1/8P(H3) = 1/5  A.143/280   
+B.123/280    C.131/280  D. None of these
+335. When Rearranging the letters of the word IRONES. What is the 28
+th
+ word according to dictionary order?
+A. ENOIRSB. ENRIOSC. ENIRSOD.IERONS
+336. A circle of 20m radius has 2 chords of length 24 & 32 respectively, then what is the distance between 
+those 2 chords?
+A. 28B. 4C. Both A & BD. None of these
+337. In how many ways a cricketer can score 200 runs with only 4s or 6s? A.18   B.15 C.17 D. None of these
+338. Two alloys A and B are composed of two basic elements. The ratios of the composition of the two basic 
+elements in the 2 alloys are 5:3 and 1:2 respectively. A new alloy X is formed by mixing the 2 alloys A and 
+B in the ratio 4:3. What is the ratio of the composition of the 2 basic elements in alloy X?A. 2:3B. 1:5C. 
+1:1D. 3:1
+339. Two cars start from A and B and travel towards each other at speeds of 50 kmph and 60 kmph 
+respectively. At the time of their meeting the second car has travelled 120 km more than the first, the 
+distance between A and B is:
+a) 600 Km b) 1320 Kmc) 720 Km          d) 3120 Km
+340. A tree of height 36 m at the edge of a road broke at a certain height and it fell in such a way that its top 
+touched the other edge of the road. If the breadth of the road is 12m, then the height at which the tree broke 
+was  a) 24 b) 16 c) 18 d)12
+7
+
+341.  A,B and C can do some work in 36 days. A and B together do twice as much work as C alone, and A 
+and C together can do thrice as much work as B alone. Fine the time taken by C to do the whole worka) 
+72 b)120c) 108d) 96
+342. Professor Absentminded has a very peculiar problem that he cannot remember number larger than 15. 
+However, he tells his wife,  I can remember any number up to 100 by remembering the three numbers 
+obtained as reminders when the number is divided by 3,7 and 11 respectively. For example(2,3,6) is 17. 
+Professor remembers that he had ( 2,4,8) rupees in the purse, and he paid(2,5,4) rupees to the servant. How 
+much money is left in the purse?  a) 51b) 55 c) 48 d) 37
+343. Ahmed, Babu, Chitra, David and Eesha each choose a large different number. Ahmed says, My number 
+is not the largest and not the smallest”. Baby says, :My number is not the largest and not the smallest”.  
+Chitra says,” My number is the largest”. David says, “My number is the smallest”. Eesha says, “My number 
+is not the smallest”. Exactly one of the five children is lying. The others are telling the truth. Who has the 
+largest number?  a) David  b) Eesha  c) Chitra   d) Babu
+344.Of the following, which is the closest approximation of (50.2*0.49)/199.8 ?  a)0.125   b)0.0125  
+c)0.00125   d)0.000125
+345.Jake can dig well min 16 days. Paul can dig the same well in 24 days. Jake, Paul and Hari together dig 
+the same well in 8 days. Hari alone can dig the well ina)32 daysb. 48 days c. 96 days  d. 
+24 days
+346.Apple costs L rupees per kilogram for first 30kgs and Q rupees per kilogram for each additional 
+kilogram. If the price of 33 kilograms is 11.67and for 36kgs of Apples is 12.48 then the cost of first 10 kgs of 
+Apples is
+a)3.62  b)4.78  c)6.87 d)9.56
+347. 36 people {a1, a2... a36} meet and shake hands in a circular fashion. In other words, there are totally 36 
+handshakes involving the pairs, {a1, a2}, {a2, a3}, ..., {a35, a36}, {a36, a1}. Then size of the smallest set of 
+people such that the rest have shaken hands with at least one person in the set isa) 12b) 11
+c) 13d) 18
+348. If twenty four men and sixteen women work on a day, the total wages to be paid is 11,600. If twelve 
+men and thirty seven women work on a day, the total wages to be paid remains the same. What is the wages 
+paid to a man for a day’s work?(a) 100(b) 350(c) 200(d) 700
+349. One day Eesha started 30 min late from home and reached her office 50 min late while driving 25% 
+slower than her usual speed. How much time in min does eesha usually take to reach her office from home?
+A. 70 MinutesB. 40 MinutesC. 60 MinutesD. 50 Minutes
+350. In 2003 there are 28 days in February and 365 days in a year in 2004 there are 29 days in February and 
+366 days in the year. If the date march 11 2003 is Tuesday, then which one of the following would the date 
+march 11 2004 would be?
+A. 3   B. 2   C. 4    D. 5
+351. A shop sells chocolates It is used to sell chocolates for Rs.2 each but there were no sales at that price. 
+When it reduced the price all the chocolates sold out enabling the shopkeeper to realize Rs 164.90 from the 
+chocolates alone If the new price was not less than half the original price quoted How many chocolates were 
+sold? A. 1.5 B. 2.2C. 1.7D. 3.5
+352) Eesha bought two verities of rice costing 50Rs per kg and 60 Rs per kg and mixed them in some ratio 
+.Then she sold that mixture at 70 Rs per kg making a profit of 20 % What was the ratio of the mixture?A. 
+1:5B. 1:2C. 1:3D. 1:5
+353.  If f(1)=4 and f(x+y)=f(x)+f(y)+7xy+4,then f(2)+f(5)=?A. 150B. 125C. 100D. 
+175
+354. A boy buys 18 sharpners, (Brown/white) for Rs.100.  For every white sharpener, he pays one rupee 
+more than the brown sharpener. What is the cost of white sharpener and how much did he buy?A. 5, 13 B. 5, 
+10 C. 6, 10D. None of these
+355. Letters of alphabets no from 1 to 26 are consecutively with 1 assigned to A and 26 to Z.  By 27th letter 
+we mean A, 28th B. In general 26m+n, m and n negative intezers is same as the letters numbered n. Let P = 
+6, strange country military general sends this secret message according ot the following codification scheme. 
+ In codifying a sentence, the 1st time a letter occurs it is replaced by the pth letter from it.   2nd time 
+
+if occurred it is replaced by P^2 letter from it. 3rd time it occurred  it is replaced by p^3 letter from it.What is 
+the code word for ABBATIALA.
+A.GHNNZOORB. GHKJZOHRC. GHHGZOGRD. GHLKZOIR
+356. In how many ways a team of 11 must be selected a team 5 men and 11 women such that the team must 
+comprise of not more than 3 men.A. 1565B. 2256C. 2456D. 
+1243
+357. From a group of 7 men and 6 women, five persons are to be selected to form a committee so that at least 
+3 men are there on the committee. In how many ways can it be done?A. 564B. 645C. 735D. 756E. 
+None of these
+358. 2 gears one with 12 teeth and other one with 14 teeth are engaged with each other. One teeth in smaller 
+and one tooth in bigger are marked and initially those 2 marked teeth are in contact with each other. After 
+how many rotations of the smaller gear with the marked teeth in the other gear will again come into contact 
+for the first time?
+A.7B. 12 C. Data insufficientD. 84
+359.A and B run a 1 km race. If A gives B a start of 50m, A wins by 14 seconds and if A gives B a start of 22 
+seconds, B wins by 20 meters.  Find the time taken by A to run 1 km.To solve these type of questions, 
+always keep in your mind that, the ratio of the speeds of two contestants never change.A. 150B. 
+125C. 100D. 175
+360. What was the day of the week on 28th May, 2006?A. ThursdayB. Friday   C. SaturdayD. 
+Sunday
+361. In a group of 6 boys and 4 girls, four children are to be selecteD. In how many different ways can they 
+be selected such that at least one boy should be there?A. 159 B. 194    C. 205  D. 209        
+E. None of these
+362. Kate wanted to buy 2kgs of apples. The vendor kept the 2kg weight on the right side and weighed 4 
+apples for that.  She doubted on the correctness of the balance and placed 2 kg weight on the left side and she 
+could weight 14 apples for 2 kgs. If the balance was correct how many apples she would have got?A. 6
+B. 8C. 9D. 10
+363. Find the remainder when 32^33^34 is divided by 11A. 6B. 8C. 9D. 10
+364. A box contains 2 white balls, 3 black balls and 4 red balls. In how many ways can 3 balls be drawn from 
+the box, if at least one black ball is to be included in the draw?A. 32B. 48C. 64D. 96E. 
+None of these
+365. There are several bags of same weight.  A bag is 6 kgs plus three fourth of the weight of another bag. 
+ What is the weight of a bag?A. 15B. 24C. 43D. 35
+366. Find the remainder when 6^50 is divided by 215A. 36B. 24C. 44D. 15
+367. Find last two digits of the following expression (201*202*203*204*246*247*248*249)^2   A. 76B. 
+74 C. 64D. 75
+368. A jar full of whisky contains 40% alcohol. A part of this whisky is replaced by another containing 19% 
+alcohol and now the percentage of alcohol was found to be 26%. The quantity of whisky replaced is:A. 1/3
+B. 2/3C. 2/5 D. 3/5
+369. The sum of three digits a number is 17.  The sum of square of the digits is 109.  If we subtract 495 from 
+the number, the number is reverseD.  Find the number.A. (8,3,3)B. (8,3,6)C. (8,6,3)D. 
+(2,3,6)
+370. A calculator has a key for squaring and another key for inverting.  So if x is the displayed number, then 
+pressing the square key will replace x by x^2 and pressing the invert key will replace x by 1/x.  If initially the 
+number displayed is 6 and one alternatively presses the invert and square key 16 times each, then the final 
+number displayed (assuming no round off or overflow errors) will beA. 665536B. 665336
+C. 625536D. 664536
+371. How many two digit numbers are there which when subtracted from the number formed by reversing it's 
+digits as well as when added to the number formed by reversing its digits, result in a perfect square.  A. 56  
+B. 54C. 52D. 55
+372) A boat running upstream takes 8 hours 48 minutes to cover a certain distance, while it takes 4 hours to 
+cover the same distance running downstream. What is the ratio between the speed of the boat and speed of 
+
+the water current respectively?A. 2 : 1B . 3 : 2          C. 8 : 3        D. Cannot be determined      
+E. None of these
+373) If Rs20/- is available to pay for typing a research report & typist A produces 42 pages and typist B 
+produces 28 pages. How much should typist A receive?A. Rs 7 B. Rs 8 C. 
+Rs 12 D. Rs 10 
+374) In some game 139 members have participated every time one fellow will get bye what is the number of 
+matches to choose the champion to be held? A. 148 matches  B. 155 matches    C. 138 matches 
+D. 145 matches
+375) One rectangular plate with length 8inches, breadth 11 inches and 2 inches thickness is there. What is the 
+length of the circular rod with diameter 8 inches and equal to volume of rectangular plate?      A. 3.5      
+B. 5 C. 4D. 2.5
+376) A man has to get air-mail. He starts to go to airport on his motorbike. Plane comes early and the mail is 
+sent by a horse-cart. The man meets the cart in the middle after half an hour. He takes the mail and returns 
+back, by doing so, he saves twenty minutes. How early did the plane arrive?A. 12 min. B. 15 min. 
+C. 8 min. D. 10 min.
+377) 2 trees are there. One grows at 3/5 of the other. In 4 years total growth of the trees is 8 ft. what growth 
+will smaller tree have in 2 years.   A. 3.5 B. 1.5C. 4 D. 2.5
+378) There are 4 balls and 4 boxes of colours yellow, pink, red and green. Red ball is in a box whose colour 
+is same as that of the ball in a yellow box. Red box has green ball. In which box you find the yellow ball?
+A. green B. Red C. yellow D. pink
+379) A bag contains 20 yellow balls, 10 green balls, 5 white balls, 8 black balls, and 1 red ball. How many 
+minimum balls one should pick out so that to make sure the he gets at least 2 balls of same color.   A. 3B. 5
+C. 4 D. 6
+380) What is the number of zeros at the end of the product of the numbers from 1 to 100    A. 17  B. 15 C. 
+16 D. 24
+381) There are two numbers in the ratio 8:9. if the smaller of the two numbers is increased by 12 and the 
+larger number is reduced by 19 thee the ratio of the two numbers is 5:9. Find the larger number? A. 36B. 
+45 C. 18 D. 24
+382) There are three different boxes A, B and C. Difference between weights of A and B is 3 kgs. And 
+between B and C is 5 kgs. Then what is the maximum sum of the differences of all possible combinations 
+when two boxes are taken each time
+A. 17kg B. 15kg C. 16kg D. 24kg
+383) A and B are shooters and having their exam. A and B fall short of 10 and 2 shots respectively to the 
+qualifying mark. If each of them fired atleast one shot and even by adding their total score together, they fall 
+short of the qualifying mark, what is the qualifying mark?A. 11 B. 15 C. 
+13 D. 14
+384) A, B, C, and D tells the following times by looking at their watches. A tells it is 3 to 12. B tells it is 3 
+past 12. C tells it is 12:2. D tells it is half a dozen too soon to 12. No two watches show the same time. The 
+difference between the watches is 2,3,4,5 respectively. Whose watch shows maximum time? A.A B. 
+B C. C D. D
+385. Falling height is proportional to square of the time. One object falls 64cm in 2sec than in 6sec from how 
+much height the object will fall.A.576cm B. 500cmC.484cm 
+D. 496cm
+386. Gavaskar average in first 50 innings was 50. After the 51st innings his average was 51 how many runs 
+he made in the 51st innings. A.101 B. 106C.135D. 96
+387. Anand finishes a work in 7 days, Bittu finishes the same job in 8 days and Chandu in 6 days. They take 
+turns to finish the work. Anand on the first day, Bittu on the second and Chandu on the third day and then 
+Anand again and so on. On which day will the work get over?A. 3
+rd
+   B. 6
+th
+   
+C. 9th   D. 7
+th
+388. Two out of five employees are capable of doing a certain task. Sixty percent of the five employees, 
+including the two who are capable, are assigned to a project involving this task. what percentage of 
+employees assigned to the project are not capable?A. 36.23 B. 45.45 C. 33.33
+ D. 24
+
+389. What is the next number of the following sequence   3,3,5,4,4,3,5,?    A. 3  B. 6  C. 9  D. 5
+390. 25% of X = 45% of Y. Then X : Y is:A. 3:5 B. 9:5C. 5:9  D. 5:3
+391. Find the ratio of purchase price and sell price if there is loss of 12 1/(2 )%A. 8:7 B. 8:5C. 5:8   
+D. 8:3
+392. A can contains a mixture of two liquids A and B is the ratio 7 : 5. When 9 litres of mixture are drawn off 
+and the can is filled with B, the ratio of A and B becomes 7 : 9. How many litres of liquid A was contained 
+by the can initially?
+A. 10B. 20C. 21D. 25
+393. A 16 stored building has 12000 sq.feet on each floor. Company A rents 7 floors and company B rents 4 
+floors. What is the value of sq.feet of unrented floor spaceA. 80000 B. 60000  C. 90000   D. 
+50000
+394. Two pipes can fill a tank in 10 and 12 hours, while third pipe will make the tank empty in 20 hours. If 
+all three pipes operate simultaneously. In how many hours the tank will be filled ?   A. 8hrs  B. 6.5hrs  
+C. 9hrs   D. 7.5hrs
+395. From a vessel, 1/3rd of the liquid evaporates on the first day. On the second day 3/4th of the remaining 
+liquid evaporates. What fraction of the volume is present at the end of the second day.  A. 1/8  B. 1/6  C. 
+1/2  D. 1/5
+396. A Shopkeeper divides an ice-cream brick in two halves, then cut one of the halves into several smaller 
+portions of equal size. Each of the smaller portions weights 12 grams. The shopkeeper now has a total of 5 
+portions. How heavy was the original brick?
+A.9 8  B. 96  C. 99   D. 95
+397. In a normal 5-day work week, each of 12 employees produces 300 items per day-last week, 1/3 of the 
+employees were absent from work for 2/5 of the days in the week. how many total items were produced last 
+week?
+A. 15000 B. 15600  C. 16000   D. 16200
+398. If a man buys 1 liter of milk for 12 rs. and mixes it with 20% water and sells it for 15 rs then wat is d 
+%age of gain...
+A.9. 82%  B. 6.92%  C. 4.16%   D. 9.52%
+399. How many combinations are possible if 3 one rupee coin, 4 fifty paise coin and 2 twenty five paise coin 
+are available. It is compulsory to select any one of the coinA.60 B. 62  C. 59   D. 
+57
+400. if 2+3=8,       3+7=27,  4+5=32,       5+8=60,     6+7=72,    then   7+8=??  A.98  B. 96  C. 90  
+D. 92
+401. In 2003, there are 28 days in Feb and there are 365 days in the year. In 2004, there are 29 days in Feb 
+and there are 366 days in year. If the date March 11,2003 is a Tuesday, then which one be date March 
+11,2004
+A.TuesdayB.MondayC.Thursday    D. Friday
+402.How many numbers x  with 10<=x<=99 are 18 more than sum of their digits? A. 12B.9C.18
+D.10
+403. How many lattice points are there between (2,0) and (16,203)A.8B.10C.14
+D.15
+404. 4 parallel lines are drawn parallel to one side of an equilateral triangle such that it cuts the other two 
+sides at equal intervals. The area of the largest segment thus formed is 27 m
+2
+. Find the area of the triangle  
+A.100  B.75 C.80D.54
+405. In a simple subtraction problem below, single digits are replaced by letters. Find the value of 
+3a+7b+4cd=?
+A.80B.95C.89D.96
+406.Two dice are thrown. Find the probability of getting a multiple of 3 or 4 as the sum   A.5/9B.4/9
+C.2/9D.1/9
+407. There are four couple who go for a honeymoon together. At one of the places they all have to cross a 
+river but there is only one boat available. Wives are jealous and they don’t like their husband. Travelling 
+with other women.  Husbands are also possessive and they don’t like their wives travelling with other man. 
+The number of minimum possible ways in they will cross the river are.a. 16b. 17 c. 18 d.  19
+
+408. An  absent minded professor has a very peculiar problem in that he cannot remember numbers  large 
+than 15.  However, he tells his wife, “ I can remember any number upto 100 by remembering the 3 numbers 
+obtained as remainder when the number is divided by 3,5,7 respectively.  (EG: 2,2,3 is 17). Professors 
+remember that he had (1,1,6) Rs. In the purse and he paid(2,0,6) Rs. To the server. How many money left  in 
+the purse.  A. 56b. 60c. 72d. 48
+409. A box of fruits can be loaded in truck in 9 min by a worker and 8 boxes fill a truck completely. How 
+many trucks can be loaded completely in 1
+⅟
+2 hours if there are 16 men working together?a. 21b.20c.23
+d.22
+410.Three cars A,B,C are participating in a race. A is twice as likely as B to win & B is thrice as likely as C 
+to win. What is the probability that B will win. If only one of them can win the race?a.1/2b.2/5
+c.3/10d.1/10
+411.Consider a triangle drawn on the x-y plane with its 3 vertices at (41,0)(0,41)(0,0) ach vertices being 
+represented by its (x,y ) coordinates the no of points with integer coordinates inside the triangle(excluding all 
+points on the boundary)is
+a.780b.800c.820d.741
+412.Which satisfies the condition P must be greater than Q? a.0.9^P=0.9^Q  b.0.9^P=0.92^Q  c.0.9^P>0.9^Q  
+d.0.9P>0.9Q
+413. ab313ba is completely divisible by 12 (where a and b are +ve integers). What is the sum of ‘a and b’?
+A.7B.13C.12D. both a & b
+414. The average of 24 numbers is 76. Three numbers 78, 89, 97 were inverted and noted down wrongly. 
+What is the percentage difference between actual value and the wrong value?A.1% decreaseB.1% 
+increaseC. No change D. None of these
+415. In the magic figure shown below the sum of the numbers in each row,column and diagonal are the 
+same. What is the value of y+zA.242B. 430C. 216D. 261
+416. If f(x)=7x+12, find f-1(x) for all x?A. (x-12)/7B. 7x+12C. 1/7x+12D. None
+417. Let f(m,n)=45*m+36*n, where m and n are integers (positive or negative) What is the minimum 
+positive value for f(m,n) for all values of m,n (this may be achived for various values of m and n)?A. 9  
+B. 18C. 27D. 21
+418. Lottery balls are numbered and coloured balls. In the famous lotto, six numbered balls are drawn at 
+random from 49 balls. In each ticket one needs to guess the six numbers that would be drawn. If no correct 
+guesses are received the price money is carried to next draw. It is not uncommon to see prize money 
+accumulating to several millions of dollars. An urn contains m white and n Black balls. A ball is drawn at 
+random and is out back into the um along with k additional balls of the same colour as that of the ball drawn. 
+A ball is again drawn at random. The probability of drawing a white ball now:
+a.Does not depend on k  b.Increases with k   c.Cannot be determined without additional information   
+d.Decreases with k
+419. In this question, A^B refers to A raised to the power B.Assume that the rate of consumption of coal by a 
+locomotive engine values as the square of its speed and is 1000 kg per hour when the speed is 60 km per 
+hour, when in motion. If coal costs the railway company Rs.15 per 100 kg and if the other expenses of 
+running the train is Rs.12 per hour, find a formula for the cost in paise kilometer when the speed is S km per 
+hour.
+a.(1200/S)+(25S^2/6)b.(1200/S)+(25S/6)c.None of thesed.(1200/S)+(5S^2/18)
+420. Three distinct single-digit numbers A, B and C are in Geometric Progression. If aba(x) is the absolute 
+value of x(if x positive or zero, and –x if x is negative), then the number of different possible values of 
+abs(A+B-(C)) is
+a.3b.4c.5d.None of these
+421. In this question, X^Y means, X raised to the power of Y. How many integers of x satisfy the equation 
+(x^2-x- )^(x+2)=1?  a.2b.4c.3d. None of these
+422. Certain positive integers have these properties:
+i)The sum of the squares of their digits is 50ii)Each digit is larger than one to its left.
+The product of the digits of the largest integer with both properties is     a) 7b) 25c) 36d) 48  e)50
+423. The rupee/coin changing machine at a bank had a flaw. It gives 10 ten rupees note if you put a 100 
+rupee note and 10 one rupee coins if you insert a 10 rupee note, but gives 10 hundred rupee notes when you 
+
+put a one rupee coin.Sivaji, after being ruined by his rivals is left with a one rupee coin and discovers the 
+flaw in the machine by accident. By using the machine repeatedly, which of the following amounts is a valid 
+amount that Sivaji can have when he gets tired and stops at some stage (assume that the machine has an 
+infinite supply of notes and coins)  a) 9989  b) 35965   c) 24975d) 17984
+424. A tourist wants to visit 3 or more of the 5 major cities in India: Chennai, Bengaluru, Mumbai, Delhi and 
+Kolkata. In how many ways can he plan his tour such that Chennai is always included? (Two plans of the 
+tour are different if the cities in the tour or the order of the cities in different.)  a) 5! + 2 !  b) 5! + (4x4!) + 
+(6x3!)c) 5!  4! + 3!d) 5(4! + 3! + 2!)
+425. A sequence x1 , x2 and x3 ...is said to be in a harmonic progression if the reciprocals 1/x1,1/x2 and 
+1/x3 are in arithmetic progression. The 5th term and the 7th term for an harmonic progression are 30 and 50 
+respectively. What is the difference between the 6th and 4th term.a. 16      b.14.5    c.13.4     d. 12.5
+426. 1541^1041 + 1671^2356 . find last two digits?a.42B.52C.62D.82
+427. Mr and Mrs Smith have invited 9 of their friends and their spouses for a party at the Waikiki Beach 
+resort.  They stand for a group photograph.  If Mr Smith never stands next to Mrs Smith (as he says they are 
+always together otherwise). How many ways the group can be arranged in a row for the photograph?   A. 20!
+B. 19! + 18!C. 18 x 19!D. 2 x 19!
+428.N is an integer and N>2, at most how many integers among  N + 2, N + 3, N + 4, N + 5, N + 6,  and N + 
+7 are prime integers?
+A. 1B. 3C. 2D. 4
+429) If log 0.317=0.3332 and log 0.318=0.3364 then find log 0.319 ?a) 0.3364  b)0.4996c) 0.3396
+d)0.2358
+430) A box of 150 packets consists of 1kg packets and 2kg packets. Total weight of box is 264kg. How many 
+2kg packets are there ?     a) 114             b)122c) 104d)134
+431) My flight takes of at 2am from a place at 18N 10E and landed 10 Hrs later at a place with coordinates 
+36N70W. What is the local time when my plane landed?a)6:00 am b) 6:40am c) 7:40am d) 
+7:00am 
+432) A plane moves from 9°N40°E to 9°N40°W. If the plane starts at 10 am and takes 8 hours to reach the 
+destination, find the local arrival time           a)12:00            b) 12:30          c) 1:40             d) 2:00  
+433) The size of the bucket is N kb. The bucket fills at the rate of 0.1 kb per millisecond. A programmer 
+sends a program to receiver. There it waits for 10 milliseconds. And response will be back to programmer in 
+20 milliseconds. How much time the program takes to get a response back to the programmer, after it is sent?   
+a)30ms    b) 35ms  c) 40ms    d) 25ms 
+434) A fisherman's day is rated as good if he catches 9 fishes, fair if 7 fishes and bad if 5 fishes. He catches 
+53 fishes in a week n had all good, fair n bad days in the week. So how many good, fair n bad days did the 
+fisher man had in the week
+a) 4 good, 2 fair n 1 bad days  b) 4 good, 1 fair n 2 bad days   c) 3 good, 2 fair n 2 bad days d) 5 good, 1 fair n 
+1 bad days
+435) Three companies are working independently and receiving the savings 20%, 30%, 40%. If the 
+companies work combinely, what will be their net savings? a)30%     b) 35%    c) 40%   d) 25% 
+436) The ratio of incomes of C and D is 3:4.the ratio of their expenditures is 4:5. Find the ratio of their 
+savings if the savings of C is one fourths of his income?                a)13/15           b) 12/19        c) 2/19               
+d) 25/27 
+437) If G(0) = -1 G(1)= 1 and G(N)=G(N-1) - G(N-2) then what is the value of G(6)?  a)0       b) 1         c) -1        
+d) 2 
+438) If A can copy 50 pages in 10 hours and A and B together can copy 70 pages in 10 hours, how much 
+time does B takes to copy 26 pages?        a) 3hrs            b) 3.5hrs       c) 4hrs            d) 2.5hrs
+439) A bus started from bustand at 8.00a m and after 30 min staying at destination, it returned back to the 
+bustand. the destination is 27 miles from the bustand. the speed of the bus 50 percent fast speed. at what time 
+it returns to the bustand
+a)7:00 am b) 9:40am c) 11:40amd) 11:00am 
+440) Let N be the greatest number that will divide 1305, 4665 and 6905, leaving the same remainder in each 
+case. Then sum of the digits in N is: a) 4     b) 5        c)6     d)8
+
+441) In Madras, temperature at noon varies according to -t^2/2 + 8t + 3, where t is elapsed time. Find how 
+much temperature more or less in 4pm to 9pm.              a)7.5 moreb) 7.5 less    c) 8.5 mored) 7 less
+442) A person had to multiply two numbers. Instead of multiplying by 35, he multiplied by 53 and the 
+product went up by 443. What was the raised product?a) 780               b) 1040        c) 1590              d) 
+1720
+443). Gauri went to the stationers and bought things worth Rs. 25, out of which 30 paise went on sales tax on 
+taxable purchases. If the tax rate was 6%, then what was the cost of the tax free items? A. Rs. 15 B. 
+Rs.15.70C. Rs. 19.70D. Rs. 20
+444) The total expense of a boarding house are partly fixed and partly variable with the number of boarders. 
+The charge is Rs.70 per head when there are 25 boarders and Rs.60 when there are 50 boarders. Find the 
+charge per head when there are 100 boarders.a) 65                b) 55         c) 50   d) 45
+445) Amal bought 5 pens, 7 pencils and 4 erasers. Rajan bought 6 pens, 8 erasers and 14 pencils for an 
+amount which was half more than what Amal had paid. What % of the total amount paid by Amal was paid 
+for pens?
+a) 37.5% b) 62.5%   c) 50%  d) None of these
+446) I lost Rs.68 in two races. My second race loss is Rs.6 more than the first race. My friend lost Rs.4 more 
+than me in the second race. What is the amount lost by my friend in the second race?a) 41    b) 
+35      c) 57   d) 45
+447) (1-1/6) (1-1/7).... (1- (1/ (n+4))) (1-(1/ (n+5))) = ? a) 5/(n+5)b) 4/(n+5)c) 3/(n+5)d) 
+6/(n+5)
+448) A face of the clock is divided into three parts. First part hours total is equal to the sum of the second and 
+third part. What is the total of hours in the bigger part?a) 3hrs b) 5hrs c) 4hrs d) 
+6hrs
+449) With 4/5 full tank vehicle travels 12 miles, with 1/3 full tank how much distance travels
+a) 3miles b)5 miles c) 4 miles d) 2.5 miles
+450) wind blows 160 miles in 330min.for 80 miles how much time required a) 175 min.b) 155 min.  c) 165 
+min. d) 145 min.
+451) A person was fined for exceeding the speed limit by 10mph.another person was also fined for exceeding 
+the same speed limit by twice the same if the second person was travelling at a speed of 35 mph. find the 
+speed limit    a) 17 b) 15 c) 16  d) 14                                                                          
+452) A sales person multiplied a number and get the answer is 3 instead of that number divided by 3. what is 
+the answer he actually has to get.           a) 1/7b) 1/5c) 1/6 d) 1/3
+453) Low temperature at the night in a city is 1/3 more than 1/2 hinge as higher temperature in a day. Sum of 
+the low temp and high temp is 100 c. then what is the high temp.          a)30b) 50 c) 
+40d) 60
+454) A work is done by the people in 24 min. One of them can do this work alone in 40 min. How much time 
+required to do the same work for the second person               a)30 mins. b) 50 mins.  c) 40 mins. d) 
+60 mins.
+455 In a company 30% are supervisors and 40% employees are male if 60% of supervisors are male. What is 
+the probability? That a randomly chosen employee is a male or female?  a) 0.3364b)0.264    c) 0.3396
+d)0.2358
+456. Hanuman can complete a bridge in 10 days and Ravanan can complete the same bridge in 20 days. Now 
+they are working together and they are completing the bridge in 20 days. What is the contribution of Ravanan 
+in constructing the bridge?  (a) Half the work    (b) One-third of the work(c) Two-fourth of the 
+bridge(d) Destructing the bridge
+457 .(a% of a) + (b% of b) = 2% of ab, then what percentage of a is b? (a) 50% (b) 75% (c) 100 %(d) 
+Cannot be determined.
+458 .When numbers are written in base b, we have 15*22 = 414, the value of b is (a) 8 (b) 7 (c) 6 (d) None of 
+these
+459. 5 coffee and 4 tea costs Rs.96, 5 badam milk and 6 coffee costs Rs. 32 and 7 tea and 6 badam milk costs 
+Rs.37. What is the combined price of 1tea, 1 coffee and 1 badam milk?(a) 12 (b) 15 (c) 20 (d) 16
+
+460. There is a set of numbers that relate to each other in a certain way. Find the way the first set of boxes 
+works. The numbers in the second set work in exactly the same way. Find the number that must go in the 
+empty box in the first set.
+301112867219
+636363
+144196341311724435
+(a) 343 (b) 346 (c) 349 (d) 643
+461. A circle has 29 points arranged in a clockwise manner numbered from 0 to 28, as shown in the figure 
+below. A bug moves clockwise around the circle according to the following rule. If it is at a point i on the 
+circle, it moves clockwise in 1 second by ( 1 + r ) places, where r is the reminder ( possibly 0 ) when i is 
+divided by 11. Thus if it is at position 5, it moves clockwise in one second by ( 1 + 5 ) places to point 11. 
+Similarly if it is at position 28 it moves ( 1 + 6 ) or 7 places to point 6 in one second.
+If it starts at point 28, at what point will it be after 9994 seconds?
+(a) 1 (b) 5 (c) 7 (d) 3
+462 .Jake is faster than Paul. Jake and Paul each walk 40 km. The sum of their speeds is 13 km/h and the sum 
+of time taken by them is 13 hours. Then Jake’s speed is equal to :(a) 7Kmph (b) 8Kmph (c) 13Kmph (d) 
+9Kmph
+463. P ( x ) = ( x
+999
+ + x
+998
+ + x
+997
+ + . . . . + x + 1)
+2
+– x
+999
+Q ( x ) = x
+998
+ + x 
+997
+ + . . . . + x + 1
+The reminder when P ( x ) is divided by Q ( x ) is(a) x + 1 (b) 0 (c) 1 (d) x – 1
+464 .A Samsung duo and a Galaxy are bought for Rs.40000. The Duo is sold at a profit of 33.33% and the 
+Galaxy is sold at a loss of 20%. There was no loss or gain. Find the cost price of the Samsung duo ? (a) 
+Rs.15,000 (b) Rs.25,000 (c) Rs.20,000(d) Rs.18,000
+465. If a Strawberry and a Butterscotch together cost Rs. 18.00, a Vanilla and a Strawberry cost Rs. 9.00 and 
+a Butterscotch cost Rs.9.00 more than a Vanilla or a Strawberry then which of the following can be the price 
+of Butterscotch?
+(a) Rs. 13.5 (b) Rs.10 (c) Rs. 12 (d) Rs. 13
+466 .If KMNOQ is 7- 5 - 4 - 3 - 1 and DEFIJ is 4-5-6-9-8 and RSWYZ is 2-3-7-9-8 then AGVXH is
+(a) 1 - 7 - 6- 8 - 8 (b) 1 - 7 - 3 - 5 - 7 (c) 9 - 3 - 7 - 6 - 5 (d) 7 - 8 - 4 - 5 - 3
+467. My next door neighbour lies a lot. In fact, he only tells the truth on one day a week! One day he told me, 
+“I lie on Mondays and on Tuesdays.”The next day he said, “Today is either Thursday, Saturday or 
+Sunday.”The next day he said, “I lie on Wednesdays and Fridays.” On which day of the week does my 
+neighbour tell the truth?(a) Monday (b) Tuesday ( c) Wednesday (d) None of these
+468. The addition 457 + 982 + 896 = 2345 is incorrect. What is the least digit that can be changed to make 
+the addition correct?
+(a) 5 (b) 7 (c) 6 (d) 3
+469 .A child was looking for his father. He went 42 metres in the East before turning to his right. He went 20 
+metres before turning to his right again to look for his father at his uncle’s place 30 metres from this point. 
+His father was not there. From here he went 25 metres to the North before meeting his father in a street. How 
+far did the son meet his father from the starting point?(a) 7 (b) 25 (c) 13 (d) 11
+470. At the end of 1994 Rohit was 1/4
+th
+ as old as his grandmother. The sum of the years in which they were 
+born is 3843. How old Rohit was at the end of 2001?(a) 48 (b) 36 (c) 29 (a) 34
+471 .Raj writes a number. He sees that the number of two digits is 9 less than 3 times the number. If the 
+number is increased by 45, the result is the same as the number formed by reversing the digit. Find the 
+number.(a) 35 (b) 27 (c) 36 (d) 49
+472 .Find the value of “n” where 3
+48
+ + 3
+1996
+ + 3
+3943
++3
+3n
+(a) 1963 (b) 1964 (c) 1960 (d) 1991
+
+473. There are 5 sweets – Milk peda, Ice cream, Rasagulla Paper sweet and Rasamalai that I wish to eat on 5 
+consecutive days – Monday through Friday, one sweet a day, based on the following self imposed 
+constraints:
+1) Paper sweet is not eaten on Monday2) If Milk peda is eaten on Monday, then Paper sweet must be 
+eaten on Friday
+3) If Paper sweet is eaten on Tuesday, Ice cream should be eaten on Monday
+4) Rasagulla should be eaten on the day preceding to the day of eating Milk peda.
+Based on the above, Rasagulla can be eaten on any day except?(a) Tuesday (b) Monday (c) Wednesday 
+(d) Friday
+474 .Raj drives slowly along the perimeter of a rectangular park at 24 kmph and completes one full round in 
+4 minutes 30 seconds. If the ratio of the length to the breadth of the park is 5 : 7, what are its dimensions?
+(a)1500m x700m(b) 375m x525m (c) 35m x 49m (d) 100m x 100m
+475 .In a office, at various times during the day the boss gives the secretary a letter to type, each time putting 
+the letter on the top of the pile in the secretary’s inbox. When there is time, the secretary takes the top letter 
+off the pile and type’s it. If there are five letter in all , and the boss delivers in the order of 5 4 3 2 1, which of 
+the following could be the order in which secretary types them.
+(a) 2 4 3 5 1 (b) 4 5 2 3 1 (c) 1 2 3 5 4 (d) 3 1 2 5 4
+476 .Daniel can do some work in 12 hours, Roy can do the same work in 10 hours while Hillari can do the 
+same work in 477. hours. All the three of them start working at 9 a.m while Daniel stops works at 11 a.m and 
+remaining two complete the work. Approximately at what time will the work be finished?( a) 1.30 pm (b) 
+12.30 am (c) 2.00 pm (d) 1.00 pm
+648. At a dinner party every two guests used a bowl of rice between them, every three guests used a bowl of 
+dal between them and every four used a bowl of meat between them. There were altogether 65 dishes. How 
+many guests were present at the party ?A. 60B. 65C. 90D. None of these
+478 .In the equation A + B + C + D + E = FG where FG is the two digit number whose value is 10F + G and 
+letters A, B , C , D , E, F and G each represent different digits. If FG is as small as possible. What is the 
+value of G?  (a) 4 (b) 2(c) 0(d) 3
+479 .In this question, A^B means A raised to power B. If x^2*y*z < 0, then which one of the following 
+statements must also be true?  I. yz < 0II. z < 0III. x < 0 (a) I only  (b) III only (c) I 
+& II only (d) None of the above
+480 .At 12.00 hours Ravi starts to walk from his house at 8 kms an hour. At 13.30 hours, Shankar follows 
+him from Ravi’s house on his bicycle at 12 kms per hour. When will Ravi be 6 kms behind Paul?
+(a) 18:00hrs (b)18:30hrs (c) 20:00hrs (d) 19:30hrs
+481 .What is the value of (222224*444445*222221+666668)/222222(a) 444444 (b) 444447 (c) 222224 
+(d) 444222
+482 .Seven varsity basket ball players (A, B, C, D, E, F and G) are to be honoured at a special luncheon. The 
+players will be seated on the dias in a row. A and G have to leave the luncheon early and so must be seated at 
+the extreme right .B will receive the most valuable player’s trophy and so must be in the centre to facilitate 
+presentation .C and D are bitter rivals and, therefore must be seated as far apart as possible.
+Which of the following pair cannot occupy the seats on either side of B?(a) F and D (b) D and E (c) E and G 
+(d) C and F
+483 .An organization has 4 committees. Only 3 persons are members of all four committees, but every pair of 
+committees has 4 members in common. What is the LEAST possible number of the members on any one 
+committee?
+(a) 4 (b) 6 (c) 7 (d) 5
+484 .Aravind can do a work in 24 days. Mani can dig the same well in 36 days. Aravind, Mani and Hari can 
+do a work together in 8 days. Hari alone can do the work in (a) 12days (b) 18 days (c) 16 days (d) 24 
+days
+485 .A farmer has a rose garden. Every day he either plucks 7 or 6 or 24 or 23 roses. The rose plants are 
+intelligent and when the farmer plucks these numbers of roses, the next day 37 or 36 or 9 or 18 new roses 
+bloom in the garden respectively. On Monday, he counts 189 roses in the garden. He plucks the roses as per 
+his plan on consecutive days and the new roses bloom as per intelligence of the plants mentioned above. 
+
+After some days which of the following can be the number of roses in the garden?(a) 26 (b) 249 ( c) 232 (d) 
+27
+486 .What is the unit’s digit of 21
+3
+ *21
+2
+*34
+7
+*46
+8
+*77
+8
+?(a) 4 (b) 8 (c) 6 (d) 2
+487. Sum of the CP’s of two cars is Rs.150,000. 1st car is sold at a profit o f 20% and the second car at the 
+loss of 20%. However, their S.P’s are same. What is the cost price of the 1st car?   (a) 60,000   (b) 64,000
+(c) 72,000(d) 75,000
+488. Four friends namely Rahul, Ravi, Rajesh and Rohan contested for a dairy milk chocolate. To decide 
+which friend will get the chocolate they decided to throw two dice. Every friend was asked to choose a 
+number  and if the sum of the numbers on two dice equals that number, the concerned person will get the 
+chocolate. Rahul’s choice was 7, Ravi’s choice was 9, Rajesh’s choice was 10 and Rohan’s choice was 11. 
+Who has the maximum probability of winning the amount?
+(a) Rahul  (b) Ravi  (c) Rajesh  (d) Rohan
+489. J, K, L, M and N collected stamps. They collected a total of 100 stamps. None of them collected less 
+than 10. No two among them collected the same number.   (i)3 collected the same number as K and M 
+together.  (ii)L collected 3 more than the cube of an integer (iii)The no.collected by J was the cube of an 
+integer. (iv)Total no.collected by K was either the square or cube of an integer. The number of stamps 
+collected by N was:(a) 10(b) 11(c) 12(d) 13
+490. The present ratio of students to teachers at a certain school is 30 to 1. If the student enrollment were to 
+increase by 50 students and the number of teachers were to increase by 5, the ratio of the teachers would then 
+be 25 to 1 What is the present number of teachers?
+(a) 10(b) 15(c) 20(d) 25
+491.  What is the remainder when 6
+17
+ + 117
+6
+ is divided by 7?(a) 1(b) 6(c) 0(d) 3
+492.  A turtle is crossing a field. What is the total distance (in meters) passed by turtle? Consider the 
+following two statements
+(X) The average speed of the turtle is 2 meters per minute (Y) Had the turtle walked 1 meter per minute 
+faster than his average speed it would have finished 40 minutes earlier
+(a). Statement X alone is enough to get the answer (b). Both statements X and Y are needed to get the 
+answer
+(c) Statement Y alone is enough to get the answer (d)Data inadequate
+493. If the price of an item is decreased by 10% and then increased by 10%, the net effect on the price of the 
+item is
+(a) A decrease of 99%(b) No change(c) A decrease of 1%(d) An increase of 1%
+494. (i)x
+2
+< 1/100, and x < 0 what is the highest range in which x can lie?
+(a) -1/10 < x < 0 (b) -1 < x < 0 (c) -1/10 < x < 1/10 (d) -1/10 < x
+494. (ii) A father purchases dress for his three daughters. The dresses are of same color but of different size. 
+The dress is kept in dark room .What is the probability that all the three will not choose their own dress.   (a) 
+2/3 (b) 1/3( c) 1/9(d) none of these
+495. Messrs. Siva Constructions, leading agents in Chennai prepared models of their lands in the shape of a 
+rectangle and triangle. They made models having same area. The length and width of rectangle model are 24 
+inches and 8 inches respectively. The base of the triangle model is 16 inches. What is the altitude of triangle 
+model from the base to the top?
+(a) 24 inches(b) 8 inches(c) 20 inches(d) 32 inches
+496. From a deck of 52 cards, 3 cards drawn randomly. What is the probability of getting 1 spade, 1 red 
+queen and 1 black king?
+(a) 0.235(b) 0.0235(c) 0.00235(d) 0.0346
+497. In a stream running at 2 kmph, a motorboat goes 6 km upstream and back again to the starting point in 
+33 minutes. Find the speed of the motorboat in still water? (a) 20 km/h(b) 22 km/h(c) 24 km/h(d) 
+27 km/h
+498 .The milk and water in two vessels A and B are in the ratio 4 : 3 and 2: 3 respectively. In what ratio, the 
+liquids in both the vessels are mixed to obtain a new mixture in vessel C containing half milk and half water?
+(a) 5:7(b) 7:5(c) 1:1(d) none of these
+499.An article manufactured by a company consists of two parts X and Y. In the process of manufacturing of 
+part X, 9 out 500 parts may be defective. Similarly, 5 out of 100 are likely to be defective in the manufacturer 
+
+of Y. Calculate the probability that the assembled product will not be defective?  (a) 0.6485  (b) 0.6565(c) 
+0.8645(d) none of these
+500. Y catches 5 times more fishes than X. If total number of fishes caught by X and Y is 42, then number of 
+fishes caught by X?a)7             b) 8           c) 9 d) 10
+501.There are 4 boxes colored red, yellow, green and blue. If 2 boxes are selected, how many combinations 
+are there for at least one green box or one red box to be selected? (a) 1(b) 6(c) 9(d) 5
+502. A completes a piece of work in 3/4 of the time in B does, B takes 4/5 of the time in C does. They got a 
+profit of Rs. 40000 how much B gets?   (a) Rs.12765(b) Rs.12000(c) Rs.13400(d) None of these
+503. The diagonal of a square is twice the side of equilateral triangle the ratio of Area of the Triangle to the 
+Area of Square is?
+(a) sqrt of3:8(b) sqrt of 2:5(c) sqrt of 3:6(d) sqrt of 2:4
+504. My name is PREET. But my son accidentally types the by interchanging a pair of letters in my name. 
+What is the probability that despite this interchange, the name remains unchanged? (a) 10%(b) 
+12.5%(c) 20%(d) 25%
+505. In month of 31 days, there are exactly 4 Thursdays and 4 Sundays. What is the day of the week on the 
+first of that month? (a) Wednesday(b) Friday(c) Saturday(d) Monday
+506  The length and breadth of a field is 300x400ft, if there are 3 ants on average per square inch of field, 
+find the number of ants in field.(a) 31840000(b) 41840000(c) 51840000(d) 61840000
+507.If ‘m’ is an odd integer and ‘n’ an even integer, which of the following is definitely odd?
+(a) (2m+n)(m-n)           (b()m+n
+2
+)+(m-n
+2)
+(c)m
+2
++mn+n
+2
+(d) m +n
+508.There are 20 balls which are red, blue or green. If 7 balls are green and the sum of red balls and green 
+balls is less than 13, at most how many red balls are there? (a) 4(b) 5(c) 6(d) 7
+509.Two cyclists begin training on an oval racecourse at the same time.The professional cyclist completes 
+each lap in 4 minutes; the novice takes 6 minutes to complete each lap. How many minutes after the start will 
+both cyclists pass at exactly in the 15th lap,at the same spot where they began to cycle? (a) 12(b) 165(c) 
+180(d) 24
+510.In the adjoining diagram, ABCD and EFGH are squres of side 1 unit such that they intersect in a square 
+of diagonal length (CE) = 1/2. The total area covered by the squares is
+(a) 2(b) 1(c) Data Insufficient(d) None of these
+511.  In base 7, a number is written only using the digits 0, 1, 2, .....6. The number 135 in base 7 is 1 x7
+2
++3 x 
+7 + 5 = 75 in base 10. What is the sum of the base 7 numbers 1234 and 6543 in base 7.   (a) 11101(b) 
+11110  (c) 10111(d) 11011
+512.Find the number of rectangles from the adjoining figure (A square is also considered a rectangle)
+(a) 864(b) 3276(c) 1638 (d) None
+513.  The sequence{A  n} is defined by  A1= 2 andAn+1=An+2n what is the value of  A100.
+(a) 9902 b) 9900 (c) 10100 (d) 9904
+514.Arun, Akash, Amir and Aswanth go for a picnic. When Arun stands on a weighing machine, Akash also 
+climbs on, and the weight shown was 132 kg. When Akash stands, Amir also climbs on, and the machine 
+shows 130 kg. Similarly the weight of Amir and Aswanth is found as 102 kg and that of Akash and Aswanth 
+is 116 kg. What is Aswanth’s weight?
+(a) 58kg(b) 78 kg(c) 44 kg(d) None
+
+515.Roy is now 4 years older than Erik and half of that amount older than Iris. If in 2 years, roy will be twice 
+as old as Erik, then in 2 years what would be Roy's age multiplied by Iris's age? (a) 28(b) 48(c) 50(d) 
+52
+516.X, Y, X and W are integers. The expression X - Y - Z is even and the expression Y - Z - W is odd. If X 
+is even what must be true? (a) Y - Z must be odd   (b) Z must be odd(c) W must be odd     (d) None of 
+these
+517.The telephone company wants to add an area code composed of 2 letters to every phone number. In 
+order to do so, the company chose a special sign language containing 124 different signs. If the company 
+used 122 of the signs fully and two remained unused, how many additional area codes can be created if the 
+company uses all 124 signs?
+(a) 246(b) 248(c) 492(d) 15128
+518.Q is a prime number bigger than 10. What is the smallest positive number (except 1) that 3Q can be 
+divided by equally? (a) 3Q(b) Q(c) Q-3(d) Q+3
+519.The “Racing magic” takes 120 seconds to circle the racing track once. The “Charging bull” makes 40 
+rounds of the track in an hour. If they left the starting point together, how many minutes will it take for them 
+to meet at the starting point for the second time? (a) 3(b) 6(c) 16(d) 12
+520.Given the following information, who is youngest? C is younger than A; A is taller than B C is older 
+than B; C is younger than D B is taller than C; A is older than D  (a) D(b) B(c) C(d) A
+521.In a class there are 60% of girls of which 25% poor. What is the probability that a poor girl is selected is 
+leader?
+(a) 15/40 but 15%(b) 1/15(c) 0(d) 1/100
+522.A completes a work in 20 days B in 60 days C in 45 days. All three persons working together on a 
+project got a profit of Rs.26000 what is the profit of B? (a) Rs.6000 or 4875(b) Rs.6400(c) Rs.3000
+(d) Rs. 3600
+523.A bakery opened yesterday with its daily supply of 40 dozen rolls. Half of the rolls were sold by noon 
+and 80 % of the remaining rolls were sold between noon and closing time. How many dozen rolls had not 
+been sold when the bakery closed yesterday?
+a) 40(b) 16(c) 4(d) 20
+524.A necklace is made by stringing N individual beads together in the repeating pattern red bead, green 
+bead, white bead, blue bead and yellow bead. If the necklace begins with a red bead and ends with a white 
+bead, then N could be:(a) 5(b) 30(c) 68(d) 70
+525.A snail, climbing a 20 feet high wall, climbs up 4 feet on the first day but slides down 2 feet on the 
+second. It climbs 4 feet on the third day and slides down again 2 feet on the fourth day. If this pattern 
+continues, how many days will it take the snail to reach the top of the wall? (a) 12(b) 16(c) 17(d) 
+20
+526.M, N, O and P are all different individuals; M is the daughter of N; N is the son of O; O is the father of 
+P; Among the following statements, which one is true?    A. M is the daughter of P B. If B is the 
+daughter of N, then M and B are sisters C. If C is the granddaughter of O, then C and M are sisters  D. P and 
+N are bothers.  (a) B  (b) A   (c) C(d) None of these
+527.The volume of water inside a swimming pool doubles every hour. If the pool is filled to its full capacity 
+with in 8 hrs ,in how many hours was it filled to one quarter of its capacity? (a) 2(b) 4(c) 5(d) 
+6
+528.Find the value of x? (a) 33(b) 66(c) 18(d) 54
+3714
+233649
+X83104
+529.The ratio between the number of sheep and the number of horses at the Stewarfarm is 4 to 7, If each 
+horse is fed 230 ounces of horse food per day and the farm needs a total 12,880 ounces of horse food per 
+day.What is the number of sheep in the farm ?a)18b.28c)32d)56
+530.John traveled 80% of the way from Yellow-town to Green-fields by train at an average speed of 80 miles 
+per hour.The rest of theway John travelled by car at an average speed of v miles per hour.If the average speed 
+for the entire trip was 60 miles per hour ,What is v in miles per hour?  (a) 30(b) 40(c) 50(d) 55
+
+531.In a psychology school the grade of the students is determined by the following method: At the end of 
+the first year the grade equals to twice the age of the student. From then on, the grade is determined by twice 
+the age of the student plus half of his grade from the previous year. If Joey’s grade at the end of the first year 
+is 40, what will be his grade at the end of the third year?(a) 44(b) 56(c) 62(d) 75
+532.15 Java programmers, working in a constant pace, finish a web page in 3 days. If after one day, 9 
+programmers how many more days are needed to finish the remaining job ? (a) 2(b) 4(c) 5(d) 
+6
+533. Given that 0 < a < b < c < d, which of the following the largest ?
+a.(c+d) / (a+b)  b.(a+d) / (b+c)  c.(b+c) / (a+d)d.(b+d) / (a+c)
+534. Eesha bought 18 sharpeners for Rs.100.  She paid 1 rupee more for each white sharpener than for each 
+brown sharpener.  What is the price of a white sharpener and how many white sharpener did she buy ? a. 
+Rs.5, 10b. Rs.6, 10c. Rs.5, 8       d. Rs.6, 8
+535. Mark told John "If you give me half your money I will have Rs.75.  John said, "if you give me one third 
+of your money, I will have Rs.75/-  How much money did John have ?a. 45b. 60c. 48d. 37.5
+536. Eesha has a wheat business.  She purchases wheat from a local wholesaler of a particular cost per 
+pound.  The price of the wheat of her stores is $3 per kg.  Her faulty spring balance reads 0.9 kg for a KG.  
+Also in the festival season, she gives a 10% discount on the wheat.  She found that she made neither a profit 
+nor a loss in the festival season.  At what price did Eesha purchase the wheat from the wholesaler ?a. 3
+b. 2.5c. 2.43d. 2.7
+537. Raj goes to market to buy oranges.  If he can bargain and reduce the price per orange by Rs.2, he can 
+buy 30 oranges instead of 20 oranges with the money he has.  How much money does he have ? a .Rs.100  b. 
+Rs.50 c. Rs.150d. Rs.120
+538. There are 3 classes having 20, 24 and 30 students respectively having average marks in an examination 
+as 20,25 and 30 respectively.  The three classes are represented by A, B and C and you have the following 
+information about the three classes. a. In class A highest score is 22 and lowest score is 18b. In class 
+B highest score is 31 and lowest score is 23
+c. In class C highest score is 33 and lowest score is 26.If five students are transferred from A to B, what 
+can be said about the average score of A; and what will happen to the average score of C in a transfer of 5 
+students from B to C ?
+a. definite decrease in both casesb. can't be determined in both cases
+c. definite increase in both casesd. will remain constant in both cases
+539. The value of a scooter depreciates in such a way that its value of the end of each year is 3/4 of its value 
+of the beginning of the same year.If the initial value of the scooter is Rs.40,000, what is the value at the end 
+of 3 years?
+a.Rs.13435b. Rs.23125c. Rs.19000d. Rs.16875
+540. Rajiv can do a piece of work in 10 days , Venky in 12 days and Ravi in 15 days.  They all start the work 
+together, but Rajiv leaves after 2 days and Venky leaves 3 days before the work is completed.  In how many 
+days is the work completed ?  a. 5 b. 6  c. 9   d. 7
+541. A man has a job, which requires him to work 8 straight days and rest on the ninth day.  If he started 
+work on Monday, find the day of the week on which he gets his 12th rest day.   a. Thursdayb. 
+Wednesdayc. Tuesdayd. Friday
+542. On a 26 question test, five points were deducted for each wrong answer and eight points were added for 
+each correct answer.  If all the questions were answered, how many were correct, if the score was zero ? a. 10 
+b. 12c. 11d. 13
+543.   In a series of numbers , the next number is formed by adding 1 to the sum of the previous numbers, 
+and the 10th number is 1280.  Then what is the first number in the series? (series will be like this x , x+1, 
+(x+(x+1))+1,....... )
+a. 1   b. 4 c. 5d. None of these
+544. Mr. Bean chooses a number and he keeps on doubling the number followed by subtracting one from it, 
+if he chooses 3 as initial number and he repeats the operation for 30 times then what is the final result?
+a. (2^30) – 1 b. (2^30) – 2c. (2^31) – 1  d. 2^31 + 1
+
+545. Tony alone can paint a wall in 7 days and his friend Roy alone can paint the same wall in 9 days. In how 
+many days they can paint the wall working together? Round off the answer to the nearest integer.     a . 3        
+b. 4 c. 5d. 7
+546. A company selects an employee at his 25th age and offers salary as Rs.40000 per annum for first 2 
+years. Afterwards, every year he gets increment of Rs.4000 for next 15 years and his salary become constant 
+till his retirement. If Rs.80,000 is his average salary (throughout his career) then at what age he retires?a) 
+52   b) 58   c) 42   d) 48
+547. A man hired by a company at his 20th age with starting salary of Rs.20000 per year. After 3 years, he 
+gets Rs.2000 per year as increment for next 10 years. Afterwards, he gets Rs.3000 per year as increment for 
+the remaining years till he retired. If he retires at his 40th age, then what will be his average salary per annum 
+(throughout his career)?
+a) Rs.26900 b) Rs.42300 c) Rs.29900 d)Rs.36700
+548. In a game show, the percentage of participants qualified to the number of participants participated from 
+team A is 60%. In team B, the number of participants participated is 40% more than the participants 
+participated from team A and the number of participants qualified from team B is 40% more than the 
+participants qualified from team A. What is the percentage of participants qualified to the number of 
+participants participated from team B?
+a) 20% b) 40% c) 60% d)80%
+549. There are 4 containers W, X, Y and Z, each of which can hold a maximum quantity of 200 kg of a 
+particular item. Container W has 40% more than X, X has 40% more than Y and Y has 30% less than Z. If W 
+has 102.9 kg of contents, then what percentage of full quantity did Z has?  a) 37.5% b) 12.9% c) 
+45.8% d) 82.4%
+550. A can write 3 notebooks in 48 days and B can write 4 notebooks in 48 days. If, with the help of their 
+friend C, they write 5 notebooks in 20 days, then C alone can write 5 notebooks in:a) 42 days b) 48 
+days c) 36 days d) 38 days.
+551. A can complete 1/8 of a piece of work in 5 hours; B can complete 80% of the same piece of work in 3 
+1/3 days and C can complete 2/3 of the work in 1 1/12 days. Who is the fastest worker?a) A    b) B    c) C    
+d) B and C
+552. The face of the square and an equilateral triangle are equal with 12 inches.Find the quantitative relation 
+of their area.
+a) 3:4 b) 2:3 c) 4:sqrt3 d) 2:sqrt3
+553. An equilateral triangle whose face is 4 cm and an isosceles triangle whose bottom is 8 cm have equal 
+areas. What is the length (in cm) of the other side of the isosceles triangle?a) sqrt(21)   b) 17    c) sqrt(19)     
+d) 15
+554. If 1 can of pure milk is to be mixed with 3 cans of water to make coffee then how many six litre can of 
+pure milk are needed to prepare hundred servings of 3 litre of coffee?a) 12 b) 13 c) 14 d) 15
+555. On his holiday, a man watches N number of musical competitions from 5 different channels in the 
+repeating pattern of A, B, C, D and E. If he takes up with the channel A and ends with the channel D then N 
+would be:
+a) 35 b) 42 c) 59 d) 63.
+556. A bead seller arranged some beads in multi-layer box. The first layer of the box was square shaped with 
+4 rows and 6 columns. Each layer was 1 less in each dimension of the previous layer. What will be the 
+maximum number of beads that could have been in the fourth layer from the first?a) 3 b) 1 c) 
+12 d) 24
+557. There are 4 machines namely P, Q, R and S in a factory. P and Q running together can finish an order in 
+10 days. If R works twice as P and S works 1/3 as much as Q then the same order of work can be finished in 
+6 days. Find the time taken by P alone to complete the same order.a) 11.5 days b) 12.5 days c) 13.5 days d) 
+14.5 days
+558. X and Y individually can complete a task in 30 days and 40 days respectively. If X and Y worked 
+together for 12 days and B alone worked for the remaining part of task. Then how many part of the task is 
+completed by B alone ?
+a) 2/7 b) 3/10 c) 8/15 d) 1/3
+
+559. Two pipes P and Q together can fill a tank in 18 hours.If P alone takes 1/2 of the time of thrice Q's then 
+the time taken by Q alone to fill the tank is:a)29 hours b)32 hours c)28 hours d)30 hours.
+560. A certain company retirement plan has a rule that allows an employee to retire when 100 minus years of 
+employment with the company is 2/3 of employee's age when he retired from the company. Then what is the 
+experience(in years) of an employee joined on his 25th age be eligible to retire under the rule?a) 40 b) 
+45 c) 50 d) 65
+561. In what year could an employee joined in 1959 on his 29th age be eligible to retire from the company, 
+which has a retirement rule such as an employee to retire when the difference between employee's age when 
+he hired by the company and years of employment with the company is 5 ?a) 1983 b) 1999 c) 1985 d) 
+1992
+562.There are five boxes in Cargo hold. The weight of first box is 200 kg and second box is 20% higher then 
+third box, whose weight is 25% higher than the first box. The fourth box at 350 kg is 30% lesser than the 
+fifth box. Find the difference in the average weight of 4 heaviest boxes and 4 lightest boxes.    A.75   
+B.80  C.125    D.175
+563.12 divides ab313ba (in decimal notation) where a, b are digits >0 , then the smallest value of a+b  a.7   b. 
+6   c. 2    d.4
+564. Ferrari S.P.A is an Italian sports car manufacturer based in Maranello, Italy. Founded by Enzo Ferrari in 
+1928 as Scuderia Ferrari, the company sponsored drivers and manufactured race cars before moving into 
+production of street-legal vehicles in 1947 as Ferrari S.P.A. Throughout its history, the company has been 
+noted for its continued participation in racing, especially in Formula One where it has employed great 
+success. Rohit once bought a Ferrari. It could go 4 times as fast as Mohan’s old Mercedes. If the speed of 
+Mohan’s Mercedes is 35 km/hr and the distance travelled by the Ferrari is 490 km, find the total time taken 
+for Rohit to drive that distance. a)1.5b)2.6c)3.5d)7.8
+565. For the FIFA world cup, Paul the octopus has been predicting the winner of each match with amazing 
+success. It is rumoured that in a match between 2 teams A and B, Paul picks A with the same probability as 
+A’s chances of winning. Let’s assume such rumors to be true and that in a match between Ghana and 
+Bolivia; Ghana the stronger team has a probability of 2/3 of winning the game. What is the probability that 
+Paul will correctly pick the winner of the Ghana-Bolivia game?  a) 1/9b) 4/9c) 5/9 d) 2/3
+566. A circle has 29 points arranged in a clockwise manner numbered from 0 to 28. A bug moves clockwise 
+around the circle according to the following rule. If it is at a point i on the circle, it moves clockwise in 1 
+second by ( 1 + r ) places, where r is the reminder ( possibly 0 ) when i is divided by 11. Thus if it is at 
+position 5, it moves clockwise in one second by ( 1 + 5 ) places to point 11. Similarly if it is at position 28 it 
+moves ( 1 + 6 ) or 7 places to point 6 in one second. If it starts at point 23, at what point will it be after 2012 
+seconds?(a) 1(b) 7(c) 15(d) 20
+567.What is the value of (44444445*88888885*44444442+44444438)/44444444
+2
+(a) 88888883(b) 88888884(b) 88888888(b) 44444443
+568. John told Mark that if Mark gives 1/3rd of his money to him, he will have Rs 75. Mark told John that if 
+john gives ½ his money to him, he will have Rs 75. How much money did they have totally?(a) 105
+(b)125(c) 150(d) 75
+569.A King’s durbar consists of a knight ,a spy and a knave. Knight speaks only truth, spy can speak either a 
+truth or a lie and knave speaks only lies. From the following statements made by 3 people A,B and C 
+comprising the knight, spy and knave thought not necessarily in the that order, Identify the spy ?
+A -------->I am knight B --------> A is not Knave C ---------> If you had asked me, I would say A is the spy.
+(a) A (b) B(c) C (d) Cannot be determined
+570. Large, medium and small ships are used to bring water. 4 large ships carry as much water as 7 small 
+ships. 3 medium ships carry the same amount of water as 2 large ship and 1 small ship. if 15 large, 7 medium 
+and 14 small ships, each made 36 journey and brought a certain quantity of water. In how many journeys 
+would 12 large, 14 medium and 21 small ships bring the same quantity?
+A.32 B.29 C.49 D.25
+571.A, B, C and D play a game of cards. A says to B "If I give you 8 cards, you will have as many as C has 
+and I shall have 3 less than what C has. Also if I take 6 cards from C, I shall have twice as many as D has". If 
+B and D together have 50 cards, how many cards have A got?A.40 B.37 C.23 D.27
+
+572. In what year could an employee hired in 1995 on his 30th age be eligible to retire from his company 
+with a retirement plan which has a rule that allows an employee to retire when the sum of employee's age and 
+years of employment with the company is 90?a) 2025 b) 2055 c) 2005 d) 
+2015
+573. In a mathematical test, Ram was asked to find the average of some numbers. By using the average 51 
+2/3 of X,Y and Z, he found 6 values X, Y, Z, X+Y, Y+Z and Z+X. Find the average of all the seven values.
+a) 87.12 b) 88.57 c) 79.92 d) 78.12
+574. The average score of three participants is 55 points. If the average score of 1st two is 50 points and that 
+of the last two be 53 points. Then the score of 2nd participant is:a) 41 b) 42 c) 43 d) 44
+575. A survey made among 280 college students highlighted the following facts:
+1) 50 students are from village, comes by government bus and takes canteen lunch.
+2) 110 students are from village and takes canteen lunch3) 160 students are from village
+4) 90 students comes by government bus and takes canteen lunch5) 130 students comes by government bus
+6) 30 students are from village, comes by government bus but do not take canteen lunch
+7) 50 students are not from village, do not come by government bus and do not take canteen lunch
+Find how the number of students who take canteen lunch ?a) 220 b) 120 c) 170 d) none of these
+576. Let ABCD be a square. Alex wants to draw 5 circles of equal radius 'r' with their centres on BD such 
+that the two extreme circles touch two sides AB, BC and AD, CD of the square respectively and each middle 
+circle touches two circles on either side. Find the ratio of r to that of BD.a) 2 : 11.828 b) 5 : 19.214 c) 1 : 
+10.828 d) 1 : 12.515
+577. In a 3 x 3 grid, comprising 9 tiles can be painted in red or blue. When tile is rotated by 180 degrees, 
+there is no difference which can be spotted.  How many such possibilities are there?a. 16b. 
+32c. 64d. 256
+578. Here is 15 dots.  If you select 3 dots randomly, what is the probability that 3 dots make a triangle?
+a.440/455b 394/455c. 449/455d. 438/455
+579.The famous church in the city of Kumbakonnam has a big clock tower and is said to be over 300 years 
+old. Every Monday 10.00 A M the clock is set by Antony, doing service in the church. The Clock loses 6 
+mins every hour. What will be the actual time when the faulty clock shows 3 P.M on Friday?  (a) 4 A.M  
+(b) 3.16 P.M. (c) 4.54 A.M. (d) 3 A.M
+580.Pinky and Ponky decided to have a car race. Initially Pinky was 20 miles behind Ponky’s car. Both of 
+them took the race in the same direction along the same route. Pinky was travelling at a constant speed of 68 
+miles per hour, while Ponky was travelling at a constant speed of 60 miles per hour. How many hours will it 
+take for Pinky to overtake and drive 8 miles ahead of Ponky? (a)1.7 hours (b)2.0 hours (c)3.0 hours 
+(d) 3.5 hours
+581.Eveson was working for a multinational company. The pressure of work in the company was too heavy 
+due to seasonal sales. Eveson decided to go weekend trip with his wife for relaxation. Husband and wife 
+decided that the proposed trip should not exceed 8 hours driving in a day. They decided to maintain the 
+average Speed of forward journey to 40 mph. Due to traffic on Sundays the return journey average speed can 
+only be at 30 mph. How far the couple can select a picnic spot?
+(a)142 Miles (b)200 Miles (c)137 Miles (d)220 Miles
+582.Rambabu is driving a Honda Unicorn Power bike at 80 km per hour. However being sugar patient, 
+Rambabu could not travel continuously. He takes small breaks each of 2 minutes for every 15 minute of his 
+drive. How much distance Rambabu will cover in 90 minutes? a)118Km b)89Km 
+c)112Km d) 104km
+583. If the taxi fares were Re 1.00 for the first 1/5 mile and Rs 0.20 for each subsequent 1/5 miles thereafter, 
+then what would be the fare for a trip of 3 miles?(a)    Rs 1.56                  (b)Rs 2.40            (c)RS 3.00            
+(d)Rs 3.80
+(The fare for the first mile will be Rs 1.80 and for every subsequent mile it will be Re 1.00)
+584. A computer routine was developed to generate two numbers (x and y) the first being a random number 
+between 0 and 100 inclusive, and the second being less than or equal to the square root of the first. Each of 
+the following pair satisfies the routine except:(a)    (99,10)                 (b) (85,9)             (c) (50,7)              
+(d) (1,1)                (e) (1,0)
+
+585.A digital wristwatch was set accurately at 8.30 a.m and it started losing 2 seconds every 5 minutes. What 
+time was indicated on the watch at 6.30 p.m of the same day if the watch had operated continuously during 
+that time ? (a)  5:56  (b) 5:58      (c) 6.00    (d) 6.26
+586. A 5 litre jug contains 4 litres of a salt water solution that is 15 percent salts. If 1.5 litres of the solution 
+spills out of the jug, and the jug is then filled to capacity with water, approximately what percent of the 
+resulting solution in the jug is salt?
+(a)    7.5%                      (b) 9.5%               (c)  10.5%             (d) 12%                 (e) 15%
+587. 6 persons standing in queue with different age group, after two years their average age will be 43 and 
+seventh person joined with them. hence the current average age has become 45. find the age of seventh 
+person?(a) 69 (b) 70(c) 40(d) 45
+588. A Sheet of paper has statements number from 1 to 20. Statement n says "At least n of the statements on 
+this sheet are true". Which statements are true and which are false.  a. The even no statements are true and 
+the odd no statements are false.b. The 1st 13 statements are false and rest are true.c. The 1st 6 
+statements are true and rest are falsed. The odd no statements are true and even no. are false.
+589. A hollow cube of size 5cm is taken, with a thickness of 1cm. It is made of smaller cubes of size 1cm. If 
+4 faces of the outer surface of the cube are painted, totally how many faces of the smaller cubes remains 
+unpainted?a.488   b.588  c.198  d.258
+590)   If a publication occurs every seven years and the sum of the years is 13524. Then find the first year
+(A)  1611 (B)  1711 (C)  1811 (D)  1911
+591)   If A=2/3(B-C) and c=1/2(A+B) and A+B+C=3000, then find C ?   (A)  4000 (B)  3000 (C)  2000 (D)  
+1000
+592)   In a cricket match, two batsman scores are 96,96 respectively. They require only 5 runs in 3 balls, can 
+both the batsman complete their centuries?   (A)  no (B)  yes (C)  insufficient data (D)  
+none of these
+593)   Find the sum of number between 200 and 300, which is multiple of 3?    (A)  8217 (B)  8317(C)  8417 
+(D)  8517
+594)   6 positive integers are taken at random and multiplied together. Then what is the probability that 
+products ends in an odd digit other than 5?   (A)  (.4)^6 (B)  (.4)^5 (C)  (.4)^4 (D)  (.4)^3
+595)   There is a square field of side 10m. A man runs with different speed 10kmph, 15kmph, 20kmph, 
+25kmph on the four sides of the field. What is the average speed of man ?    (A)  18.75 (B)  16.00 (C)  
+15.00 (D)  15.58
+596)   There are two bottles A and B, each filled with milk and water in the ratio 5:3 and 1:2 respectively. A 
+new mixture is formed by mixing the contents of A and B in the ratio 4:3.What is the ratio of composition of 
+milk and water in the new mixture?
+(A)  1:1 (B)  1:2 (C)  2:1 (D)  2:3
+597) *  "LEADING" arrange it in such a way that atleast two vowels always together ?  (A) 720 B) 2160 C) 
+3600 D)  5040
+598)   In a mixture of a, b, & c, if a and b are mixed in 3:5 ratio and b and c are mixed in 8:5 Ratio and if the 
+final mixture is 35 liters, find the amount of b?    (A)  15.73 (B)  21.5 (C)  17.56 (D)  16.66
+599) *  If m+n gives remainder 8 & m-n gives remainder 6 when divided by 12 , what is remainder when mn 
+divided by 6?
+(A)  1 (B)  2 (C)  4 (D)  7
+600)   *B moves by taking 3 steps forward and 1 step backward (each step in one second ) He walks up a 
+stationary escalator in 118 sec.  However on moving escalator he takes 40 sec to reach top .Find speed of 
+escalator.
+(A)  1 step/sec (B)  2 step/sec (C)  3 step/sec (D)  4 step/sec
+601)   Ram Goes A To B . If He Takes 1/4 Time Less Than To Cover The Same Distance When Run At 
+Normal Speed By What % He Has Increased His Speed?  (A)  17.6 (B)  33.3 (C)  48.6 (D)  
+66.6
+602)   Find the missing numbers in the series: 0,2,5,?,17,28,?,  (A)  11,31 (B)  31,51 (C)  10,41 
+(D)  21,40
+
+603)   A motor boat covers a certain distance downstream in 30 minutes, while it comes back in 45 minutes. 
+If the speed of the stream is 5 kmph what is the speed of the boat in still water?   (A)  10 kmph  (B)  15 kmph 
+(C)  20 kmph (D)  25kmph
+604. The prime factorization of integer N is A*B*B*C where A,B,C are all distinct prime integers. How 
+many factors does N have? (a)24 (b)12                  (c)4(d)6
+605. At the end of 1894 Suresh was half as old as his grandmother. The sum of the years in which they were 
+born is 3644. How old suresh was at the end of 1899?(a)48 (b)55   (c)49
+(d)53
+606.Mother + daughter + infant age is 74. mother age is 46 more then daughter and infant.  and infant age is 
+0.4 of daughter. find daughters age.a)10b)12c)15d)18
+607.There are 6 working days in a regular week and for each day, the working hours are 10. A man earns Rs. 
+2.10 per hour for regular work and Rs. 4.20 per hour for overtime. If he earns Rs.525 in 4 weeks, how many 
+hours did he work?
+A. 245   B. 285 C. 275   D.255
+608.There is a school were 60% are girls and 35% of the girls are poor. Students are selected at random, what 
+is the probability of selecting a poor girl out of total strength.a)1/21  b)2/41  c)cannot be 
+determined   d)none of these
+609. Four girls (G1, G2, G3, G4) and three boys (B1, B2, B3) are to sit for a dinner such that no two boys 
+should sit together nor two girls. If they are successively sitting, what is the position of B2 and G3?  a. 5
+th
+ and 
+6
+th
+b. 9
+th
+ and 5
+th
+   c. 3
+rd
+ and 9
+th
+ d. 2
+nd
+ and 3
+rd
+610. There are 30 plants of Chiku, Guava, Sitafal and Mango in a row. There is one pair of Mango plants 
+after Chiku and Guava and Mango plants are followed by one Chiku and one Sitafal plant and so on. If the 
+row begins with a plant of Chiku, then which of the following will be the last in the row?  a. Guava b. 
+Mango    c. Chiku d. Sitafal
+611. The angles of elevation of the top of a tower, from the top and the toot of a pole of height 10 m are 30 
+and 60 respectively. The height of the tower is:a. 20 m b. 15 mc. 10 md. None of 
+these
+612. An alloy of zinc and copper contains the metals in the ratio 5:3. The quantity of zinc to be added to 16 
+kg of the alloy so that the ratio of the metal may be 3:1 is:(a) 2 kg (b) 4 kg (c) 3 kg
+ (d) 8 kg
+613. The angle of elevation of a ladder leaning against a wall is 60º and the foot of the ladder is 4.6 m away 
+from the wall. The length of the ladder is:(a) 2.3m (b) 4.6m (c) 7.8m (d) 9.2m
+614. A boat can travel with a speed of 13 km/hr in still water. If the speed of the stream is 4 km/hr, find the 
+time taken by the boat to go 68 km downstream. (a) 2 hours (b) 4 hours (c) 3 hours (d) 5 hours
+615.If 40% of a number is equal to two-third of another number, what is the ratio of first number to the 
+second number?
+A. 2 : 5B. 3 : 7C. 5 : 3D. 7 : 3
+616. X, Y, Z and W are integers. The expression X-Y-Z is even and the expression Y-Z-W is odd. If X is 
+even, then what must be true? (a)W must be even (b)W must be odd               (c)Y-Z must be odd                    
+(d)Z must be odd
+617. How many 4-digit numbers that do not contain the digits 3 or 6 are there?(a)5040 (b)4096   (c)7200         
+(d)3584
+618. In a rectangular coordinate system, what is the area of a triangle whose vertices have the coordinate (4,), 
+(6,3), (6,-3)?
+(a)6 (b)7.5                 (c)6.5(d)7
+619.2ab5 is a four digit number divisible by 25. If a number formed from the two digits ab is a multiple of 
+13, then ab is
+A.52B.45C.10D.25
+620.Mani sells vegetables and he marks up the prices at 5% above his cost price. Also the weighing stones 
+used by him weigh only 90% of the correct weight. Find his effective percentage of mark-up.  a.15% 
+b.16*2/3%c.14*1/2%d.20%
+621.given equation is 137+276=435,how much is 731+672=.... find the result.. 4355343261
+1623
+
+622.Amy spends 70% of her income on household expenditure, 60% of the remaining on the education of her 
+children and then 40% of the remaining is given to her old mother. Finally, she has US $576 in her hand. Her 
+salary is
+a.US $6000b.US $8000c.US $9000d.US $10000
+623.Four friends - Arjan, Bhuvan, Guran and Lakha were comparing the number of sheep that they owned. It 
+was found that Guran had ten more sheep than Lakha. If Arjan gave one-third to Bhuvan, and Bhuvan gave a 
+quarter of what he then held to Guran, who then passed on a fifth of his holding to Lakha, they would all 
+have an equal number of sheep. How many sheep did each of them possess? Give the minimal possible 
+answer.
+A.80,50,55,45       b.90,50,55,45    c.90,40,55,45    d.90,50,50,45
+624.Adding 1/4 of the time from midnight to the present time, to 1/2 of the time from present until midnight, 
+gives the present time. what is the present time.10.3212.039.366.36
+625.Light glows for every 13 seconds . How many times did it between 1:57:58 and 3:20:47 am
+a.384b.325c.365d.312
+626.A chain is broken into three pieces of equal lengths containing 3 links each. It is taken to a backsmith to 
+join into a single continuous one. How many links are to be opened to make it?a.0b.2c.4d.6
+627.Grass in lawn grows equally thick and in a uniform rate. It akes 24 days for 70 cows and 60 for 30 cows 
+. How many cows can eat away the same in 96 days.?A.18 or 19b.23 or 24c.32 or 33d.12 
+or 13
+628.There is a certain four digit number whose fourth digit is twise the first digit.Third digit is three more 
+than second digit.Sum of the first and fourth digits twise the third number.What was that number ?
+a.2340 and 4368b.2304 and 4368c.2034 and 4068d.2034 and 4368
+629.I lost my wallet and the money in that. But I remember that before I lost my wallet I purchased to things. 
+First one I purchased by paying 10% of what in my wallet and also for second one i also pay 10% of what 
+has been left in my wallet- that is equal to 9. then how much money I lost?A.81b.25c.63d.54
+630.Of the 38 people in my office, 10 like to drink chocolate, 15 are cricket fans, and 20 neither like 
+chocolate nor like cricket. How many people like both cricket and chocolate?a.7b.10c.15d.18
+631.Arjun and beema have a certain number of apples and mangoes between them. The ratio of number of 
+apples with arjun to the number of apples with beema is same as that of the ratio of number of mangoes with 
+arjun. if the total number of fruits(apples and mangoes) with arjun is one more than those with beema. Then 
+what is the minimum possible number of fruits that they have between them?A.22b.15c.9d.6
+632.Radha moves towards South-East a distance of 7 km, then she moves towards West and travels a 
+distance of 14 km. From here she moves towards North-West a distance of 7 km and finally she moves a 
+distance of 4 km towards east. How far is she now from the starting point?A.3 kmb.4 kmc.10 km
+d.11 km
+633)  * n is a natural number and n^3 has 16 factors then how many max factors can n^4 have?  a. 21   b. 24  
+c. 25  d.  27
+634.The average (arithmetic mean) test score of torres in four tests is 78. If the total average score of the 
+student is 80. What is his score in the fifth test?A.88b.84c.86d.90
+635.There were 35 students in a hostel. Due to the admission of 7 new students, ;he expenses of the mess 
+were increased by Rs. 42 per day while the average expenditure per head diminished by Rs 1. What was the 
+original expenditure of the mess?A.420B.440C.500D.540
+636.When a producer allows 36% commission on retail price of his product, he earns a profit of 8.8%. What 
+would be his profit % if the commission is reduced by 24%? a.40%b.49.6%   c.52%d.56.7%
+637. Hari has a piece of cake 60 cm long. He gives Raja half of it. He then gives Gopal 1/4th of what is left. 
+After giving a piece to Sahi, be is left with 1/10th of the original. How much did he give to Sahil ? A.21.5 cm 
+B.16.5 cm C.Rs. 5 D.Rs. 3
+638. A cask is filled with alcohol and water in the ratio 5”3 Sixteen gallons of this are drawn off and the cask 
+is filled with water and then the proportion of alcohol to water becomes 5:11 How many gallons does the 
+cask hold ?
+A.32    B.36   C.38  D.40
+639. A's capital is equal to twice B's capital and B's capital is three times C's capital. The ratio of the capital 
+is :
+
+A. 2:1:3    B. 1:2:6  C. 6:3:1     D. 1:3:6
+640.  A sum of money amounts to Rs. 9800 after 5 years and Rs. 12005 after 8 years at the same rate of 
+simple interest. The rate of interest per annum is:A. 5%B.8%C. 12%D. 
+15%
+641. A certain amount earns simple interest of Rs. 1750 after 7 years. Had the interest been 2% more, how 
+much more interest would it have earned?A. Rs. 35B. Rs. 245C. Rs. 350D. Cannot be 
+determined
+642.  In how many different ways can the letters of the word 'CORPORATION' be arranged so that the 
+vowels always come together?A. 810B. 1440C. 2880
+D. 50400E. 5760
+643. 1.12.91 is the first Sunday. Which is the fourth Tuesday of December 91?
+A. 20.12.91B. 22.12.91C. 24.12.91D. 25.12.91
+644.Peter and Paul are two friends. The sum of their ages is 35 years. Peter is twice as old as Paul was when 
+Peter was as old as Paul is now. What is the present age of Peter? 
+A.20 years.B.22yearsc.25yearsd.24years
+645. 3, 22 , 7, 45, 15, ? , 31 A.91B.82C.90D.72
+646. Two trains are running in opposite directions with the same speed. If the length of each train is 120 
+metres and they cross each other in 12 seconds, then the speed of each train (in km/hr) is:
+A. 10B. 18C. 36D. 72
+647. How many bricks, each measuring 25 cm x 11.25 cm x 6 cm, will be needed to build a wall of 8 m x 6 
+m x 22.5 cm?
+A. 5600B. 6000C. 6400D. 7200

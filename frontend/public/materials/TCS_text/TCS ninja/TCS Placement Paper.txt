@@ -1,0 +1,250 @@
+
+
+Visit prepnode.com for more placement papers and
+interview tips.
+TCS placement paper
+Section 1: Quantitative Ability (35 questions in 80 minutes)
+1. A man travels from A to B at 4 mph over a certain journey and returns over the 
+same route to A, at 5 mph. What is his average speed (in mph) for the journey?
+1] 4.52] 40/93] 19/44] 17/4
+2. Usha bought a linen cloth and rope to build a tent. If the rope is 153 m long 
+and it is to be cut into pieces of 1m length, then how many cuts are to be made 
+to cut the ropes into 153 pieces?
+1]1532]1523]1544]155
+3. All 32 points are equidistant from a point X on a plane then which is/are necessarily 
+true:
+a)all 32 lie on a circle
+b)distance from X to all 32 is less than distance between each other
+1] only a2] only b3] both a and b4] none
+4. Ferrari S.P.A is an Italian sports car manufacturer based in Maranello, Italy. 
+Founded by Enzo Ferrari in 1928 as Scuderia Ferrari, the company sponsored drivers
+and manufactured race cars before moving into production of street-legal vehicles 
+in 1947 as Ferrari S.P.A. Throughout its history, the company has been noted for its 
+continued participation in racing, especially in Formula One where it has employed 
+great success .Rohit once bought a Ferrari. It could go 4 times as fast as Mohan's 
+old Mercedes. If the speed of Mohan's Mercedes is 35 km/hr and the distance 
+traveled by the Ferrari is 490 km, find the total time taken for Rohit to drive that 
+distance (in hrs).
+1] 20.722] 3.53] 238.254] 6.18
+5. A circular dartboard of radius 1 foot is at a distance of 20 feet from you. You
+throw a dart at it and it hits the dartboard at some point Q in the circle. What is the
+probability that Q is closer to the center of the circle than the periphery?
+1] 0.752] 13] 0.54] 0.25
+
+6. Given 3 lines in the plane such that the points of intersection form a triangle 
+with sides of length 20, 20 and 30, the number of points equidistant from all the 3 
+lines is
+1] 42] 33] 04] 1
+7. Alok and Bhanu play the following min-max game. Given the expression 
+N=9+X+Y–Z where X, Y and Z are variables representing single digits (0 to 9), Alok 
+would like to maximize N while Bhanu would like to minimize it. Towards this end, 
+Alok chooses a single digit number and Bhanu substitutes this for a variable of her 
+choice (X, Y or Z). Alok then chooses the next value and Bhanu, the variable to 
+substitute the value. Finally Alok proposes the value for the remaining variable. 
+Assuming both play to their optimal strategies, the value of N at the end of the 
+game would be
+1] 272] 183] 94] 20
+8. Alice and Bob play the following chip-off-the-table game. Given a pile of 58 
+chips, Alice first picks at least one chip but not all the chips. In subsequent turns, 
+a player picks at least one chip but no more than the number picked on the 
+previous turn by the opponent. The player to pick the last chip wins. Which of the 
+following is true?
+1] In order to win, Alice should pick 14 chips on her 
+first turn.
+2] In order to win, Alice should pick two chips on her
+first turn. 3] In order to win, Alice should pick one 
+chip on her first turn. 
+4] Alice has no winning strategy
+9. (1/2) of a number is 3 more than the (1/6) of the same number? Which 
+number is this? 1] 6 2] 7 3] 8 4]9
+10. 3 persons A, B and C were there. A always says truth, B lies on Monday, Tuesday &
+Wednesday, but C lies on Thursday, Friday & Saturday .One day A said B & C said to A 
+that, B said “yesterday was one of the days when I lie”, C said that” yesterday way 
+one of the days when I lie too”, then which day was that?
+1] Sunday2] Thursday3] Saturday4] Tuesday
+11. 10 programmers, type 10 lines in 10 minutes, then to type 60 lines in 60 
+minutes, how many programmers are needed?
+1] 162] 63] 104] 60
+12. A car is filled with four and a half gallons of fuel for a round trip. If the amount of
+fuel taken while going is 25% more than the amount taken for coming, what is the 
+amount of fuel consumed while coming back?
+1]
+Less than 2 
+gallons2]
+2 
+gallons
+3]
+More than 3 
+gallons4]
+3 
+gallons
+
+13. Twenty-one persons attended a party. Which of the following statements can never 
+be true?
+1] There is a person in the party who is acquainted with all the 
+twenty others. 2] Each person in the party has a different 
+number of acquaintances.
+3] There is a person in the party who has an odd number of 
+acquaintances. 4] In the party, there is no set of three mutual 
+acquaintances.
+14. x/2y = 2a, then 2x/(x-
+2ay)=?
+1]42]83]164]2
+15. On planet korba, a solar blast has melted the ice caps on its equator. 9 years after 
+the ice melts, tiny planetoids called echina start growing on the rocks. Echina grows in 
+the form of circle, and the relationship between the diameter of this circle and the age 
+of echina is given by the formula d = 4*W* (t-9) for t > 9, where d represents the 
+diameter in mm, W=10 mm/years and t the number of years since the solar blast. 
+Jagan recorded the radius of some echina at a particular spot as 7mm. How many 
+years back did the solar blast occur?
+1] 172]21.253]9.1754]14.05
+16. In T.Nagar the buildings were numbered from 1 to 100.Then how many 4’s will 
+be present in the numbers?
+1]182]193]204]21
+17.A sheet of paper has statements numbered from 1 to 70. For all values of n 
+from 1 to 70, Statement n says ' At least n of the statements on this sheet are 
+false. ‘Which statements are true and which are false?
+1]   The   even   numbered   statements   are   true   and   the   odd
+numbered are false. 2] The odd numbered statements are true
+and the even numbered are false. 3] The first 35 statements are
+true and the last 35 are false.
+4] The first 35 statements are false and the last 35 are false.
+18.If a and b are mixed in 3:5 ratio and b and c are mixed in 8:5 ratio and if the
+final mixture is 35 liters, find the amount of b in liters?
+1] 13.342] 15.733] 16.734] 9.45
+19
+.
+One man want to build a wall .The length and breadth of the wall are 20 cm and 30 
+cm, respectively.
+He needs 35 bricks for one square centimeter then how many bricks he need?
+1] 21,5002] 30,0003] 21,0004] 20,000
+20
+.
+How many 9 digit numbers are possible by using the digits 1,2,3,4,5 which are 
+divisible by 4 if the
+repetition is allowed?
+1] 5^72] 5^63] 5^94]5^8
+
+21
+.
+A work is done by two persons in 24 min. One of them can do this work alone in 40 
+min. How much
+time is required to do the same work for the second 
+person?
+1] 80 min2] 48 min3] 60 min4] 120 min
+22
+.
+Ramu & Sangeetha went for biological analysis to an island which is 34km from 
+their place. They
+travelled in a boat which went at a speed of 2m/s. When they are in half a distance in 
+the boat sangeetha noted that there are 7 legged & 8 legged octopuses under the 
+water. Ramu counted the total number of legs of octopuses and got 54. Sangeetha 
+instantly said I know how many 7 legged octopuses are there under the water. They 
+both reached the island after 20 min they left. How many seven legged octopuses 
+does sangeetha calculate?
+1] 42] 53] 64] none of these
+23
+.
+A tank is filled with water. In first hour 10 liters, second hours 20 liters, and third 
+hour 40 liters and
+so on...If time taken to fill ¼ of the tank if 5 hours. What is the time taken to fill up 
+the tank?
+1] 52] 83] 74] 12.5
+24
+.
+In a shopping mall with a staff of 5 members the average age is 45 years. After 5 
+years a person
+joined them and the average age is again 45 years. What’s the age of 6th person?
+1] 252] 203]454]30
+25
+.What is the value of (3X+8Y)/(X-2Y), if X/2Y=2
+1]
+82]93]104]13
+26
+.1! + 2! + ....... + 50!=?
+27
+.
+A triangle is made from a rope. The sides of the triangle are 25 cm, 11 cm and 31 
+cm. What will be
+the area of the square made from the same 
+rope?
+1]280.56252]240.56253]280.1254]240
+28
+.
+If C & D = C
+2
+ + CD + D
+2
+ - (C + D) 
+then 7 & 8 =
+1] 1692] 1543] 1334] 172
+29
+.
+A boy was asked to multiply a certain number by 53. He multiplied it by 35 and got
+his answer less
+than the correct one by 1206. Find the number to be multiplied.
+1] 372] 673] 87
+4] 
+97
+30
+.
+In a fraction, if 1 is added to both the numerator and denominator, the fraction 
+becomes 1/2. If
+numerator is subtracted from the denominator, the fraction becomes 3/4. Find the 
+fraction.
+1] 5/82] 3/73] 2/34] 1/8
+31
+.If Rs. 1260 is divided amongst A, B and C in the ratio 2:3:4. What is C’s share?
+
+1] Rs. 8502] Rs. 5603] Rs. 2704] Rs. 625
+32. There are 150 weights. Some are 1 kg weights and some are 2 kg weights. The 
+sum of the weights is 260.What is the number of 1kg weights?
+1] 202] 303] 404] 50
+33. A moves 4 km east from his starting point. He then travels 5 km north. From that 
+point he moves 8 km to the east. How far is A from his starting point?
+1] 13 km2] 19 km3] 5 km4] 10 km
+34. The cost of one pencil, two pens and four erasers is Rs.22 while the cost of five 
+pencils, four pens and two erasers is Rs.32. How much will three pencils, three pens 
+and three erasers cost (in Rs.)?
+1] 162] 93] 274] 28
+35. A 3-gallon mixture contains one part S and two parts R. In order to change it to a 
+mixture containing 25% S, how much R should be added?
+1] 1/2 gallon2] 2/3 gallon3] 3/4 gallon4] 1 gallon
+Answer set
+Section 1: Quantitative Ability
+1.2
+2.2
+3.1
+4.2
+5.4
+6.1
+7.4
+8.2
+9.4
+10.2
+11.3
+12.2
+13.2
+14.1
+15.3
+16.3
+17.3
+18.2
+19.3
+20.4
+21.3
+22.4
+23.3
+24.3
+25.3
+
+26.1
+27.1
+28.2
+29.2
+30.2
+31.2
+32.3
+33.1
+34.3
+35.4

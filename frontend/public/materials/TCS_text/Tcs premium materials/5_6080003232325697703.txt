@@ -1,0 +1,125 @@
+
+
+Free Placement Video Tutorial with Mock Test visit: 
+www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+www.MyPlacementPrep.com 
+ 
+Pro Material Series 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Join Telegram Channel for more updates: 
+https://t.me/MyPlacementprepApp 
+ 
+Visit www.MyPlacementPrep.com .  
+India’s No1 website for Placement Materials and Free mock test Series 
+Free Placement Learning path now available with free video course. 
+
+Free Placement Video Tutorial with Mock Test visit: 
+www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+Best website for interview preparation: www.prodevelopertutorial.com  
+ 
+CODING  
+Write a Program to find the area of a circle.  
+#include<stdio.h> #define PI 3.14 int main() 
+{  
+float d, area; scanf("%f",&d); area=PI*(d/2)*(d/2); printf("%0.2f", area); return 0;  
+}  
+______________________________________________________________________________________________________  
+Buy top competitive programming and coding question book to clear interview. 100+ solved 
+questions Buy top data structure and algorithm book to clear interview. 90+ Chapters 
+Join telegram channel for placement materials  
+TEST CODE : TCS Ninja - Coding_5 
+Total number of question : 1 
+Test duration (min) : 20 min  
+Correct attempt (mark) : NA Wrong attempt (mark) : NA  
+
+Free Placement Video Tutorial with Mock Test visit: 
+www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+
+Free Placement Video Tutorial with Mock Test visit: 
+www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+ 
+ 
+ 
+ 
+www.MyPlacementPrep.com 
+ 
+Free Mock Test and Video 
+Tutorial 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Visit www.MyPlacementPrep.com .  
+India’s No1 website Placement and Mock Test series 
+Free Placement Learning Path with Free Video Course. 
+
+Free Placement Video Tutorial with Mock Test visit: 
+www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

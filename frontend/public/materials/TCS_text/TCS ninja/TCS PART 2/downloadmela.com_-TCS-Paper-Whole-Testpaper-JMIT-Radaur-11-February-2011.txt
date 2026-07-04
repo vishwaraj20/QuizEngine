@@ -1,0 +1,331 @@
+
+
+Visit www.downloadmela.com for more papers
+2005-2008 Placement
+Papers
+2010 Placement Papers2011 Placement Papers2009 Placement Papers
+Name: Himanshu
+Stream: CSE
+Status: Selected
+Eligible: 388 + 30 ( Toppers). Toppers were directly eligble for TR.
+Written: 289
+Selected: 171 ( 22 toppers)
+Here is my experience of TCS placement process. Thanks to almighty, my parents, Varun 
+nd Shipra. Last but not least lala ji :)
+Written Test
+Within 80 minutes, u have to answer 35 question which have already seen by you ( i 
+think). All questions are from touchstone and pattern. Digits can be chngd. Please 
+attempt openseesame.
+1. Hare in the other. The hare starts after the tortoise has covered 1/3 of its distance and 
+that too leisurely3. A hare and a tortoise have a race along a circle of 100 yards 
+diameter. The tortoise goes in one direction and the. The hare and tortoise meet when 
+the hare has covered only 1/5 of the distance. By what factor should the hare increase 
+its speed so as to tie the race?
+Ans. 4.40
+2.How many 4 digit numbers can be formed using the digits 1, 2,3,4 ,5 ( but with 
+repetition) that are divisible by 4?
+Ans. 5^3
+3. Ferrari S.P.A is an Italian sports car manufacturer based in Maranello, Italy. Founded 
+by Enzo Ferrari in 1928 as Scuderia Ferrari , the company sponsored drivers and 
+manufactured race cars before moving into production of street-legal vehicles in 1947 as 
+Feraari S.P.A. Throughout its history, the company has been noted for its continued 
+participation in racing, especially in Formula One where it has employed great success 
+.Rohit once bought a Ferrari . It could go 4 times as fast as Mohan's old Mercedes. If the 
+speed of Mohan's Mercedes is 46 km/hr and the distance traveled by the Ferrari is 953 
+km, find the total time taken for Rohit to drive that distance.
+a)20.72
+b) 5.18
+c)238.25
+d)6.18
+ans:(b)(time=distance/speed=953/4*46
+4. keywords: alok, bhanu, want to maximize nd other want to minimize.
+15+X*Y-Z
+For these type of ques, remember dis thumb rule..
+X*Y-Z=18
+X+Y-Z=11
+X-Y-Z=2
+here Ans: 15+18=33
+This question was repeated three times in my paper.
+5. The IT giant Tirnop has recently crossed a head count of 150000 and earnings of $7 
+billion. As one of the forerunners in the technology front, Tirnop continues to lead the 
+way in products and services in India. At Tirnop, all programmers are equal in every 
+respect. They receive identical salaries ans also write code at the same rate.Suppose 12 
+such programmers take 12 minutes to write 12 lines of code in total. How long will it 
+take 72 programmers to write 72 lines of code in total?
+ans 12 min
+prgrmr*min/ loc= prgmr *min/ loc
+This question was also repeated thrice.
+a) no of programer
+b) no lines of codes
+c) how much time they will take.
+
+Visit www.downloadmela.com for more papers
+2005-2008 Placement
+Papers
+2010 Placement Papers2011 Placement Papers2009 Placement Papers
+6. On a sheet of paper, there are 40 statements. Each n statement states that "Atleast n 
+number of statements on this sheet is false". Then which of the following is true.
+ans first 20 statements are true and last 20 are false.
+This question was also repeated thrice.
+a) Atleast wid false    ans first 20 r true and last 20 r false..
+b) Exactly wid true    ans  39th z true nd rest r false
+c) Atmost wid true or false   ans all statements r true
+7.There are 6 circles on a diagonal of square such that their centre lie on diagonal. 
+Consider that radius of each circle is equal. Find the ratio between side of square and 
+radius of circle.
+10r+ 2sqrt(2)r= sqrt(2)a
+ nw find a/r.
+8. There are 6 beer bottle nd one is poisoned. we have mice who will die within 14 hrs 
+after drinkin poisned beer. In 24 hrs we have to find poisoned  beer bottle. How many no 
+of mice we require to find out poisoned bottle.
+options
+a) 6
+b) 4
+c) 3
+d) 1
+i hav not answered dis question
+9. keyword: Alok Bhanu, stack of 20 coins. i move can play. dat z 1th move means to 
+put top coin 1 postion below. gold coin. initialy gold coin is at 3rd position from top. if itz 
+player turns nd player brings gold coin to the top then player z winner. alok starts. which 
+of the following is true.
+a) alok must play 1th move to win.
+b) alok must play 0th move to win
+c) alok has no wining strategy
+ans (a)
+10  1/3 rd of a number is more 3 than the 1/6th of a number then find the number? 
+Ans:18
+11. After the typist writes 12 letters and addresses 12 envelopes, she inserts the letters 
+randomly into the envelopes (1 letter per envelope). What is the probability that exactly 
+1 letter is inserted in an improper envelope?
+a)0
+b)12/212
+c)11/12
+d)1/12
+Ans:a (since 1 letter is in improper envelope other would definitely be in improper 
+envelope)
+12 There are two boxes, one containing 10 red balls and the other containing 10 green 
+balls. You are allowed to move the balls between the boxes so that when you choose a 
+box at random and a ball at random from the chosen box, the probability of getting a red 
+ball is maximized. This maximum probability is
+a)3/4
+b)14/19
+c)37/38
+d)1/2
+ans:b (probability of selecting a box=1/2.now keep 1 red ball in box a and transfer 9 red 
+balls to b,so probability=1/2(1+9/19)
+13 On the planet Oz, there are 8 days in a week- Sunday to Saturday and another day 
+called Oz day. There are 36 hours in a day and each hour has 90 min while each minute 
+has 60 sec. As on earth, the hour hand covers the dial twice every day.
+Find the approximate angle between the hands of a clock on Oz when the time is 9:40 
+
+Visit www.downloadmela.com for more papers
+2005-2008 Placement
+Papers
+2010 Placement Papers2011 Placement Papers2009 Placement Papers
+am.
+a. 251
+b.111
+c.29
+d.89
+ANS: c
+For 12:40 am ans z 89
+14 Given a collection of points P in the plane, a 1-set is a point in P that can be 
+separated from the rest by a line; i.e. the point lies on one side of the line while the 
+others lie on the other side. The number of 1-sets of P is denoted by n1(P). The 
+maximum value of n1(P) over all configurations P of 9 points in the plane is
+a.10
+b.9
+c.3
+d.5
+ans: b ( m nt sure)
+15. .Planet fourfi resides in 4-dimensional space and thus the currency used by its 
+residents are 3-dimensional objects. The rupee notes are cubical in shape while their 
+coins are spherical. However the coin minting machinery lays out some stipulations on 
+the size of the coins.The diameter of the coins should be at least 64mm and not exceed 
+512mm.
+Given a coin, the diameter of the next larger coin is at least 50% greater.
+The diameter of the coin must always be an integer.
+You are asked to design a set of coins of different diameters with these requirements and 
+your goal is to design as many coins as possible. How many coins can you design?
+5
+9
+6
+8
+Ans: c(hint:first coin has length 64 mm,2nd coin diamter length 64+(50/100)*64,3rd 
+coin 2nd coins diameter length+50/100 of 2nd coinds lenght,in that way go till you reach 
+maximum diamter length 512!now think!
+16. The pacelength P is the distance between the rear of two consecutive footprints. For 
+men, the formula, n/P = 144 gives an approximate relationship between n and P where, 
+n = number of steps per minute and P = pacelength in meters. Bernard knows his 
+pacelength is 164cm. The formula applies to Bernard's walking. Calculate Bernard's 
+walking speed in kmph.
+23.62
+11.39
+8.78
+236.16
+ans:a
+17.A hollow cube of size 5 cm is taken, with a thickness of 1 cm. It is made of smaller 
+cubes of size 1 cm. If 4 faces of the outer surface of the cube are painted, totally how 
+many faces of the smaller cubes remain unpainted?
+800
+500
+488
+900
+ans:side of cube = 5 cm
+its thichness = 1 cm
+so volume of outer cube = 5*5*5
+volume of inner cube = 3*3*3
+volume of the hollow cube = 5*5*5 - 3*3*3 = 98
+so total no of small cubes of the size 1 cm = 98/1*1*1 = 98
+
+Visit www.downloadmela.com for more papers
+2005-2008 Placement
+Papers
+2010 Placement Papers2011 Placement Papers2009 Placement Papers
+we know a cube has 6 faces so total no of face = 98*6 = 588
+one surface of outer cube contains a total of 25 surface of smaller cube , so when 4 
+surface of outer cube is painted total no of surface of small cubes i.e supposed to be 
+painted is 4*25 = 100
+so the total no of surfaces of small cube that will be remained unpainted is 588-100 = 
+488
+no of faces remain unpainted: 588-( 25* no faces painted)
+18.  10 suspects are rounded by the police and questioned about a bank robbery. Only 
+one of them is guilty. The suspects are made to stand in a line and each person declares 
+that the person next to him on his right is guilty. The rightmost person is not questioned. 
+Which of the following possibilities are true?
+A. All suspects are lying or the leftmost suspect is innocent.
+B. All suspects are lying and the leftmost suspect is innocent .
+A only
+B only
+Neither A nor B
+Both A and B
+19. A lady has fine gloves and hats in her closet- 18 blue, 32 red, and 25 yellow. The 
+lights are out and it is totally dark. In spite of the darkness, she can make out the 
+difference between a hat and a glove. She takes out an item out of the closet only if she 
+is sure that if it is a glove. How many gloves must she take out to make sure she has a 
+pair of each color?
+a)50 b)8 c)60 d)42
+ans:60
+There can be lots of logic for this, but approach the simplest one so that we approach to 
+one of the solutions. Suppose the lady first picks 32 Red gloves, and then 24 Yellow 
+gloves. The next pair she pics will be one Yellow and One Blue which does not make a 
+pair. The next two will be blue gloves. So she make a total of 32+24+1+1+2 = 60 picks. 
+20. One day Rapunzel meets Dwarf and Byte in the Forest of forgetfulness. She knows 
+that Dwarf lies on Mondays, Tuesdays and Wednesdays, and tells the truth on the other 
+days of the week. Byte, on the other hand, lies on Thursdays, Fridays and Saturdays, but 
+tells the truth on the other days of the week. Now they make the following statements to 
+Rapunzel – Dwarf: Yesterday was one of those days when I lie. Byte: Yesterday was one 
+of those days when I lie too. What day is it?
+a]Thursday
+b]Tuesday
+c]Sunday
+d]Monday
+ANS::
+Thursday
+Explanation :
+On Thursday, Dwarf says truth. i.e Yesterday(Wednesday) was one of those days when I 
+lies. Its true.
+On the other hand, On Thursday, Byte lies. i.e Yesterday(Wednesday) was one of those 
+days when I lie too. Its a lie.... So both satisfied. Hence its Thursday.
+21 The citizens of planet nigiet are 5 fingered and have thus developed their decimal 
+system in base 8.
+A certain street in nigiet contains 1000 (in base 5) buildings numbered 1 to 1000.
+How many 3s are used in numbering these buildings? Express result in terms of base 10.
+a) 54 b)64 c) 75 d) 100
+I didnt ans it..
+For base 8.. (8^2)*3 i dont know how to xpress it base 10
+Out of 35 question i had attempted 33 question nd cut off was around 27. Accuracy 
+matters. Put R. S. Aggarwal in ur drawer. For TCS RS Aggarwal is not required. 
+Technical Interview
+On next day first we had PPT by TCS. TCS recruiters were 3 hrs late :D
+
+Visit www.downloadmela.com for more papers
+2005-2008 Placement
+Papers
+2010 Placement Papers2011 Placement Papers2009 Placement Papers
+We were divided into IT and ITIS. IT is core progarmin nd ITIS networkin nd cloud 
+computin etc etc. i waz selected for IT.
+Please Please take complete sleep before interview day. My name was called at 8:20 pm 
+about 15 times and i was listening to music in my hostel room at fifth floor 63 stairs 
+above ground ( i was exhuasted upto 8 pm dats y dis rest helped me a lot) Special 
+Thanx 2 Akash as he called on my mobile. When I reached there collecting my breathe, 
+luckily it waz dinner time at 9.20pm.
+TR call me.
+TR: ( he opened door for himself as well as for me) aao... kya naam hain aapka.. ( he 
+asked me in hindi)
+Me: told
+TR: aao batho..
+Me: Thnk, Sir. Good Evening, Sir
+TR: aapne dinner kara
+Me: Yes Sir, Mane dinner kara..
+TR: Kya bana tha
+Me: told (actuly i didnt eat my dinner, it waz just a fruit n nut choco)
+TR: Tell me about yourself
+Me: told ( he noticed my hobbie)
+TR: Elaborate ur hobbie
+Me: told
+TR: What are ur major subjects??
+Me: C, C++, SE, DBMS ( he noted it down)
+TR: tell me about your project. ye aapne khud kiya hain ya banwaya hain ya bas padh ke 
+aaye ho..
+Me: told
+TR: ( completely satisfy nd smiled) gud. explain joins..
+ME: told
+TR: write query for joins
+Me: Sorry Sir, I dont remeber it rite nw ( confidently)
+TR: Ok, koi baat nahi. expalin ACID properties of DBMS.
+Me: told wid example
+TR: What have u read in SE???
+ME: told
+TR: gud.. Why should we hire you??
+Me: told
+TR: If i reject you in this interview, wht would u do???
+Me: ( lose confidence, but regain it widin fractions of second) told
+TR: What are ur limitations in this interview???
+ME: Nothing
+TR: ( Smiled nd give a nod ) okay m finished.. thank
+ME: thank ( still sit) Sir, May i ask you question???
+TR: Yes why not... bolo kya baat hain...
+Me: Wht would be my work profile??
+TR: told ( he showed me a ppt which had just received from a client)
+Me: May i kno ur intro???
+TR: told ( he z a very very xprncd person) if i know it before my interview might be i waz 
+nervous before him..
+Me: Thank you Sir, Nice to meet u
+TR: Same here
+At 9.30 am next day, TR result was declrd and i was in HR.
+HR round:
+She is a young lady, perhaps 27 or 28, but her face waz expresionless.
+
+Visit www.downloadmela.com for more papers
+2005-2008 Placement
+Papers
+2010 Placement Papers2011 Placement Papers2009 Placement Papers
+Again, I waz expectin dat my HR would be around 10 am. But i waz called at 9.35 am. i 
+waz not prepared for it at dat tym. It proved beneficial for me. NEVER CRAM ANYTHING 
+FROM UR CV. one of my friend lost dis oppurtunity only due to it.
+HR: Tell me about yourself??
+Me: told ( noticed hobbie)
+HR: Tell me about ur hobbie??
+Me: told
+HR: What ur career objective??
+Me: told
+HR: Where do u see urself after 10 yrs???
+Me: Told
+HR: relocation, bond etc???
+ME: close ur ear, eye, nose nd say yes ( if u want dis job)
+Me: Ma'am ur intro???
+HR: told
+Me: ask sum personal question ( nothin deep personal, only bout her job)
+HR: told ( it waz d last nd first tym she smiled during whole placement process while 
+interviewing other students) 
+Me: Thanku ma'am, nice to meet u.
+Hr: same here.
+At 7 pm, I got my first job nd again it waz informed by my friend while i waz taking 
+nap. :)
+Note: For ITIS, study CN, OS nd ur project.
+For IT, Java, c,c++ nd ur project.
+For toppers, u vil be put in IT nd Recruitment team head will take ur interview. It is d 
+test of maintain cool, confidence and spontaneity. Never lose hope. If it would nt hire u 
+den another one vil hire u.
+All the best!

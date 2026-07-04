@@ -1,0 +1,924 @@
+
+
+29/08/2018172.1.250.30/moodle/mod/quiz/review.php?attempt=1552&showall=1
+http://172.1.250.30/moodle/mod/quiz/review.php?attempt=1552&showall=11/25
+Skip to main content
+Sistec Science Olympiad
+TCS Mock Test
+Started onWednesday, 29 August 2018, 10:33 AM
+StateFinished
+Completed onWednesday, 29 August 2018, 10:33 AM
+Time taken9 secs
+Grade0.00 out of 48.00 (0%)
+Question 1
+Not answered
+Marked out of 1.00
+Flag question
+Question text
+What is the output of the following program 
+main ()  
+{  
+unsigned int i;  
+for (i = 10; i >= 0; i--)  
+printf ("%d", i);  
+}  
+Select one:
+a. prints nos 10 - 1
+b. Error
+c. prints numbers 10 - 0
+d. goes into infinite loop
+Feedback
+Your answer is incorrect.
+The correct answer is: prints nos 10 - 1
+Question 2
+Not answered
+Marked out of 1.00
+Flag question
+Question text
+
+29/08/2018172.1.250.30/moodle/mod/quiz/review.php?attempt=1552&showall=1
+http://172.1.250.30/moodle/mod/quiz/review.php?attempt=1552&showall=12/25
+Which of these is an invalid dataname?  
+Select one:
+a. wd_count
+b. wdcountabcd
+c. wd-count
+d. w4count
+Feedback
+Your answer is incorrect.
+The correct answer is: wd_count
+Question 3
+Not answered
+Marked out of 1.00
+Flag question
+Question text
+What is the value of the following expression?  
+i = 1;  
+i << 1 % 2  
+Select one:
+a. 0
+b. NA
+c. 2
+d. 1
+Feedback
+Your answer is incorrect.
+The correct answer is: 1
+Question 4
+Not answered
+Marked out of 1.00
+Flag question
+Question text
+What is the value of the following expression?  
+i = 1;  
+i = (i <<= 1 % 2)  
+Select one:
+a. 0
+
+29/08/2018172.1.250.30/moodle/mod/quiz/review.php?attempt=1552&showall=1
+http://172.1.250.30/moodle/mod/quiz/review.php?attempt=1552&showall=13/25
+b. erroneous syntax
+c. NA
+d. 2
+Feedback
+Your answer is incorrect.
+The correct answer is: 0
+Question 5
+Not answered
+Marked out of 1.00
+Flag question
+Question text
+What is the result?  
+*A + 1 - *A + 3  
+Select one:
+a. -2
+b. 4
+c. 0
+d. none of the above
+Feedback
+Your answer is incorrect.
+The correct answer is: 4
+Question 6
+Not answered
+Marked out of 1.00
+Flag question
+Question text
+which is the valid declaration? 
+Select one:
+a. typedef struct {int i;} in;
+b. #typedef struct { int i;}in;
+c. typedef struct in {int i;};
+d. #typedef struct int {int i;}; 
+Feedback
+Your answer is incorrect.
+
+29/08/2018172.1.250.30/moodle/mod/quiz/review.php?attempt=1552&showall=1
+http://172.1.250.30/moodle/mod/quiz/review.php?attempt=1552&showall=14/25
+The correct answer is: #typedef struct int {int i;}; 
+Question 7
+Not answered
+Marked out of 1.00
+Flag question
+Question text
+union  
+{  
+int no;  
+char ch;  
+}  u; 
+u.ch = '2'; 
+u.no = 0;  
+printf ("%d", u.ch);  
+What is the output? 
+Select one:
+a. 0
+b. none
+c. 2
+d. null character
+Feedback
+Your answer is incorrect.
+The correct answer is: 0
+Question 8
+Not answered
+Marked out of 1.00
+Flag question
+Question text
+which are valid? 
+i) pointers can be added  
+ii) pointers can be subtracted  
+iii) integers can be added to pointers  
+Select one:
+a. only i and ii
+b. all correct
+
+29/08/2018172.1.250.30/moodle/mod/quiz/review.php?attempt=1552&showall=1
+http://172.1.250.30/moodle/mod/quiz/review.php?attempt=1552&showall=15/25
+Feedback
+Your answer is incorrect.
+The correct answer is: all correct
+Question 9
+Not answered
+Marked out of 1.00
+Flag question
+Question text
+What will be the output of the program?
+#include<stdio.h> 
+int main() 
+{ 
+    char ch; 
+    if(ch = printf("")) 
+        printf("It matters\n"); 
+    else 
+        printf("It doesn't matters\n"); 
+    return 0; 
+}
+Select one:
+a.  
+ 
+It doesn't matters
+b. No output
+c. matters
+d. It matters
+Feedback
+Your answer is incorrect.
+The correct answer is:  
+ 
+It doesn't matters
+Question 10
+Not answered
+Marked out of 1.00
+
+29/08/2018172.1.250.30/moodle/mod/quiz/review.php?attempt=1552&showall=1
+http://172.1.250.30/moodle/mod/quiz/review.php?attempt=1552&showall=16/25
+Flag question
+Question text
+What is recurrence for worst case of QuickSort and what is the time complexity in Worst case?
+Select one:
+a. Recurrence is T(n) = T(n/10) + T(9n/10) + O(n) and time complexity is O(nLogn)
+b. Recurrence is T(n) = 2T(n/2) + O(n) and time complexity is O(nLogn)
+c. Recurrence is T(n) = T(n-2) + O(n) and time complexity is O(n^2)
+d. Recurrence is T(n) = T(n-1) + O(n) and time complexity is O(n^2)
+Feedback
+Your answer is incorrect.
+The correct answer is: Recurrence is T(n) = T(n-1) + O(n) and time complexity is O(n^2)
+Question 11
+Not answered
+Marked out of 1.00
+Flag question
+Question text
+Suppose we have a O(n) time algorithm that finds median of an unsorted array. Now consider a QuickSort implementation where we first
+find median using the above algorithm, then use median as pivot. What will be the worst case time complexity of this modified QuickSort 
+Select one:
+a. O(n Logn Logn)
+b. O(nLogn)
+c. O(n^2)
+d. O(n^2 Logn)
+Feedback
+Your answer is incorrect.
+The correct answer is: O(nLogn)
+Question 12
+Not answered
+Marked out of 1.00
+Flag question
+Question text
+Which of the following is not a stable sorting algorithm in its typical implementation 
+Select one:
+a. Bubble Sort
+
+29/08/2018172.1.250.30/moodle/mod/quiz/review.php?attempt=1552&showall=1
+http://172.1.250.30/moodle/mod/quiz/review.php?attempt=1552&showall=17/25
+b. Insertion Sort
+c. Merge Sort
+d. Quick Sort
+Feedback
+Your answer is incorrect.
+The correct answer is: Quick Sort
+Question 13
+Not answered
+Marked out of 1.00
+Flag question
+Question text
+Which of the following sorting algorithms in its typical implementation gives best performance when applied on an array which is sorted
+or almost sorted (maximum 1 or two elements are misplaced).
+Select one:
+a. Quick Sort
+b. Heap Sort
+c. Insertion Sort
+d. Merge Sort
+Feedback
+Your answer is incorrect.
+The correct answer is: Insertion Sort
+Question 14
+Not answered
+Marked out of 1.00
+Flag question
+Question text
+Given an unsorted array. The array has this property that every element in array is at most k distance from its position in sorted array
+where k is a positive integer smaller than size of array. Which sorting algorithm can be easily modified for sorting this array and what is
+the obtainable time complexity?
+Select one:
+a. Quick Sort with time complexity O(kLogk)
+b. Heap Sort with time complexity O(nLogk) 
+c. Insertion Sort with time complexity O(kn)
+d. Merge Sort with time complexity O(kLogk)
+Feedback
+
+29/08/2018172.1.250.30/moodle/mod/quiz/review.php?attempt=1552&showall=1
+http://172.1.250.30/moodle/mod/quiz/review.php?attempt=1552&showall=18/25
+Your answer is incorrect.
+The correct answer is: Heap Sort with time complexity O(nLogk) 
+Question 15
+Not answered
+Marked out of 1.00
+Flag question
+Question text
+Consider a situation where swap operation is very costly. Which of the following sorting algorithms should be preferred so that the
+number of swap operations are minimized in general?
+Select one:
+a. Selection Sort
+b. Insertion Sort
+c. Merge Sort
+d. Heap Sort
+Feedback
+Your answer is incorrect.
+The correct answer is: Selection Sort
+Question 16
+Not answered
+Marked out of 1.00
+Flag question
+Question text
+Which of the following is not true about comparison based sorting algorithms?
+Select one:
+a. Heap Sort is not a comparison based sorting algorithm
+b. Any comparison based sorting algorithm can be made stable by using position as a criteria when two
+elements are compared
+c. The minimum possible time complexity of a comparison based sorting algorithm is O(nLogn) for a random
+input array
+d. Counting Sort is not a comparison based sorting algortihm
+Feedback
+Your answer is incorrect.
+The correct answer is: Heap Sort is not a comparison based sorting algorithm
+Question 17
+Not answered
+
+29/08/2018172.1.250.30/moodle/mod/quiz/review.php?attempt=1552&showall=1
+http://172.1.250.30/moodle/mod/quiz/review.php?attempt=1552&showall=19/25
+Marked out of 1.00
+Flag question
+Question text
+Suppose we are sorting an array of eight integers using quicksort, and we have just finished the first partitioning with the array looking
+like this: 2 5 1 7 9 12 11 10 Which statement is correct?
+Select one:
+a. The pivot is not the 7, but it could be the 9
+b. The pivot could be either the 7 or the 9.
+c. Neither the 7 nor the 9 is the pivot.
+d. The pivot could be the 7, but it is not the 9
+Feedback
+Your answer is incorrect.
+The correct answer is: The pivot could be either the 7 or the 9.
+Question 18
+Not answered
+Marked out of 1.00
+Flag question
+Question text
+Suppose we are sorting an array of eight integers using heapsort, and we have just finished some heapify (either maxheapify or
+minheapify) operations. The array now looks like this: 16 14 15 10 12 27 28 How many heapify operations have been performed on root
+of heap?
+Select one:
+a. 2
+b. 5 or 6
+c. 1
+d. 3 or 4
+Feedback
+Your answer is incorrect.
+The correct answer is: 2
+Question 19
+Not answered
+Marked out of 1.00
+Flag question
+Question text
+What is the best time complexity of bubble sort?
+
+29/08/2018172.1.250.30/moodle/mod/quiz/review.php?attempt=1552&showall=1
+http://172.1.250.30/moodle/mod/quiz/review.php?attempt=1552&showall=110/25
+Select one:
+a. N(logN)^2
+b. N^2
+c. N
+d. NlogN
+Feedback
+Your answer is incorrect.
+The correct answer is: N
+Question 20
+Not answered
+Marked out of 1.00
+Flag question
+Question text
+Which of the following algorithms is NOT a divide & conquer algorithm by nature?
+Select one:
+a. Heap Sort
+b. Quick Sort
+c. Cooley-Tukey fast Fourier transform
+d. Euclidean algorithm to compute the greatest common divisor
+Feedback
+Your answer is incorrect.
+The correct answer is: Heap Sort
+Question 21
+Not answered
+Marked out of 1.00
+Flag question
+Question text
+Consider the following C program
+int main() 
+{ 
+   int x, y, m, n; 
+   scanf ("%d %d", &x, &y); 
+   /* x > 0 and y > 0 */ 
+   m = x; n = y; 
+
+29/08/2018172.1.250.30/moodle/mod/quiz/review.php?attempt=1552&showall=1
+http://172.1.250.30/moodle/mod/quiz/review.php?attempt=1552&showall=111/25
+   while (m != n)
+   { 
+      if(m>n) 
+         m = m - n; 
+      else 
+         n = n - m; 
+   } 
+   printf("%d", n); 
+}
+What does the program compute? (TCS CS 2004)
+Select one:
+a. x + y using repeated subtraction
+b. the greatest common divisor of x and y
+c. the least common multiple of x and y
+d. x mod y using repeated subtraction
+Feedback
+Your answer is incorrect.
+The correct answer is: the greatest common divisor of x and y
+Question 22
+Not answered
+Marked out of 1.00
+Flag question
+Question text
+Consider the polynomial p(x) = a0 + a1x + a2x^2 +a3x^3, where ai != 0, for all i. The minimum number of multiplications needed to
+evaluate p on an input x is:
+Select one:
+a. 6
+b. 5
+c. 3
+d. 4
+Feedback
+Your answer is incorrect.
+The correct answer is: 3
+Question 23
+Not answered
+Marked out of 1.00
+Flag question
+
+29/08/2018172.1.250.30/moodle/mod/quiz/review.php?attempt=1552&showall=1
+http://172.1.250.30/moodle/mod/quiz/review.php?attempt=1552&showall=112/25
+Question text
+Maximum Subarray Sum problem is to find the subarray with maximum sum. For example, given an array {12, -13, -5, 25, -20, 30, 10},
+the maximum subarray sum is 45. The naive solution for this problem is to calculate sum of all subarrays starting with every element and
+return the maximum of all. We can solve this using Divide and Conquer, what will be the worst case time complexity using Divide and
+Conquer.
+Select one:
+a. O(Logn)
+b. O(n^2)
+c. O(n)
+d. O(nLogn)
+Feedback
+Your answer is incorrect.
+The correct answer is: O(nLogn)
+Question 24
+Not answered
+Marked out of 1.00
+Flag question
+Question text
+Consider a situation where you don't have function to calculate power (pow() function in C) and you need to calculate x^n where x can
+be any number and n is a positive integer. What can be the best possible time complexity of your power function?
+Select one:
+a. O(n)
+b. O(nLogn)
+c. O(LogLogn)
+d. O(Logn)
+Feedback
+Your answer is incorrect.
+The correct answer is: O(Logn)
+Question 25
+Not answered
+Marked out of 1.00
+Flag question
+Question text
+Consider the problem of searching an element x in an array 'arr[]' of size n. The problem can be solved in O(Logn) time if. 1) Array is
+sorted 2) Array is sorted and rotated by k. k is given to you and k <= n 3) Array is sorted and rotated by k. k is NOT given to you and k
+<= n 4) Array is not sorted
+Select one:
+
+29/08/2018172.1.250.30/moodle/mod/quiz/review.php?attempt=1552&showall=1
+http://172.1.250.30/moodle/mod/quiz/review.php?attempt=1552&showall=113/25
+a. 1, 2, 3 and 4
+b. 1 Only
+c. 1, 2 and 3 only
+d. 1 & 2 only
+Feedback
+Your answer is incorrect.
+The correct answer is: 1, 2 and 3 only
+Question 26
+Not answered
+Marked out of 1.00
+Flag question
+Question text
+Which of the following standard algorithms is not a Greedy algorithm?
+Select one:
+a. Dijkstra's shortest path algorithm
+b. Prim's algorithm
+c. Bellmen Ford Shortest path algorithm
+d. Huffman Coding
+Feedback
+Your answer is incorrect.
+The correct answer is: Bellmen Ford Shortest path algorithm
+Question 27
+Not answered
+Marked out of 1.00
+Flag question
+Question text
+What is the time complexity of Huffman Coding?
+Select one:
+a. O(N(logN)^2)
+b. O(NlogN)
+c. O(N^2)
+d. O(N)
+Feedback
+Your answer is incorrect.
+The correct answer is: O(NlogN)
+
+29/08/2018172.1.250.30/moodle/mod/quiz/review.php?attempt=1552&showall=1
+http://172.1.250.30/moodle/mod/quiz/review.php?attempt=1552&showall=114/25
+Question 28
+Not answered
+Marked out of 1.00
+Flag question
+Question text
+Which of the following standard algorithms is not Dynamic Programming based.
+Select one:
+a. 0-1 Knapsack problem
+b. Prim's Minimum Spanning Tree
+c. Floyd Warshall Algorithm for all pairs shortest paths
+d. Bellman-Ford Algorithm for single source shortest path
+Feedback
+Your answer is incorrect.
+The correct answer is: Prim's Minimum Spanning Tree
+Question 29
+Not answered
+Marked out of 1.00
+Flag question
+Question text
+We use dynamic programming approach when
+Select one:
+a. It's faster than Greedy
+b. The solution has optimal substructure
+c. It provides optimal solution
+d. The given problem can be reduced to the 3-SAT problem
+Feedback
+Your answer is incorrect.
+The correct answer is: The solution has optimal substructure
+Question 30
+Not answered
+Marked out of 1.00
+Flag question
+Question text
+
+29/08/2018172.1.250.30/moodle/mod/quiz/review.php?attempt=1552&showall=1
+http://172.1.250.30/moodle/mod/quiz/review.php?attempt=1552&showall=115/25
+Kadane algorithm is used to find:
+Select one:
+a. Maximum sum subarray in an array 
+b. Maximum product subsequence in an array
+c. Maximum sum subsequence in an array
+d. Maximum product subarray in an array
+Feedback
+Your answer is incorrect.
+The correct answer is: Maximum sum subarray in an array 
+Question 31
+Not answered
+Marked out of 1.00
+Flag question
+Question text
+Which of the following is not a backtracking algorithm?
+Select one:
+a. Knight tour problem
+b. M coloring problem
+c. Tower of hanoi 
+d. N queen problem
+Feedback
+Your answer is incorrect.
+The correct answer is: Tower of hanoi 
+Question 32
+Not answered
+Marked out of 1.00
+Flag question
+Question text
+Which one of the following permutations can be obtained the output using stack assuming that the input is the
+sequence 1,2,3,4,5 in that order ? 
+Select one:
+a. 1,5,2,3,4
+b. 3,4,5,1,2
+c. 5,4,3,1,2
+d. 3,4,5,2,1
+
+29/08/2018172.1.250.30/moodle/mod/quiz/review.php?attempt=1552&showall=1
+http://172.1.250.30/moodle/mod/quiz/review.php?attempt=1552&showall=116/25
+Feedback
+Your answer is incorrect.
+The correct answer is: 3,4,5,2,1
+Question 33
+Not answered
+Marked out of 1.00
+Flag question
+Question text
+The initial configuration of the queue is a,b,c,d (a is the front end). To get the configuration d,c,b,a one needs a
+minimum of ? 
+Select one:
+a. 3 deletions and 4 additions
+b. 3 additions and 2 deletions
+c. 3 deletions and 3 additions
+d. 2 deletions and 3 additions
+Feedback
+Your answer is incorrect.
+The correct answer is: 3 deletions and 3 additions
+Question 34
+Not answered
+Marked out of 1.00
+Flag question
+Question text
+Linked list are not suitable data structure of which one of the following problems ?
+Select one:
+a.
+Radix sort
+b.
+Binary search
+c. Insertion sort
+d. Polynomial manipulation
+Feedback
+Your answer is incorrect.
+
+29/08/2018172.1.250.30/moodle/mod/quiz/review.php?attempt=1552&showall=1
+http://172.1.250.30/moodle/mod/quiz/review.php?attempt=1552&showall=117/25
+The correct answer is:
+Binary search
+Question 35
+Not answered
+Marked out of 1.00
+Flag question
+Question text
+The number of possible ordered trees with three nodes A,B,C is? 
+Select one:
+a. 10
+b. 16
+c. 12
+d. 8
+Feedback
+Your answer is incorrect.
+The correct answer is: 12
+Question 36
+Not answered
+Marked out of 1.00
+Flag question
+Question text
+Which of the following algorithm design technique is used in the quick sort algorithm?
+Select one:
+a. Dynamic programming
+b.
+Backtracking
+c.
+Divide and conquer
+d.
+Greedy method
+Feedback
+Your answer is incorrect.
+The correct answer is:
+
+29/08/2018172.1.250.30/moodle/mod/quiz/review.php?attempt=1552&showall=1
+http://172.1.250.30/moodle/mod/quiz/review.php?attempt=1552&showall=118/25
+Divide and conquer
+Question 37
+Not answered
+Marked out of 1.00
+Flag question
+Question text
+The number of swapping needed to sort numbers 8,22,7,9,31,19,5,13 in ascending order using bubble sort is ?
+Select one:
+a. 13
+b. 14
+c. 12
+d.
+11
+Feedback
+Your answer is incorrect.
+The correct answer is: 14
+Question 38
+Not answered
+Marked out of 1.00
+Flag question
+Question text
+Which of the following statement is true ?
+Select one:
+a. Optimal binary search tree construction can be performed efficiently using dynamic programming
+b.
+Depth first search can be used to find connected components of a graph.
+c.
+Breath first search cannot be used to find converted components of a graph.
+d.
+Given the prefix and post fix walks over a binary tree.The binary tree cannot be uniquely constructe
+Feedback
+Your answer is incorrect.
+
+29/08/2018172.1.250.30/moodle/mod/quiz/review.php?attempt=1552&showall=1
+http://172.1.250.30/moodle/mod/quiz/review.php?attempt=1552&showall=119/25
+The correct answer is: Optimal binary search tree construction can be performed efficiently using dynamic
+programming
+Question 39
+Not answered
+Marked out of 1.00
+Flag question
+Question text
+Given two sorted lists of size m and n respectively.The number of comparisons needed in the worst case by the
+merge sort algorithm will be?
+Select one:
+a. mn
+b.
+min(m,n)
+c.
+max(m,n)
+d.
+m+n-1
+Feedback
+Your answer is incorrect.
+The correct answer is:
+m+n-1
+Question 40
+Not answered
+Marked out of 1.00
+Flag question
+Question text
+C allows 
+Select one:
+a. only call by value and sometimes call by reference
+b. both
+c. only call by reference
+d. only call by value 
+Feedback
+
+29/08/2018172.1.250.30/moodle/mod/quiz/review.php?attempt=1552&showall=1
+http://172.1.250.30/moodle/mod/quiz/review.php?attempt=1552&showall=120/25
+Your answer is incorrect.
+The correct answer is: only call by value and sometimes call by reference
+Question 41
+Not answered
+Marked out of 1.00
+Flag question
+Question text
+What will be the output of the program in Turb C (under DOS)?
+#include<stdio.h> 
+ 
+int main() 
+{ 
+    int arr[5], i=0; 
+    while(i<5) 
+        arr[i]=++i; 
+ 
+    for(i=0; i<5; i++) 
+        printf("%d, ", arr[i]); 
+ 
+    return 0; 
+}
+Select one:
+a. 2, 3, 4, 5, 6,
+b. 0, 1, 2, 3, 4
+c. Garbage value, 1, 2, 3, 4,
+d. 1, 2, 3, 4, 5,
+Feedback
+Your answer is incorrect.
+The correct answer is: Garbage value, 1, 2, 3, 4,
+Question 42
+Not answered
+Marked out of 1.00
+Flag question
+Question text
+What will be the output of the program ?
+
+29/08/2018172.1.250.30/moodle/mod/quiz/review.php?attempt=1552&showall=1
+http://172.1.250.30/moodle/mod/quiz/review.php?attempt=1552&showall=121/25
+#include<stdio.h> 
+ 
+int main() 
+{ 
+    int arr[1]={10}; 
+    printf("%d\n", 0[arr]); 
+    return 0; 
+}
+Select one:
+a. 10
+b. 6
+c. 0
+d. 1
+Feedback
+Your answer is incorrect.
+The correct answer is: 10
+Question 43
+Not answered
+Marked out of 1.00
+Flag question
+Question text
+ 
+What will be the output of the program if the array begins at address 65486?
+#include<stdio.h> 
+ 
+int main() 
+{ 
+    int arr[] = {12, 14, 15, 23, 45}; 
+    printf("%u, %u\n", arr, &arr); 
+    return 0; 
+}
+Select one:
+a. 65486, 65490
+b. 65486, 65486
+c. 65486, 65488
+
+29/08/2018172.1.250.30/moodle/mod/quiz/review.php?attempt=1552&showall=1
+http://172.1.250.30/moodle/mod/quiz/review.php?attempt=1552&showall=122/25
+d. 65486, 65487
+Feedback
+Your answer is incorrect.
+The correct answer is: 65486, 65486
+Question 44
+Not answered
+Marked out of 1.00
+Flag question
+Question text
+What will be the output of the program ?
+#include<stdio.h> 
+ 
+int main() 
+{ 
+    float arr[] = {12.4, 2.3, 4.5, 6.7}; 
+    printf("%d\n", sizeof(arr)/sizeof(arr[0])); 
+    return 0; 
+}
+ 
+Select one:
+a. 5
+b. 6
+c. 7
+d. 4
+Feedback
+Your answer is incorrect.
+The correct answer is: 4
+Question 45
+Not answered
+Marked out of 1.00
+Flag question
+Question text
+
+29/08/2018172.1.250.30/moodle/mod/quiz/review.php?attempt=1552&showall=1
+http://172.1.250.30/moodle/mod/quiz/review.php?attempt=1552&showall=123/25
+What will be the output of the program if the array begins 1200 in memory?
+#include<stdio.h> 
+ 
+int main() 
+{ 
+    int arr[]={2, 3, 4, 1, 6}; 
+    printf("%u, %u, %u\n", arr, &arr[0], &arr); 
+    return 0; 
+}
+Select one:
+a. 1200, 1200, 1200
+b. 1200, 1202, 1204
+c. 1200, 1204, 1208
+d. 1200, 1202, 1200
+Feedback
+Your answer is incorrect.
+The correct answer is: 1200, 1200, 1200
+Question 46
+Not answered
+Marked out of 1.00
+Flag question
+Question text
+How will you free the allocated memory ? 
+Select one:
+a. remove(var-name);
+b. dalloc(var-name);
+c. free(var-name);
+d. delete(var-name);
+Feedback
+Your answer is incorrect.
+The correct answer is: free(var-name);
+Question 47
+Not answered
+Marked out of 1.00
+Flag question
+
+29/08/2018172.1.250.30/moodle/mod/quiz/review.php?attempt=1552&showall=1
+http://172.1.250.30/moodle/mod/quiz/review.php?attempt=1552&showall=124/25
+Question text
+What will be the output of the program?
+#include<stdio.h> 
+int main() 
+{ 
+    int i=0; 
+    for(; i<=5; i++); 
+        printf("%d", i); 
+    return 0; 
+}
+ 
+ 
+Select one:
+a. C-program
+b. None of above
+c. Ps
+d. Error
+Feedback
+Your answer is incorrect.
+The correct answer is: C-program
+Question 48
+Not answered
+Marked out of 1.00
+Flag question
+Question text
+What will be the output of the program?
+#include<stdio.h> 
+int main() 
+{ 
+    int a = 500, b = 100, c; 
+    if(!a >= 400) 
+        b = 300; 
+    c = 200; 
+    printf("b = %d c = %d\n", b, c); 
+
+29/08/2018172.1.250.30/moodle/mod/quiz/review.php?attempt=1552&showall=1
+http://172.1.250.30/moodle/mod/quiz/review.php?attempt=1552&showall=125/25
+    return 0; 
+}
+Select one:
+a. b = 300 c = 200
+b. b = 100 c = 200
+c. b = 300 c = garbage
+d. b = 100 c = garbage
+Feedback
+Your answer is incorrect.
+The correct answer is: b = 100 c = 200
+Save the state of the flags
+Finish review
+Skip Quiz navigation
+Quiz navigation
+Question 1 This page Question 2 This page Question 3 This page Question 4 This page Question 5 This page
+Question 6 This page Question 7 This page Question 8 This page Question 9 This page Question 10 This page
+Question 11 This page Question 12 This page Question 13 This page Question 14 This page Question 15 This
+page Question 16 This page Question 17 This page Question 18 This page Question 19 This page Question 20
+This page Question 21 This page Question 22 This page Question 23 This page Question 24 This page Question
+25 This page Question 26 This page Question 27 This page Question 28 This page Question 29 This page
+Question 30 This page Question 31 This page Question 32 This page Question 33 This page Question 34 This
+page Question 35 This page Question 36 This page Question 37 This page Question 38 This page Question 39
+This page Question 40 This page Question 41 This page Question 42 This page Question 43 This page Question
+44 This page Question 45 This page Question 46 This page Question 47 This page Question 48 This page
+Show one page at a timeFinish review

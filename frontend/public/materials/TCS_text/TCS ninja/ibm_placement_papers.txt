@@ -1,0 +1,4160 @@
+
+
+For More Placement Papers visit www.123eng.com 
+www.123eng.com
+ Engineering the Engineers 
+Submit your resume to cvs@123eng.com 
+Chat with other engineers at www.123eng.com/forum
+ 
+Page 1 of 98 
+IBM GLOBAL SERVICES 
+ 
+ 
+ 
+1. In 1978, a kg of paper was sold at Rs25/-. I f the paper rate 
+ 
+increases at 1.5% more than inflation rate which is of 6.5% a year 
+ 
+, then what wil be the cost of a kg of paper after 2 years? 
+ 
+a)29.12 (b) 29.72 (c) 30.12 (d) 32.65 (e) none of these 
+ 
+ 
+ 
+2. In A,B,C are having some marbles with each of them. A has giben 
+ 
+B and C the same number of marbles they already have to each of them. 
+ 
+then, B gave C and A the same no. of marbles they have, then C gave 
+ 
+A and B the same no. of marbles they have. At the  
+ 
+end A,B,and C have equal no. of marbles. 
+ 
+(i) If x,y,z are the marbles initially with A,B,C respectively. 
+ 
+then the no of marbles B have at the end 
+ 
+(a) 2(x-y-z) (b) 4(x-y-z) etc. 
+ 
+
+For More Placement Papers visit www.123eng.com 
+www.123eng.com
+ Engineering the Engineers 
+Submit your resume to cvs@123eng.com 
+Chat with other engineers at www.123eng.com/forum
+ 
+Page 2 of 98 
+ 
+ 
+(ii)If the total no. of marbles are 72, then the no. of marbles with A at the starting 
+ 
+a. 20 b. 30 c. 32 
+ 
+ 
+ 
+3. If a car starts from A towards B with some velocity due to some 
+ 
+problem in the engine after travelling 30km.If the car goes with 
+ 
+4/5 th of its actuval velocity the car reaches B 45min later to the 
+ 
+actual time. If the car engine fails ofter travelling  
+ 
+45km, the car reaches the destination B 36min late to the actual 
+ 
+time , what is the initial velocity of car and what is the distance between A and B 
+in km 
+ 
+ans) 20 & 130. 
+ 
+ 
+ 
+4. A person has Rs 100/- in his pocket, he can as 25 pencils or 15books. 
+ 
+He kept 15% of the money for travelling expenses and purchased 5 
+ 
+pencils.So how many books he can purchase with the remaining money. 
+
+For More Placement Papers visit www.123eng.com 
+www.123eng.com
+ Engineering the Engineers 
+Submit your resume to cvs@123eng.com 
+Chat with other engineers at www.123eng.com/forum
+ 
+Page 3 of 98 
+ 
+ 
+ 
+5. ten questions on analogies. 
+ 
+ex: hammer : carpenter :: 
+ 
+ 
+ 
+knife : butcher. 
+ 
+ 
+ 
+6. The values of shares A,B and C from january to june are as follows. 
+ 
+ 
+ 
+month A B C 
+ 
+ 
+ 
+JAN 30 60 80 
+ 
+FEB 35 65 85 
+ 
+MAR 45 75 65 
+ 
+APR 40 75 82 
+ 
+MAY 55 75 85 
+
+For More Placement Papers visit www.123eng.com 
+www.123eng.com
+ Engineering the Engineers 
+Submit your resume to cvs@123eng.com 
+Chat with other engineers at www.123eng.com/forum
+ 
+Page 4 of 98 
+ 
+JUNE 50 75 80 
+ 
+ 
+ 
+i) During this period which share has undergone max fluctuation? 
+ 
+ 
+ 
+ii) In which month it is possible to buy B and C selling A? 
+ 
+ 
+ 
+iii) In which month the share values are very low? 
+ 
+ 
+ 
+iv) By purchasing one share of A and 4 each of B and C in the beginning 
+ 
+of the period , to get max profit when this shares should be sold? 
+ 
+v) ? 
+ 
+ 
+ 
+7. In a computer institute 9 languages can taught. The module is 
+ 
+of 6 months duration and only six languages each of one month can 
+ 
+be taught. In addition to that BASIC is always there and should be in first month 
+
+For More Placement Papers visit www.123eng.com 
+www.123eng.com
+ Engineering the Engineers 
+Submit your resume to cvs@123eng.com 
+Chat with other engineers at www.123eng.com/forum
+ 
+Page 5 of 98 
+itself 
+ 
+# word perfect is to be taught in the preceeding week of word star. 
+ 
+# FORTRAN can not be taught until COBAL is coarsed prior to that 
+ 
+# BINO, FIFO never be taught in single module 
+ 
+languages are BASIC, WORD STAR, WORD PERFECT, FORTRAN, COBAL, 
+BINO, FIFO, LOTUS, C 
+ 
+ 
+ 
+i. Of the following which module is possible based on above conditions. 
+ 
+ 
+ 
+ii) If word star is in 3rd month , what could be in 6th month. 
+ 
+ 
+ 
+iii) If COBAL is in the 2nd month and BINO in 6th month are there 
+ 
+in addition to the above condition, FORTRAN will be in which month. 
+ 
+ 
+ 
+ 
+ 
+8. In a class , except 18 all are above 50 years. 15 are below 50 
+
+For More Placement Papers visit www.123eng.com 
+www.123eng.com
+ Engineering the Engineers 
+Submit your resume to cvs@123eng.com 
+Chat with other engineers at www.123eng.com/forum
+ 
+Page 6 of 98 
+ 
+years of age. how many people are there 
+ 
+a) 30 b) 33 c) 36 d) none of these. 
+ 
+ 
+ 
+9. A square plot of some size , at four corners equal squares of 
+ 
+some size are cut and is formed as open box. If this open box carries 
+ 
+128ml of oil. What is the size of the plate i.e. side 
+ 
+a.17 b.14 c.13 
+ 
+ 
+ 
+10. In a square , all the mid points are joined. the inner square 
+ 
+is shaded. If the area of the square is A, what is the shaded area? 
+ 
+ 
+ 
+11. two questions on basic angles i.e given a circle, a few chords or diameter is 
+drawn etc. 
+ 
+ 
+ 
+12. @(a,b)= (a+b)/2 
+ 
+
+For More Placement Papers visit www.123eng.com 
+www.123eng.com
+ Engineering the Engineers 
+Submit your resume to cvs@123eng.com 
+Chat with other engineers at www.123eng.com/forum
+ 
+Page 7 of 98 
+/(a,b)= a.b 
+ 
+*(a,b)= ab , if a=1, b=2 find 
+ 
+i) /(a,(@(a,b),*(a,b))) 
+ 
+ 
+ 
+ii) 
+ 
+ 
+ 
+13. (x#y) = x+y-xy 
+ 
+(x*y) = (x+y)/2 
+ 
+ 
+ 
+i) (x#y)#(x*y) < (x#y), which of the below values of x, y will satisfy this equation  
+ 
+ 
+ 
+ii) (a*b)#(b*c)< (a#b)*(b*c) , what values of a,b,c satisfy the above. 
+ 
+ 
+ 
+14. By using the data given below answer the following questions. 
+ 
+ 
+ 
+
+For More Placement Papers visit www.123eng.com 
+www.123eng.com
+ Engineering the Engineers 
+Submit your resume to cvs@123eng.com 
+Chat with other engineers at www.123eng.com/forum
+ 
+Page 8 of 98 
+B.tech M.sc M.A 
+ 
+ 
+ 
+male 20 
+ 
+female 80 
+ 
+ 
+ 
+total 60  
+ 
+some thing similar to that question. 
+ 
+i) 40% of females are B.Techs 
+ 
+ii) Half of the students are either from B.Techs of M.Scs 
+ 
+iii) ... 
+ 
+i. what is the no. of female B.techs 
+ 
+ii.... 
+ 
+ 
+ 
+dont remember this question , just for an example this has been given . 
+ 
+ 
+ 
+
+For More Placement Papers visit www.123eng.com 
+www.123eng.com
+ Engineering the Engineers 
+Submit your resume to cvs@123eng.com 
+Chat with other engineers at www.123eng.com/forum
+ 
+Page 9 of 98 
+45Q). PS1 pwd 
+ 
+export PS1 results in 
+ 
+a). your primary prompt being your current directory 
+ 
+b). " " and secondary prompts being the current dir 
+ 
+c). " " prompt being your home dir 
+ 
+d). " " and secondary prompts being the home dir 
+ 
+e). None of the above. 
+ 
+8Q). If you type in the command 
+ 
+nohup sort employees > list 2 > error out & 
+ 
+and log off ,the next time you log in . the output 
+ 
+will be 
+ 
+a). in a file called list and the error will de typed in 
+ 
+a file error out 
+ 
+b). there will be no file called list or error out 
+ 
+c). error will be logged in a file called list and o/p 
+ 
+
+For More Placement Papers visit www.123eng.com 
+www.123eng.com
+ Engineering the Engineers 
+Submit your resume to cvs@123eng.com 
+Chat with other engineers at www.123eng.com/forum
+ 
+Page 10 of 98 
+will be in error out 
+ 
+d). you will not be allowed to log in 
+ 
+e). none of the above 
+ 
+7Q). In UNIX a files i-node 
+ 
+a)is a data structure that defines all specifications 
+ 
+of a file like the file size ,number of lines to a 
+ 
+file ,permissions etc. 
+ 
+b).---- 
+ 
+c). - - - -- 
+ 
+d). _ _ _ 
+ 
+( ans is ---------(a) ) 
+ 
+44Q). The UNIX shell is.... 
+ 
+a).does not come with the rest of the system 
+ 
+b).forms the interface between the user and the kernal 
+ 
+c) does not give any scope for programming 
+ 
+
+For More Placement Papers visit www.123eng.com 
+www.123eng.com
+ Engineering the Engineers 
+Submit your resume to cvs@123eng.com 
+Chat with other engineers at www.123eng.com/forum
+ 
+Page 11 of 98 
+d) deos not allow calling one program from with in another 
+ 
+e) all of the above 
+ 
+(ans is (b) ) 
+ 
+48Q).enum number { a=-1, b= 4,c,d,e} 
+ 
+what is the value of e ? 
+ 
+ 
+ 
+7,4,5,15,3 
+ 
+(ans is 7 ) check again 
+ 
+3Q).The very first process created by the kernal that runs 
+ 
+till the kernal process is haltes is 
+ 
+a)init 
+ 
+b)getty 
+ 
+c) 
+ 
+d) 
+ 
+e)none 
+ 
+
+For More Placement Papers visit www.123eng.com 
+www.123eng.com
+ Engineering the Engineers 
+Submit your resume to cvs@123eng.com 
+Chat with other engineers at www.123eng.com/forum
+ 
+Page 12 of 98 
+(Ans is a) 
+ 
+47 Q) Result of the following program is 
+ 
+main() 
+ 
+{ 
+ 
+int i=0; 
+ 
+for(i=0;i<20;i++) 
+ 
+{ 
+ 
+switch(i) 
+ 
+case 0:i+=5; 
+ 
+case 1:i+=2; 
+ 
+case 5:i+=5; 
+ 
+default i+=4; 
+ 
+break;} 
+ 
+printf("%d,",i); 
+ 
+} 
+ 
+
+For More Placement Papers visit www.123eng.com 
+www.123eng.com
+ Engineering the Engineers 
+Submit your resume to cvs@123eng.com 
+Chat with other engineers at www.123eng.com/forum
+ 
+Page 13 of 98 
+} 
+ 
+a)0,5,9,13,17 
+ 
+b)5,9,13,17 
+ 
+c)12,17,22 
+ 
+d)16,21 
+ 
+e)syntax error 
+ 
+(Ans is d ) 
+ 
+1 Q) What is the result 
+ 
+main() 
+ 
+{ 
+ 
+char c=-64; 
+ 
+int i=-32 
+ 
+unsigned int u =-16; 
+ 
+if(c>i){ 
+ 
+printf("pass1,"); 
+ 
+
+For More Placement Papers visit www.123eng.com 
+www.123eng.com
+ Engineering the Engineers 
+Submit your resume to cvs@123eng.com 
+Chat with other engineers at www.123eng.com/forum
+ 
+Page 14 of 98 
+if(c<u) 
+ 
+printf("pass2"); 
+ 
+else 
+ 
+printf("Fail2");} 
+ 
+else 
+ 
+printf("Fail1); 
+ 
+if(i<u) 
+ 
+printf("pass2"); 
+ 
+else 
+ 
+printf("Fail2") 
+ 
+} 
+ 
+a)Pass1,Pass2 
+ 
+b)Pass1,Fail2 
+ 
+c)Fail1,Pass2 
+ 
+d)Fail1,Fail2 
+ 
+
+For More Placement Papers visit www.123eng.com 
+www.123eng.com
+ Engineering the Engineers 
+Submit your resume to cvs@123eng.com 
+Chat with other engineers at www.123eng.com/forum
+ 
+Page 15 of 98 
+e)none 
+ 
+(Ans is c) 
+ 
+ 
+ 
+2) In the process table entry for the kernel process, the process id value is 
+ 
+a) 0 b) 1 c) 2 d) 255 e) it does not have a process table entry 
+ 
+Ans) a 
+ 
+ 
+ 
+4) Which of the following API is used to hide a window 
+ 
+a) ShowWindow 
+ 
+b) EnableWindow 
+ 
+c) MoveWindow 
+ 
+d) SetWindowPlacement 
+ 
+e)None of the above 
+ 
+Ans) a 
+ 
+ 
+ 
+
+For More Placement Papers visit www.123eng.com 
+www.123eng.com
+ Engineering the Engineers 
+Submit your resume to cvs@123eng.com 
+Chat with other engineers at www.123eng.com/forum
+ 
+Page 16 of 98 
+5) what will the following program do? 
+ 
+void main() 
+ 
+{ 
+ 
+int i; 
+ 
+char a[]="String"; 
+ 
+char *p="New Sring"; 
+ 
+char *Temp; 
+ 
+Temp=a; 
+ 
+a=malloc(strlen(p) + 1); 
+ 
+strcpy(a,p); //Line no:9// 
+ 
+p = malloc(strlen(Temp) + 1); 
+ 
+strcpy(p,Temp); 
+ 
+printf("(%s, %s)",a,p); 
+ 
+free(p); 
+ 
+free(a); 
+ 
+
+For More Placement Papers visit www.123eng.com 
+www.123eng.com
+ Engineering the Engineers 
+Submit your resume to cvs@123eng.com 
+Chat with other engineers at www.123eng.com/forum
+ 
+Page 17 of 98 
+} //Line no 15// 
+ 
+ 
+ 
+a) Swap contents of p & a and print:(New string, string) 
+ 
+b) Generate compilation error in line number 8 
+ 
+c) Generate compilation error in line number 5 
+ 
+d) Generate compilation error in line number 7 
+ 
+e) Generate compilation error in line number 1 
+ 
+Ans) b 
+ 
+ 
+ 
+6) In the following code segment what will be the result of the function, 
+ 
+value of x , value of y 
+ 
+ 
+ 
+{ 
+ 
+unsigned int x=-1; 
+ 
+int y; 
+ 
+
+For More Placement Papers visit www.123eng.com 
+www.123eng.com
+ Engineering the Engineers 
+Submit your resume to cvs@123eng.com 
+Chat with other engineers at www.123eng.com/forum
+ 
+Page 18 of 98 
+y = ~0; 
+ 
+if(x == y) 
+ 
+printf("same"); 
+ 
+else 
+ 
+printf("not same"); 
+ 
+} 
+ 
+ 
+ 
+a) same, MAXINT, -1 
+ 
+b) not same, MAXINT, -MAXINT 
+ 
+c) same , MAXUNIT, -1 
+ 
+d) same, MAXUNIT, MAXUNIT 
+ 
+e) not same, MAXINT, MAXUNIT 
+ 
+Ans) a 
+ 
+ 
+ 
+37) PATH = /bin : /usr : /yourhome 
+ 
+
+For More Placement Papers visit www.123eng.com 
+www.123eng.com
+ Engineering the Engineers 
+Submit your resume to cvs@123eng.com 
+Chat with other engineers at www.123eng.com/forum
+ 
+Page 19 of 98 
+The file /bin/calender has the following line in it 
+ 
+cal 10 1997 
+ 
+The file /yourhome/calender has the following line in it 
+ 
+cal 5 1997 
+ 
+If the current directory is /yourhome and calender is executed 
+ 
+ 
+ 
+a) The calendar for May 1997 will be printed on screen 
+ 
+b) The calendar for Oct 1997 will be printed on screen 
+ 
+c) The calendar for the current month( whatever it is) will be printed 
+ 
+d) Nothing will get printed on screen 
+ 
+e) An error massage will be printed 
+ 
+ 
+ 
+38) what will be the result of the following program ? 
+ 
+char *gxxx() 
+ 
+{ 
+ 
+
+For More Placement Papers visit www.123eng.com 
+www.123eng.com
+ Engineering the Engineers 
+Submit your resume to cvs@123eng.com 
+Chat with other engineers at www.123eng.com/forum
+ 
+Page 20 of 98 
+static char xxx[1024]; 
+ 
+return xxx; 
+ 
+} 
+ 
+ 
+ 
+main() 
+ 
+{ 
+ 
+char *g="string"; 
+ 
+strcpy(gxxx(),g); 
+ 
+g = gxxx(); 
+ 
+strcpy(g,"oldstring"); 
+ 
+printf("The string is : %s",gxxx()); 
+ 
+} 
+ 
+a) The string is : string 
+ 
+b) The string is :Oldstring 
+ 
+c) Run time error/Core dump 
+ 
+
+For More Placement Papers visit www.123eng.com 
+www.123eng.com
+ Engineering the Engineers 
+Submit your resume to cvs@123eng.com 
+Chat with other engineers at www.123eng.com/forum
+ 
+Page 21 of 98 
+d) Syntax error during compilation 
+ 
+e) None of these 
+ 
+Ans) b 
+ 
+ 
+ 
+39) What will be result of the following program? 
+ 
+void myalloc(char *x, int n) 
+ 
+{ 
+ 
+x= (char *)malloc(n*sizeof(char)); 
+ 
+memset(x,\0,n*sizeof(char)); 
+ 
+} 
+ 
+main() 
+ 
+{ 
+ 
+char *g="String"; 
+ 
+myalloc(g,20); 
+ 
+strcpy(g,"Oldstring"); 
+ 
+
+For More Placement Papers visit www.123eng.com 
+www.123eng.com
+ Engineering the Engineers 
+Submit your resume to cvs@123eng.com 
+Chat with other engineers at www.123eng.com/forum
+ 
+Page 22 of 98 
+printf("The string is %s",g); 
+ 
+} 
+ 
+a) The string is : String 
+ 
+b) Run time error/Core dump 
+ 
+c) The string is : Oldstring 
+ 
+d) Syntax error during compilation 
+ 
+e) None of these 
+ 
+Ans) c ( check it ) 
+ 
+ 
+ 
+40) which of the following function is used to repaint a window immediately 
+ 
+a) Sendmessage(hWnd,WM_PAINt,......) 
+ 
+b) InvalidateRect(.......) 
+ 
+c) MoveWindow 
+ 
+d) WM_COPY 
+ 
+e) None 
+ 
+
+For More Placement Papers visit www.123eng.com 
+www.123eng.com
+ Engineering the Engineers 
+Submit your resume to cvs@123eng.com 
+Chat with other engineers at www.123eng.com/forum
+ 
+Page 23 of 98 
+ 
+ 
+41) which function is the entry point for a DLL in MS Windows 3.1 
+ 
+a) main 
+ 
+b) Winmain 
+ 
+c) Dllmain 
+ 
+d) Libmain 
+ 
+e) None 
+ 
+Ans) b 
+ 
+ 
+ 
+42) The standard source for standard input , standard output and standard error 
+is 
+ 
+a) the terminal 
+ 
+b) /dev/null 
+ 
+c) /usr/you/input, /usr/you/output/, /usr/you/error respectively 
+ 
+d) NOne 
+ 
+Ans) a 
+
+For More Placement Papers visit www.123eng.com 
+www.123eng.com
+ Engineering the Engineers 
+Submit your resume to cvs@123eng.com 
+Chat with other engineers at www.123eng.com/forum
+ 
+Page 24 of 98 
+ 
+ 
+ 
+43) What will be the result of the following program? 
+ 
+main() 
+ 
+{ 
+ 
+char p[]="String"; 
+ 
+int x=0; 
+ 
+ 
+ 
+if(p=="String") 
+ 
+{ 
+ 
+printf("Pass 1"); 
+ 
+if(p[sizeof(p)-2]=='g') 
+ 
+printf("Pass 2"); 
+ 
+else 
+ 
+printf("Fail 2"); 
+ 
+} 
+
+For More Placement Papers visit www.123eng.com 
+www.123eng.com
+ Engineering the Engineers 
+Submit your resume to cvs@123eng.com 
+Chat with other engineers at www.123eng.com/forum
+ 
+Page 25 of 98 
+ 
+else 
+ 
+{ 
+ 
+printf("Fail 1"); 
+ 
+if(p[sizeof(p)-2]=='g') 
+ 
+printf("Pass 2"); 
+ 
+else 
+ 
+printf("Fail 2"); 
+ 
+} 
+ 
+} 
+ 
+ 
+ 
+a) Pass 1, Pass 2 
+ 
+b) Fail 1, Fail 2 
+ 
+c) Pass 1, Fail 2 
+ 
+d) Fail 1, Pass 2 
+ 
+e) syntax error during compilation 
+
+For More Placement Papers visit www.123eng.com 
+www.123eng.com
+ Engineering the Engineers 
+Submit your resume to cvs@123eng.com 
+Chat with other engineers at www.123eng.com/forum
+ 
+Page 26 of 98 
+ 
+ 
+ 
+46) Which of the choices is true for the mentioned declaration ? 
+ 
+const char *p; 
+ 
+and 
+ 
+char * const p; 
+ 
+a) You can't change the character in both 
+ 
+b) First : You can't change the characterr & 
+ 
+Second : You can;t change the pointer 
+ 
+c) You can't change the pointer in both 
+ 
+d) First : You can't change the pointer & 
+ 
+Second : You can't chanage the character 
+ 
+e) None 
+ 
+Ans) b ( check it) 
+ 
+ 
+ 
+49) The redirection operators > and >> 
+
+For More Placement Papers visit www.123eng.com 
+www.123eng.com
+ Engineering the Engineers 
+Submit your resume to cvs@123eng.com 
+Chat with other engineers at www.123eng.com/forum
+ 
+Page 27 of 98 
+ 
+ 
+ 
+a) do the same function 
+ 
+b) differ : > overwrites, while >> appends 
+ 
+c) differ : > is used for input while >> is used for output 
+ 
+d) differ : > write to any file while >> write only to standard output 
+ 
+e) None of these 
+ 
+Ans) b 
+ 
+ 
+ 
+50) The command  
+ 
+grep first second third /usr/you/myfile 
+ 
+ 
+ 
+a) prints lines containing the words first, second or third from the file 
+/usr/you/myfile 
+ 
+b) searches for lines containing the pattern first in the files 
+ 
+second, third, and /usr/you/myfile and prints them 
+ 
+
+For More Placement Papers visit www.123eng.com 
+www.123eng.com
+ Engineering the Engineers 
+Submit your resume to cvs@123eng.com 
+Chat with other engineers at www.123eng.com/forum
+ 
+Page 28 of 98 
+c) searches the files /usr/you/myfiel and third for lines containing 
+ 
+the words first or second and prints them 
+ 
+d) replaces the word first with the word second in the files third and 
+/usr/you/myfile 
+ 
+e) None of the above 
+ 
+Ans) b 
+ 
+IBM Apptitude: Test 
+  
+ part 1 : letter sevies. 
+  
+ part 2 : figures 
+  
+ part 3 : quantitave 
+  
+  
+  
+  
+  
+ Technical: 
+  
+  
+  
+ Most question are on Unix and some in C and some in  
+  
+ windows 3.1 
+  
+ all question in Unix are From Kernighan & pike 
+  
+  
+  
+
+For More Placement Papers visit www.123eng.com 
+www.123eng.com
+ Engineering the Engineers 
+Submit your resume to cvs@123eng.com 
+Chat with other engineers at www.123eng.com/forum
+ 
+Page 29 of 98 
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~ 
+  
+ TISL 
+  
+  
+  
+ part 1 
+  
+  
+  
+ it consists of number series.In some institutes alphabetical series is  
+  
+ given instead of number series.Iam having number series so iam sending  
+  
+ that.Please go through tha alphabetical tests also. 
+  
+ 1. 19,24,20,25,21,26,? ans:22 
+  
+ 2. 11,14,12,15,13,16,? ans: 14 
+  
+ 3. 10,2,8,2,6,2,? a:4 
+  
+ 4. 8,9,11,14,,18,23,? a:29 
+  
+ 5. 25,25,22,22,19,19,? a:16 
+  
+ 6. 14,2,12,4,10,6,? a:8 
+  
+ 7. 7,16,9,15,11,14,? a:13 
+  
+ 8. 40,42,39,44,38,46,? a:37 
+  
+ 9. 3,18,4,24,5,30,? a:6 
+  
+ 10. 18,20,22,20,28,20,? a:22 
+
+For More Placement Papers visit www.123eng.com 
+www.123eng.com
+ Engineering the Engineers 
+Submit your resume to cvs@123eng.com 
+Chat with other engineers at www.123eng.com/forum
+ 
+Page 30 of 98 
+  
+ 11. 18,20,10,12,4,6? a:0 
+  
+ 12. 7,6,8,5,3,7,? a:4 
+  
+ 13 9,18,21,25,20,? a:30 
+  
+ 14 3,3,4,8,10,36,? a:33 
+  
+ 15.30,28,25,20,34,28,? a:21 
+  
+ 16. 4,8,16,32,64,128,? a:256 
+  
+ 17. 8,16,24,32,40,48,? a:56 
+  
+ 18. 13,11,14,12,15,13,? a:16 
+  
+ 19. 6,18,36,108,216,648,? a:1296 
+  
+ 20. 4,4,8,8,16,16,? a:32 
+  
+ 21. 2,6,18,54,162,486,? a:1458 
+  
+ 22. 4,20,35,49,62,74,? a:85 
+  
+ 23. 10,18,15,23,20,28,? a:25 
+  
+ 24. 4,10,8,14,12,18,? a:16 
+  
+ 25 10,15,12,17,14,10,? a:16 
+  
+  
+  
+  
+  
+ part 2 consists of non-verbel reasoning(figures).So it is impossible for  
+  
+
+For More Placement Papers visit www.123eng.com 
+www.123eng.com
+ Engineering the Engineers 
+Submit your resume to cvs@123eng.com 
+Chat with other engineers at www.123eng.com/forum
+ 
+Page 31 of 98 
+ me to send those.(25 questions) 
+  
+  
+  
+ part 3 (quantitative) 
+  
+  
+  
+  
+  
+ 1.A clerk multiplied a number by ten when it should have been divided by  
+  
+ ten.The ans he got was 100.what should the ans have been? 
+  
+ a:1 
+  
+ 2.If Rs20/- is available to pay for typing a research report & typist A  
+  
+ produces 42 pages and typist B produces 28 pages.How much should typist A  
+  
+ receive? 
+  
+ a:Rs12/- 
+  
+ 3.The average salary of 3 workers is 95 Rs. per week. If one earns  
+  
+ Rs.115 and second earns Rs.65 how much is the salary of the 3rd worker. 
+  
+ Ans.105. 
+  
+ 4.A 16 stored building has 12000 sq.feet on each floor. Company A rents 7  
+  
+ floors and company B rents 4 floors. What is the number of sq.feet of  
+  
+ unrented floor space.  
+  
+ Ans.60000 
+
+For More Placement Papers visit www.123eng.com 
+www.123eng.com
+ Engineering the Engineers 
+Submit your resume to cvs@123eng.com 
+Chat with other engineers at www.123eng.com/forum
+ 
+Page 32 of 98 
+  
+ 5. During a given week A programer spends 1/4 of his time preparing flow  
+  
+ chart, 3/8 of his time coding and the rest of the time in debugging the  
+  
+ programs. If he works 48 hours during the week , how many hours did he  
+  
+ spend debugging the program. 
+  
+ Ans. 18. 
+  
+ 6. A company installed 36 machines at the beginning of the year. In March  
+  
+ they installed 9 additional machines and then disconnected 18 in August.  
+  
+ How many were still installed at the end of the year.  
+  
+ Ans. 27 
+  
+ 7. A man owns 2/3 of the market research beauro business and sells 3/4 of  
+  
+ his shares for Rs. 75000. What is the value of Business.  
+  
+ Ans.150000 
+  
+ 8. If 12 file cabinets require 18 feet of wall space, how many feet of  
+  
+ wall space will 30 cabinets require? 
+  
+ Ans.45 
+  
+ 9.A computer printer produced 176,400 lines in a given day. If the  
+  
+ printer was in operation for seven hours during the day, how many lines  
+  
+ did it print per minute? 
+
+For More Placement Papers visit www.123eng.com 
+www.123eng.com
+ Engineering the Engineers 
+Submit your resume to cvs@123eng.com 
+Chat with other engineers at www.123eng.com/forum
+ 
+Page 33 of 98 
+  
+ Ans.420 
+  
+  
+  
+ 10. From its total income, A sales company spent Rs.20,000 for  
+  
+ advertising, half of the remainder on commissions and had Rs.6000 left.  
+  
+ What was its total income? 
+  
+ Ans.32000 
+  
+ 11. On Monday a banker processed a batch of cheques, on Tuesday she  
+  
+ processed three times as many, and on Wednesday she processed 4000  
+  
+ cheques. In the three days, she processed 16000 cheques. How many did  
+  
+ she process on Tuesday? 
+  
+ Ans.9000 
+  
+ 12. The cost of four dozen proof machine ribbons and five dozen accouting  
+  
+ machine ribbons was Rs.160/-. If one dozen accounting machine ribbons  
+  
+ cost Rs.20/-, what is the cost of a dozen proof machine ribbons? 
+  
+ Ans.Rs.15 
+  
+ 13. If a clerk can process 80 cheques in half an hour, how many cheques  
+  
+ can she process in a seven and one half hour day? 
+  
+ Ans.1200 
+
+For More Placement Papers visit www.123eng.com 
+www.123eng.com
+ Engineering the Engineers 
+Submit your resume to cvs@123eng.com 
+Chat with other engineers at www.123eng.com/forum
+ 
+Page 34 of 98 
+  
+ 14. In a library, there are two racks with 40 books per rack. On a given  
+  
+ day, 30 books were issued. What fraction remained in the racks? 
+  
+ Ans.5/8 
+  
+ 15. The average length of three tapes is 6800 feet. None of the tapes is  
+  
+ less than 6400 feet. What is the greatest possible length of one of the  
+  
+ other tapes? 
+  
+ Ans.7600 
+  
+ 16. A company rented a machine for Rs.700/- a month. Five years later  
+  
+ the treasurer calculated that if the company had purchased the machine  
+  
+ and paid Rs.100/- monthly maintenance charge, the company would have  
+  
+ saved Rs.2000/-. What was the purchase price of the machine? 
+  
+ Ans.Rs.34000 
+  
+ 17. Two computers each produced 48000 public utility bills in a day. One  
+  
+ computer printed bills at the rate of 9600 an hour and the other at the  
+  
+ rate of 7800 an hour. When the first computer finished its run, how many  
+  
+ bills did the other computer still have to print? 
+  
+ Ans.9000 
+  
+  
+
+For More Placement Papers visit www.123eng.com 
+www.123eng.com
+ Engineering the Engineers 
+Submit your resume to cvs@123eng.com 
+Chat with other engineers at www.123eng.com/forum
+ 
+Page 35 of 98 
+  
+ 18. If a salesman's average is a new order every other week, he will  
+  
+ break the office record of the year. However, after 28 weeks, he is six  
+  
+ orders behind schedule. In what proportion of the remaining weeks does  
+  
+ he have to obtain a new order to break the record? 
+  
+ Ans.3/4 
+  
+ 19. On a given day, a bank had 16000 cheques returned by customers.  
+  
+ Inspection of the first 800 cheques indicated that 100 of those 800 had  
+  
+ errors and were therefore the available immediately for data processing.  
+  
+ On this basis, hwo many cheques would be available immediately for data  
+  
+ processing on that day? 
+  
+ Ans.14000 
+  
+ 20. A company figured it needed 37.8 sq.feet of carpot for its reception  
+  
+ room. To allow for waste, it decided to order 20% more material than  
+  
+ needed. Fractional parts of sq.feet cannot be ordered. At Rs.9/- a  
+  
+ sq.feet, how much would the carpet cost? 
+  
+ Ans. 
+  
+ a. Rs.324 b) Rs.405 c) Rs.410 d) Rs.414 e) Rs.685 
+  
+ 21. A tape manufacturer reduces the price of his heavy duty tape from  
+
+For More Placement Papers visit www.123eng.com 
+www.123eng.com
+ Engineering the Engineers 
+Submit your resume to cvs@123eng.com 
+Chat with other engineers at www.123eng.com/forum
+ 
+Page 36 of 98 
+  
+ Rs.30/- to Rs.28/- a reel and the price of a regular tape from Rs.24/- to  
+  
+ Rs.23/- a reel. A computing centre normally spends Rs.1440/- a month for  
+  
+ tapes and 3/4 of this is for heavy duty tapes. How much will they save a  
+  
+ month under the new prices? 
+  
+ Ans.Rs.87 
+  
+ 22. In a team of 12 persons, 1/3 are women and 2/3 are men. To obtain a  
+  
+ team with 20% women how many men should be hired? 
+  
+ Ans.8 
+  
+ 23. The dimensions of a certain machine are 48" X 30" X 52". If the size  
+  
+ of the machine is increased proportionately until the sum of its  
+  
+ dimensions equals 156", what will be the increase in the shortest side? 
+  
+ Ans. 6" 
+  
+ 24. In a certain company, 20% of the men and 40% of the women attended  
+  
+ the annual company picnic. If 35% of all the employees are man, what  
+  
+ percent of all the employees went to the picnic? 
+  
+ Ans.33% 
+  
+ 25. It cost a college Rs.0.70 a copy to produce a Programme for the  
+  
+ homecoming football game. If Rs.15,000/- was received for advertisements  
+
+For More Placement Papers visit www.123eng.com 
+www.123eng.com
+ Engineering the Engineers 
+Submit your resume to cvs@123eng.com 
+Chat with other engineers at www.123eng.com/forum
+ 
+Page 37 of 98 
+  
+ in the programme, how many copies at Rs.0.50 a copy must be sold to make  
+  
+ a profit of Rs.8000/- ? 
+  
+ Ans. 35000 
+  
+  
+  
+ ********************************************************************* 
+  
+  
+  
+ In the first section there are 40 question's on letter series. 
+  
+ Very easy upto 25 and then slightly involved after that again 
+  
+ last 10questons are easy. 
+  
+  
+  
+ For example: 
+  
+  
+  
+ 1. aa , bb, cc, -- 
+  
+ 2. a,c,e,g,- 
+  
+ etc., 
+  
+ **************************************************************** 
+  
+  
+  
+ bye, 
+  
+ sreedhar. 
+
+For More Placement Papers visit www.123eng.com 
+www.123eng.com
+ Engineering the Engineers 
+Submit your resume to cvs@123eng.com 
+Chat with other engineers at www.123eng.com/forum
+ 
+Page 38 of 98 
+  
+  
+  
+ TATA-IBM few questions extra. 
+  
+ 1)int i=10; 
+  
+ printf("%d%d%d",i,i++,++i); 
+  
+ ans: compiler dependent 
+  
+ 2)printf("Enter two values a and b:"): 
+  
+ scanf("%d%d",a,b); 
+  
+ printf("%d+%d=%d",a,b,a+b); 
+  
+ ans:core dumped 
+  
+ 3)Question on WM_SIZE 
+  
+ ans:WM_SIZE 
+  
+ 4)when destroy window what message would disply 
+  
+ ans:WM_DESTROY 
+  
+ 5)MS Windows 3.1 about multitasking  
+  
+ ans:nonpreemptive 
+  
+ 6)windows 3.1 is 
+  
+ ans:application 
+  
+ 7) about switch switch statement 
+
+For More Placement Papers visit www.123eng.com 
+www.123eng.com
+ Engineering the Engineers 
+Submit your resume to cvs@123eng.com 
+Chat with other engineers at www.123eng.com/forum
+ 
+Page 39 of 98 
+  
+ ans:16,21 
+  
+ 8)question paper the first question ans is 
+  
+ ans:can't be compiled 
+  
+ 9)about send messages and post messages 
+  
+ ans: c 
+  
+ 10)what is the command to intiate the windows 
+  
+ ans:WinMain 
+  
+  
+  
+IBM Placement paper 
+  
+ 1.const char * 
+  
+ char * const 
+  
+ What is the differnce between the above tow?. 
+  
+ 2.In Unix inter process communication take place using?. 
+  
+ 3.What are the files in /etc directory?. 
+  
+ 4.About i-node numbers 
+  
+ 5.Max relaxable permisssion value with out giving write permission 
+  
+ to others?. 
+  
+ 6.About ln(linking)  
+
+For More Placement Papers visit www.123eng.com 
+www.123eng.com
+ Engineering the Engineers 
+Submit your resume to cvs@123eng.com 
+Chat with other engineers at www.123eng.com/forum
+ 
+Page 40 of 98 
+  
+ 7.A question on until 
+  
+ until (who |grep mary) 
+  
+ do 
+  
+ sleep(60) 
+  
+ done 
+  
+ 8.Linking across directories?. 
+  
+  
+ 9.process id for kernell process 
+  
+ 10.very first process created by kernell 
+  
+ 11.function to repaint a window immediately?. 
+  
+ 12.Function entry for DLL in win3.1 
+  
+ 13.win 3.1 is a  
+  
+ 14.win 3.1 supports which type of multi tasking?. 
+  
+ 15.Message displayed when a window is destroyed 
+  
+ 16.About fork()? 
+  
+ 17.About send message and post message 
+  
+ 18.Message to limit the size of window 
+  
+ 19.System call executable binary file intoa process 
+  
+
+For More Placement Papers visit www.123eng.com 
+www.123eng.com
+ Engineering the Engineers 
+Submit your resume to cvs@123eng.com 
+Chat with other engineers at www.123eng.com/forum
+ 
+Page 41 of 98 
+ 20.About GDI object?. 
+  
+ 21.API used to hide window 
+  
+ 22.Initialize contents of a dialog?. 
+  
+ The technical comprises of 50 questions on C,Unix and windows. 
+  
+ The interview for us is on a later date.If the questions come for you 
+  
+ also,then intimate me. 
+  
+  
+ ______________________________________________ 
+  
+ IBM Placement Paper 
+  
+ I know some 25 questions. 
+  
+  
+  
+ The technical comprises of 50 questions on C,Unix and windows. 
+  
+ 1.const char * 
+  
+ char * const 
+  
+ What is the differnce between the above tow?. 
+  
+ 2.In Unix inter process communication take place using?. 
+  
+ 3.What are the files in /etc directory?. 
+  
+ 4.About i-node numbers 
+  
+ 5.Max relaxable permisssion value with out giving write permission 
+
+For More Placement Papers visit www.123eng.com 
+www.123eng.com
+ Engineering the Engineers 
+Submit your resume to cvs@123eng.com 
+Chat with other engineers at www.123eng.com/forum
+ 
+Page 42 of 98 
+  
+ to others?. 
+  
+ 6.About ln(linking)  
+  
+ 7.A question on until 
+  
+ until (who |grep mary) 
+  
+ do 
+  
+ sleep(60) 
+  
+ done 
+  
+ 8.Linking across directories?. 
+  
+  
+ 9.process id for kernell process 
+  
+ 10.very first process created by kernell 
+  
+ 11.function to repaint a window immediately?. 
+  
+ 12.Function entry for DLL in win3.1 
+  
+ 13.win 3.1 is a  
+  
+ 14.win 3.1 supports which type of multi tasking?. 
+  
+ 15.Message displayed when a window is destroyed 
+  
+ 16.About fork()? 
+  
+ 17.About send message and post message 
+  
+
+For More Placement Papers visit www.123eng.com 
+www.123eng.com
+ Engineering the Engineers 
+Submit your resume to cvs@123eng.com 
+Chat with other engineers at www.123eng.com/forum
+ 
+Page 43 of 98 
+ 18.Message to limit the size of window 
+  
+ 19.System call executable binary file intoa process 
+  
+ 20.About GDI object?. 
+  
+ 21.API used to hide window 
+  
+ 22.Initialize contents of a dialog?. 
+  
+ _____________________________________________________________________ 
+  
+  
+  
+ I know some 25 questions. 
+  
+  
+  
+ The technical comprises of 50 questions on C,Unix and windows. 
+  
+ The interview for us is on a later date.If the questions come for you 
+  
+ also,then intimate me. 
+  
+ 1.const char * 
+  
+ char * const 
+  
+ What is the differnce between the above tow?. 
+  
+ 2.In Unix inter process communication take place using?. 
+  
+ 3.What are the files in /etc directory?. 
+  
+ 4.About i-node numbers 
+  
+
+For More Placement Papers visit www.123eng.com 
+www.123eng.com
+ Engineering the Engineers 
+Submit your resume to cvs@123eng.com 
+Chat with other engineers at www.123eng.com/forum
+ 
+Page 44 of 98 
+ 5.Max relaxable permisssion value with out giving write permission 
+  
+ to others?. 
+  
+ 6.About ln(linking)  
+  
+ 7.A question on until 
+  
+ until (who |grep mary) 
+  
+ do 
+  
+ sleep(60) 
+  
+ done 
+  
+ 8.Linking across directories?. 
+  
+  
+ 9.process id for kernell process 
+  
+ 10.very first process created by kernell 
+  
+ 11.function to repaint a window immediately?. 
+  
+ 12.Function entry for DLL in win3.1 
+  
+ 13.win 3.1 is a  
+  
+ 14.win 3.1 supports which type of multi tasking?. 
+  
+ 15.Message displayed when a window is destroyed 
+  
+ 16.About fork()? 
+  
+ 17.About send message and post message 
+
+For More Placement Papers visit www.123eng.com 
+www.123eng.com
+ Engineering the Engineers 
+Submit your resume to cvs@123eng.com 
+Chat with other engineers at www.123eng.com/forum
+ 
+Page 45 of 98 
+  
+ 18.Message to limit the size of window 
+  
+ 19.System call executable binary file intoa process 
+  
+ 20.About GDI object?. 
+  
+ 21.API used to hide window 
+  
+ 22.Initialize contents of a dialog?. 
+ 
+IBM Technical Questions  
+  
+ 1. what does vector processing do? 
+  
+  
+  
+ 2. What is the use of software configuration management? 
+  
+ 3. what command is used to append two files using who that is listed by ls; 
+  
+  
+  
+ 4. if there is a problem in a network during transmission which is used to detect 
+that? 
+  
+ a.protocol anaylzer, b. SNMP.... 
+  
+ 5. In C, x-=y+1 how will u represent it.. 
+  
+ a.x=x+y+1,b.-x-y-1,c.-x+y+1.... 
+  
+  
+  
+ 6. What does Trigger do? 
+  
+
+For More Placement Papers visit www.123eng.com 
+www.123eng.com
+ Engineering the Engineers 
+Submit your resume to cvs@123eng.com 
+Chat with other engineers at www.123eng.com/forum
+ 
+Page 46 of 98 
+ 3rd option 
+  
+ 7. In which topology we use less amount of cables. 
+  
+ ring, bus, star,mesh..... 
+  
+ 8. Which sorting techniques is best for already sorted array...?. 
+  
+ ans: bubble sort 
+  
+ 9. Which is said to be a realtime system.? 
+  
+ 1. credit card systen 
+  
+ 2 online flight reservation system 
+  
+ 3 bridge control systen...not sure 
+  
+ 10. decimal to octal conversion problem?ans A 
+  
+ 11. A person having a/c number, a/c name,bank name, a/c type.. which is the 
+primary among the above? 
+  
+  
+  
+ 12. why data integrity is used? 
+  
+ 13. if a primary key is an attribute of another one table means........ 
+  
+ 1 candidate key 
+  
+ 2 foreign kryey 
+  
+ 3 seconda 
+  
+ 4..... 
+
+For More Placement Papers visit www.123eng.com 
+www.123eng.com
+ Engineering the Engineers 
+Submit your resume to cvs@123eng.com 
+Chat with other engineers at www.123eng.com/forum
+ 
+Page 47 of 98 
+  
+  
+  
+ 14. int (*a)[4]. Explain this expression 
+  
+ 15. Difference between 0123 and 123 in c 
+  
+ ans : 40 
+  
+ 16, in c r+ is used for  
+  
+ 1 read only 
+  
+ 2 writing only 
+  
+ 3 both 1 and 2 
+  
+  
+  
+ Apptitude 
+  
+  
+  
+ 1. which 3 consequtive prime numbers gives the total 
+  
+ ans: 49 (13,17,19) 
+  
+ 2. Rational numbers between 1 and 5 
+  
+ 1. 3 
+  
+ 2. 2 
+  
+ 3. 0 
+  
+ 4.infinite (ans) 
+  
+
+For More Placement Papers visit www.123eng.com 
+www.123eng.com
+ Engineering the Engineers 
+Submit your resume to cvs@123eng.com 
+Chat with other engineers at www.123eng.com/forum
+ 
+Page 48 of 98 
+ 5.finite. 
+  
+ 3.If boat travels in 10km/hr in still water. it travels 14kmhr in upstream and 
+26km/hr downstream what is speed of stream? 
+  
+ 4. .A cube of 3 unit has 6 surface is painted.If u cut the cube of 1 unit each how 
+many cubes remain unpainted on all sides. 
+  
+ ans.1 
+  
+  
+  
+ 5 one questions in profit and loss 
+  
+ a person sold an article at Rs.141 at 6% loss,to gain a profit of 10% at what price 
+the article should be sold. 
+  
+ 165 
+  
+ 6. If person 20 min at 12 kmph. then how many Kmph in 15 minutes 
+  
+ Ans.16 
+  
+ 7. Three person shared bullets equally. 4 were shot total no of bullets remainin is 
+equal to the no of bullets initially divided 
+  
+ ans : 18 
+  
+ 8.1st day of the year 1999 is sunday and what will be last day of the same year 
+  
+ ans sunday 
+  
+ 9. 4 thieves entere a bakery and stoled bread one after the other.Each one took 
+half of the total number of breads+half a loaf.If 3 breads were remaining what is 
+the total number of breads. 
+
+For More Placement Papers visit www.123eng.com 
+www.123eng.com
+ Engineering the Engineers 
+Submit your resume to cvs@123eng.com 
+Chat with other engineers at www.123eng.com/forum
+ 
+Page 49 of 98 
+  
+ 10. If a ball is dropped from 8ft and it bounces half the height each time. Then 
+the total distance travelled 
+  
+ ans.24 
+  
+ 11. 6 squares of equal size are placed side by side to form a rectangle whose 
+perimeter is 182. find the perimeter of the single square. 
+  
+ ans 52 
+  
+  12.the average age of students in a class is 16.when a teacher of age 40 is 
+added , the average becoems 17. what is the total number of students 
+  
+ ans.23 
+  
+  16-20 
+  
+  this section is very easy, a simple comprehensive type you can solve these 
+questions with in 2 minutes. 
+ 
+IBM Placement Paper  
+1. In 1978, a kg of paper was sold at Rs25/-.If the paper rate increases at 1.5% more than 
+the inflation rate which is 6.5% a year, then what wil be the cost of a kg of paper after 2 
+years? 
+(a) 29.12  
+(b) 29.72  
+(c) 30.12  
+(d) 32.65  
+(e) none of these 
+ 
+2. In A,B,C are having some marbles with each of them. A has given B and C the same 
+number of marbles each of them already have.Then, B gave C and A the same number of 
+
+For More Placement Papers visit www.123eng.com 
+www.123eng.com
+ Engineering the Engineers 
+Submit your resume to cvs@123eng.com 
+Chat with other engineers at www.123eng.com/forum
+ 
+Page 50 of 98 
+marbles they already have.Then C gave A and B the same number of marbles they 
+already have.At the end A,B,and C have equal number of marbles. 
+(i) If x,y,z are the marbles initially with A,B,C respectively. 
+    Then the number of marbles B have at the end 
+(a) 2(x-y-z)  
+(b) 4(x-y-z) 
+(c) 2(3y-x-z) 
+(d)  x + y-z 
+Ans. (c) 
+(ii) If the total number of marbles are 72, then the number of marbles with A at the 
+starting 
+(a) 20  
+(b) 30  
+(c) 32 
+(d) 39 
+Ans. (d) 
+ 
+3. If a car starts from A towards B with some velocity.Due to some problem in the engine 
+after travelling 30km, the car goes with 4/5 th of its actual velocity.The car reaches B 45 
+min later to the actual time.If the car engine fails ofter travelling 45km, the car reaches 
+the destination B 36 min late to the actual time.What is the initial velocity of car and what 
+is the distance between A and B in km 
+Ans. 20 & 130. 
+ 
+4. A person has Rs 100/- in his pocket, he can as 25 pencils or 15 books.He kept 15% of 
+the money for travelling expenses and purchased 5 pencils.So how many books he can 
+purchase with the remaining money. 
+5. Ten questions on analogies. 
+eg: chief : tribe :: governer : state 
+     epaulette : shoulder :: tiara : head  
+     guttural : throat :: gastric : stomach 
+     inept : clever :: languid : active 
+     knife : butcher :: 
+     hammer : carpenter ::     
+
+For More Placement Papers visit www.123eng.com 
+www.123eng.com
+ Engineering the Engineers 
+Submit your resume to cvs@123eng.com 
+Chat with other engineers at www.123eng.com/forum
+ 
+Page 51 of 98 
+ 
+6. The values of shares (in Rs).of A, B and C from January to June are as follows. 
+Month A B C 
+January 
+30  60  80  
+February 
+35  65  85  
+March 
+45  75  65  
+April 
+40  75  82  
+May 
+55  75  85  
+June 
+50  75  80  
+i) During this period which share has undergone maximium fluctuation? 
+ii) In which month it is possible to buy B and C selling A? 
+iii) In which month the share values are very low? 
+iv) By purchasing one share of A and 4 each of B and C in the beginning of the period, 
+when should these be sold to get maximum profit? 
+ 
+7. In a computer institute 9 languages can be taught.The module is of 6 months duration 
+and of the six languages only one can be taught each month.In addition to that BASIC is 
+always taught and should be in first month itself. 
+•         WORD PERFECT is to be taught in the preceeding week of WORD STAR. 
+•         FORTRAN can not be taught until COBAL is taught prior to that.  
+•         BINO, FIFO can never be taught in single module. 
+Languages are BASIC, WORD STAR, WORD PERFECT, FORTRAN, COBAL, BINO, 
+FIFO, LOTUS, C. 
+i) If word star is in 3rd month , what could be in 6th month. 
+ii) If COBAL is in the 2nd month and BINO in 6th month. FORTRAN will be taught in 
+which month. 
+ 
+8. In a class, except 18 all are above 50 years.15 are below 50 years of age. How many 
+people are there? 
+(a) 30  
+(b) 33  
+(c) 36  
+(d) none of these. 
+
+For More Placement Papers visit www.123eng.com 
+www.123eng.com
+ Engineering the Engineers 
+Submit your resume to cvs@123eng.com 
+Chat with other engineers at www.123eng.com/forum
+ 
+Page 52 of 98 
+Ans. (d) 
+ 
+9. A square plate of some size is cut at four corners. Equal squares of the same size are 
+cut and is formed as open box.If this open box carries 128 ml of oil. What is the size of 
+the side of the plate? 
+(a) 17  
+(b) 14  
+(c) 13 
+(d) None of these 
+ 
+10. In a square, all the mid points are joined. The inner square is shaded. 
+      If the area of the square is A, what is the area of the shaded area? 
+11. Two questions on basic angles i.e given a circle, a few chords or diameter is drawn 
+etc. 
+ 
+12. If the follwoing statements are given  
+•         @(a,b)= (a+b)/2  
+•         /(a,b)= a/b  
+•         *(a,b)= ab  
+If a=1, b=2 then find 
+i) /(a,(@(a,b),*(a,b))) 
+ii) */(a,@(*(a,b))) 
+16. In UNIX a files i-node ......? 
+Ans. Is a data structure that defines all specifications of a file like the file size, number of 
+lines to a file, permissions etc. 
+ 
+17. The UNIX shell .... 
+a) does not come with the rest of the system 
+b) forms the interface between the user and the kernal 
+c) does not give any scope for programming 
+
+For More Placement Papers visit www.123eng.com 
+www.123eng.com
+ Engineering the Engineers 
+Submit your resume to cvs@123eng.com 
+Chat with other engineers at www.123eng.com/forum
+ 
+Page 53 of 98 
+d) deos not allow calling one program from with in another 
+e) all of the above 
+Ans. (b) 
+ 
+18. enum number { a=-1, b= 4,c,d,e} 
+      What is the value of e ? 
+(a) 7 
+(b) 4 
+(c) 5 
+(d) 15 
+(e) 3 
+ 
+19. The very first process created by the kernal that runs till the kernal process is halts is 
+a) init 
+b) getty 
+c) both (a) and (b) 
+d) none of these 
+Ans. (a) 
+ 
+20. Output of the following program is 
+main() 
+{int i=0; 
+for(i=0;i<20;i++) 
+{switch(i) 
+case 0:i+=5; 
+case 1:i+=2; 
+case 5:i+=5; 
+default i+=4; 
+break;} 
+printf("%d,",i); 
+} 
+} 
+a) 0,5,9,13,17 
+b) 5,9,13,17 
+c) 12,17,22 
+
+For More Placement Papers visit www.123eng.com 
+www.123eng.com
+ Engineering the Engineers 
+Submit your resume to cvs@123eng.com 
+Chat with other engineers at www.123eng.com/forum
+ 
+Page 54 of 98 
+d) 16,21 
+e) Syntax error 
+Ans. (d) 
+ 
+21. What is the ouptut in the following program? 
+main() 
+{char c=-64; 
+int i=-32 
+unsigned int u =-16; 
+if(c>i) 
+{printf("pass1,"); 
+if(c<u) 
+printf("pass2"); 
+else 
+printf("Fail2"); 
+} 
+else 
+printf("Fail1); 
+if(i<u) 
+printf("pass2"); 
+else 
+printf("Fail2") 
+} 
+a) Pass1,Pass2 
+b) Pass1,Fail2 
+c) Fail1,Pass2 
+d) Fail1,Fail2 
+e) None of these 
+Ans. (c) 
+ 
+22. In the process table entry for the kernel process, the process id value is 
+(a) 0  
+(b) 1  
+(c) 2  
+(d) 255  
+(e) it does not have a process table entry 
+Ans. (a) 
+
+For More Placement Papers visit www.123eng.com 
+www.123eng.com
+ Engineering the Engineers 
+Submit your resume to cvs@123eng.com 
+Chat with other engineers at www.123eng.com/forum
+ 
+Page 55 of 98 
+ 
+23. Which of the following API is used to hide a window 
+a) ShowWindow 
+b) EnableWindow 
+c) MoveWindow 
+d) SetWindowPlacement 
+e) None of the above 
+Ans. (a) 
+ 
+24. What will the following program do? 
+void main() 
+{ 
+int i; 
+char a[]="String"; 
+char *p="New Sring"; 
+char *Temp; 
+Temp=a; 
+a=malloc(strlen(p) + 1); 
+strcpy(a,p); //Line number:9// 
+p = malloc(strlen(Temp) + 1); 
+strcpy(p,Temp); 
+printf("(%s, %s)",a,p); 
+free(p); 
+free(a); 
+} //Line number 15// 
+a) Swap contents of p & a and print:(New string, string) 
+b) Generate compilation error in line number 8 
+c) Generate compilation error in line number 5 
+d) Generate compilation error in line number 7 
+e) Generate compilation error in line number 1 
+Ans. (b) 
+ 
+25. In the following code segment what will be the result of the function, value of x , 
+value of y 
+{unsigned int x=-1; 
+int y; 
+y = ~0; 
+if(x == y) 
+
+For More Placement Papers visit www.123eng.com 
+www.123eng.com
+ Engineering the Engineers 
+Submit your resume to cvs@123eng.com 
+Chat with other engineers at www.123eng.com/forum
+ 
+Page 56 of 98 
+printf("same"); 
+else 
+printf("not same"); 
+} 
+a) same, MAXINT, -1 
+b) not same, MAXINT, -MAXINT 
+c) same , MAXUNIT, -1 
+d) same, MAXUNIT, MAXUNIT 
+e) not same, MAXINT, MAXUNIT 
+Ans. (a) 
+ 
+26. PATH = /bin : /usr : /yourhome 
+      The file /bin/calender has the following line in it 
+cal 10 1997 
+The file /yourhome/calender has the following line in it 
+cal 5 1997 
+If the current directory is /yourhome and calender is executed 
+a) The calendar for May 1997 will be printed on screen 
+b) The calendar for Oct 1997 will be printed on screen 
+c) The calendar for the current month( whatever it is) will be printed 
+d) Nothing will get printed on screen 
+e) An error massage will be printed 
+ 
+27. What will be the result of the following program ? 
+char *gxxx() 
+{static char xxx[1024]; 
+return xxx; 
+} 
+main() 
+{char *g="string"; 
+strcpy(gxxx(),g); 
+g = gxxx(); 
+strcpy(g,"oldstring"); 
+
+For More Placement Papers visit www.123eng.com 
+www.123eng.com
+ Engineering the Engineers 
+Submit your resume to cvs@123eng.com 
+Chat with other engineers at www.123eng.com/forum
+ 
+Page 57 of 98 
+printf("The string is : %s",gxxx()); 
+} 
+a) The string is : string 
+b) The string is :Oldstring 
+c) Run time error/Core dump 
+d) Syntax error during compilation 
+e) None of these 
+Ans. (b) 
+ 
+28. What will be result of the following program? 
+void myalloc(char *x, int n) 
+{x= (char *)malloc(n*sizeof(char)); 
+memset(x,\0,n*sizeof(char)); 
+} 
+main() 
+{char *g="String"; 
+myalloc(g,20); 
+strcpy(g,"Oldstring"); 
+printf("The string is %s",g); 
+} 
+a) The string is : String 
+b) Run time error/Core dump 
+c) The string is : Oldstring 
+d) Syntax error during compilation 
+e) None of these 
+ 
+29. Which of the following function is used to repaint a window immediately 
+a) Sendmessage(hWnd,WM_PAINt,......) 
+b) InvalidateRect(.......) 
+c) MoveWindow 
+d) WM_COPY 
+e) None 
+ 
+30. Which function is the entry point for a DLL in MS Windows 3.1 
+
+For More Placement Papers visit www.123eng.com 
+www.123eng.com
+ Engineering the Engineers 
+Submit your resume to cvs@123eng.com 
+Chat with other engineers at www.123eng.com/forum
+ 
+Page 58 of 98 
+a) Main 
+b) Winmain 
+c) Dllmain 
+d) Libmain 
+e) None 
+Ans. (b) 
+ 
+31. The standard source for standard input, standard output and standard error is 
+a) the terminal 
+b) /dev/null 
+c) /usr/you/input, /usr/you/output/, /usr/you/error respectively 
+d) None 
+Ans. (a) 
+ 
+32. What will be the result of the following program? 
+main() 
+{char p[]="String"; 
+int x=0; 
+if(p=="String") 
+{printf("Pass 1"); 
+if(p[sizeof(p)-2]=='g') 
+printf("Pass 2"); 
+else 
+printf("Fail 2"); 
+} 
+else 
+{ 
+printf("Fail 1"); 
+if(p[sizeof(p)-2]=='g') 
+printf("Pass 2"); 
+else 
+printf("Fail 2"); 
+} 
+} 
+a) Pass 1, Pass 2 
+b) Fail 1, Fail 2 
+c) Pass 1, Fail 2 
+
+For More Placement Papers visit www.123eng.com 
+www.123eng.com
+ Engineering the Engineers 
+Submit your resume to cvs@123eng.com 
+Chat with other engineers at www.123eng.com/forum
+ 
+Page 59 of 98 
+d) Fail 1, Pass 2 
+e) syntax error during compilation 
+ 
+33. Which of the choices is true for the mentioned declaration ? 
+const char *p; 
+and 
+char * const p; 
+a) You can't change the character in both 
+b) First : You can't change the characterr & Second : You can;t change the pointer 
+c) You can't change the pointer in both  
+d) First : You can't change the pointer & Second : You can't chanage the character 
+e) None 
+ 
+34. The redirection operators > and » 
+a) do the same function 
+b) differ : > overwrites, while » appends 
+c) differ : > is used for input while » is used for output 
+d) differ : > write to any file while » write only to standard output 
+e) None of these 
+Ans. (b) 
+ 
+35. The command grep first second third /usr/you/myfile 
+a) prints lines containing the words first, second or third from the file /usr/you/myfile 
+b) searches for lines containing the pattern first in the files 
+second, third, and /usr/you/myfile and prints them 
+c) searches the files /usr/you/myfiel and third for lines containing the words first or 
+second and prints them 
+d) replaces the word first with the word second in the files third and /usr/you/myfile 
+e) None of the above 
+Ans. (b) 
+ 
+IBM Paper 2th sep 2004 
+ 
+
+For More Placement Papers visit www.123eng.com 
+www.123eng.com
+ Engineering the Engineers 
+Submit your resume to cvs@123eng.com 
+Chat with other engineers at www.123eng.com/forum
+ 
+Page 60 of 98 
+ 
+2 Sections 
+1. Aptitude 
+2. Technical 
+ 
+Time : 60 mins 
+ 
+both papers will be in our hand intially, so we can divide time in what ever way 
+we want. 
+ 
+Aptitude : 
+ 
+1. like 3 consecutive prime adds to some no what is that 
+ans: both 49 and 59. 
+ 
+2. one persont travlled 4 laps with the speed of 10,20,40 ( or 30) and 60 kmph 
+and what is the average speed. 
+ans: 20 (sure) 
+3.like one student takes 20 mins if he go with speed 15kmph and at what speed 
+he  
+should go to reach in 15 mins ( nos are not same) 
+ans: 16kmph( but not sure) 
+4. there are 2 type of people group 'yes' who always says yes ( they never say 
+'no') if they are not sure about they will remain sailent. and other grou 
+name 'no' where the group of people always say 'no' if they are not sure they 
+will remain silent. 
+thats it 
+now quetions are 
+1) what will be the answer if i ask are u belong to group 'yes' 
+options are: they remain silent ,say yes, say no, either yes or no, can't  
+
+For More Placement Papers visit www.123eng.com 
+www.123eng.com
+ Engineering the Engineers 
+Submit your resume to cvs@123eng.com 
+Chat with other engineers at www.123eng.com/forum
+ 
+Page 61 of 98 
+be determined 
+2) same quetion but if i ask are u belong to group 'no' 
+ 
+answers for both above quetions are not ( not determined) 
+3) what will the other person say if ask are u belong to grou 'yes' 
+and etc 
+there were 5 quetions first 4 u can do it last one little bit tough. 
+spend some time on this u can do it. 
+4) 
+5) 
+ 
+9.like from height of 8 mts on ball fell down and each time it bounces half the 
+distnace back. so what will be the distance travelled 
+ans: 24 (sure) like 8+4+4+2+2+1+1+0.5+0.5+ and etc .. 
+answer is not 20 
+10.like 6 cubes are arranged adjacentlay and given the perimeter and aksed to 
+find the perimeter of one cube. 
+ans: if x is the total perimeter then (x/14)*4 leads to the answer. 
+but check it once u will be having plenty of time. 
+answer is 52 (13*4) 
+ 
+11. some data is given like this 10kmph in still water ship took some x mins and 
+downstream 
+some y mins in same time 
+what is the stream value .... (q is not exat) 
+ans: 3 (not sure) 
+ 
+12.some average problem like 16 students average weight and teacher joins 
+them .... 
+ans: 23 (sure) do this (16x+40)/(x+1) will give the value. 
+
+For More Placement Papers visit www.123eng.com 
+www.123eng.com
+ Engineering the Engineers 
+Submit your resume to cvs@123eng.com 
+Chat with other engineers at www.123eng.com/forum
+ 
+Page 62 of 98 
+ 
+13. some probelm on square like to increase area by 69% by what percent side 
+should be  
+incresed 
+ans: square root of 169 i.e 13 ( not sure) 
+ 
+14. no of rational nos b/w 0 and 5 
+ans: infinite 
+15. First day of 1999 is sunday what day is the last day 
+ans: monday 
+ 
+16.bullets probel some x no of bullets are shared by 3 people equally . and each 
+fired  
+4 bullets then the sum of remaining bullets is equal to intially divsion value 
+ans: 18 (sure) 
+ 
+17. bread problem, one come and eat half no of breads and somthing... 
+ans: 63( check it) 
+ 
+ 
+18. like A can do in 6 day and B can do in 8 and C can do in 12 days but b left 
+after working for 6 days for how many no of day A and C shluld work 
+ans: 11( i dont think so this is correct) 
+ 
+ 
+Technical 
+ 
+1. what is vector processing 
+ans: i dont no 
+ 
+
+For More Placement Papers visit www.123eng.com 
+www.123eng.com
+ Engineering the Engineers 
+Submit your resume to cvs@123eng.com 
+Chat with other engineers at www.123eng.com/forum
+ 
+Page 63 of 98 
+2. what is data integrity 
+ans: option a ( like the range of values is defined by data integrity) 
+ 
+3.which topology takes minimum wiring 
+options: star,bus,ring and complete etc 
+ans: find it from network text book ( may be bus or ring) 
+ 
+4.best sorting if elements are already sorted 
+ans: insertion sort(sure) 
+ 
+5.software configuration management ----- 
+ans: option a ( but check it from SE text book there are only 2 confusing answers) 
+ 
+6.In network the packers are flowing unnecessarly what is the way to control 
+it and .... 
+options: SNMP, and some i dont remember. 
+ 
+7.some octal no to decimal conversion 
+for given octal no the last digit was 7 
+ans: the option a ( the decimal last digit was 1) 
+ 
+8.x-=y+1 is equivalant to 
+ans: x=x-y-1 (sure) because it is interpreted as x=x-(y+1)  
+9. in a student form what is the relationship b/w student and course 
+ans: actually it is many to one but they specified in a student form 
+so think and write. 
+ 
+10.which is correct to append the ouput of ls and who to some file x. 
+ans:(who;ls)>>x (check it) 
+ 
+
+For More Placement Papers visit www.123eng.com 
+www.123eng.com
+ Engineering the Engineers 
+Submit your resume to cvs@123eng.com 
+Chat with other engineers at www.123eng.com/forum
+ 
+Page 64 of 98 
+11.what is trigger in DBMS (know what it will do) 
+ 
+ 
+12.what happens when we open a file in r+ mode 
+like whether file will be created if it s not there can we write to file ... 
+13. what is ROM 
+ans: it contains boot up program and it is not accesible 
+that was one answer and anothe option was 
+it is non volatile ( choose one among these 2) 
+14. what is int (*a)[4] 
+ans: pointer to an array of 4 integer (check it) 
+ 
+15. primary key of anothe table is present and so on.......... 
+ans: foreign key 
+ 
+16. what is the diffirenece b/w 0123 and 123 in c? 
+ans:40(sure) 
+ 
+17. which among the devices is spooled device 
+ans: printer(correct) 
+ 
+18. if u get error in adapter which device will u use? 
+ans: contact electronics student. 
+one of the option was voltometer.  
+ 
+19. which is the real time application 
+ans: robotics 
+ 
+ 
+thats it i remember 
+
+For More Placement Papers visit www.123eng.com 
+www.123eng.com
+ Engineering the Engineers 
+Submit your resume to cvs@123eng.com 
+Chat with other engineers at www.123eng.com/forum
+ 
+Page 65 of 98 
+ 
+dont email me for further clarifications because i wrote what all i know. 
+ 
+but one thing 
+they are changing papers but the quetions will be from previous quetion 
+papers combined. 
+ 
+i am in Computer Science Branch 
+take the advantage of branch for CS brach students. 
+-------- 
+for girls 
+just get 25 in written for 40. and talk something in tech and HR 
+u will be in. best opportunity for girls its like 50% reservation for girls. 
+--------- 
+and the pay package is 2.75 lakh per annum. 
+ 
+the cut off is 30  
+ 
+final word: dont go blindly with this answers to exam conform all the answers 
+and then share this paper with all of u'r friends. they(IBM) need people badly  
+so if all of u'r friends do well all of u will be in . 
+ 
+ 
+ 
+Interview: 
+ 
+HR quetions: 
+1. why 2+2 is 4 why not 5. 
+ 
+ans: assume u took 2 apples from A and 2 more apples from B and assume u 
+
+For More Placement Papers visit www.123eng.com 
+www.123eng.com
+ Engineering the Engineers 
+Submit your resume to cvs@123eng.com 
+Chat with other engineers at www.123eng.com/forum
+ 
+Page 66 of 98 
+are having 5 
+and give 2 to X and give 2 more to Y then nothing will be with u i.e u lossed. 
+(give some answers but dont say that it is like that only ) 
+ 
+2.how may stones did hanuman thowned on lanka? ( diffirent but of same type) 
+and one more how many trees are there in u'r campus ... 
+ans: 
+dont say i dont no 
+say some no for ex 1000 and say i.e correct . they wont say any thing for that 
+because it is not possible to disprove that . 
+ 
+3. why IBM 
+ 
+ 
+ 
+IBM Latest paper 
+There are 2 sections Aptitude and Technical . 
+Each Comprises of 20 qs 
+Aptiutude: 
+1)two clocks meet at 12.Next time they meet again 
+after 
+Ans 65.45 
+2)Soldiers form a square .Initially 32 soldiers 
+left.Then 8 .After they could not form a square.Total 
+at the beginning 
+options 100,81,49,67 
+3)Age of Grandfather is the ages of 4 grandchildren 
+where their ages are in consective.Find the age of GF 
+I think 72  
+4)3 person waiting for the train Some conditions 
+
+For More Placement Papers visit www.123eng.com 
+www.123eng.com
+ Engineering the Engineers 
+Submit your resume to cvs@123eng.com 
+Chat with other engineers at www.123eng.com/forum
+ 
+Page 67 of 98 
+given.Finally they ask the time.Ans is 4.37 
+5)Some Squirrel qs where it covers 1/4 th distance 
+then 1/2 i couldnt remember 
+6)if mpown=121.Then m-1pown+1 is 1000 
+7)if speed in the ratio 5:4:3 then the time taken to 
+cover the same distance is 
+8)20men construct a wall 56m in some days similar one 
+ans 49 (check aggarwal) 
+ 
+Technical 
+ 
+char *p=(char *)10 
+op=? 
+Running time of 8T(n/2)+q is ncube 
+Scope of static and automatic var 2qs 
+nodes in binary tree of length 4 is 15(2pown -1) 
+how to convert 2d array to single dimension  
+options are  
+1.convering a row 2 colunm 3 or both in to o's 
+comments-for documentaion or it increases file size 
+like that.u have toi choose the correct one 
+Technical qs are bit tricky.. 
+  
+ 
+IBM Paper  
+Two Sections 
+ 
+1. Aptitude 
+2. Technical 
+ 
+
+For More Placement Papers visit www.123eng.com 
+www.123eng.com
+ Engineering the Engineers 
+Submit your resume to cvs@123eng.com 
+Chat with other engineers at www.123eng.com/forum
+ 
+Page 68 of 98 
+Aptitude  
+ 
+1. like 3 consecutive prime adds to some no what is  
+that  
+ans: both 49 and 59.  
+ 
+2. one persont travlled 4 laps with the speed of  
+10,20,40 ( or 30) and 60 kmph  
+and what is the average speed.  
+ans: 20 (sure)  
+3.like one student takes 20 mins if he go with speed  
+15kmph and at what speed he  
+should go to reach in 15 mins ( nos are not same)  
+ans: 16kmph( but not sure)  
+4. there are 2 type of people group 'yes' who always  
+says yes ( they never say 'no') if they are not  
+sure about they will remain sailent. and other grou  
+name 'no' where the group of people always say 'no'  
+if they are not sure they  
+will remain silent.  
+thats it  
+now quetions are  
+1) what will be the answer if i ask are u belong to  
+group 'yes'  
+options are: they remain silent ,say yes, say no,  
+either yes or no, can't  
+be determined  
+2) same quetion but if i ask are u belong to group  
+'no'  
+ 
+answers for both above quetions are not ( not  
+determined)  
+3) what will the other person say if ask are u  
+belong to grou 'yes'  
+and etc  
+there were 5 quetions first 4 u can do it last one  
+little bit tough.  
+spend some time on this u can do it.  
+4)  
+5)  
+ 
+9.like from height of 8 mts on ball fell down and each  
+time it bounces half the  
+distnace back. so what will be the distance  
+travelled  
+
+For More Placement Papers visit www.123eng.com 
+www.123eng.com
+ Engineering the Engineers 
+Submit your resume to cvs@123eng.com 
+Chat with other engineers at www.123eng.com/forum
+ 
+Page 69 of 98 
+ans: 24 (sure) like 8+4+4+2+2+1+1+0.5+0.5+ and etc  
+..  
+answer is not 20  
+10.like 6 cubes are arranged adjacentlay and given  
+the perimeter and aksed to  
+find the perimeter of one cube.  
+ans: if x is the total perimeter then (x/14)*4 leads  
+to the answer.  
+but check it once u will be having plenty of time.  
+answer is 52 (13*4)  
+ 
+11. some data is given like this 10kmph in still water  
+ship took some x mins and downstream  
+some y mins in same time  
+what is the stream value .... (q is not exat)  
+ans: 3 (not sure)  
+ 
+12.some average problem like 16 students average  
+weight and teacher joins them ....  
+ans: 23 (sure) do this (16x+40)/(x+1) will give  
+the value.  
+ 
+13. some probelm on square like to increase area by  
+69% by what percent side should be  
+incresed  
+ans: square root of 169 i.e 13 ( not sure)  
+ 
+14. no of rational nos b/w 0 and 5  
+ans: infinite  
+15. First day of 1999 is sunday what day is the last  
+day  
+ans: monday  
+ 
+16.bullets probel some x no of bullets are shared by 3  
+people equally . and each fired  
+4 bullets then the sum of remaining bullets is  
+equal to intially divsion value  
+ans: 18 (sure)  
+ 
+17. bread problem, one come and eat half no of breads  
+and somthing...  
+ans: 63( check it)  
+ 
+ 
+ 
+
+For More Placement Papers visit www.123eng.com 
+www.123eng.com
+ Engineering the Engineers 
+Submit your resume to cvs@123eng.com 
+Chat with other engineers at www.123eng.com/forum
+ 
+Page 70 of 98 
+18. like A can do in 6 day and B can do in 8 and C can  
+do in 12 days but b left after working for 6 days for  
+how many no of day A and C shluld work  
+ans: 11( i dont think so this is correct)  
+ 
+Technical 
+ 
+1. what is vector processing  
+ans: i dont no  
+ 
+2. what is data integrity  
+ans: option a ( like the range of values is defined  
+by data integrity)  
+ 
+3.which topology takes minimum wiring  
+options: star,bus,ring and complete etc  
+ans: find it from network text book ( may be bus or  
+ring)  
+ 
+4.best sorting if elements are already sorted  
+ans: insertion sort(sure)  
+ 
+5.software configuration management -----  
+ans: option a ( but check it from SE text book there  
+are only 2 confusing answers)  
+ 
+6.In network the packers are flowing unnecessarly what  
+is the way to control  
+it and ....  
+options: SNMP, and some i dont remember.  
+ 
+7.some octal no to decimal conversion  
+for given octal no the last digit was 7  
+ans: the option a ( the decimal last digit was 1)  
+ 
+8.x-=y+1 is equivalant to  
+ans: x=x-y-1 (sure) because it is interpreted as  
+x=x-(y+1)  
+9. in a student form what is the relationship b/w  
+student and course  
+ans: actually it is many to one but they specified  
+in a student form  
+so think and write.  
+ 
+10.which is correct to append the ouput of ls and who  
+
+For More Placement Papers visit www.123eng.com 
+www.123eng.com
+ Engineering the Engineers 
+Submit your resume to cvs@123eng.com 
+Chat with other engineers at www.123eng.com/forum
+ 
+Page 71 of 98 
+to some file x.  
+ans:(who;ls)>>x (check it)  
+ 
+11.what is trigger in DBMS (know what it will do)  
+ 
+ 
+12.what happens when we open a file in r+ mode  
+like whether file will be created if it s not there  
+can we write to file ...  
+13. what is ROM  
+ans: it contains boot up program and it is not  
+accesible  
+that was one answer and anothe option was  
+it is non volatile ( choose one among these 2)  
+14. what is int (*a)[4]  
+ans: pointer to an array of 4 integer (check it)  
+ 
+15. primary key of anothe table is present and so  
+on..........  
+ans: foreign key  
+ 
+16. what is the diffirenece b/w 0123 and 123 in c?  
+ans:40(sure)  
+ 
+17. which among the devices is spooled device  
+ans: printer(correct)  
+ 
+18. if u get error in adapter which device will u use?  
+ans: contact electronics student.  
+one of the option was voltometer.  
+ 
+19. which is the real time application  
+ans: robotics  
+ 
+ 
+Interview: 
+ 
+it depends upon the Panel  
+be perfect with u'r mini project.  
+ 
+HR quetions 
+ 
+1. why 2+2 is 4 why not 5.  
+ 
+ans: assume u took 2 apples from A and 2 more  
+
+For More Placement Papers visit www.123eng.com 
+www.123eng.com
+ Engineering the Engineers 
+Submit your resume to cvs@123eng.com 
+Chat with other engineers at www.123eng.com/forum
+ 
+Page 72 of 98 
+apples from B and assume u are having 5  
+and give 2 to X and give 2 more to Y then  
+nothing will be with u i.e u lossed.  
+(give some answers but dont say that it is  
+like that only )  
+ 
+2.how may stones did hanuman thowned on lanka? (  
+diffirent but of same type)  
+and one more how many trees are there in u'r campus  
+...  
+ans:  
+dont say i dont no  
+say some no for ex 1000 and say i.e correct . they  
+wont say any thing for that  
+because it is not possible to disprove that .  
+ 
+3. why IBM   
+Technical 
+ 
+1. what does vector processing do? 
+ 
+2. What is the use of software configuration management? 
+ 
+ 
+3. what command is used to append two files using who that is listed by ls; 
+ 
+ 
+4. if there is a problem in a network during transmission which is used to detect that? 
+a.protocol anaylzer, b. SNMP.... 
+ 
+5. In C, x-=y+1 how will u represent it.. 
+a.x=x+y+1,b.-x-y-1,c.-x+y+1.... 
+ 
+6. What does Trigger do? 
+3rd option 
+ 
+7. In which topology we use less amount of cables. 
+ring, bus, star,mesh..... 
+ 
+ 
+8. Which sorting techniques is best for already sorted array...?. 
+ans: bubble sort 
+ 
+ 
+9. Which is said to be a realtime system.? 
+
+For More Placement Papers visit www.123eng.com 
+www.123eng.com
+ Engineering the Engineers 
+Submit your resume to cvs@123eng.com 
+Chat with other engineers at www.123eng.com/forum
+ 
+Page 73 of 98 
+1. credit card systen 
+2 online flight reservation system 
+3 bridge control systen...not sure 
+ 
+10. decimal to octal conversion problem?ans A 
+ 
+11. A person having a/c number, a/c name,bank name, a/c type.. which is the primary 
+among the above? 
+ 
+12. why data integrity is used? 
+ 
+13. if a primary key is an attribute of another one table means........ 
+1 candidate key 
+2 foreign kryey 
+3 seconda 
+4..... 
+ 
+ 
+14. int (*a)[4]. Explain this expression 
+ 
+15. Difference between 0123 and 123 in c 
+ans : 40 
+ 
+16, in c r+ is used for  
+1 read only 
+2 writing only 
+3 both 1 and 2 
+ 
+ 
+Apptitude 
+ 
+1. which 3 consequtive prime numbers gives the total 
+ans: 49 (13,17,19) 
+ 
+2. Rational numbers between 1 and 5 
+1. 3 
+2. 2 
+3. 0 
+4.infinite (ans) 
+5.finite. 
+ 
+3.If boat travels in 10km/hr in still water. it travels 14kmhr in upstream and 26km/hr 
+downstream what is speed of stream? 
+ 
+4. .A cube of 3 unit has 6 surface is painted.If u cut the cube of 1 unit each how many 
+
+For More Placement Papers visit www.123eng.com 
+www.123eng.com
+ Engineering the Engineers 
+Submit your resume to cvs@123eng.com 
+Chat with other engineers at www.123eng.com/forum
+ 
+Page 74 of 98 
+cubes remain unpainted on all sides. 
+ans.1 
+ 
+ 
+ 
+5 one questions in profit and loss 
+a person sold an article at Rs.141 at 6% loss,to gain a profit of 10% at what price the 
+article should be sold. 
+165 
+ 
+6. If person 20 min at 12 kmph. then how many Kmph in 15 minutes 
+Ans.16 
+ 
+7. Three person shared bullets equally. 4 were shot total no of bullets remainin is equal to 
+the no of bullets initially divided 
+ans : 18 
+ 
+8.1st day of the year 1999 is sunday and what will be last day of the same year 
+ans sunday 
+ 
+9. 4 thieves entere a bakery and stoled bread one after the other.Each one took half of the 
+total number of breads+half a loaf.If 3 breads were remaining what is the total number of 
+breads. 
+ 
+10. If a ball is dropped from 8ft and it bounces half the height each time. Then the total 
+distance travelled 
+ans.24 
+ 
+11. 6 squares of equal size are placed side by side to form a rectangle whose perimeter is 
+182. find the perimeter of the single square. 
+ans 52 
+ 
+12.the average age of students in a class is 16.when a teacher of age 40 is added , the 
+average becoems 17. what is the total number of students 
+ans.23 
+ 
+ 
+ 
+ 
+IBM Latest paper 
+There are 2 sections Aptitude and Technical . 
+Each Comprises of 20 qs 
+Aptiutude: 
+
+For More Placement Papers visit www.123eng.com 
+www.123eng.com
+ Engineering the Engineers 
+Submit your resume to cvs@123eng.com 
+Chat with other engineers at www.123eng.com/forum
+ 
+Page 75 of 98 
+1)two clocks meet at 12.Next time they meet again 
+after 
+Ans 65.45 
+2)Soldiers form a square .Initially 32 soldiers 
+left.Then 8 .After they could not form a square.Total 
+at the beginning 
+options 100,81,49,67 
+3)Age of Grandfather is the ages of 4 grandchildren 
+where their ages are in consective.Find the age of GF 
+I think 72  
+4)3 person waiting for the train Some conditions 
+given.Finally they ask the time.Ans is 4.37 
+5)Some Squirrel qs where it covers 1/4 th distance 
+then 1/2 i couldnt remember 
+6)if mpown=121.Then m-1pown+1 is 1000 
+7)if speed in the ratio 5:4:3 then the time taken to 
+cover the same distance is 
+8)20men construct a wall 56m in some days similar one 
+ans 49 (check aggarwal) 
+ 
+Technical 
+ 
+char *p=(char *)10 
+op=? 
+Running time of 8T(n/2)+q is ncube 
+Scope of static and automatic var 2qs 
+nodes in binary tree of length 4 is 15(2pown -1) 
+how to convert 2d array to single dimension  
+options are  
+1.convering a row 2 colunm 3 or both in to o's 
+
+For More Placement Papers visit www.123eng.com 
+www.123eng.com
+ Engineering the Engineers 
+Submit your resume to cvs@123eng.com 
+Chat with other engineers at www.123eng.com/forum
+ 
+Page 76 of 98 
+comments-for documentaion or it increases file size 
+like that.u have toi choose the correct one 
+Technical qs are bit tricky.. 
+  
+ 
+ 
+IBM Placement Papers 2007 
+ 
+ 
+IBM PAPER ON 4th MAY AT KANPUR  
+hi everybody firstly i want to introduce my self . i m ashish gangwar 3 et hbti kanpur and 
+i m among lucky ones to be selected by ibm. 
+ 
+paper consits of 4 sections 10 ques from english . 
+10 question in technical section (4 unix, 2 dbms, 1 data structure , 3 c) very eaisy 
+rest question include venn diagram , binary number, coding decoding, data sufficiencyetc. 
+and of course here is one essay on UNITY IS STRENGTH. 
+this is the first round for IBM gbs for (ISL) there is one more paper cosist of technical 
+questions aftr that 138 student shortlisted for GD ROUND here the trick is to speak with 
+confident and dont hurry while speaking . after gd 96 students are called for interview  
+in interview they through questions like 
+1 tell me abut urself? 
+2 why ibm? 
+3 why u wanna join ibm as electronics engg? 
+4 what are dynamic and static memory locatoin? 
+5 abut binary tree, traversal, call by bvalue, some dbms commands etc.  
+finaly iwent for the hr int .the he ask my strength and weakness. plz go through ibm site 
+and learn its three values he ask me iad i told him all he got totally impressed .  
+finally result were told at 11PM and i was selected   best of luck to everybody. 
+ 
+IBM PAPER ON 24th APRIL AT KOLKATA 
+  
+
+For More Placement Papers visit www.123eng.com 
+www.123eng.com
+ Engineering the Engineers 
+Submit your resume to cvs@123eng.com 
+Chat with other engineers at www.123eng.com/forum
+ 
+Page 77 of 98 
+Hello friends, IBM came to our college on last 24th April,2007 and 207 students 
+sat for the test. Finally 66 got selected. & I am one of them. 
+There were 3 rounds : Aptitude test, GD, interview. (Pls keep your college ID 
+card with u, else they won’t let u sit for the test.) 
+   
+APTITUDE TEST : 
+55 ques, 60 min time, followed by 15 mins for essay writing. R.S. Agarwal is 
+more than enough. But if u r confident & have practiced enough of apti from any 
+standard book, that will certainly do (I did from TIME materials for placement). 
+But direction test, data sufficiency, venn diagram etc were common from R.S. 
+Agarwal. AT LEAST GET FAMILIAR WITH THE TYPES OF QUES AS TIME 
+MANAGEMENT IS THE KEY TO SUCCESS IN THIS SECTION. 
+   
+Section 1- Verbal part 
+She performed _ the opera house.(in/at/on etc) 
+Another qs on preposition-easy. 
+Synonym-apathetic 
+ _ clown of that circus became famous for his antics.(article) 
+Article again-easy. 
+Then a RC on some plants, pollen grains etc. Do it at last if u get time. 
+   
+Section 2 – 
+Well guys I don’t remember the problems, but it was very easy. Just stay cool 
+and keep pace with time. 
+Data sufficiency- about 5 qs 
+Venn diagram- easy, 5 qs. Problem was like- of 600 people,576 use credit cards 
+(VISA,AMEX etc). 
+Direction sense- 2 or 3 easy qs 
+Some more qs were there. Follow any standard book & u can definitely do them. 
+   
+Section 3 – Attention to details 
+
+For More Placement Papers visit www.123eng.com 
+www.123eng.com
+ Engineering the Engineers 
+Submit your resume to cvs@123eng.com 
+Chat with other engineers at www.123eng.com/forum
+ 
+Page 78 of 98 
+Eg: CBCBCCBBC  CBCBCCBBC  CBCBCCBBC –find who are alike or not. 
+4 or 5 qs like above. 
+Then 4 or 5 qs like-  if * represents +,- rep. * etc, find value of 12* 5-7....etc 
+   
+Section 4 – Technical 
+Qs from UNIX, DBMS etc. 
+Eg: which normal form is only and completely key dependent? Which command 
+to use for seeing detail of a command in UNIX (man,info,display,help). 
+   
+Essay topic- MONEY BRINGS IRRESPONSIBILITY 
+Be fast but stay calm. Apti is the easiest round- trust me. 129 cleared it. 
+   
+GROUP DISCUSSION : 
+13 candidates in a group, 15 mins time, followed by 30 sec for summing up the 
+GD for each candidate. Our topic was- “HONESTY IS THE BEST POLICY”. 
+Everyone, even who sat silent was specifically asked to speak. But it is better 
+that u speak spontaneously. The round carries lot of marks. 
+94 cleared the round. (Usually GD isn’t elimination round but since too many had 
+cleared apti, they eliminated some in GD in order to shorten the i/w round.) 
+   
+INTERVIEW : 
+I won’t go into detail of it. A panel of two was there, extremely polite, 
+approachable and friendly. 
+In technical, they asked about- 
+C(call by value & ref. etc) 
+UNIX,OS (shell, kernel etc) 
+JAVA (exception handling, features of OOP) 
+DS (linked list) 
+NETWORKING (http, port etc) 
+& some more qs on diff subjects. I answered well & confidently, tried to keep a 
+smile on my face to make myself look confident and well-prepared. 
+
+For More Placement Papers visit www.123eng.com 
+www.123eng.com
+ Engineering the Engineers 
+Submit your resume to cvs@123eng.com 
+Chat with other engineers at www.123eng.com/forum
+ 
+Page 79 of 98 
+Then there were some HR qs like about myself, my results, a prize which I won 
+for writing on cloning, why IBM, what’s the difference b/w IT & CSE and like that. 
+( JUST GO THROUGH THEIR WEBSITE & prepare standard qs like why IBM 
+etc.) 
+   
+They looked satisfied with what I answered. Then it was over & we shook hands. 
+I was pretty confident about my selection & finally made it. 
+   
+Do prepare well, be confident and stay calm & you will make it too. 
+Best wishes for all of u. 
+ 
+ 
+IBM PAPER ON 24th APRIL AT KOLKATA 
+Hi guys and girls, 
+I appeared for the IBM recruitment test on 24th april, 2007 in our campus. Luckily, I got 
+through. 
+Remember u need to have ur college ID cards or else they might not allow u to sit for the 
+exam. Now there were 3 rounds of qualifying exams... 
+First round is the aptitude test.(55 marks total, cutoff 30 for boys) 
+So boys u have to be really good at what u do & girls u all can be almost be rest assured 
+if u clear the aptitude test u will get through. 
+For aptitude test remember the first and most important thing is TIME MANAGEMENT. 
+Many good students don't make it through the aptitude because they lack this skill. 
+Practice R.S.Aggarwal, it 's more than enough for the aptitude. 
+ 
+It has 4 sections in its paper: (1 hr test) 
+(i) verbal (10 mins) 
+This will consist of filling up prepositions in the blanks. 
+e.g. 1. he had been singing for a very long time, but until now he has never been seen 
+____ the opera house 
+options: (a)at (b)in (c)on (d)none 
+2. the sea food did not agree ____ him. 
+options: (a)with (b)on (c)for (d)in 
+There will be atleast 2 of these questions. 
+Then there would be few other 'fill in the blanks'. 
+Then there is a comprehension. Our passage was from "Origin of Species". 
+
+For More Placement Papers visit www.123eng.com 
+www.123eng.com
+ Engineering the Engineers 
+Submit your resume to cvs@123eng.com 
+Chat with other engineers at www.123eng.com/forum
+ 
+Page 80 of 98 
+It was fairly easy, but don't read the passage first, read the questions first and then find 
+the answers from the passage. 
+They are mostly in sequential order from passage paragraphs. 
+This part is easy, u will get through if u have basic knowlege and skills of english. 
+(ii) Quantitative (25 questions, 30 mins) 
+This part is fairly easy. 
+First question was on venn diagrams (credit card holder problem). 
+Its a bit lengthy but if u can manage it u get 4-5 questions right straight away. 
+then there are questions on direction, 4-5 questions on data sufficiency, 4-5 ques on 
+replacing 0 and 1 by * & #, age problems etc 
+They r quite easy just remember the clock is ticking. 
+(iii) Attention to details (10 mins) 
+This section be careful...this section is very easy but be attentive to details, I would 
+suggest do this right after the verbal. 
+There will be 2-3 questions on similarity like 
+234222272451 23422272451 234222272451 
+find any dissimilarity. 
+then there will problem on relation- father, son like that 
+then replacing + by *, - by + and so on... 
+last question will be on case study. 
+they had given us a criteria list for admmission and few biodatas for considering whether 
+their applications will be accepted. 
+(iv) Technical (10 mins) 
+this portion will contain checking output, choosing correct answer etc. 
+It will be based on DBMS, C, unics commands and may few other topics... 
+Essay writing: 
+They will provide 15 mins after aptitude test for writing this passage. About 300 words. 
+Now don't think thats enough time, u hardly get any, trust me. Start writing the moment u 
+get the signal, but don't beat around the bush, be clear in expressing ur ideas and their 
+justifications. Ur aptitude marks most probably don't include essay marks. But they do 
+pay importance to this. 
+128 were selected from 200-220 after aptitude test. 
+Next is the GD round, now we were never prepared for GD as we thought there won't be 
+any GD, but surprisingly we had and 94 were selected out of 128. 
+There were 12 in a group, and all the girls would be selected here, so boys u all have to 
+open the zip of ur mouths and talk. Don't sit Dumb. U lose points for that. Don't wait for 
+too long for others to finish. 
+They check ur communication skills and ur ideas. Just remember u have to talk. 
+
+For More Placement Papers visit www.123eng.com 
+www.123eng.com
+ Engineering the Engineers 
+Submit your resume to cvs@123eng.com 
+Chat with other engineers at www.123eng.com/forum
+ 
+Page 81 of 98 
+If u get through this u will face Tech+hr interview and mostly they will be conducted by 
+the People who conducted ur GD. 
+Now, this is totally a matter of luck, in which panel u get... 
+If they ask u technical questions they are generally Not plain easy, so u have to be well 
+prepared in technical, which I was not. 
+As I had already got a job offer from Cognizant, I wasn't looking forward to any job in 
+IBM. So I hadn't taken any preparation at all. 
+But U guys don't do this, my interview was mainly on HR so it was easy, though they 
+tried to crack me with stress questions, 
+but they couldn't. 
+There were 2 men in my panel, 
+It was as follows: 
+me: good afternoon, sir. 
+sir: good afternoon take ur seat. 
+me: thank u, sir. 
+sir: i didn't get time to read ur essay, tell me about it in brief. 
+me: explained (they were satisfied) 
+sir: tell us something about urself 
+me: told (stress on ur extracurricular activities if u have good ones, now I was in news 
+reading and also some simple research work) 
+sir: u said u did researchwork, would like to do research in IBM? 
+me: right now I would like join, learn and grow with the industry and in future I might 
+think about switching to that. BLAH BLAH 
+sir: have u got any other job offer? 
+me: yes sir, from cognizant. 
+sir: why do u want to join IBM, cognizant is the fatest growing company now? 
+me: explained(< 
+Trust me always go through the press releases or news of the company u r sitting for, 
+because if u talk about those they really get impressed, 
+Just visit The Company's Home Site, U can get all details there>>) 
+sir: Ok, what is ur favourite subject? 
+me: Principles of programming language 
+sir: tell me diff b/w structure in C and C++? 
+me: told 
+sir: tell me a func where u don't have to define a body? 
+me: pure virtual func 
+sir: explain that. 
+me: (that was the only thing I couldn't recall) 
+sir: anyway, tell me about header files 
+me: BLAH BLAH 
+< > 
+sir: Ok, lets say I give u a job Not challenging, a job that class 12 boy can do, would u do 
+it? 
+me: well a job is only as challenging as u make it, and i think there 's no harm in starting 
+
+For More Placement Papers visit www.123eng.com 
+www.123eng.com
+ Engineering the Engineers 
+Submit your resume to cvs@123eng.com 
+Chat with other engineers at www.123eng.com/forum
+ 
+Page 82 of 98 
+with a class 12 job, I can surely work my way up. 
+sir: tell me a phase of ur life where u went through a big change. 
+me: from my school to college..BLAH BLAH 
+sir: are u mobile? 
+me: absolutely 
+sir: ok, lets say I send u to jungle rural place and tell u set up an IT workshop, what will 
+the 3 most important challenges u will be facing? 
+me:<> 
+ (i) requirement analysis: planning, gathering info on what is necessary to get the job 
+done, framework etc 
+ (ii) man power= local technically ignorant people + technically experienced people --> 
+Managing them Together 
+ (iii) handling unexpected events that r bound to occur in any large scale job 
+They were totally impressed with this answer. 
+sir: u have any question for me? 
+me: sir can u tell me about the training program in ur company? 
+sir: BLAH BLAH, any more questions? 
+me: yes sir, can u tell me more about 10 yr pact made b/w IBM and Idea cellular and 
+Aditya birla? 
+sir: BLAH BLAH, anymore? 
+me: no sir. 
+sir: thank u 
+me: thank u 
+ 
+Results came after an exhaustive wait till 8:30 pm. 66 were selected from 94.(Final 
+Selection 66 from 200-220) Luckily my name was there. 
+Only thing u got to remember is that be confident at all times during ur interview, even if 
+u have said something wrong or couldn't answer 
+something don't lose ur confidence... atleast don't show that in ur attitude. Keep ur head 
+cool, body language calm and be confident and if u have good communication skills u 
+will get through. The interviewers are always friendly and smiling so u be the same way. 
+BEST OF LUCK. SEE U ALL IN IBM 
+ 
+ 
+IBM PAPER ON 15th APRIL AT BANGALORE 
+hi friends i m bharath here .....i m doing 6th sem mechanical engg in UVCE  ....i m happy 
+to say that i placed  in IBM  .....paper was too easy friends ....test conducted by MERIT 
+TRACK .....   
+55 questions it consists of 4 parts ......   
+
+For More Placement Papers visit www.123eng.com 
+www.123eng.com
+ Engineering the Engineers 
+Submit your resume to cvs@123eng.com 
+Chat with other engineers at www.123eng.com/forum
+ 
+Page 83 of 98 
+SECTION1(10 que)   too easy      5 articles and then 1 easy passage  5 questions from 
+tat  .......  
+SECTION 2(25 que)   (QUANTITATIVE) ....  
+1 to 5 questions on venn diagram 
+5  to 10 on decesion making  
+11 to 15 data sufficiency  
+16 to 19 mathematical operation  
+19 to 25 simple apti friends u can do it easily     
+SECTION 3(10 que) (LOGICAL) 
+1 TO 5 on binary conversion like $=1,*=0 ,                   
+whats the value of 1)566         
+2)LCM(16,8,10) 
+3)AVG(3,6,9) 
+4)16-AVG(2,4,6) 
+5) $*$ - *$$  
+just divide by 2 u can get the ans   
+friends refer quick mathematics by TYRA  for binary que 
+6 to 10 one puzzle on that 5 questions  
+SECTION 4(10 que) (TECHNICAL) 
+que from C,C++,DATA STRUCTURES.....  
+friends my suggestion is to manage time do fast cut off will be 35 and above as i think for 
+written verbal and non verbal reasoning book helped me lot friends 
+then 15 min essay writing  
+then GD friends just they will check ur interaction and way u talk  
+ 
+then (TECH+HR INTERVIEW)  
+friends 3 HR persons interviewed me really its challenging moment to face them .....just i 
+told everything positively with confidence ........i was smiling bit  
+first they asked me que from C i answered  some que... later they went deeply to ask 
+C   then i told sir i m from  MECH ENGG i know only basics then he stopped C que         
+then they start asking HR questions really its challange to face those que ........always they 
+tried to take me into -VE  side  
+but i ans every que in a +VE way and i impressed all ............... 
+they felt happy with my ans  friends   
+thats all 25 min they interviewed me  
+friends always be confident  .............do well ....this is the 3rd company 
+
+For More Placement Papers visit www.123eng.com 
+www.123eng.com
+ Engineering the Engineers 
+Submit your resume to cvs@123eng.com 
+Chat with other engineers at www.123eng.com/forum
+ 
+Page 84 of 98 
+to my clg ...in first 2 companies(CTS and WIPRO)  I rejected from HR ......so 
+friends dont loose hope think positively thats it u can do ............god will place u in 
+good company  
+really i m happy to say that now i m the member of worlds largest IT 
+company  now i m IBMmate                
+ 
+hope will see in IBM . ALL THE BEST FRIENDS  
+ 
+ 
+IBM PAPER ON 11th APRIL  
+  
+Hello friends, 
+My name is Ajitesh Pathak, a 3rd year student of NIT Durgapur studying in the branch 
+of  Information Technology. Like many before, I used to browse this website for 
+company papers and experiences of those who got placed and believe me it feels great 
+while writing as one. On 11th April, IBM India had visited our campus and 72 got 
+selected out of 340 aspirants. Thank God, I was one of them. 
+Here are the details of the selection procedure. 
+ 
+There were 4 rounds... 
+1 . Written 
+2 . Essay round 
+3 . GD 
+4 . Tech + HR Interview 
+ 
+340 sat for the interview and 166 got selected. The cut off for every department was 
+variable but for the ECE, CSE and IT ppl it was very high. There were 55 ques and 47 
+was the cut-off. Yes, believe me, tht’s the fact. 47 was the cutoff and for Non-IT depts. 
+Like mechanical, EE, Meta, Chem.. the cut off ranged from 35 to 40. Let me brief you 
+about the written test. 
+There were 4 sections... 
+1st Verbal Section: 10 questions 
+2 ques on filling appropriate words..like 
+[1] The money was shared ______ the two. 
+(a) Among (b) Between (c) a & b (d) None 
+[2] _______ preparing for the exams, she had also prepared a presentation. 
+(a) Beside  (b) Besides  (c) a & b (d) None 
+1 ques on a synonym based sentence 
+[3] The phone number was incorporated into the directory.   
+(a) Exclude (b) Include (c) Condemned (d) None 
+
+For More Placement Papers visit www.123eng.com 
+www.123eng.com
+ Engineering the Engineers 
+Submit your resume to cvs@123eng.com 
+Chat with other engineers at www.123eng.com/forum
+ 
+Page 85 of 98 
+Then the next 2 were on articles, very easy ones. 
+   
+Then there was a RC... on embedded systems. Basically, read the 1st para, answer the 1st 
+ques... the ques were set according to the paras... very easy, try to do it in the end. Do 
+the ones you are comfortable with. 
+   
+2nd Aptitude Section: 25 questions 
+Believe me this was a good section. There were easy ques but you had to be patient and 
+not excited. Try to keep your adrenaline flow under control.... 
+Q on Venn Diagram... 
+There are 32 tables in a room. 9 tables have salt bottles on them. 1 table has salt and 
+pepper only, 1 table has salt and sugar only and 1 table has pepper and sugar only. 
+3 tables have all of them. The difference between the tables containing pepper and sugar 
+is 2. Find the following.. 
+[1] No. of tables containing sugar. [Ans: 17] 
+[2] No. of tables containing sugar only. [Ans: 12] 
+[3] No. of tables containing pepper. [Ans: 15] 
+[4] No. of tables containing pepper only [Ans: 10] 
+[5] No. of tables containing salt only. [Ans: 4] 
+   
+Then there were few symbol based ques.. Like if + is /, / is -, - is * and * is +  then 
+evaluate.. there were 4 expressions.. 
+There was a q on odd one out... there were 4 expressions and 3 of them evaluated to 36, 
+the answer was the one which didn’t evaluate to 36. 
+These comprised of  ques [6],[7],[8],[9], [10]... 
+The next 5 were data sufficiency ones. Very easy... CAT aspirants would sail through 
+this portion.. Very easy ones... 
+   
+The next five were general questions on aptitude...like 
+[16] If 5 cakes takes 1 hr 30 mins to bake in an oven when kept together, then how much 
+will it take 10 cakes to bake in an oven when kept together. [ Ans: Same time ] 
+[17] P and Q can write 135 pages in 27 hrs. P can write 3 pages in 1 hour. How much 
+time will it take Q to write 42 pages. [ Ans: 21] 
+[18] A beats B in a 100 race by 10m . B beats C in the same race by 10m. Then by how 
+much does A beat C in the same race. [Ans: 20m] 
+[19] A class took an exam and each scored either 80 or 100 marks. If 10 students gave the 
+exam and 100 was the max score one could get, then find out how many got 100 marks if 
+the average of the class was 94. [Ans : 7] 
+The last one I don’t exactly remember but that was very easy. Anyone could do it. 
+The next, the final 5 of this section was a concentrative portion. 
+If  $ represents 1 and * represents 0, then find the following in this code... 
+There were 5 expressions. One had to find the value of each of the expression and then 
+convert it to binary form and then encode it according to the 1st line. This was a little 
+cautious portion, but keep your cool and don’t make a mistake in finding the binary. 
+   
+
+For More Placement Papers visit www.123eng.com 
+www.123eng.com
+ Engineering the Engineers 
+Submit your resume to cvs@123eng.com 
+Chat with other engineers at www.123eng.com/forum
+ 
+Page 86 of 98 
+One thing, normally IBM gives q’s on cubes but there were none in our paper. So future 
+aspirants should be knowing how to do the sums of cubes. Just think upon it with  a 
+group of frnds and then it wil be fine. Also know the octal, hexadecimal systems and how 
+to find the equivalents of numbers with decimals, like 0.4375 
+   
+3rd Attention to Detail Section: 10 ques 
+This was the easiest section. Some patterns were given and you had tell wich patterns 
+were same according to the options. So be calm and keep your eyes open. There were 
+some symbol based questions also. There were 5 questions which were based on a small 
+passage. 
+It was a passage about a club with some membership criteria to be fulfilled. Don’t read it. 
+Start with the questions and relate the options with a criteria because it was a section 
+named Attention to Detail not Reading Comprehension. So work with the options. This is 
+where maximum students lost the time when they started reading the criteria. Play with 
+the options. 
+   
+4th Technical Section: 10 ques 
+This was a tough section especially for the Non IT branches.  
+4 ques on C/C++, 3 on DBMS, 3 on Unix. 
+   
+Just brush up your C concepts ans do some intelligent guess work. But the crux lies that 
+you are expected to have all the 1st 3 sections right if want to guarantee a place. 
+   
+When I went to the Interview Room, the interviewer told me that I only made 3 mistakes 
+in the Technical Section, the rest all were right... ie, my score was 52 out of 55... So try 
+to have a very high score in written. 
+   
+Before the Interview there was the Essay round of 15 mins and GD. 
+Essay was a general topic... Primary Education is more important than Higher Studies... 
+   
+There was a GD round and the GD round carried a lot of marks. There were no 
+eliminations after the GD round but it carried a lot of marks in the final score. 
+   
+When I entered the interview room, it appeared that I was already selected before it. I had 
+a 5 mins interview session. All was HR, they were asking as if it was a formality. They 
+told me about my written test which I mentioned earlier and also my GD and essay, 
+which was very gud as they said. They didn’t see my file neither my CV. They asked me 
+general ques about family background, place of birth, and about extra-currics. Try to 
+mention things which will shift the interview towards your way. Like they asked me 
+whether I had written any complex programs in C or C++. I said that yes I had written 
+few like the 15 puzzle program, Tic-Tac-Toe, Spiral and I purposely mentioned that I 
+didn’t use any A.I. or some high concept but applied my basic knowledge about C like 
+arrays, pointers... From here he asked me what is an array and a vector, Diff between 
+Call by value and Call by reference, diff. between return() and exit() .. that’t it... 
+
+For More Placement Papers visit www.123eng.com 
+www.123eng.com
+ Engineering the Engineers 
+Submit your resume to cvs@123eng.com 
+Chat with other engineers at www.123eng.com/forum
+ 
+Page 87 of 98 
+Then they commented on my high C.G.P.A. and asked me my standing in the department. 
+Time was smoothly moving and all my answers were spontaneous. Finally they asked me 
+why a manhole is round. I answered it almost. They shook my hand with an assured face 
+tht I was selected and said: It was very nice meeting you, Ajitesh. The interview was over 
+even before I could realize. 
+The results were out after 2 hours and 72 were selected.... My name was announced and 
+everything went happily thereafter. 
+   
+Other panels also asked many on IBM info... 
+CEO and Chairman ::: Samuel J. Palmisano                   Headquarters ::: Newyork (Main) 
+IBM India President::: Shankar Annaswamy                                            Bangalore(India) 
+IBM India VC ::: Rajesh Nambiar and Amitava Ray.. 
+Visit the IBM site for further details... and one for those who have spectacles... 
+I have one but I wasn’t asked this one. Other panels had asked what kind of lens does the 
+specs have and draw the ray diagram showing the defect and the effect after the lens. So 
+be confident and try to score high in written, essay and GD... interview will shorten 
+automatically... Ppl with higher C.G.P.A. have great chance in IBM... Good Luck    
+ 
+ 
+ 
+IBM PAPER PATTERN ON 1st APRIL  
+HI.......... I GOT SELECTED AT IBM ON 1ST OF APRIL ........IT WAS ONLY THING 
+HAPPENED WITHOUT "APRILFOOL"..........OK... JOKES APART........!!!!!!! 
+WE HAD PPT AT 8:30 ON MORNING......... THEN TEST STARTED AT  10:30  
+THE TEST WAS QUITE EASY...........   
+IT CONTAINED FOLLOWING SECTIONS.........  
+1:VERBAL:- THERE WAS ONE PASSAGE FOR COMPREHENSION...........JUST 
+EASY 
+AND 5 FILL IN BLANKS FOR PREPOSITION FILLING.......... VERBAL IS QUITE 
+EASY............  
+2:-QUANTATIVE : IT WAS ALSO EASY............. 
+U CAN REFER AGARWAL BOOK FOR IT..........  
+3:LOGICAL: IT WAS COMPARATIVELY DIFFICULT..............  
+I DIDN'T GOT MUCH TIME FOR IT........ U CAN REFER AGARWAL 
+BOOK...............  
+
+For More Placement Papers visit www.123eng.com 
+www.123eng.com
+ Engineering the Engineers 
+Submit your resume to cvs@123eng.com 
+Chat with other engineers at www.123eng.com/forum
+ 
+Page 88 of 98 
+4:TECHNICAL: IT WAS BASED IN BASIC  C/C++ 
+IT ALSO CONTAINED QUE FROM DATABASE & UNIX....... THERE WAS 
+ADDITIONAL, QUE OF ESSEY WRITING.............. 
+TOPIC WAS "SHOULD ENGINEERS ACCEPT FOREIGN JOS?" 
+IT WAS 15 MIN TIME FOR IT  
+RESULTS DECLARED AT 3 PM ............. AS EXPECTED I WAS 
+SHORTLISTED.............  
+I HAD MY INTERVIEW AT 5 PM.............. 
+THEY ASKED ME ABOUT MY PROJECTS & PPTS  IN DEPTH.......... 
+THEY CHECK COMMUNICATION SKILLS,LEADERSHIP 
+QUALITIES............ALSO U'R MARKS.......  
+BE CONFIDENT AT INTERVIEW.............THEN U R THE WINNER...................!!! 
+WELL PREPARE U'R  RESUME............ THEY CAN ASK U ANY 
+QUE................FROM RESUME...........  
+RESULT DECLARED AT 10 PM ........... 
+THERE WERE 123 CANDIDATES  SHORTLISTED.......... AND 58 STUDENTS 
+SELECTED FROM INTERVIEW............. 
+I WAS ALSO SELECTED.............  
+SO PREPARE WELL & BEST LUCK FOR IBM  
+ 
+ 
+IBM PAPER ON 1st APRIL  
+  
+Hello u all IBM seeker !!!!  
+I am Shabbar A. Lokhandwala from T.E. (C.S.E.) W.C.E.,Sangli.  
+We had an test and interview on 01 04 2007.  
+Appeared near about 200 students  
+Aptitude test short listed:  129  
+Selected:  58  
+Thanks to God ,all freshersworld guys , my friends ,my family members praying for me 
+and my luck .  
+Ya boys n guls I am now IBMer.  
+   
+Procedure:  
+1) Written Apti Test  
+2) Technical Interview cum HR Interview  
+   
+
+For More Placement Papers visit www.123eng.com 
+www.123eng.com
+ Engineering the Engineers 
+Submit your resume to cvs@123eng.com 
+Chat with other engineers at www.123eng.com/forum
+ 
+Page 89 of 98 
+1. Written Apti Test (Meritrac): 55 questions  to be answered within one Hour & an essay 
+to be written within 15 mins.(essay topic is given at last 5 minutes.ours was “engineers 
+should not accept jobs outside the country.”(Write in legible, good, No!!! in best 
+handwriting as it is seen at the time of interview. They may ask u questions on that also 
+as I mentioned @ Swadesh movie I was asked @ that.))  
+   
+Section 1:English aptitude  
+1. I had seen the boy throwing stones .....the old lady.   (use towards/on/to/at)  
+2. Synonyms lady was so seluete ,so everyone was praising her .  ans : flexible  
+3. Use a an the example was easy.  
+4. Use a an the example was easy.  
+5. Preposition again. Easy  
+Then the long passage and on that  5 qs. leave it  .Do at last as u will have much amount 
+of time.  
+   
+Section 2: Quantitative aptitude(go with examples like bouquet of 200 roses 5 red 2 
+yellow ,5 red &green like that plz as 5 qs on that I was unable to ans them.)  
+Section 3: Analytical ability  
+Is given statement answerable by a:1 b:1,2 c:by both and d: by neither.choose correct 
+option among a,b,c,d. Like plz do as u can win ur match here 5 qs on that.  
+Easy and must solve first like *replaced by +,/ by *,+ by * and – by / so evaluate 
+28/4*2/1-3+5 
+ 
+Section 4: Computer section  
+qs from Unix(some commands given what will be the output?) & for technical 
+DBMS(tables given & ans regarding keys ),what is Normalization? ,sorting complexities 
+worst case which will perform best? Etc.  
+  
+For quantitative aptitude & analytical ability I will suggest to solve RS AGGARWAL 
+(both) specially Venn dia, mathematical operations, puzzle test, data sufficiency, binary 
+conversion, direction test(south north east do sense :  In south turn towards right is 
+towards east do it cool ly. ),time distance speed, profit loss, percentage problems.  
+Age problem like veena younger than 3 years seema who is 4 ys lder than 
+reshma....finally who is older amongst all like 3 qs?  
+Sorry guys I cant provide u the details of written paper as I was then busy in solving them. 
+But truly speaking it was easiest test I had given ever.Ya Believe me I am also avg case 
+student like u all as my overall % up to 5th sem are 65.36.Ya now u can believe me.  
+Initially on the ans sheet of essay they have mentioned that they are going to conduct GD 
+of short listed candidates but  at last they haven’t , But remember guys they have just 
+started the GD tradition in on campus interview processes.  
+
+For More Placement Papers visit www.123eng.com 
+www.123eng.com
+ Engineering the Engineers 
+Submit your resume to cvs@123eng.com 
+Chat with other engineers at www.123eng.com/forum
+ 
+Page 90 of 98 
+2) Technical Interview cum Personal Interview  
+I would like to express my interview experience as I think it maybe useful to them who 
+have the same dream to be an IBM’er just I had.  
+ 
+I:may I come in sir? He:no (amazed !!!!) then come in yaar.(so friendly)  
+He:have a seat plz .tell me @ u and then @ project.(answered well ...like the river. Plz in 
+project explanation draw some figures tables for the sake of his understanding he is just 
+checking ur communication. Skills. (If u r convent student plz drop this instruction) (I am 
+now going to provide u best of all idea to improve the English. first buy CHAOS 
+dictionary of Marathi to English I m not selling or advertising anything(for the sake of 
+my security) just mentioning the thing which I had done so now take the Marathi news 
+paper or any book u like most and daily u have to translate the 10 lines of Marathi to 
+English. Don’t think about the tenses. Just go on improving ur vocabulary. My 
+experience tells that within 5 days u will have confidence in doing all things .Hoping that 
+u will do it sincerely.) )  
+Then a complicated pgm given to solve i tried it ,don’t give up so early at least try 
+something who knows ur luck supports u at that time and u will be able to solve it.  
+Asked @ family.  
+Why should IBM hire u?  
+Ans: Because of my abilities like creativeness and innovativeness, learnabilty, 
+flexiblity,.......xplain with eg.  
+How many files created after successful execution of pgm?  
+Good!!!!!  Strengths ?  
+Like river I answered (he got impressed)    
+Ibm: why we use main? Why not multiple mains? If main is not declared what will 
+happen? 
+Me: compiler will raise an error message. 
+Ibm: what kind of error message? 
+Me: I don’t know exactly but I think it will say main function not defined/found.  
+Then he open up with real weapons and given me 10 problems list to solve within time 
+limit of 5 minutes. Was easy but tricky I solved luckily just to give o/p of pgm (test ur c 
+skills helped here).  
+IBM: Favorite sub?  
+I: All. (Impressed but plz give such ans if u r perfect .I was, as I have prepared IBM as 
+my dream company.)  
+He asked me no. of qs on networking, o.s. Dbms(novice level ),c,c++,java , vc++ all 
+things explained by me so impressed. Uptil now spent 25 min  
+Then turned towards personal interview asked all general qs @ relocation, preferred 
+place,etc.  
+Then I asked his good name.   He: Mr. Pravin .  
+He wished me to meet again. Given clue of selection.  
+
+For More Placement Papers visit www.123eng.com 
+www.123eng.com
+ Engineering the Engineers 
+Submit your resume to cvs@123eng.com 
+Chat with other engineers at www.123eng.com/forum
+ 
+Page 91 of 98 
+So plz be prepare for the test and interview and to be a part of worlds no-2 brand and s/w 
+no 1 branded company.i m always with u. see u all in IBM .  
+Bye!!!!! All the best !!!! 
+ 
+ 
+IBM PAPER ON 23rd MARCH  
+Hi everybody ,I got selected in IBM on 23rd March. We were having campus in amravati 
+college of engineering . 
+Around 1100 students  appeared for aptitude test and they selected 147 students  in 
+aptitude. 
+After interview they selected only 60 students and I WAS ONE OF THEM !! 
+ 
+ROUND 1: 
+The aptitude test was very easy.We were having 55 questions to solve . 
+There were 4 sections: 
+ 
+1:VERBAL 
+There were questions on prepositions,fill in the blank with correct word.Solve these first 
+as they are very easy. then there was a passage .Try to do this at last.this saves time. 
+ 
+2:APTITUDE 
+Logic based questions and some questions on probability .there was a question  which 
+was to  be solved by venn diagram. 
+It was having 3 sub questions.blood relation problem. 
+ 
+3:ATTENTION TO DETAIL 
+ Find r these alike 
+ XXXYYJJGCFHKL  XXXYYJJGCFTKL XXXYYJJGCFHKL .3 questions of this type. 
+This is very easy try to attemt it first .there were questions like $represent 1 and * 
+represents 0.there were 5 questions 
+on this type .like evaluate $$*$$^$* .they are time consuming .use binary numbers 
+concept. there was question like * represent +,/ represents - and so on .there were around 
+3 questions .evaluate expression as 
+3/4+6.... 
+ 
+4:COMPUTER FUNDAMENTAL 
+10 questions.They asked the output of small C language command .2 questions were on 
+UNIx commands some question 
+were on SQL. 
+This was all about aptitude. 
+
+For More Placement Papers visit www.123eng.com 
+www.123eng.com
+ Engineering the Engineers 
+Submit your resume to cvs@123eng.com 
+Chat with other engineers at www.123eng.com/forum
+ 
+Page 92 of 98 
+Then they told us to write an essay on "Money brings irresponsibility".they gave us 15 
+minutes. 
+try to make it impressive..they may ask question on essay like why do you think so.. 
+try to get above 35 in apti..Apti started round 9:30.results were out till 12:30. 
+ 
+ROUND 2: 
+We were having only one interview ti+pi. 
+my interview was at 4'O clock in afternoon.here r some questions: 
+Tell me about yourself. 
+what is cursor,accelerator in C. 
+what is data structure. 
+what is pointer. 
+he asked me to solve 2 problems on work-time . 
+if 75 men require 30 days how many 25 will require .both were from R.S.AGARWAL. 
+some unix  commands . 
+your favourite subject.why. 
+r u interested in having higher studies 
+if you r offered job by ORACLE n IBM at the same time ,which 1 will u select.why. 
+ 
+JUST BE YOURSELF !dont give any fake answer .they may pull your leg on that point. 
+Be cool! maintain eye-contact and KEEP SMILING .believe me,this works !!even if u r 
+not able to ans any question , dont be tensed ,just tell him that u dont know it. 
+This was first time i cleared my apti..n..i got selected!I was benefited by this site.So i 
+contributed my paper. 
+Thanks to all those who have contributed earlier. 
+ 
+IBM PAPER ON 17th MARCH 
+At last! Oh I haven’t introduced myself --- Anjan Goswami (IT, 3rd year, B Tech) 
+kalyani govt Engg College (K.G.E.C). Whenever I was reading this page I have always 
+thought when will I be able to write at this column & yes it was 17th march 2007 when I 
+got selected in IBM, BIG BLUE. I would like to express my interview experience as I 
+think it maybe useful to them who have the same dream to be an IBM’er just I had.    
+I was one among the lucky students of K.G.E.C & now I am giving the details: if 
+interested read till last else skip.    
+Appeared for Written: almost 170 
+Cleared written: 68 
+Selected: 39    
+
+For More Placement Papers visit www.123eng.com 
+www.123eng.com
+ Engineering the Engineers 
+Submit your resume to cvs@123eng.com 
+Chat with other engineers at www.123eng.com/forum
+ 
+Page 93 of 98 
+Initially they informed us that they are going to conduct GD but at last they haven’t but 
+remember guys they have just started the GD tradition in on campus interview 
+processes.    
+1. Written test (Meritrac): 55 qs to be answered within one Hour & an essay to be 
+written within 10 mins. (in our group essay topic was “chances of India in winning world 
+cup”)    
+For aptitude test, paper was easy but time consuming if u r not fast, there also exist 
+overall cutoff (in our case it was 30+) & sectional cutoffs for only CSE, IT, MCA , 
+MTECH students so consistency in each section is required.    
+Section 1: English aptitude(article preposition, RC, Synonyms) 
+Section 2: quantitative aptitude 
+Section 3: analytical ability 
+Section 4: computer section    
+For quantitative aptitude & analytical ability I will suggest to solve RS AGGARWAL 
+(both) specially venn dia, mathematical operations, puzzle test, data sufficiency, binary 
+conversion, direction test,time distance speed, profit loss, percentage problems. & for 
+technical qs from Unix, DBMS, C etc    
+Sorry guys I cant provide u the details of written paper as I was then busy in solving 
+them.    
+2. Interview: (my interview was mainly HR basis & it was at least 30 min long)    
+Before announcing results the told us to gather in a room. One of them failed to find the 
+room so I asked him “can I help u sir? He queried I answered then he asked my name 
+after asking whether I am a candidate or not? & said I cleared the written!”. As I have 
+scored too well in written (here I utilized my time management) so I was the first one 
+who went to face technical + HR interview just after the fillup of forms so I didn’t get 
+any time to prepare myself mentally & even to make myself fresh!    
+Me: may I come in? 
+Ibm: yes (actually it was a 3 member panel- mr arijit, mr indrajeet, ms dola- she was also 
+a pass out senior of our college) 
+Me: good afternoon sir, good afternoon mam. (I am still in doubt whether I have greeted 
+them by saying good afternoon or good morning! ) 
+Ibm: please be sitted. Thank u. they carefully observed my CV & other documents & ask 
+to tell me somethibg abt myself. 
+Me: answered just like a river 
+Ibm: anjan u hav told that ur aim is get a challenging job & adding value in IBM. Please 
+clarify? 
+Me: answered (think they were satisfied) 
+
+For More Placement Papers visit www.123eng.com 
+www.123eng.com
+ Engineering the Engineers 
+Submit your resume to cvs@123eng.com 
+Chat with other engineers at www.123eng.com/forum
+ 
+Page 94 of 98 
+Ibm: but every job isn’t challenging? 
+Me: I will make it challenging. (With full confi ) 
+Ibm: what do u want to achieve & how can it will be possible in IBM 
+Me: answered (just conveyed their motto & what ibm offers , listened in ppt) 
+Ibm: u have told abt ur strengths. What are they Where u have used it & how IBM will be 
+benefited from this? 
+Me: explained. 
+Ibm: what kind of difficulties u have faced while organizing college fest? 
+Me: answered    
+Now the madam started. 
+Ibm: u have told datastructure abt ur fav subject. Can I ask some qs from it. 
+Me: yes why not. 
+Ibm: what is datastructure, examples , diff bet Stack & Queue explain it. Represent stack 
+by linked list, write the insertion routine by dynamic allocation technique. 
+Me: answered confidently & correctly 
+Ibm: whats abt C? 
+Me: I informed her that this is my fav subject but as C is a prog lang that’s why I have 
+mentioned datastructure. 
+Ibm: why we use main? Why not multiple mains? If main is not declared what will 
+happen? 
+Me: compiler will raise an error message. 
+Ibm: what kind of error message? 
+Me: I don’t know exactly but I think it will say main function not defined/found.    
+Again HR continued    
+Ibm: initially u will be trained in kolkata then Chennai. Any problem 
+Me: no sir I am relocatable any where in the globe. 
+Ibm: suppose clients are demanding a work in 24 hrs but it require 48 hrs ur approach as 
+team leader? 
+Me: just conveyed for “customer satisfaction” I have to make it (initially strategy, tem 
+building & pulling out best from them) 
+Ibm: as u have completed ur portion but ur peers are facing same problem.do u go for 
+amusements? NO so what will u do? 
+Me: as I am also bearing the risk of IBM so I will stay to assist my collegues & for this 
+reason I can sacrifice. (I was 100 % confident that my 
+answer really satisfied them) 
+Ibm: u told that ur hobbies are listening to music & singing. What kind of music u like to 
+listen. What are the diff types of music explain when u listen them. If I give u an option 
+to choose a particular type which one will u choose & why? 
+Me: answered. 
+Ibm: anjan would u like to sing some lines for us? 
+Me: I said why not. Sir do i have the permission to sing any hindi song & sang “koi hero 
+ehaan koi zero ehaan koi bhi star hai koi bekar hai....(pkir bhi dil hai hindustani)” 
+Ibm: all of them smiled (for the first time I saw them to smile with me) & said its really 
+
+For More Placement Papers visit www.123eng.com 
+www.123eng.com
+ Engineering the Engineers 
+Submit your resume to cvs@123eng.com 
+Chat with other engineers at www.123eng.com/forum
+ 
+Page 95 of 98 
+very nice to meet u. 
+Me: I smiled & greeted all of them & said “hope we will meet soon”(for this god damn 
+line that I had spoken there I was tensed till the result haven’t arrived) 
+Ibm: yes definitely we will disclose the result after 8 pm.    
+That’s all Guys.lastly they offered us their T shirts IBM persons are really friendly u cant 
+imagine their politeness & their behavior. IBM seeks students who have DEDICATION, 
+INNOVATION, and TRUST. They require team workers so try to deliver your best cause 
+my this kind of strengths have helped me a lot. BEST OF LUCK & hope “WE WILL 
+MEET SOON in IBM”    
+Special thanks to all the team members who are associated with this website & constantly 
+trying to help us. Hats of genius.    
+IBM PAPER ON 16th MARCH AT AHMEDABAD 
+Hi every body, I got selected in IBM on 16th march 
+ i want 2 share my exprience wit u.my aptitude test started on 10.15am there where 4 
+section in that 1st foenglish;2nd for analytical abilities,then attention department;then last 
+& 4th section was on computer basic knowladge.the test was easy &we are also provided 
+with the eassy paper to write eassy on 1out of 10 topic in 500 words.then result displayed 
+in 2 hr. 
+after cracking the apti we where suppose 2 attend interview  
+in interview  
+Sir,1stly saw my resum my all my % given in resum. 
+then ask me question that whet r ur qualities so that we should selectu in  IBM? 
+Then i replied as my self confidence,disipline!! 
+then they crosses lot on my of confidence 
+i replied them all time confidently 
+then they ask me abt my knowladge abt C,C++ 
+but i truely told them that im not perfect in c&c++ 
+then they ask me abt me extra activities other than studies 
+then replied them con fidently my ans then they told me 2 explain my paper presented in 
+pune 
+i explain all things to them 
+then they ask me abt my family background & all the common things????  
+at last mw interview come 2 end in 20min i was little confident abt my selection & same 
+thing happen I GOT SELECTED  
+
+For More Placement Papers visit www.123eng.com 
+www.123eng.com
+ Engineering the Engineers 
+Submit your resume to cvs@123eng.com 
+Chat with other engineers at www.123eng.com/forum
+ 
+Page 96 of 98 
+just i wan 2 tell u that be confident at time of interview in IBM give all correct 
+information to the sir taking interview u will select in IBM. 
+they are there 2 select u nt 2 reject  
+IBM PAPER ON 23rd FEBRUARY  
+  
+Hi every body, I got selected in IBM on 23rd.  
+I want to share my experiences with you. During the aptitude exam we had very less time. 
+So time management is an imp factor. The apti consisted of 4 sections. The 1st was 
+English reading & Comprehension ability test. There were prepositions which were quite 
+dicey and articles. Then there was a comprehension passage on 2D & 3D CAD design. 
+The second part consisted of numerical & logical ability in which there were questions on 
+number, time ranking test from RS Agarwal, set theory, Binary, Blood relations and few 
+problems which were very easy. 3rd part was attention ability test. Questions were from 
+decision making, mathematical operations i.e. if + stands for *, / for - etc. Fourth part was 
+on Computer fundamentals. Those who are from IT/CSE have an added advantage here, 
+but as I’m from ECE I had a bit of problem. I played a bit of tic tac toe here as there was 
+no negative marking. Guess I was a bit lucky here. It might sound easy but remember we 
+were running short of time and cut off per section was very high about 50-60%. 
+   
+Interview Questions: 
+   
+1. Where is your résumé? Sir invigilator stapled it with my ans sheet.  
+2. Introduce yourself.  
+3. Why do you want to switch to S/W industry? More opportunities.  
+4. Write a program in C to sort a list of numbers in descending order.  
+5. What is static & dynamic logic?  
+6. Differentiate b/w analog & digital communication.  
+7. What’s Bi-CMOS?  
+8. Why do you think we should recruit you?  
+9. Which is the last book that you have read?  
+10.  Tell me something about the book?  
+11. Which is your preferred location?  
+12. Are you ready to relocate?  
+13. Do you have any questions for us? 
+By, 
+Ruchira Kar 
+
+For More Placement Papers visit www.123eng.com 
+www.123eng.com
+ Engineering the Engineers 
+Submit your resume to cvs@123eng.com 
+Chat with other engineers at www.123eng.com/forum
+ 
+Page 97 of 98 
+ 
+ 
+IBM PAPER ON 15th FEBRUARY AT HYDERABAD 
+Hey Friends , Here `s my experience for the IBM 
+ROUND 1 
+It consisted of 4 sections :  
+Section 1  Verbal :  
+This section contains only 10 ques: out of which 5 are to be solved from a 
+passage....( approx 100 words ) Try to do at last The  remaining 5 ques will be based on 
+Preposition or sentence completion  
+Section 2 : Aptitude : 
+It consisted of 25 ques :: Ques on binary conversion were there :  
+If $ represents 1 and * represents 0  , then evaluate , $$$+$**-$*$ 
+ Ques based on Probability 
+Ques baseed on If 10 can speak Hindi and Eng , 20 can speak hindi and Telegu , 25 can 
+speak Telugu and Bengali ..Find how many can speak only HInd   
+Section 3 :: Attention To Detail ( 10 Ques ) 
+Find are these alike or not 
+XXXLUJIJK , XXXLUJIJK , XXXLUJJIK 
+Be carefull for these ques as person in a hurry tend to do these scoring ques wrong  
+Section 4 Computers and Fundamentals ( 10 Ques) 
+Small C prog will be given and tell its output 
+Ques on ER Diagram 
+Ques on chmod 755 
+some more on Unix and DBMS 
+Out of 55 ques , try at least 35 ques should be correc  
+ROUND  2 
+After that they Called for Tech Interview and in that they will ask from ur Project if u r 
+an experienced candidate .. otherwise they will stick to ur basics  
+ROUND 3  HR 
+Tell abt urself which is not mentioned in ur resume 
+Why IBM ? 
+Sell urself , Why should we recruit you when so many candidates are ther 
+
+For More Placement Papers visit www.123eng.com 
+www.123eng.com
+ Engineering the Engineers 
+Submit your resume to cvs@123eng.com 
+Chat with other engineers at www.123eng.com/forum
+ 
+Page 98 of 98 
+Why do u wanna leave ur previous company ? ? 
+Dont mention any negative comments abt ur previous company 
+What do u expect from IBM ? 
+List all 48 subjects throughout ur engg ? ? 
+Tell any three good things abt ur college .. 
+They will ask u abt relocation .........Initially say anywhere through out the globe and u 
+can speak ur prefernce once u smell the victory  
+Try to be cool and maintain a proper eye contact wth the interviewer with smile on ur 
+face.. SO finally out of 1000 candidates , 272 quallified the first hurrdle and finally 100 
+got selected ..  
+ 

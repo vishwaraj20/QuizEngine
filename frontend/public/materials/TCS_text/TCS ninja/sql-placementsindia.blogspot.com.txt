@@ -1,0 +1,384 @@
+
+
+     http://placementsindia.blogspot.com 
+ make the most out of it 
+ 
+1
+SQL 
+ 
+1.    Which  is  the  subset  of  SQL  commands  used  to  manipulate  Oracle  Database  
+structures, including tables? 
+Data Definition Language (DDL) 
+ 
+2. What operator performs pattern matching? 
+LIKE operator 
+ 
+3. What operator tests column for the absence of data? 
+IS NULL operator 
+ 
+4. Which command executes the contents of a specified file? 
+  START <filename> or @<filename> 
+ 
+5. What is the parameter substitution symbol used with INSERT INTO command? 
+  & 
+ 
+6. Which command displays the SQL command in the SQL buffer, and then executes 
+it? 
+  RUN 
+ 
+7. What are the wildcards used for pattern matching? 
+  _ for single character substitution and % for multi-character substitution 
+ 
+8. State true or false. EXISTS, SOME, ANY are operators in SQL. 
+  True 
+ 
+9. State true or false. !=, <>, ^= all denote the same operation. 
+  True 
+ 
+10. What are the privileges that can be granted on a table by a user to others? 
+ Insert, update, delete, select, references, index, execute, alter, all 
+ 
+11. What  command  is  used  to  get  back  the  privileges  offered  by  the  GRANT  
+command? 
+  REVOKE 
+ 
+12. Which  system  tables  contain  information  on  privileges  granted  and  privileges  
+obtained? 
+  USER_TAB_PRIVS_MADE, USER_TAB_PRIVS_RECD 
+ 
+13. Which system table contains information on constraints on all the tables created? 
+  USER_CONSTRAINTS 
+ 
+
+     http://placementsindia.blogspot.com 
+ make the most out of it 
+ 
+2
+14.       TRUNCATE TABLE EMP; 
+DELETE FROM EMP; 
+Will the outputs of the above two commands differ? 
+  Both will result in deleting all the rows in the table EMP. 
+ 
+15. What is the difference between TRUNCATE and DELETE commands? 
+   TRUNCATE  is  a  DDL  command  whereas  DELETE  is  a  DML  command.  
+Hence  DELETE  operation  can  be  rolled  back,  but  TRUNCATE  operation  cannot  be  
+rolled back. WHERE clause can be used with DELETE and not with TRUNCATE. 
+ 
+16. What  command  is  used  to  create  a  table  by  copying  the  structure  of  another  
+table? 
+Answer : 
+  CREATE TABLE .. AS SELECT command 
+Explanation :  
+To  copy  only  the  structure,  the  WHERE  clause  of  the  SELECT  command  
+should contain a FALSE statement as in the following. 
+CREATE  TABLE  NEWTABLE  AS  SELECT  *  FROM  EXISTINGTABLE  
+WHERE 1=2; 
+If  the  WHERE  condition  is  true,  then  all  the  rows  or  rows  satisfying  the  
+condition will be copied to the new table. 
+ 
+17. What will be the output of the following query? 
+SELECT  REPLACE(TRANSLATE(LTRIM(RTRIM('!!  ATHEN  !!','!'),  '!'),  
+'AN', '**'),'*','TROUBLE') FROM DUAL; 
+  TROUBLETHETROUBLE 
+ 
+18. What will be the output of the following query? 
+SELECT  DECODE(TRANSLATE('A','1234567890','1111111111'), '1','YES', 'NO' ); 
+Answer : 
+  NO 
+Explanation :  
+The query checks whether a given string is a numerical digit. 
+ 
+19. What does the following query do? 
+SELECT SAL + NVL(COMM,0) FROM EMP; 
+   This  displays  the  total  salary  of  all  employees.  The  null  values  in  the  
+commission column will be replaced by 0 and added to salary. 
+ 
+ 
+20. Which date function is used to find the difference between two dates? 
+  MONTHS_BETWEEN 
+ 
+21. Why does the following command give a compilation error? 
+DROP TABLE &TABLE_NAME; 
+
+     http://placementsindia.blogspot.com 
+ make the most out of it 
+ 
+3
+  Variable names should start with an alphabet. Here the table name starts with 
+an '&' symbol. 
+ 
+22. What  is  the  advantage  of  specifying  WITH  GRANT  OPTION  in  the  GRANT  
+command? 
+   The  privilege  receiver  can  further  grant  the  privileges  he/she  has  obtained  
+from the owner to any other user. 
+ 
+23. What is the use of the DROP option in the ALTER TABLE command? 
+  It is used to drop constraints specified on the table. 
+ 
+24. What  is  the  value  of  ‘comm’  and  ‘sal’  after  executing  the  following  query  if  the  
+initial value of ‘sal’ is 10000? 
+UPDATE EMP SET SAL = SAL + 1000, COMM = SAL*0.1; 
+  sal = 11000, comm = 1000 
+ 
+25. What is the use of DESC in SQL? 
+Answer : 
+  DESC has two purposes. It is used to describe a schema as well as to retrieve 
+rows from table in descending order. 
+Explanation :  
+The query SELECT * FROM EMP ORDER BY ENAME DESC will display 
+the output sorted on ENAME in descending order. 
+ 
+26. What is the use of CASCADE CONSTRAINTS? 
+   When  this  clause  is  used  with  the  DROP  command,  a  parent  table  can  be  
+dropped even when a child table exists.  
+ 
+27. Which function is used to find the largest integer less than or equal to a specific 
+value? 
+  FLOOR 
+ 
+28. What is the output of the following query? 
+SELECT TRUNC(1234.5678,-2) FROM DUAL; 
+  1200 
+ 
+ 
+ 
+ 
+ 
+ 
+SQL – QUERIES 
+ 
+I. SCHEMAS  
+ 
+Table 1 : STUDIES 
+
+     http://placementsindia.blogspot.com 
+ make the most out of it 
+ 
+4
+ 
+PNAME  (VARCHAR),  SPLACE (VARCHAR),  COURSE (VARCHAR),  CCOST 
+(NUMBER) 
+ 
+Table 2 : SOFTWARE 
+ 
+PNAME   (VARCHAR),   TITLE   (VARCHAR),   DEVIN   (VARCHAR),   SCOST   
+(NUMBER), DCOST (NUMBER), SOLD (NUMBER) 
+ 
+Table 3 : PROGRAMMER 
+ 
+PNAME   (VARCHAR),   DOB   (DATE),   DOJ   (DATE),   SEX   (CHAR),   PROF1   
+(VARCHAR), PROF2 (VARCHAR), SAL (NUMBER) 
+ 
+LEGEND : 
+ 
+PNAME  –  Programmer  Name,  SPLACE  –  Study  Place,  CCOST  –  Course  Cost,    
+DEVIN  –  Developed  in,  SCOST  –  Software  Cost,  DCOST  –  Development  Cost,  
+PROF1 – Proficiency 1  
+ 
+QUERIES : 
+ 
+1. Find out the selling cost average for packages developed in Oracle. 
+2. Display the names, ages and experience of all programmers. 
+3. Display the names of those who have done the PGDCA course. 
+4. What is the highest number of copies sold by a package? 
+5. Display the names and date of birth of all programmers born in April. 
+6. Display the lowest course fee. 
+7. How many programmers have done the DCA course. 
+8. How  much  revenue  has  been  earned  through  the  sale  of  packages  developed  
+in C. 
+9. Display the details of software developed by Rakesh. 
+10. How many programmers studied at Pentafour. 
+11. Display the details of packages whose sales crossed the 5000 mark. 
+12. Find  out  the  number  of  copies  which  should  be  sold  in  order  to  recover  the  
+development cost of each package. 
+13. Display  the  details  of  packages  for  which  the  development  cost  has  been  
+recovered. 
+14. What is the price of costliest software developed in VB? 
+15. How many packages were developed in Oracle ? 
+16. How many programmers studied at PRAGATHI? 
+17. How many programmers paid 10000 to 15000 for the course? 
+18. What is the average course fee? 
+19. Display the details of programmers knowing C. 
+20. How many programmers know either C or Pascal? 
+21. How many programmers don’t know C and C++? 
+
+     http://placementsindia.blogspot.com 
+ make the most out of it 
+ 
+5
+22. How old is the oldest male programmer? 
+23. What is the average age of female programmers? 
+24. Calculate  the  experience  in  years  for  each  programmer  and  display  along  
+with their names in descending order. 
+25. Who  are  the  programmers  who  celebrate  their  birthdays  during  the  current  
+month? 
+26. How many female programmers are there? 
+27. What are the languages known by the male programmers? 
+28. What is the average salary? 
+29. How many people draw 5000 to 7500? 
+30. Display the details of those who don’t know C, C++ or Pascal. 
+31. Display the costliest package developed by each programmer. 
+32. Produce the following output for all the male programmers 
+Programmer 
+      Mr. Arvind – has 15 years of experience 
+ 
+KEYS: 
+ 
+1. SELECT    AVG(SCOST)        FROM    SOFTWARE    WHERE    DEVIN    =    
+'ORACLE'; 
+2. SELECT       PNAME,TRUNC(MONTHS_BETWEEN(SYSDATE,DOB)/12)       
+"AGE",                         TRUNC(MONTHS_BETWEEN(SYSDATE,DOJ)/12) 
+"EXPERIENCE" FROM PROGRAMMER; 
+3. SELECT PNAME FROM STUDIES WHERE COURSE = 'PGDCA'; 
+4. SELECT MAX(SOLD) FROM SOFTWARE; 
+5. SELECT  PNAME,  DOB  FROM  PROGRAMMER  WHERE  DOB  LIKE  
+'%APR%'; 
+6. SELECT MIN(CCOST) FROM STUDIES; 
+7. SELECT COUNT(*) FROM STUDIES WHERE COURSE = 'DCA'; 
+8. SELECT  SUM(SCOST*SOLD-DCOST)  FROM  SOFTWARE  GROUP  BY  
+DEVIN HAVING DEVIN = 'C'; 
+9. SELECT * FROM SOFTWARE WHERE PNAME = 'RAKESH'; 
+10. SELECT * FROM STUDIES WHERE SPLACE = 'PENTAFOUR'; 
+11. SELECT * FROM SOFTWARE WHERE SCOST*SOLD-DCOST > 5000; 
+12. SELECT CEIL(DCOST/SCOST) FROM SOFTWARE; 
+13. SELECT * FROM SOFTWARE WHERE SCOST*SOLD >= DCOST; 
+14. SELECT    MAX(SCOST)    FROM    SOFTWARE    GROUP    BY    DEVIN    
+HAVING DEVIN = 'VB'; 
+15. SELECT COUNT(*) FROM SOFTWARE WHERE DEVIN = 'ORACLE'; 
+16. SELECT COUNT(*) FROM STUDIES WHERE SPLACE = 'PRAGATHI'; 
+17. SELECT  COUNT(*)  FROM  STUDIES  WHERE  CCOST  BETWEEN  10000  
+AND 15000; 
+18. SELECT AVG(CCOST) FROM STUDIES; 
+19. SELECT * FROM PROGRAMMER WHERE PROF1 = 'C' OR PROF2 = 'C'; 
+20. SELECT * FROM PROGRAMMER WHERE PROF1 IN ('C','PASCAL') OR 
+PROF2 IN ('C','PASCAL'); 
+
+     http://placementsindia.blogspot.com 
+ make the most out of it 
+ 
+6
+21. SELECT  *  FROM  PROGRAMMER  WHERE  PROF1  NOT  IN  ('C','C++')  
+AND PROF2 NOT IN ('C','C++'); 
+22. SELECT          TRUNC(MAX(MONTHS_BETWEEN(SYSDATE,DOB)/12))          
+FROM PROGRAMMER WHERE SEX = 'M'; 
+23. SELECT           TRUNC(AVG(MONTHS_BETWEEN(SYSDATE,DOB)/12)) 
+FROM PROGRAMMER WHERE SEX = 'F'; 
+24. SELECT    PNAME,    TRUNC(MONTHS_BETWEEN(SYSDATE,DOJ)/12) 
+FROM PROGRAMMER ORDER BY PNAME DESC; 
+25. SELECT           PNAME           FROM           PROGRAMMER           WHERE           
+TO_CHAR(DOB,'MON') = TO_CHAR(SYSDATE,'MON'); 
+26. SELECT COUNT(*) FROM PROGRAMMER WHERE SEX = 'F'; 
+27. SELECT DISTINCT(PROF1) FROM PROGRAMMER WHERE SEX = 'M'; 
+28. SELECT AVG(SAL) FROM PROGRAMMER; 
+29. SELECT  COUNT(*)  FROM  PROGRAMMER  WHERE  SAL  BETWEEN  
+5000 AND 7500; 
+30. SELECT    *    FROM    PROGRAMMER    WHERE    PROF1    NOT    IN    
+('C','C++','PASCAL') AND PROF2 NOT IN ('C','C++','PASCAL'); 
+31. SELECT  PNAME,TITLE,SCOST  FROM  SOFTWARE  WHERE  SCOST  IN  
+(SELECT MAX(SCOST) FROM SOFTWARE GROUP BY PNAME); 
+32.SELECT         'Mr.'         ||         PNAME         ||         '         -         has         '         ||         
+TRUNC(MONTHS_BETWEEN(SYSDATE,DOJ)/12) || ' years of experience' 
+“Programmer”   FROM   PROGRAMMER   WHERE   SEX   =   'M'   UNION   
+SELECT  'Ms.'  ||  PNAME  ||  '  -  has  '  ||  TRUNC  (MONTHS_BETWEEN  
+(SYSDATE,DOJ)/12)      ||   '   years   of   experience'   “Programmer”   FROM   
+PROGRAMMER WHERE SEX = 'F'; 
+ 
+ 
+ 
+II . SCHEMA : 
+ 
+Table 1 : DEPT  
+ 
+DEPTNO (NOT NULL , NUMBER(2)),  DNAME (VARCHAR2(14)),  
+LOC (VARCHAR2(13) 
+ 
+Table 2 : EMP 
+ 
+EMPNO (NOT NULL , NUMBER(4)), ENAME (VARCHAR2(10)),  
+JOB (VARCHAR2(9)), MGR (NUMBER(4)), HIREDATE (DATE),  
+SAL (NUMBER(7,2)), COMM (NUMBER(7,2)), DEPTNO (NUMBER(2)) 
+ 
+MGR  is  the  empno  of  the  employee  whom  the  employee  reports  to.  DEPTNO  is  a  
+foreign key. 
+QUERIES 
+ 
+1. List all the employees who have at least one person reporting to them. 
+
+     http://placementsindia.blogspot.com 
+ make the most out of it 
+ 
+7
+2. List  the  employee  details  if  and  only  if  more  than  10  employees  are  present  in  
+department no 10. 
+3. List the name of the employees with their immediate higher authority. 
+4. List all the employees who do not manage any one. 
+5. List  the  employee  details  whose  salary  is  greater  than  the  lowest  salary  of  an  
+employee belonging to deptno 20. 
+6. List the details of the employee earning more than the highest paid manager. 
+7. List the highest salary paid for each job. 
+8. Find the most recently hired employee in each department. 
+9. In  which  year  did  most  people  join  the  company?  Display  the  year  and  the  
+number of employees. 
+10. Which department has the highest annual remuneration bill? 
+11. Write  a  query  to  display  a  ‘*’  against  the  row  of  the  most  recently  hired  
+employee. 
+12. Write  a  correlated  sub-query  to  list  out  the  employees  who  earn  more  than  the  
+average salary of their department. 
+13. Find the nth maximum salary. 
+14. Select  the  duplicate  records  (Records,  which  are  inserted,  that  already  exist)  in  
+the EMP table. 
+15. Write  a  query  to  list  the  length  of  service  of  the  employees  (of  the  form  n  years  
+and m months). 
+ 
+KEYS: 
+ 
+1. SELECT DISTINCT(A.ENAME) FROM EMP A, EMP B WHERE A.EMPNO = 
+B.MGR;   or  SELECT ENAME FROM EMP WHERE EMPNO IN (SELECT MGR 
+FROM EMP); 
+2. SELECT * FROM EMP WHERE DEPTNO IN (SELECT DEPTNO FROM EMP 
+GROUP BY DEPTNO HAVING COUNT(EMPNO)>10 AND DEPTNO=10); 
+3. SELECT A.ENAME "EMPLOYEE", B.ENAME "REPORTS TO" FROM EMP 
+A, EMP B WHERE A.MGR=B.EMPNO; 
+4. SELECT * FROM EMP WHERE EMPNO IN ( SELECT EMPNO FROM EMP 
+MINUS SELECT MGR FROM EMP); 
+5. SELECT * FROM EMP WHERE SAL > ( SELECT MIN(SAL) FROM EMP 
+GROUP BY DEPTNO HAVING DEPTNO=20); 
+6. SELECT * FROM EMP WHERE SAL > ( SELECT MAX(SAL) FROM EMP 
+GROUP BY JOB HAVING JOB = 'MANAGER' ); 
+7. SELECT JOB, MAX(SAL) FROM EMP GROUP BY JOB; 
+8. SELECT * FROM EMP WHERE (DEPTNO, HIREDATE) IN (SELECT 
+DEPTNO, MAX(HIREDATE) FROM EMP GROUP BY DEPTNO); 
+9. SELECT TO_CHAR(HIREDATE,'YYYY') "YEAR", COUNT(EMPNO) "NO. 
+OF EMPLOYEES" FROM EMP GROUP BY TO_CHAR(HIREDATE,'YYYY') 
+HAVING COUNT(EMPNO) = (SELECT MAX(COUNT(EMPNO)) FROM EMP 
+GROUP BY TO_CHAR(HIREDATE,'YYYY')); 
+10. SELECT DEPTNO, LPAD(SUM(12*(SAL+NVL(COMM,0))),15) 
+"COMPENSATION" FROM EMP GROUP BY DEPTNO HAVING SUM( 
+
+     http://placementsindia.blogspot.com 
+ make the most out of it 
+ 
+8
+12*(SAL+NVL(COMM,0))) = (SELECT MAX(SUM(12*(SAL+NVL(COMM,0)))) 
+FROM EMP GROUP BY DEPTNO); 
+11. SELECT ENAME, HIREDATE, LPAD('*',8) "RECENTLY HIRED" FROM 
+EMP WHERE HIREDATE = (SELECT MAX(HIREDATE) FROM EMP) UNION 
+SELECT ENAME NAME, HIREDATE, LPAD(' ',15) "RECENTLY HIRED" FROM 
+EMP WHERE HIREDATE != (SELECT MAX(HIREDATE) FROM EMP); 
+12. SELECT ENAME,SAL FROM EMP E WHERE SAL > (SELECT AVG(SAL) 
+FROM EMP F WHERE E.DEPTNO = F.DEPTNO); 
+13. SELECT ENAME, SAL FROM EMP A WHERE &N = (SELECT COUNT 
+(DISTINCT(SAL)) FROM EMP B WHERE A.SAL<=B.SAL); 
+14. SELECT * FROM EMP A WHERE A.EMPNO IN (SELECT EMPNO FROM 
+EMP GROUP BY EMPNO HAVING COUNT(EMPNO)>1) AND A.ROWID!=MIN 
+(ROWID)); 
+15. SELECT ENAME 
+"EMPLOYEE",TO_CHAR(TRUNC(MONTHS_BETWEEN(SYSDATE,HIREDAT
+E)/12))||' YEARS '|| TO_CHAR(TRUNC(MOD(MONTHS_BETWEEN (SYSDATE, 
+HIREDATE),12)))||' MONTHS ' "LENGTH OF SERVICE" FROM EMP; 
+
+     http://placementsindia.blogspot.com 
+ make the most out of it 
+ 
+9
+ 

@@ -1,0 +1,78 @@
+
+
+TEST CODE	: TCS Ninja - Coding_4
+
+Total number of question	: 1
+
+Test duration (min)	: 20 min
+
+Correct attempt (mark)	: NA
+
+Wrong attempt (mark)	: NA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CODING
+
+
+
+Write a program to find the Factorial of the given number
+
+
+
+#include <stdio.h>
+
+int main()
+
+{
+
+    long int fact=1;
+
+ int i,num;
+
+ //printf("\nPlease enter a number to find factorial : ");
+
+ scanf("%d",&num);
+
+
+
+ if (num<0)
+
+ {
+
+  //printf("\nPlease enter a positive number to");
+
+  return 1;
+
+ }
+
+ for(i=1;i<=num;i++)
+
+ {
+
+ 	fact=fact*i;
+
+ }
+
+ printf("%ld\n",fact);
+
+ return 0;
+
+}
+

@@ -1,0 +1,237 @@
+
+
+Visit www.downloadmela.com for more papers
+2005-2008 Placement
+Papers
+2010 Placement Papers2011 Placement Papers2009 Placement Papers
+hii...
+my name is prakash ranjan.Im from Kalyani Govt. Engg. College..
+TCS come in my college on 7th jan 2011. i want share some of my
+experience with all of u....
+At first we have a aptitude test of 80 min.Its online.I just give u some
+tricks of some problems asked in aptitude...
+1. There are two water tanks A and B, A is much smaller than B. While
+water fills at the rate of 1 liter every hour in A, it gets filled up
+like, 10, 20, 40, 80, 160 in tank B. (At the end of first hour, B has 10
+liters, second hour it has 20 liters and so on). If tank B is 1/32
+filled of the 21 hours, what is total duration of hours required to fill
+it completely?
+ans.-here part filled is 1/32 then 1/32=1/(2)^5. so ans is 21+5. 
+2. 6 persons standing in queue with different age group, after two years
+their average age will be 43 and seventh person joined with them. Hence
+the current average age has become 45. Find the age of seventh person?
+ans.-Total age of 6 persons is x hours,after two years total age of 6
+persons is x+12
+Average age of 6 persons is after two years is 43
+So (x+12)/6=43,then x=246
+After 7th person is added then (246+7th person age)/7=45
+7th person age = 69
+3. One statement problem-in this problem if
+atleast all statement are true - first part true and last part false
+exactly all statement are true - second part true rest is false
+atmost all statement are true - all are false.
+4. The hare starts after the tortoise has covered 1/5 of its distance
+and that too leisurely3. A hare and a tortoise have a race along a
+circle of 100 yards diameter. The tortoise goes in one direction and
+the. The hare and tortoise meet when the hare has covered only 1/8 of
+the distance. By what factor should the hare increase its speed so as to
+tie the race?
+in this problem atfirst find the ratio of the distance left to cover the
+turtle and distance by the hare. means-(87.5-20)/12.5=5.4
+and then 87.5/12.5=7
+and multiply these two 5.4*7=37.8
+5. alok and Bhanu play the following min-max game. Given the expression
+N = 9 + X + Y - Z
+Where X, Y and Z are variables representing single digits (0 to 9), Alok
+would like to maximize N while Bhanu
+would like to minimize it. Towards this end, Alok chooses a single digit
+number and Bhanu substitutes this for a variable of her choice (X, Y or
+Z). Alok then chooses the next value and Bhanu, the variable to
+substitute the value. Finally Alok proposes the value for the remaining
+
+Visit www.downloadmela.com for more papers
+2005-2008 Placement
+Papers
+2010 Placement Papers2011 Placement Papers2009 Placement Papers
+variable. Assuming both play to their optimal strategies, the value of N
+at the end of the game would be.
+ans.- in this problem there is 3 patern 1st X+Y-Z=11
+X*Y-Z=18
+X-Y-Z=2 u just add the to the no given.
+6.- For the FIFA world cup, Paul the octopus has been predicting the
+winner of each match with amazing success. It is rumored that in a match
+between 2 teams A and B, Paul picks A with the same probability as A's
+chances of winning. Let's assume such rumors to be true and that in a
+match between Ghana and Bolivia, Ghana the stronger team has a
+probability of 2/3 of winning the game. What is the probability that
+Paul will correctly pick the winner of the Ghana-Bolivia game?
+ans.- hare the answer is - 2/3*2/3+1/3*1/3=5/9
+7.-After the typist writes 12 letters and addresses 12 envelopes, she
+inserts the letters randomly into the envelopes (1 letter per envelope).
+What is the probability that exactly 1 letter is inserted in an improper
+envelope?
+ans- 0
+8.-  There are two boxes, one containing 10 red balls and the other
+containing 10 green balls. You are allowed to move the balls between the
+boxes so that when you choose a box at random and a ball at random from
+the chosen box, the probability of getting a red ball is maximized. This
+maximum probability is
+ans.- the tricks is - 1/2*1+(n-1)/(n-1+m)*1/2
+here n is the no. which have to be max. and m is the another no. here m
+is green ball and n is red ball.here ans is 14/19
+9.- A and B play a game of dice between them. The dice consist of colors
+on their faces (instead of numbers). When the dice are thrown, A wins if
+both show the same color; otherwise B wins. One die has 4 red face and 2
+blue faces. How many red and blue faces should the other die have if the
+both players have the same chances of winning?
+ans.- here the ans is 3red and 3 blue.
+10.-  On planet zorba, a solar blast has melted the ice caps on its
+equator. 8 years after the ice melts, tiny plantoids called echina start
+growing on the rocks. echina grows in the form of a circle and the
+relationship between the diameter of this circle and the age of echina
+is given by the formula
+d = 4 * sqrt (t – 8)for t = 8
+Where the represents the diameter in mm and t the number of years since
+the solar blast.
+Jagan recorded the time of some echina at a particular spot is 24 years
+then what is diameter?
+ans- this is the simple problem just put the value of t and find d.
+11.- A circular dartboard of radius 1 foot is at a distance of 20 feet
+
+Visit www.downloadmela.com for more papers
+2005-2008 Placement
+Papers
+2010 Placement Papers2011 Placement Papers2009 Placement Papers
+from you. You throw a dart at it and it
+hits the dartboard at some point Q in the circle. What is the
+probability that Q is closer to the center of the circle than the
+periphery?
+ans.- here the tricks is (n/2)^2/n^2 here n is the radius of circle.
+12.- 36 people {a1, a2, ..., a36} meet and shake hands in a circular
+fashion. In other words, there are totally 36 handshakes involving the
+pairs, {a1, a2}, {a2, a3}, ..., {a35, a36}, {a36, a1}. Then size of the
+smallest set of people such that the rest have shaken hands with at
+least one person in the set is.
+ans.- hare the tricks is if the handshake is circular and given no is
+even-then n/2 if odd then n/3.
+and if hand shake is non circular then n-1.
+13.- Alice and Bob play the following coins-on-a-stack game. 20 coins
+are stacked one above the other. One of them is a special (gold) coin
+and the rest are ordinary coins. The goal is to bring the gold coin to
+the top by repeatedly moving the topmost coin to another position in the
+stack.
+Alice starts and the players take turns. A turn consists of moving the
+coin on the top to a position i below the top coin (0 = i = 20). We will
+call this an i-move (thus a 0-move implies doing nothing). The proviso
+is that an i-move cannot be repeated; for example once a player makes a
+2-move, on subsequent turns neither player can make a 2-move. If the
+gold coin happens to be on top when it's a player's turn then the player
+wins the game. Initially, the gold coinis the third coin from the top.
+ans.- Ans is in order to win, Alice's first move should be a
+1-move.(This is the final ans.)
+ 
+14.- The citizens of planet nigiet are 8 fingered and have thus
+developed their decimal system in base 8. A certain street in nigiet
+contains 1000 (in base 8) buildings numbered 1 to 1000. How many 3s are
+used in numbering these buildings?
+ans.- here the tricks is 8*8+8*8+8*8=192 (here the base is 8)if the base
+is n then n*n+n*n+n*n.
+15.- Six friends decide to share a big cake. Since all of them like the
+cake, they begin quarreling who gets to first cut and have a piece of
+the cake. One friend suggests that they have a blindfold friend choose
+from well shuffled set of cards numbered one to six. You check and find
+that this method works as it should simulating a fair throw of a die.
+You check by performing multiple simultaneous trials of picking the
+cards blindfold and throwing a die. You note that the number shown by
+the method of picking up a card and throwing a real world die, sums to a
+number between 2 and 12. Which total would be likely to appear more
+often – 8,9 or 10?
+a) 8 b) All are equally likely c) 9 d) 10
+
+Visit www.downloadmela.com for more papers
+2005-2008 Placement
+Papers
+2010 Placement Papers2011 Placement Papers2009 Placement Papers
+ans.- here the ans is 8. because 8 comes in 3 types(4+4,5+3,6+2),9 comes
+in 2 types(5+4,6+3),and 10 comes 2 types(5+5,6+4).
+16.- How many of 14 digit numbers we can make with 1,2,3,4,5 that are
+divisible by 4. Repetitions allowed.
+ans.- here ans is 5^(n-1) n is the 14.
+17.- Which is the smallest no which divides 2880 and gives a perfect
+square?
+a) 4 b) 9 c) 3 d) 5
+ans.- 2880/5=576 and 576=24*24.
+18.- 3 persons a,b,c were there A always says truth,B lies on
+Monday,tusday,& Wednesday.but C lies on thrusday,Friday & saturday .one
+day A said”that B & C said to A that” B said “yesterday way one of the
+days when I lies”,C said that”yesterday way one of the days when I lies
+too”.then which day was that?
+ans.- the ans of all  this type is Thursday.
+19.-There 10 programers, type 10 lines with in 10 minutes then 60lines can
+type within 60 minutes. How many programmers are needed?
+ans.- we have 3 question of this type the solution is based on time and
+work.
+20.-amrith told to Anand in front of a Photo that “He is the son of my
+father’s son”.Find who is in the picture if amrith have no brothers and
+sisters.
+ans.- the ans is him means amrith itself.
+21.- In T.Nagar the building were numbered from 1 to 100.Then how many
+4’s will be present in the numbers?
+ans.- Here if the n's is given then ans is 20. n's is from 2 to 9. and
+if 1 is given then ans is 21.
+22.- If a and b are mixed in 3:5 ration and b and c are mixed in 8:5
+ration if the final mixture is 35 liters, find the amount of b?
+ans.- b/(a+b+c)*35.
+23.- If there are 30 cans out of them one is poisoned if a person tastes
+very little he will die within 14 hours so if there are mice to test and
+24 hours to test, how many mices are required to find the poisoned can?
+ans.- 6
+24.- A man whose age is 45 yrs has 3 sons named John, Jill, jack. He
+went to a park weekly twice. He loves his sons very much. On a certain
+day he found the shop keepers selling different things. An apple cost
+1penny, 2chocalate costs 1penny & 3 bananas cost 1 penny. He has bought
+equal number of apple, chocolate & banana for each son. If the total
+amount he invest is 7 penny then how many he has bought from each piece
+for his son?
+
+Visit www.downloadmela.com for more papers
+2005-2008 Placement
+Papers
+2010 Placement Papers2011 Placement Papers2009 Placement Papers
+ans.- 1 apple,2 chocklets,1bananas.simply 1 2 1.
+25.- There are 1000 pillars for a temple. 3 friends Linda, Chelsey, Juli
+visited that temple. (Some unrelated stuff) Linda is taller than Chelsea
+and taller than 2 of 1000 pillars. Julia is shorter than Linda. Find the
+correct sentence?
+ans.-here p>j
+26.-A lady has fine gloves and hats in her closet- 18 blue, 32 red, and
+    25 yellow. The lights are out and it is totally dark. In spite of the
+darkness, she can make out the difference between a hat and a glove. She
+takes out an item out of the closet only if she is sure that if it is a
+glove. How many gloves must she take out to make sure she has a pair of
+each color?
+ans.- Here the tricks is at first take the ball is max. and then take
+second max. no. and 2. here ans is 32+25+2.
+27.- A scientist was researching on animal behavior in his lab. He was
+very interested in analyzing the behavior of bear. For some reason he
+travelled 1mile in north direction & reached at North Pole. There he saw
+a bear. He then followed the bear around 1 hr with a speed of 2km/hr in
+east direction. After that he travelled in south direction & reached at
+his lab in2 hrs. Then what is the color of the bear?
+ans.- ans is white bear.
+Thats all I have attend 34 questions and I just cleared my aptitude test.
+now my interview is on 7th jan.
+I have my interview of about 30 min.
+he just asked every thing from me.
+don't get tensed just give all the answer confidently.
+my HR and technical question is
+1.- Why TCS?
+2.- Whats ur week point and strength.
+3.- What the question u got from the students.
+4.- Draw the circuit diagram of induction motor.
+5.- What is short term and long term sheduling.
+6.- What is the diff. between malti tasking and multithreading.
+7.- Who is the owner of microsoft and linux.
+8.- Proof the equivalant resistance of parellel circuit.
+9.- Name the os which have u used in ur life.
+10.-What is pointer and panildrom.write program.

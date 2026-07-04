@@ -1,0 +1,228 @@
+
+
+TEST CODE	: TCS17-05T
+
+Total number of question	: 10
+
+Test duration (min)	: 20 min
+
+Correct attempt (mark)	: 1 
+
+Wrong attempt (mark)	: Nil
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TECHNICAL 
+
+
+
+Certain questions are self-explanatory. Thus detailed solutions are provided only wherever required.
+
+
+
+1. What the below statement will print if a=5? printf("%d %d",a, !a++);
+
+a. 5 0		b. 6 0		c. 5 1		d. 6 1
+
+
+
+Answer: B
+
+
+
+Explanation: 
+
+ Values in the function get passed from right to left. First !a++ get processed which pass zero as argument and make a equal to 6
+
+
+
+2. What is the output?
+
+
+
+a. 1	b. False 	c. Compiler Error	d. No output
+
+
+
+Answer: B
+
+
+
+Explanation: 
+
+In this program we are comparing the addresses contained by ptr & ptr1 not the value at those addresses and pointers ptr and ptr1 have the addresses of different variables so above condition is false
+
+
+
+3. How many times main() will get called? 
+
+
+
+a. Error	b. Infinite times
+
+c. No output	d. None of these
+
+
+
+Answer: B
+
+
+
+Explanation: 
+
+ There is no condition in the main() to stop the recursive calling of the  main()  hence it will be called infinite no of times.
+
+
+
+4. Comment on the following?
+
+const int *ptr;
+
+a. You cannot change the value pointed by ptr
+
+b. You can change the value of the pointer
+
+c. None of these
+
+d. You can change the pointer as well as the value pointed by it
+
+
+
+Answer: A
+
+
+
+Explanation: 
+
+ Value of the pointer cannot be changed when const keyword is used
+
+
+
+5. What is the output of the following program?
+
+
+
+a. NULL		b. Error		c. 0		d. 1
+
+
+
+Answer: D
+
+
+
+Explanation: 
+
+ ASCII codes are compared. ’A’ is 65 while ’a’ is 97
+
+
+
+6. What is the output of the following program?
+
+
+
+a. 1 2 3 4 10			b. 1 2 3 4 14
+
+c. 1 2 3 13			d. 1 2 3 14
+
+
+
+Answer: B
+
+
+
+Explanation: 
+
+1,2,3,4 are printed. When a value is greater than 4, if condition becomes true and break is executed. (4+10)14 is printed
+
+
+
+7. Which of the following does not initialize ptr to null (assuming variable declaration of a as int a=0)?
+
+a.int *ptr = &a;			b. int *ptr = &a - &a;
+
+c.int *ptr = a -a;			d. None of these
+
+
+
+Answer: A
+
+
+
+Explanation: 
+
+ In *ptr = &a, the address of a is stored in pointer. In other cases, it is 0
+
+
+
+8. What is the output of the following program?
+
+
+
+a. 3		b.13		c. 123		d. 12
+
+
+
+Answer: B
+
+
+
+Explanation: 
+
+go to statement jumps program execution to the label XYZ and skips 2.
+
+
+
+9. The statement that transfers control to the beginning of the loop is called _______.
+
+a. Break statement		b. Exit statement
+
+c. Goto statement		d. continue statement
+
+
+
+Answer: D
+
+
+
+Explanation: 
+
+ Continue statement continues with the next iteration of the loop
+
+
+
+10. What is the output of following program?
+
+
+
+a. 6 6.500000			b. 6 6.5
+
+c. 6 6.000000			d. None of these
+
+
+
+Answer: C
+
+
+
+Explanation: 
+
+Solution of 13/2 is obtained as an integer and decimal values are dropped before assigning to f
+
+
+

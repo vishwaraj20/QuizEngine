@@ -1,0 +1,261 @@
+
+
+Visit www.downloadmela.com for more papers
+2005-2008 Placement
+Papers
+2010 Placement Papers2011 Placement Papers2009 Placement Papers
+Contributor Name:ROHIT TOMAR 
+Company Name: TCS 
+Status: Selected 
+Venue: TECHNOCRATS INSTITUTE OF TECHNOLOGY, BHOPAL 
+Placement Date: 15/01/2011 
+Hello Friends,
+ 
+Firstly I would like to thanks freshersworld.com and m4maths.com and all my friends for 
+supporting me and final result was my selection in TCS. Really I believe in that” Long 
+hours doesn’t mean anything ,it’s the result that counts not mere efforts”. 
+ 
+So friends let me describe my success story: 
+ 
+On 15/01/2011 Tcs conducted written examination. Around 410 students participated 
+and finally 256 students were selected in this written examination and then after 
+INTERVIEW session finally 173 students were selected. And by this figure our college has 
+made a record of maximum no of selections in M.P. 
+So Selection Procedure is divided into 3 stages:
+ 
+1] Written Test 
+2] Technical Interview
+3] HR interview
+ 
+1] Written Test: 
+ 
+Written test consists of 35 questions 80 mins, It is a online test. 
+ 
+Preparation:
+ 
+Q1. (1/2) of a number is 3 more than the (1/6) of the same number? 
+a) 6 b)7 c)8 d)9 
+Solution: Let the number be x, ((1/2)*x)=3+(1/6)*x, Then solve x 
+Q2. There are two water tanks A and B, A is much smaller than B. While water fills at the 
+rate of 1 liter every hour in A, it gets filled up like, 10, 20, 40, 80, 160 in tank B. (At the 
+end of first hour, B has 10 liters, second hour it has 20 liters and so on). If tank B is 1/32 
+filled of the 21 hours, what is total duration of hours required to fill it completely? 
+a) 26 B)25 c)5 d)27 
+Solution: for every hour water in tank in B is doubled, Let the duration to fill the tank B 
+is x hours. x/32 part of water in tank of B is filled in 21 hours, Next hour it is doubled so, 
+2*(x/32) part i.e (x/16) part is filled in 22 hours, Similarly (x/8)th part in 23 hours,
+(x/4)th part is filled in 24 hours, (x/2)th part is filled in 25 hours, (x)th part is filled in 26 
+hours So answer is 26 hours. 
+Q3. Out of 7 children the youngest is boy then find the probability that all the remaining 
+children are boys 
+a)1/64 b)1/32 c)1/128 d)1/256 
+Solution: Probability of a boy or girl is ½ So for remaining 6 it’s – {1/2}^6= 1/64 
+Q4.A lady has fine gloves and hats in her closet- 14 blue, 20 red, and 18 yellow. The 
+lights are out and it is totally dark. In spite of the darkness, she can make out the 
+difference between a hat and a glove. She takes out an item out of the closet only if she 
+is sure that if it is a glove. How many gloves must she take out to make sure she has a 
+pair of each color? 
+a) 50 b) 8 c) 40 d) 42 
+Solution: This is the most repeated question in Tcs so prepare it well It has no logic but 
+it’s answer comes like this :- Firstly add 2 max values i.e 20+18=38 Then add 2 to 
+answer i.e. 38+2=40 so this is the answer. 
+
+Visit www.downloadmela.com for more papers
+2005-2008 Placement
+Papers
+2010 Placement Papers2011 Placement Papers2009 Placement Papers
+Q5. Sangakara and Ponting selects batting by using a dice, but dice is biased. So to 
+resolve, Ponting takes out a coin. What is the probability that coin shows correct option? 
+a)1/2 b)1/6 c)1/12 d)6/10 
+Solution is ½. 
+Q6. On planet korba, a solar blast has melted the ice caps on its equator. 9 years after 
+the ice melts, tiny planetoids called echina start growing on the rocks. Echina grows in 
+the form of circle, and the relationship between the diameter of this circle and the age of 
+echina is given by the formula d = 4*√ (t-9) for t ≥ 9 where d represents the diameter 
+in mm and t the number of years since the solar blast.Jagan recorded the radius of some 
+echina at a particular spot as 7mm. How many years back did the solar blast occur? 
+a) 17 b) 21.25 c) 12.25 d) 14.05 
+Solution: radius =7mm, then diameter 2*radius, substitude diameter the in above 
+equation you will get answer 
+Q7) Ferrari S.P.A is an Italian sports car manufacturer based in Maranello, Italy. Founded 
+by Enzo Ferrari in 1928 as Scuderia Ferrari, the company sponsored drivers and 
+manufactured race cars before moving into production of street-legal vehicles in 1947 as 
+Ferrari S.P.A. Throughout its history, the company has been noted for its continued 
+participation in racing, especially in Formula One where it has employed great success 
+.Rohit once bought a Ferrari. It could go 4 times as fast as Mohan's old Mercedes. If the 
+speed of Mohan's Mercedes is 35 km/hr and the distance traveled by the Ferrari is 490 
+km, find the total time taken for Rohit to drive that distance.
+a) 20.72 b) 3.5 c) 238.25 d) 6.18 
+Solution: Speed of Ferrari =4*35=140,time=distance/velocity, 
+Q.8Entry ticket to an exhibition ranges from 1p to 31p. You need to provide exact 
+change at the counter. You have 31p coin. In how many parts will u divide 31p so that u 
+will provide the exact change required and carry as less coins as possible?
+ a) 4 b) 5 c) 6 d) 7 
+Solution:- will be 5. for 31p, we divide it 1,2,4,8,16.
+Q9. John buys a cycle for 31 dollars and given a cheque of amount 35 dollars. Shop 
+Keeper exchanged the cheque with his neighbor and gave change to John. After 2 days, 
+it is known that cheque is bounced. Shop keeper paid the amount to his neighbor. The 
+cost price of cycle is 19 dollars. What is the profit/loss for shop keeper? 
+a)loss 23 b)gain 23 c)gain 54 d)Loss 54 
+Solution:-23 loss as he has to pay 35 dollar to neighbor he has only 31 remaining so 35-
+31=4 and cycle costs 19 dollar so total loss=19+4=23 dollar 
+Q.10.if there are 30 cans out of them one is poisened if a person tastes very little he will 
+die within 14 hours so if there are mice to test and 24 hours to test, how many mices 
+are required to find the poisened can? 
+A)3 B)2 C)6 D)1 
+solution:-1 Because in that problem they didn't mention the details like,one mice take 2 
+hr or 3hr etc..they told only 24 hr to test..so 1 mice is enough..rest are useless words. 
+Q.11.A Sheet of paper has statements number from 1 to 20.Statement n says "At least n 
+of the statements on this sheet are true".which statements are true and which are false. 
+a.The even no statements are true and the odd no statements are false. 
+b.the 1st 13 statements are false and rest are true.
+c.the 1st 6 statements are true and rest are false
+d.the odd no statements are true and even no. are false.
+ Solution:- this type of question was repeated 3 times but for different case. For this 
+type of Questions, follow this: At least- Ist half are true, Last half are false Exactly- Last 
+second one is true or (N-1)th Statement is true Almost- All are true. So correct answer is 
+(C) 
+Q.12. On the planet Oz, there are 8 days in a week- Sunday to Saturday and another 
+day called Oz day. There are 36 hours in a day and each hour has 90 min while each 
+minute has 60 sec. As on earth, the hour hand covers the dial twice every day. Find the 
+approximate angle between the hands of a clock on Oz when the time is 12:40 am. 
+Solution:- 89 deg 36hrs a day mane the clk will b of 18hrs. 
+
+Visit www.downloadmela.com for more papers
+2005-2008 Placement
+Papers
+2010 Placement Papers2011 Placement Papers2009 Placement Papers
+18hrs covrs 360deg thus 1hr covrs 20deg 
+12 hrs covrs 12*20=240deg ekhon,1 hr in 90min thus in 90min the hour hand goes 
+20deg tai, for 1min hr hand goes 2/9deg sei jonne, for 40 min hour hnd goes 
+(2/9)*40deg=80/9deg=9deg(approx) thus hr hand covrs total of 240+9=249deg now 
+min hand covrs=40*4=160deg (karon, 90min=360deg 1min=4deg) thus angle betwn 
+them 249-160=89deg :) 
+Q.13. There are 5 materials to make a perfume: Lilac, Balsamic, Lemon, and Woody and 
+MI mosaic. To make a perfume that is in demand the following conditions are to be 
+followed: Lilac and Balsamic go together. Woody and MI mosaic go together; Woody and 
+Balsamic never go together. Lemon can be added with any material. (Actually they had 
+also mentioned how much amount of one can be added with how much quantity of the 
+other; but thatâ€™s not needed for the question.) All of the following combinations are 
+possible to make a perfume except: 
+1) Balsamic and Lilac 2) Woody and Lemon 3) MI mosaic and Woody 4) MI mosaic and 
+Lilac 
+Solution:-first is acceptable for perfume since balsamic and liliac are given to be present 
+and second is also acceptable as lemon can be added with any of four ,third is also 
+acceptable as given in question...left fourth is not acceptable as MI mosaic is always with 
+woody...and balsamic is always with liliac ..therefore combination of MI mosaic and liliac 
+cant occur because woody and balsamic are never together 
+Q14: Alok and Bhanu play the following min-max game. Given the expression N = 15 + 
+X*(Y â€“ Z) Where X, Y and Z are variables representing single digits (0 to 9), Alok 
+would like to maximize N while Bhanu would like to minimize it. Towards this end, Alok 
+chooses a single digit number and Bhanu substitutes this for a variable of her choice (X, 
+Y or Z). Alok then chooses the next value and Bhanu, the variable to substitute the 
+value. Finally Alok proposes the value for the remaining variable. Assuming both play to 
+their optimal strategies, the value of N at the end of the game would be? Note: For this 
+type of questions: x+y-z=11 x-y-z=2 x*(y+z)=18 wht shud be the approach to do such 
+type of prob?? 
+Solution:- this question was repeated 3 times for different cases yeah tcs has this 3 type 
+of questions where there is x+y-z,=11 x-y-z ==2 and x*(y+z)=18 if an integer is added 
+to any of the above equations just add the integer to the value of the equations...for 
+example in this case it would be 15+18=33....(dont ask me for explanations why this 
+value comes for those equations..it took me some gruelling sessions to understand that ) 
+Q.15) Consider two tumblers, the first containing Water and next contains coffee. 
+Suppose you take one spoon of water out of the first tumbler and pour it into the second 
+tumbler. After moving you take one spoon of the mixture from the second tumbler and 
+pour it back into the first tumbler . Which one of the following statement holds now? 
+a) There is less coffee in the first tumbler than water in the second tumblers 
+b) There is more coffee in the firs tumbler than water in the second tumbler
+ c) There is as much coffee in the first tumbler as there is water in the second tumbler 
+d)None of the statements holds true 
+Solution:- a there is less coffee in the first tumbler than water 
+Q.16-Shreya writes 1st 100 whole num. let A and B be the num of times she writes 0 
+and 9 respectively,find the value of A+B 
+Solution:- first 100 whole nos=0 to 99. thus A=no.of 
+0's=(0,10,20,30,40,50,60,70,80,90)=10 B=no. of 
+9's=(9,19,29,39,49,59,69,79,89,90,91,92,93,94,95,96,97,98,99)=20 A+B=30 
+Q.17-When my uncle died,he left a will instructing his executers to divide his estate of 
+19,80,000 in this manner.Every son should receive 3 times as much as a daughter and 
+that evry daughter should get twice as much as their mother. what is my aunt's 
+maximum share if my uncle has atleast one son and one daughter? 
+(a)19,80000 (b)9,90,000 (c)3,30,000 (d)2,20,000 (e)1,98,00 
+Solution:- 1+2+6=9 1980000/9=220000 220000(mother) 440000(daughter) 
+1320000(brother) Answer is 220000(d) 
+
+Visit www.downloadmela.com for more papers
+2005-2008 Placement
+Papers
+2010 Placement Papers2011 Placement Papers2009 Placement Papers
+Q.18-There are 3 boys A,B,C and 2 girls D,E. D always sit right to A.girls never sit in 
+extreme positions and in the middle position. C always sits in the extreme positions. who 
+is sitting immediate right to E? 
+Solution:- A D B E C right of e is c I think that’s enough questions. 
+Now come to interview part:- 
+INTERVIEW:- 
+TECHNICAL:- Only thing you need to keep in mind while interviewing is u should be 
+confident while replying. And English is must..... 
+Okk so as I am a Electronics student I”ll suggest some topics from which interviewer 
+asks questions:-
+ 1.DIGITAL ELECTRONICS BASIC 
+2.DIODES BASIC
+ 3. TERMS LIKE AMPLIFIER,IC,FILTER just their definition 
+4. C/C++ 
+5. Diff between 8085 and 8086 
+6. Communication basics 
+7. 1G,2G,3G,GSM,CDMA...etc just basics 
+8. OSI LAYER MODEL 
+9. LAN,WAN,MAN 
+10. ROUTER AND TOPOLOGIES, TCP/IP MODEL. 
+Be confident while replying and prepare technical well .Don’t go in deep just take 
+overview of all subjects. 
+          HR:- 
+Then for HR interview u must prepare urself well .. some key questions that are asked 
+are:-
+ 1. Strengths,weakness, 
+ANS- You should prepare your strengths and weakness a few days earlier from interview. 
+And u should also make examples of ur strengths and weakness. Like when u say u r a 
+good learner then u should be capable of giving a relevanr real life example where u can 
+say u was a good learner. 
+2. Hobbies 
+Ans- Don’t make fake hobbies . always make real hobbies that u actually do in free time. 
+Bcoz they r going to ask a lot of questions from ur hobbies part. Like my hobbies include 
+Photography so they asked me which camera do u use,features of that camera,latest 
+photo u shoot,what u do with the photos,etc. so be prepare. 
+3. Extra co-curricular activities 
+Ans- Explain work u have done apart from ur studies. 
+4. Tell me about yourself: 
+Ans- Tell ur whole Bio data and try to bring fluency while speaking about urself. 
+5. What experience do you have in this field? 
+6. What do you know about this organization? 
+Ans- This is most important part. You should search about TCS and know latest 
+happenings,awards won by TCS and a little history of TCS. U can go to 
+www.wikipedia.org for that information. 
+7. Are you a team player? 
+8. Why should we hire you? 
+Ans- Here also u need to tell ur strength. And how company is going to benefit from it. 
+9. What is your greatest strength? 
+10. Tell me about your dream job. 
+11. What is more important to you: the money or the work? 
+12. Are you willing to work overtime? Nights? Weekends?
+ 13. Would you be willing to relocate if required? 
+14. Do you have any questions for TCS? 
+Ans- this is also important to ask a question at last of the interview so prepare a 
+question in ur mind before going to interview . and never ask about Payscale ,working 
+
+Visit www.downloadmela.com for more papers
+2005-2008 Placement
+Papers
+2010 Placement Papers2011 Placement Papers2009 Placement Papers
+hours and all these cheap thinkings that comes in ur mind. U can go for socialism if u 
+like social services. And many other questions are there.But what is more important is, 
+to ask a question because that shows ur interest in company. 
+LAST POINT- Finally I would say that u should prepare urself for HR interview few days 
+earlier by having interviews with ur friends and preparing for questions...Remember one 
+thing friends don’t create fake hobbies/strengths otherwise they”ll caught u. common yar 
+they r doing all india Recruitment u can’t lie with them .They have got experience in this 
+interviewing field. 
+Ok friends I think that’s sufficient. Only thing that I would like to say is that: “SUCCESS 
+IS THE FIRST THING THAT SHOULD ALWAYS BE IN UR MIND” Hope this file will help you. 
+Bye
+For any further query mail me rohittomar2009@gmail.com 
+See you in TCS!
+ 

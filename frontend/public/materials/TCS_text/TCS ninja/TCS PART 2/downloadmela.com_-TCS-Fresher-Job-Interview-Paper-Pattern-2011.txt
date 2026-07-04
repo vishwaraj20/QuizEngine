@@ -1,0 +1,681 @@
+
+
+Visit www.downloadmela.com for more papers
+2005-2008 Placement
+Papers
+2010 Placement Papers2011 Placement Papers2009 Placement Papers
+•
+TCS Fresher Job Interview Paper Pattern : 2011
+Company Name: TCS
+Type: Fresher, Job Interview
+Hi Friends.
+These questions are asked in exam.
+1: There is a toy train that can make 10 musical sounds. It makes 2 musical sounds after 
+being defective. What is the probability that same musical sound would be produced 5 times 
+consecutively? ( 1 of _____) ?
+Answer: 1/2 * 1/2 * 1/2 * 1/2 * 1/2 = 1/32
+32 will be the answer.
+2: Peter and Paul are two friends. The sum of their ages is 35 years. Peter is twice as old 
+as Paul was when Peter was as old as Paul is now. What is the present age of Peter?
+Answer: 20 years. 
+3: The ages of two friends is in the ratio 6:5. The sum of their ages is 66.After how many 
+years will the ages be in the ratio 8:7?
+Answer: 12 years.
+4: (There was a long story, I'll cut short it). There are 5 materials to make a perfume: Lilac, 
+Balsalmic, Lemon, Woody and Mimosaic. To make a perfume that is in demand the following 
+conditions are to be followed: Lilac and Balsalmic go together. Woody and Mimosaic go 
+together, Woody and Balsalmic never go together. Lemon can be added with any material. 
+(Actually they had also mentioned how much amount of one can be added with how much 
+quantity of the other; but that's not needed for the question.) All of the following 
+combinations are possible to make a perfume EXCEPT:
+1) Balsalmic and Lilac
+2) Woody and Lemon
+3) Mimosaic and Woody
+4) Mimosaic and Lilac
+Answer: Mimosaic and Lilac.
+5: A girl has to make pizza with different toppings. There are 8 different toppings. In how 
+many ways can she make pizzas with 2 different toppings.
+Answer: 8 * 7 = 56
+6: A triangle is made from a rope. The sides of the triangle are 25 cm, 11 cm and 31 cm. What 
+will be the area of the square made from the same rope?
+Answer:280.5625
+7: What is the distance between the z-intercept from the x-intercept in the equation 
+ax+by+cz+d=0. (I do not remember the values of a,b,c,d)
+8: An athlete decides to run the same distance in 1/4th less time that she usually took. By how 
+much percent will she have to increase her average speed?
+Answer: 33.33%
+
+Visit www.downloadmela.com for more papers
+2005-2008 Placement
+Papers
+2010 Placement Papers2011 Placement Papers2009 Placement Papers
+9: A horse chases a pony 3 hours after the pony runs. Horse takes 4 hours to reach the pony. If 
+the average speed of the horse is 35 kmph, what s the average speed of the pony? 
+10: There is 7 friends (A1,A2,A3....A7).If A1 have to have shake with all with out repeat. 
+How many hand shakes possible?
+11: There are two pipes A and B. If A filled 10 liters in a hour B can fills 20 liters in same 
+time. Likewise B can fill 10, 20, 40, 80,160....if B filled in (1/16)th of a tank in 3 hours, how 
+much time will it take to fill completely? 
+Answer: 7 hours
+12: (Keywords): Sports readers,10 tables,4chairs per table, each table has different number 
+of people then how many tables will left without at least one person? 
+Ans: 6
+13: The ages of two friends is in the ratio 5:6. After how many years will the ages be in the 
+ratio 7:8?
+Answer: 10 years.
+14: What is the distance of the z-intercept from the x-intercept in the equation 
+ax+by+cz+d=0. (I do not remember the values of a,b,c,d)
+15: An athlete decides to run the same distance in 1/4th less time that she usually took. By 
+how much percent will she have to increase her average speed?
+Answer: 33.33%
+16. A man whose age is 45 yrs has 3 sons named John, jill, jack. He went to a park weekly 
+twice. he loves his sons very much. On a certain day he find # shop kippers sailing different 
+things. An apple cost 1penny, 2chocalate costs 1penny.& 3 bananas cost 1 penny. He has 
+bought equal no. of apple, chocolate & banana for each son. If the total amount he invest is 7 
+penny then how many he has bought from each piece for his son?
+a)1app,1cho,1 banana
+b)1 app,2cho,3 banana 
+c)1app,2cho,1banana
+17. A scientist was researching on animal behavior in his lab. He was very interested in 
+analyzing the behavior of bear. For some reason he travelled 1mile in north direction & 
+reached at north pole. there he saw a bear .he then followed the bear around 1 hr with a speed 
+of 2km/hr in east direction.After that he travelled in south direction & reached at his lab in2 
+hrs. Then what is the colour of the bear? I think ans is white
+a) white 
+b) black 
+c) gray
+d) brown
+18. In a particular city there are 100 homes numbered from 1,2,3...........100. The city was 
+build by a builder from Chennai. There was 45 shop in the town which was build by a builder 
+from Mumbai. THE 2nd builder can build the in ½ time as compared to 1st builder. If the 2nd 
+builder builds in 15 days, then how many 2’s are used by the builder from Chennai in 
+numbering the 100 homes?
+a)17 
+b)18 
+c)19 
+d) 20 
+19.MR dash has 3 sons whose ages are respectively a,b,c. The grandfather has bought a cycle 
+for the eldest son, mother has bought a bag for the youngest one which cost Rs150/. The sum 
+of two age of the elder son & one son is 15.The difference of age of sons is 3 & 2.Then what 
+is the age of the eldest son?
+
+Visit www.downloadmela.com for more papers
+2005-2008 Placement
+Papers
+2010 Placement Papers2011 Placement Papers2009 Placement Papers
+a)10,
+b)11,
+c) 12,
+d)13
+20. We all know that Arya bhatta is the greatest mathematics belongs to India . When his 
+daughter Mayabati was in her teen age he discovered a problem. At that time the age of 
+mayabati is a prime number,let that age is a. After some years her age becomes b. then Arya 
+Bhatta was able to solve that problem wit the help of he daughter mayabati. If a-b=5 & 
+product of a& b is 26 then what is the sum of two squares?
+A)77
+b) 45
+c)89
+d)67
+21.how many 13 digit numbers are possible by using the digits 1,2,3,4,5 which are divisible 
+by 4 if repetition of digits is allowed? Ans:5 to the power 12
+22. (40*40* 40-31*31*31)/(40*40+40*31+31*31)=?a smile calculation
+23. x/2y=2a,then 2x/x-2ay=?(some thing like this .very easy ) 
+24. A big Question describing a story. After that a number is given eg 2880.by what if we 
+divide the number it will become a perfect square?
+Ans:5
+25. 1st a story. Then a simple ratio problem. The question was if the ratio of age of two 
+persons is 5:6,sum of present age is 33,then in how many years the ratio of their age becomes 
+7:8?
+a) 3
+b) 4
+c) 5 
+d)6
+26. Mr behera wants to build A house for his wife. In this there are 5 rooms each having equal 
+area. The length of each room is 4m,,breadth is 5 m. the height of the rooms are 2m. if to 
+make a sq meter we need 17 bricks ,then how many bricks are needed to make the floor of a 
+particular room?
+27. A very big story.on Tuesday college parking place have only 4wheelers & bicycles,total 
+no of wheels was 182,yhen what is the possible no of bicycles?
+a) 20
+b 19
+c 18 
+d 17
+28. Simple question but big one on average age's like a,b,c weighted separately 1st a,b,c ,then 
+a& b, then b&c ,then c&a at last abc, the last weight was 167,then what will be the avg 
+weight of the 7 weight?
+29. Arrange the jumbled letters to make a perfect word RGTEI (sth like this). Find to which 
+category it belong? (not so easy,I was bt able 2 solve the problem .the number of the question 
+was 34)
+A) town
+b) vegetable
+c) animal
+d) bird
+30. 3 persons a,b,c were there A always says truth,B lies on Monday,tusday,& Wednesday.but 
+C lies on thrusday,Friday & saturday .one day A said”that B & C said to A that” B said 
+
+Visit www.downloadmela.com for more papers
+2005-2008 Placement
+Papers
+2010 Placement Papers2011 Placement Papers2009 Placement Papers
+“yesterday way one of the days when I lies”,C said that”yesterday way one of the days when 
+I lies too”.then which day was that?
+a Sunday
+b Thursday
+c Saturday 
+d. Tuesday
+31.a long story & with in it a mathematical series present like
+8 6 17 14 35 30 71 _ 143.
+32. One man want to build a wall the length and breadth of the wall are 20, 30 respectively. 
+He need 35 bricks for one square centimeter then how many bricks he need?
+Ans: l*b*35(no of bricks needed for sqcm)
+33. one person had three children. he has 7 pennies. then how he can distribute the fruits 
+among his child by following conditions.
+a) he can get one water millon for 1 penny.
+b) he can get 2 oranges for 1 penny.
+c) he can get 3 grapes for 1 penny.
+Ans:2 water millon 1 orange 1 grape
+34. 1/3 rd of a number is more 3 than the 1/6th of a number then find the number?
+Ans: 18
+35. In Tnagar many buildings were under residential category. for buildings they number as 1 
+to 100. For shops, corporation numbered between 150 and 200 only prime numbers. how 
+many time 6 will appear in building numbering?
+Ans:
+For 1 to 10 - 1 six
+2 to 20 - 1 six
+Similarly upto 59 we utilise six, 5 times
+from 60 to 69 (including 66) - 11 times
+from 70 to 100 - 3, hence ans = 5+11+3 = 19
+Ans:19.
+36. one grand father has 3 grand child. eldest one age is 3 times of the youngest child age 
+.sum of two youngest child age is more than two of eldest one age. find the eldest one age?
+Ans: 15(we can easily predict from options, as we take y as 15)
+37. difrence b/w two numbers is 4.and their product is 17.then find the sum of their squares?
+Ans: 70 (By using (x-y)2=x2+y2-2xy)
+38. I don't remember exactly the question, one logical problem stating the color of beer?
+Ans: white.
+39. find category from following Jumbled letters, parakeet (answer)
+Ans: bird (category)
+40. which is the smallest digit when divides the 2880 gives perfect square.?
+Ans: 5(we can easily predict from options, as we divides them with 2880)
+41. I don’t have any brothers and sisters by pointing a picture that man said that his father is 
+my fathers .son then who is he?
+Ans: his son.
+42. 6 persons standing in queue with different age group, after two years their average age 
+will be 43 and seventh person joined with them. hence the current average age has become 
+45. find the age of seventh person?
+Solution: Here the question appear as an easy one, but carried a lot of unwanted sentences 
+and unwanted datas (i dint mention above) in exam which may confuse u on solving 
+technique.
+
+Visit www.downloadmela.com for more papers
+2005-2008 Placement
+Papers
+2010 Placement Papers2011 Placement Papers2009 Placement Papers
+So now we can compute x from above equation. (x = 41, 6x = 246)
+Let now we compute y, ((6x+y)/7) = 45, as we have value of x, compute y.
+Ans: 69
+43.The ratio b/w the ages of two parsons is 6:5.and sum of there ages is 77 then how many 
+years later there ratio becomes 8:7?
+Ans: we can easily predict from options
+44. Horse started to chase dog as it relieved stable two hrs ago. And horse started to ran with 
+average speed 22km/hr, horse crossed 10 mts road and two small pounds with depth 3m, and 
+it crossed two small street with 200 mts length. After traveling 6 hrs, 2hrs after sunset it got 
+dog. compute the speed of dog?
+Ans: As we have speed and travel time of horse, we can get distance travelled by it... 
+Hence d = 22*6 = 132km,
+Exactly this 132km was travelled by dog in 8 hours (as it started two hours earlier).
+Hence speed of dog = 132/8 = 16.5km/hr
+Ans:16.5km/hr.
+45..six friends go to pizza corner there r 2 types of pizzas.and six different flavors r 
+there they has to select 2 flavors from 6 flavors what’s chanses to select?
+Ans:6C2 
+46.3, 22 , 7, 45, 15, ? , 31
+Solution: Here it appear simple, because it arranged in arranged in sequence manner, but the 
+actual question was some what twist mentioning fibonacci series and more over question was 
+in statements (no numbers).. hence first try to understand the question well.
+here let group alternate terms 3,7,15,31 (3+4 =7, 7+8 =15, 15+16=31)
+Similarly for second group (22,45,? (22+23 = 45, 45+46 = 91) hence ans is 91.
+47.cycles and 4 wheelers problem?
+Ans: We can easily predict from options
+48.some irreverent data. in last two lines problem will be there. One man walks certain 
+distance with 5 kmph.and walk back the same 
+Ans: A
+49. A and B tanks r there.1/8th of the tank B is filled in 22Hrs.what is time to fill the tank 
+full?
+50. 5 friends went for week end party to Mc Donald's restaurant and there they measure there 
+weights .some irrelevant data finel measure is 155 kg then find the average weight of 5 
+people?
+Ans: 155/5=31
+51.2 pots r there.1st pot is filled with ink and 2nd pot is filled with water take 1 spoon of ink 
+from 1st pot and pore it in 2nd pot and take 1 spoon of mixture from 2nd pot and pore it in 
+2nd pot then which one of following is true?
+Ans: Water in 1st pot is less than the ink in 2nd pot.
+52: One electronic problem? Ohm's law
+Ans: V=IR
+53.There r ten spots in library and each spot has 4 tables and ten readers ar there . sorry I 
+don’t remember complete question?
+Ans: None
+54: lion and tiger are there lion lies on Monday, tues, wends and tiger lies on thurs, frid, sat.
+Lion said that today is one of those days when I lies.
+Tiger said that today is one of those days when I lie too Then find today?
+Ans: Thursday
+
+Visit www.downloadmela.com for more papers
+2005-2008 Placement
+Papers
+2010 Placement Papers2011 Placement Papers2009 Placement Papers
+55. 6 persons standing in queue with different age group, after two years their average age 
+will be 43 and seventh person joined with them. hence the current average age has become 
+45. find the age of seventh person?
+Solution: it is given as after 2 yr average age wiil be 43 so now the average is 2 yr.
+After addition of 7th person avg is 45 so 7th person wiil be 45+(6*(45-4)) 
+Ans: 69
+56. Horse started to chase dog as it relieved stable two hrs ago. And horse started to ran with 
+average speed 22km/hr, horse crossed 10 mts road and two small pounds with depth 3m, and 
+it crossed two small street with 200 mts length. After traveling 6 hrs, 2hrs after sunset it got 
+dog. compute the speed of dog?
+Ans: As we have speed and travel time of horse, we can get distance traveled by it... 
+Hence d = 22*6 = 132km,
+Exactly this 132km was travelled by dog in 8 hours (as it started two hours earlier).
+Hence speed of dog = 132/8 = 16.5km/hr
+Ans:16.5km/hr.
+57. 3, 22 , 7, 45, 15, ? , 31
+Solution: Here it appear simple, because it arranged in arranged in sequence manner, but the 
+actual question was some what twist mentioning fibonacci series and more over question was 
+in statements (no numbers).. hence first try to understand the question well.
+here let group alternate terms 3,7,15,31 (3+4 =7, 7+8 =15, 15+16=31)
+Similarly for second group (22,45,? (22+23 = 45, 45+46 = 91) hence
+Ans: is 91.
+58. In Tnagar many buildings were under residential category.for buildings they number as 1 
+to 100. For shops, corporation numbered between 150 and 200 only prime numbers. how 
+many time 6 will appear in building numbering?
+Ans: this type of question if it is asked how many 2,3,4,5,6,7,8,9 then you bindly write the 
+answer as 20.but for 1 answer wiil be 21 as 100 is included
+59. ((4x+3y)+(5x+9y))/(5x+5y) = ? as (x/2y) = 2
+Ans: as x=2y put the value and get the answer.
+60: If we subtract a number with y, we get 4 increase of number, once it got divided by y 
+itself.. Find that number??
+Ans: 12 (we can easily predict from options, as we take y as 6)
+61. I don't remember exactly the question, one logical problem stating the colour of beer?
+Ans: white. what ever the question about the color of beer means you wrote the answer as 
+white because polar beer.this question is very lengthy don’t burther about that.
+62. Jumbled letters, parakeet (answer)
+Ans: bird (category)
+63. I am only son for my parents. (some irrelevant statements in the middle to distract u).The 
+man in picture is my father's son.(some irrelevant statements).who is he?
+64.A toy train can make 10 sounds sound changes aftr every 4
+min.................now train is defective and can make only 2 sounds.....find probability that same 
+sound is repeated 3 times consecutively(1 OUT OF__)?
+1.16
+2.8
+3.12
+4.4
+ANS: (1/2)*(1/2)*(1/2)=(1/8) thus 1 out of 8
+66. I have 3 grandsons................
+age diff btw 2 of grandsons X yrs
+
+Visit www.downloadmela.com for more papers
+2005-2008 Placement
+Papers
+2010 Placement Papers2011 Placement Papers2009 Placement Papers
+1st grandson is twice elder than younger one
+addition off ages of all the three is y
+then what is age of eldest grandson?? (there is some value in X and Y)
+67. Ferrari is leading car manufacturer.*Ferrari S.p.A.* is an Italian sports
+car .........
+It has enjoyed great success.
+If Mohan's Ferrari is 3 times faster than his old MERCEDES wich gave him 35
+kmph
+if Mohan traveled 490 km in his Ferrari
+the hw much time (hours) he took??
+1.8
+2.4
+3.7
+4.7.33
+(options may be different)
+68.lion rat stayin in jungle happily............
+Lion lies on : MON TUE WED
+RAT lies on :WED THURS SAT
+if lion says : I didnt lie yesterday
+RAT says : e1 i didnt lie yesterday
+so what day is today??
+69. The ratio of current age of X and Y is 5:7,after hw many years der age ratio will b 7:9?
+70. Inspired by Fibonacci series sanket decided to create is own series which is 
+1,2,3,7,7,22,15,67,....
+like dish, then what no come immediately before 63?
+Ans= 202
+explanation ;check alternate no.1,3,7,15=>n*2+1 similarly 2,7,22,67=======>n*3+1 so 
+series is 1,2,3,7,7,22,15,67,31,202,63......
+71. By using 1,2,3,4,5,how many 5 digit no. can be formed which is divisible by 4,repetation 
+of no. is allowed??
+Ans: last 2 place should be divisible by 4
+So possible values at last place are 12,24,32,44,52 this can be arranged in 5 ways
+The rest 3 places can be filled in 5*5*5 way so total is 5^4
+72. The cost 1 plum is 1 cent ,2 apples is 1 cent,3 banana is 1 cent........
+if Rahul buys same amount of fruits for his 3 sons spending 7 cent den what amount of fruit 
+each child will get??
+Ans: 1 plum ,2 apple,1 banana
+xplanation:7/3=2.333 cents for each child 
+according to ans given for d sum each child will get 1 plum ,2 apple,1 banana
+73. 2880 is divided by which smallest no. so we get no. which is perfect square???
+Ans: 5
+explanation 2880/5=576 sure sort question.
+74. There are to prime no (with some nonsense stuff)..
+den addition of two prime no is 13,n multiplication is 21,den what r some of there squares?
+Explanation : XY=21 and X+Y=13...solve using calci..ans of X & Y will b in points then 
+x2+y2=??
+75. Smita was makin 1 design .....(again some nonsence)....size of larger cube to be made is 
+5*5*5.....
+using smaller cubes of 1*1*1....she created solid larger cube ..den she decided to make 
+
+Visit www.downloadmela.com for more papers
+2005-2008 Placement
+Papers
+2010 Placement Papers2011 Placement Papers2009 Placement Papers
+hollow cube then hw many 1*1*1 cubes rqd to make hollow larger cube
+Ans: 104
+Explanation (25+25)+(15+15)+(12+12)=104
+76. 2X/5Y=5X/3Y...den wat is x/y 
+77. A pizza parlor provides pizzas...there were 2 toppings available initially pepperoni and 
+salami. but now they,ve introduces 8 new toppings (some names) to select from.. a person 
+wishes to buy two DIFFERENT pizzas of NEW topping....in how many ways he can do 
+that??
+Ans: 8 X 7=56
+78. Person travels to....(some nonsense stuff).....if he goes from A to B with speed of 4kmph 
+and 
+returns back to B with speed of 5 kmph....what is his avg. speed of journey?? (values may b 
+different)
+Ans: 4.44(its NOT 4.5)
+Explaination : 2PQ/(P+Q)===2*4*5/(4+5)=4.44kmph
+79. There is a dice having value from 1 ..6 on each face and a pack of cards having face card 
+aces. 
+(Hugh chunk of nonsense) when 2 dies are thrown and their scores are added then which sum 
+will come max number of times??
+1.8
+2.9
+3.10
+4.11
+Ans: 8
+Explanation : 8----2,6 3,5 4,4
+9----4,5 3,6
+10----5,5 4,6
+11---- 5,6
+thus 8's probability is more
+80. ''Susha brought trillion cloth and rope to if rope is 153 mtr long and it is to be cut into 
+pieces of 1 mtr long then how many times will she have to cut it??
+Ans: 152 times
+81. There are some 2 wheelers and 4 wheelers parked (some nonsense). Total number of 
+wheels present is 240
+then how many 4 wheelers were there
+Ans: This can be done by looking at the option first check the no of bicycles and then 
+multiply it by 2. And then subtract the multiplication value from 240 if the value is divided by 
+4 then that is the answer
+82. 1/3 of a number is 6 more than 1/6 of that number then what is the number
+Ans: x/3=x/6+6=36
+83. The cost of making a robot consists of material cost, repairing cost, coloring cost and is in 
+the ratio 3:4:5.if the material cost is 1200 then find out the cost of the robot.
+Ans: Simple 3 part is 1200 so 3+4+5=12 part=?
+84. There are Pepsi 1 liter & oil 1 liter .it is given as 1 spoon of Pepsi is akin and is mixed 
+with Oil. Then 1 spoon oil&Pepsi is taken and is mixed with Pepsi then which of the 
+condition holds true.
+Ans: The amount of Pepsi in oil is more than amount of oil in Pepsi.
+85. An tank is filled with water .in first hour 10 lit ,in second hour 20 lit and in 3 rd hour time 
+40 lit. if time taken to fill ¼ of the tank is 5 hr what is the time required to fill up the tank.
+
+Visit www.downloadmela.com for more papers
+2005-2008 Placement
+Papers
+2010 Placement Papers2011 Placement Papers2009 Placement Papers
+Ans: As the water is filled as twice speed and in 5 the hour ¼.so in 6 hour ½.so answer 7th 
+hour. 
+86. Which is the smallest no divides 2880 and gives a perfect square? 
+a.1 b.2 c.5 d.6
+Ans: c
+87. Two bowls are taken, one contains water and another contains tea one spoon of water is 
+added to second bowl and mixed well, and a spoon of mixture is taken from second bowl and 
+added to the second bowl. Which statement will hold good for the above? 
+Ans: second liquid in first bowl is smaller than the first mixture in second bowl
+88. Form 8 digit numbers from by using 1, 2,3,4,5 with repetition is allowed and must be 
+divisible by4?
+a.31250 b.97656 c.78125 d.97657 
+Ans: c
+89. Rearrange and categorize the word ‘RAPETEKA’? 
+Ans: bird
+87. In school there are some bicycles and 4wheeler wagons one Tuesday there are 190 wheels 
+in the campus. How many bicycles are there? 
+Ans: 15
+88. Key words in question (Fibonacci series, infinite series, in the middle of the question one 
+number series is there....I got the series 3 12 7 26 15 ? 
+Ans: 54
+(Logic: 3*2+1=7 12*2+2=26 
+7*2+1=15 26*2+2=54)
+89. A lies on mon, tues, wed and speak truths on other days, B lies on thur, fri, sat and speaks 
+truths on other days ...one day a said I lied today and B said I too lied today. What is the day?
+90. Man, Bear, North, South, walks.
+Ans: White
+91. A father has 7 penny’s with him and 1 water melon is for 1p, 2chickoos for 1p, 3 grapes 
+foe 1p.he has three sons. How can he share the fruits equally?
+Ans: 1 watermelon,2chickoos,1grape
+92. (1/2) of a number is 3 times more than the (1/6) of the same number? 
+Ans: 9
+93. There are two pipes A and B. If A filled 10 liters in hour B can fills 20 liters in same time. 
+Likewise B can fill 10, 20, 40, 80,160....if B filled in (1/16) th of a tank in 3 hours, how 
+much time will it take to fill completely? 
+Ans: 7 hours
+94. KEYWORDS:T.Nagar,Chennai,1-100,prime numbers b/n 140-180,How many 2’s are 
+there?
+Ans: 20 (Not only 2’s ,1’s,3’s,4’s,5’s,6’s,7’s,8’s,9’s,0’s also 20)
+95. A man is standing before a painting of a man and he says I have no bro and sis and his 
+father is my father’s son? 
+Ans: he himself
+96. One question has last part like difference between two terms is 9 and product of two 
+numbers is 14, what is the squares of sum of numbers? 
+Ans: 109
+97. What is the value of [(3x+8Y)/(x-2Y)]; if x/2y=2?
+Ans:10 {the numerical may change)
+
+Visit www.downloadmela.com for more papers
+2005-2008 Placement
+Papers
+2010 Placement Papers2011 Placement Papers2009 Placement Papers
+98. A pizza shop made pizzas with to flavors in home there are ‘N’ different flavors, in that 
+‘M’ flavors are taken to made pizza. in how many ways they can arrange? 
+(Logic: NcM )
+99. One grandfather has three grandchildren, two of their age difference is 3, eldest child age 
+is 3 times youngest child’s age and eldest child’s age is two times of sum of other two 
+children. What is the age of eldest child?
+Ans:15
+100. One organization ,material labor and maintenance are in the ratio of 4:6:7,the material 
+cost is:100,what is the total cost? 
+Ans: 425
+101. KEYWORDS: density, reluctance, sensitivity, voltage ,current, what is the resistance 
+Formula is “R=V/I”
+102. In a market 4 man are standing .the average age of the four before 4years is 45,aftyer 
+some days one man is added and his age is 49.what is the average weight of all? 
+Ans: 49
+103. KEYWORDS: Sports readers,10 tables,4chairs per table, each table has different 
+number of people then how many tables will left without at least one person? 
+Ans: 6
+107. KEYWORDS: Die, card, coin, b/n 2 to 12 
+Ans: All are equal
+108. In a school for a student out of a 100 he got 74 of average for 7 subjects and he got 79 
+marks in 8th subject. what is the average of all the subjects?
+Ans: 74.625
+109. In a question ,last part has ,the ages of two people has the ratio of 6:6 and by adding the 
+numbers we get 44,after how many years the ratio would be 8:7?
+Ans: 8
+110.One train travels 200m from A to B with 70 km/ph. and returns to A with 80kmph, what 
+is the average of their speed?
+111. Two years before Paul’s age is 2times the Alice age and the present age of Paul is 6times 
+the Alice. what is the presents Paul’s age???( 3years) “u try to solve this question once”
+112. There is Ferrari and Benz car, Benz speed is say 10kmph and it cover 10 km. & if Ferrari 
+goes with 3 times faster than Benz. So in how much time Ferrari could take to cover same 
+distance. 
+Sol: as speed of Ferrari is 3*10=30 so time will be 10/30
+113. If one lady have 3 daughter and any of out 3 have diff, of ages is 3.And oldest is 3 times 
+of more than 2 than youngest after 2 years then tell the age of oldest daughter.
+Solution: let x is youngest ,y middle ,z oldest. so y-x=3, z-y=3, and z=2=2(x+2) and put the 
+option answer try to get condition (sorry i forgot option but pattern will be same)
+114.One question like that ,there is Fibonacci series and you have to find one number ..clue-it 
+based on series
+116. if a person moves 15km straight and turns 45km right and moves 15km straight then 
+how much distance he needs to walk to reach starting point?
+117. if there are 30 cans out of them one is poisoned if a person tastes very little he will die 
+within 14 hours so if there are mice to test and 24 hours, how many mice's are required to 
+find the poisoned can? .if Atlantic is found in Atlantic ocean ,India is found in indian ocean 
+then which of the following cases are true.
+
+Visit www.downloadmela.com for more papers
+2005-2008 Placement
+Papers
+2010 Placement Papers2011 Placement Papers2009 Placement Papers
+118.if a and b are mixed in 3:5 ration and b,c are mixed in 8:5 ration if the final mixture is 35 
+litres,find the amount { a/b=3*8/5*8 and b/c=8*5/5*5 a/b/c=24:40:25 Ans: 40*35/
+(24+40+35)=1400/89=15.79}
+119.1!+2!+....50!=3*10^64?
+120. 6 persons standing in queue with different age group, after two years their average age 
+will be 43 and seventh person joined with them. hence the current average age has become 
+45. find the age of seventh person?
+Solution: Here the question appear as an easy one, but carried a lot of unwanted sentences 
+and unwanted datas(i dint mention above) in exam which may confuse u on solving 
+technique.
+Let x be current average age of first 6 persons in queue and current age of seventh person be 
+y. Then 6x will become the sum of those 6 persons age.
+Now, let compute the sum of those 6 persons after two years, 6x+12 (as each and individual 
+increase their age by 2). hence its average become (6x+12)/6 = 43 (give in question itself).
+So now we can compute x from above equation. (x = 41, 6x = 246)
+Let now we compute y, ((6x+y)/7) = 45, as we have value of x, compute y.
+Ans: 69
+121. Horse started to chase dog as it relieved stable two hrs ago. And horse started to ran with 
+average speed 22km/hr, horse crossed 10 mts road and two small pounds with depth 3m, and 
+it crossed two small street with 200 mts length. After traveling 6 hrs, 2hrs after sunset it got 
+dog. compute the speed of dog?
+Ans: As we have speed and travel time of horse, we can get distance traveled by it. 
+Hence d = 22*6 = 132km,
+Exactly this 132km was traveled by dog in 8 hours (as it started two hours earlier).
+Hence speed of dog = 132/8 = 16.5km/hr
+Ans: 16.5km/hr.
+122. 3, 22 , 7, 45, 15, ? , 31
+Solution: Here it appear simple, because it arranged in arranged in sequence manner, but the 
+actual question was some what twist mentioning fibonacci series and more over question was 
+in statements (no numbers).. hence first try to understand the question well.
+here let group alternate terms 3,7,15,31 (3+4 =7, 7+8 =15, 15+16=31)
+Similarly for second group (22,45,? (22+23 = 45, 45+46 = 91) hence
+Ans: 91.
+123. In Tnagar many buildings were under residential category. for buildings they number as 
+1 to 100. For shops, corporation numbered between 150 and 200 only prime numbers. how 
+many time 6 will appear in building numbering?
+Ans:
+For 1 to 10 - 1 six
+2 to 20 - 1 six
+Similarly upto 59 we utilize six, 5 times
+from 60 to 69 (including 66) - 11 times
+from 70 to 100 - 3, hence ans = 5+11+3 = 19
+Ans:19.
+124. If we subtract a number with y, we get 4 increase of number, once it got divided by y 
+itself.. Find that number??
+Ans: 12 (we can easily predict from options, as we take y as 6)
+125. I am only son for my parents. (some irrelevant statements in the middle to distract u). 
+The man in picture is my father's son. (some irrelevant statements). who is he?
+Ans: he himself (blood relation type of question).
+
+Visit www.downloadmela.com for more papers
+2005-2008 Placement
+Papers
+2010 Placement Papers2011 Placement Papers2009 Placement Papers
+126. It is the class with the seating arrangement in 4 rows and 8 columns. When the teacher 
+says 'start' the girl who is sitting in first row and first column will say 1, then the next girl 
+sitting behind her will say 4, the next girl sitting behind that girl will say 7, in a particular 
+order each girl is telling a number, the following girls told 10, 13 next turn is yours what u 
+will say?16
+127. It is dark in my bedroom and I want to get two socks of the same color from my drawer, 
+which contains 24 red and 24 blue socks. How many socks do I have to take from the drawer 
+to get at least two socks of the same color? 
+a) 2 
+b) 3 
+c) 48 
+d) 25 ; 
+Solution: 3 
+128. Inspired by Fibonacci series sanket decided to create is own series which is 
+1,2,3,7,7,22,15,67,....
+like this, then what no come immediately before 63?
+Ans: 202
+explanation ;check alternate no.1,3,7,15=====>n*2+1
+similarly 2,7,22,67=======>n*3+1 so series is 1,2,3,7,7,22,15,67,31,202,63.
+129.Valentine day 14 Feb. 2005,was celebrated by n and u on Monday, he was very happy, he 
+n she then day on 14 Feb. 2010?
+130. The cost 1 plum is 1 cent ,2 apples is 1 cent,3 banana is 1 cent if rahul buys same 
+amount of fruits for his 3 sons spending 7 cent den what amount of fruit each child will get??
+Ans: 1 plum ,2 apple,1 banana
+xplanation:7/3=2.333 cents for each child 
+according to Ans given for d sum each child will get 1 plum ,2 apple,1 banana
+131. There is a dice having value frm 1 ..6 on each face and a pack of cards having face card 
+aces .....
+(hugh chunk of nonsense)......when 2 dies are thrown and their scores are added then which 
+sum will come max number of times??
+1.8
+2.9
+3.10
+4.11
+Ans: 8
+explanation : 8----2,6 3,5 4,4
+9----4,5 3,6
+10----5,5 4,6
+11---- 5,6
+thus 8's probability is more
+132.''susha brought terilon cloth and rope to if rope is 153 mtr long and it is to be cut into 
+pieces of 1 mtr long then how many times will she have to cut it??
+Ans: 152 times
+133. (dnt remember the exact q but procedure was something like this) 8th year--1/1024,, 9th 
+year--1/512,, 10th year--1/256 then aftr hw many years 1/32???
+Ans: 13
+134. There are 2 cans A and B one of MILK and other of Water resp. , both of same qty first 
+one teaspoon of milk from A can was added to B can then one teaspoon from B can was 
+added to A can then which of the following is true..
+
+Visit www.downloadmela.com for more papers
+2005-2008 Placement
+Papers
+2010 Placement Papers2011 Placement Papers2009 Placement Papers
+1.Can A contain more milk than water in can B
+2.Can A contain less milk than water in can B
+3.both contain same qty of milk and water
+Ans: option--2
+135. If a pipe can fill the tank within 6 hrs but due to leak it took 30 min more now if the tank 
+was full hw much time will it take to get emptied through the leak ??
+136. Avg wt of class is X kg (some number) after adding wt of the teacher avgas wt of class 
+becomes Y kg then what is the wt of the teacher??
+137. 20 men shake hand with each other. Maximum no of handshakes w without cyclic 
+handshakes.
+138. 100 men & women dance with each other. Probability that a man cannot dance with 
+more than two women.
+139. Horse chasing a pony. Horse leaves stable after 2hrs from ponies departure. 4 hrs 2 catch 
+pony. Find speed of pony. Given-speed of horse.
+140. A man goes north 37km.turns left goes 2km.turns right goes 17km.turns right goes 2km. 
+find distance b/w starting&ending point.
+141. Lady have 2 select gloves&hat from a basket I the dark. she can distinguish 
+hat&gloves.14red,20blue,18green r there. Find probability that any selected glove pair has 
+same color.
+142. Alice in wonderland meets a character goblet whose age is 2times Alice after 2 years age 
+problem
+143. Peter is 2times Paul's age was when Peter's age is same as Paul's present age. find Paul's 
+age.
+144. From a rope a triangle is made of sides 21cm,24cm,28cm. from this a square is made. 
+Find area of square.
+145. In a supermarket average of 4people standing in queue taken 2yrs before is 55yrs. Now a 
+person of 45 yrs is added current age.
+146. A toy can produce 10diiff sounds. New toy is defective to produce 2 sounds in 3min. 
+find probability that it produces 6 consecutive is 1 in(_)
+147. 1/6th of a no is 4 times more than 2/3 of a no. find
+148. Age of 2 in d ratio 4:5. Total of 2 ages is 55. After 2 yrs age in ratio 5:7 ages
+149. A jogger jogs@1/6th of his usual speed. How much % she has 2 increase 2 reach normal 
+pace of walking. 
+150: X is 3 years younger to Y. X's father is a businessman who invested 10000/- at 8% rate 
+of interest n obtained his amount after 10 years. Y's father is a job holder who invested 
+around 20000 at 2% rate n obtained his amount after 20 years. Now Compounded both of 
+them get around ABC rs/-(don't remember) After 5 years the ratio of ages of X n Y is 1:2. 
+Now X's father is 20 years older to Y n Y' father is 30 years more than X. After 20 years 
+again X's mother asks X's father to purchase a LCD TV which costs around 45000/-.  what is 
+the age of X n Y together?
+Ans: answer lies in considering two statements 2gether i.e "X is 3 years younger to Y" n 
+"After 5 years the ratio of ages of X n Y is 1:2"

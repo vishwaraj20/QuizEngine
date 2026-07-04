@@ -1,0 +1,755 @@
+
+
+Free Placement Preparation Online Course with Free Mock Test 
+visit: www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+www.MyPlacementPrep.com 
+ 
+Pro Material Series 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Join Telegram Channel for more updates: 
+https://t.me/MyPlacementprepApp 
+ 
+Visit www.MyPlacementPrep.com .  
+India’s No1 website for Placement Materials and Free mock test Series 
+Free Placement Preparation Online Course video now available. 
+
+Free Placement Preparation Online Course with Free Mock Test 
+visit: www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+ 
+ 
+Technical Round  
+
+Free Placement Preparation Online Course with Free Mock Test 
+visit: www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+ 
+We can't use any input 
+functions like scanf(), 
+getch(), getchar(). 
+The input to be provided 
+should be  
+
+Free Placement Preparation Online Course with Free Mock Test 
+visit: www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+read as command line 
+arguments. 2  
+ 
+command line 
+arguments  
+
+Free Placement Preparation Online Course with Free Mock Test 
+visit: www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+int main(int argc, char *argv[])  
+COMMAND LINE ARGUMENTS IN C:  
+main() function of a C program accepts 
+arguments from command line or from other 
+shell scripts by following commands.  
+They are argc and argv[] where,  
+argc – Number of arguments in the 
+command line including program name 
+(integer). 
+argv[] – This is carrying all the 
+arguments including program name 
+(pointer array ).  
+3  
+
+Free Placement Preparation Online Course with Free Mock Test 
+visit: www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+ 
+command line 
+arguments  
+#include <stdio.h> 
+int main(int argc, char *argv[]) 
+//command line arguments {  
+
+Free Placement Preparation Online Course with Free Mock Test 
+visit: www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+printf("\n Program name : %s \n", 
+argv[0]); printf("1st arg : %s \n", 
+argv[1]); printf("2nd arg : %s \n", 
+argv[2]);  
+return 0; }  
+4  
+ 
+
+Free Placement Preparation Online Course with Free Mock Test 
+visit: www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+command line 
+arguments  
+• Properties of Command Line 
+Arguments:  
+1. They are passed to main() 
+function.  
+2. They are parameters/arguments 
+supplied to the program when it is 
+invoked.  
+3. They are used to control program 
+from outside instead of hard coding 
+those values inside the code.  
+4. argv[argc] is a NULL pointer.  
+5. argv[0] holds the name of the 
+program.  
+
+Free Placement Preparation Online Course with Free Mock Test 
+visit: www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+6. argv[1] points to the first 
+command line argument and argv[n] 
+points last argument.  
+5  
+ 
+PROGRAMS Program 1:  
+
+Free Placement Preparation Online Course with Free Mock Test 
+visit: www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+Factorial program in c using command 
+line arguments.  
+Factorial of a non-negative integer n, 
+denoted by n!, is the product of all 
+positive integers less than or equal to 
+n.  
+For example, The value of 5! is 
+5*4*3*2*1 = 120  
+6  
+
+Free Placement Preparation Online Course with Free Mock Test 
+visit: www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+ 
+#include<stdio.h> 
+int main(int a, char *b[]) //command line 
+arguments  
+{ 
+int x,i,f=1;  
+x=atoi(b[1]); for(i=1;i<=x;i++)  
+
+Free Placement Preparation Online Course with Free Mock Test 
+visit: www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+{  
+f=f*i; }  
+printf("%d",f); return 0;  
+} 
+//atoi function is to convert a character to 
+integer  
+7  
+
+Free Placement Preparation Online Course with Free Mock Test 
+visit: www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+ 
+Program 2:  
+Write a c program, to find the 
+area of a circle when the diameter 
+is given, using command line 
+arguments.  
+
+Free Placement Preparation Online Course with Free Mock Test 
+visit: www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+The input diameter is an integer 
+and the output area should be a 
+floating point variable with 2 point 
+precision  
+8  
+ 
+
+Free Placement Preparation Online Course with Free Mock Test 
+visit: www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+#include<stdio.h> 
+#define PI 3.14 
+int main(int a, char *b[]) //command 
+line arguments {  
+int d; 
+float area =0; 
+d= atoi(b[1]); 
+area =(float) PI*(d/2)*(d/2); 
+printf(“%0.2f", area); return 0;  
+}  
+%0.2f is to print the answer with 2 
+values after decimal point.  
+9  
+
+Free Placement Preparation Online Course with Free Mock Test 
+visit: www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+ 
+Program 3:  
+Write a c program, to check 
+whether the given year is a leap 
+year or not using command line 
+arguments.  
+
+Free Placement Preparation Online Course with Free Mock Test 
+visit: www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+A leap year is a calendar year 
+containing one additional day (Feb 
+29th) added to keep the calendar 
+year synchronized with 
+the astronomical year.  
+10  
+ 
+
+Free Placement Preparation Online Course with Free Mock Test 
+visit: www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+#include<stdio.h> 
+int main(int a, char*b[]) {  
+Int year; year=atoi(b[1]); if(year%100==0){  
+if(year%400==0) 
+{ printf(“LEAP YEAR”);  
+else{ printf(“NOT LEAP YEAR”);  
+} }  
+}  
+11  
+} 
+else if(year%4==0) 
+{ printf(“LEAP YEAR”); else{ printf(“NOT LEAP 
+YEAR”); return 0;  
+} 
+}  
+
+Free Placement Preparation Online Course with Free Mock Test 
+visit: www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+ 
+Program 4:  
+Write a c program, to find the 
+GCD of the given 2 numbers, using 
+command line arguments.  
+
+Free Placement Preparation Online Course with Free Mock Test 
+visit: www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+The input is 2 integer and the 
+output GCD also should be an 
+integer value.  
+12  
+ 
+#include<stdio.h> 
+int main(int x, char *y[]) { 
+inta,b,small,i;  
+
+Free Placement Preparation Online Course with Free Mock Test 
+visit: www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+a=atoi(y[1]); b=atoi(y[2]);  
+small=a>b?b:a; for(i=small;i>=1;i--)  
+{  
+if((a%i==0)&&(b%i==0)) {  
+printf("%d",i); break;  
+} }  
+return 0; }  
+13  
+
+Free Placement Preparation Online Course with Free Mock Test 
+visit: www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+ 
+1) How many times the below loop will 
+be executed?  
+#include<stdio.h> int main() {  
+int x, y; for(x=5;x>=1;x--) {  
+for(y=1;y<=x;y++) printf("%d\n",y);  
+} }  
+
+Free Placement Preparation Online Course with Free Mock Test 
+visit: www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+14  
+ 
+Options  
+1. 15  
+2. 11  
+3. 10  
+4. 13  
+ 
+
+Free Placement Preparation Online Course with Free Mock Test 
+visit: www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+15  
+ 
+2) Which of the following indicate the 
+end of the file?  
+A. Feof() 
+B. EOF 
+C. Both feof() and EOF 
+D. None of the mentioned  
+
+Free Placement Preparation Online Course with Free Mock Test 
+visit: www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+ 
+16  
+ 
+3) If a function’s return type is not 
+explicitly defined then it’s default to 
+______ (In C).  
+A. int 
+B. float C. void D. Error  
+
+Free Placement Preparation Online Course with Free Mock Test 
+visit: www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+ 
+17  
+ 
+4) For passing command line argument 
+the main function should be like 
+_______  
+1. int main(char *argv[], int argc)  
+2. int main(int argc)  
+
+Free Placement Preparation Online Course with Free Mock Test 
+visit: www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+3. int main(char *argv[])  
+4. int main( int argc, char *argv[])  
+ 
+18  
+ 
+5) How many times the below loop will 
+be executed?  
+
+Free Placement Preparation Online Course with Free Mock Test 
+visit: www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+#include<stdio.h> int main() 
+{  
+int i; for(i=0;i<5;i++) {  
+printf("Hello\n"); }  
+}  
+19  
+ 
+
+Free Placement Preparation Online Course with Free Mock Test 
+visit: www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+Options  
+1. 5  
+2. 1  
+3. 0  
+4. 3  
+ 
+20  
+ 
+
+Free Placement Preparation Online Course with Free Mock Test 
+visit: www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+6) Which of the following is a User-
+defined data type?  
+A. long int 
+B. double 
+C. unsigned long int D. enum  
+ 
+21  
+ 
+
+Free Placement Preparation Online Course with Free Mock Test 
+visit: www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+7) Which has the highest precision?  
+A. float 
+B. double 
+C. unsigned long int D. Long int  
+ 
+22  
+ 
+Floating point types  
+
+Free Placement Preparation Online Course with Free Mock Test 
+visit: www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+The following table provide the details of 
+standard floating-point types with storage 
+sizes and value ranges and their precision −  
+Type  
+Storage 
+size  
+Value range  Precision  
+float  4 byte  1.2E-38 to 3.4E+38  
+6 decimal 
+places  
+double  8 byte  2.3E-308 to 1.7E+308  
+15 decimal 
+places  
+long 
+double  
+10 byte  
+3.4E-4932 to 
+1.1E+4932  
+19 decimal 
+places  
+23  
+
+Free Placement Preparation Online Course with Free Mock Test 
+visit: www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+ 
+8) Where the local variables are 
+stored?  
+A. Disk B. Stack C. Heap D. 13  
+ 
+24  
+
+Free Placement Preparation Online Course with Free Mock Test 
+visit: www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+ 
+9) What is dangling pointer?  
+1. Points to garbage value  
+2. Points to function  
+3. Both A and B  
+4. None of these  
+ 
+25  
+
+Free Placement Preparation Online Course with Free Mock Test 
+visit: www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+ 
+10) How to release the dynamically 
+allocated memory?  
+A. free() 
+B. truncate() C. delete() D. release()  
+ 
+26  
+
+Free Placement Preparation Online Course with Free Mock Test 
+visit: www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+ 
+11) int main(int argc, char **argv) 
+comment about: char **argv  
+1. Pointer to pointer  
+2. It is the file name and arguments 
+passed  
+3. it is an array of character pointers  
+4. Compile time error  
+
+Free Placement Preparation Online Course with Free Mock Test 
+visit: www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+ 
+27  
+ 
+12) Predict the output  
+int main() 
+{ 
+
+Free Placement Preparation Online Course with Free Mock Test 
+visit: www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+float x = 0.1; If(x==0.1) printf(“yes”); 
+else printf(“no”); return 0;  
+} 
+Output: __________ Ans: no  
+28  
+ 
+
+Free Placement Preparation Online Course with Free Mock Test 
+visit: www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+13) What is the similarity between 
+enum and struct?  
+1. Can assign new values  
+2. Can create new data types  
+3. Nothing in common  
+4. They are same  
+ 
+29  
+
+Free Placement Preparation Online Course with Free Mock Test 
+visit: www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+ 
+14) What is recursion?  
+A. Looping  
+2. A function calls another function 
+repeatedly  
+3. A function calls repeatedly  
+4. Function calls itself repeatedly  
+ 
+
+Free Placement Preparation Online Course with Free Mock Test 
+visit: www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+30  
+ 
+ 
+ 
+www.MyPlacementPrep.com 
+ 
+
+Free Placement Preparation Online Course with Free Mock Test 
+visit: www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+Free Mock Test and Video 
+Tutorial 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Visit www.MyPlacementPrep.com .  
+India’s No1 website Placement and Mock Test series 
+Free Placement Learning Path with Free Video Course. 

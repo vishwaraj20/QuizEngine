@@ -1,0 +1,3832 @@
+
+
+SrCandidate 
+number
+BranchCompanyCategory of Questions 
+(Aptitude, Email, MR, 
+Technical, HR
+Question 
+number
+QuestionFigure no if Required (Doc 
+name where fig is drwan,  
+Sr no in Database where 
+question is asked
+11MechanicalTCSHR1Tell me about yourself.
+21MechanicalTCSHR2Why Mechanical?
+31MechanicalTCSHR3Why TCS?
+41MechanicalTCSHR4Why this college?
+51MechanicalTCSHR5Why came in Pune?
+61MechanicalTCSHR6Family Background.
+71MechanicalTCSHR7Your role in project.
+81MechanicalTCSHR8Favourite Subject.
+91MechanicalTCSHR9Which movie you recently watched?
+101MechanicalTCSHR10Do you see hollywood/bollywood movies?
+111MechanicalTCSHR11Which movie you like the most?
+121MechanicalTCSHR12Which book you recently read?
+131MechanicalTCSHR13What you do on weekends?
+141MechanicalTCSHR14Any software courses?
+151MechanicalTCSHR15Do you have friends in Pune?
+161MechanicalTCSHR16Any location constraint?
+171MechanicalTCSHR17Do you want to ask something to us?
+18
+2
+MechanicalTCSTechnical1Crack detection method in steel bar internal and external 
+both.
+192MechanicalTCSTechnical2Cabinet used in table machine and transformer.
+202MechanicalTCSTechnical3Gear ratio in gear box.
+212MechanicalTCSTechnical4Wokring of engine shaft and clutch plate.
+222MechanicalTCSTechnical5Interesting area.
+232MechanicalTCSTechnical6Differnce between Catia and Autocad.
+242MechanicalTCSTechnical7Second law of thermodynamics.
+25
+3
+ITTCSEmail1Write an email to HR of an reputed company asking him to 
+conduct Campus Interview in your college.You are TNP 
+officer.Sign in as XYZ.
+26
+4
+IT
+TCSEmail1Write an email to HR of an reputed company asking him to 
+conduct Campus Interview in your college.You are TNP 
+officer.Sign in as XYZ.
+27
+5
+ComputerTCSEmail1Write an email to admin dev for rennovation of your 
+workplace.You are employee.
+28
+5
+ComputerTCSAptitude1a+b+c=46;a+b+c+d=45;e+d=3;b+c+d+e=45;What is value of 
+A?
+29
+6
+MechanicalTCSEmail1Write email to your teacher for helping and guiding in 
+preparation of interview.
+306MechanicalTCSAptitude1Find side of octagon.3.1
+316MechanicalTCSAptitude2Find similar triangle to triangle AEC.3.2
+32
+7
+MechanicalTCSEmail1Write an email to admin dev for rennovation of your 
+workplace.You are employee.
+33
+8
+MechanicalTCSEmail1Write an email to your aunt who is coming for vacation in 
+your town.Pick up her from platform.
+34
+9
+MechanicalTCSEmail1Write an email to manager of company from where you 
+have purchased the car.Tell him to increase the number of 
+service station in city.
+35
+10
+MechanicalTCSEmail1Write an email to to your college faculty thanking you for 
+his guidance and telling him that you have been selected in 
+drive and you are working in company and your schedule is 
+very tight,etc.
+36
+11
+ComputerTCSEmail1Write an email to police officer Mr.Sharma regarding the 
+rash driving by bikes near your society.
+37
+12
+MechanicalTCSEmail1Write a letter to manager of internship for 
+thank,progress,tight schedule,requirements.
+38
+13
+MechanicalTCSEmail1Write an email to Mr.Ramesh-a project manager.You are 
+an intern in his firm-thank him.
+39
+13
+MechanicalTCSAptitude1
+f(x)=ax
+2
+-bx
+2
++x+5;f(-3)=2;f(3)=?
+4014MechanicalTCSAptitude1Find minimum distance between A & B.3.3
+41
+15
+MechanicalTCSEmail1Write an email to police officer Mr.Sharma regarding the 
+rash driving by bikes near your society.
+42
+16
+MechanicalTCSEmail1Write a letter to intimidate Mr.ABC about overdue 
+payment.
+43
+16
+MechanicalTCSAptitude1There are 5 envelopes and 5 letters.What is probability of 
+placing all letters in wrong envelop.
+4416MechanicalTCSAptitude2Factors of 1728 including 1 and 1728.
+45
+17
+ComputerTCSEmail1Write an email to your aunt who is coming for vacation in 
+your town.Pick up her from platform.
+46
+17
+ComputerTCSAptitude1
+f(x)=ax
+2
+-bx
+2
++x+5;f(-3)=2;f(3)=?
+47
+18
+ComputerTCSAptitude3a+b+c=46;a+b+c+d=45;e+d=3;b+c+d+e=45;What is value of 
+a?
+This PCCOE & PCCOE &R Question Bank of around 2,500 Technical/HR/MR questions has been prepared by PCCOE and PCCOE&R T&P Volunteers of 2017 Batch to help students of 2016 
+batch from the questions actually asked by panel to PCCOE 2015 batch. Same questions asked to various candidates are also kept as it is so that students should understand how many 
+times question is repeated. Thanks a lot to following volunteers of Central Placement Cell of PCCOE & PCCOE&R for their wholehearted support & Precious time : (Aishwarya Bartakke -
+TE-Comp, Komal Sonawane-TE-IT, Amit Gurbani-TE-IT, Riyaz Kadiwar-TE-IT, Rasika Mule-TE-IT, Krishnapriya-TE-IT, Anand Garg-TE-E&TC, Ajit Jadhav-TE-E&TC, Debadri Pal-TE-E&TC, 
+Shrutika Adhav-TE-E&TC, Snehal Sawant-TE-IT, Dhananjay Uttarwar-TE-IT, Sanjevani Gadade-TE-IT, Aakash Agarwal-TE-IT) , Regards, Prof. Shitalkumar Rawandale,
+Dean, Industry Institute Interaction, 1) Pimpri Chinchwad college of Engineering (PCCOE), Nigdi, Pune & 2) Pimpri Chinchwad college of Engineering & Research (PCCOE&R), Ravet, Pune - 
+www.Rawandale.com 
+
+48
+19
+ComputerTCSEmail1Write an email to your Aunty(Ms.Poly) to inform that you 
+will come on platform to receive her.Sign in as Nancy.
+49
+19
+ComputerTCSAptitude118 sharpeners cost for Rs.100.white and brown.Cost of 
+white is equal to cost of brown + 1.Find price of white and 
+number of white sharpeners.
+50
+19
+ComputerTCSAptitude2a+b+c=46;a+b+c+d=45;e+d=3;b+c+d+e=45;What is value of 
+a?
+51
+19
+ComputerTCSAptitude3Square of 2m side is cut from edge to form octagon with 
+same side.Find side of octagon.
+3.1
+52
+20
+ComputerTCSEmail1Write an email to your Aunty(Ms.Poly) to inform that you 
+will come on platform to receive her.Sign in as Nancy.
+53
+20
+ComputerTCSAptitude1A boy buys 18 sharpeners(brown and white) for Rs.100.For 
+every white sharpener,he pays Rs.1 more than brown 
+sharpener.Find number and cost of white sharpener.
+54
+20
+ComputerTCSAptitude2a+b+c=46;a+b+c+d=45;e+d=3;b+c+d+e=45;What is value of 
+a?
+55
+20
+ComputerTCSAptitude3Square of 2m side is cut from edge to form octagon with 
+same side.Find side of octagon.
+3.1
+56
+21
+ComputerTCSEmail1Write an email to your Aunty(Ms.Poly) to inform that you 
+will come on platform to receive her.Sign in as Nancy.
+57
+21
+ComputerTCSAptitude1
+f(x)=ax
+2
+-bx
+2
++x+5;f(-3)=2;f(3)=?
+58
+21
+ComputerTCSAptitude2A boy buys 18 sharpeners(brown and white) for Rs.100.For 
+every white sharpener,he pays Rs.1 more than brown 
+sharpener.Find number and cost of white sharpener.
+59
+21
+ComputerTCSAptitude3a+b+c=46;a+b+c+d=45;e+d=3;b+c+d+e=45;What is value of 
+a?
+60
+21
+ComputerTCSAptitude4Square of 2m side is cut from edge to form octagon with 
+same side.Find side of octagon.
+3.1
+61
+22
+ComputerTCSEmail1Write an email to your Aunty(Ms.Poly) to inform that you 
+will come on platform to receive her.Sign in as Nancy.
+62
+22
+ComputerTCSAptitude1
+f(x)=ax
+2
+-bx
+2
++x+5;f(-3)=2;f(3)=?
+63
+22
+ComputerTCSAptitude2A boy buys 18 sharpeners(brown and white) for Rs.100.For 
+every white sharpener,he pays Rs.1 more than brown 
+sharpener.Find number and cost of white sharpener.
+64
+22
+ComputerTCSAptitude3Square of 2m side is cut from edge to form octagon with 
+same side.Find side of octagon.
+3.1
+65
+23
+ComputerTCSEmail1Write an email to your Aunty(Ms.Poly) to inform that you 
+will come on platform to receive her.Sign in as Nancy.
+66
+23
+ComputerTCSAptitude1Square of 2m side is cut from edge to form octagon with 
+same side.Find side of octagon.
+3.1
+67
+24
+ComputerTCSEmail1Write an email to your Aunty(Ms.Poly) to inform that you 
+will come on platform to receive her.Sign in as Nancy.
+68
+25
+ComputerTCSEmail1Write an email to your Aunty(Ms.Poly) to inform that you 
+will come on platform to receive her.Sign in as Nancy.
+69
+26
+ITTCSEmail1Write an email to your Aunty(Ms.Poly) to inform that you 
+will come on platform to receive her.Sign in as Nancy.
+7027ITTCSAptitude1Factors of 1728 including 1 and 1728.
+71
+27
+ITTCSEmail1Write an email to Mr.Ramesh-a project manager.You are 
+an intern in his firm-thank-project progress-record-analysis-
+report-support-guidance-requirement-doubts-design.
+72
+28
+E&TCTCSHR1Tell me something about yourself apart from resume
+7328E&TCTCSHR2Being alone child to your parents how do you feel?
+7428E&TCTCSHR3Tell me about your flexibility?
+7528E&TCTCSHR4Area of interset to work in TCS
+76
+28
+E&TCTCSMR1If your boss is arrogant, he ask you to work for 10-
+11hrs,daily,how will you react to situation. 
+77
+28
+E&TCTCSMR2If you have written a code & your friend in the team shows 
+the code to boss,how will you react 
+7829E&TCTCSHR1Tell me about yourself.
+7929E&TCTCSHR2Tell me your strengths & weekness
+8029E&TCTCSHR3Why TCS?About TCS?
+8129E&TCTCSHR4Family background?
+8229E&TCTCSHR5In TCS as an employee?
+83
+29
+E&TCTCSMR1If your boss is arrogant & your team member are also 
+arrogant.how will you handle that situation. 
+8429E&TCTCSMR2How will you manage job after your marriage.
+8529E&TCTCSMR3How will you work on project in one year?
+8629E&TCTCSMR4Are you ready to go Chennai?
+8729E&TCTCSMR5Why you are not going for higher education?
+8829E&TCTCSMR6Non curricular activity.
+8929E&TCTCSMR7Tell me about yourself?
+9030E&TCTCSMR1Introduce yourself.
+
+91
+30
+E&TCTCSMR2What is basic difference between microprocessor & 
+microcontroller?
+9230E&TCTCSMR3Which is used where, application.
+9330E&TCTCSMR4Give two situations.
+9430E&TCTCSMR5Meaning of name
+9530E&TCTCSMR6Puzzel
+9630E&TCTCSMR7Which is your preferanc-EIS,IT IS,Reserch?
+9730E&TCTCSMR8Strengths,weakness & how do you overcome them
+9830E&TCTCSMR9Why TCS?
+9930E&TCTCSHR1About yourself
+10030E&TCTCSHR2Where do you stay?
+10130E&TCTCSHR3Any shifts constraints
+10230E&TCTCSHR4Ready to relocate?
+10330E&TCTCSHR5Hobbies
+10430E&TCTCSHR6Interest
+10530E&TCTCSHR7Why TCS
+106
+31
+E&TCTCSHR1What is IT IS?
+107
+31
+E&TCTCSHR2Are you relocatable
+108
+31
+E&TCTCSHR3Any time constraints
+109
+31
+E&TCTCS
+HR
+4Why mentioned good management qualities.can you 
+justify(with example)
+110
+31
+E&TCTCS
+HR
+5Hobbies(Reading).which is the recent book you read?
+111
+31
+E&TCTCSHR6Where do you see yourself in 2years.
+112
+31
+E&TCTCSHR7Any negative point about TCS.
+113
+31
+E&TCTCSHR8Any positive point about TCS.
+114
+31
+E&TCTCSHR9Do you know anyone from TCS.
+115
+31
+E&TCTCSMR1Introduce yourself.
+116
+31
+E&TCTCS
+MR
+2If 3/4 of the tank is full,you drived 100kms then if 1/3 of the 
+tank is full,how many you will go?
+117
+31
+E&TCTCSMR3Family background?
+118
+31
+E&TCTCS
+MR
+4Situation-1)You have to do a project with 5 people whom 
+you hate,so how will you manage.2)Two graduate,one 
+brilliant but lazy,arrogant,other not brilliant but sincere and 
+hardworking.you have to give appraisal,whom you will give 
+better.
+119
+31
+E&TCTCSMR5Why should I hire you within the 200 students.
+120
+31
+E&TCTCSMR6How many close friends you have.
+121
+31
+E&TCTCSMR7Difference between project leader & manager.
+122
+32
+E&TCTCSHR110points about yourself that I should select u.
+123
+32
+E&TCTCS
+HR
+2Draw a quadrant,mark point and tell me your personality.
+124
+32
+E&TCTCSHR33years bond-OK or Not
+125
+32
+E&TCTCSHR4Cochin-Yes or NO
+126
+33
+E&TCTCSHR1Tell me about yourself
+127
+33
+E&TCTCSHR2What are your hobbies
+128
+33
+E&TCTCSHR3If given a chance to study abroad will you?
+129
+33
+E&TCTCSHR4Any plans for higher studies?
+130
+33
+E&TCTCSHR5Why I should select you?
+131
+33
+E&TCTCSMR1Introduce yourself.
+132
+33
+E&TCTCSMR2About your final year project
+133
+33
+E&TCTCSMR3Where are you from?
+134
+33
+E&TCTCS
+MR
+4One condition suppose you are travelling by boat with your 
+husband and father and boat started drawing,so whom will 
+you save?
+135
+34
+E&TCTCSHR1Tell me about yourself
+136
+34
+E&TCTCSHR2What are your hobbies
+137
+34
+E&TCTCSHR3Where are you from?
+138
+34
+E&TCTCSHR4Why there is a variance in your marks?
+139
+34
+E&TCTCSHR5If given a chance to study abroad will you?
+140
+34
+E&TCTCSHR6What would be your parents reaction?
+141
+34
+E&TCTCS
+MR
+1If your married to a hopeless guy,will you speak up against 
+it?
+142
+34
+E&TCTCSMR2How is your Communication skills?
+143
+34
+E&TCTCSMR3Which area your interested to work on?
+144
+35
+E&TCTCSMR1Tell me about yourself.
+145
+35
+E&TCTCSMR2Write SR flipflop?
+146
+35
+E&TCTCSMR3Acedemic extra curricular activity?
+147
+35
+E&TCTCSMR4Elective Subject?
+148
+35
+E&TCTCSMR5Protocols and which layers= are present?
+149
+36
+E&TCTCSMR1Introduce yourself.
+150
+36
+E&TCTCSMR2Third year details about project
+151
+36
+E&TCTCSMR3Are you flexible?
+152
+36
+E&TCTCSMR4Which city is better either your hometown or pune?
+153
+37
+E&TCTCSHR1Why constantly decreasing marks?
+154
+37
+E&TCTCSHR2Which area would you prefer ?
+155
+37
+E&TCTCSHR3EIS or ITIS?
+156
+37
+E&TCTCSHR4Why TCS?
+157
+37
+E&TCTCS
+HR
+5How was your technical?Which is your area of interest?
+158
+37
+E&TCTCSHR6How was the experience in TCS?
+159
+37
+E&TCTCSMR1Which area would you prefer ?EIS or ITSI?
+160
+37
+E&TCTCSMR2Tell me about your BE project?
+161
+37
+E&TCTCSMR3Which are your favourite subjects?
+162
+37
+E&TCTCSMR4Would you like to work in business development?
+163
+37
+E&TCTCSMR5Where do you see yourself in 2years.
+164
+37
+E&TCTCSMR6What if your not given your preferred area?
+
+165
+38
+E&TCTCSTR1Flip-flop ,truth table
+166
+38
+E&TCTCSTR2Motor working
+167
+38
+E&TCTCSTR3Can motor convert into generator?
+168
+38
+E&TCTCSTR4MATLAB
+169
+38
+E&TCTCSTR5RAM and ROM difference?
+170
+38
+E&TCTCSTR6BGT,MOSFET:-Symbols, charactertics.
+171
+38
+E&TCTCSMR1Tell about yourself
+172
+38
+E&TCTCSMR2Weakness,strong points
+173
+38
+E&TCTCSMR3Goal after 3years
+174
+38
+E&TCTCS
+MR
+4Situation :-Convencing to client after refusing the project
+175
+38
+E&TCTCSHR1Reallocate
+176
+38
+E&TCTCSHR2Area of interset to work in TCS
+177
+38
+E&TCTCSHR3Family background?
+178
+38
+E&TCTCSHR4EIS or ITIS?
+179
+39
+E&TCTCSHR1Why should TCS hire you?
+180
+39
+E&TCTCSHR2A situation was given?how would you handle it?
+181
+39
+E&TCTCSHR3Flexbility to work at any time
+182
+39
+E&TCTCSHR4Location constraints?
+183
+39
+E&TCTCSHR5Are you adaptiable to any situation.give example
+184
+39
+E&TCTCS
+HR
+6Have you lead any team/controlled crowd of people 
+efficiently?
+185
+39
+E&TCTCSMR1What was your project?
+186
+39
+E&TCTCSMR2How flexible are you to worl in ITIS?
+187
+39
+E&TCTCSMR3What do you do apart from technical any hobby?
+188
+39
+E&TCTCSMR4Why have you given preference to ESI?
+189
+39
+E&TCTCS
+MR
+5Which quantity do you have that is different so that you 
+get job in TCS?
+190
+39
+E&TCTCSMR6Any new invention/technology that you like?
+191
+39
+E&TCTCSMR7Native place,family?
+192
+39
+E&TCTCS
+MR
+8How about growth in the company when it comes to 
+everyday change?
+193
+40
+E&TCTCSHR1Introduce yourself.Which is not in resume?
+194
+40
+E&TCTCSHR2TCS Bond service
+195
+40
+E&TCTCSHR3What is ITI?
+196
+40
+E&TCTCS
+HR
+4Your parents have any problem,if we have you in chennai
+197
+40
+E&TCTCSMR1Tell me about yourself
+198
+40
+E&TCTCS
+MR
+2What are your strength & weakness that you would like to 
+improve? 
+199
+40
+E&TCTCSMR3Are you comfortable to work in ITI services? 
+200
+40
+E&TCTCSMR4What is there in ITI?
+201
+41
+E&TCTCSMR1Introduce yourself
+202
+41
+E&TCTCSMR2Your family background
+203
+41
+E&TCTCSMR3Your education
+204
+41
+E&TCTCSMR4Strengths
+205
+41
+E&TCTCSMR5What did you learn recently?
+206
+41
+E&TCTCSMR6Have you done any course(Technical)
+207
+41
+E&TCTCSMR7Did you learn any language
+208
+41
+E&TCTCSMR8Are you okay with relocating?
+209
+41
+E&TCTCSMR9Are you okay to work late hours?
+210
+41
+E&TCTCSMR10Why IT?
+211
+41
+E&TCTCSMR11Being an ENTC engg how will you manage in IT?
+212
+41
+E&TCTCSHR1Tell me about yourself
+213
+41
+E&TCTCSHR2Your strengths
+214
+41
+E&TCTCSHR3Asked about the women grievances cell
+215
+41
+E&TCTCSHR4Is working in team good or alone?why?
+216
+41
+E&TCTCSHR5Are you ready to relocate?
+217
+41
+E&TCTCSHR6Are you ready to work late hours?
+218
+42
+E&TCTCSMR1Introduce yourself
+219
+42
+E&TCTCSMR2Weakness,strong points
+220
+42
+E&TCTCSMR3Goal after 3years
+221
+42
+E&TCTCS
+MR
+4Situation :-Conincing a client who does not want a project 
+when it is about to complete.
+222
+42
+E&TCTCSHR1Relocate
+223
+42
+E&TCTCSHR2Area of interset to work in TCS
+224
+42
+E&TCTCSHR3Family background?
+225
+42
+E&TCTCSHR4EIS,ITS,IT IS
+226
+43
+E&TCTCSHR1Tell me about yourself
+227
+43
+E&TCTCSHR2What do you know about TCS?& profiles?
+228
+43
+E&TCTCS
+HR
+3What are your strength & weakness that you would like to 
+improve? 
+229
+43
+E&TCTCSHR4hobbies?
+230
+43
+E&TCTCSHR5Any weakness?
+231
+43
+E&TCTCSHR6How do you pass your time?
+232
+43
+E&TCTCSHR7How do you manage your stress?
+233
+43
+E&TCTCSHR8Any back question?
+234
+43
+E&TCTCSMR1Tell about yourself
+235
+43
+E&TCTCSMR2Which profile?
+236
+43
+E&TCTCSMR3Who is CEO & chairman TCS & tatagroup?
+237
+43
+E&TCTCSMR4KAIZEN?
+238
+43
+E&TCTCSMR5Any specific goal of life?
+239
+43
+E&TCTCSMR6Project work
+240
+43
+E&TCTCSMR7How did you deal with presssure situation
+241
+43
+E&TCTCSMR8Any question for us?
+242
+44
+E&TCTCSHR1Hobbies
+243
+44
+E&TCTCSHR2Strengths
+
+244
+44
+E&TCTCSHR3What is meat by ITInfrastructure?
+245
+44
+E&TCTCSHR4Are you okay with shifts?
+246
+44
+E&TCTCSHR5Are you okay with relocating?
+247
+44
+E&TCTCS
+HR
+6If you are mentioning in resume that I have ability of 
+problem solving then which problem you recently faced?
+248
+44
+E&TCTCS
+MR
+1how we decide dimensions of laptop screen  & tv screen?
+249
+45
+E&TCTCSHR1How manysquares are in on chess board.
+250
+45
+E&TCTCSHR2What do you expect in future?
+251
+45
+E&TCTCSMR1Explain the things not in CV?
+252
+46
+E&TCTCS
+MR
+1you are doing work on embedded system then why are you 
+joining IT IS in TCS?
+253
+46
+E&TCTCSMR2Do you have any problem in relocation?
+254
+46
+E&TCTCSMR3why our company?
+255
+46
+E&TCTCSHR1About yourself?
+256
+46
+E&TCTCSHR2About hobbies?
+257
+46
+E&TCTCSHR3Strength?Weakness?
+258
+46
+E&TCTCSHR4How are you working on weaknesses?
+259
+46
+E&TCTCSHR5why our company?
+260
+47
+E&TCTCSHR1Tell me about yourself
+261
+47
+E&TCTCSHR2Opinion about women empowerment?
+262
+47
+E&TCTCSHR3about TCS: IT sectors
+263
+47
+E&TCTCSHR4Why TCS?
+264
+47
+E&TCTCSHR5Why IT company?
+265
+47
+E&TCTCSHR6About time constraint/place?
+266
+47
+E&TCTCSMR1Tell me about yourself
+267
+47
+E&TCTCSMR2What are your hobbies
+268
+47
+E&TCTCSMR3about academic subjects
+269
+47
+E&TCTCSMR4Time constraint/places?
+270
+48
+E&TCTCSMR1Introduce yourself
+271
+48
+E&TCTCSMR2Family background?
+272
+48
+E&TCTCSMR3Favourite subject
+273
+48
+E&TCTCSMR4Difference between IPv4 and Ipv6
+274
+48
+E&TCTCSMR5How many bits are Iv4
+275
+48
+E&TCTCS
+MR
+6How many satellites are needed to cover whole earth?
+276
+48
+E&TCTCSMR7GSM-cell size
+277
+48
+E&TCTCSMR8Voice range,FM & AM?
+278
+48
+E&TCTCSMR9Would you like to work in ITIS?
+279
+48
+E&TCTCSMR10Tell something anout TCS?
+280
+49
+E&TCTCSHR1Introduce yourself
+281
+49
+E&TCTCSHR2Family background?
+282
+49
+E&TCTCSHR3What you want to improve in yourself
+283
+49
+E&TCTCSHR4After joining TCS what will you do?
+284
+49
+E&TCTCSMR1Family background?
+285
+49
+E&TCTCSMR2introduce yourself
+286
+49
+E&TCTCSMR3if selected or if rejected what will you do?
+287
+49
+E&TCTCSMR4What are your weakness?
+288
+50
+E&TCTCSHR1IT IS
+289
+50
+E&TCTCSHR2Percentage?
+290
+50
+E&TCTCSMR1Where you see yourself after 2years?
+291
+50
+E&TCTCSMR2passion
+292
+50
+E&TCTCSMR3about yourself?
+293
+51
+E&TCTCSHR1Tell me about yourself?
+294
+51
+E&TCTCSHR2Hobbies??
+295
+51
+E&TCTCSHR3Weakness?
+296
+51
+E&TCTCSHR41 negative and 1 positive thing about TCS
+297
+51
+E&TCTCSHR5Can you work for 24hrs
+298
+51
+E&TCTCSHR6Location constraints?
+299
+51
+E&TCTCSHR7Any questions you want to ask?
+300
+51
+E&TCTCSHR8difference between IT IS & EIS
+301
+51
+E&TCTCSMR1CEO of TCS
+302
+51
+E&TCTCSMR2WHY TCS
+303
+51
+E&TCTCSMR3Which domain would you like to work?
+304
+51
+E&TCTCSMR4Are you flexible?
+305
+51
+E&TCTCSMR5Where do you see yourself after 5years
+306
+51
+E&TCTCSMR6Which domain interseted and why?
+307
+51
+E&TCTCSMR7who owns TATA Group?
+308
+51
+E&TCTCSMR8Any questions you want to ask?
+30952ComputerTCSHR1About yourself
+31052ComputerTCSHR2Interest in
+31152ComputerTCSHR3Any location constrain
+31252ComputerTCSHR4What is ITIS
+31352ComputerTCSHR5Are you intrested in ITIS
+31453ComputerTCSMR1Puzzle- Count the squares13.1
+31553ComputerTCSMR2Difference between leader and manager
+31653ComputerTCSMR3Any two weaknesses
+31753ComputerTCSMR4What you will do if any one slaps you
+31853ComputerTCSMR5If your company is in very bad situation and everyone is 
+resigning , how you will stop them?
+31953ComputerTCSMR6How many close friends do you have?
+32053ComputerTCSMR7Can you work in night shifts?
+32153ComputerTCSMR8Where you see yourself 5 years down the line and 20 years 
+down the line?
+32253ComputerTCSMR9TCS has huge revenue, where it goes?
+32353ComputerTCSMR10Have you lead a team?
+
+32453ComputerTCSHR1How you are multitasking?
+32553ComputerTCSHR2How you are innovative?
+32653ComputerTCSHR3Will you work in Chennai?
+32753ComputerTCSHR4About ACM? 
+32853ComputerTCSHR5Time constraints?
+32954ComputerTCSMR1Something about yourself?
+33054ComputerTCSMR2Explain OOPs concept in detail'
+33154ComputerTCSMR3Explain primary key and foreign key constraint
+33254ComputerTCSMR4Explain Round Robin technique
+33354ComputerTCSMR5Write code for operator overloading
+33454ComputerTCSMR6Different scheduling techniques
+33554ComputerTCSMR7Explain me about your project and write an algo which you 
+have implemented 
+33654ComputerTCSMR8What all other techniques you know (eg: cloud computing)
+33754ComputerTCSMR9Explain difference between TCP and UDP in detail
+33854ComputerTCSMR10Draw SDLC for your project
+33955ComputerTCSMR1About yourself
+34055ComputerTCSMR2Something about TCS
+34155ComputerTCSMR3Which domain would you like to work in
+34256ComputerTCSHR1Something about yourself?
+34356ComputerTCSHR2hobbies?
+34456ComputerTCSHR3weaknesses?
+34556ComputerTCSHR4How was your TI and MR?
+34656ComputerTCSHR5What do you know about Night shift?Will you be ready for 
+it?
+34756ComputerTCSHR6Are you ready for relocating?
+34856ComputerTCSHR7Will your parents support for your job?
+34956ComputerTCSHR8Do you have any question for me?
+35056ComputerTCSHR9What do you know about IT IS?
+35157ComputerTCSTechnical1Explain project in detail
+35257ComputerTCSTechnical2What is preprocessing in C?
+35357ComputerTCSTechnical3Linking in C
+35457ComputerTCSTechnical4Elective sub in B.E
+35557ComputerTCSTechnical5Write test cases for pen
+35657ComputerTCSTechnical6Draw binary tree for given number
+35757ComputerTCSTechnical7What is binary tree?
+35857ComputerTCSTechnical8Which sort algorithm is best?
+35957ComputerTCSTechnical9What are s/w model?
+36057ComputerTCSTechnical10Explain SDTL model
+36158ComputerTCSHR1Where are you from?
+36258ComputerTCSHR2If I am new to Mumbai , describe how you will introduce 
+Mumbai to me in 5 words.
+36358ComputerTCSHR3Why TCS?
+36458ComputerTCSHR4Tell me one policy for women that Tcs provides
+36558ComputerTCSHR5What is the one negative thing about Mumbai
+36658ComputerTCSMR1What are your aspirations? Where do you see yourself 2 
+years down the line?
+36758ComputerTCSMR2Why should I hire you?
+36858ComputerTCSMR3Have you done any certification?
+36958ComputerTCSMR4Are you ready to go if you are relocated anywhere in India 
+or abroad?
+37058ComputerTCSMR5Tell me about yourself and your family background.
+37159ComputerTCSMR1Introduction
+37259ComputerTCSMR2Family background
+37359ComputerTCSMR3Explain project in detail
+37459ComputerTCSMR4Project related all in detail
+37559ComputerTCSHR1Introduction in detail
+37659ComputerTCSHR2Tell me about TCS
+37759ComputerTCSHR3hobbies?
+37859ComputerTCSHR4Weakness with example
+37959ComputerTCSHR5Do you have any questions?
+38060ComputerTCSHR1Introduction 
+38160ComputerTCSHR2hobbies?
+38260ComputerTCSHR3weakness
+38360ComputerTCSHR4Will you accept if we relocate you to chennai?
+38460ComputerTCSMR1Introduction
+38560ComputerTCSMR2hobbies?
+38660ComputerTCSMR3About your family
+38760ComputerTCSMR4About your project
+38860ComputerTCSMR5Field you would like to work
+38961ComputerTCSHR1Introduction
+39061ComputerTCSHR2Achievments
+39161ComputerTCSHR3Strengths
+39261ComputerTCSHR4Comfortable with relocation?
+39361ComputerTCSHR5Comfortable with night shifts?
+39461ComputerTCSHR6Do you have any questions?
+39561ComputerTCSMR1Introduction
+39661ComputerTCSMR2hobbies?
+39761ComputerTCSMR3OOP concept
+39861ComputerTCSMR4Classes, Inheritance, Abstraction
+39961ComputerTCSMR5Preferred language
+40061ComputerTCSMR6What do you know about IT IS?
+40162ComputerTCSHR12 challenges faced in engg.college
+40262ComputerTCSHR2Time & work constraints
+40362ComputerTCSMR1Introduction
+40462ComputerTCSMR2Problem solving
+
+40562ComputerTCSMR3General talk about various technologies
+40663ComputerTCSHR1Introduction
+40763ComputerTCSHR2Strength and weakness
+40863ComputerTCSHR3What you know about TCS?
+40963ComputerTCSHR4Will you work at night shifts?
+41063ComputerTCSMR1Introduction
+41163ComputerTCSMR2About project
+41264ComputerTCSHR1Introduction
+41364ComputerTCSHR2Family background
+41464ComputerTCSHR3Schooling
+41564ComputerTCSHR4hobbies?
+41664ComputerTCSHR5recent news about TCS
+41764ComputerTCSHR6Situation given by HR. How to solve the problem?
+41864ComputerTCSHR7About siblings
+41964ComputerTCSHR8ok with night shifts or not?
+42064ComputerTCSHR9Ready to relocate?
+42164ComputerTCSMR1Introduction
+42264ComputerTCSMR2Specify your domain and explain your BE project
+42364ComputerTCSMR3Explain TE project
+42464ComputerTCSMR4Situation given by HR. How to solve the problem?
+42564ComputerTCSMR5What you like in TCS
+42664ComputerTCSMR6Why you want to join TCS?
+42765ComputerTCSHR1Intrduction
+42865ComputerTCSHR2Why TCS?
+42965ComputerTCSHR3Strength and weakness
+43065ComputerTCSMR1Introduction
+43165ComputerTCSMR2Family background
+43265ComputerTCSMR3Explain BE project
+43365ComputerTCSMR4Questions on DBMS
+43466ComputerTCSHR1Something about you differrent from others
+43566ComputerTCSHR2About relocation
+43666ComputerTCSHR3About college and college day
+43766ComputerTCSHR4Why should I hire you?
+43866ComputerTCSMR1Introduction
+43966ComputerTCSMR2sing a song
+44067ComputerTCSHR1Introduction
+44167ComputerTCSHR2Difference between hardwork and smart work
+44267ComputerTCSHR3Why should I hire you?
+44367ComputerTCSHR4Are you flexible in terms of timings and locations?
+44467ComputerTCSMR1Introduction
+44567ComputerTCSMR2What approach used in internship line project
+44667ComputerTCSMR3languages you know
+44767ComputerTCSMR4concept of C
+44867ComputerTCSMR5concept of OOPs (real life eg:)
+44967ComputerTCSMR6Do you have any questions?
+45068ComputerTCSHR1How were your interviews and explain the questions asked 
+to you?
+45168ComputerTCSHR2Do have any questions?
+45268ComputerTCSMR1Introduction
+45368ComputerTCSMR2latest news about TCS?
+45468ComputerTCSMR3What is your TCS project?
+45568ComputerTCSMR4Given some decision making situations
+45669ComputerTCSHR1Introduction
+45769ComputerTCSHR2Why TCS?
+45869ComputerTCSHR3TCS project
+45969ComputerTCSHR4IT IS
+46069ComputerTCSHR5Why not microsoft?
+46170ComputerTCSTechnical1difference between DBMS and RDBMS
+46270ComputerTCSTechnical2Project title
+46370ComputerTCSTechnical3C++ programming. Arrays
+46470ComputerTCSTechnical4DBMS:compository, DML/DDL, Dual table
+46570ComputerTCSTechnical5About yourself
+46670ComputerTCSTechnical6Seminar
+46770ComputerTCSTechnical7Flow diagrams of project
+46871ComputerTCSTechnical1Difference between MYSQL and oracle
+46971ComputerTCSTechnical2difference between DBMS and RDBMS
+47072ComputerTCSTechnical1Introduction
+47172ComputerTCSTechnical2What will be your reaction if you fail , as you are always 
+topper?
+47272ComputerTCSTechnical3latest trends in computer
+47372ComputerTCSTechnical4What is cloud computing?
+47472ComputerTCSTechnical5Code in reverse string
+47573MechanicalTCSTechnical1why TCS?
+47673MechanicalTCSTechnical2What do you know about TCS?
+47773MechanicalTCSTechnical3What do you know about C language?
+47873MechanicalTCSTechnical4Which book you referred for C?
+47973MechanicalTCSTechnical5Author of Let us C
+48073MechanicalTCSTechnical6Author of machine design?
+48173MechanicalTCSTechnical7Author of Thermodynamics?
+48273MechanicalTCSTechnical8Author of TOM?
+48373MechanicalTCSTechnical9Author of Graphics?
+48473MechanicalTCSTechnical10What do you do weekends?
+48573MechanicalTCSTechnical11Family background
+48673MechanicalTCSTechnical12What you learnt in Pune?
+48773MechanicalTCSTechnical13Why you opt for mech branch?
+48873MechanicalTCSTechnical14Which movie you have seen last?
+48973MechanicalTCSTechnical15weakness
+
+49074MechanicalTCSTechnical1flywheel? Working?
+49174MechanicalTCSTechnical2clutch?working?
+49274MechanicalTCSTechnical3different manufacturing process for designing a laptop h/w 
+or body?
+49374MechanicalTCSTechnical4hobbies?
+49474MechanicalTCSTechnical5favourite football player?
+49574MechanicalTCSTechnical6winner of 2014 world cup?
+49674MechanicalTCSTechnical7Any question from your side?
+49775MechanicalTCSTechnical1Difference between Refregiration and A/C
+49875MechanicalTCSTechnical2Gear ratio
+49975MechanicalTCSTechnical3Laws of thermodynamics
+50075MechanicalTCSTechnical4Stream line
+50175MechanicalTCSTechnical5Project
+50276MechanicalTCSTechnical1Subject you like most
+50376MechanicalTCSTechnical2current project
+50476MechanicalTCSTechnical3what are composites
+50576MechanicalTCSTechnical4what are pointers?
+50676MechanicalTCSTechnical5program for swaping
+50777MechanicalTCSTechnical1Introduction
+50877MechanicalTCSTechnical2Project
+50977MechanicalTCSTechnical3Why TCS?
+51077MechanicalTCSTechnical4Why should we hire you?
+51177MechanicalTCSTechnical5IC engines in brief
+51277MechanicalTCSTechnical6difference between 2 stroke and 4 stroke
+51377MechanicalTCSTechnical7power max.in 2 stroke. Why?
+51477MechanicalTCSTechnical8Seminar
+51578MechanicalTCSTechnical1Introduction
+51678MechanicalTCSTechnical2Extracurricular activities participation
+51778MechanicalTCSTechnical3Why less score in SE?
+51878MechanicalTCSTechnical4favourite subject
+51978MechanicalTCSTechnical5What is quality and from where it begins?
+52078MechanicalTCSTechnical6Are you familiar with 'C'?
+52178MechanicalTCSTechnical7What is MATLAB and its use?
+52278MechanicalTCSTechnical8Which profile you wouldlike to work in?
+52378MechanicalTCSTechnical9What is multiport fuel injection system? Uses
+52478MechanicalTCSTechnical10Puzzle
+52579MechanicalTCSTechnical1Introduction
+52679MechanicalTCSTechnical2Why TCS?
+52779MechanicalTCSTechnical3Iron-carbon diagram
+52879MechanicalTCSTechnical4working of air compressor
+52979MechanicalTCSTechnical5newton's 1st and 2nd law
+53079MechanicalTCSTechnical6why copper is used in wiring?
+53179MechanicalTCSTechnical7is copper a good conductor of heat?
+53279MechanicalTCSTechnical8questions related to pumps
+53380MechanicalTCSTechnical1Introduction
+53480MechanicalTCSTechnical2Strength and weakness
+53580MechanicalTCSTechnical3Why should I hire you?
+53680MechanicalTCSTechnical4BE project
+53780MechanicalTCSTechnical5Subject you like most
+53880MechanicalTCSTechnical6why do you like that subject?
+53980MechanicalTCSTechnical7have you done any design project?
+54080MechanicalTCSTechnical8what you did in these 4 years
+54180MechanicalTCSTechnical9satisfied with your decision of to do engineering?
+54280MechanicalTCSTechnical10What do you do weekends?
+54380MechanicalTCSTechnical11any constraints about region
+54480MechanicalTCSTechnical12Any question from your side?
+54581MechanicalTCSHR1Are you ready to work in Chennai for 3 years?
+54681MechanicalTCSTech1Being a Mechanical,why do you want to go in ITIS?
+54781MechanicalTCSTech2Are you ready to do work in ITIS?
+54881MechanicalTCSMR1Tell me other than your CV.
+54981MechanicalTCSMR2Why do you want to join TCS?
+55081MechanicalTCSMR3What do you know about TCS?
+55182MechanicalTCSHR1Tell me about your family background.
+55282MechanicalTCSHR2If you want to choose the best manager from Shri Krishna 
+and Shri Rama then whom will you choose? Why?
+55382MechanicalTCSHR3What is TaTa Swach?
+55482MechanicalTCSHR4Are you willing to relocate?
+55582MechanicalTCSHR5What are your hobbies?
+55682MechanicalTCSHR6Do you have any photographs related to your hobby?
+55782MechanicalTCSHR7Who is Radhey?
+55882MechanicalTCSHR8You are from Mechanical then why are you applying for an 
+IT company?
+55982MechanicalTCSHR9Would you like to ask me any question?
+56083MechanicalTCSHR1Why do you want to join TCS? Just as it is your 1st 
+Recruitment drive or really you will to work with TCS?
+56183MechanicalTCSHR2Are you satisfied wherever we send you?
+56283MechanicalTCSHR3Can you bond with us to work for 3 years?
+56383MechanicalTCSMR1All about mini project of Mechatronics. And out of box 
+thinking for innovation in that project.
+56483MechanicalTCSMR2Tell me about your self.
+56584MechanicalTCSHR1Why do you like to join the TCS?
+56684MechanicalTCSHR2Are you ready to relocate?
+56784MechanicalTCSHR3What is your interest apart from technical field?
+56884MechanicalTCSHR4Tell me one thing that I would like to listen.
+
+56984MechanicalTCSHR5Are you ready for any bond or any restriction?
+57084MechanicalTCSHR6How was your last interview?
+57184MechanicalTCSHR7What is your strength and your weakness?
+57285MechanicalTCSHR1Tell me a special thing about yourself.
+57385MechanicalTCSHR2What are your strenths and weaknesses? How do you 
+handle your weaknesses?
+57485MechanicalTCSHR3Can you do a job in Chennai?
+57585MechanicalTCSHR4Do you have any future education plan?
+57685MechanicalTCSHR5Are you ready to sign a bond of 2 years with TCS?
+57785MechanicalTCSHR6Any question for the HR?
+57886MechanicalTCSHR1Tell me about yourself.
+57986MechanicalTCSHR2Why should we hire you?
+58086MechanicalTCSHR3What are your strenths and weaknesses?
+58186MechanicalTCSHR4What is NSS?
+58286MechanicalTCSHR5Do you have any constraints about regions?
+58386MechanicalTCSHR6Are you really ready to do any work in TCS?
+58486MechanicalTCSMR1Tell me about yourself.
+58586MechanicalTCSMR2Tell me about your strengths and weaknesses.
+58686MechanicalTCSMR3Have you played Cricket with leather ball?
+58786MechanicalTCSMR4What was the size of the ball? 7-8 diameter?
+58886MechanicalTCSMR5What was the distance between the 2 stumps?
+58986MechanicalTCSMR6What was the length of the pitch? (22 yards)
+59086MechanicalTCSMR7What is the tagline of TCS? (Experience Certainty)
+59187MechanicalTCSHR1Tell me about your family background.
+59287MechanicalTCSHR2What will you do if you do not get selected?
+59387MechanicalTCSHR3What extra work have you done?
+59487MechanicalTCSTech1Testing of materials.
+59587MechanicalTCSTech2C.R of C.I engine.
+59687MechanicalTCSTech3Heat pump.
+59787MechanicalTCSTech4Efficiency of heat pump.
+59888MechanicalTCSHR1About company bond and location constraints?
+59988MechanicalTCSHR2Are you satisfied if we offer you an ITIS service?
+60088MechanicalTCSHR3With whom are staying in Nigdi?
+60188MechanicalTCSHR4Any questions from your side?
+60288MechanicalTCSMR1Tell me about yourself.
+60388MechanicalTCSMR2Tell me about your family.
+60488MechanicalTCSMR3About BE projects? (Cross questioning based on BE 
+projects)
+60588MechanicalTCSMR4Questions on 4 stroke engines. (Like how many 
+strokes,which are those strokes)
+60688MechanicalTCSMR5What type of coolant is used in m/c operations?
+60788MechanicalTCSMR6Questions on quality controls? What are the different ways 
+to achieve it?
+60889MechanicalTCSMR1Tell me about yourself. About your family and hobbies.
+60989MechanicalTCSMR2Explain types of NDT(Non Destructive Tests).
+61089MechanicalTCSMR32 stoke and 4 stroke engines.
+61189MechanicalTCSMR4CFD,Diesel and petrol engines.
+61289MechanicalTCSMR5Exhaust gas/polluton control.
+61389MechanicalTCSMR6Simulation
+61489MechanicalTCSMR7why TCS?
+61589MechanicalTCSMR8As there is no spark plug in C.I engine then why is it 
+costlier? 
+61689MechanicalTCSHR1Location constraints?
+61789MechanicalTCSHR2Will you work for any given profile?
+61889MechanicalTCSHR3Question regarding the bond structure of TCS for 2 years?
+61990MechanicalTCSHR1Tell me about your family background. About your family 
+members.
+62090MechanicalTCSHR2Do you have any backlogs?
+62190MechanicalTCSHR3why TCS?
+62290MechanicalTCSHR4Why should I give you a job if you've got a good family 
+background.
+62390MechanicalTCSHR5Do you have anything to share other than TCS?
+62490MechanicalTCSMR1Tell me about yourself.
+62590MechanicalTCSMR2Why should I hire you?
+62690MechanicalTCSMR3What are your hobbies?
+62790MechanicalTCSMR4Tell me about your family background.
+62890MechanicalTCSMR5why TCS?
+62990MechanicalTCSMR6Why an IT company?
+63090MechanicalTCSMR7Why should we select you?
+63190MechanicalTCSMR8What if we select you and give a job in Chennai?
+63290MechanicalTCSMR9What if we give you a night shift?
+63390MechanicalTCSMR10What if we don't select you?
+63491MechanicalTCSHR1Tell me about yourself.
+63591MechanicalTCSHR2Would you like to work in an IT company?
+63691MechanicalTCSHR3Are you ready to relocate?
+63791MechanicalTCSHR4Are there any time constraints?
+63891MechanicalTCSHR5How can your hobbies play a vital role for the company's 
+growth?
+63991MechanicalTCSMR1What according to you is the wrong thing going on around 
+you?
+64091MechanicalTCSMR2What are your strengths & weaknesses?
+64192MechanicalTCSHR1Tell me about your likes,dislikes,family, your interest and 
+whatever you want to share with me.
+64292MechanicalTCSHR2How many siblings do you have and what are they doing?
+
+64392MechanicalTCSHR3Do you help your mother in household work and what's the 
+price of onion in the market?
+64492MechanicalTCSHR4Which sabji do you like and which one do you dislike?
+64592MechanicalTCSHR5Do you have any location constraints?
+64692MechanicalTCSMR1Solve the logic: How many 1's and 0's are there in the given 
+array. How will you findout that without writing any 
+program? If ten elements are given then how many 1's and 
+0's are there? solution: Just add them all and you will get 
+no of 1's and just subtract them from 10 and you'll get no 
+of 0's.
+5.1
+64792MechanicalTCSMR2What is more important? Money or Work?
+64892MechanicalTCSMR3If a computer guy works better than you and if I give him 
+good pay then is it injustice for you as you are from 
+mechanical?
+64992MechanicalTCSMR4Which person in your life do you admire the most?
+65092MechanicalTCSMR5Till now what have you done for him/her?
+65193MechanicalTCSHR1What about your accomodation and food if you are getting 
+a job in Chennai?
+65293MechanicalTCSHR2Are you ready to work in ITIS?
+65393MechanicalTCSHR3What is your family background?
+65494MechanicalTCSTech1Which domain do you like to work?
+65594MechanicalTCSTech2What is an IT company?
+65694MechanicalTCSHR1Are you ready to relocate?
+65794MechanicalTCSHR2About the bond of TCS?
+65894MechanicalTCSHR3Are you ready to work in an IT company being a mechanical 
+engineer?
+65994MechanicalTCSHR4Any higher education plans?
+66094MechanicalTCSMR1Tell me about yourself.
+66194MechanicalTCSMR2What are your strengths & weaknesses?
+66294MechanicalTCSMR3Tell me about your hobbies. What are your interests?
+66394MechanicalTCSMR4Do u have any location constraints?
+66494MechanicalTCSMR5What is IIS and ITIS?
+66594MechanicalTCSMR6Tell me about your project.
+66695MechanicalTCSHR1Tell me about yourself which isn't there in the resume.
+66795MechanicalTCSHR2What are your weaknesses?
+66895MechanicalTCSHR3Any city constraints? Any timing constraints?
+66995MechanicalTCSHR4Questions on particular situations.
+67095MechanicalTCSMR1Tell me about yourself.
+67195MechanicalTCSMR2Where do you see yourself after 2 years?
+67295MechanicalTCSMR3Are you ready to work in the various sectors of TCS?
+67396MechanicalTCSHR1Why do you want to join an IT company?
+67496MechanicalTCSHR2You have scored good marks then why don't you plan for 
+your higher studies?
+67596MechanicalTCSHR3Incidents from extra curricular activities like 
+NSS,ROBOCON,SAE BAJA.
+67696MechanicalTCSHR4What are your weaknesses? What do you do to overcome 
+them?
+67796MechanicalTCSHR5Asked about Campus Commune, the respective scores and 
+events participated.
+67896MechanicalTCSMR1Questions on your village/hometown. Why did you come 
+to Pune for your studies?
+67996MechanicalTCSMR2Why should I hire you?
+68096MechanicalTCSMR3About salary.
+68197MechanicalTCSHR1why TCS?
+68297MechanicalTCSHR2Why should we hire you?
+68397MechanicalTCSHR3Are you ready to relocate?
+68497MechanicalTCSHR4Are you ready to work in night shifts?
+68597MechanicalTCSMR1Introduce yourself.
+68697MechanicalTCSMR2Do you know any computer languages?
+68797MechanicalTCSMR3From the given array how will you find the number of 1's 
+and 0's.
+5.2
+68897MechanicalTCSMR4Write a C program to find the prime numbers.
+68997MechanicalTCSMR5Do you know networking,DBMS?
+69097MechanicalTCSMR6What is TCP/IP?
+69197MechanicalTCSMR7Who is the most important person in your life? What have 
+you done to make him/her happy?
+69298MechanicalTCSMR1Introduce yourself.
+69398MechanicalTCSMR2Would you like to work in ITIS? 
+69498MechanicalTCSHR1Are you ready to work at any location?
+69598MechanicalTCSHR2Do you have any question for the HR?
+69699MechanicalTCSHR1About the bond of TCS?
+69799MechanicalTCSHR2Location constraints?
+69899MechanicalTCSHR3Asked to make a paper boat.
+69999MechanicalTCSMR1about family.
+70099MechanicalTCSMR2About project and its uses.
+70199MechanicalTCSMR3TQM (Quality tools)
+70299MechanicalTCSMR4Marks of 1st,2nd and 3rd year.
+703100MechanicalTCSHR1Would you like to work in TCS?
+704100MechanicalTCSHR2If you are a mechanical engineer then why do you want to 
+work in an IT company?
+705100MechanicalTCSHR3Tell me about TCS.
+706100MechanicalTCSHR4What type of work would ITIS do?
+707100MechanicalTCSHR5The CEO of TCS.
+708101MechanicalTCSHR1Are you fine with relocating?
+
+709101MechanicalTCSHR2If I send you to Kabul for a project then will it be fine with 
+you?
+710101MechanicalTCSHR3Tell me about your family.
+711101MechanicalTCSMR1Difference between CATIA and AUTOCAD?
+712101MechanicalTCSMR2What is selidige,CATIA and AutoCAD?
+713101MechanicalTCSMR3Can we do surfacing in AutoCAD?
+714101MechanicalTCSMR4What is CFD?
+715101MechanicalTCSMR5What is heat exchanger?
+716101MechanicalTCSMR6What is power train?
+717101MechanicalTCSMR7Tell me more about your project?
+718101MechanicalTCSMR8Types of codants used?
+719101MechanicalTCSMR9Questions on particular situations.
+720101MechanicalTCSMR10Do you have any question to ask?
+721102MechanicalTCSTechnical1Tell me about yourself?
+722102MechanicalTCSTechnical2about your brothers & what they do?
+723102MechanicalTCSTechnical3comedy incidence between you & your brothers?
+724102MechanicalTCSTechnical4Do you think women can change everything?
+725102MechanicalTCSTechnical5How will you handle your family & job?
+726102MechanicalTCSTechnical6Tell me about your project?
+727102MechanicalTCSTechnical7Detail explanation of project?
+728102MechanicalTCSTechnical8Strnght & wealness?
+729102MechanicalTCSTechnical9example  of team work?
+730102MechanicalTCSTechnical10do women have that much power to change everything?
+731102MechanicalTCSTechnical11hoolywood & bollywood music which you have seen 
+recently?
+732102MechanicalTCSTechnical12your role model?
+733102MechanicalTCSTechnical13other than family who is your role model?
+734103MechanicalTCSTechnical1Tell me something about yourself?
+735103MechanicalTCSTechnical2 tell about your achievements
+736103MechanicalTCSTechnical3write any c program?
+737103MechanicalTCSTechnical4tell me something about project?
+738103MechanicalTCSTechnical5if your member is not ready to do work what will you do?
+739103MechanicalTCSTechnical6what is function of clutch
+740103MechanicalTCSTechnical7difference between two strokes & four strokes?
+741103MechanicalTCSTechnical8who is Cyrus Mestry?
+742104MechanicalTCSTechnical1types of pumps?
+743
+104
+MechanicalTCSTechnical2difference between refrigenerator & air conditioning?
+744104MechanicalTCSTechnical3tell me about your project?
+745105MechanicalTCSTechnical1tell me about yourself?
+746105MechanicalTCSTechnical2why you to want to join TCS?
+747105MechanicalTCSTechnical3tell me about your project?
+748105MechanicalTCSTechnical4tell me about your contribution in project?
+749105MechanicalTCSTechnical5what is your favourite subject?
+750105MechanicalTCSTechnical6what is year ratio?
+751105MechanicalTCSTechnical7what is ductile material?
+752105MechanicalTCSTechnical8what is anneling?
+753105MechanicalTCSTechnical9what is heat treatment?
+754106E&TCTCSHR1what is strength?
+755106E&TCTCSHR2CEO of TCS?
+756106E&TCTCSHR3revenue of TCS?
+757106E&TCTCSHR4ready to work in ITIS?
+758107ComputerTCSHR1tell me something about yourself?
+759107ComputerTCSHR2what are your strengths?
+760107ComputerTCSHR3what are your weekness?
+761107ComputerTCSHR4what do you do to overcome your weekness?
+762107ComputerTCSHR5what is your hobby?
+763107ComputerTCSHR6do you play any sport?
+764107ComputerTCSHR7tell me about your BE project?
+765108MechanicalTCSHR1give me your family details?
+766108MechanicalTCSHR2which domain would you like to work?
+767109MechanicalTCSMR1tell me something about yourself?
+768109MechanicalTCSMR2what is your role in your project?
+769109MechanicalTCSMR3describe your project?
+770109MechanicalTCSMR4who is the most important person in your life?
+771109MechanicalTCSMR5what you have done to make that person happy?
+772109MechanicalTCSMR6do you have any siblings?
+773109MechanicalTCSMR7tell me one case where you helped your siblings?
+774109MechanicalTCSMR8tell me something about ITIS?
+775109MechanicalTCSMR9tell me about TCS?
+776109MechanicalTCSMR10how will you as a mechanical engineer fit into TCS?
+777109MechanicalTCSMR11anything questions for us?
+778
+110Computer
+TCS
+Technical
+1Write a programto print drives , folders,files in computer 
+system?
+779110ComputerTCSTechnical2what is bigdata?
+780110ComputerTCSTechnical3rate yourself in database from 1 to 10?
+781111ComputerTCSTechnical1introduce yourself.
+782111ComputerTCSTechnical2WAP for string to check if palindrome or not?
+783111ComputerTCSTechnical3why selected diploma not 11th & 12th?
+784111ComputerTCSTechnical4tell me about your strength?
+785112ComputerTCSTechnical1what is inheritance & abstraction?
+786112ComputerTCSTechnical2introduce yourself.
+787112ComputerTCSTechnical3compile the code given below?(code is given)
+788112ComputerTCSTechnical4what are data structures?
+
+789
+112Computer
+TCS
+Technical
+5write a code to implement DLL & perform operation on it?
+790112ComputerTCSTechnical6what is your TE project?
+791112ComputerTCSTechnical7what is backends used?
+792112ComputerTCSTechnical8tell me about java basics?
+793113ComputerTCSTechnical1tell me about your final year project.
+794113ComputerTCSTechnical2tell me about the papers which are published?
+795
+113Computer
+TCS
+Technical
+3write a progarm for merge sort & tell sorting alogorithm.
+796113ComputerTCSTechnical4difference between DBMS & RDBMS?
+797113ComputerTCSTechnical5tell me about ACID property.
+798113ComputerTCSTechnical6OOPS concept with an example.
+799113ComputerTCSTechnical7write code for function overloading.
+800113ComputerTCSTechnical8what is normalisation?
+801113ComputerTCSTechnical9solve the given puzzle.
+802114ComputerTCSTechnical1tell me about yourself.
+803114ComputerTCSTechnical2explain BE project 
+804114ComputerTCSTechnical3draw model for BE project.
+805114ComputerTCSTechnical4which server is used for "  , & why?
+806114ComputerTCSTechnical5what are the different servers available?
+807114ComputerTCSTechnical6which DBMS tools are in use & why?
+808114ComputerTCSTechnical7difference between mysql & nosql?
+809114ComputerTCSTechnical8OOPS virtual function(diamond model)
+810114ComputerTCSTechnical9how to implement dictionary search algorithm?
+811114ComputerTCSTechnical10what is paging?
+812115ComputerTCSTechnical1what is difference between c,c++,java?
+813115ComputerTCSTechnical2write small program to display information in java?
+814115ComputerTCSTechnical3which tag is used for table in html?
+815115ComputerTCSTechnical4what is mean by pointer?
+816115ComputerTCSTechnical5which is your favourite subject?
+817115ComputerTCSTechnical6what are the types of arrays in c?
+818
+115Computer
+TCS
+Technical
+7write small code for sorting numbers using sorting algorith 
+in c?
+819116ComputerTCSTechnical1detail explanation of BE priject?
+820116ComputerTCSTechnical2what is copy constructor?
+821116ComputerTCSTechnical3what is static variable?
+822116ComputerTCSTechnical4questions based on database?
+823117ComputerTCSTechnical1difference between c&c++?
+824117ComputerTCSTechnical2tell me about sql quary
+825117ComputerTCSTechnical3what is or?
+826117ComputerTCSTechnical4tell me about final year project?
+827117ComputerTCSTechnical5tell me about normalisation concept?
+828118ComputerTCSTechnical1tell me about yourself?
+829118ComputerTCSTechnical2which is your favourite subject?
+830118ComputerTCSTechnical3what is difference between DBMS & RDBMS?
+831118ComputerTCSTechnical4questions depending about languages?
+832118ComputerTCSTechnical5what is your area of interest?
+833119ComputerTCSTechnical1what is overloadung & overriding?
+834119ComputerTCSTechnical2tell me about pass by value & pass by reference?
+835119ComputerTCSTechnical3tell me about your BE project?
+836119ComputerTCSTechnical4what is reverse string in c++?
+837119ComputerTCSTechnical5inheritance in c++?
+838119ComputerTCSTechnical6SQL,query(create,delete,drop)
+839119ComputerTCSTechnical7tell about vitual functions,class?
+840120ComputerTCSTechnical1give your proect discription.
+841120ComputerTCSTechnical2what is bigdata?
+842120ComputerTCSTechnical3tell me about pointers?
+843120ComputerTCSTechnical4what is inheritance?
+844120ComputerTCSTechnical5tell me about all concepts about database?
+845120ComputerTCSTechnical6what is virtual functions?
+846120ComputerTCSTechnical7tell me about  your project?
+847121ComputerTCSTechnical1tell me about yourself?
+848121ComputerTCSTechnical2explain your BE & TE project?
+849121ComputerTCSTechnical3explain heap sort?
+850121ComputerTCSTechnical4which sorting technique is faster?
+851121ComputerTCSTechnical5explain quick sort?
+852121ComputerTCSMR1explain BE project in detail?
+853121ComputerTCSMR2which is your favourite subject?
+854121ComputerTCSMR3what is your strength?
+855121ComputerTCSMR4what is your role in your project?
+856121ComputerTCSMR5tell me about your hobbies?
+857122ComputerTCSTechnical1tell me about yourself?
+858122ComputerTCSTechnical2profile preffered? Details of EIS?
+859122ComputerTCSTechnical3what you know about TCS?
+860122ComputerTCSTechnical4give me your project details?
+861122ComputerTCSTechnical5who is CEO of TCS?
+862122ComputerTCSTechnical6other things which are not mentioned in resume?
+863123E&TCTCSTechnical1tell me about yourself?
+864123E&TCTCSTechnical2your area of interest?
+865123E&TCTCSTechnical3tell me about your family background?
+866123E&TCTCSTechnical4what is latch?
+867123E&TCTCSTechnical5which gates are universal gates?
+868123E&TCTCSTechnical6tell me names of different Ics used?
+869123E&TCTCSTechnical7tell me about your BE project?
+870123E&TCTCSTechnical8How was your project is usufell?
+871123E&TCTCSTechnical9are you ready to learn new languages?
+872123E&TCTCSHR1tell me about yourself?
+
+873123E&TCTCSHR2what are your strengths?
+874123E&TCTCSHR3Do you have any location constrents?
+875123E&TCTCSHR4are you ready to work in late hours?
+876123E&TCTCSHR5team work is good or want to work alone?
+877123E&TCTCSHR6where do you belong to?
+878124ITTCSTechnical1tell me about tcs?
+879124ITTCSTechnical2tell me about your weakness?
+880124ITTCSTechnical3employee policies for tcs?
+881124ITTCSTechnical4location adaptability?
+882125ITTCSMR1introduce yourself.
+883125ITTCSMR2why to join TCS?
+884125ITTCSMR3what are your goals?
+885125ITTCSMR4what is IIS?
+886125ITTCSMR5what are your hobbies?
+887125ITTCSTechnical1distinguish between overloading and overriding?
+888125ITTCSTechnical2code for connectivity between java & oracle?
+889125ITTCSTechnical3what is inheritance?
+890125ITTCSTechnical4what is polymorphism?
+891125ITTCSTechnical5difference between java & c++?
+892125ITTCSTechnical6why you like java?
+893126ITTCSTechnical1how to rename a file unix?
+894126ITTCSTechnical2set of unix commands?
+895126ITTCSTechnical3explain your projects?
+896126ITTCSTechnical4flowchart of your project?
+897126ITTCSTechnical5structure for link list.
+898126ITTCSTechnical6what is v-model?
+899126ITTCSTechnical7types of testing?
+900126ITTCSTechnical8why to join tcs?
+901126ITTCSTechnical9what are your weakness?
+902126ITTCSTechnical10tell me about flexibility time & location?
+903127E&TCTCSTechnical1introduce yourself.
+904127E&TCTCSTechnical2tell me about your mini project?
+905127E&TCTCSTechnical3basics of c, sorting , linked list?
+906
+127E&TC
+TCS
+Technical
+4basics of electronics like mosfet, FET,PN JUCTION DIODE?
+907128ComputerTCSTechnical1difference between DBMS & RDBMS?
+908128ComputerTCSTechnical2oops concepts.
+909128ComputerTCSTechnical3tell me about your project/
+910128ComputerTCSTechnical4questions based on c++ programs?
+911128ComputerTCSTechnical5what is DBMS?
+912
+129Computer
+TCS
+Technical
+1how internet work when you type www.google.com?
+913129ComputerTCSTechnical2types of new technologies?
+914129ComputerTCSTechnical3diifference between firewall & proxy server?
+915129ComputerTCSTechnical4have you case diagram for your project?
+916129ComputerTCSTechnical5TI address classes?
+917129ComputerTCSMR1tell me about yourself?
+918129ComputerTCSMR2explain your projects?
+919129ComputerTCSMR3flexibility of area?
+920129ComputerTCSHR1tell me about yourself
+921129ComputerTCSHR2location flexibility
+922129ComputerTCSHR3time flexibility?
+923129ComputerTCSHR4tell me about your project?
+924129ComputerTCSHR5what are your weakness?
+925
+130Mechanical
+TCS
+Aptitude
+1value of scooter depreciates by 4/3 each year of initial 
+value of scooter is 40000. what is value of scooter after 3 
+years?
+926
+130Mechanical
+TCS
+Aptitude
+2A travels 1.5 kmph faster than B.they have 10 kms; if A 
+reaches earlier than B. find speed of A.
+927
+130Mechanical
+TCS
+Aptitude
+3If 80 sharpners cost  100 Rs . If white sharpners cost is 1 rs 
+more than black sharpners .how much he pays for white 
+sharpner & how many bugs? 
+928130MechanicalTCSAptitude4find possibilities of finding asunday in leap year?
+929130MechanicalTCSAptitude5f(x)=x^4+x^2+x+5 & f(-3)=2.find f(3).
+930
+130Mechanical
+TCS
+Aptitude
+6mother + daughter + infant =74 , infant = 0.4 kgs,find  
+daughters weight?
+931
+130Mechanical
+TCS
+Aptitude
+7apples L RS=30kg,additional 1kg Q 
+RS,33kg=1167,36kg=1284,find first 10kgs?
+932
+130Mechanical
+TCS
+Aptitude
+8A is at 256 km away from B both are moving towards each 
+other,10 minutes before speed of A was 48 kmph when 
+they meet each other A  has travelled 101 km & B is 
+travelled 155 km from their location.then what is speed of 
+B?
+933131IT TCSTechnical1what is your role in your project?
+934131IT TCSTechnical2flowchart of project?
+935131IT TCSTechnical3give some names of database?
+936131IT TCSTechnical4tell me some unix commands?
+937131IT TCSTechnical5how to rename file in unix?
+938132ComputerTCSMR1Tell me something about yourself.
+939132ComputerTCSMR2Question about forbes marshall internship-which approach 
+did you use?
+940132ComputerTCSMR3About your strength-technological and professional
+941132ComputerTCSMR4which is your favorite programming language?
+942132ComputerTCSMR5The feature of programming languages(they expect layman 
+answer)
+943132ComputerTCSMR6OOPs: any one concept with example
+944132ComputerTCSMR7about DB design
+
+945132ComputerTCSMR8why do you want to join TCS?
+946132ComputerTCSHR1Tell me something about yourself.
+947132ComputerTCSHR2Why should we select you?
+948132ComputerTCSHR3Are you flexible in terms of location and time?
+949133E&TCTCSTech1Design 5V power supply
+950133E&TCTCSTech2Write a code for addition of two numbers
+951133E&TCTCSTech3V2 = ?figure=1.1
+952133E&TCTCSTech4Explain OSI model
+953134E&TCTCSMR1Tell me something about yourself.
+954134E&TCTCSMR2If you are giving one situation that you want to select one 
+choice from JAVA,data structure and networking then what 
+you do?
+955134E&TCTCSMR3Anything regarding TCS?
+956134E&TCTCSMR4Any questions to MR?
+957135E&TCTCSMR1Tell me something about yourself.
+958135E&TCTCSMR2Tell something about your project
+959135E&TCTCSMR3Why you moved to IT industry?
+960135E&TCTCSMR4ITIS information
+961136E&TCTCSTech1010111 count 1's and 0's without any control structure and 
+what is the size of array when n=10
+962136E&TCTCSTech2 write program and explain the following concept in c and 
+c++ 1)call by value.  2)call by reference
+963136E&TCTCSTech3Explain the tables which you are included in your project
+964136E&TCTCSTech4Are you comfortable with relocation?
+965136E&TCTCSTech5Is security important?
+966136E&TCTCSTech6Explain most important points of c and c++
+967137E&TCTCSTech1Basic amplifier ckt (common emitter),component values 
+and derive its output voltage
+968137E&TCTCSTech2Explain the concept of full wave,half wave and bridge 
+rectifier
+969137E&TCTCSTech3From figure find values of v1,v2 and v31.2
+970137E&TCTCSTech4Explain about motors and types of motors
+971137E&TCTCSTech5questions based on VHDL and C-Coding
+972138E&TCTCSHR1Tell me something about yourself.
+973138E&TCTCSHR2Are you ready to work anywhere anytime?
+974138E&TCTCSHR3Any questions about job?
+975139E&TCTCSTech1Introduce yourself
+976139E&TCTCSTech2Tell me about your mini project
+977139E&TCTCSTech3basics of c language(like sorting algorithms,LL)
+978139E&TCTCSTech4basics of electronics(like Diode,MOSFET,FET)
+979139E&TCTCSTech5Areas in TCS
+980140E&TCTCSTech1final year project(details with block diagram)
+981140E&TCTCSTech2about TE 
+project(coding,implementation,MATLAB,algorithm)
+982140E&TCTCSTech3questions based on c-coding and searching algorithm like 
+1)given stream=11011110   flip the 5th bit and write the 
+code
+983140E&TCTCSTech4which is your favorite subject?why it is your favorite and 
+one question related to that subject
+984140E&TCTCSTech5Explain sensor,transducer,full adder
+985140E&TCTCSTech6technical courses that you have done till now
+986141E&TCTCSTech1what is FM?
+987141E&TCTCStech2Ranges of FM,AM,and MICROWAVE
+988141E&TCTCStech3selectivity and fiedility
+989141E&TCTCStech4linked list and its types
+990141E&TCTCStech5what is structure?
+991141E&TCTCStech6write code for conversion of a nunber from hexadecimal to 
+binary
+992141E&TCTCSHR1what will you do if your leader is arrogqnt as well as 
+members are arrogant?
+993141E&TCTCSHR2tell about your family background
+994141E&TCTCSHR3tell me about yourself
+995141E&TCTCSHR4tell about your projects
+996142E&TCTCSTech1what is latch and flip-flop?
+997142E&TCTCSTech2state sampling theorem.what is aliasing?
+998142E&TCTCSTech3explain 8:1 multiplexer
+999142E&TCTCSTech4computer network basics
+1000142E&TCTCSTech5what is topology?
+1001142E&TCTCSTech6ISO-OSI   layer explain
+1002142E&TCTCSTech7explain TCP-IP layer
+1003142E&TCTCSTech8explain transport layer
+1004143ComputerTCSHR1tell me about yourself
+1005143ComputerTCSHR2your hobbies
+1006143ComputerTCSHR3about location and timing constraints
+1007143ComputerTCSHR4your strengths
+1008144E&TCTCSTech1explain your project in details with algorithms
+1009144E&TCTCSTech2what is modulation?
+1010144E&TCTCSTech3what is nequist criteria?
+1011144E&TCTCSTech4give me your personal details
+1012144E&TCTCSTech5tell the sub names which are there for this semester
+1013145E&TCTCSTech1explain your final year project
+1014145E&TCTCSTech2explain the database concepts
+1015145E&TCTCSTech3location
+1016146ITTCSTech1what is internet ? How it works?
+1017146ITTCSTech2difference between JAVA,C AND C++.
+1018147E&TCTCSHR1Tell me something about yourself.
+
+1019147E&TCTCSHR2what's your project in BE?
+1020147E&TCTCSHR3which is your favorite subject?
+1021147E&TCTCSHR4your strengths
+1022148E&TCTCSTech1tell everything about project and about yourself(BE & 
+miniproject)
+1023148E&TCTCSTech2explain networks of OSI model
+1024148E&TCTCSTech3explain functions of network layer
+1025148E&TCTCSTech4what are different types of data structure?
+1026148E&TCTCSTech5what is software development cycle?
+1027148E&TCTCSTech6what are different management techniques
+1028148E&TCTCSMR1tell me about yourself
+1029148E&TCTCSMR2situation based questions
+1030148E&TCTCSMR3family background
+1031148E&TCTCSMR4why TCS if u r in EnTC
+1032148E&TCTCSMR5tell me about your short term and long term goals
+1033149ComputerTCSHR1tell me about project of BE
+1034149ComputerTCSHR2which projects you had done in TE?
+1035149ComputerTCSHR3explain operator overloading
+1036149ComputerTCSHR4explain primary key and composite key
+1037150ITTCSTech1tell me about your project
+1038150ITTCSTech2explain linux os- command
+1039150ITTCSTech3difference between JAVA,C AND C++.
+1040150ITTCSTech4explain sorting algorithms
+1041150ITTCSTech5HTML tags and language
+1042151ComputerTCSHR1tell me about yourself
+1043151ComputerTCSHR2why u didn't join army?
+1044151ComputerTCSHR3tell me your strength
+1045151ComputerTCSHR4giving any situation and we have to tell how to tackle them
+1046151ComputerTCSHR5would you do night shift?
+1047152ITTCSTech1difference between primary key and unique key
+1048152ITTCSTech2write a code for BST
+1049152ITTCSTech3write a code for binary tree
+1050152ITTCSTech4difference between doubly link list and deque
+1051152ITTCSTech5explain different models in SE
+1052153ITTCSTech1create table for voters application
+1053153ITTCSTech2design use cases for the same
+1054153ITTCSTech3about your project your software development life cycle 
+that you've applied
+1055153ITTCSTech4what are different types of cables and their uses?
+1056153ITTCSTech5explain your project domain
+1057153ITTCSTech6why you have given these as your domain
+1058154ITTCSHR1area of interest
+1059154ITTCSHR2any new inventions?
+1060154ITTCSHR3Introduce yourself
+1061154ITTCSHR4would you like to go for higher study?
+1062154ITTCSHR5flexibilty to work anywhere 
+1063154ITTCSHR6hobbies
+1064154ITTCSHR7interface and Absolute classes
+1065155E&TCTCSTech1Introduce yourself
+1066155E&TCTCSTech2explain project of diploma
+1067155E&TCTCSTech3which languages did you know?
+1068155E&TCTCSTech4halfadder--draw truthtable,k-map,realize the ckt
+1069155E&TCTCSTech5introduce the architecture of 8051
+1070155E&TCTCSTech6what is DTMF?how it works?
+1071155E&TCTCSTech7explain frequency bands in communication with ranges and 
+FM lies in which band?
+1072155E&TCTCSTech8explain TCP-IP layers.and when we entered www.g__.com 
+address,what or which layer we see on window?
+1073156E&TCTCSHR1explain microcontroller processor
+1074156E&TCTCSHR24/5 th of tank=270 km,   1/3 rd of fuel=? How much 
+distance you will travel
+1075156E&TCTCSHR3situation:you, father and husband are travelling in 
+ship....ship sinks ,so whom will u save if only you know 
+swimming
+1076156E&TCTCSHR4if you are in entc why TCS apply for core?
+1077156E&TCTCSHR5Tell me about your strength and weakness
+1078157E&TCTCSHR1Tell me something about yourself apart from your school 
+and college.
+1079157E&TCTCSHR2what is your weakness?
+1080157E&TCTCSHR3what are your strengths?
+1081157E&TCTCSHR4what is your hobby?(if reading books,which novel you have 
+read recently?,do you relate any character with your life?)
+1082157E&TCTCSHR5are you ok with relocation?
+1083157E&TCTCSHR6any time constrains?
+1084158MechanicalTCSTech1what is pump?
+1085158MechanicalTCSTech2what is viscosity?where is it required?& where it is not?
+1086158MechanicalTCSTech3what is heat? And what are types of heat?
+1087158MechanicalTCSTech4write formula for radiation
+1088158MechanicalTCSTech5what is common rail injection system?
+1089158MechanicalTCSMR1Introduce yourself
+1090158MechanicalTCSMR2tell me something about your seminar some questions on it
+1091158MechanicalTCSMR3what is your BE project?
+
+1092158MechanicalTCSMR4situation based questions
+1093158MechanicalTCSMR5How many squares are in the given figure?1.3
+1094159E&TCTCSMR1Introduce yourself
+1095159E&TCTCSMR2tell me about your family background and your hobbies
+1096159E&TCTCSMR3which is your favorite subject?
+1097159E&TCTCSMR4difference between IPV4 and IPV6
+1098159E&TCTCSMR5how many bits are in IPV4?
+1099159E&TCTCSMR6how many satellites are needed to cover whole earth?
+1100159E&TCTCSMR7explain GSM-cells area
+1101159E&TCTCSMR8voice range-FM and AM ranges
+1102159E&TCTCSHR1Introduce yourself
+1103159E&TCTCSHR2about ITI's
+1104159E&TCTCSHR3are you ready to work in ITI?
+1105159E&TCTCSHR4to relocate?
+1106159E&TCTCSTech1Introduce yourself
+1107159E&TCTCSTech2what do you know about image processing?
+1108159E&TCTCSTech3what controllers did you use?
+1109159E&TCTCSTech48051 about RAM and no of counters
+1110159E&TCTCSTech5explain OOD EVEN program
+1111159E&TCTCSTech68051 assembly program
+1112159E&TCTCSTech7transpose of matrix
+1113159E&TCTCSTech8explain bridge rectifier ,full wave rectifires
+1114159E&TCTCSTech9explain flip-flops
+1115159E&TCTCSTech10what are PLD's and programming of it?
+1116159E&TCTCSTech11AM and FM wave generator
+1117160ITTCSTech1tell me about yourself
+1118160ITTCSTech2about the project(cross questions) 
+1119160ITTCSTech3what are datastructure?
+1120160ITTCSTech4what are pointers?
+1121160ITTCSTech5why pointers are used?
+1122160ITTCSTech6do you used pointer in every code we write ? If not then 
+what's it use?
+1123160ITTCSTech7which domain do you want to work?
+1124160ITTCSTech8what is ITI?
+1125160ITTCSMR1tell me about yourself
+1126160ITTCSMR2location constraint
+1127160ITTCSMR3explain about CEO of TCS
+1128160ITTCSMR4why TCS?
+1129160ITTCSMR5which domain you want to choose?
+1130160ITTCSMR6where you see yourself after 5 years?
+1131160ITTCSMR7which domain are you interested in ?why?
+1132160ITTCSMR8who owns TATA group?
+1133160ITTCSMR9any question you want to ask me?
+1134160ITTCSMR1tell me about yourself
+1135160ITTCSMR2hobbies and cross questioning on it
+1136160ITTCSMR3tell me about your weakness
+1137160ITTCSMR41 negative and positive thing about TCS
+1138160ITTCSMR5can you work for 24 hrs?
+1139160ITTCSMR6any location constraint?
+1140160ITTCSMR7any question you want to ask me?
+1141160ITTCSMR8difference between ITI and EIS
+1142161MechanicalTCSHR1why do you want to join TCS?
+1143161MechanicalTCSHR2it is sure you want to join TCS ,or you are attending just for 
+sake?
+1144161MechanicalTCSHR3since you are from mechanicle ,can you work for ITI's 
+profile?
+1145161MechanicalTCSHR4relocation?
+1146161MechanicalTCSHR5why should I hire you?
+1147162ITTCSTechnical1Explain your BE project.
+1148162ITTCSTechnical2Difference between Java and C++.
+1149162ITTCSTechnical3Explain Interface and Abstract class.
+1150162ITTCSTechnical4SQL query to print the top 5 salary in table
+1151163ITTCSTechnical1Tell me about yourself.
+1152163ITTCSTechnical2Explain your BE project.
+1153163ITTCSTechnical3Why TCS ?
+1154163ITTCSTechnical4Why should I hire you?
+1155163ITTCSTechnical5what is page fault?
+1156163ITTCSTechnical6Describe B+ tree?
+1157163ITTCSTechnical7Write a code for heap sort.
+1158163ITTCSTechnical8Differnce between C,C++ & Java.
+1159163ITTCSTechnical9Java collection framework.
+1160163ITTCSTechnical10Favourite subject ?
+1161163ITTCSTechnical11UNIX commands.
+1162163ITTCSTechnical12Explain tunneling.
+1163163ITTCSTechnical13Explain firewall.
+1164163ITTCSTechnical14Link Q
+1165164ITTCSTechnical1Tell me about yourself.
+1166164ITTCSTechnical2Explain your BE project.
+1167164ITTCSTechnical3What are current trends in IT.
+1168164ITTCSTechnical4Code for intersection of two arrays.
+1169164ITTCSTechnical5Explain overloading and overriding.
+1170164ITTCSTechnical6Explain multiple inheritence in Java.
+1171164ITTCSTechnical7What is abstract class?
+1172164ITTCSTechnical8Explain interfaces in Java.
+1173165ITTCSTechnical1Write a code for bubble sort and selection sort.
+
+1174165ITTCSTechnical2Explain your BE project.
+1175165ITTCSTechnical3Your role?
+1176165ITTCSTechnical4Explain implementation ,coding,operator overloading,OOPS 
+concept.
+1177165ITTCSTechnical5Explain principles of abstraction ,inheritance etc.
+1178165ITTCSTechnical6Where have you use these principles in your project?
+1179165ITTCSTechnical7What is primary key,super key,unique key?
+1180165ITTCSTechnical8What is Joins ,normalization,DDL,DML?
+1181165ITTCSTechnical9Explain Deadlock,avoidance, prevention.
+1182165ITTCSTechnical10Explain semaphox,mutual exclusion?
+1183166ITTCSTechnical1Write binary search code in C.
+1184166ITTCSTechnical2Explain computer network devices(router,switch,hub)
+1185166ITTCSTechnical3Explain Big data.
+1186166ITTCSTechnical4Explain E-commerce.
+1187166ITTCSTechnical5What is polymorphism?
+1188166ITTCSTechnical6What is enumeration?How to use it?
+1189166ITTCSTechnical7Describe your project using MVCmodel.
+1190166ITTCSTechnical8Explain network topologies.
+1191167ITTCSTechnical1Explain your BE project.
+1192167ITTCSTechnical2which is your favourite subject?
+1193167ITTCSTechnical3Why TCS?
+1194167ITTCSTechnical4Explain relocation.
+1195167ITTCSTechnical5Explain database concept.
+1196167ITTCSTechnical6Why Java?
+1197167ITTCSTechnical7Explain string buffer
+1198167ITTCSTechnical8tell me about pointers.
+1199167ITTCSMR1In what area do you like to work?
+1200167ITTCSMR2Explain your 3rd year mini project.
+1201167ITTCSMR3What is pointer?
+1202167ITTCSMR4What is bubble sort?
+1203167ITTCSMR5Explain topologies.
+1204167ITTCSMR6Difference between IPV4 & IPV6
+1205167ITTCSMR7What is MAC address?
+1206167ITTCSMR8Explain TCP/IP configuration.
+1207167ITTCSMR9Explain OSI reference model.
+1208167ITTCSMR10Write a code for fibonacci series.
+1209167ITTCSMR11What is selection sort?
+1210168ITTCSTechnical1Why TCS?
+1211168ITTCSTechnical2Tell me about your weaknesses.
+1212168ITTCSTechnical3Write a structure of linked list.
+1213168ITTCSTechnical4Explain V model.
+1214168ITTCSTechnical5explain types of testing.
+1215168ITTCSTechnical6Draw flowchart of your project.
+1216168ITTCSTechnical7Role in project.
+1217169ITTCSTechnical1Introduce yourself.
+1218169ITTCSTechnical2What is Java.
+1219169ITTCSTechnical3What is difference between Java and C++.
+1220169ITTCSTechnical4What is IIS?
+1221169ITTCSTechnical5Difference between overloading and overriding.
+1222169ITTCSTechnical6Resume.
+1223169ITTCSTechnical7Tell me about your diploma project.
+1224169ITTCSTechnical8Explain your BE project.
+1225170ITTCSTechnical1Explain types of network topologies.
+1226170ITTCSTechnical2How internet works when you type www.google.com
+1227170ITTCSTechnical3Use case diagram.
+1228170ITTCSTechnical4Difference between firewall and proxy server
+1229170ITTCSTechnical5Explain IP classes.
+1230171ITTCSTechnical1Tell me about yourself.
+1231171ITTCSTechnical2Project details(cross questions)
+1232171ITTCSTechnical3What are the data structures.
+1233171ITTCSTechnical4What is pointers?
+1234171ITTCSTechnical5Why do we need pointers?
+1235171ITTCSTechnical6Do we need pointers everytime when we write a code?if 
+not then what is the importance of pointers.
+1236171ITTCSTechnical7Which domain do you want to work?
+1237171ITTCSTechnical8What is IIIS and EIS?
+1238172ITTCSTechnical1Tell me about yourself.
+1239172ITTCSTechnical2Why Java is used in your project?
+1240172ITTCSTechnical3What is polymorphism?
+1241172ITTCSTechnical4Explain DDL and DML
+1242172ITTCSTechnical5What is oracle?
+1243172ITTCSTechnical6What is RDBMS?
+1244172ITTCSTechnical7How to define relationship between two project.
+1245172ITTCSTechnical8Explain truncate and delete command
+1246172ITTCSTechnical9Explain overloading and overriding.
+1247173ITTCSTechnical1Tell me about yourself.
+1248173ITTCSTechnical2what is the meaning of your name.
+1249173ITTCSTechnical3I like the way you have created your resume.who helped 
+you?
+1250173ITTCSTechnical4Write C code to reversing of string ignoring spaces.
+1251173ITTCSTechnical5What are the real time aplications of Hadoop?
+1252173ITTCSTechnical6Solve puzzle
+1253174E&TCTCSTechnical1what is the meaning of your name.
+1254174E&TCTCSTechnical2Introduce yourself.
+
+1255174E&TCTCSTechnical3Explain your project.
+1256174E&TCTCSTechnical4FPGA based questtions.
+1257174E&TCTCSTechnical5Explain your TE project.
+1258174E&TCTCSTechnical6Questions of C programming.
+1259174E&TCTCSTechnical7Computer network questions.Explain switch,router.
+1260174E&TCTCSTechnical8How internet works?
+1261174E&TCTCSTechnical9Tell me about your family background.
+1262174E&TCTCSTechnical10Questions related job profile.
+1263175E&TCTCSTechnical1Explain truth table of flip-flop.
+1264175E&TCTCSTechnical2Explain motor working.
+1265175E&TCTCSTechnical3Can motor be converted into generator.
+1266175E&TCTCSTechnical4Explain sampling theorem
+1267175E&TCTCSTechnical5Explain Matlab.
+1268175E&TCTCSTechnical6Difference between ROM & RAM.
+1269175E&TCTCSTechnical7Explain symbol and characteristics of BGT & MOSFET.
+1270175E&TCTCSTechnical8Explain NAND gate.
+1271176E&TCTCSTechnical1Why NAND gates are used in VLSI.
+1272176E&TCTCSTechnical2What is noise margin?
+1273176E&TCTCSTechnical3explain project and why you selected in particular domain?
+1274176E&TCTCSTechnical4Explain sampling theorem
+1275176E&TCTCSTechnical5Explain 1:8 MUX.
+1276176E&TCTCSTechnical6Explain flip-flop and latches.
+1277176E&TCTCSTechnical7C program for fibonacci series.
+1278176E&TCTCSTechnical8What are the structures in C?
+1279176E&TCTCSTechnical9What is array and pointers in C?
+1280176E&TCTCSTechnical10What is static and dynamic memory allocation?
+1281176E&TCTCSTechnical11Tell me about yourself.
+1282176E&TCTCSTechnical12If I hire you in IIT then will you work there?
+1283177E&TCTCSTechnical1Information about OSI layers.
+1284177E&TCTCSTechnical2What is function of session layer.
+1285177E&TCTCSTechnical3What are relays?
+1286177E&TCTCSTechnical4Explain SMTP.
+1287177E&TCTCSTechnical5What is HTTP?
+1288177E&TCTCSTechnical6How internet works when you type www.google.com
+1289177E&TCTCSTechnical7Information about RFID(project)
+1290177E&TCTCSTechnical8What is embedded?
+1291177E&TCTCSTechnical9What should be connected in between motors and 
+controller for proper working of motor?
+1292177E&TCTCSTechnical10What are PLCs?
+1293178E&TCTCSTechnical1Tell me about yourself.
+1294178E&TCTCSTechnical2Explain your project.
+1295178E&TCTCSTechnical3Explain half wave ,full wave, bridge rectifier
+1296178E&TCTCSTechnical4Explain bubble sort.
+1297178E&TCTCSTechnical5TCP/IP model.
+1298178E&TCTCSTechnical6Basic programs in C
+1299179E&TCTCSTechnical1Introduce yourself.
+1300179E&TCTCSTechnical2Explain your project.
+1301179E&TCTCSTechnical3What is DTMF?Explain how it works?
+1302179E&TCTCSTechnical4Explain frequency band in communication with ranges.
+1303179E&TCTCSTechnical5Explain TCP/IP layers,after entering web address which 
+layer is seen on window?
+1304179E&TCTCSTechnical6Draw half adder circuit,give K-map & truth table.
+1305179E&TCTCSTechnical7Which section you want to  go?
+1306179E&TCTCSTechnical8They write a C code & told to decode and identify faults.
+1307179E&TCTCSTechnical9Explain architecture of 8051
+1308179E&TCTCSTechnical10What is VHDL?
+1309179E&TCTCSTechnical11What is computer networking?
+1310180E&TCTCSTechnical1Introduce yourself.
+1311180E&TCTCSTechnical2Electries?Why mobile communication?
+1312180E&TCTCSTechnical3How a call is set up and  received by receiver in GSM?
+1313180E&TCTCSTechnical4Various types of network in mobile communication in India 
+and GSM vsCDMA ?
+1314180E&TCTCSTechnical5Project details(cross questions)
+1315180E&TCTCSTechnical6Atmega Vs 8051
+1316180E&TCTCSTechnical7Pin diagram of Atmega16.
+1317180E&TCTCSTechnical8Explain OSI model & function of session layer in it.
+1318180E&TCTCSTechnical9Explain KVL & KCL.
+1319180E&TCTCSTechnical10What are sampling methods and sampling theorem?
+1320180E&TCTCSTechnical11Working & symbol of MOSFET.
+1321180E&TCTCSTechnical12Explain flip-flop vs latch.
+1322180E&TCTCSTechnical13Explain Racearround condition in JK flip-flop.
+1323180E&TCTCSTechnical14Explain 1:16 DEMUX & select o/p line 3
+1324180E&TCTCSTechnical15What are pointers and how they accessed?
+1325180E&TCTCSTechnical16VLSI basics and languages used?
+1326180E&TCTCSTechnical17How did you manage any pressure situation during 
+academics?
+1327180E&TCTCSTechnical18Any back question?
+1328181E&TCTCSTechnical1Tell me about yourself.
+1329181E&TCTCSTechnical2What did you learn in BSNL?
+1330181E&TCTCSTechnical3What is image processing?
+1331181E&TCTCSTechnical4What is cross compiler?
+
+1332181E&TCTCSTechnical5No of counters and RAM size.
+1333181E&TCTCSTechnical6Write a code on odd,even.
+1334181E&TCTCSTechnical78051 assembly program.
+1335181E&TCTCSTechnical8Explain transpose of matrix
+1336181E&TCTCSTechnical9Explain full wave,half wave rectifier and bridge.
+1337181E&TCTCSTechnical10What controllers did you use?
+1338181E&TCTCSTechnical11Explain flip-flop.
+1339181E&TCTCSTechnical12What are PLDs and program on it.
+1340181E&TCTCSTechnical13Explain AM and FM waves.
+1341182E&TCTCSTechnical1Introduce yourself.
+1342182E&TCTCSTechnical2Tell me about your mini project.
+1343182E&TCTCSTechnical3Draw block diagram of your project.
+1344182E&TCTCSTechnical4Pin diagram of PIC81452
+1345182E&TCTCSTechnical5Why you have used PIC instead of 8051?
+1346182E&TCTCSTechnical6Tell me about your BE project
+1347182E&TCTCSTechnical7Explain working of each component of your project.
+1348182E&TCTCSTechnical8What is servo system?
+1349182E&TCTCSTechnical9What is PLC?
+1350182E&TCTCSTechnical10Tell me manufacturers of PLC.
+1351182E&TCTCSTechnical11What are your favourite subjects?
+1352182E&TCTCSTechnical12What is GPS and GPRS and tell its fullform.
+1353182E&TCTCSTechnical13Explain working of GPS ,GPRS.
+1354182E&TCTCSTechnical14What is TCP/IP?
+1355182E&TCTCSTechnical15Questions on electromagnetic spectrum.
+1356182E&TCTCSTechnical16What is sensor and actuators?
+1357183E&TCTCSTechnical1Explain your BE and TE project.
+1358183E&TCTCSTechnical2Explain AM and FM modulation.
+1359183E&TCTCSTechnical3What are keywords in C?
+1360183E&TCTCSTechnical4What is VHDL and write any code.
+1361183E&TCTCSTechnical5Write the program for string.
+1362184E&TCTCSTechnical1Tell me about yourself.
+1363184E&TCTCSTechnical2Which subject have you studied?(microcontroller ,control 
+system, digital communication)
+1364184E&TCTCSTechnical3About time constraints and place.
+1365184E&TCTCSTechnical4About OSI layer in computer networking.
+1366184E&TCTCSTechnical5Explain Special function register.
+1367184E&TCTCSTechnical6What is microcontroller?
+1368185E&TCTCSTechnical1Explain BJT  CE amplifier,find R1,R2,Rc and V0.15.1
+1369185E&TCTCSTechnical2Tell me about motors and types series and shunt motors.
+1370185E&TCTCSTechnical3Rectifier circuit (Bridge,full wave ,half wave)
+1371185E&TCTCSTechnical4Find V1,V2,V3.15.2
+1372185E&TCTCSTechnical5Basic about C (program for string reversal)
+1373185E&TCTCSTechnical6Technical languages known to you?
+1374186MechanicalTCSEmail1You have joined a company through internship.Write an 
+email thanking your project manager .
+1375186MechanicalTCSAptitude1find 45th position of "ADVERB" in dictionary
+1376186MechanicalTCSAptitude25 balls of different colours are 5 steps(sum on probability)
+1377187MechanicalTCSEmail1Write an email to the Manager of Company telling him to 
+pay the money which is pending since 3 months
+1378187MechanicalTCSAptitude1Jake and Paul ..ind speed of jake
+1379187MechanicalTCSAptitude2133134..350   find no of 6 in it
+1380188MechanicalTCSEmail1Ramesh-thanks-challenge-difficulties-tight schedule
+1381189MechanicalTCSEmail1To project manager regarding progress and difficulties 
+faced during project
+1382189MechanicalTCSAptitude1Ramesh travels by train,bus fares are given..find distance 
+travelled by train..
+1383189MechanicalTCSAptitude24 colour balls,5 staircases..probability that same ball on a 
+staircase
+1384189MechanicalTCSAptitude31st term,nth  term 20 sum of n terms is 399
+1385189MechanicalTCSAptitude4no. of 6 from 130 to 355
+1386189MechanicalAptitude52 dice are rolled ..probability that 5 comes before 7
+1387189MechanicalTCSAptitude6f(x)=ax^4+bx^2+x+5   ,   f(-3)=2  ,   find f(3)
+1388190MechanicalTCSEmail1You are executive of society write mail to pollice officer 
+mr.sharma,complaining about rash riding of bikers on the 
+street
+1389191MechanicalTCSEmail1Write an email to receive your aunty who is coming to stay 
+with you........happy-receive-crowded-platform-arrive-
+afternoon-unattended-early-infront you-look forward
+1390192ITTCSEmail1Write an email to Mr.sharma complaining him about the 
+rash drivers in the residential area....residential area-ride-
+children play-elderly walk-grocery shop-across road-
+dangerous-accidents-nuisance-acion-immediately
+1391192ITTCSAptitude1The largest number of acute angles in a conex hexagon
+1392192ITTCSAptitude2Raj travels by taxi Rs 15km/hr and Rs.21km/hr by 
+taxi..Total distance covered 450 m and Rs.8130.Distance 
+travelled by rail..
+1393193ITTCSEmail1Write an email to your aunt that you are coming to receive 
+her on the platform..
+
+1394194ComputerTCSEmail1As a niece ,write an email to your aunt, MS. Polly,to inform 
+her thet you will pick her from station
+1395195E&TCTCSEmail1write email to your aunt who is arriving to you on short 
+vacation
+1396196E&TCTCSAptitude1Price of apple is q and for 30+ apples price increases by q 
+amount..if price of 33 apples is 1167 and 36 is 9284..then 
+what is the cost of 1st 10kg apple
+1397196E&TCTCSAptitude2Paul completes work in 7 days,pitter in 10 days if paul 
+,pitter nad hari work together then completes in 8 
+days..find in how many days for hari alone?
+1398197E&TCTCSAptitude3A completes in 14 days B in 24 days..how many days to 
+work alone
+1399198E&TCTCSAptitude1The price of first 30 kg apple is L Rs/Kg and Q rs/kg for each 
+additional kg..cost of 33 kg apple is 1167 and 36 kg is 
+1284..Then cost of first 10kg apple is?
+1400198E&TCTCSAptitude2Paul completes work in 7 days,pitter in 10 days if paul 
+,pitter and hari work together then completes in 8 
+days..find in how many days for hari alone
+1401198E&TCTCSAptitude3A completes in 16 days B in 24 days..how many days to 
+work alone
+1402198E&TCTCSAptitude4A and B are the two trains travelling from opposite 
+direction with distance of 480 km in b/w two station.A 
+travels at speed of 48km they both meet at 110 km from 
+A..find the speed of B if A started at 10 am and B at 10.05 
+am
+1403199E&TCTCSEmail1Write an email to receive your aunty who is coming to stay 
+with you........happy-receive-crowded-platform-arrive-
+afternoon-unattended-early-infront you-look forward
+1404199E&TCTCSAptitude1old man took 30 min to reach office   young man took 20 
+min to reach office..old man starts at 10.00am young man 
+at 10.05 am..when young will overtake old
+1405199E&TCTCSAptitude230 kg of apple=Rs l,After 30 kg foe each kg extra 3 
+Rs..,therefore cost of 33 apple is given to find cost of 10 kg 
+apple?
+1406199E&TCTCSAptitude3Tiles size = 70 x 30..Toatal area 110 x 130..no of tiles 
+required
+1407199E&TCTCSAptitude4If digits show its proper position considered as 
+hit...calculate permutation as hit when atleast one of them 
+is at its position?
+1408200E&TCTCSEmail1You are executive of society write mail to pollice officer 
+mr.sharma,complaining about rash riding of bikers on the 
+street
+1409200E&TCTCSAptitude1Avg of A,B,C is 48...,Avg of A,B,C,D is 46..E scored 3 more 
+than D..Avg of B,C,D,E IS 45,A=?
+1410200E&TCTCSAptitude2Jake and Paul walk each 10 km ..Jkae is 1.5 km faster than 
+Paul..because of which he covers the distance is 1.5 hrs 
+faster than paul..what is Jake's speed
+1411200E&TCTCSAptitude3Paul completes work in 7 days,pitter in 10 days if paul 
+,pitter and hari work together then completes in 8 
+days..find in how many days for hari alone
+1412200E&TCTCSAptitude4f(x)=ax^4+bx^2+x+5   ,   f(-3)=2  ,   find f(3)
+1413200E&TCTCSAptitude5Organisaion has Three committees ,only two persons are 
+members of all three commitees ,but every pair of 
+committee has 3 3 men..in common..what is the 
+probability that least possible number of members in 
+committee
+1414200E&TCTCSAptitude6B works 10 days,A works 15 days ..Rs 5000 total wages for 
+work..how much should B paid if they work together
+1415200E&TCTCSAptitude7TIRADE....<-find 30th word
+1416200E&TCTCSAptitude8Taxi fare 15 Rs/km ,Rail fare 21 Rs/km,total distance=450 
+km..and total amount=8330 Rs..How many distance he 
+travelled by rail
+1417200E&TCTCSAptitude920 persons in family..two siters ..find no of arrangements 
+such that there is one person exactly seats among two 
+sisters
+1418201ITTCSEmail1Write an email to Mr.Ahmed  who is the manager of the 
+smart automative company about complaining the poor 
+quality service center in the city using the following 
+phrases...-very few-centres-maintainance-cost-fine-price-
+customer-satisfaction
+1419202ComputerTCSEmail1Write an email to receive your aunty who is coming to stay 
+with you........happy-receive-crowded-platform-arrive-
+afternoon-unattended-early-infront you-look forward
+1420202ComputerTCSAptitude1Esha bought 18 sharpners..cost of white sharpner was 1 Re 
+more than brown..If total cost is Rs 100..paid no white 
+sharpner and their price..
+1421202ComputerTCSAptitude2Three digits 1,2,3 are permuted in all possible 
+combinations..If hit is when at least one digit is at right 
+place(1 at 1st,2 at 2nd,3 at 3rd),then what no. of units
+1422202ComputerTCSAptitude3There is a floor of dimensions 110 x 130 ...one tile is 70 x 
+30..Find the maximum no of tiles that can be fitted into the 
+floor ...answer-5
+
+1423202ComputerTCSAptitude4A + B + C + d =FG..if FG is as large as possible..find the value 
+of G..(FG=10F+G)
+1424202ComputerTCSAptitude5old man took 30 min to reach office   young man took 20 
+min to reach office..old man starts at 10.00am young man 
+at 10.05 am..when young will overtake old
+1425203ComputerTCSEmail1You are executive of society write mail to pollice officer 
+mr.sharma,complaining about rash riding of bikers on the 
+street
+1426204ComputerTCSAptitude1Shakunihas 2 dice..on 1 die p(1)=1/2  on 2nd dice 
+p(6)2/5..Find the probability that SHAKUNI will throw a 
+total 0f 7
+1427204ComputerTCSAptitude2Find the number of ways in which a car registration no can 
+be mase with two alphabets and two number
+1428204ComputerTCSAptitude3A student has to pick 3 nos from 1 to 9.Find the possible 
+no. of combinations that three numbers are in A.P.
+1429204ComputerTCSAptitude4Given 148,246,623 remainder 4 6 11..Find the greatest no. 
+that will decide the above no.s giving the above no.s giving 
+the above remainders
+1430204ComputerTCSAptitude5convex heaxagon..find maximum number of acute angles
+1431204ComputerTCSAptitude68 publications at inteval of 8 years publish books..sum of all 
+years given...find the 1st year of publication
+1432205ComputerTCSAptitude7TARDIE..-find the 32th word
+1433206MechanicalTCSEmail1To project manager regarding progress and difficulties 
+faced during project....-thanks-progress-tight schedule-
+support-report-analytical-difficulties-access design
+1434206MechanicalTCSAptitude1scooter 0f 40,000 Rs..3/4th decrement each year..what is 
+price after 3 years
+1435206MechanicalTCSAptitude2Paul completes work in 7 days,pitter in 10 days if paul 
+,pitter nad hari work together then completes in 8 
+days..find in how many days for hari alone?
+1436206MechanicalTCSAptitude3Avg of A,B,C is 48...,Avg of A,B,C,D is 46..E scored 3 more 
+than D..Avg of B,C,D,E IS 45,A=?
+1437207MechanicalTCSAptitude1B works 10 days,A works 15 days ..Rs 5000 total wages for 
+work..how much should B paid if they work together
+1438207MechanicalTCSAptitude2Squirrel climbs a cylinder of 16m in height & 3m 
+circumference it leaves trail after 4 m how may feet will 
+need squirrel to climb 16m
+1439207MechanicalTCSAptitude3The largest number of acute angles in a conex hexagon
+1440208MechanicalTCSEmail1write email to Mr.sharma ..you are material supplier i.e ms 
+block supplier and write mail to Mr. sharma for 3 months 
+before payment
+1441209MechanicalTCSAptitude1ADVERB..-find 45 word alphabetically
+1442210E&TCTCSEmail1Email about having very less number of service center 
+available in city..so people facing problem
+1443211E&TCTCSEmail1write an email to HR manager to invitefor the tnp 
+placement for recruiting people
+1444213MECHTCSEmail1TO say thaks to your teacher for shaping your fututre and 
+helping you
+1445213MECHTCSEmail1Write an email to receive your aunty who is coming to stay 
+with you........happy-receive-crowded-platform-arrive-
+afternoon-unattended-early-infront you-look forward
+1446214E&TCTCSEmail1write the email to your professor for getting the success in 
+your life
+1447215E&TCTCSAptitude1For one investment the gain increases by 25% and for 
+another investment is loss by 10%  and their ratio is 
+3:5..then find the combining together loss and profit
+1448216ITTCSEmail1Write a letter to your former teacher thanking her for her 
+contribution in your recent achievement (placement)
+1449217MechanicalTCSEmail1Write an email to receive your aunty who is coming to stay 
+with you........happy-receive-crowded-platform-arrive-
+afternoon-unattended-early-infront you-look forward
+1450218ComputerTCSAptitude1area of octagon
+1451218ComputerTCSAptitude2scooter 0f 40,000 Rs..3/4th decrement each year..what is 
+price after 3 years
+1452219E&TCTCSTechnical1Differentiate between microcontroller & microprocessor
+1453219E&TCTCSTechnical2What is zener diode
+1454219E&TCTCSTechnical3Registors are made of what
+1455219E&TCTCSTechnical4Tell me about yourself
+1456219E&TCTCSTechnical5Which controller is used in printer
+1457219E&TCTCSTechnical6Steps to write code & how to run the code in μcontroller
+1458220MechanicalTCSMR1If I place you in chennai would you like to go?
+1459220MechanicalTCSMR2Tell me about yourself, your family, your brothers
+1460220MechanicalTCSMR3Would you like to go in IT infrastructure services?
+1461221E&TCTCSTechnical1Nuquist criteria
+
+1462221E&TCTCSTechnical2Motor working
+1463221E&TCTCSTechnical3Can we convert motor to generator?
+1464221E&TCTCSTechnical4Flip flop truth table
+1465221E&TCTCSTechnical5Differentiate between flipflop & RAM
+1466221E&TCTCSTechnical6JTAG & R5232
+1467221E&TCTCSTechnical7Sort program
+1468222E&TCTCSTechnical1Favourite subjects
+1469222E&TCTCSTechnical2What is optocoupler
+1470222E&TCTCSTechnical3CMOS?
+1471222E&TCTCSTechnical4What is dark zone
+1472222E&TCTCSMR1If there are 10 people in your project group & 5 girls don’t 
+like you, how will you convey your message & their work to 
+them?
+1473222E&TCTCSHR1Native place
+1474222E&TCTCSHR2What does your dad do?
+1475222E&TCTCSHR3Location preferences?
+1476222E&TCTCSHR4Time flexibility
+1477222E&TCTCSHR5Any questions?
+1478223MechanicalTCSHR1Being Mechanicalanical, why IT(TCS)
+1479223MechanicalTCSHR2If you are selected in core, will you do the job?
+1480223MechanicalTCSHR3Which is your favourite subject & why?
+1481223MechanicalTCSTechnical1Tell me about Entropy
+1482223MechanicalTCSHR4What do you know about your project?
+1483224MechanicalTCSMR1About yourself
+1484224MechanicalTCSMR2Do you know C, C++?
+1485224MechanicalTCSMR3Write simple program for prime no. in C
+1486224MechanicalTCSMR4How to count no. of 1's & 0's without using ifDo you know 
+TCP/IP?
+1487224MechanicalTCSMR5Who is the most important person in your life? What have 
+you done to make him happy?
+1488225E&TCTCSTechnical1SMTP, DHCP, HTTP, OSI Layers
+1489225E&TCTCSTechnical2What happens on typing web address?
+1490225E&TCTCSTechnical3PLCs, RFIO, GSM, Relays
+1491226ComputerTCSTechnical1Big data
+1492226ComputerTCSTechnical2Hadoop
+1493226ComputerTCSTechnical3Write a code to print disc drive, folders & files within it
+1494226ComputerTCSTechnical4Tell about your project
+1495226ComputerTCSTechnical5Which domain would you like the most
+1496227ITTCSHR1Impress us!!..Make us happy!!
+1497227ITTCSHR2Tell me about yourself
+1498227ITTCSTechnical1Write a C/C++ program to reverse string ignoring the blank 
+spaces
+1499227ITTCSTechnical2Differentiate between RDBMS & DBMS
+1500227ITTCSHR3If you get a lottery of 1 million and asked to 
+distributeamongst your family members, how will you do 
+it?
+1501227ITTCSTechnical3How to handle exception in PL/SQL
+1502227ITTCSHR4Why should I hire you?
+1503227ITTCSHR5Tell me about your project, applications of your project
+1504228ITTCSHR1Tell about your project
+1505228ITTCSHR2Tell about your hobbies
+1506228ITTCSHR3C/C++ pointers
+1507228ITTCSHR4Which soubject do you like most?
+1508228ITTCSHR5Other than Mechanicalanical which subject have you 
+studied?
+1509228ITTCSHR6Why do you want to join IT Computerany?
+1510229ITTCSHR1Introduce yourself
+1511229ITTCSHR2You are a topper, what will be your next step if you fail?
+1512229ITTCSHR3Write a code to find string reverse
+1513229ITTCSHR4What are current trends in IT?
+1514229ITTCSHR5What is cloud Computeruting?
+1515229ITTCSHR6How do you upgrade yourself?
+1516229ITTCSHR7Would you stay with one Technicalnology or you will be 
+happy if Technicalnologies keep changing
+1517230MechanicalTCSHR1Tell about your project
+1518230MechanicalTCSHR2Explain your project
+1519230MechanicalTCSHR3Favourite subjects
+1520230MechanicalTCSHR4Why you choose Mechanicalanical?
+1521230MechanicalTCSHR5Thermodynamics basics
+1522230MechanicalTCSHR6If you are not placed in tcs, what will you do?
+1523231MechanicalTCSHR1What is that one thing that you will add to TCS
+1524231MechanicalTCSHR2Tell about yourelf
+1525231MechanicalTCSHR3What is creative thing that you have done in your 
+engineering?
+1526231MechanicalTCSHR4Any location issues or timing constraint?
+1527232ITTCSHR1Introduce yourself
+1528232ITTCSHR2Mini project
+1529232ITTCSHR3BE project
+1530232ITTCSHR4Interested area
+1531232ITTCSHR5Basics of C
+1532232ITTCSHR6Basics of ELEX like FET, pnp, npn, antenna
+1533232ITTCSMR1How will you handle people in team which do not 
+cooperate with you?
+1534232ITTCSMR2Higher study plans
+
+1535233E&TCTCSHR1C, matching no. of two arrays & separate nos. which are 
+matched
+1536233E&TCTCSHR2Introduce yourself
+1537233E&TCTCSHR3Family background
+1538233E&TCTCSHR4How internet works?
+1539233E&TCTCSHR5CN concepts, switch, router, topology
+1540233E&TCTCSHR6What is difference between capacitance& impedence
+1541233E&TCTCSHR7Tell about your project
+1542234ComputerTCSHR1Tell about your project
+1543234ComputerTCSHR2Differentiate between cat & echo command
+1544234ComputerTCSHR3Tell about yourself
+1545234ComputerTCSHR4Strengths
+1546234ComputerTCSHR5Normalization
+1547234ComputerTCSHR6Rate yourself from 1 to 10 in C, C++, java, databases
+1548235ComputerTCSHR1Tell about yourself
+1549235ComputerTCSHR2Which is your favourite subject?
+1550235ComputerTCSHR3Which is second favourite?
+1551235ComputerTCSHR4What is primary key & unique key?
+1552235ComputerTCSHR5What are joins, index?
+1553235ComputerTCSHR6What are types of indixes, unions?
+1554236E&TCTCSHR1Tell about your diploma project
+1555236E&TCTCSHR2Interested in which subject
+1556236E&TCTCSHR3Coding of fabinacci series
+1557236E&TCTCSHR4Latest version of C
+1558236E&TCTCSHR5Introduce yourself
+1559237E&TCTCSTechnical1Difference between CISc & RISC
+1560237E&TCTCSHR1Tell about your project
+1561237E&TCTCSTechnical2What is GPS, GPRS?
+1562237E&TCTCSTechnical3Range of mobile communication
+1563237E&TCTCSTechnical4Size of a cell in mobile communication
+1564237E&TCTCSTechnical5OSI layers
+1565237E&TCTCSTechnical6MOSFET-CMOS, NMOS, PMOS
+1566237E&TCTCSTechnical7BJT
+1567237E&TCTCSTechnical8Material used in diodes
+1568237E&TCTCSTechnical9Avalanche breakdown, zener breakdown
+1569237E&TCTCSTechnical10ZM, FM, PM
+1570237E&TCTCSTechnical11Antennas
+1571237E&TCTCSTechnical12AM transmitter in pune
+1572237E&TCTCSTechnical13Range of AM
+1573237E&TCTCSTechnical14RISC hardware-SUN, IBM
+1574238E&TCTCSHR1Introduce yourself
+1575238E&TCTCSHR2Area of interest
+1576238E&TCTCSTechnical1What is GSM, CDMA? Differentiate.
+1577238E&TCTCSTechnical2Explain GSM archietecture
+1578238E&TCTCSTechnical3How can call be handled from MTNC n/w to BSNL n/w
+1579238E&TCTCSTechnical4What is 1G, 2G, 3G, 4G? Features? Speed?
+1580238E&TCTCSTechnical5TCP model
+1581238E&TCTCSTechnical6How many topologies are there?Which are they?Which is 
+most used in industry?
+1582238E&TCTCSTechnical7What is wifi network?Which protocols are used?
+1583238E&TCTCSTechnical8What is BJT, MOSFET?Draw its dig.
+1584238E&TCTCSTechnical9What are KVL, KCL?
+1585238E&TCTCSTechnical10What are image retrival Technicalniques?
+1586239E&TCTCSHR1Tell about your project
+1587239E&TCTCSTechnical1Design power supply
+1588239E&TCTCSTechnical2What do we get at the output of terminal of PS?
+1589239E&TCTCSTechnical3Formula for RC constant
+1590239E&TCTCSTechnical4What is ITS, WTS?
+1591240E&TCTCSHR1Tell about yourself
+1592240E&TCTCSHR2Tell about your project
+1593240E&TCTCSHR3Changes made in circuit if project, que on the changes 
+made in the circuit.
+1594240E&TCTCSTechnical1TCP/IP model, explain all layers.
+1595240E&TCTCSTechnical2What is packet?
+1596240E&TCTCSTechnical3MAC? Can we change MAC? How?
+1597240E&TCTCSTechnical4What is Firewall?
+1598241E&TCTCSHR1Tell about yourself
+1599241E&TCTCSTechnical5Coding of fabinacci series
+1600241E&TCTCSTechnical6TCP/IP model, explain all layers.
+1601241E&TCTCSTechnical7Latch in DLD
+1602241E&TCTCSTechnical8Race around condition
+1603241E&TCTCSTechnical9Wifi?
+1604241E&TCTCSTechnical10Structures?
+1605241E&TCTCSTechnical11Tell about your project
+1606
+242
+MechanicalTCSHR1Are you ready to go outside your hometpwn "chennai" for 
+instance. 
+1607242MechanicalTCSHR2Will your parents allow you to be away?
+1608
+242
+MechanicalTCSHR3what do you think about working for extended hours? Are 
+you ready towork for extera hours?
+1609243MechanicalTCSHR1why do you want to join tcs?
+1610
+243
+MechanicalTCSHR2do you really want to join or you are just sitting for this 
+drive due to pressure from anyone?
+1611243MechanicalTCSHR3Re-location
+1612243MechanicalTCSHR4Why should I hire you ?
+
+1613
+243
+MechanicalTCSHR5If I wish to bond you with our company for two year will 
+you join us?
+1614243MechanicalTCSHR6What you know about tcs ?
+1615243MechanicalTCSMR1Tell me something about yourself?
+1616243MechanicalTCSMR2solve puzzel
+1617243MechanicalTCSMR3Do you have any leadership qualities? Give e.g
+1618243MechanicalTCSMR4where do you see yourself in next 5 years ?
+1619243MechanicalTCSMR5Why should I hire you ?
+1620244MechanicalTCSHR1Tell me one thing that is not mention in resume ?
+1621244MechanicalTCSHR2Justiy that thing (if any achievement)
+1622
+244
+MechanicalTCSHR3have you read the service details or something like that
+1623244MechanicalTCSHR4will you work for 3 years in chennai?
+1624244MechanicalTCSHR5decscibe yourself in one word
+1625244MechanicalTCSMR1TCS
+1626
+244
+MechanicalTCSMR2What extra curricular activity,you have participated in?
+1627244MechanicalTCSMR3What is your preference EIS or ITIS ?
+1628244MechanicalTCSMR4Would you work for ITIS?
+1629245MechanicalTCSHR1Tell me about yourself?
+1630245MechanicalTCSHR2Are you willing to work in any domain?
+1631245MechanicalTCSHR3If given opportunity will you go for higher studies?
+1632
+245
+Mechanical
+TCSHR
+4Are you willing to work on IT projects deing mechanical 
+student?
+1633245MechanicalTCSHR1Will you like to re-locate to any place?
+1634
+245
+Mechanical
+TCSMR
+2Is it fine with you if you are given a IT based domain?
+1635246MechanicalTCSHR1Will you like to re-locate to any place?
+1636246MechanicalTCSHR2Would you work for ITIS?
+1637246MechanicalTCSHR3Comfortable for 2 years TCS bond?
+1638246MechanicalTCSHR4what is your hobby?
+1639246MechanicalTCSMR1`
+1640246MechanicalTCSMR2Why not higher studies?
+1641246MechanicalTCSMR3Why not core company?
+1642247MechanicalTCSTechnical1Tell me about yourself?
+1643247MechanicalTCSTechnical2Puzzel
+1644247MechanicalTCSTechnical3Favourite subject?
+1645247MechanicalTCSTechnical4Why IT company? Why Mech?
+1646247MechanicalTCSTechnical5What is internet?
+1647247MechanicalTCSTechnical6Project and seminar?
+1648247MechanicalTCSHR1Will you like to re-locate to any place?
+1649247MechanicalTCSHR2Would you work for ITIS?
+1650247MechanicalTCSHR3Comfortable for 2 years TCS bond?
+1651247MechanicalTCSHR4what is yor hobby?
+1652247MechanicalTCSMR1Tell me about yourself?
+1653247MechanicalTCSMR2Why not higher studies?
+1654247MechanicalTCSMR3Why not core company?
+1655247MechanicalTCSMR4Extra activity continue after joining?
+1656248MechanicalTCSTechnical1Retregeration cycle?
+1657248MechanicalTCSTechnical2Transformer - defination
+1658248MechanicalTCSMR1Tell me about yourself?
+1659248MechanicalTCSMR2About your projects?
+1660248MechanicalTCSMR3Why TCS?
+1661248MechanicalTCSMR4About TCS?
+1662249MechanicalTCSHR1Tell me about yourself?
+1663249MechanicalTCSHR2Tell about family and hobbies?
+1664249MechanicalTCSHR3Would you like of job is relocated?
+1665249MechanicalTCSHR4How was your day?
+1666249MechanicalTCSMR1Tell me about yourself?
+1667249MechanicalTCSMR2Hobbies?
+1668249MechanicalTCSMR3Draw any sketch(hobby was sketching)
+1669249MechanicalTCSMR4what is ranking?
+1670249MechanicalTCSMR5How do you determine surface racks
+1671250MechanicalTCSHR1Introduce yourselg?
+1672250MechanicalTCSHR2Are you flexible with to work out of punr?
+1673250MechanicalTCSHR3Why TCS?
+1674250MechanicalTCSMR1Tell me about yourself?
+1675250MechanicalTCSMR2Why TCS?
+1676250MechanicalTCSMR3Are you flexible with to work out of pune?
+1677250MechanicalTCSMR4Which sector would you like to work in TCS?
+1678250MechanicalTCSMR5Family background
+1679251MechanicalTCSMR1Do you know basics of 'c'?
+1680251MechanicalTCSMR2Draw diagram of refrigeartion?
+1681251MechanicalTCSMR3Explain transformer?
+1682251MechanicalTCSMR4How do you planyour projects?
+1683
+251
+Mechanical
+TCSMR
+5
+If you are team leader of 10 people and in team 6 people 
+are against you what will you do
+1684251MechanicalTCSMR6Why TCS?
+1685251MechanicalTCSMR7You can get into core then why IT?
+1686251MechanicalTCSHR1What is your weakness
+1687251MechanicalTCSHR2tell me 3 things which you don’t like?
+1688251MechanicalTCSHR3What are your views on women empowerment?
+1689251MechanicalTCSHR4Tell me about yourself
+1690252MechanicalTCSHR1Introduce yourself?
+1691252MechanicalTCSHR2Are you compatible with any location
+1692252MechanicalTCSHR3shift timing
+1693252MechanicalTCSHR4Why IT field
+
+1694252MechanicalTCSMR1Introduce youself
+1695252MechanicalTCSMR2Tell me about TCS
+1696252MechanicalTCSMR3Why TCS?
+1697252MechanicalTCSMR4Family background
+1698253MechanicalTCSHR1Introduce yourself?
+1699253MechanicalTCSHR2Tell me why TCS?
+1700253MechanicalTCSHR3Tell me about you
+1701253MechanicalTCSHR4wgat are your strength
+1702253MechanicalTCSHR5what are your weakness
+1703253MechanicalTCSHR6ok with night shift
+1704253MechanicalTCSHR7ok with relocation
+1705253MechanicalTCSHR8any question?
+1706254MechanicalTCSHR1Which game you play?
+1707254MechanicalTCSHR2Will you sign 2 years bond
+1708254MechanicalTCSHR3are you ready to work at any location
+1709255MechanicalTCSHR1Prroblem solving attitude
+1710255MechanicalTCSHR2any question for us?
+1711255MechanicalTCSHR3have you solved any problem in practical life?
+1712255MechanicalTCSHR4situation
+1713256MechanicalTCSHR1Are you ready for job outside maharashtra
+1714256MechanicalTCSHR2Will you work in ITISsector
+1715256MechanicalTCSHR3Are you going for higher studies?
+1716256MechanicalTCSHR4Introduce yourself?
+1717256MechanicalTCSHR5Will you sign bond?
+1718256MechanicalTCSMR1Are you flexible?
+1719256MechanicalTCSMR2What are your hobbies
+1720256MechanicalTCSMR3Are you ready for relocate
+1721256MechanicalTCSMR4Which sector would you like to work in TCS?
+1722257MechanicalTCSMR1Special person in your life?
+1723257MechanicalTCSMR2What special you have done for your mom?
+1724
+257
+Mechanical
+TCSMR
+3
+If I give you goog work and no money for 3 months will you 
+work
+1725
+257
+Mechanical
+TCSMR
+4
+Siblings-how have you hepled her? What advice you give 
+her
+1726257MechanicalTCSMR5Achievements
+1727
+257
+Mechanical
+TCSMR
+6
+10 digits can be filled by 1 or 0.calculate number of 1's 
+without ussing if condition?
+1728258MechanicalTCSHR1Tell me about yourself
+1729258MechanicalTCSHR2what you do in your sparetime
+1730
+258
+Mechanical
+TCSHR
+3
+what you have done in your extracurricular activities
+1731258MechanicalTCSHR4describe some intances
+1732258MechanicalTCSHR5why the switch from mechanical to IT?
+1733258MechanicalTCSHR6Are you working on ITIS module
+1734
+258
+Mechanical
+TCSHR
+7
+Your project is core mechanical why do do you want to 
+switch to computer
+1735
+258
+Mechanical
+TCSHR
+8
+What about flexibility? Locational constraints with 
+chennai?
+1736
+258
+Mechanical
+TCSHR
+9
+you have less knowledge about IT as compared to other 
+how you will manage
+1737258MechanicalTCSHR10any question for us?
+1738259MechanicalTCSMR1what are your weakness
+1739259MechanicalTCSMR2Will you work for 16 hours?
+1740259MechanicalTCSMR3what is your expectation after 1 year?
+1741259MechanicalTCSMR4you have stage fear?
+1742259MechanicalTCSMR5What is not?
+1743259MechanicalTCSMR6What is latest news about Tcs?
+1744260MechanicalTCSHR1Tell me about yourself
+1745
+260
+Mechanical
+TCSHR
+2
+write an email to your principal asking for a lab for your 
+project
+1746260MechanicalTCSHR3Tell me about your family
+1747260MechanicalTCSHR4Which sector you will prefer EIS or ITI?
+1748
+260
+Mechanical
+TCSMR
+1
+Tell me your interest,passion,strength and weakness?
+1749260MechanicalTCSMR2Why TCS?
+1750
+260
+Mechanical
+TCSMR
+3
+If TCS and Thermax are on alternate days then which will 
+you prefer?why?
+1751260MechanicalTCSMR4location contraints?
+1752261MechanicalTCSHR1Tell me about yourself
+1753261MechanicalTCSHR2location contraints?
+1754261MechanicalTCSHR3Time contraints?
+1755261MechanicalTCSHR4Tell about family and hobbies?
+1756261MechanicalTCSHR5Are you ok with chennai
+1757261MechanicalTCSHR6Further studies?
+1758261MechanicalTCSMR1Tell me about yourself?
+1759261MechanicalTCSMR2How will you find cracks in the long shaft?
+1760261MechanicalTCSMR3location contraints?
+1761261MechanicalTCSMR4Are you ok with IT services?
+1762
+262
+MechanicalTCSHR1Why being mechanical in TCS?
+1763
+262
+MechanicalTCSHR2ITIS ok or not?
+1764
+262
+MechanicalTCSHR3How old your sibling?
+1765
+263
+MechanicalTCSMR1Introduce yourself?
+1766
+263
+MechanicalTCSMR2why your marks are decreasiing
+1767
+263
+MechanicalTCSMR3Have you been a leader?
+1768
+263
+MechanicalTCSMR4Working of engine?
+1769
+263
+MechanicalTCSMR5Difference between stress and presure?
+1770
+263
+MechanicalTCSMR6What will happen if I put diesel in petrol engine?
+
+1771
+263
+MechanicalTCSMR7your role in robocon?
+1772
+263
+MechanicalTCSMR8Why you don’t try for core company?
+1773
+263
+Mechanical
+TCSMR
+9
+If 4/3th filled tank of vehicle runs for 270km then how 
+much km will it run for when it is filled 1/3rd ?
+1774
+264
+Mechanical
+TCSMR
+1
+Difference between fan & blower,refrigerator & ac, 
+performance and efficiency?
+1775
+264
+MechanicalTCSMR2State types of gears and draw leelical gears
+1776
+264
+MechanicalTCSMR3explain the working of leelical gears
+1777
+264
+MechanicalTCSMR4what is ductility?
+1778
+264
+MechanicalTCSMR5which material is the most ductile
+1779
+264
+MechanicalTCSMR6tell me about your project
+1780
+264
+MechanicalTCSMR7what is pump and explain  the working
+1781
+265
+MechanicalTCSTechnical1Tell about yourself
+1782
+265
+MechanicalTCSTechnical2subject of interest
+1783
+265
+MechanicalTCSTechnical3Project and seminar?
+1784
+265
+MechanicalTCSTechnical4what is lathewar(event)
+1785
+266
+MechanicalTCSMR1Introduce 
+1786
+266
+MechanicalTCSMR2Do you know any computer language?
+1787
+266
+Mechanical
+TCSMR
+3
+for given array how would u find number of 1s and 0's 
+without using if condition
+1788
+266
+MechanicalTCSMR4write a c program to find prime no
+1789
+266
+MechanicalTCSMR5Do you know networking DBMS 
+1790
+266
+MechanicalTCSMR6What is TCP/IP
+1791
+266
+Mechanical
+TCSMR
+7
+Who is the most important person in your life?what you 
+have done to make him happy>
+1792
+266
+MechanicalTCSHR1Why TCS?
+1793
+266
+MechanicalTCSHR2Why we hire you?
+1794
+266
+MechanicalTCSHR3Are you ready to relocate
+1795
+266
+MechanicalTCSHR4Are you ready to work in night shifts?
+1796
+266
+Mechanical
+TCSTechnical
+1
+10 digits can be filled by 1 or 0.calculate number of 1's 
+without ussing if condition?
+1797
+266
+MechanicalTCSTechnical2Any situation you have gone beyond your limits?
+1798
+266
+MechanicalTCSTechnical3most important person in your life
+1799
+266
+Mechanical
+TCSTechnical
+4
+Given a situationthat your batchmate equally effective as 
+you if manager consider him over you,do you find it 
+correct?
+1800
+267
+E&TCTCSTechnical1What is your area of interest?
+1801
+267
+E&TCTCSTechnical2What are universal gates?
+1802
+267
+E&TCTCSTechnical3Why they called so
+1803
+267
+E&TCTCSTechnical4Can you drive AND from NAND & NOR GATE?
+1804
+267
+E&TCTCSTechnical5What are the different Ics name of NAND gate?
+1805
+267
+E&TCTCSTechnical6What is latch?
+1806
+267
+E&TCTCSTechnical7Application of latch?
+1807
+267
+E&TCTCSTechnical
+8
+Difference between microcontroller and microprocessor?
+1808
+267
+E&TCTCSTechnical9Question on TE project?
+1809
+267
+E&TCTCSTechnical10Why you choose this project?
+1810
+267
+E&TCTCSTechnical11Why RTC only?
+1811
+267
+E&TCTCSTechnical
+12
+Write a program in c for conersion of decimal and 
+hexadecimal?
+1812
+268
+E&TCTCSTechnical1Whatwas your project?explain
+1813
+268
+E&TCTCSTechnical2What is RF range,flipflops,latches?
+1814
+268
+E&TCTCSTechnical3Basic of VLSI,noise margin,latch-ups?
+1815
+268
+E&TCTCSTechnical
+4
+New inventions in communication,specifically in GPS & 
+GPRS?
+1816
+268
+E&TCTCSTechnical5WIFI,protocols,topologies.
+1817
+268
+E&TCTCSTechnical6How dose internet works?TCP/IP layers?
+1818
+268
+E&TCTCSTechnical7Sampling theorem?
+1819
+268
+E&TCTCSTechnical8C program and its explanation?
+1820
+268
+E&TCTCSTechnical9Universal gate?Design OR using NAND?
+1821269E&TCTCSHR1Tell me about yourself?
+1822269E&TCTCSHR2What is your favourite subject?
+1823269E&TCTCSTechnical1Range of FM,AM,Cellular,Bluetooth,Microwave
+1824269E&TCTCSTechnical2What is FM,Block diagram of FM?
+1825269E&TCTCSTechnical3What is selectivity,fidelity?
+1826269E&TCTCSTechnical4What is data structure?
+1827269E&TCTCSTechnical5What is array?
+1828269E&TCTCSTechnical6Types of linked list
+1829269E&TCTCSTechnical7Write a PGM for conversion of hexadecimal to binary
+1830269E&TCTCSTechnical8What is transponder?
+1831269E&TCTCSTechnical9What is SNR?
+1832269E&TCTCSTechnical10What is quantisation error?
+1833269E&TCTCSTechnical11What is DIP?
+1834269E&TCTCSTechnical12Question about Project
+1835269E&TCTCSMR1Recent news about TCS
+1836269E&TCTCSMR2What is structure?
+1837270E&TCTCSHR1Introduce yourself
+1838270E&TCTCSTechnical1Mini Project
+1839270E&TCTCSTechnical2Sorting Algorithms
+1840270E&TCTCSTechnical3Linked List
+1841270E&TCTCSTechnical4PN Diode
+1842270E&TCTCSTechnical5MOSFET,FET
+1843271E&TCTCSHR1Introduce yourself
+1844271E&TCTCSTechnical1Tell about final year project
+1845271E&TCTCSTechnical2Which is your favourite subject?
+1846271E&TCTCSTechnical3Tell about your mini project
+
+1847271E&TCTCSTechnical4Block diagram of microcontroller
+1848271E&TCTCSTechnical5Functions of MATLAB
+1849272E&TCTCSHR1Introduce yourself
+1850272E&TCTCSTechnical1Tell about final year project
+1851272E&TCTCSTechnical2Project in MATLAB(simulink),About Solvers used in simulink
+1852272E&TCTCSTechnical3Tell about mini project
+1853272E&TCTCSTechnical4Do you know software development cycle?
+1854272E&TCTCSTechnical5What are different layouts of OSI model
+1855272E&TCTCSTechnical6Function of network layer
+1856272E&TCTCSTechnical7What are the different types of data structures
+1857272E&TCTCSTechnical8What is your role in project
+1858272E&TCTCSTechnical9What is IT IS
+1859272E&TCTCSMR1Which management subjects you have? And what are the 
+different management Technicalniques
+1860273E&TCTCSTechnical1Which elective have you selected?
+1861273E&TCTCSTechnical2Tell me about your electives
+1862273E&TCTCSTechnical3explain about your recent project
+1863273E&TCTCSTechnical4MEMS component
+1864273E&TCTCSTechnical5Pin diagram of Microcontroller
+1865274E&TCTCSHR1Tell me about yourself?
+1866274E&TCTCSHR2Hobbies & detail
+1867274E&TCTCSTechnical1What is your favourite subject?
+1868274E&TCTCSTechnical2Name any SSDC devices
+1869274E&TCTCSTechnical3What is CC,CE
+1870274E&TCTCSTechnical4What is NMOS,CMOS?Which is Better
+1871274E&TCTCSTechnical5What is AM,FM
+1872274E&TCTCSTechnical6What is low pass filter,bandpass,ciruit diagram & explain its 
+working
+1873274E&TCTCSTechnical7how the fan works
+1874274E&TCTCSTechnical8Regulator of fan,what is advancement in it?
+1875274E&TCTCSTechnical9Induction motor,How it works?
+1876274E&TCTCSTechnical10What is NAND,NOR.Name the Ics of it
+1877274E&TCTCSTechnical11What is 7905
+1878274E&TCTCSTechnical12What is your mini project
+1879274E&TCTCSTechnical13what is used as a metal in your project
+1880275E&TCTCSTechnical1What is latch?
+1881275E&TCTCSTechnical2What is flipflop?What is difference in them?
+1882275E&TCTCSTechnical3Draw an 8:1 Mux & Show the condition for input 5 to be at 
+output
+1883275E&TCTCSTechnical4tell me about ISO-OSI layer
+1884275E&TCTCSTechnical5Tell me about TCP/IP layer
+1885275E&TCTCSTechnical6What is KVL & KCL
+1886275E&TCTCSTechnical7What is sampling theorem
+1887275E&TCTCSTechnical8What is aliasing
+1888275E&TCTCSTechnical9Which is better GPP or DSP processor
+1889275E&TCTCSTechnical10What is topology?Why to use bus topology?
+1890275E&TCTCSTechnical11Which is better NAND or NOR? Why?
+1891275E&TCTCSTechnical12What is body effect?
+1892275E&TCTCSTechnical13Which is better on basis of gain?
+1893275E&TCTCSTechnical14Explain working of GSM
+1894276MechanicalTCSHR1Tell me about yourself?
+1895276MechanicalTCSHR2Why TCS?
+1896276MechanicalTCSHR3Why Mechanical?
+1897276MechanicalTCSHR4What is Internet?
+1898276MechanicalTCSHR5Favourite Subject?
+1899276MechanicalTCSHR6Seminar-explain in short
+1900276MechanicalTCSHR7Why IT company?
+1901276MechanicalTCSHR8Willing to relocate?
+1902276MechanicalTCSHR9Willimg to work for application services?
+1903276MechanicalTCSMR1Tell me about yourself?
+1904276MechanicalTCSMR2Why TCS?
+1905276MechanicalTCSMR3Why not higher studies?
+1906276MechanicalTCSMR4Willing to work for IT IS?
+1907276MechanicalTCSMR5Will you continue with extra activities even after joining 
+companies
+1908276MechanicalTCSMR6Why IT company?Why not Core?
+1909276MechanicalTCSMR7Rate yourself for logics,algorithms,Etc.
+1910277ComputerTCSTechnical1definition between c &cpp
+1911277ComputerTCSTechnical2Draw a graph for kruskal algorithm
+1912277ComputerTCSTechnical3Draw prim's algorithm
+1913277ComputerTCSTechnical4Write assembly program for addition
+1914278MechanicalTCSTechnical1IC engine questions 
+1915278MechanicalTCSTechnical2Draw iron carbide diagram
+1916278MechanicalTCSMR1Introduce yourself
+1917278MechanicalTCSMR2Can you work with any domain
+1918278MechanicalTCSHR1Are you willing to relocate in any place 
+1919278MechanicalTCSHR2Any time constraint 
+1920279E&TCTCSHR1Are there any location contraints
+1921279E&TCTCSHR2Why are marks decreasing constantly
+1922279E&TCTCSHR3Which are would you prefer IT or EIS
+1923279E&TCTCSHR4Why are you interested in core engineering subjects when 
+applying for tcs 
+1924279E&TCTCSHR5Why Digital signal processing
+1925279E&TCTCSHR6Any specific questions for me
+1926279E&TCTCSHR7Why do you think , I should select you
+1927279E&TCTCSHR8Are you ok with background checks
+
+1928280MechanicalTCSHR1Introduce yourself
+1929280MechanicalTCSTechnical1What is ITES
+1930280MechanicalTCSHR2Any question for me
+1931280MechanicalTCSHR3Asked a simple puzzle
+1932281MechanicalTCSMR1Introduce yourself, hobbies
+1933281MechanicalTCSMR2Why should I hire you
+1934282MechanicalTCSHR1What is your background
+1935282MechanicalTCSHR2Are you sure for tcs
+1936282MechanicalTCSHR3Ready to work for IT IS
+1937282MechanicalTCSHR4Do you have any future plans for mechanical switching 
+1938282MechanicalTCSHR5What will be your attitude while working for tcs
+1939282MechanicalTCSHR6What s your ambition
+1940282MechanicalTCSHR7Will you relocate
+1941283ComputerTCSHR1Tell me about yourself?
+1942283ComputerTCSHR2Relocation
+1943283ComputerTCSHR3Hobbies & detail
+1944283ComputerTCSHR4Tell me about tcs
+1945284ComputerTCSHR1Introduce yourself
+1946284ComputerTCSHR2Why had you selected diploma after 10th
+1947284ComputerTCSHR3Write a program for string palindrome
+1948284ComputerTCSHR4Explain about your project
+1949285ComputerTCSHR1Strength and weakness
+1950285ComputerTCSHR2Puzzle to count no. of squares
+1951285ComputerTCSHR3Comfortable to work in night shift
+1952285ComputerTCSHR4How many close friends you have
+1953285ComputerTCSHR5TCP/ IP
+1954285ComputerTCSMR1Leader & manager  difference
+1955285ComputerTCSMR2Have you lead a team
+1956286ComputerTCSHR1Introduce yourself
+1957286ComputerTCSHR2Aout project
+1958286ComputerTCSTechnical1static variable
+1959286ComputerTCSTechnical2Copy constructor
+1960287ComputerTCSTechnical1Tell me something about your project
+1961287ComputerTCSTechnical2Project you worked on
+1962287ComputerTCSTechnical3Platform of project(java, .net)
+1963287ComputerTCSTechnical4Draw diagram of project
+1964287ComputerTCSTechnical5OOPS: virtual functions , v tables ,multiple 
+inheritance,dynamic binding
+1965287ComputerTCSTechnical6DBMS: Which database used for project, why, draw any 
+one table of project
+1966287ComputerTCSTechnical7What logic to be used for implementing searching on 
+dictionary
+1967288ComputerTCSHR1Tell me about yourself?
+1968288ComputerTCSHR2About your project
+1969288ComputerTCSHR3Strength and weakness
+1970288ComputerTCSHR4Why TCS?
+1971288ComputerTCSTechnical1Difference between c,c++ &java
+1972289ITTCSTechnical1Introduce yourself
+1973289ITTCSTechnical2Describe firewall
+1974289ITTCSTechnical3TCP/ IP Protocols
+1975289ITTCSTechnical4UNIX commands
+1976289ITTCSTechnical5Describe your final year project
+1977289ITTCSTechnical6Difference between c,c++ &java
+1978289ITTCSTechnical7Java collection framework
+1979289ITTCSTechnical8grep unix command
+1980289ITTCSTechnical9Write a c++ code to reverse a string without using library 
+function
+1981289ITTCSTechnical10strength and weakness
+1982290ITTCSTechnical1NS look up
+1983290ITTCSTechnical2IP address types
+1984290ITTCSTechnical3Visual basic
+1985290ITTCSTechnical4Ajax
+1986291ITTCSTechnical1Introduce yourself
+1987291ITTCSTechnical2Where you see yourself after 5 years
+1988291ITTCSTechnical3Strength and weakness
+1989291ITTCSTechnical4What is firewall
+1990291ITTCSTechnical5Diploma's project
+1991291ITTCSTechnical6VB project
+1992291ITTCSMR1If selected what will you do & if rejected what will you do
+1993291ITTCSHR1Family background
+1994292E&TCTCSHR1Family background, location,EIS,IT IS,sectors
+1995292E&TCTCSMR2Tell me about yourself?
+1996292E&TCTCSMR3Strength and weakness, goal
+1997292E&TCTCSTechnical4flip flop, motor, generator , matlab,sampling
+1998292E&TCTCSTechnical5project, AVR
+1999292E&TCTCSTechnical6Microcontroller , mobile,GSM,CDMA
+2000293MechanicalTCSMR1Tell me about yourself?
+2001293MechanicalTCSMR2Who are your project members
+2002293MechanicalTCSMR3What is the true intention of your project
+2003293MechanicalTCSMR4Who is the most important person in your life
+2004293MechanicalTCSMR5What have you done to make them happy
+2005293MechanicalTCSMR6Do you have any siblings
+2006293MechanicalTCSMR7Give one instance where you have helped him /her out
+2007293MechanicalTCSMR8Any question for me
+
+2008294ITTCSHR1Tell me about yourself in short.
+2009294ITTCSHR2Any locationand timing preferences or choices?
+2010294ITTCSHR3What is that one thing you would like to add to TCS?
+2011294ITTCSHR4Any creative thing you did in engineering?
+2012294ITTCSMR1Tell me about yourself in short.
+2013294ITTCSMR2Tell me your 2 weaknesses.Do you think weakness can be 
+improved.
+2014294ITTCSMR3Your favourite subject.
+2015294ITTCSMR4What is the difference between RDBMS,DRDBMS and 
+DBMS?
+2016294ITTCSMR5How would you handle exception in PL/SQL?
+2017295ITTCSHR1Tell me about yourself.
+2018295ITTCSHR2Why TCS?
+2019295ITTCSHR3Hobbies
+2020295ITTCSHR4Achievements in Life.
+2021295ITTCSHR5Success Definition.
+2022295ITTCSMR1Describe project of BE.
+2023295ITTCSMR2Tell me about yourself.
+2024295ITTCSMR3Java interface and class
+2025295ITTCSMR4Socket programming
+2026295ITTCSMR5Details about family.
+2027295ITTCSMR6Java project team work
+2028295ITTCSMR7TCS any news.
+2029296ITTCSMR1Weaknesses
+2030296ITTCSMR2How do you overcome your weakness?
+2031296ITTCSMR3Flexible to move?
+2032296ITTCSMR4Flexible with location
+2033296ITTCSMR5Tell me about yourself.
+2034296ITTCSMR6Hobbies
+2035296ITTCSMR7Passtimes
+2036297ITTCSMR1Introduce yourself
+2037297ITTCSMR2Project
+2038297ITTCSMR3Count no of 0s and 1s in "01101".
+2039297ITTCSMR4Primary key and foreign key.
+2040297ITTCSMR5ACID properties.
+2041297ITTCSMR6Differentiate between C and C++.
+2042297ITTCSMR7Polymorphism with example
+2043297ITTCSMR8Database concepts
+2044298ITTCSMR1Introduce yourself
+2045298ITTCSMR2About TCS
+2046298ITTCSMR3Weaknesses
+2047298ITTCSMR4Location Adaptability
+2048299ITTCSMR1Tell me about yourself.
+2049299ITTCSMR2BE project
+2050299ITTCSMR3Programming languages
+2051299ITTCSMR4Modelling through MATLAB
+2052
+299ITTCSMR5
+Code to read elements in an array with and without using 
+pointers.
+2053300ITTCSHR1Tell me about yourself.
+2054300ITTCSHR2Relocation.
+2055300ITTCSHR3Late shifts.
+2056300ITTCSHR4Why should we hire you?
+2057300ITTCSHR5How was your TI and MR interviews?
+2058300ITTCSHR6What is IT IS?
+2059301ITTCSMR1Introduce yourself
+2060301ITTCSMR2Hobbies
+2061301ITTCSMR3Strength
+2062301ITTCSMR4Weaknesses
+2063301ITTCSMR5Why TCS?
+2064301ITTCSMR6Why should we hire you?
+2065301ITTCSMR7Relocation.
+2066301ITTCSMR8Nighshift
+2067301ITTCSMR9BE project
+2068301ITTCSMR10MATLAB Code
+2069301ITTCSMR11Operator overloading
+2070301ITTCSMR12Any 2 policies of TCS
+2071301ITTCSMR132 achievements or projects
+2072301ITTCSMR14Any questions for us?
+2073301ITTCSMR15TE and SE projects (Coding and Connectivity)
+2074302ITTCSHR1Any location constraints?
+2075302ITTCSHR2Where you see after 5 years?
+2076302ITTCSHR3Weaknesses and hobbies
+2077303ITTCSHR1Tell me about yourself.
+2078303ITTCSHR2Strength and weaknesses
+2079303ITTCSHR3Any location constraints?
+2080303ITTCSHR4Interested area?
+2081303ITTCSHR5Nightshift?
+2082303ITTCSHR6Preference location.
+2083303ITTCSHR7Tell me about TCS
+2084304ITTCSHR1Who is your model?
+2085304ITTCSHR2What are your Hobbies?
+2086304ITTCSHR3What is your view about our president?
+2087305ITTCSHR1Tell me about yourself.
+2088305ITTCSHR2Nightshift?
+2089305ITTCSHR3Location Adaptability
+2090305ITTCSHR4Weaknesses
+2091305ITTCSMR1Tell me about yourself.
+
+2092305ITTCSMR2Explain your project
+2093305ITTCSMR3Flexibility of Area
+2094306MechanicalTCSTechnical1Introduce yourself
+2095306MechanicalTCSTechnical2Differentiate between Torque and Power.
+2096306MechanicalTCSTechnical3What is gear ratio?
+2097306MechanicalTCSTechnical4Cotter joint
+2098
+306MechanicalTCSTechnical1
+Design a product.Write down thwe procedure in the form 
+of flowchart.
+2099307MechanicalTCSTechnical2Explain 4 stroke and 2 stroke cycle.
+2100307MechanicalTCSTechnical3Carbon % in Aluminium.
+2101307MechanicalTCSTechnical4Tell me about yourself.
+2102307MechanicalTCSTechnical5C pogramming-write any program
+2103307MechanicalTCSTechnical6Manufacturing process
+2104307MechanicalTCSTechnical7React to a a given situation.
+2105307MechanicalTCSTechnical8Based on CATIA.
+2106307MechanicalTCSTechnical1Tell me about yourself.
+2107308MechanicalTCSTechnical2What is thermodynamics?
+2108308MechanicalTCSTechnical3Details about BE project.
+2109308MechanicalTCSTechnical4Actual principle of solar heater.
+2110308MechanicalTCSTechnical5Will you work in IT IS sector?
+2111308MechanicalTCSTechnical6About your family
+2112309MechanicalTCSTechnical7What do you do afetr going home from college?
+2113309MechanicalTCSTechnical8Do you help your father in business?
+2114309MechanicalTCSTechnical9How much time do you study?
+2115309MechanicalTCSTechnical10What is material science?
+2116309MechanicalTCSTechnical11Types of pumps and classification.
+2117309MechanicalTCSTechnical12What are your future plans?
+2118310MechanicalTCSTechnical1What is referegeration?
+2119
+310MechanicalTCSTechnical2
+Tell me difference between air condition and 
+referigeration.
+2120310MechanicalTCSTechnical3Components of referigerating system.
+2121
+310MechanicalTCSTechnical4All this components are same for air condition or not?
+2122310MechanicalTCSTechnical5Why hardening is done?
+2123
+310MechanicalTCSTechnical6
+Which consume more power Referigerator or air 
+conditioner?
+2124310MechanicalTCSMR1Tell me about yourself.
+2125310MechanicalTCSMR2What is non destructive testing?
+2126
+310MechanicalTCSMR3
+If I have one rod and it has scratches and internal cracks 
+then how can your find by using NDT?
+2127310MechanicalTCSMR4What is referegeration?
+2128310MechanicalTCSMR5What is your favorite project?
+2129310MechanicalTCSMR6What is meant by 4 stroke and  2 stroke engine/
+2130310MechanicalTCSMR7Why can’t we place spark plug in Ci engine?
+2131310MechanicalTCSMR8What is compression ratio for both engine?
+2132311MechanicalTCSTechnical1Tell me about yourself.
+2133311MechanicalTCSTechnical2Typed of pumps.
+2134311MechanicalTCSTechnical3What is cavitation?
+2135311MechanicalTCSTechnical4Draw refrigeration cycle.
+2136311MechanicalTCSTechnical5Draw Fe-Fe3C diagram.Describe the phases in it.
+2137
+311MechanicalTCSTechnical6
+What is compressed air?What parameter changes when air 
+is compressed?
+2138311MechanicalTCSTechnical7Why TCS?
+2139311MechanicalTCSTechnical8Draw thermal power plant
+2140311MechanicalTCSTechnical9What is boiler?
+2141311MechanicalTCSTechnical10What is ductibility and maleability?
+2142312MechanicalTCSTechnical1Introduce yourself
+2143312MechanicalTCSTechnical2About Marks
+2144312MechanicalTCSTechnical3Project
+2145312MechanicalTCSTechnical4Combustion chamber working
+2146312MechanicalTCSTechnical5SOM basic questions
+2147312MechanicalTCSTechnical6Interested area?
+2148312MechanicalTCSTechnical7Why TCS?
+2149313MechanicalTCSTechnical1Latest trend in automobiles
+2150313MechanicalTCSTechnical2Work of reverse in cars
+2151313MechanicalTCSTechnical33 puzzles
+2152313MechanicalTCSTechnical4Why TCS?
+2153313MechanicalTCSTechnical5How will TCS be benefitted?
+2154313MechanicalTCSTechnical6Project
+2155314MechanicalTCSTechnical1Your knowledge about C
+2156314MechanicalTCSTechnical2Your knowledge about MATLAB
+2157314MechanicalTCSTechnical3Developing the logic of some programs
+2158314MechanicalTCSTechnical4Explain project and your role
+2159314MechanicalTCSTechnical5Why should we hire you?
+2160
+314MechanicalTCSTechnical6
+What do you know about Fibonacci number and develop a 
+logic for it?
+2161
+315MechanicalTCSTechnical1
+How will you determine number of 0s and 1s in array 
+"010101" without using if?
+2162315MechanicalTCSTechnical2Project
+2163316MechanicalTCSTechnical1Difference between fan and blower
+2164316MechanicalTCSTechnical2Project
+2165316MechanicalTCSTechnical3Hottest part in refrigerator.
+2166316MechanicalTCSTechnical4Coding
+2167316MechanicalTCSTechnical5Whom do you admire?
+2168316MechanicalTCSTechnical6What if you have to work in IT?
+2169316MechanicalTCSTechnical7Priority: Work or Money
+2170317MechanicalTCSTechnical1What is diode?
+
+2171
+317MechanicalTCSTechnical2
+Explain working of engine. Differnce between 2 and 4 
+stroke engine
+2172317MechanicalTCSTechnical3situation-How will you manufacture bowl?
+2173317MechanicalTCSTechnical4Tell me about yourself.
+2174317MechanicalTCSTechnical5Why TCS?
+2175318MechanicalTCSTechnical1About your project.
+2176318MechanicalTCSTechnical2Favorite subject
+2177318MechanicalTCSTechnical3About native place.
+2178318MechanicalTCSTechnical4Tell me about today's scenario.
+2179319MechanicalTCSTechnical1Difference between motor and pump
+2180319MechanicalTCSTechnical2Which is the most ductile metal?
+2181319MechanicalTCSTechnical3Advantages of 4 stroke engin eover 2 stroke.
+2182320MechanicalTCSTechnical1Introduce yourself
+2183320MechanicalTCSTechnical2Family background
+2184320MechanicalTCSTechnical3What you have learnt in Pune in last 3 years?
+2185320MechanicalTCSTechnical4Which company you have visited?
+2186320MechanicalTCSTechnical5Strength and weaknesses
+2187320MechanicalTCSTechnical6Why TCS?
+2188321MechanicalTCSTechnical1Which is your favorite subject/are of interest?
+2189321MechanicalTCSTechnical2Why do you like the subject?
+2190321MechanicalTCSTechnical3Applied thermodynamics related questions
+2191321MechanicalTCSTechnical4Project
+2192321MechanicalTCSTechnical5Steps in project.
+2193322ComputerTCSTechnical1What is view?
+2194322ComputerTCSTechnical2Property of binary search tree
+2195322ComputerTCSTechnical3Unix commands
+2196322ComputerTCSTechnical4Your role in project
+2197
+322ComputerTCSTechnical5What you will do to increse the access speed of database?
+2198322ComputerTCSTechnical6Why TCS?
+2199322ComputerTCSTechnical7Project
+2200322ComputerTCSTechnical8Rate yourself in Java and DBMS
+2201322ComputerTCSTechnical9Why Oracle?
+2202322ComputerTCSTechnical10What is Hadoop MapReduce?
+2203322ComputerTCSTechnical11Area of Interests.
+2204323ComputerTCSTechnical1Tell me about yourself.
+2205323ComputerTCSTechnical2Area of Interests.
+2206323ComputerTCSTechnical3Explain the features of OOP.
+2207323ComputerTCSTechnical4Project
+2208323ComputerTCSTechnical5Why TCS?
+2209324ComputerTCSTechnical1Tell me about yourself.
+2210324ComputerTCSTechnical2Project
+2211324ComputerTCSTechnical3Why Oracle?
+2212324ComputerTCSTechnical4Do you want to ask any question to us?
+2213324ComputerTCSTechnical5Features of CPP
+2214324ComputerTCSTechnical6Code for operator overloading
+2215324ComputerTCSTechnical7Puzzle
+2216324ComputerTCSTechnical8What is polymorphism?
+2217324ComputerTCSTechnical9Explain struts
+2218324ComputerTCSTechnical10What is J2EE framework?
+2219324ComputerTCSTechnical11What are servlets and JSP's?
+2220324ComputerTCSTechnical12What is Oracle?Why it is widely used?
+2221324ComputerTCSTechnical13Explain heapsort
+2222324ComputerTCSTechnical14Explain b-tree,AVL
+2223324ComputerTCSTechnical15What is Javascript?
+2224324ComputerTCSTechnical16How to chamge MAC address to a PC?
+2225324ComputerTCSTechnical17Types of topologies.
+2226324ComputerTCSTechnical18Explain OOP concepts
+2227325ComputerTCSTechnical1Tell me about yoruself.
+2228325ComputerTCSTechnical2which one is your fav. Language/techniques?
+2229325ComputerTCSTechnical3Are you familiar with DBMS.
+2230325ComputerTCSTechnical4Create tables for election system.
+2231325ComputerTCSTechnical5Write Query such that a record should get deleted that its 
+not visible to user yet still in the database.
+2232325ComputerTCSTechnical6Difference between DBMS and RDBMS.
+2233325ComputerTCSTechnical7Explain join with example
+2234325ComputerTCSTechnical8What is inner join outer join
+2235325ComputerTCSTechnical9Difference between C,C++ and Java
+2236325ComputerTCSTechnical10What is internet?what happens when you enter an URL
+2237325ComputerTCSTechnical11Draw a sample use_case for login
+2238326ComputerTCSTechnical1Fav. Subject
+2239326ComputerTCSTechnical2Project(Explain in Detail)
+2240326ComputerTCSTechnical3Data struture (sorting and heap)
+2241326ComputerTCSTechnical4Questions on TE project.
+2242326ComputerTCSTechnical5Your role in project
+2243327ComputerTCSTechnical1Tell me about yoruself.
+2244327ComputerTCSTechnical2TE project
+2245327ComputerTCSTechnical3BE project
+2246327ComputerTCSTechnical4Your role in project
+2247327ComputerTCSTechnical5what do you about IITS
+2248327ComputerTCSTechnical6Langauage you are Comfortable with.
+2249328MechanicalTCSTechnical1Tell me about yoruself.
+2250328MechanicalTCSTechnical2Puzzle
+2251328MechanicalTCSTechnical3Fav. Subject
+2252328MechanicalTCSTechnical4Why IT company
+
+2253328MechanicalTCSTechnical5What is internet?what happens when you enter an URL
+2254328MechanicalTCSTechnical6Project and seminar
+2255329MechanicalTCSTechnical1Tell me about yoruself.
+2256329MechanicalTCSTechnical2BE project
+2257329MechanicalTCSTechnical3What is Ductility.
+2258329MechanicalTCSTechnical4Expalin working pump and Motor
+2259329MechanicalTCSTechnical5Do you paly in college team
+2260329MechanicalTCSTechnical6What position
+2261330MechanicalTCSTechnical1Tell me about yoruself.
+2262330MechanicalTCSTechnical2Tell me about Academics
+2263330MechanicalTCSTechnical3Why score less marks in 12th
+2264330MechanicalTCSTechnical4Which is your Fav. Subject
+2265330MechanicalTCSTechnical5State laws of thermodynamics
+2266330MechanicalTCSTechnical6What are the types of Springs
+2267330MechanicalTCSTechnical7What is better Natural gas or LPG
+2268330MechanicalTCSTechnical8what is more efficient:centrifugal pump or Reciprocating 
+Pump
+2269330MechanicalTCSTechnical9What is PUMP
+2270330MechanicalTCSTechnical10What is NPSH
+2271330MechanicalTCSTechnical11what do you know about C-programming
+2272330MechanicalTCSTechnical12BE project
+2273330MechanicalTCSTechnical13What do you know TCS
+2274330MechanicalTCSTechnical14Why do want to join TCS?
+2275330MechanicalTCSTechnical15If you are asked to relocate to Bangalore, Chennai,woud 
+you accept the offer.
+2276331MechanicalTCSTechnical1Tell me about yoruself.
+2277331MechanicalTCSTechnical2Which is your Fav. Subject
+2278331MechanicalTCSTechnical3What is Fricton?
+2279331MechanicalTCSTechnical4What is SOM
+2280331MechanicalTCSTechnical5Tell me about engine
+2281331MechanicalTCSTechnical6Explain MANufactures in pune
+2282331MechanicalTCSTechnical7Hobby
+2283331MechanicalTCSTechnical8Recently watched movie
+2284331MechanicalTCSTechnical9Why TCS
+2285331MechanicalTCSTechnical10Why IT company
+2286331MechanicalTCSTechnical11Programming language Knowledge
+2287331MechanicalTCSTechnical12Project and seminar
+2288331MechanicalTCSTechnical13Your marks in M2 and M3
+2289331MechanicalTCSTechnical14Ready to work anywhere
+2290331MechanicalTCSTechnical15Why don't you try for higher studies
+2291332MechanicalTCSTechnical1Draw Iron Iron canoide Diagram
+2292332MechanicalTCSTechnical2Difference b/w stress and Pressure
+2293332MechanicalTCSTechnical3Do you hire any knowlegde about C or C++?
+2294332MechanicalTCSTechnical4Tell me somethings about project
+2295332MechanicalTCSTechnical5strong Subject
+2296333MechanicalTCSTechnical1BE project
+2297333MechanicalTCSTechnical2Explalin the project in Technical terms
+2298333MechanicalTCSTechnical3What do you means by pump
+2299333MechanicalTCSTechnical4how does a pump work
+2300333MechanicalTCSTechnical5Difference between a reciprocating & compressor
+2301333MechanicalTCSTechnical6Draw Iron Iron canoide Diagram
+2302333MechanicalTCSTechnical7What is Fricton?
+2303333MechanicalTCSTechnical8State laws of thermodynamics
+2304333MechanicalTCSTechnical9definition of Som
+2305334MechanicalTCSTechnical1What is Ductility.
+2306334MechanicalTCSTechnical2whichis more Ductile material?
+2307334MechanicalTCSTechnical3which is most hardest materials
+2308334MechanicalTCSTechnical4what is anneling
+2309334MechanicalTCSTechnical5Explain Otto cycle
+2310334MechanicalTCSTechnical6What is cooler Joint
+2311334MechanicalTCSTechnical71st law of thermodynamics
+2312334MechanicalTCSTechnical8Open and closed system
+2313334MechanicalTCSTechnical9difference between pipe and tube
+2314334MechanicalTCSTechnical10what is torque
+2315334MechanicalTCSTechnical11what is ump
+2316334MechanicalTCSTechnical12Difference b/w power and force
+2317334MechanicalTCSTechnical13What is Viscocity
+2318335MechanicalTCSTechnical1Tell me about yoruself.
+2319335MechanicalTCSTechnical2What is Quality? How you measure Quality
+2320335MechanicalTCSTechnical3What is Defect
+2321335MechanicalTCSTechnical4What are the modes of Heat Transfer
+2322335MechanicalTCSTechnical5What is Cavitation/
+2323336MechanicalTCSAptitude1A runs faster than B by 1.5 kmps & A reaches the 
+destination 1.5 hrs earlier. They travelled 10 km. when  is 
+the speed of A.
+2324337MechanicalTCSTechnical1Tell me about yoruself.
+2325337MechanicalTCSTechnical2Your mother and father have governemt job then why 
+don't you prefer government job?
+2326337MechanicalTCSTechnical3Why IT company
+2327337MechanicalTCSTechnical4Why Mechanical
+2328337MechanicalTCSTechnical5Which is your Fav. Subject
+2329337MechanicalTCSTechnical6BE project
+2330337MechanicalTCSTechnical7Location Constraint
+2331337MechanicalTCSTechnical8Do you Have knowledge about C language
+2332337MechanicalTCSTechnical9Tell me about O/S
+2333338MechanicalTCSTechnical1What is Viscocity
+
+2334338MechanicalTCSTechnical2Where is viscocity used and where it is not used
+2335338MechanicalTCSTechnical3What is common rail injection system
+2336338MechanicalTCSTechnical4what is heat
+2337338MechanicalTCSTechnical5What are the modes of Heat Transfer
+2338338MechanicalTCSTechnical6what is Radition
+2339338MechanicalTCSTechnical7how to you relate heat transfer and temp in radiation
+2340338MechanicalTCSTechnical8Different types of Biolers
+2341338MechanicalTCSTechnical9What is Centrifugal Force
+2342338MechanicalTCSTechnical10What is Vane Pump
+2343338MechanicalTCSTechnical11what is different types of Pump
+2344338MechanicalTCSTechnical12What is 4 stroke engine
+2345338MechanicalTCSTechnical13Draw it
+2346339MechanicalTCSTechnical1Tell me about yoruself.
+2347339MechanicalTCSTechnical2What are your Parent doing
+2348339MechanicalTCSTechnical3Why TCS
+2349339MechanicalTCSTechnical4What are your Strenghts and weaknessess
+2350339MechanicalTCSTechnical5Fav. Subject
+2351339MechanicalTCSTechnical6What is your Ambitious
+2352339MechanicalTCSTechnical7Where do you see Yourself in TCS after 7 yrs and which 
+post
+2353339MechanicalTCSTechnical8What is First: family or TCS
+2354340MechanicalTCSTechnical1What is solar power and Energy
+2355340MechanicalTCSTechnical2Cavitaion?
+2356340MechanicalTCSTechnical3Global Warming
+2357340MechanicalTCSTechnical4Green House Effects
+2358340MechanicalTCSTechnical5Ozone Layer
+2359340MechanicalTCSTechnical6Strokes of IC engine
+2360340MechanicalTCSTechnical7refrigaration Cycle
+2361340MechanicalTCSTechnical8PUMP?
+2362340MechanicalTCSTechnical9Foot Value
+2363340MechanicalTCSTechnical10Suction Head?
+2364341E&TCTCSAptitude1Permutation
+2365341E&TCTCSAptitude2Probability
+2366341E&TCTCSAptitude3Average
+2367341E&TCTCSAptitude4Area
+2368341E&TCTCSEmail1write E-mail to your anut telling her about Receving at 
+Platform
+2369341E&TCTCSAptitude1If person work for 4hr and another for 9 yrs then how much 
+time they required if worked together
+2370342MechanicalTCSEmail1Write a email to your anut who is coming to your city in 
+Summer vacation
+2371342MechanicalTCSAptitude1Rectangualr tile 70*30m
+2372342MechanicalTCSAptitude2two allow mix in some ratio
+2373342MechanicalTCSAptitude3Questions related to Packets profit
+2374342MechanicalTCSAptitude4Graphical Problems
+2375343E&TCTCSEmail1Write an email to anut for Receving her at railway Station 
+login as Nancy.
+2376343E&TCTCSAptitude1Time and Distance
+2377343E&TCTCS2Permutation
+2378344E&TCTCSEmail1Write email to your aunt that you will pick her from Raileay 
+stattion ,writer Nancy
+2379345ITTCSTechnical1BE project
+2380345ITTCSTechnical2Tell me about yoruself.
+2381345ITTCSTechnical3Fav. Subject
+2382345ITTCSTechnical4domain
+2383345ITTCSTechnical5Relocation
+2384345ITTCSTechnical6Hobbies
+2385345ITTCSTechnical7Your role Model
+2386345ITTCSTechnical8Why TCS
+2387345ITTCSTechnical9Any Question you want to ask me
+2388346MechanicalTCSEmail1Renovation of Workplace,email to manager-clean AC-wall-
+Switch Board-Work- Prodcutivity
+2389346MechanicalTCSAptitude1Speed and time
+2390346MechanicalTCSAptitude2Permutation
+2391346MechanicalTCSAptitude3Work 
+2392346MechanicalTCSAptitude4Geometry
+2393346MechanicalTCSAptitude5Matrix
+2394346MechanicalTCSAptitude6Discrete Maths
+2395347MechanicalTCSAptitude1Time and Distance
+2396347MechanicalTCSAptitude2Permutation
+2397347MechanicalTCSAptitude3Clock
+2398347MechanicalTCSAptitude4Geometry
+2399347MechanicalTCSAptitude5Discrete Maths
+2400347MechanicalTCSAptitude6Matrix
+2401347MechanicalTCSEmail1email to anut that you are receving at station
+2402347MechanicalTCSAptitude1man and women setting alternate17.1
+2403347MechanicalTCSAptitude2Find Shortest Path?17.2
+2404347MechanicalTCSAptitude3Pentagon side?17.3
+2405348MechanicalTCSEmail1Write an email to manager of smart Automative Company 
+complaining about less no.of service Centers in City.
+2406348MechanicalTCSAptitude1(A+B+C)/4=46,(A+ B+C+D)/4=45,E=D+3, find A
+2407348MechanicalTCSAptitude2M=0.3Q,Q=0.2P,N=0.5P, find M/N ratio.
+2408348MechanicalTCSAptitude3Square is Cut at Corners to form Octagon with Equal 
+Sides.find Side.
+
+2409348MechanicalTCSAptitude43 balls are Blue ,1/3th balls in bag are Pink,5/9 blue balls 
+and 7/8 pink balls are non defective.Defective Balls are 
+145.Find total Balls.
+2410348MechanicalTCSAptitude5A and B are two alloys with compostion 5/3 and 1/2. these 
+two alloys are mixed in Ratio 4/3.find element ratio in 
+resultiing alloy.
+2411349MechanicalTCSEmail1As a TPO of a college invite H.R of a Company to Recurit 
+Students from your Company.
+2412349MechanicalTCSAptitude1(A+B+C)/4=46,(A+ B+C+D)/4=45,E=D+3, find A
+2413349MechanicalTCSAptitude2Scooter of rs.40000 yrs prize decrese by 3/4.find price after 
+3 yrs
+2414349MechanicalTCSAptitude3Total no of Balls17.4
+2415349MechanicalTCSAptitude4Find speed of B17.5
+2416349MechanicalTCSAptitude5Total sharper:18 piece of white =piece f brown=1.find total 
+no.of white sharper & price of Sharper.
+2417350MechanicalTCSEmail1Renovation of Workplace,email to manager-clean AC-wall-
+Switch Board-Work- Prodcutivity
+2418350MechanicalTCSAptitude1Total sharper:18 piece of white =piece f brown=1.find total 
+no.of white sharper & price of Sharper.
+2419350MechanicalTCSAptitude233 kg apples 1167/-,36kg apples ......... cost of 10 kg apples
+2420351MechanicalTCSEmail1campus reciurment from TnP to IT HR
+2421351MechanicalTCSAptitude1Time and Distance
+2422351MechanicalTCSAptitude2Permutation
+2423351MechanicalTCSAptitude3Clock
+2424351MechanicalTCSAptitude4Geometry
+2425351MechanicalTCSAptitude5Discrete Maths
+2426351MechanicalTCSAptitude6Matrix
+2427352MechanicalTCSEmail1Renovation of Workplace,email to manager-clean AC-wall-
+Switch Board-Work- Prodcutivity
+2428352MechanicalTCSAptitude1Time and Distance
+2429352MechanicalTCSAptitude2Permutation
+2430352MechanicalTCSAptitude3Clock
+2431352MechanicalTCSAptitude4Geometry
+2432352MechanicalTCSAptitude5Discrete Maths
+2433352MechanicalTCSAptitude6Matrix
+2434353ComputerTCSEmail1email to anut that you are receving at station
+2435353ComputerTCSAptitude1Age of Daugther,infant and mother
+2436353ComputerTCSAptitude2Star mark-cone Question ,bug and Honey
+2437353ComputerTCSAptitude3Two trains 256 km apart-find speed of Train
+2438353ComputerTCSAptitude4Permutation of 1,2,3 with postions
+2439354E&TCTCSEmail1Write email to HR of 'xxx' company for requesting to come 
+to the college for recruitment
+2440354E&TCTCSAptitude1A square of side 2m is cut at corners to form octagon 
+having equal sides. What is the side of octagon?
+2441354E&TCTCSAptitude2Two trains at station A & B which is 250km apart from each 
+other starts moving towards each other. They cross at 101 
+km from A. If train from station A has speed 48 kmph, 
+What is speed of the train from B?
+2442354E&TCTCSAptitude3If the digits (1,2,3) are arranged in every possible way, find 
+number of ways so that 1 will appear at position 1, 2 will 
+occur at position 2 and 3 will occur at position 3
+2443354E&TCTCSAptitude4Number of points in triangle having integer coordinates18.1
+2444355E&TCTCSEmail1Write letter to project manager (Thank-challenging 
+progress-tight schedule-support-report-analytics-guidance-
+access doubt requirements-design)
+2445355E&TCTCSAptitude1T I R A D E       Write 30th word
+2446355E&TCTCSAptitude2The interval of 8 yrs. The sum of 8 yrs is 15456. Find first 
+publication year.
+2447355E&TCTCSAptitude31_ _ _ 9   arrange the 3 digit number in ascending order
+2448355E&TCTCSAptitude420 people.out of 2 are sisters. They are seated between  1 
+men hence probablity of sitting in circular area.
+2449355E&TCTCSAptitude5Paul->10 days    Smith-> 15days    they earn 5000. wedges 
+of paul
+2450355E&TCTCSAptitude6In jan there are 4 Thursday, 4 Sunday, 1st january?
+2451356ComputerTCSEmail1As an intern in ABC Private Ltd.
+2452356ComputerTCSAptitude1A E R D T I      30th word
+2453356ComputerTCSAptitude2P(6)=2/5, P(1)=1/2. Find probablity of getting sum=7(Two 
+dices are thrown)
+2454356ComputerTCSAptitude3Find slope of linw which will bisect these figures 
+simultaneously
+18.2
+2455356ComputerTCSAptitude4In 3 committes, 3 are common in every pair and 2 are 
+common in all, find minimum number of members in each
+2456356ComputerTCSAptitude5total distance travelled by train and taxi is given. Fare for 
+taxi=given. Fare for train=given. Total fare given. Find 
+distance by train
+2457356ComputerTCSAptitude6A wooden toy cone hemisphere formed. Find total volume, 
+height and radius of cone.
+
+2458356ComputerTCSAptitude7Scooter value initial=40,000 depriciated every year by 3/4 
+of initial. Find price at the end of third year
+2459356ComputerTCSAptitude8A does work in 10 days B in 15 days . Total wages 5000. 
+Find wage of A
+2460356ComputerTCSAptitude9A student has to pick three numbers from 1 to 9 . Find 
+possible no. of combinations that three nos. are in A.P.
+2461356ComputerTCSAptitude10Convex hexagon. Find maximum no. of acute angles
+2462356ComputerTCSAptitude118 publications at interval of 8 yrs are published . Sum of all 
+yrs was given . Find first year of publish
+2463356ComputerTCSAptitude12Given 148, 246, 623 when divided by which no. remainder 
+is 4, 6, 11
+2464357E&TCTCSEmail1Write email toyour aunt ms._ _ _ _ that you will receive her 
+at railway station login as nancy
+2465358ComputerTCSEmail1write an email to your aunt who will be visiting you on her 
+short vacation . Write email to inform her that you will 
+receive her at the railway station
+2466358ComputerTCSAptitude1Jake works in 16 days. Paul works in 24 days. Jake, Paul, 
+Hari work in 8 days. How long will Hari take to work alone?
+2467358ComputerTCSAptitude21,2,3 are permutated . Find no. of occurences where these 
+values appear on its position i.e, 1 at position 1, 2 at 
+position 2.....
+2468358ComputerTCSAptitude3A+B+C+D+E+F=FG     A,B,C,D,E,F,G distinct digits. Find G 
+such that FG is max[10*F+G]
+2469358ComputerTCSAptitude4A-> Bay    H->Honeydrop   Find least distance18.3
+2470358ComputerTCSAptitude5Find side of octagon18.4
+2471359E&TCTCSAptitude1Amir invested in indigo. SBI HUI as Rs.300 Rs.200 rs.5 per 
+share. Total share=100. Total amount 10,000
+2472359E&TCTCSAptitude2A D V E R B     what is 45th word?
+2473359E&TCTCSAptitude360% of A and 20% of B . 75 0f 60 and 20% of B voted to A. 
+How many votes to A?
+2474359E&TCTCSAptitude43 committes are there . 2 members are common in 3 and 1 
+member are in each pair. How many members are in 1 
+committee
+2475359E&TCTCSAptitude5No. successively divided by 5, 3, 2 gives remainder as 0, 2, 1 
+and then that same is divided by 2, 3, 5 then remainder is?
+2476359E&TCTCSAptitude6Honey drop is at B. and bug is at A. then  how much 
+distance he travelled to reach B.   L=48cm   r=8cm
+2477359E&TCTCSAptitude75 distinct integer sum is same below set{9, 20, 13, 91, 96}. 
+How many possibilities are there?
+2478360E&TCTCSEmail1email to Mr. Ramesh project manager from ben. (thanks-
+reports-analytics-access-doubts)
+2479361MechanicalTCSEmail1Write email to policeman for taking action against a group 
+who used to ride their bike rashly near residential area
+2480361MechanicalTCSAptitude2conical toy placed on hemisphere. Radius of cone=Radius 
+of sphere=4.2cm. Overall height=10.4 cm. What is volume 
+of toy? (tricky question because ans given in  sq. cm)
+18.5
+2481361MechanicalTCSAptitude3A year has 4 thursdays in jan. What is the day of start?
+2482361MechanicalTCSAptitude4A D E I R T     Find 30th word if arranged in alphabetical 
+order
+2483361MechanicalTCSAptitude5A number plate is formed by 2 digits and 2 alphabets . Find 
+no. of plates can be formed withput repitition
+2484362E&TCTCSAptitude1There are 20 persons. Two of them are sisters. Find no. of 
+arrangements that there is exactly one person among two 
+sisters
+2485362E&TCTCSAptitude2If taxi fare is 15 Rs/km and rail fare is 21 rs/km. total 
+distance travelled is rs.8330 .How many distance he 
+travelled by rail?
+2486362E&TCTCSAptitude3A can work in 16 days B can do work in 24 days If A, B & C 
+work in 8 days .Find number of days required to complete 
+work by C alone
+2487362E&TCTCSAptitude4T I R A D E      Find 30th combination
+2488362E&TCTCSAptitude5A can do a work in 15 days Same work B can do in 10 days . 
+If total wages paid to both is Rs 5000. Find share of B
+2489363E&TCTCSEmail1As a neice write an email to Ms. Polly informing that you 
+are coming to receive her o railway station
+2490364E&TCTCSAptitude1average of A, B ,C is 48, average of A, B, C,D is 47. average 
+of B,C ,D, E is 48 E=3+D.  What is value of A?
+2491364E&TCTCSAptitude21st term is 1, nth term is 20 and sum of n terms is 399.  
+What is n?
+2492364E&TCTCSAptitude3Bubbly completes work in 15 days. Ashu  in 10 days . The 
+wages for that is rs.5000. If both are working together then 
+how much bubbly gets?
+2493364E&TCTCSAptitude4A book is published afterv every eight years. The sum of 
+years after eighth publication is 15456. When was the first 
+book pulished?
+2494364E&TCTCSAptitude5A D E I T R      What is 30th rank?
+2495365E&TCTCSAptitude1133 to 135 arrange in sequence. 133, 134, 135, 
+136............355   '6' how many times?
+
+2496365E&TCTCSAptitude2family for 3 months spend 2200 Rs .  Next 4 months Rs 
+2500 & 5 months Rs 3150. Annual saving is Rs . 5210 So 
+monthly income is ?
+2497365E&TCTCSAptitude3babli completes her work in 10 days. Rakhi completes her 
+work in 15 days . Total budget is 5000 if they working 
+together. Then bablis share is?
+2498366E&TCTCSAptitude1Apples costs Rs. L per kg for first 30 kg & Q Rs per 
+additional kg. Price paid for 33 kg is Rs 1167 & for 36 kg is 
+Rs.1284  Then cost of first 10 kg apples are?
+2499366E&TCTCSAptitude2Letters in word TRADE are pemuted in all possible ways 
+and arranged in alphabetical order. Find the word in 
+position 30 in order
+2500366E&TCTCSAptitude3ramesh dealt some cards to Mustaq and himself from a full 
+pack of playing cards and laid the rest. Ramesh then said to 
+mustaq "if you give me certain  umber of cards I will have 4 
+times as many cards as you . If I will give you same no. of 
+cards I will have thrice as many cards as you will have. of 
+the given choice which represents no of cards with 
+ramesh?     1,9,35,31,12

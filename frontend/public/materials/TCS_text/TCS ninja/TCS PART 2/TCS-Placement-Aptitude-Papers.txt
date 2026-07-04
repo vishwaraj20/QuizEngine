@@ -1,0 +1,211 @@
+
+
+  
+TCS Placement Papers 
+Downloaded From- RecruitmentResult.com Page 1 
+ 
+ 
+1. One Rectangular plate with length 8 inches breadth 11 inches and 2 
+inches thickness is there. What is the length of the circular rod with diameter 
+8 inches and equal to volume of rectangular plate ?       
+Ans: 3.5 inches 
+2. What is the Number of zeros at the end of the product of the numbers 
+from 1 to 100. 
+3. In some game 139 members have participated every time one fellow will 
+get out. What is the number of matches to choose the champion to be held?  
+Ans: 138 
+4. One fast typist type some matter in 2hr and another slow typist type the 
+same matter in 3hr. If both do combine in how much time they will finish.  
+(S) 
+Ans: 1hr 12min 
+5. In 8*8 chess board what is the total number of squares. 
+Ans:204 
+6. Falling height is proportional to square of the time. One object falls 64cm 
+in 2sec than in 6sec from how much height the object will fall. 
+Ans:576 cm 
+7. Gavaskar average in first 50 innings was 50. After the 51st innings his 
+average was 51 how many runs he made in the 51st innings. 
+Ans:101 
+8. 2 oranges, 3 bananas and  4 apples cost Rs.15 . 3 oranges 2 bananas 1 
+apple costs Rs 10. what is the cost of 3 oranges, 3 bananas and 3 apples 
+Ans: Rs 15. 
+9. In 80 coins one coin is counterfeit what is minimum number of weightings 
+to find out counterfeit coin 
+10. In a company 30% are supervisors and 40% employees are male. If 
+60% of supervisors are male. What is the probability that a randomly chosen 
+employee is a male or female? 
+11. Two pencils costs 8 cents, then 5 pencils cost how much 
+
+  
+TCS Placement Papers 
+Downloaded From- RecruitmentResult.com Page 2 
+ 
+Ans:20 cents 
+12. A work is done by the people in 24 min. one of them can do this work a 
+lonely in 40 min. how much time required to do the same work for the 
+second person. 
+Ans:60 min 
+13.  For a round trip, a car used 4 1/2 gallons of gasoline.  If it used 1/4 
+more gasoline going than coming back, how much gasoline was used coming 
+back? 
+Ans:  2 gallons 
+14. low temperature at the night in a city is 1/3 more than 1/2 hinge as 
+higher temperature in a day. sum of the low temp and highest temp is 100C. 
+then what is the low temperature 
+Ans: 40 C 
+15. A person who decided to go weekend trip should not exceed 8 hours 
+driving in a day Average speed of forward journey  is 40 mph. due to traffic 
+in sundays, the return journey average speed is 30 mph. how far he can 
+select a picnic spot 
+Ans: 120 miles 
+16. A sales person multiplied a number and get the answer is 3, instead of 
+that number divided by 3. what is th answer he actually has to get ? 
+Ans: 1/3 
+17. A ship started from port and moving with I mph and another ship started 
+from L and moving with H mph. At which place these two ships meet? 
+Ans is between  I and J and close to J 
+          !_____!_____!_____!_____!_____!_____! 
+ 
+          port    G           H           I           J           K           L 
+18. A building with hight D ft shadow upto G A neighbor building with what 
+height shadow C ft is      
+Ans: B ft 
+         !_____!_____!_____!_____!_____!_____!_____! 
+
+  
+TCS Placement Papers 
+Downloaded From- RecruitmentResult.com Page 3 
+ 
+ 
+         A          B          C           D          E           F          G          H 
+19. A person was fined for exceeding the speed limit by 10 mph. Another 
+person was also fined for exceeding the same speed limit by twice the same.  
+If the second person was traveling at a speed of 35 mph. Find the speed 
+limit 
+Ans: 15 mph 
+20. A bus started from bustand at 8.00a m and after 30 min staying at 
+destination, it returned back to the bustand.  the destination is 27 miles 
+from the bustand. the  speed of the bus 50 percent fast speed. At what time 
+it retur4ns to the bustand 
+Ans: 11.00 
+21. In a mixture, R is 2 parts, S is 1 part. in order to make S to 25% of the 
+mixture, how much R is to be added   
+Ans:  one part 
+22. Wind flows 160 miles in 330 min, for 80 miles how much time required. 
+Ans: 165 min 
+23. With 4/5 full tank vehicle travels 12 miles, with 1/3 full tank how much 
+distance travels  
+Ans: 5 miles    
+24. A man on a motorcycle rides 110 miles in 330 minutes.  What is his 
+average speed in miles per hour? 
+Ans:  20 miles 
+25.  A stationary engine has enough fuel to move 12 hours when its tank is 
+4/5 full, how much hours will it run when the tank is 1/3 full 
+Ans: 5 hours 
+26. The centre of a storm shifts 22.5 miles in 1 hour.  At the same rate what 
+time will it take to move 60 miles? 
+Ans:  2 2/3 hours 
+27. A 3 gallon mixture contains one part S and two parts R. In order to 
+change it to mixture containing 25% S, how much R should be added? 
+
+  
+TCS Placement Papers 
+Downloaded From- RecruitmentResult.com Page 4 
+ 
+Ans: 1 gallon 
+28.  A tree grows only 3/5 as fast as the one beside it.  In four years the 
+combined growth of the two trees is eight feet.  How much does the shorter 
+tree grow in two years 
+Ans:  Less than 2 feet 
+29.  An ocean liner L miles from port steams toward port at 11 miles per 
+hour.  Another ship leaves the same port and steams toward the ocean liner 
+at 1 miles per hour.  How many miles away from the port will they meet? 
+Ans:  Between I and J, closer to J 
+30. There are 150 weights .Some are 1 kg weights and some are 2 kg 
+weights. The sum of the weights is 260.What is the number of 1kg weights? 
+ Ans. 40 
+32. A moves 3 kms east from his starting point . He then travels 5 kms 
+north. From that point he moves 8 kms to the east. How far is A from his 
+starting point? 
+ Ans. 13 kms 
+33. The sum of the digits of a two digit number is 8. When 18 is added to 
+the number, the digits are reversed. Find the number? 
+Ans. 35 
+ 
+34. The cost of one pencil, two pens and four erasers is Rs.22 while the cost 
+of five pencils, four pens and two erasers is Rs.32.How much will three 
+pencils, three pens and three erasers cost? 
+ Ans. 27 
+35. Fathers age is 5 times his son's age. 4 years back the father was 9 times 
+older than son. Find the fathers' present age. 
+Ans. 40 years 
+36. What number should be added to or subtracted from each term of the 
+ratio 17 : 24 so that it becomes equal to 1 : 2. 
+Ans. 10 should be subtracted 
+37. What is the 12th term of the series 2, 5, 8, .... 
+
+  
+TCS Placement Papers 
+Downloaded From- RecruitmentResult.com Page 5 
+ 
+Ans. 35 
+38. If 20 men take 15 days to to complete a job, in how many days can 25 
+men finish that work? 
+ Ans. 12 days 
+41. In a fraction, if 1 is added to both the numerator at the denominator, the 
+fraction becomes 1/2. If numerator is subtracted from the denominator, the 
+fraction becomes 3/4. Find the fraction. 
+Ans. 3/7 
+42. If Rs.1260 is divided between between A, B and C in the ratio 2:3:4, 
+what is C's share? 
+Ans. Rs. 560 
+43. A shopkeeper bought a watch for Rs.400 and sold it for Rs.500.What is 
+his profit percentage? 
+ Ans. 25% 
+44. What percent of 60 is 12? 
+Ans. 20% 
+ 
+45. Hansie made the following amounts in seven games of cricket in India: 
+Rs.10, Rs.15, Rs.21, Rs.12, Rs.18, Rs.19 and Rs.17(all figures in crores of 
+course). Find his average earnings.  
+Ans. Rs.16 crore 
+49. A 3-gallon mixture contains one part S and two parts R. In order to 
+change it to a mixture containing 25% S, how much R should be added? 
+       (a) 1/2 gallon               (b) 2/3 gallon               (c) 3/4 gallon               
+(d) 1 gallon               (e) 1 1/2 gallon 
+ 53. If A is traveling at 72 km per hour on a highway. B is traveling at a 
+speed of 25 meters per second on a highway. What is the difference in their 
+speeds in meters per second? 
+       (a) 1/2 m/sec                                                   (b) 1 m/sec                                                     
+(c) 1 1/2 m/sec 
+       (d) 2 m/sec                                                      (e) 3 m/sec 
+
+  
+TCS Placement Papers 
+Downloaded From- RecruitmentResult.com Page 6 
+ 
+54. A salesperson by mistake multiplied a number 
+and got the answer as 3, instead of dividing the number by 3. What is the 
+answer he should have actually got? 
+       (a) 0        (b) 1/3        (c) 1        (d) 2        (e) 3 
+55. If the length of a rectangle is increased by 30% and the width is 
+decreased by 20%, then the area is increased by... 
+       (a) 10%        (b) 5%        (c) 4%        (d) 20%        (e) 25% 
+56. In the class of 40 students, 30 speak Hindi and 20 speak English. What 
+is the lowest possible number of students who speak both the languages? 
+       (a) 5        (b) 20        (c) 15        (d) 10         (e) 30 
+57. The most economical prices among the following prices is: 
+(a) 10 kilo for Rs.160 
+(b) 2 kilo for Rs.30 
+(c) 4 kilo for Rs.70 
+(d) 20 kilo for Rs.340 
+(e) 8 kilo for Rs.130 
+58. A truck contains 150 small packages, some weighing 1 kg each and 
+some weighing 2 kg each. how many packages weighing 2 kg each are in 
+the truck if the total weight of all the packages is 264 kg? 
+(a) 36        (b) 52        (c) 88        (d) 124        (e) 114 
+60. One year ago Pandit was three times his sister's age. Next year he will 
+be only twice her age. How old will Pandit be after five years? 
+Ans: 12 years 
+ 
+ 

@@ -1,0 +1,234 @@
+TCS QUESTION PAPER KEY 18th JULY 2019
+
+
+
+1.The water from one outlet, flowing at a constant rate, can fill the swimming pool in 9 hours. The water from second outlet, flowing at a constant rate can fill up the same pool in approximately in 5 hours. If both the outlets are used at the same time, approximately what is the number of hours required to fill the pool?
+
+
+
+Assume tank capacity is 45 Liters.  Given that the first pipe fills the tank in 9 hours.  So its capacity is 45 / 9 = 5 Liters/ Hour.  Second pipe fills the tank in 5 hours.  So its capacity is 45 / 5 = 9 Liters/Hour. If both pipes are opened together, then combined capacity is 14 liters/hour.   To fill a tank of capacity 45 liters, Both pipes takes 45 / 14 = 3.21 Hours.
+
+
+
+2.Jose is a student of horticulture in the University of Hose. In a horticultural experiment in his final year, 200 seeds were planted in plot I and 300 were planted in plot II. If 57% of the seeds in plot I germinated and 42% of the seeds in plot II germinated, what percent of the total number of planted seeds germinated?
+
+Ans: Total seeds germinated in Plot I = 57% of 200 = 114Total seeds germinated in Plot II = 42% of 300 = 126Total germinated seeds = 114 + 126 = 240The percentage of germinated seeds of the total seeds = 240500×100 = 48%
+
+
+
+3.The present ratio of students to teachers at a certain school is 30 to 1. If the student enrollment were to increase by 50 students and the number of teachers were to increase by 5, the ratio of the teachers would then be 25 to 1 What is the present number of teachers?
+
+Assume the present students and teachers are 30K, KAfter new recruitments of students and teachers the strength becomes  30K + 50, K + 5 respectively. But given that this ratio = 25 : 1⇒30K+50K+5=251Solving we get K = 15So present teachers are 15.
+
+
+
+4.Machine A produces bolts at a uniform rate of 120 every 40 second, and Machine B produces bolts at a uniform rate of 100 every 20 seconds. If the two machines run simultaneously, how many seconds will it take for them to produce a total of 200 bolts?
+
+Ans: Machine A produces 120/40 = 3 bolts in 1 second and machine B produces 100/20 = 5 bolts in one second.Hence, both of them will produce 8 bolts per second.Hence, they wil take 200/8 = 25 seconds to produce 200 bolts.5. How many prime numbers between 1 and 100 are factors of 7150?Ans: 7, 150 = 2×52×11×13So there are 4 distinct prime numbers that are below 100
+
+
+
+6. A bakery opened yesterday with its daily supply of 40 dozen rolls. Half of the rolls were sold by noon and 80 % of the remaining rolls were sold between noon and closing time. How many dozen rolls had not been sold when the bakery closed yesterday?Ans: If half of the rolls were sold by noon, the remaining are 50 % (40) = 20. Given 80% of the remaining were sold after the noon to closing time⇒ 80% (20) = 16Unsold = 20 - 16 = 4
+
+
+
+7. The price of lunch for 15 people was 207 pounds, including a 15 percent gratuity of service. What was the average price per person, EXCLUDING the gratuity?Ans: Let the net price excluding the gratuity of service = x poundsThen, total price including 15% gratuity of service = x×(100+15100) = 1.15 x poundsSo, 1.15 x = 207 pounds ⇒ x = 207 / 1.15 = 180 poundsNet price of lunch for each person = 180 / 15 = 12 pounds
+
+
+
+8. In a circular race of 1200m, A and B start from the same point and at the same time with speeds of 27kmph and 45 kmph.  Find when will they meet again for the first time on the trace when they are running in the same direction and Opposite direction?a. 240, 60 Secs b. 200, 60 secs  c. 200, 80 Sec  d. None of theseSol: option ALength of the track L=1200mSpeed of A = 27×518 = 7.5 m/sSpeed of B = 45×518 = 12.5 m/s(i) same directionTime = L / Relative Speed = 120012.5−7.5 = 240 sec(ii) Opposite DirectionTime = L / Relative Speed = 120012.5+7.5 = 60 sec
+
+
+
+9. A can run one full round of a circular track in 6 min and B in 15 min.  If both A and B start simultaneously from the same starting point then How many times would they met in the time B has completed 10 rounds when running in same direction, and In opposite direction?a. 15, 10    b. 25, 30         c. 25, 35           d. NoneWhen B has completed 10 rounds, A would have completed 10 x 15/6 = 25 rounds.When running in same direction, this would mean A having run 15 rounds more than B and would thus have met 15 times (For every one round that A runs more than B, A meets B)When running in Opposite direction, this would mean A and B together having run 35 rounds and thus would have met 35 times.10. Bhim and Arjun were exercising during their Vanvaas.  They start running on a circular track simultaneously and in the same direction.  If Bhim takes 4 min to compelte one round, and Arjun takes 7 min to complete one round Find (i) After how much time will they meet for the first time (ii) After how much time will they meet for the first time at the starting point (iii) After how much time would they meet for the first time at a point diametrically opposite to the starting point on the track?a. 14/3, 28, 28 b. 28/3, 28, they never meetc. 28/3, 28, 14 d. NoneSol: Option CRatio of speed of Bhim and Arjun = 7:4i. If the length of circular track = 28 m, the speeds of Bhim and Arjun are 7 and 4 m/ minThe time when they are together for the first time will be when Bhim (the faster one) has taken one round more than Arjun.Therefore, if time when they meet is ‘t’ then7t - 4t = 28.  whcih means t = 28/3 minii. They will meet at the starrting place the first time at a time which is the LCM of the times each one of them takes to reach the starting placeTherefore, LCM of 4, 7 is 28 min.iii. Diametrically opposite point is at a circular distance of 14 m.Bhim reaches this point in 14/7 = 2 min and Arjun reaches this point in 14 / 4 = 3.5 min.Bhim reaches this point in the 2nd min, 2+4 = 6 min, 6+4 = 10th min... so on. Arjun reaches after 3.5 min, 10.5 min, 17.5 min ...so on.The time after the start when Bhim reaches the point is a natural number, Where as the time when Arjun reaches this point will always be a non-natural number.  So they will never meet.Alternatively:If the time when they would meet for the first time at the starting point = LCM (4, 7) = 28 min, in this time Bhim does 7 rounds and Arjun completes 4 rounds. Hence, He would take (28/3) min to take a lead of one round. This is the time they would meet for the first time.Additional Questions:11. Amar and balu as a warm up exercise are jogging on a circular track. Balu is a better athelete and jogs at 18 km/hr, while Amar jogs at 9 km/hr. The circumference of the track is 500 m. They start from the same point and in the same direction. When will they be together again for the first time?
+
+Since Balu is faster than Amar he will take a lead and as they keep running, the gap between them will also keep widening, unlike on a straight track they would meet again even if Balu is faster than Amar.The same problem could be rephrased as: In what time would Balu take a lead of 500 m over Amar?Every second, Balu is taking a lead of m = 2.5 m over Amar.Hence, he takes  to take a lead of 500 m over Amar. Hence, they would meet for the first time after 200 s.Alternative methodFor every round that Amar makes, Balu would have made 2 rounds because the ratio of their speeds is 1 : 2. Hence, when Amar has made one full round, Balu would have taken a lead of one round.Therefore, they would meet after 5002.5s,i.e.[1roundAmar′sspeed=5002.5]=200s[Here, 9×518=2.5m/s is Amar’s speed.]12. If the speeds of Dhoni and Sachin were 8 km/hr and 5 km/hr, then after what time will the two meet for the first time at the starting point if they start simultaneously? The length of the circular track is 500 m.
+
+ Let us first calculate the time Dhoni and Sachin take to make one full circle.Time taken by Dhoni = 500(8×518)=225sHence, after every 225 s, Dhoni would be at the starting point and after every 360 s, Sachin would be at the starting point. The time, when they will be together again at the starting point simultaneously for the first time, would be the smallest multiple of both 225 and 360, which is the LCM of 225 and 360. Hence, they would both be together at the starting point for the first time after LCM (225, 360) = 1800 s. Thus, every half an hour, they would meet at the starting point.From the solution you could realize that it is immaterial whether they move in the same direction or in the opposite.
+
+13. A and B walk around a circular path of 900 metre in circumference, starting together from the same point in the same direction. If their speeds are 150 metre per minute and 200 metre per minute respectively, after how many minutes will they be again at the starting point?
+
+The time after which they are together at the starting point = LCM of (La,Lb)
+
+seconds
+
+So A takes 900 / 150 = 6 min and B takes 900 / 200 = 9/2 min
+
+LCM of 6/1 and 9/2 = LCM of (6, 9) / HCF of (1, 2) = 18/1 = 18 minutes.
+
+14. A store is selling a jacket on sale at 30% off the marked price. A matching pair of pants are on sale at 40% off the marked price. If the market price of the pants is Rs. 8500 less than the market price of the jacket and the total sale price of both items is Rs. 23500, then what is the market price of the jacket?
+
+let marked price of jacket=xmarked price of pants=x-8500,(x*70/100)+(x-8500)*60/100=23500x=22000marked price of jacket=22000
+
+15.. Initially, when Sona and Tina left for a shopping expedition, Sona had three times the money than Tina had. They bought things amounting to Rs. 480 altogether, out of which Tina’s share was 65%. At the end of shopping, Sona was left with 4 times the amount thatTina had. What was the amount with Tina at the beginning?
+
+
+
+ ANS.3T-4(T-312)=168T=144
+
+16.If A, B and C are three positive integers such that A is greater than B and B is greater than C, then which of the following is definitely true? i. A% of B is greater than B% of C. ii. B% of A is greater than C% of B iii. C% of A is greater  B% of C
+
+
+
+ ANS.Let us assume A=100, B= 50 and C=10.Now, A% of B = 100% of 50 = 50 and B% of C = 5. Hence, A%(B)>B%(C)Again B% of A = 50 and C% of B = 5. FALSESimilarly, C% of A = 10 and B% of C = 5. FALSEHence (i) is Definitely True
+
+
+
+
+
+17. A function f satisfies f(0) = 0, f(2n) = f(n), and f(2n+1) = f(n) + 1 for all positive integers n. What is the value of f(2018) ?
+
+
+
+f(2018)=f(1009)f(1009)=f(2*504+1)=f(504)+1=f(252)+1=f(126)+1=f(63)+1=f(2*31+1)+1=f(31)+2=f(2*15+1)+2=f(15)+3=f(2*7+1)+3=f(7)+4=f(2*3+1)+4=f(3)+5=f(2*1+1)+5=f(1)+6=f(2*0+1)+6=f(0)+7=0+7=7
+
+
+
+f(2*0+1) = f(0) + 1 =1f(1) = 1f(2*1) = f(1) => f(2) = f(1) = 1 f(2018) = 1
+
+
+
+f(2018)=f(2x1009)=f(504+1)=f(2x252+1)=f(252)+1f(252)=f(2X126)=f(126)=f(2X63)=f(63)=f(2X31+1)=f(31)+1f(31)=f(2X15+1)=f(15)+1f(15)=f(2X7+1)=f(7)+1f(7)=f(2X3+1)=f(3)+1f(3)=f(2X1+1)=f(2)+1f(2)=f(2X1)=f(1)f(1)=f(2X0+1)=f(0)+1=1 So we have, f(1)=1f(2)=1f(3)=1+1f(7)=2+1f(15)=3+1f(31)=4+1f(252)=5+1f(2018)=6+1=7 Ans.
+
+18. What is the number of positive integers less than or equal to 2017 that have at least one pair of adjacent digits that are both even. For example 24,564 are two examples of such numbers while 1276 does not satisfy the required property. 
+
+
+
+Answer: 738Step-by-step explanation:What is the number of positive integers less than or equal to 2017 that have at least one pair of adjacent digits that are both even.Number should be at least 2 digits2 digits numbers starting & ending with even numberStarting digits 2 , 4 , 6 , 8  Ending digit 0 2 , 4 , 6 , 84 * 5 = 20 numbers3 Digit numbersits necessary that Middle number is even number0 2 4 6 81st digit even number 2 4 , 6 , 8   & 3rd digit any digit 5 * 4 * 10 = 2003rd digit even number 0 2 4 6 8  & 1st digit any ( 1 to 9)= 5 * 5 * 9 = 225Repeated number here where 1st & 3rd digit even numbers4 * 5 * 5 = 100 ( to be reduced)3 Digit numbers = 200 + 225 - 100 = 325in 4 digit number  1000 to 1999 1100 to 1999 again these 325 numbers  & additional 50 numbers where 2nd digit = 0 (1000 to 1099)= 325 + 50 = 375 numbers2000 to 2017  (1st two digits are even)All 18 numbers    Total number = 20 + 325 + 375 + 18 = 738
+
+
+
+19. Father is aged three times more than his son Roy. After 8 years, he would be two and a half times of Roy's age. After further 8 years, how many times would he be of Roy's age?
+
+
+
+let son present age=xfatger=3xafter 8yrs3x+8=2.5(x+8)x=24 son agefather=72after further 8 yrs i.e. 16 yrs fathers age =72+16=88
+
+
+
+20.A Two-dimensional array X(7,9) is stored linearly column-wise in a computer's memory. Each element requires 8 bytes for storage of the value. If the first byte address of X(1,1) is 3000, what would be the last byte address of X(2,3)?(a) 3247 (b) 3567 (c) 3088 (d) 3225 (e) 3765
+
+
+
+formula :Baseaddress+byte required {N(i-1)+(j-1)}3000+8{9(2-1)+(3-1)}3000+8830883088 is the answeri represents the rowj represents the columnN means column size total 9 here
+
+
+
+3088if 1,1=30001,3=30161,9=30642,1=30722,3=3088.
+
+CODING QUESTION
+
+Given an array, find the most frequent element in it. If there are multiple elements that appear maximum number of times, print any one of them. Take input from STDIN.
+
+Examples:
+
+Input: arr[] = {1, 3, 2, 1, 4, 1}
+
+Output: 1
+
+1 appears three times in array which is maximum frequency.
+
+Input: arr[] = {10, 10, 20, 10, 20, 30, 20}
+
+Output: 20
+
+Both 10 and 20 appears three times which is maximum. So display either 10 or 20.
+
+
+
+Solution: (Java Coding)
+
+
+
+import java.util.*; 
+
+class Test { 
+
+    static int mostFrequent(int arr[], int n) 
+
+    { 
+
+          
+
+        // Sort the array 
+
+        Arrays.sort(arr); 
+
+        // find the max frequency using linear 
+
+        // traversal 
+
+        int max_count = 1, res = arr[0]; 
+
+        int curr_count = 1; 
+
+          
+
+        for (int i = 1; i < n; i++) 
+
+        { 
+
+            if (arr[i] == arr[i - 1]) 
+
+                curr_count++; 
+
+            else 
+
+            { 
+
+                if (curr_count > max_count) 
+
+                { 
+
+                    max_count = curr_count; 
+
+                    res = arr[i - 1]; 
+
+                } 
+
+                curr_count = 1; 
+
+            } 
+
+        } 
+
+        // If last element is most frequent 
+
+        if (curr_count > max_count) 
+
+        { 
+
+            max_count = curr_count; 
+
+            res = arr[n - 1]; 
+
+        } 
+
+      
+
+        return res; 
+
+    } 
+
+    public static void main (String[] args) { 
+
+          
+
+        int arr[] = {1, 5, 2, 1, 3, 2, 1}; 
+
+        int n = arr.length; 
+
+        System.out.println(mostFrequent(arr,n)); 
+
+          
+
+    } 
+
+}
+
+
+
+
+
+
+

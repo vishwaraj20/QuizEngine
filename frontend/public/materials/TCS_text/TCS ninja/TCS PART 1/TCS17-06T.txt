@@ -1,0 +1,232 @@
+
+
+TEST CODE	: TCS17-06T
+
+Total number of question	: 10
+
+Test duration (min)	: 20 min
+
+Correct attempt (mark)	: 1 
+
+Wrong attempt (mark)	: Nil
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TECHNICAL
+
+
+
+Certain questions are self-explanatory. Thus detailed solutions are provided only wherever required.
+
+
+
+1. What will be the output of the below program?
+
+
+
+a. Runtime Error		b. Compile Time error
+
+c. 1				d. 10
+
+
+
+Answer: C
+
+
+
+Explanation: 
+
+scanf returns the number of items successfully read and not 10. Here 10 is input and scanf reads the 10 and return 1.
+
+
+
+2. Memory allocation using malloc() is done in?
+
+a. static area	b. Heap area	c. stack area	d. disc
+
+
+
+Answer: B
+
+
+
+Explanation: 
+
+Dynamic memory allocation is done in Heap
+
+
+
+3. Comment the output of below two print statements. 
+
+Integer x = 10, y = 20, z = 5 print x*y/z+x.
+
+ print x*(y/z) +x.
+
+a. Same output			b. Differ by 20
+
+c. Differ by 10			d. Differ by 15
+
+
+
+Answer: A
+
+
+
+Explanation: 
+
+Solving 2 equations, we get 50
+
+
+
+4. The best data structure to check whether an arithmetic expression has balanced parenthesis is a
+
+a. Queue           b. Stack	         c. Tree	d. Linked List
+
+
+
+Answer: B
+
+
+
+Explanation: 
+
+ Stacks can check equal pair/ balanced pair of parenthesis efficiently. Whenever we get an opening parenthesis we can push it on the stack and when we get the corresponding closing parenthesis, we can pop it. 
+
+After performing all push and pop operations, if at the end of the expression stack becomes empty then the expression has a balanced parenthesis
+
+
+
+5. Which of the below functions is Not declared in math.h?
+
+a. pow()	b. hex()             c. sqrt()	          d. cos()
+
+
+
+Answer: B
+
+
+
+Explanation: 
+
+hex() is not declared in math.h
+
+
+
+6. What is the best case and worst case complexity of ordered linear search?
+
+a. O(nlogn), O(logn)
+
+b. O(logn), O(nlogn)
+
+c. O(n), O(1)
+
+d. O(1), O(n)
+
+
+
+Answer: C
+
+
+
+Explanation: 
+
+ Although ordered linear search is better than unordered when the element is not present in the array, the best and worst cases still remain the same, with the key element being found at first position or at last position.
+
+
+
+7. What is the use of void pointer?
+
+a. Pointer that will not return any value
+
+b. Address of any variable of any data type can be assigned
+
+c. Address of void method can be stored
+
+d. Address of another pointer can be stored
+
+
+
+Answer: B
+
+
+
+8. If malloc() fails to allocate the requested memory, it returns
+
+a. Null			b. Garbage Value
+
+c. Zero			d. None of the Mentioned
+
+
+
+Answer: A
+
+
+
+Explanation: 
+
+If malloc() fails to allocate memory, it will return Null
+
+
+
+9. Which of the following is the correct order of evaluation for the below expression? z = x + y * z / 4 % 2 - 1
+
+a. * / % + - =			b. * / % + -=
+
+c. / * % - + =			d. * % / - + =
+
+
+
+Answer: A
+
+
+
+Explanation: 
+
+It executes based upon operator precedence
+
+
+
+
+
+
+
+
+
+
+
+10. What will be the output of the below program?
+
+
+
+
+
+a. 3 8		b. 8 3		c. 8 5		d. 8
+
+
+
+Answer: B
+
+
+
+Explanation: 
+
+Initially x = 3 then it calls the m() function then x = 8 and n() function print the x value and return to main  function.  Scope of x variable in m() function only for that function.
+
+
+

@@ -1,0 +1,206 @@
+
+
+TEST CODE	: TCS17-02T
+
+Total number of question	: 10
+
+Test duration (min)	: 20 min
+
+Correct attempt (mark)	: 1 
+
+Wrong attempt (mark)	: Nil
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TECHNICAL
+
+
+
+Certain questions are self-explanatory. Thus detailed solutions are provided only wherever required.
+
+
+
+1. #include is called
+
+a. Pre processor directive        b. Inclusion directive
+
+c. File inclusion directive         d. None of the mentioned
+
+
+
+Answer: A
+
+ 
+
+2. The format identifier ‘%i’ is also used for _____ data type?
+
+a. char	         b. Int	     c. Float	    d. double
+
+
+
+Answer: B
+
+
+
+3. What is the size of an int data type?
+
+a. 4 Bytes
+
+b. 8 Bytes
+
+c. Depends on the system/compiler
+
+d. Cannot be determined
+
+
+
+Answer: C
+
+
+
+Explanation: 
+
+ The size of the data types depend on the system.
+
+
+
+4. Which of the following cannot be a structure member?
+
+a. Another structure	        b. Function
+
+c. Array			        d. None of the mentioned
+
+
+
+Answer: B
+
+ 
+
+5. Which of the following structure declaration will throw an error?
+
+a. struct temp{}s;
+
+    main(){}
+
+b. struct temp{};
+
+    struct temp s;
+
+    main(){}
+
+c. struct temp s;
+
+    struct temp{};
+
+    main(){}
+
+d. None of the mentioned
+
+Answer: D
+
+ 
+
+6. For the following expression to work, which option should be selected. (In C)
+
+ string p = “HELLO”;
+
+a. typedef char [] string;
+
+b. typedef char * string;
+
+c. Both (a) and (b)
+
+d. Such expression cannot be generated in C
+
+
+
+Answer: B
+
+ 
+
+7. What is the default return-type of getchar()?
+
+a. int	
+
+b. char
+
+c. char*
+
+d. Reading character doesn’t require a return-type
+
+
+
+Answer: A
+
+ 
+
+8. The value of EOF is_____.
+
+a. 1		b. 0		c. -1		d. 10
+
+Answer: C
+
+ 
+
+9. If there is any error while opening a file, fopen will return?
+
+a. Nothing				b. EOF
+
+c. Depends on compiler     		d. NULL
+
+
+
+Answer: D
+
+ 
+
+10. union test
+
+      {
+
+      int x;
+
+      char arr[8];
+
+      int y;
+
+       };
+
+        int main()
+
+       {
+
+        printf("%d", sizeof(union test));
+
+        return 0;
+
+        }
+
+Predict the output of above program. Assume that the size of an integer is 4 bytes and size of character is 1 byte. Also assume that there is no alignment needed.
+
+a. 8	b. 16	c. 12	d. Compiler error
+
+Answer: A
+
+
+
+Explanation: 
+
+ When we declare a union, memory allocated for a union variable of the type is equal to memory needed for the largest member of it, and all members share this same memory space. In above example, "char arr[8]" is the largest member. Therefore size of union test is 8 bytes.
+

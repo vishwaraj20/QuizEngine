@@ -1,0 +1,90 @@
+
+
+7/12/2019TCS: CodeVita - Coding Arena
+https://www.tcscodevita.com/CodevitaV8/main_page.jsp1/3
+Suresh
+Coding Area
+ABCDEF
+Holes And Balls
+Problem Description
+A  man is  doing an  experiment with the  device that he  built newly.  The
+structure of the device is as below diagram.
+B to E is a sloping surface with n holes, labelled H1, H2, ... Hn, on it. Holes are
+of different diameters and depths. The man is releasing m number of balls of
+different diameters from the point B one after the other. He needs to find the
+positions of each ball after the experiment. 
+The specialties of the device are:
+1. A ball will fall into a hole, if its diameter is less than or equal to the diameter
+of the hole.
+2. A hole Hi will become full, if i numbers of balls fall into it. For example hole
+labelled H3 will become full if 3 balls fall into it.
+3. If a hole is full, then no more balls fall into it.  
+4. A ball will reach the bottom point E from B, if and only if it is not falling into
+any one of the holes.
+Please help him in finding the eventual position of the balls. If a ball is in hole
+Pi, then take its position as i. If a ball reached the bottom point E, then take its
+position as 0.
+ONLINE EDITOR (A)
+Guidelines
+Coding Area
+Editor | Compile &
+Run History
+Submissions
+Feedback Form
+Graphs
+05Hr 39Min
+08Sec
+
+7/12/2019TCS: CodeVita - Coding Arena
+https://www.tcscodevita.com/CodevitaV8/main_page.jsp2/3
+Constraints
+0 < N <= 50
+0 < Diameter of holes <= 10^9
+0 < M <= 1000
+0 < Diameter of balls <=10^9
+Input Format
+Line 1: total number of holes, N 
+Line 2: N space separated integers denoting the diameters of N holes, from
+bottom to top 
+Line 3: total number of balls, M 
+Line 4:  M  space separated integers denoting the  diameters of  balls in  the
+order of release.
+Output
+Line 1: Positions of each ball in the order of ball release separated by space
+Test Case
+Explanation
+Example 1
+Input
+3
+21 3 6
+11
+20 15 5 7 10 4 2 1 3 6 8
+Output
+1 0 3 0 0 3 3 2 2 0 0
+Explanation
+3  holes  are  there  labelled H1, H2, and  H3  of  diameters 21,  3,  and 6
+respectively. 11 balls are released from the point B in the order provided in the
+input i.e. { 20, 15, 5, 7 ..., 5}. Ball of diameter 20 will fall into the hole H1 and
+the hole H1 will become full. Balls 15, 7 and 10 will reach bottom since hole
+H1 is full and diameters of holes H2 and H3 are less than balls diameter. Balls
+5, 4 , and 2 will fall into the hole H3. Ball 1 will fall into the hole H2 since the
+hole H3 is already full. Ball 3 will fall into hole H2. Balls 6, and 8 will reach at
+the  bottom  point E.  The position of  ball 20  is  1  because it  is  in  hole H1.
+Positions of ball 15, 7, 10, 3, 6, and 8 are 0 because they reached bottom point
+E. Positions of 5, 4, and 2 are 3 because they are in hole H3. Position of Ball 1
+and Ball 3 is 2. 
+
+7/12/2019TCS: CodeVita - Coding Arena
+https://www.tcscodevita.com/CodevitaV8/main_page.jsp3/3
+CodeVita FAQs
+About CodeVita
+Privacy Policy
+Careers
+© 2019 Tata Consultancy Services Limited. All Rights Reserved.
+Upload Solution [ Question : A ]
+ I, suresh confirm that the answer
+submitted is my own.
+ Took help from online sources
+(attributions)
+Choose a
+File ...

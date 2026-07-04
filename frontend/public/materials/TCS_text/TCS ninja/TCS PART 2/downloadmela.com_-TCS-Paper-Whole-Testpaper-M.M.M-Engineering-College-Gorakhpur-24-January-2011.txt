@@ -1,0 +1,195 @@
+
+
+Visit www.downloadmela.com for more papers
+2005-2008 Placement
+Papers
+2010 Placement Papers2011 Placement Papers2009 Placement Papers
+Contributor name: Pratik Sirohi
+Company Name: TCS
+Status: Selected 
+Venue: M.M.M. Engineering College, Gorakhpur.
+Placement Date: 24/01/2011.
+Hi Friends, 
+First of all thanks a big thank to Freshersworld.com and to my friends Niraj Jaiswal, 
+Ankita Roy, Shashank jain, Rohit kamal, saxena, Ashutosh singh, motu, Shravan, Vineet 
+for supporting me in getting placed in TCS.
+Selection process:
+1) Written test                          
+2) Technical cum HR interview.
+Written Test:
+Written test consists of 35 questions 80 mins, previously it is 60 mins but now time they 
+increased 20 mins. It is a online test.
+Preparation: Up to my knowledge questions for written test is always from previous 
+papers.so  try papers given by various users in freshersworld.com and prepare 
+quantitative aptitude by R.S Aggarwal.
+1) The age of ram and sam are in the ratio 5:6 and after 4 years their ratios are 7:8 
+then what is the present age of sam?
+Ans: 12years (names and values may change)
+ 
+2) There is a toy train that can make 10 musical sounds. It makes 2 musical sounds 
+after being defective. What is the probability that same musical sound would be 
+produced 5 times consecutively? (1 of )?
+Ans: 1/2 * 1/2 * 1/2 * 1/2 * 1/2 = 1/32
+3) Find (4x+2y)/ (4x-2y) if x/2y=2
+4) Find average speed if a man travels at speed of 14kmph up and 26kmph down at an 
+altitude of 200m. Formula is 2xy/(x+y)
+5) In school there are some bicycles and 4wheeler wagons.one Tuesday there are 190 
+wheels in the campus. How many bicycles are there?
+Ans: 15
+6) Six friends go to pizza corner there are 2 types of pizzas. And six different flavors are 
+there they have to select 4 flavors from 16 flavors. In how many ways we can select?
+Ans: 16C4
+7) 3, 15, x, 51, 53,159,161. Find X
+Ans: 17
+8) 3 friends A, B, C went for week end party to McDonald’s restaurant and there they 
+measure there weights in some order IN 7 rounds. A;B;C;AB;BC;AC;ABC. Final round 
+measure is 155 kg then find the average weight of all the 7 rounds?
+Ans: 4(155)/7=31
+8. The cost of making robot is divided into cost of material, cost of repairing and cost of 
+painting in the ratio of 5:2:3. The cost used for material is 200. Find the total cost of 
+making the robot?
+Ans: 400 (just calculate it). 
+10) (There was a long story, I'll cut short it). There are 5 materials to make a perfume: 
+Lilac, Balsamic, Lemon, and Woody and MI mosaic. To make a perfume that is in demand 
+the following conditions are to be followed: Lilac and Balsamic go together. Woody and 
+MI mosaic go together; Woody and Balsamic never go together. Lemon can be added 
+with any material. (Actually they had also mentioned how much amount of one can be 
+added with how much quantity of the other; but that's not needed for the question.) All 
+of the following combinations are possible to make a perfume except: 
+1) Balsamic and Lilac
+2) Woody and Lemon
+
+Visit www.downloadmela.com for more papers
+2005-2008 Placement
+Papers
+2010 Placement Papers2011 Placement Papers2009 Placement Papers
+3) MI mosaic and Woody
+4) MI mosaic and Lilac
+11) A triangle is made from a rope. The sides of the triangle are A cm, B cm and C cm (I 
+do not remember the numerical value). What will be the area of the square made from 
+the same rope?
+Ans: ((A+B+C)/4)2
+12) What is the distance of the z-intercept from the x-intercept in the equation 
+ax+by+cz=d (I do not remember the values of a, b, c, d).
+Ans: sqrt ((d/a) 2+ (d/c) 2)
+13) A scientist in Antarctic region conducts research on bears came to know that bears 
+changes according to the location .once he moves 1 mile towards north, then he moves 
+2 miles towards east, then 1 mile towards south. Now the color of bear he found will be 
+in:
+Ans: white
+14) Two pipes A and B fill at A certain rate B is filled at 10,20,40,80,. If 1/16 of B if filled 
+in 17 hours what time it will take to get completely filled
+Ans 21
+15) There are 11 boys in a family. Youngest child is a boy. What is the probability of all 
+are boys?
+a) 2      b) 2!     C) 2048           d) 1024
+16) A boy bought a roll A of 56 inches wide and 141 yards long. He also bought B of 77 
+inches wide of length 333yards. We don’t want any details of B. Some irrelevant matter. 
+Final question is Time taken for cutting A into 1 yard piece is 2 seconds. Time taken to 
+cut into 141 pieces of 1 yard each is?
+Ans is 2(141) =242
+17) A Person buys a horse for 15 ponds, after one year he sells it for 20 pounds. After 
+one year, again he buys the same horse at 30 pounds and sells it for 40 pounds. What is 
+the profit for that person?
+Ans is 15 pounds
+18) There are 1000 pillars for a temple. 3 friends Linda, Chelsey, Juli visited that temple. 
+(Some unrelated stuff) Linda is taller than Chelsea and taller than 2 of 1000 pillars. Julia 
+is shorter than Linda. Find the correct sentence?
+a) Linda is shorter among them
+b) Chelsea is taller than Julia
+c) Chelsea is shorter than Julia
+d) Cannot determine who is taller among Chelsea and Julia
+Ans: d
+19) In a family there are some boys and girls. All boys told that they are having equal no 
+of brothers and sisters and girls told that they are having twice the no. of brothers than 
+sisters. How many boys and girls present in a family?
+Ans is 4 boys and 3 girls
+20) There are certain number of hats and gloves in a box. They are of 41 red, 23 green, 
+11 orange. Power gone. But a woman can differentiate between hats and gloves.How 
+many draws are required to obtain a pair of each color.
+21) There is a die with 10 faces. It is not known that fair or not. 2 captains want to toss 
+die for batting selection. What is the possible solution among the following?
+a) If no. is odd it is head, if no. is even it is tail
+b) If no. is odd it is tail, if no. is even it is head
+c) Toss a die until all the 10 digits appear on top face. And if first no. in the sequence is 
+odd then consider it as tail. If it is even consider it as head.
+I didn’t remembered last option and I don’t know answer.
+22) 2 years ago of A is x times that of B. 3 Years hence the age of A is 4/3 times of B. 
+What is the present age of B in binary form?
+I didn’t remember the exact values of x and y. You can solve easily.
+
+Visit www.downloadmela.com for more papers
+2005-2008 Placement
+Papers
+2010 Placement Papers2011 Placement Papers2009 Placement Papers
+23) Ram buys a cycle for 31 dollars and given a cheque of amount 35 dollars. Shop 
+Keeper exchanged the cheque with his neighbor and gave change to Ram. After 2 days, 
+it is known that cheque is bounced. Shop keeper paid the amount to his neighbor. The 
+cost price of cycle is 19 dollars. What is the profit/loss for shop keeper?
+Ans is 23(cost price + change given).
+24) metal strip of width ‘x’ cm. 2 metal strips are placed one over the other, then the 
+combine length of 2 strips is ‘y’. If ‘z’ strips are placed in that manner. What is the final 
+width of that arrangement?
+Ans is (z-1) (y-x) +x.
+25) A game is played between 2 players and one player is declared as winner. All the 
+winners from first round are played in second round. All the winners from second round 
+are played in third round and so on. If 8 rounds are played to declare only one player as 
+winner, how many players are played in first round
+Ans is 28.
+26) There are 3 boys A, B, C and 2 Girls D, E. D always sit right to A. Girls never sit in 
+extreme positions and in the middle position. C always sits in the extreme positions. 
+Who is sitting immediate right to E?
+Ans is B or C
+27) 49 members attended the party. In that 22 are males, 17 are females. The shake 
+hands between males, females, male and female. Total 12 people given shake hands. 
+How many such kinds of such shake hands are possible?
+Ans is 12C2
+29) Entry ticket to an exhibition ranges from 1p to 31p. You need to provide exact 
+change at the counter. You have 31p coin. In how many parts will u divide 31p so that u 
+will provide the exact change required and carry as less coins as possible?
+a) 22   b) 31   c) 6   d) 32
+Ans is 6
+30) There are 2 friends Peter and Paul. Peter age is twice as old as Paul when peter was 
+as old as Paul is now. Sum of the present ages of Peter and Paul is 35.What is the 
+present age of Peter?
+Ans is 20
+31) A lady took out jacket and gloves, which are avialable in blue 16, yellow 40 and red 
+36. Power goes off, she can distinguish between gloves and jacket but not in colors. 
+What's the possibilty their she will pick up pair of gloves of each color.
+Ans : very easy.
+32) Two bowls are taken, one contains water and another contains tea.one spoon of 
+water is added to second bowl and mixed well, and a spoon of mixture is taken from 
+second bowl and added to the second bowl. Which statement will hold good for the 
+above?
+(Ans: second liquid in first bowl is smaller than the first mixture in second bowl)
+33) Rearrange and categorize the word ‘IGTRE’?
+Ans: Animal(TIGER)
+34) A lies on mon, tues, wed and speak truths on other days, B lies on Thurs, Fri, Sat 
+and speaks truths on other days. One day a said I lied today and B said I too lied today. 
+What is the day?
+35) One grandfather has three grandchildren, two of their age difference is 3, eldest 
+child age is 3 times youngest child’s age and eldest child’s age is two times of sum of 
+other two children. What is the age of eldest child?
+Ans: 18
+I attempted 32 questions exactly as i know the answers already... hahaha...Result was 
+declared on the next day but i was pretty sure that my name will be announced in the 
+list as my HR already told me that "i am done for the day and can go to hostel" :) thats 
+the phrase that i'll always remember in my life.
+
+Visit www.downloadmela.com for more papers
+2005-2008 Placement
+Papers
+2010 Placement Papers2011 Placement Papers2009 Placement Papers
+I have to wait a whole one day for the results and finally TCS recruited 69 students from 
+our college and i was one of them..yahoo!!!!!
+Technical:
+Frankly speaking i spend hardly 5 min in technical round and answers all the questions 
+correctly with confidence. My technical is more or less a combination of technical and 
+HR.
+Second round starts with a funny question that whether i have a girl friend or not..:) 
+whether i drink or not etc. again my interview continue only for 2-3 min and i was told 
+that i am selected and can go to the hostel and sleep.
+Getting job in TCS is one of my great achievements in my life.
+So do your home work well and keep faith in GOD.
+All the best!
+See you in TCS.

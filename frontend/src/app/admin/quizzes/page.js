@@ -81,7 +81,7 @@ export default function AdminQuizzesPage() {
   };
 
   const CATEGORIES = [
-    'UPSC', 'MPSC', 'GATE', 'SSC', 'Railways', 'Banking', 'Defence',
+    'UPSC', 'MPSC', 'GATE', 'SSC',
     'SSC CGL', 'SSC CHSL', 'SSC MTS', 'SSC GD', 'SSC Stenographer', 'SSC CPO', 'SSC JE', 'SSC Junior Hindi Translator',
     'TCS', 'Infosys', 'Wipro', 'Accenture', 'Cognizant', 'Capgemini', 'IBM', 'Tech Mahindra', 'HCLTech', 'Deloitte', 'KPMG', 'EY', 'PwC', 'Amazon', 'Microsoft', 'Google', 'Goldman Sachs', 'JP Morgan', 'Oracle', 'Cisco', 'LTIMindtree', 'Hexaware',
     'Quantitative Aptitude', 'Logical Reasoning', 'Verbal Ability', 'General'

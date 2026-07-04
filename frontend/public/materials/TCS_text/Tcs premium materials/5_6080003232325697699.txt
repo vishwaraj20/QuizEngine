@@ -1,0 +1,700 @@
+
+
+Free Placement Video Tutorial with Mock Test visit: 
+www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+www.MyPlacementPrep.com 
+ 
+Pro Material Series 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Join Telegram Channel for more updates: 
+https://t.me/MyPlacementprepApp 
+ 
+Visit www.MyPlacementPrep.com .  
+India’s No1 website for Placement Materials and Free mock test Series 
+Free Placement Learning path now available with free video course. 
+
+Free Placement Video Tutorial with Mock Test visit: 
+www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+Best website for interview preparation: www.prodevelopertutorial.com 
+TCS TECHNICAL QUESTIONS: 
+1. What is your strongest programming language (Java, ASP, C, C++, VB, 
+HTML, C#, etc.)?  
+Point to remember: Before interview You should decide your Favorite programming 
+language and be prepared based on that question.  
+2.Differences between C and Java?  
+1.JAVA is Object-Oriented while C is procedural.  
+2.Java is an Interpreted language while C is a compiled language.  
+3.C is a low-level language while JAVA is a high-level language.  
+4.C uses the top-down approach while JAVA uses the bottom-up approach.  
+5.Pointer go backstage in JAVA while C requires explicit handling of 
+pointers.  
+6.The Behind-the-scenes Memory Management with JAVA & The User-Based 
+Memory Management in C.  
+7.JAVA supports Method Overloading while C does not support 
+overloading at all.  
+8.Unlike C, JAVA does not support Preprocessors, & does not really them.  
+9.The standard Input & Output Functions--C uses the printf & scanf 
+functions as its standard input & output while JAVA uses the 
+System.out.print & System.in.read functions.  
+10.Exception Handling in JAVA And the errors & crashes in C.  
+3.In header files whether functions are declared or defined?  
+Functions are declared within header file. That is function prototypes 
+exist in a header file,not function bodies. They are defined in library (lib).  
+____________________________________________________________________________________________  
+
+Free Placement Video Tutorial with Mock Test visit: 
+www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+__________  
+Buy top competitive programming and coding question book to clear interview. 100+ solved 
+questions Buy top data structure and algorithm book to clear interview. 90+ Chapters 
+Join telegram channel for placement materials  
+
+Free Placement Video Tutorial with Mock Test visit: 
+www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+ 
+Best website for interview preparation: www.prodevelopertutorial.com 4.What are the 
+different storage classes in C ?  
+here are four types of storage classes in C. They are extern, register, auto and static  
+ 
+____________________________________________________________________________________________  
+__________  
+
+Free Placement Video Tutorial with Mock Test visit: 
+www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+Buy top competitive programming and coding question book to clear interview. 100+ solved 
+questions Buy top data structure and algorithm book to clear interview. 90+ Chapters 
+Join telegram channel for placement materials  
+
+Free Placement Video Tutorial with Mock Test visit: 
+www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+
+Free Placement Video Tutorial with Mock Test visit: 
+www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+ 
+5.What does static variable mean?  
+Static is an access qualifier. If a variable is declared as static inside a function, the 
+scope is limited to the function,but it will exists for the life time of the program. Values 
+will be persisted between successive 
+calls to a function  
+6.How do you print an address ?  
+Use %p in printf to print the address.  
+7.What are macros? what are its advantages and disadvantages?  
+Macros are processor directive which will be replaced at compile time. 
+The disadvantage with macros is that they just replace the code they are not function 
+calls. similarly the advantage is they can reduce time for replacing the same values.  
+8.Difference between pass by reference and pass by value? 
+Pass by value just passes the value from caller to calling function so the 
+called function cannot modify the values in caller function. But Pass by 
+reference will pass the address to the caller function instead of value if 
+called function requires to modify any value it can directly modify.  
+9.What is an object? 
+Object is a software bundle of variables and related methods. Objects have state 
+and behavior  
+
+Free Placement Video Tutorial with Mock Test visit: 
+www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+10.What is a class?  
+Class is a user-defined data type in C++. It can be created to solve a particular kind 
+of problem. After creation the user need not know the specifics of the working of a 
+class.  
+11.What is the difference between class and structure?  
+Structure: Initially (in C) a structure was used to bundle different type of data types 
+together to perform a particular functionality. But C++ extended the structure to 
+contain functions also. The major difference is that all declarations inside a structure 
+are by default public. 
+Class: Class is a successor of Structure. By default all the members inside the class 
+are private.  
+12. What is ponter?  
+Pointer is a variable in a program is something with a name, the value of which can 
+vary. The way the compiler and linker handles this is that it assigns 
+a specific block of memory within the computer to hold the value of that variable.  
+13.What is the difference between null and void pointer?  
+A Null pointer has the value 0. void pointer is a generic pointer introduced by ANSI. 
+Generic pointer can hold the address of any data type.  
+14.what is function overloading  
+Function overloading is a feature of C++ that allows us to create multiple functions 
+with the same name, so long as they have different parameters.Consider the 
+following function:  
+int Add(int nX, int nY) {  
+return nX + nY; }  
+15.What is function overloading and operator overloading?  
+Function overloading: C++ enables several functions of the same name to be 
+defined, as long as these functions have different sets of parameters (at least as far 
+as their types are concerned). This capability 
+iscalledfunctionoverloading.Whenanoverloadedfunctioniscalled,theC++compiler 
+selects the proper function by examining the number, types and order of the 
+arguments in the call. Function  
+
+Free Placement Video Tutorial with Mock Test visit: 
+www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+ 
+overloading is commonly used to create several functions of the same name that 
+perform similar tasks but on different data types. 
+Operator overloading allows existing C++ operators to be redefined so that they work 
+on objects of user-defined classes. Overloaded operators are syntactic sugar for 
+equivalent function calls. They form a pleasant facade that doesn't add anything 
+fundamental to the language (but they can improve understandability and reduce 
+maintenance costs).  
+16.what is friend function?  
+A friend function for a class is used in object-oriented programming to allow access 
+to public, private, or protected data in the class from the outside. 
+Normally, a function that is not a member of a class cannot access such information; 
+neither can an external class. Occasionally, such access will be advantageous for 
+the programmer. Under these circumstances, the function or external class can be 
+declared as a friend of the class using the friend keyword.  
+17.What do you mean by inline function?  
+The idea behind inline functions is to insert the code of a called function 
+at the point where the function is called. If done carefully, this can 
+improve the application's performance in exchange for increased 
+compile time and possibly (but not always) an increase in the size of the 
+generated binary executables.  
+18. Tell me something about abstract classes?  
+
+Free Placement Video Tutorial with Mock Test visit: 
+www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+An abstract class is a class which does not fully represent an object. 
+Instead, it represents a broad range of different classes of objects. 
+However, this representation extends only to the features that those 
+classes of objects have in common. Thus, an abstract class provides 
+only a partial description of its objects.  
+19.What is the difference between realloc() and free()?  
+The free subroutine frees a block of memory previously allocated by the 
+malloc subroutine. Undefined results occur if the Pointer parameter is 
+not a valid pointer. If the Pointer parameter is a null value, no action will 
+occur. The realloc subroutine changes the size of  
+ 
+the block of memory pointed to by the Pointer parameter to the number 
+of bytes specified by the Size parameter and returns a new pointer to the 
+block. The pointer specified by the Pointer parameter must have been 
+created with the malloc, calloc, or realloc subroutines and not been 
+deallocated with the free or realloc subroutines. Undefined results occur 
+if the Pointer parameter is not a valid pointer.  
+20.What is the difference between an array and a list?  
+
+Free Placement Video Tutorial with Mock Test visit: 
+www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+Array is collection of homogeneous elements. List is collection of 
+heterogeneous elements. For Array memory allocated is static and continuous. 
+For List memory allocated is dynamic and  
+Random. 
+Array: User need not have to keep in track of next memory allocation. 
+List: User has to keep in Track of next location where memory is allocated. 
+Array uses direct access of stored members, list uses sequential access for 
+members.  
+21.What are the differences between structures and arrays?  
+Arrays is a group of similar data types but Structures can be group of different data 
+types  
+22.What is data structure? 
+A data structure is a way of organizing data that considers not only the 
+items stored, but also their relationship to each other. Advance 
+knowledge about the relationship between data items allows designing 
+of efficient algorithms for the manipulation of data.  
+23. Can you list out the areas in which data structures are applied extensively?  
+Compiler Design, 
+Operating System, 
+Database Management System, Statistical analysis package, Numerical 
+Analysis,  
+Graphics, 
+Artificial Intelligence, Simulation  
+24.What are the advantages of inheritance?  
+It permits code reusability. Reusability saves time in program development. It 
+encourages the reuse of proven and debugged high-quality software, thus reducing 
+problem after a system becomes functional.  
+25. what are the two integrity rules used in DBMS?  
+The two types of integrity rules are referential integrity rules and entity integrity rules. 
+Referential integrity rules dictate that a database does not contain orphan foreign 
+key values. This means that A primary key value cannot be modified if the value is 
+
+Free Placement Video Tutorial with Mock Test visit: 
+www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+used as a foreign key in a child table. Entity integrity dictates that the primary key 
+value cannot be Null.  
+26. Tell something about deadlock and how can we prevent dead lock?  
+In an operating system, a deadlock is a situation which occurs when a process 
+enters a waiting state because a resource requested by it is being held by another 
+waiting process, which in turn is waiting for another resource. If a process is unable 
+to change its state indefinitely because the resources requested by it are being used 
+by other waiting process, then the system is said to be in a deadlock.  
+Mutual Exclusion: At least one resource must be non-shareable.[1] Only one process 
+can use the resource at any given instant of time. 
+Hold and Wait or Resource Holding: A process is currently holding at least one 
+resource and requesting additionalresourceswhicharebeingheldbyotherprocesses.  
+No Preemption: The operating system must not de-allocate resources once they 
+have been allocated; they must be released by the holding process voluntarily. 
+Circular Wait: A process must be waiting for a resource which is being held by 
+another process, which in turn is waiting for the first process to release the resource. 
+In general, there is a set of waiting processes, P = {P1, P2, ..., PN}, such that P1 is 
+waiting for a resource held by P2, P2 is waiting for a resource held by P3 and so on 
+till PN is waiting for a resource held by P1.[1][7]  
+Thus prevention of deadlock is possible by ensuring that at least one of the four 
+conditions cannot hold.  
+27. What is Insertion sort, selection sort, bubble sort( basic differences among 
+the functionality of the three sorts and not the exact algorithms)  
+28. What is Doubly link list?  
+A doubly linked list is a linked data structure that consists of a set of 
+sequentially linked records called nodes. Each node contains two fields, 
+called links, that are references to the previous and to the next node in 
+the sequence of nodes. The beginning and ending nodes' previous and 
+next links, respectively, point to some kind of terminator, typically a 
+sentinel node or null, to facilitate traversal of the list. If there is only one 
+sentinel node, then the list is circularly linked via the sentinel node. It can 
+be conceptualized as two singly linked lists formed from the same data 
+items, but in opposite sequential orders.  
+
+Free Placement Video Tutorial with Mock Test visit: 
+www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+29.What is data abstraction? what are the three levels of data abstraction with 
+Example?  
+Abstraction is the process of recognizing and focusing on important 
+characteristics of a situation or object and leaving/filtering out the un-
+wanted characteristics of that situation or object.  
+Lets take a person as example and see how that person is abstracted in various 
+situations  
+A doctor sees (abstracts) the person as patient. The doctor is interested in name, 
+height, weight, age, blood group, previous or existing diseases etc of a person 
+An employer sees (abstracts) a person as Employee. The employer is interested in 
+name, age, health, degree of study, work experience etc of a person.  
+Abstraction is the basis for software development. Its through abstraction we define 
+the essential aspects of a system. The process of identifying the abstractions for a 
+given system is called as Modeling (or object modeling).  
+Three levels of data abstraction are: 
+1. Physical level : how the data is stored physically and where it is stored in 
+database. 
+2. Logical level : what information or data is stored in the database. eg: Database 
+administrator 3.View level : end users work on view level. if any amendment is made 
+it can be saved by other name.  
+30.What is command line argument?  
+Getting the arguments from command prompt in c is known as 
+command line arguments. In c main function has three arguments.They 
+are:  
+Argument counter Argument vector Environment vector  
+31.Advantages of a macro over a function? 
+Macro gets to see the Compilation environment, so it can expand #defines. It is 
+expanded by the  
+preprocessor.  
+32.What are the different storage classes in C? Auto,register,static,extern  
+
+Free Placement Video Tutorial with Mock Test visit: 
+www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+33.Which header file should you include if you are to develop a function which 
+can accept variable number of arguments?  
+stdarg.h  
+34.What is cache memory ?  
+Cache Memory is used by the central processing unit of a computer to 
+reduce the average time to access memory. The cache is a smaller, 
+faster memory  
+which stores copies of the data from the most frequently used main memory 
+locations. As long as most memory accesses are cached memory locations, the 
+average 
+latency of memory accesses will be closer to the cache latency than to the latency of 
+main memory.  
+35.What is debugger?  
+A debugger or debugging tool is a computer program that is used to test and debug 
+other programs  
+36. Const char *p , char const *p What is the difference between the 
+above two?  
+1) const char *p - Pointer to a Constant char ('p' isn't modifiable but the pointer is) 2) 
+char const *p - Also pointer to a constant Char  
+However if you had something like: 
+char * const p - This declares 'p' to be a constant pointer to an char. (Char p is 
+modifiable but the pointer isn't)  
+37. What is Memory Alignment?  
+Data structure alignment is the way data is arranged and accessed in 
+computer memory. It consists of two separate but related issues: data 
+alignment and data structure padding.  
+38.Explain the difference between 'operator new' and the 'new' operator?  
+The difference between the two is that operator new just allocates raw 
+memory, nothing else. The new operator starts by using operator new to 
+
+Free Placement Video Tutorial with Mock Test visit: 
+www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+allocate memory, but then it invokes the constructor for the right type of 
+object, so the result is a real live object created in that memory. If that 
+object contains any other objects (either embedded or as base classes) 
+those constructors as invoked as well.  
+39. Difference between delete and delete[]?  
+The keyword delete is used to destroy the single variable memory 
+created dynamically which is pointed by single pointer variable.  
+Eg: int *r=new(int) 
+the memory pointed by r can be deleted by delete r. 
+delete [] is used to destroy array of memory pointed by single pointer variable. Eg:int 
+*r=new(int a[10]) 
+The memory pointed by r can be deleted by delete []r.  
+40. What is conversion constructor?  
+A conversion constructor is a single-parameter constructor that is 
+declared without the function specifier 'explicit'. The compiler uses 
+conversion constructors to convert objects from the type of the first 
+parameter to the type of the conversion constructor's class.To  
+define implicit conversions, C++ uses conversion constructors, 
+constructors that accept a single parameter and initialize an object to be 
+a copy of that parameter.  
+41.What is a spanning Tree?  
+A spanning tree is a tree associated with a network. All the nodes of the graph 
+appear on the tree once. 
+Aminimumspanningtreeisaspanningtreeorganizedsothatthetotaledgeweightbetween 
+nodesis minimized.  
+42. Why should we use data ware housing and how can you extract data for 
+analysis with example?  
+If you want to get information on all the techniques of designing, maintaining, 
+building and retrieving data, Data warehousing is the ideal method. A data 
+warehouse is premeditated and generated for supporting the decision making 
+process within an organization.  
+
+Free Placement Video Tutorial with Mock Test visit: 
+www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+Here are some of the benefits of a data warehouse:  
+o With data warehousing, you can provide a common data model for different 
+interest areas regardless of data's source. In this way, it becomes easier to report 
+and analyze information.  
+o Many inconsistencies are identified and resolved before loading of information in 
+data warehousing. This makes the reporting and analyzing process simpler.  
+o The best part of data warehousing is that the information is under the control of 
+users, so that in case the system gets purged over time, information can be easily 
+and safely stored for longer time period.  
+o Because of being different from operational systems, a data warehouse helps in 
+retrieving data without slowing down the operational system.  
+o Data warehousing enhances the value of operational business applications and 
+customer relationship management systems.  
+o Data warehousing also leads to proper functioning of support system applications 
+like trend reports, exception reports and the actual performance analyzing reports.  
+Data mining is a powerful new technology to extract data for analysis.  
+43.Explain recursive function & what is the data structures used to perform 
+recursion?  
+a) A recursive function is a function which calls itself.  
+b) The speed of a recursive program is slower because of stack overheads. (This 
+attribute is evident if you run above C program.) 
+c) A recursive function must have recursive conditions, terminating conditions, and 
+recursive expressions.  
+Stack data structure . Because of its LIFO (Last In First Out) property it remembers 
+its caller so knows whom to return when the function has to return. Recursion makes 
+use of system stack for storing the return addresses of the function calls. Every 
+recursive function has its equivalent iterative (non- recursive) function. Even when 
+such equivalent iterative procedures are written, explicit stack is to be used.  
+44.Differentiate between Complier and Interpreter? 
+An interpreter reads one instruction at a time and carries out the actions 
+
+Free Placement Video Tutorial with Mock Test visit: 
+www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+implied by that instruction. It does not perform any translation. But a 
+compiler translates the entire instructions  
+45.What is scope of a variable?  
+Scope refers to the visibility of variables. It is very useful to be able to limit a 
+variable's scope to a single function. In other words, the variable wil have a limited 
+scope  
+46.What is an interrupt?  
+Interrupt is an asynchronous signal informing a program that an event has occurred. 
+When a program receives an interrupt signal, it takes a specified action.  
+47.What is user defined exception in Java?  
+The keywords used in java application are try, catch and finally are used in 
+implementing used-defined exceptions. This Exception class inherits all the method 
+from Throwable class.  
+48.What is java Applet?  
+Applet is java program that can be embedded into HTML pages. Java applets runs 
+on the java enables web browsers such as mozila and internet explorer. Applet is 
+designed to run remotely on the client browser, so there are some restrictions on it. 
+Applet can't access system resources on the local computer. Applets are used to 
+make the web site more dynamic and entertaining.  
+49.What do you know about the garbage collector?  
+Garbage collection is the systematic recovery of pooled computer storage that is 
+being used by a program when that program no longer needs the storage. This frees 
+the storage for use by other programs 
+(or processes within a program). It also ensures that a program using increasing 
+amounts of pooled storage does not reach its quota (in which case it may no longer 
+be able to function).  
+Garbage collection is an automatic memory management feature in many modern 
+programming languages, such as Java and languages in the .NET framework. 
+Languages that use garbage collection are often interpreted or run within a virtual 
+machine like the JVM. In each case, the environment that runs the code is also 
+responsible for garbage collection.  
+50.Write a Binary Search program  
+
+Free Placement Video Tutorial with Mock Test visit: 
+www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+int binarySearch(int arr[],int size, int item) { 
+int left, right, middle; 
+left = 0;  
+right = size-1;  
+while(left <= right) 
+{ 
+middle = ((left + right)/2);  
+if(item == arr[middle])  
+{ return(middle); }  
+if(item > arr[middle]) { 
+left = middle+1; 
+}  
+else 
+{ 
+right = middle-1; } 
+}  
+return(-1); }  
+51.What are enumerations?  
+An enumeration is a data type, used to declare variable that store list of names. It is 
+act like a database, which will store list of items in the variable. example: enum 
+shapes{triangle, rectangle,...  
+52.What is static identifier?  
+The static identifier is used for initializing only once, and the value 
+retains during the life time of the program / application. A separate 
+memory is allocated for ‘static’ variables. This value can be used 
+between function calls. The default value of an uninitialized static 
+variable is zero. A function can also be defined as a static function, 
+which has the same scope of the static variable.  
+53.What is Cryptography?  
+
+Free Placement Video Tutorial with Mock Test visit: 
+www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+Cryptography is the science of enabling secure communications 
+between a sender and one or more recipients. This is achieved by the 
+sender scrambling a message (with a computer  
+program and a secret key) and leaving the recipient to unscramble the 
+message (with the same computer program and a key, which may or 
+may not be the same as the sender's key). 
+There are two types of cryptography: Secret/Symmetric Key 
+Cryptography and Public Key Cryptography  
+54.What is encryption?  
+Encryption is the transformation of information from readable form into some 
+unreadable form.  
+55..What is decryption?  
+Decryption is the reverse of encryption; it's the transformation of encrypted data back 
+into some intelligible form.  
+56..What exactly is a digital signature?  
+Just as a handwritten signature is affixed to a printed letter for verification that the 
+letter originated from its purported sender, digital signature performs the same task 
+for an electronic message. A digital signature is an encrypted version of a message 
+digest, attached together with a message.  
+Write a program to find factorial of a number using recursive function. Describe 2 different 
+ways to concatenate two strings. 
+Give syntax for SQL and ORACLE joins. 
+How is modularity introduced in C++?  
+What is the difference between a Stack and a Queue. 
+Give example to differentiate between call by value and call by reference. 
+Why the usage of pointers in C++ is not recommended ? 
+What do you mean by Data mining? 
+Write a program to reverse a string. 
+Describe these concepts: Polymorphism, Inheritance and Abstraction. 
+What is full form of SMAC? Discuss few about it. 
+What is cloud computing? Give some of its applications in real world. 
+What are stacks? Give some of its applications. 
+One rectangular plate with length 8inches,breadth 11 inches and 2 inches thickness is there. 
+
+Free Placement Video Tutorial with Mock Test visit: 
+www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+what is the length of the circular rod with diameter 8 inches and equal to volume of 
+rectangular plate? 
+How would you connect 8 dots with 3 lines. 
+Give the difference between the type casting and automatic type conversion. Also tell a 
+suitable C++ code to illustrate both. 
+Can you declare a private method as static? 
+How many JVMs can run on a single machine and what is the meaning of Just-In- Time (JIT) 
+compiler? 
+Differentiate between copy and default constructor.  
+What is #ifdef ? What is its application? 
+You are given a singly linked list. How would you find out if it contains a loop or not without 
+using temporary space? 
+A person was fined for exceeding the speed limit by 10 mph. Another person was also fined 
+for exceeding the same speed limit by twice the same. If the second person was travelling at a 
+speed of 45 mph. find the speed limit . 
+What are different errors encountered while complying? 
+How would you implement two stacks using a single array? 
+Difference between keyword and identifier. 
+What is the Big-O Notation? 
+What do you understand by garbage collection in Java? Can it be forced to run? 
+What happens if an array goes out-of-bounds? 
+What is the role of C++ shorthand’s? 
+Discuss the function of conditional operator, size of operator and comma operator with 
+examples. 
+Describe friend function & its advantages. 
+Differentiate between null and void pointers. 
+Write a program to add three numbers in C++ utilizing classes. 
+Devise a program that inputs a 3 digit number n and finds out whether the number is prime or 
+not. Find out its factors. 
+Explain debugger. 
+What are the different types of sorting? Explain the difference between them. 
+What is meant by entry controlled loop? What all C++ loops are exit controlled?  
+What are access modifiers? 
+3. How can we access private modifiers? 4. Print * pyramid pattern. 
+5. What is instance variable? 
+6. What are constructors? 
+7. Super and this keyword? 
+8. Difference between stack and queue? 9. Explain doubly linked list. 
+10. Type of link lists.  
+ 
+ 
+
+Free Placement Video Tutorial with Mock Test visit: 
+www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+ 
+www.MyPlacementPrep.com 
+ 
+Free Mock Test and Video 
+Tutorial 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Visit www.MyPlacementPrep.com .  
+India’s No1 website Placement and Mock Test series 
+Free Placement Learning Path with Free Video Course. 

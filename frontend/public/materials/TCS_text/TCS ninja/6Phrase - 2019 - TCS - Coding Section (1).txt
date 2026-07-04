@@ -1,0 +1,533 @@
+
+
+Six Phrase – The Finishing School 
+ 
+93A GKD Nagar P.N.Palayam Coimbatore – 641037 
+Prabhu N.D. – 99946 75750 
+                                www.sixphrase.com | sixphrase@gmail.com 
+ 
+ 
+Aptitude Training | Technical Training | English Language Training 
+Soft Skills Training | Finance Training | Placement Services 
+ 
+ 
+1. TCS Technical round 
+There are two components of technical questions. MCQ's and Programming. 
+MCQ (or) Fill in the blanks 
+20 Minutes 
+10 Questions 
+Technical Fill in the blanks carry NO negative marks. 
+Multiple choice technical questions carry negative marks. 
+ 
+Coding round 
+20 Minutes 
+ 
+2019 Pattern - Coding platform – Instructions 
+1. Coding Section to use Eclipse Oxygen Platform this year  
+2. 5 programming languages will be supported this year (C, C++, Java, 
+Phython, Perl) 
+3. Command Line Arguments will not be used this year  
+4. Input should be read from STDIN and Output to be written to STDOUT. 
+5. Hidden Test Case approach to be followed from this year  
+6. Custom Input tags will not be supported in the new platform  
+7. Programs to be slightly complex compared to last year 
+ 
+Set 1 - Programs 
+1. Write a C program, to find the area of a circle when the diameter is given. The 
+input diameter is an integer and the output area should be a floating point 
+variable with 2 point precision. 
+ 
+2. Write a c program, to check whether the given tear is a leap year or not. A leap 
+year is a calendar year containing one additional day(Feb 29
+th
+)added to keep the 
+calendar year synchronized with the astronomical year. 
+ 
+
+ 
+ 
+3. Write a C program to find the GCD of the given 2 numbers. The input is 2 
+integer and the output GCD also should be an integer value. 
+ 
+4. Write a C program which will check whether a given year YYYY is a leap yer. A 
+leap year is exactly divisible by 4 except for century years(years ending with 00). 
+The century year is a leap year only if its perfectly divisible by 400. If the given 
+year is not a leap year, then print NO to stdout. Note that the words YES and 
+NO have to be printed in UPPERCASR(capital letters) Other than the word YES 
+or NO, no other extra information shoul be printed to stdout. 
+EXAMPLE : 
+Given input “1990”, here YYYY is 1990, expected output is NO 
+ 
+5. Factorial program in C. 
+Factorial of  a non-negative integer , denoted by n1, is the product of all positive 
+integers less than or equal to n. 
+For example, The value of 5! Is 5*4*3*2*1=120 
+ 
+6. C program question to find hypotenuse of a right angle triangle when the other 
+2 sides are given. 
+ 
+7. Write a C program to calculate the factorial of a non negative integer N. The 
+factorial of a number N is defined as the product of all integers from 1 up to N. 
+Factorial of 0 is defined to be 1. The number N is a non negative integer that will be 
+passed to the program. Write the output to stdout formatted as an integer 
+WITHOUT any other additional text. You may assume that the input integer will be 
+such that the output will not exceed the largest possible integer that can be stored 
+in an int type variable. 
+ 
+8. Write a C program to find the area of a triangle given the base and the 
+corresponding height. The values base and height are both positive integers passed 
+to the program as the first and second parameters respectively. Write the output to 
+stdout formatted as a floating point number rounded to EXACTLY 2 decimal 
+precision WITHOUT any other additional text. Scientific format(such as 1.00E+5) 
+should NOT be used while printing the output. You may assume that the inputs 
+will be such that the output will not exceed the largest possible real number that 
+can be stored in a float type variable. 
+
+ 
+ 
+ 
+9. Write a C program that will find the sum of all prime no. in a given range. The 
+range will be specified as parameters. The first parameter, N1 which is a positive 
+integer, will contain the lower bound of the range. The second parameter N2, which 
+is also a positive integer, will contain the upper bound of the range. The program 
+should consider all the prime no. within the range, excluding the upper and lower 
+bound in the output in integer format to stdout. Other than the integer number ,no 
+other extra information should be printed to stdout. Other than the integer number 
+,no other extra information should be printed to stdout 
+Example: input “7” and “24”, here N1=7 and N2=34, expected output is 83 
+ 
+10. Write a C program which will convert a given binary number N to its decimal 
+equivalent. The given binary number N will be passed to the program using the 
+first parameter. Print the equivalent decimal number to stdout in integer format. 
+Otherwise the decimal number, no other extra information should be printed to 
+stdout. 
+Example : Given input “111001”, here N=111001, expected output 57 
+ 
+11. Write a C program which will check a given number N is a palindrome. 
+An integer is a palindrome if the reverse number equal to the original 
+number. The given number N will be positive 5digit number and will be 
+passed to the program using the final parameter. If the given number is a 
+palindrome, then print the word YES to stdout. If the given number is not a 
+palindrome, then print NO as stdout. Note that the words YES/NO have to 
+be in UPPERCASE (capital letters). Other than the words YES or NO, no 
+other extra information should be printed to stdout.  
+Example: Given input 53435.here N=53435.expected out is YES if it is palindrome. 
+Write your code? 
+ 
+12. Check if input string is palindrome or not 
+ 
+13. Program: U need to get a input number from user then check whether the no. is 
+prime no. or not ...if it is prime no. need print the square root of a no. else print 
+0.00. eg 7 means the op is 2.65. 
+ 
+
+ 
+ 
+14. Given the diameter of a circle find the area of the circle.  
+15. Print Fibonacci series upto N terms 
+16. Write a code for finding n! (calculate the factorial of a number) 
+17. addition of two numbers and converting the result to binary 
+18. Find if a given year is a leap year. 
+19. Printing reverse for digits. Float values, you need to round up 
+20. string reversal(digits and char) 
+21. reverse of a string program in c without using string functions. 
+22. sum of odd numbers in between the range of two numbers (7 to 24).  
+23. Check if input number is a perfect number or not.  
+24. binary to decimal 
+25. 5 Factorial (In the factorial one there was 1 private test case that is ( 0! is 1 ) 
+then the compiler goes on and calculates for 3 Public Cases ( 3!=6, 4! = 24, 5! = 120 
+) as soon as it gets those result.) 
+26. Armstrong Number 
+27. Temperature coversion 
+28. Find weather the given number is prime or not. If prime then print its square 
+root if not then print 0.00 
+29. String compare without using strcmp 
+30. Largest or second largest number in N INPUT numbers 
+31. GCD of two nos 
+32. LC of two nos 
+33. AREA OF A TRIANGLE-given a,b,c 
+34. SORT AN ARRAY INTO TWO HALVES, ONE HALF ASCENDING AND SECOND 
+HALF DESCENDING 
+35. SQUARE ROOT WITHOUT SQRT.H 
+36. Binary to ctal 
+37. Octal to binary 
+38. Area of circle – given radius 
+39. Nth Fibonacci Number 
+40. Decimal to octal 
+ 
+Set 2 – Programs 
+1) Test whether an input string of opening and closing parentheses was balanced 
+or not. If yes , return the no. of parentheses. If no, return -1. 
+
+ 
+ 
+Ip: “(( ))” 
+Op: 2 
+ 
+Ip: “()(“ 
+Op:-1 
+ 
+2) Reverse the second half of an input linked list. If the input linked list contained 
+odd number of elements , consider the middlemost element too in the second half. 
+ 
+3) Write a program to Merge sort using pointers 
+ 
+4) Merge two sorted singly linked lists into one sorted list 
+ 
+5) Reverse a linked list using recursion and without recursion 
+ 
+6) Removal of vowel from string 
+ 
+7) Print and count all the numbers which are less than a given key element from a 
+given array. 
+ 
+8) Eliminate repeated letters in Array. Printing non repeating elements in array and 
+printing the total.  
+Arr1 = {1,2,3,4,5}  Len1 = 5 
+Arr 2 = {2,6,8,10}  Len2 = 4 
+Output = {1,3,4,5,6,8,10}  Total is 7 
+ 
+9) String Reversal 
+ 
+10) Find a target value in a two-dimensional matrix given the number of rows as 
+rowCount and number of columns as columnCount, and return its coordinates. If 
+the value didn't exist, the program had to return (-1,-1). 
+ 
+11) Input: num1 and num2 such that 0 <= num1 <= 99999999 and 0 <= num2 
+<= 9. You have to find number of occurences of input num2 in input num1 and 
+return it with function int isOccured(int num1, int num2). 
+Example: 
+
+ 
+ 
+Input: num1= 199294, num2= 0 
+Output: 3 
+Test Case 1: 
+Input: 
+1222212 
+2 
+Expected Output: 
+5 
+Test Case 2: 
+Input: 
+1001010 
+0 
+Expected Output: 
+4 
+ 
+12) Find a sub string in a given string and replace it with another string? 
+13) Remove all the vowels from a given string using pointers concept 
+Ip: {a,b,c,d,e,f,g,h,I,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z} 
+Op: 
+Need to use function call, return value to main function, Pass it as argument 
+ 
+14) Program to check for prime number: 
+ 
+15) To find GCD of two number.   
+ 
+16) Find the GCD of N numbers using pointers 
+ 
+17) Print all the prime numbers which are below the given number separated by 
+comma. 
+Input: 3 
+Output: 2,3 
+ 
+Ip: 11 
+Output: 2,3,5,7 
+ 
+18) C program to find out prime factors of given number 
+ 
+19) C Program to Display Prime Numbers between Two Intervals 
+ 
+20) C Program to Display Armstrong Number Between Two Intervals 
+
+ 
+ 
+ 
+21) Write a function to return a sorted array after merging two unsorted arrays, 
+the parameters will be two integer pointers for referencing arrays and two int 
+variable, the length of arrays (Hint: use malloc() to allocate memory for 3rd 
+array): 
+ 
+22) Get an unsorted array and convert into alternate array(alternate array- 
+ascending order array by taking alternate elements).Half elements of array in 
+ascending remaining half in descending.The first n elements should be sorted 
+in ascending order and the next part should be sorted in descending and print 
+it 
+Test Case Input: [1,2,3,4,5,6,7,8],8,4 
+Output: {1,2,3,4,8,7,6,5} 
+Function: fn_name(input array, length of array, no of digits to sort (here 3)) 
+                Fn_name(input array, 8,4) 
+ 
+23) Given 5,1,4,7,9....do alternate sort (odd position sorting) for this..and print 
+4,5,9 
+ 
+24) Find the occurance of a substring in a parent string 
+Input : aAbcDefabcAdf 
+Substring : abc 
+Output : 1 
+ 
+25) Write a program to rotate a matrix in 90 degree. 
+Case 1: Flag = 1 
+Input: 2  3  1 
+          4  6  3 
+          5  4  2  
+ 
+Output: 5  4  2 
+             4  6  3 
+             2  3  1 
+ 
+Case 2: Flag = 0 
+Input: 2  1 
+          3  4 
+ 
+Output: 4  1 
+             3  2 
+ 
+26) Matrix Transposition 
+Input 
+1 2 3 
+4 6 7 
+8 9 11 
+
+ 
+ 
+ 
+Output 
+8   4  1 
+9   6  2 
+11 7  3 
+ 
+Input: 
+1 2 3 
+4 5 6 
+7 8 9 
+ 
+Output: 
+1 4 7 
+2 5 8 
+3 6 9 
+ 
+27) Transpose the given matrix, multiply it with the given matrix and print the 
+transpose of the result.  
+ 
+28) Pattern Printing 
+Input: n=3 
+3 3 3  
+3 1 3 
+3 2 3 
+3 3 3 
+Input: n=4 
+4 4 4 4 
+4 4 1 4  
+4 4 2 4 
+4 4 3 4 
+ 
+29) Write a program to print numbers in the order of their frequency of occurance. 
+Ip: {1,1,2,2,2,3,4,4,5,5,5,5,5}. Length - 13 
+Op: {5,5,5,5,5,2,2,2,1,1,4,4,3}  
+Given Function: int *fn_name(int *arr, int length of array} 
+ 
+30) Write a program to print numbers in the order of their frequency of occurance. 
+Ip: {1,22,333,44,5555,7,8,9,10}. Length - 10 
+Op: {5555,333,22,44,1,7,8,10}  
+Given Function: int *fn_name(int *arr, int length of array} 
+Use malloc() function to get the array 
+ 
+31) Program to rotate a given string. If 2 strings are equal then print 1 else print -1. 
+Given 2 strings. 
+Ip: sample 
+     Mplesa 
+Op: 1 
+
+ 
+ 
+ 
+Ip: sample 
+     Mplase 
+Op:-1 
+ 
+Ip: abc 
+     cba 
+Op: 1 
+ 
+Ip: ab 
+     Aa 
+Op: -1 
+ 
+32) Write a program to print the not common numbers in both the arrays. 
+Input: Arr1 = {1,2,3,4} 
+Arr2= {4,5,6,7} 
+Length = 4 
+Length = 4 
+Output: 6 
+ 
+33) Write a program to remove duplicate elements in a array 
+Ip: {1,1,1,1,2,2,2,3,3,4,5} 
+Op: {1,2,3,4,} 
+Given Function: int *fn_name(int *arr, int length of array} 
+Use malloc() function to get the input array 
+ 
+34) Copying value to its corresponding index (swap values and index in a array). 
+Input: a[0] = 2; a[1] = 0; a[2] = 3; a[3] = 1; a[4] = 5; a[5] = 4; 
+Output: a[0] = 1; a[1] = 3; a[2] = 0; a[3] = 2; a[4] = 5; a[5] = 4; 
+ 
+35) Write a program to sort numbers in a array and print the numbers with 
+alternate digits. Use malloc() to get the input array. 
+Ip: {4,2,5,3,7} 
+Op: {2,4,7} 
+ 
+36) Create function that passes a @-Dmatrix via a pointer like **a, number of rows, 
+number of colums and flag value. The primary purpose of the program is to rotate 
+the matrix of 90 degree (left or right based on the flag 0 or 1 respectively). Return 
+the pointer that shows the altered matrix and print if in the main function.  
+Ip: [1,2] [3,4] 
+Op: [1,4] [2,3] 
+Flag = 0 rotate left 
+Flag = 1 rotate right 
+ 
+37) Create function that passes a @-Dmatrix via a pointer like **a, number of rows, 
+number of colums and flag value. The primary purpose of the program is to rotate 
+
+ 
+ 
+the matrix of 90 degree (left or right based on the flag 0 or 1 respectively). Return 
+the pointer that shows the altered matrix and print if in the main function.  
+Matrix m,n.  
+Ip: [1,2] [3,4] 2 2 0 
+Op: [2,4] [1,3] 
+Flag = 0 90 degree rotate left 
+Flag = 1 90 degree rotate right 
+ 
+38) Highest common factor or GCF 
+ 
+39) Pattern Question:- For n=5  
+1  
+3*2  
+4*5*6  
+10*9*8*7  
+11*12*13*14*15 
+ 
+40) Pattern Question:- For n=5 
+1  
+2*2  
+3*3*3  
+4*4*4*4  
+5*5*5*5*5  
+4*4*4*4  
+3*3*3  
+2*2  
+1 
+ 
+41) Pattern Question:-  
+To print the pattern like for n=3 the program should print  
+1 1 1 2  
+3 2 2 2  
+     3 3 3 4 
+print n=6; n stands for number of lines 
+1111112 
+3222222 
+3333334 
+5444444 
+5555556 
+7666666 
+ 
+42) To print the trapezium pattern. for example , we have n=4 the output 
+should be like  
+1*2*3*4*17*18*19*20  
+
+ 
+ 
+- -5*6*7*14*15*16  
+- - - -8*9*12*13  
+- - - - - -10*11 
+ 
+43) C program to print following pyramid pattern of stars 
+                                  
+ 
+ 
+44) Write a c program to print Pascal triangle. 
+In mathematics, Pascal's triangle is a triangular array of the binomial 
+coefficients. In much of the Western world it is named after French 
+mathematician Blaise Pascal, although other mathematicians studied it 
+centuries before him in India, Iran, China, Germany, and Italy. 
+ 
+ 
+ 
+45) 1 
+3*2 
+4*5*6 
+9*8*7 
+14*13*12*11 
+ 
+46) If N=4 
+1 
+2*3 
+3*4*5 
+4*5*6*7 
+3*4*5 
+2*3 
+
+ 
+ 
+1 
+ 
+47) Input: 4 
+1 
+2*3 
+4*5*6 
+7*8*9*10 
+7*8*9*10 
+4*5*6 
+2*3 
+1 
+ 
+48)       1 
+    2  2 
+  3  3  3 
+4  4  4  4 
+ 
+49) Get input as N, square the N and generate the number from 1 to N
+2. 
+ 
+N=4 
+1*2*3*4 
+9*10*11*12 
+13*14*15*16 
+5*6*7*8 
+ 
+N=5 
+1*2*3*4*5 
+11*12*13*14*15 
+21*22*23*24*25 
+16*17*18*19*20 
+6*7*8*9*10 
+ 
+50) Obtain a output as follows: 
+N=5 
+1                                                                                                                  
+2*3                                                                                                             
+4*5*6                                                                                                          
+7*8*9*10                                                                                                     
+11*12*13*14*15                                                                                          
+11*12*13*14*15                                                                                          
+7*8*9*10                                                                                                     
+4*5*6                                                                                                           
+
+ 
+ 
+2*3                                                                                                             
+1 
+ 
+51) Write a C program to print below, when n=4 and s=3 
+3 
+44 
+555 
+6666 
+6666 
+555 
+44 
+3 
+ 
+ 
+ 

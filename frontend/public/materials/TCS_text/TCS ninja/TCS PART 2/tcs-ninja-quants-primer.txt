@@ -1,0 +1,589 @@
+
+
+FACE PREP PRESENTS
+Must Know
+Quantitative
+Aptitude
+Concepts for TCS
+Ninja
+FIRST EDITION
+faceprep.in
+
+TCS NINJA 
+MARATHON 
+LAST 
+BATCH
+FACE PREP'S
+36 HOURS ONLINE LIVE CLASSES
+The program starts on 25th August 2018 
+COURSE OVERVIEW
+Quantitative Aptitude [Standard & Advanced] 
+English MCQs & FUBs 
+Programming MCQs [Standard & Advanced] 
+Coding 
+ 
+CLICK HERE TO JOIN 
+INDIA'S LARGEST 
+TCS NINJA STUDY 
+GROUP.
+Contact: 7094463723
+
+ 
+1 
+ 
+FACE PREP’S TCS NINJA 
+QUANTITATIVE APTITUDE PRIMER 
+CONTENTS 
+ 
+ 
+PERCENTAGES         02 
+SIMPLE INTEREST & COMPOUND INTEREST    03 
+AVERAGES         04 
+PROGRESSIONS         05 
+TIME SPEED AND DISTANCE      07 
+PERMUTATIONS AND COMBINATIONS    08 
+PROBABILITY         09 
+SIMILAR TRIANGLES        11 
+CONGRUENT TRIANGLES       13 
+TRIGNOMETRY        15 
+ 
+ 
+ 
+  
+This is the PDF version of some of the important concepts that will be asked in TCS Ninja 
+National Qualifier Test 2018.  
+If you want to learn more or practice unlimited number of questions, you can take a look 
+at our FREE resources –  
+1. For Aptitude, visit www.faceprep.in/aptipedia  
+2. For Programming and Coding, visit www.faceprep.in/procoder  
+If you have any queries, feel free to post it in India’s largest Placement Forum 
+www.faceprep.in/discussions  
+
+ 
+2 
+ 
+ 
+Important Tips to Crack Percentage Questions in TCS Ninja 
+Percentage is a way of expressing a number as a fraction of 100 (per cent meaning “per hundred”). It 
+is often denoted using the percent sign, “%”. This concept is pretty useful for comparison of fractions 
+as all the fractions are indexed to 100 when converted to percentages. Any percentage can be 
+expressed as a fraction or a decimal fraction and vice versa. 
+For example, fractions such as 3/5 can be written as 0.6 or 60% and vice versa. 
+The most important point to be noted here is that percentages are meaningless unless we have 
+information about the base over which it is calculated. 
+Percentage value = [Actual value/Base value] x 100 
+Other Important Concepts: 
+1. When a number is increased by 1/x times, we should decrease the number by 1/(x+1) times in 
+order to bring it back to the original level. Similarly, when a number is decreased by 1/x times, we 
+should increase the number by 1/(x-1) times in order to bring it back to the original level. 
+This concept is particularly useful in solving problems involving price increase and corresponding 
+decrease in quantities.  
+Let us take an example to understand this concept.  
+A family consumes 5 kg of rice every month at Rs. 20/ kg. What will be the new consumption of rice 
+in kg if the price increases by 20%, so that their expenditure on rice remains the same? 
+We know that,  
+ Total expenditure on the commodity = price of the commodity × quantity consumed 
+ When the price of one kg of rice increases by 20% and if the quantity consumed  
+ remains the same, we know that the expenditure on rice will also increase by 20% or 
+ 1/5times. So, to bring expenditure back to the original level, we need to decrease the 
+ quantity consumed by 1/4 times or 25%. Hence, new consumption of rice in kg will be  the 
+product of old consumption and the multiplication factor for 25% decrease (which is 0.75). Hence, 
+new consumption of rice in kg = 5 × 0.75 = 3.75 
+ To generalize, when the price is increased by 1/x times, the consumption should be 
+ decreased by 1/(x+1) times and vice-versa in order to keep the total expenditure 
+ constant. 
+2. If a number is doubled, the percentage increase is 100%. Similarly if a number is increased to n 
+times the original value, the percentage increase is ((n-1) × 100) %. For example, if a number is 
+increased to 8 times its value, the percentage increase is 700%. 
+3. If a quantity is increased by p% and then decreased by p%, then there will always be a net 
+decrease which is equal to p^2/100%. For example, from 100 if 10% is increased, we get 110 and 
+then decreased by 10%, we get 99 instead of 100, which is 1% decrease from 100. It can also be 
+solved as 10^2/100 decrease, which is 1% decrease. 
+
+ 
+3 
+ 
+4. In any problem involving percentages, when the actual quantity is not given you can assume it as 
+100 and proceed to solve the problem.  
+Example: When a number is increased by 20% and decreased by 25%, what is the effective 
+percentage decrease / increase? 
+In such problems, since the actual number is not given, we can assume the number as 100 and 
+subject it to the necessary changes. The difference between the resulting number and 100 gives the 
+percentage increase or decrease. 
+Important Tips to Crack Simple Interest & Compound Interest Questions in TCS Ninja 
+Simple interest 
+Simple interest is calculated only on the principal amount, or on that portion of the principal amount 
+which remains unpaid. 
+Simple interest = Pnr/100 
+A = P + [(Pnr/100)] 
+Compound interest 
+When the interest is added to the principal at the end of each period to arrive at the new principal 
+for the next period it is termed as compound interest. 
+Under compound interest, the amount at the end of the first year will become principal for the 
+second year; the amount at the end of the second year becomes the principal for the third year and 
+so on. 
+Amount after ‘n’ years = P (1 + r/100)^n 
+I = P [(1+r/100)^n – 1] 
+The frequency with which the interest is compounded can be different. If the interest is added to the 
+principal every six months, then it is said to be compounded half yearly or twice a year. Similarly, if 
+the interest is calculated and added four times in a year, then it is said to be compounded quarterly. 
+For example, if Rs. 8000 is lent at the rate of 12% per annum and compounded every three months, 
+then the amount at the end of the year is calculated as follows: 
+The interest for 12 months is 12%. 
+Therefore for 3 months, the effective rate of interest is 12/4 = 3. 
+Also, the compounding is done 4 times instead of 1 time. 
+Therefore the amount = 8000 (1+(12/4)/100)^4 
+If compounding is done k times a year (i.e.) once every 12/k months at the rate of r% p.a. 
+A few points to be remembered are listed below 
+1. In case of simple interest the principal remains the same every year. The interest for any year is 
+the same as that for any other year. 
+
+ 
+4 
+ 
+2. In case of compound interest the amount at the end of a year is the principal for the next year. 
+The interest for different years is not the same. 
+3. If the number of times of compounding in a year is increased to infinity we say compounding is 
+done every moment and amount is given by P.e^nr/100 
+4. The difference between the compound interest and simple interest on a certain sum for 2 years is 
+equal to the interest calculated for one year on one year’s simple interest. 
+5. The difference between the compound interest for k years and the compound interest for (k + 1) 
+years is the interest for 1 year on the amount at the end of kth year. 
+6. The difference between the compound interest for the kth year and compound interest for (k + 
+1)th year is equal to the interest for one year on the compound interest for the kth year. 
+7. In Simple Interest loans, the repayments are adjusted against the principal, until the principal 
+becomes zero. After the principal becomes zero, the payments received are adjusted against the 
+interest, once the principal becomes zero; there is no further accumulation of interest. 
+8. In Compound Interest loans, the repayment money is adjusted against the principal of the 
+compounding period during which repayment is made, until the principal becomes zero. After the 
+principal becomes zero, the remaining money is adjusted against the interest due. 
+9. The specified rate of interest is called the nominal rate of interest. The effective rate of interest is 
+that rate of simple interest which will result in an interest equal to that of the compound interest 
+over the same period of time. 
+ 
+Important Tips to Crack Average Questions in TCS Ninja 
+Average can be defined as a single value that is meant to typify a data set. It gives a measure of the 
+middle or expected value of the data set. Though there are many measures of central tendency, 
+average typically refers to the arithmetic mean and is defined as the ratio of sum of items to the 
+number of items in a dataset. 
+Average = Total value of all the items/Number of items 
+Change in averages 
+If the values of all the elements in a group are increased or decreased by a same value, the average 
+of the group will also increase or decrease by the same value. 
+If the values of all the elements in a group are multiplied or divided by a same value, the average of 
+the group will also get multiplied or divided by the same value. 
+Weighted average 
+An average that looks at the proportional relevance of each component, rather than treating each 
+component equally is called a weighted average. A weighted average with all weights equal will turn 
+into a simple average. A weighted average will still be between the largest and smallest values of the 
+dataset irrespective of the weights attached to those data points. 
+For example, if the average height of group A is say 180 cm and average height of group B is say 170 
+cm, the average of the set comprising of both the groups might not be the simple average of these 
+
+ 
+5 
+ 
+two values which is 175 cm. It will actually depend on the number of people in each of these groups 
+which will act as a weight to the original average figures. Let us assume that there are 20 people in 
+group A and 40 people in group B. 
+So, the weighted average = [(20x180) + (40x170)]/60 = 173.33 which will be the actual average of the 
+new group. 
+A few points to be remembered are listed below 
+1. Given no other information, assume that all the numbers are at the same level as their average. 
+2. When a new number higher than the average is added to the group, then the average is bound to 
+increase and vice versa. The increase in average will amount to 
+ Difference between the new number and average/ [Original number of items + 1] 
+3. When a new number lesser than the average is added to the group, then the average is bound to 
+decrease and vice versa. The decrease in average will amount to 
+ Difference between average and the new number/ [Original number of items + 1] 
+4. When a number is replaced by a greater number average will increase and if it is replaced by a 
+smaller number average will decrease. The increase or decrease in average can be calculated using 
+the below formula. 
+ Net increase in the sum (Diff. between new value & original value)/ Original number of items 
+Important Tips to Crack Progressions Questions in TCS Ninja 
+Arithmetic Progression: 
+An arithmetic progression is a sequence of numbers where the difference between any 2 
+consecutive terms is a constant. This constant value is called the common difference usually denoted 
+by ‘d’. 
+If ‘a’ is the first term of the A.P and ‘d’ is the common difference then the terms of the A.P can be 
+represented as a, a + d, a + 2d, a + 3d...... 
+The nth term is usually represented by tn and the sum to n terms is denoted by Sn 
+tn = a + (n - 1)d 
+Sn = n2[2a + (n - 1)d] 
+= n2 [a + (a + (n - 1)d)] 
+= n2 [a + l] 
+where l denotes the last term of the A.P. 
+The average of all terms in an A.P is called their arithmetic mean. 
+Arithmetic Mean (A.M) = Sum of all the terms of the A.P/Number of terms in the A.P 
+= Sum of the first and the last terms/2 
+= Average of the first and the last terms. 
+
+ 
+6 
+ 
+The A.M is also equal to the average of any two numbers which are equidistant from either ends. For 
+example, average of the second term and the penultimate term is also equal to the A.M. Sn can also 
+be calculated from the A.M as follows: 
+Sn = A.M × n. 
+There are problems which involve three numbers which are in A.P. In such cases, the three numbers 
+can be represented as (a - d), a, and (a + d) so that simplifications will be easier as terms get 
+cancelled out. Similarly, four terms can be represented as (a - 3d), (a - d), (a +d), and (a + 3d) [here 
+the common difference is 2d] and five terms can be represented as (a - 2d), (a - d), a, (a + d), and (a + 
+2d). 
+Geometric Progression: 
+A geometric progression is a sequence of numbers where the first term is non zero and each of its 
+succeeding terms is obtained by multiplying a constant number with the previous term. The ratio of 
+any number (other than the first) to the preceding one is a constant. This ratio is called the common 
+ratio and usually denoted by ‘r’. 
+If ‘a’ is the first term of the G.P and ‘r’ is the common ratio then the terms of the G.P can be 
+represented as a, ar, ar2...... 
+The nth term is usually represented by tn and the sum to n terms is denoted by Sn 
+tn = ar^ (n - 1) and 
+Sn = a [r^n- 1]/r - 1when r > 1 
+= a [1 – r^n]/1 - r when r < 1 
+= n × a when r = 1 
+When, | r | < 1, the sum of an infinite series converges to a finite value which is given as follows: 
+Sum of an infinite G.P a + ar + ar2 +.... = a1 - r where -1<r<1 
+The Geometric Mean (G.M) of two non-zero numbers a and b is given by √(ab) 
+If a1, a2,...an are n non-zero numbers then their Geometric Mean is given by (a1a2....an)/n 
+When there are three terms in a G.P, they can be represented as a/r, a and ar. Similarly when there 
+are four terms they can be represented as a/r^3, a/r, ar and ar^3. Here the common ratio is r^2. 
+A few points to be remembered are listed below 
+1. Sum of first n natural numbers 1 + 2 + 3 +....+ n = n (n + 1)/2 
+2. Sum of the squares of the first n natural numbers 1^2 + 2^2 +...n^2 =1/6 n (n + 1)(2n + 1) 
+3. Sum of the cubes of the first n natural numbers 1^3 + 2^3 + 3^3 +.... + n^3 = [(n (n + 1))^2]/2 
+4. If three numbers a, b, c are in arithmetic progression, then the middle term ‘b’ will be the 
+arithmetic mean of the three terms and is given by b = [a+c]/2 
+5. If a constant number is added (or subtracted) to each term of a given A.P, then the resulting 
+sequence will also be an A.P, and it will have the same common difference as that of the original A.P. 
+
+ 
+7 
+ 
+Sum of the terms of the new series = Sum of the terms of the old series + n×constant (where n is the 
+number of terms in the series). 
+6. If every term of an A.P. is multiplied by a non-zero constant (or divided by a non-zero fixed 
+constant), then the resulting sequence is also an A.P. 
+Sum of the terms of the new series = constant × sum of the terms of the old series 
+7. If every term of a G.P. is multiplied by a non-zero constant (or divided by a non-zero fixed 
+constant), then the resulting sequence is also a G.P. with the same common ratio. 
+8. The product of two different geometric progressions is also a geometric progression with the 
+common ratio equal to the product of the common ratios of the two original progressions. 
+9. For any set of numbers, the arithmetic mean is always greater than or equal to geometric mean 
+which is always greater than or equal to the harmonic mean. 
+AM >= GM >= HM 
+Important Tips to Crack Time Speed and Distance Questions in TCS Ninja 
+Time and distance as a topic involves a variety of areas which include speed-time-distance concepts, 
+relative speed, moving and stationary bodies, boats and streams, circular motion, and so on. While 
+the diversity of problems from this area is vast, the concepts are not many and once grasped, will 
+enable you to solve many of the problems with ease. A familiarity with the types of problems will 
+also help. 
+TYPES OF PROBLEMS 
+The following table gives the various types of problems and the approach used for each one. A word 
+of caution here: while it is a good idea to have some approaches in hand while attempting problems, 
+it is very important to analyse each problem on its own merit and then decide the exact approach 
+required. Blindly following the approaches given below could result in wrong answers. 
+Approaching or receding bodies – two trains 
+approach each other and pass by, what is the 
+time taken for passing? 
+Use concept of relative speed and the basic idea 
+of “speed = distance/ time” to form an equation 
+that can be solved for time 
+Boat traveling with or against the current – what 
+is the effective speed, or what is the time 
+required to reach a particular point 
+up/downstream? 
+Use the concept of boats and streams to form 
+suitable equations that can be solved for the 
+required unknown 
+Races along a straight track – how much start 
+should the faster runner give the slower one so 
+that they both finish together? 
+Decide which quantity (distance or time) is the 
+same for both runner and equate its formula on 
+both sides, then solve for the unknown 
+Races along a circular track – when is the first 
+meeting, when is the first meeting at the starting 
+point? 
+Understand the problem thoroughly and decide 
+which of the formulas to apply 
+Other problems on time and distance Understand the problem thoroughly, express the 
+given data in equations as far as possible, and 
+decide which of the basic formulae to apply 
+ 
+
+ 
+8 
+ 
+Units of speed and conversion factors 
+The units of speed are kilometre per hour (kmph or km/h) and metre per second (m/s). 
+To convert a speed given in m/s into a speed in km/h, multiply with 18/5. 
+To convert a speed given in km/h into a speed in m/s, multiply with 5/18. 
+A simple way to remember the multiplying factor is to recall that a particular speed when expressed 
+in km/h is numerically larger than the same speed expressed in m/s. 
+For other units like m/min or km/min, it is sufficient to remember that 1 km = 1000m and 1 min = 60 
+sec. 
+PASSING, CROSSING AND OVERTAKING BODIES 
+Problems may often feature bodies that move while other bodies may move or remain stationary. 
+In such cases, the following points are to be noted. 
+ Objects like man, car, cycle, telegraph pole and tree are to be taken as point objects, with 
+negligible length. When a train of length ‘l’ passes such an object, the distance covered while 
+passing is equal to the length of the train ‘l’. 
+ Objects like train, platform and bridge have length which needs to be taken into account 
+when approaching the problem. When a train passes such an object of length ‘p’, the 
+distance covered while passing is equal to the total length of the train and the object, i.e., 
+‘l+p’. This holds true even when the second object is another train. 
+ When two bodies pass each other (one body may be stationary), the speed of passing is 
+equal to the relative speed between the two bodies. 
+ 
+Formulae related to passing, crossing and overtaking bodies 
+The basic formula to be applied remains the same, i.e., d = s × t. Care should be taken to 
+substitute the correct value of‘d’ as mentioned in the above points. Also,’s’ should be 
+replaced by the relative speed. 
+ 
+Travel and meeting 
+When two persons start from two points at the same time and travel towards each other, 
+the time taken by each of them to reach the meeting point is the same. Hence, the distances 
+covered by them from their respective starting points to the meeting point will be 
+proportional to their respective speeds. 
+D1/D2 = S1/S2 
+ 
+Important Tips to Crack Permutations and Combinations Questions in TCS Ninja 
+Permutations and Combinations is considered by some students as one of the toughest topics 
+primarily because each problem that they encounter is different, requires application of one’s 
+reasoning skills and doesn’t fit into a small framework of generalizations and formulae, like other 
+topics in mathematics. Also, the concepts covered in this particular topic is widely used to solve 
+problems in another important topic namely probability. Students can definitely expect a couple of 
+questions from this topic in TCS Ninja National Qualifier Test. 
+Fundamental rule of counting 
+
+ 
+9 
+ 
+The entire science of permutations & combinations is based on the fundamental principle of 
+counting and hence it is very important that we understand the principle thoroughly before 
+proceeding to define permutations and combinations. 
+Let us take the example of tossing a coin thrice. Each toss results in one of two possible outcomes: 
+heads or tails. For each possible outcome of the first toss, there are two possible outcomes of the 
+second toss. So after the second toss, there are in all four possible outcomes (2×2=4). For each of 
+the four possible outcomes of the first and second tosses, there are two possible outcomes of the 
+third toss. So after the third toss, there are in all eight possible outcomes (2×2×2=8). 
+Fundamental rule of counting generalizes the special case we just saw with the help of the above 
+example. If an event or a trial has ‘m’ outcomes and for every outcome of the previous event, a 
+second event has ‘n’ outcomes, then the number of different ways by which both events can be 
+conducted will be the product of m and n. 
+Hence, the number of ways in which two operations can be performed together = mxn. This is a very 
+important principle which forms the foundation for permutations and combinations. 
+Permutations means selection and arrangements  nPr = n! / (n-r)! 
+Combinations means just selection  nCr = n! / r! (n-r)! 
+Linear arrangement of n items will be n! ways 
+Circular arrangement of n items will be (n-1)! Ways 
+Important Tips to Crack Probability Questions in TCS Ninja 
+Probability is a topic of significance in most of the management exams primarily because probability 
+theory plays a major role in all scientific disciplines including management. Most of the problems in 
+probability will need a thorough understanding and knowledge in the theories of counting, 
+permutations and combinations. The word probability does not have a direct definition but it can be 
+defined as a measure of how likelihood for the occurrence of some event. In many contexts, the 
+word probability is used synonymously with chance. 
+BASIC DEFINITIONS 
+Following definitions are fairly critical in order to obtain complete understanding in the subject of 
+probability. 
+Deterministic experiment: If the outcome of an experiment is certain, then it is called a deterministic 
+experiment. 
+Random experiment: If the outcome of an experiment is not unique and can be one amongst many 
+possible outcomes, then it is called a random experiment. 
+Sample space: The set of all possible outcomes of an experiment is called sample space. 
+Event: Any subset of the sample space is called an event. It comprises of one or more outcomes of 
+the experiment. 
+Biased experiment: If the likelihood of occurrence of one outcome is more than other outcomes, 
+then the experiment is biased. 
+
+ 
+10 
+ 
+Unbiased experiment: If all the outcomes of the experiment are equally likely to happen, then the 
+experiment is called an unbiased experiment. 
+Mutually exclusive events: Two events are said to be mutually exclusive if the occurrence of one 
+event eliminates the possibility of the occurrence of another. A good example would be when a coin 
+is tossed once, the occurrence of a heads and tails are mutually exclusive as both of them cannot 
+happen simultaneously. 
+Collectively exhaustive events: Events that together cover all possible outcomes are called 
+collectively exhaustive events. For example, when a die is thrown, getting an odd number and 
+getting an even number are two events which put together will account for all possible outcomes. 
+These events are called collectively exhaustive. 
+Independent events: Two events are said to be independent, if the occurrence of one event does not 
+affect the occurrence of another. 
+DEFINITION OF PROBABILITY 
+If an experiment has ‘n’ outcomes in total, out of which ‘m’ outcomes are in favour of one particular 
+event, then the probability of that event is the ratio of m to n. Probability of an event E is denoted by 
+P (E). 
+P(E) = m/n 
+Other important points to be noted 
+1) Sum of probabilities of all outcomes of an experiment is 1. 
+2) If the events are mutually exclusive and collectively exhaustive, then the sum of probabilities of 
+the events will be equal to 1. 
+3) Probability of an event happening P(E) is called probability of success and the probability of the 
+event not happening P(E) is called probability of failure. 
+4) If the probability of an event happening P(E) is equal to m/n, then we can also say that the odds in 
+favour of the event is m to n-m and odds against the event is n - m to m. 
+5) Unless specified otherwise, consider the given experiment as an unbiased one. 
+TCS Ninja Questions based on typical experiments 
+Let us now look at some typical experiments which are asked frequently in most management 
+entrance exams. 
+Throwing dice: A die has 6 faces and when we say a die shows up a number we are referring to the 
+number on the face which is facing the upward direction. Hence, there are 6 likely outcomes when a 
+single die is thrown. When more than one die is thrown simultaneously, then the number of likely 
+outcomes will be 6n where n is the number of dice thrown. This can be easily ascertained as follows. 
+The number of outcomes of the first die is 6 and for each outcome of the first die, there will be 6 
+possible outcomes from the second die. Therefore, by the fundamental principle of counting, the 
+total number of possibilities is 6 x 6 when two dice are thrown. This can be extended to arrive at the 
+above formula. 
+
+ 
+11 
+ 
+Tossing coins: Tossing coins is very similar to throwing dice except for the fact that a coin has only 
+two possible outcomes. Hence, if n is the number of tosses, then the number of possible outcomes 
+will be 2^n. 
+Pack of cards: Questions based on pack of cards are the most often asked questions in CAT and it is 
+essential that one knows the details in order to solve such problems. A standard pack of cards has 52 
+cards in total. There are 4 different suits namely hearts, clubs, spades and diamonds. Each suit has 
+13 cards numbered from 2-10, Jack, Queen, King and Ace. There are in total 26 red cards - Hearts 
+and diamonds and 26 black cards - clubs and spades. With these details, we can solve the problems 
+based on various experiments using the pack of cards. 
+ 
+ 
+Important Tips to Crack Similar and Congruent Triangles Questions in TCS Ninja 
+Congruent and similar triangles 
+Similar triangles 
+Two triangles are said to be similar, if their corresponding angles are equal and corresponding sides 
+are proportional. In other words, similar triangles have exactly the same shape, but not necessarily 
+the same size. 
+ 
+There are three axioms or postulates which are helpful in determining if the given triangles are 
+similar provided at least three quantities are known (except for AA postulate). The three postulates 
+are stated as follows: 
+AAA Postulate (also called AA postulate) 
+If all the three angles of one triangle are equal to the corresponding angles of another triangle, then 
+the two triangles are said to be similar. 
+
+ 
+12 
+ 
+ 
+Note: If two corresponding angles are equal for the given triangles, then the third angle should 
+necessarily be equal in order to satisfy the rule “Sum of angles of a triangle is equal to 180o.” 
+SAS Postulate 
+If two sides of one triangle are proportional to two corresponding sides of the other triangle and the 
+included angles are equal, they are said to be similar. 
+ 
+ 
+Here, AB/PQ = BC/QR 
+Therefore, the triangles ABC and PQR are similar. 
+SSS Postulate 
+If three sides of one triangle are proportional to the corresponding sides of the other, then they are 
+said to be similar. 
+
+ 
+13 
+ 
+ 
+Here, 
+ AB/PQ = BC/QR = AC/PR 
+Therefore, the triangles ABC and PQR are similar. 
+Some properties of similar triangles 
+In two similar triangles, ratio of corresponding sides = ratio of corresponding heights = ratio of the 
+lengths of corresponding medians = ratio of the lengths of the corresponding angular bisectors = 
+ratio of inradii = ratio of circumradii = ratio of perimeters. 
+Ratio of areas is equal to the ratio of squares of corresponding sides in two similar triangles. 
+ 
+Area of ABC/Area of PQR = [AB/PQ]^2 = [BC/QR]^2 = [AC/PR]^2 
+Congruent triangles 
+Two triangles are said to be congruent if their corresponding angles and corresponding sides are 
+equal. Two congruent triangles can be considered equal in all respects including the sides, angles, 
+lengths of medians, lengths of angular bisectors, circumradii, inradii, altitudes, perimeter and area. 
+
+ 
+14 
+ 
+ 
+There are three axioms or postulates which are helpful in determining if the given triangles are 
+congruent provided at least three quantities are known. These axioms are stated as follows: 
+SSS Postulate 
+If all the three sides of one triangle are equal to the corresponding sides of another triangle, then 
+the two triangles are said to be congruent. 
+ 
+SAS Postulate 
+If two sides of one triangle are equal to two corresponding sides of the other and the included 
+angles are equal, they are said to be congruent. 
+ 
+ASA Postulate 
+
+ 
+15 
+ 
+If two angles and a side of one triangle are equal to the corresponding angles and side of the other, 
+then they are said to be congruent. 
+ 
+Important Tips to Crack Trignometry Questions in TCS Ninja 
+Trigonometry uses the fact that ratios of pairs of sides of triangles are functions of the angles. The 
+basis for mensuration of triangles is the right-angled triangle. The term trigonometry means literally 
+the measurement of trigons (triangles). This mensuration approach defines the six trigonometric 
+ratios in terms of ratios of lengths of sides of a right triangle. 
+ 
+ 
+
+ 
+16 
+ 
+ 
+ 
+
+ 
+17 
+ 
+ 
+ 
+ 
+Solving right angled triangles 
+One of the most important applications of trigonometric functions is to solve a right triangle. 
+Trigonometric functions can be used to solve a right triangle if either the length of one side and the 
+measure of one acute angle is known or the length of two sides is known. The angle between the 
+line of sight and horizontal is called the angle of elevation if the object of observation is at a higher 
+level than the eye. 
+
+ 
+18 
+ 
+ 
+The angle between the line of sight and horizontal is called the angle of depression if the object of 
+observation is at a lower level than the eye. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Any queries, 
+Mail: contact@faceprep.in 
+Phone: 7094463723 
+
+TCS NINJA 
+MARATHON 
+LAST 
+BATCH
+FACE PREP'S
+36 HOURS ONLINE LIVE CLASSES
+The program starts on 25th August 2018 
+COURSE OVERVIEW
+Quantitative Aptitude [Standard & Advanced] 
+English MCQs & FUBs 
+Programming MCQs [Standard & Advanced] 
+Coding 
+ 
+CLICK HERE TO JOIN 
+INDIA'S LARGEST 
+TCS NINJA STUDY 
+GROUP.
+Contact: 7094463723

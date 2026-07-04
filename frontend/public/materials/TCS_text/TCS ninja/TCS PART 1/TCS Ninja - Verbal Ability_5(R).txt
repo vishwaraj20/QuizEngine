@@ -1,0 +1,336 @@
+
+
+TEST CODE	: TCS Ninja - Verbal Ability_5(R)
+
+Total number of question	: 10
+
+Test duration (min)	: 10 min
+
+Correct attempt (mark)	: 1 
+
+Wrong attempt (mark)	: -0.33
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+VERBAL ABILITY
+
+
+
+Question 1 
+
+In the following sentences, there may be some errors in the parts which are marked as A, B, C, D. Identify the part which has errors.
+
+1. She was a young girl with a pretty face, (A)/ very well trained in dancing (B)/ and who gave much promise of (C)/ a brilliant career as a film artist. (D)
+
+a. A		b. B		c. C		d. D
+
+
+
+Answer: C
+
+
+
+Explanation: 
+
+Correction: She was a young girl with a pretty face, very well trained in dancing and she gave much promise of a brilliant career as a film artist. 'Who' must be replaced with 'she'.
+
+
+
+Question 2
+
+Choose the most appropriate sentence which can replace the ‘Underlined’ sentence.
+
+2. A conjunction is used to connect words and sentences together.
+
+a. words and sentences together.
+
+b. words or sentences together.
+
+c. words and sentences.
+
+d. words or sentences.
+
+
+
+Answer: D
+
+
+
+Explanation: 
+
+Together is redundant. The conjunction does not couple words to sentences; it joins words, or it joins sentences. Hence the meaning is clearest in "words or sentences"
+
+
+
+Question 3
+
+For each sentence, choose the most appropriate option that best completes the given sentence.
+
+3. In one shocking instance of ____ research, one of the nation’s most influential researchers in the field of genetics reported on experiments that were never carried out and published deliberately ____ scientific papers on his non-existent.
+
+a. comprehensive, abstract
+
+b. theoretical, challenging
+
+c. fraudulent, deceptive
+
+d. erroneous, impartial
+
+
+
+Answer: C
+
+
+
+Explanation: 
+
+ The sentence speaks about experiments that never were carried out. This is an event of fraudulence.  In that case, the research results published will be deceptive in nature.
+
+So the answer is "fraudulent, deceptive"
+
+In each of the questions given below from the given options select the word which is closest in meaning to the word given in the question.
+
+
+
+Question 4
+
+Choose the most appropriate sentence which can replace the ‘Underlined’ phrase.
+
+4. His wrong decision was just like the act of a giddy goat.
+
+a. a slow act			b. a brave act
+
+c. a foolish act			d. an obedient act
+
+
+
+Answer: C
+
+
+
+Explanation: 
+
+The phrase ’act of a giddy goat’ means to behave foolishly.
+
+
+
+Question 5
+
+Choose the most logical order of sentences among the given choices to construct a coherent paragraph.
+
+5. A. The provisions of the 73rd amendment were not made applicable to the areas inhabited by the Adivasi populations in many States of India.
+
+B. Therefore, the new act protects the rights of these communities to manage their resources in ways acceptable to them.
+
+C. In 1996, a separate act was passed extending the provisions of the Panchayat system to these areas.
+
+D.  Many Adivasi communities have their traditional customs of managing common resources such as forests and small water reservoirs, etc.
+
+a. CDBA         b. BDAC          c. ACDB	d. ADCB
+
+
+
+Answer: C
+
+
+
+Explanation: 
+
+There is an AC link in the paragraph. Sentence A speaks about the act and its limitation. In Sentence B, that limitation is rectified. Among the four sentence, only Sentence A can be the topic sentence. So with this, option "ACDB" is the correct sequence of the paragraph.
+
+
+
+Question 6 
+
+In each of the questions given below from the given options select the word which is farthest in meaning to the word given in the question.
+
+6. Indulge
+
+a. abstain         b. quaff	     c. regress	d. absolve
+
+
+
+Answer: A
+
+
+
+Explanation: 
+
+The word indulge means to give in to a craving or desire. To indulge is to willingly give in to a temptation. The opposite of
+
+Indulge is to refrain from a desire. Because abstain means to refrain deliberately from something, 'abstain' is the answer. 
+
+'Quaff' means to drink deeply or with pleasure. This is not the opposite of indulge. 
+
+'Regress' means to move backward. This is not the opposite of indulge. 
+
+'Absolve' means to clear from blame. This is not the opposite of indulge. 
+
+
+
+Questions 7 to 10
+
+Read the passage given below and choose the best option for the blanks.
+
+
+
+
+
+7. Which of the following best fits blank 19?
+
+a. condemn	b. accuse      c. charge	d. blame
+
+
+
+Answer: D
+
+
+
+Explanation: 
+
+ Keyword: ‘Themselves’
+
+• ‘Blame’ is to hold responsible for a fault. In this particular passage, the fault is that companies are failing to grow (“lack of growth”).
+
+• ‘Charge’ and ‘accuse’ are also words which mean ‘holding responsible for a fault’, but the fault in both these cases is usually very strong (e.g.: A crime).
+
+• Moreover, ‘charge’ and ‘accuse’ are NEVER used to refer to one holding oneself responsible. It is usually used to refer to, say “X holding Y responsible for a fault”.
+
+E.g. the police charged him with stealing jewels from the store.
+
+They accused him of stealing jewels from the store.
+
+• ‘Condemn’ means official reprimand/criticism.
+
+E.g.: The Principal condemned him for stealing school property.
+
+Since ‘condemn’ is OFFICIAL reprimand/criticism (criticism which comes from an official higher authority), it is never used while referring to oneself.
+
+
+
+8. Which of the following best fits blank 20?
+
+a. admission	b. entry        c. access	d. entrance
+
+
+
+Answer: C
+
+
+
+Explanation: 
+
+ • All four answer options share a meaning: ‘entry’ to some place.
+
+• ‘Access’ has another meaning which is unique to the four answer options: ‘Ability to use’.
+
+E.g.: Terrorists have access to the latest weapons in the world.
+
+This meaning of ‘having the ability to use’ is what fits best in the sentence.
+
+‘Investment capital’ means ‘investment money’. It is illogical to talk about entry/admission/entrance to money. The only logical option would be to talk about whether or not money is available and whether it can be utilized.
+
+“...you shouldn’t waste much time wondering whether you have access to investment capital”, meaning you shouldn’t waste time wondering whether or not you have availability to investment capital.
+
+• All four answer options share a meaning: ‘entry’ to some place.
+
+• ‘Access’ has another meaning which is unique to the four answer options: ‘Ability to use’.
+
+E.g.: Terrorists have access to the latest weapons in the world.
+
+This meaning of ‘having the ability to use’ is what fits best in the sentence.
+
+‘Investment capital’ means ‘investment money’. It is illogical to talk about entry/admission/entrance to money. The only logical option would be to talk about whether or not money is available and whether it can be utilized.
+
+“...you shouldn’t waste much time wondering whether you have access to investment capital”, meaning you shouldn’t waste time wondering whether or not you have availability to investment capital.
+
+
+
+9. Which of the following best fits blank 21?
+
+a. currency	b. money        c. cash	d. banknote
+
+
+
+Answer: A
+
+
+
+Explanation: 
+
+ • ‘Currency’, ‘cash’ and ‘banknote’ refer to the same thing: Money
+
+• ‘Exchange rate’ is a formal business term. That is also the keyword here.
+
+• Exchange of money happens between different countries. For example, exchange of money can be done between the USA and India. While doing that, one does not exchange 5000 cash/banknotes/money of India with 5000 cash/banknotes/money of the USA. One exchanges 5000 rupees, which is the CURRENCY of India with 93 dollars, which is the CURRENCY of the USA.
+
+Hence ‘currency’ goes together with ‘exchange rate’.
+
+
+
+10. Which of the following best fits blank 22?
+
+a. specify			b. categories
+
+c. identify			d. allocate
+
+
+
+Answer: C
+
+
+
+Explanation: 
+
+ELIMINATION OF ‘CATEGORIES’:
+
+• “more likely to ___”. We are looking for a verb (because of the presence of ‘to’—to+verb = infinitive). Thus we eliminate ‘categories’ (option B), which is not a verb.
+
+ELIMINATION OF ‘ALLLOCATE’:
+
+• ‘Allocate’ means allot/distribute. It would be illogical to talk about distributing/allotting barriers to success.
+
+• ‘Allocate’ is best used when referring to resources.
+
+E.g.: Half of the country’s budget was allocated to the educational sector.
+
+‘SPECIFY’ vs. ‘IDENTIFY’:
+
+• From a logical perspective, ‘Specify’ and ‘identify’ are good fits for the blank. To discriminate between the two, we look for a key phrase in the second part of the sentence: “by looking in the mirror”.
+
+• There are two actions in the sentence.
+
+Action 1: Specify/identify the main barrier to success
+
+Action 2: by looking in the mirror
+
+Action 2 is the method/means of achieving Action 1 (found by the word ‘by’)
+
+• If one has to ‘specify’ something, the second part, which mentions the means/method of doing it, is not relevant. If ‘specify’ were the answer, the sentence would be complete even without Action 2.
+
+E.g.: The barrier to success was specified clearly.
+
+• Only while ‘identifying’ the barrier would one need a means/method of identification.
+
+“...identify the main barrier to greater success”
+
+How? --- “by looking in the mirror”
+
+
+

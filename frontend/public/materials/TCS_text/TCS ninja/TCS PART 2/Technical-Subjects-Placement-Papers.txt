@@ -1,0 +1,104 @@
+
+
+Technical Subjects Placement Papers 
+1. What is a array? 
+A. An array is a series of elements of the same type in contiguous 
+memory 
+locations 
+B. An array is a series of element 
+C. An array is a series of elements of the same type placed in non-
+contiguous 
+memory locations 
+D. None of the mentioned 
+Option: A 
+2. What is the output of this program? 
+#include < stdio.h > 
+using namespace std; 
+int main() 
+{ 
+char str[5] = "ABC"; 
+cout << str[3]; 
+cout << str; 
+return 0; 
+https://www.freshersnow.com/
+
+} 
+A. ABC 
+B. ABCD 
+ 
+C. AB 
+D. None of the mentioned 
+Option: A 
+3. How many specifiers are present in access specifiers in class? 
+A. 1 
+B. 2 
+C. 3 
+D. 4 
+Option: C 
+4. How many kinds of classes are there in c++? 
+A. 1 
+B. 2 
+C. 3 
+D. 4 
+Option: C 
+5. which of the following is used to implement the c++ interfaces? 
+https://www.freshersnow.com/
+
+A. absolute variables 
+B. abstract classes 
+C. constant variables 
+D. none of the mentioned 
+Option: B 
+6. #include is called 
+ 
+A. Preprocessor directive 
+B. Inclusion directive 
+C. File inclusion directive 
+D. None of the mentioned 
+Option: A 
+7. If #include is used with file name in angular brackets. 
+A. The file is searched for in the standard compiler include paths 
+B. The search path is expanded to include the current source directory 
+C. Both a & b 
+D. None of the mentioned 
+Option: A 
+8. Which of the following is “NOT” a UNIX variant ? 
+A. Solaris 
+https://www.freshersnow.com/
+
+B. AIX 
+C. IRIX 
+D. AS400 
+Option: D 
+9. wtmp and utmp files contain: 
+A. Temporary system data 
+B. User login-logout log 
+C. The user’s command execution log 
+D. The user’s su and sudo attempts 
+ 
+Option: B 
+10. An expression involving byte, int, and literal numbers is promoted 
+to which of 
+these? 
+A. int 
+B. long 
+C. byte 
+D. float 
+Option: A 
+11. Who is the father of PHP? 
+https://www.freshersnow.com/
+
+A. Rasmus Lerdorf 
+B. Willam Makepiece 
+C. Drek Kolkevi 
+D. List Barely 
+Option: A 
+12. Which one of the following computer network is built on the top of 
+another 
+network? 
+A. prior network 
+B. chief network 
+C. prime network 
+D. overlay network 
+Option: D 
+https://www.freshersnow.com/

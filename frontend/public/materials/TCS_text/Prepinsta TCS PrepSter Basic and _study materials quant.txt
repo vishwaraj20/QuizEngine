@@ -1,0 +1,4232 @@
+
+
+TCS PrepSter Basic 
+www.prepinsta.com 
+ 
+Quantitative Aptitude  
+TCS PrepSter Basic and 
+study materials 
+ 
+ 
+ 
+Also, don't share this PDF with anyone as if they will score good marks too your 
+percentile will get decreased 
+ 
+
+Buy TCS Pro Papers 
+● TCS Technical Pro Papers( Get as Much as 80% from here) - Buy Here 
+● TCS Aptitude Pro Papers( Get as Much as 80% from here) - Buy Here 
+ 
+Buy TCS Basic Papers 
+● TCS Technical Pro Papers( Get as Much as 40% from here) - Buy Here 
+● TCS Aptitude Pro Papers( Get as Much as 50% from here) - Buy Here 
+● TCS Email Writing Pro Papers( Get as Much as 80% from here) - Buy Here 
+ 
+ 
+QUESTIONS 
+  
+Question 1. 
+1. Advanced: In how many ways can we give change for rs 100  using 1 rupee and 2 rupee 
+coins? For example for 5 rs we can give three ways 
+2. (1,1,1,1) (1,1,1,2) )(,1,2,2) 
+3. Answer: 51 
+Question 2 
+2. We are driving along a highway at a constant speed of 55 miles per hour (mph).  You observe 
+a car one half mile behind you. The car is moving fast and zooms past you exactly one minute 
+later. How fast is this car traveling (mph) if its speed is constant? 
+a. 80 
+b. 70 
+c. 72 
+
+d. 85 
+Answer: 85 
+3. What is the next number in the series 70,54,45,41? 
+a. 40 
+b. 35 
+c. 45 
+d. 54 
+Answer: 40 
+Question 4 
+4. George can do some work in 8 hours. Paul can do the same work in 10 hours while Hari can 
+do the same work in 12 hours. All the three of them start working at 9 AM. while George stops 
+work at 11 am,the remaining two complete the work,approximately when will the work be 
+finished? 
+a. 11:30 AM 
+b. 12 noon 
+c. 12.30 PM 
+d. 1 PM 
+Answer: 1 PM 
+Question 5 
+A certain sum of money is sufficient to pay either George’s wages for 15 days or mark’s wages 
+for 10 days, for how long will it suffice it both George and mark work together? 
+
+a. 9 
+b. 8 
+c. 6 
+d. 5 
+Answer: 8 
+Question 6 
+Advanced: a,b,c are positive numbers such that a+b+ab= 8, b+c+bc=15 and c+a+ca = 35 
+What is the value of a+b+c+abc? 
+Answer: 36 
+Question 7 
+The 260th term of the series a,b,b,c,c,c,d,d,d,d,e,e,e,e,e,f,f,f,f,f,f,....is: 
+a. U 
+b. W 
+c. T 
+d. V 
+Answer: W 
+Question 8 
+8. Advanced: It is possible to pair up all the numbers from 1 to 70 so that the positive 
+difference of the numbers in each pair is always the same. For example, one such pairing up is 
+
+(1,2), (3,4), (5,6),....(69,70). Here the common on difference is 1. What is the sum of all such 
+common differences. 
+Answer: 1680 
+. Advanced: It is possible to pair up all the numbers from 1 to 70 so that the positive difference 
+of the numbers in each pair is always the same. For example, one such pairing up is (1,2), (3,4), 
+(5,6),....(69,70). Here the common on difference is 1. What is the sum of all such common 
+differences. 
+Answer: 1680 
+Question 9 
+9. Advanced: A  regular polygon with 12  sides (dodecagon) is inscribed in a square of area 24 
+square units as shown in the figure where four of the vertices are mid points of the sides of 
+the square . The area of the dodecagon in square units is. 
+ 
+Answer: 19.26 
+Question 10 
+
+Advanced: 
+In how many ways can we give change for 100 using 1 rupee and 2 rupee coins? For example 
+for 5 rs, we can give in three ways : (1,1,1,1,1) (1,1,1,2) (1,2,2) 
+Answer: 51 
+Question 11 
+Advanced: In the figure shown, a triangle is divided into nine strpes of equal height each 
+parallel to the same side of the triangle. The shaped stripes have a total area of 135 square 
+units. What is the area of the triangle in square units.  
+ 
+Answer: 243 
+Question 12 
+In the IT department of backrub, the administrator password is changed every month. The team 
+of administrator, spread across the globe, receive an 8 digits number via email. This number is 
+to be prefixed with a single digit number and suffixed with a single digit number to get the 
+actual password. The password is divisible by 11 and 8. If the team received 54218345 this 
+month. Then which of the following pairs give valid prefix and suffix respectively? 
+a. 3,7 
+b. 1,6 
+
+c. 2,4 
+d. 4,2 
+Answer: 1,6 
+Question 13 
+13. In the diagram below, the areas of the triangles are as follows: A1=1024, A2=1016, A3=1057. 
+What is the area of A4? 
+ 
+a. 1032 
+b. 1036 
+c. 1020 
+d. 1065 
+Answer: 1065 
+Question 14 
+14. The people of the land of unsymmetrix to ensure that there is very little symmetry in life. 
+Even their unit of length (no one knows what it is) is called as unsym. It is their pride that the 
+front wheel and the real wheels of their bikes are of different sizes but are made so that they 
+
+will not slip on the road . In a certain model of bike the radius of the front wheel is 28 unsyms 
+and that of the back wheels is 14 unsyms after driving a certain distance if front wheel had 
+revolution 54 times how many revolution would the back wheel have undergone? 
+a. 136 
+b. 122 
+c. 108 
+d. 94 
+Answer: 108 
+Question 15 
+15. Rs. 3000 is distributed among A, B and C such that A gets 2/3rd of what B and C together get 
+and C gets ½ of what A and B together get. Find C’s share. 
+a. 1500 
+b. 1000 
+c. 1200 
+d. 1800 
+Answer: 1000 
+Question 16 
+16. 
+Given that 1 < a< b< c< d, Which of the following is largest ? 
+     In this question , x^y stands for x raised to the power of y. For example , 2^3=8 and 4^1.5=8 
+
+exp(x) is e (approx 2.7183) raised to the power x. Thus exp(2.303) is approximately 10. 
+1. exp (a^d)/exp (b^c) 
+2. exp (c^d)/ exp(a^b) 
+3. exp (b^d)/exp(a^c) 
+4. exp(b^c)/exp(a^d) 
+Answer: exp(c^d)/exp(a^b) 
+Question 17 
+17.  32 times of a two digit number is 23 times the number obtained by reversing its digit. The 
+sum of its digit is 15 Find the number: 
+a. 96 
+b. 69 
+c. 87 
+d. Insufficient information   
+Answer: 69 
+Question 18 
+18. Let N be the greatest number that will divide 148, 246 and 623 leaving remainders 4, 6 and 
+11 respectively. What is the remainder if N is divided by 7? 
+a. 0 
+b. 1 
+c. 5 
+d. 6 
+
+Answer: 5 
+Question 19 
+19. A store is selling a jacket on sale at 30% off the marked price. A matching pair of pants is on 
+sale at 40% off the marked price. If the marked price of the pants is Rs. 8500 less than the 
+marked price of the jacket and the total sale price of both items is Rs. 23500, then what is the 
+marked price of the jacket? 
+a. 21700 
+b. 21800 
+c. 22000 
+d. 22100 
+Answer: 22000 
+Question 20 
+20. Initially, when Sona and Tina left for a shopping expedition , Sona had three times the 
+money than Tina had. They bought things amounting to Rs. 480 altogether, out of which Tina’s 
+share was 65%. At the end of shopping, Sona was left with 4 times the amount that Tina had. 
+What was the amount with Tina at the beginning? 
+a. 1080 
+b. 1248 
+c. 768 
+d. 936 
+Answer: 1080 
+
+Question 21 
+In a group of 5 families, every family has a certain number of children, such that the number of 
+children forms an arithmetic progression with a common difference of one, starting with two 
+children in the first family. Despite the objection of their parents every child in a family has 
+three times as many pets to look after as the number of offspring in the family. What is the 
+total number of pets in the entire group of five families. 
+a. 270 
+b. 99 
+c. 165 
+d. 27 
+Answer: 270 
+Question 22 
+How many number plates can be made if the number plates have two letters of the English 
+alphabet (A-Z) followed by two digits (0-9) if the repetition of digits or alphabets is not allowed? 
+a. 56800 
+b. 56500 
+c. 52500 
+d. 58500 
+Answer: 58500 
+Question 23 
+
+A,B and C can together do some work in 72 days.A and B together do two times as much work 
+as  C alone, and A and C together can do our times as much word as B alone. Find the time 
+taken by C alone to do the whole work. 
+a. 144 days 
+b. 360 days 
+c. 216 days 
+d. 180 days 
+Answer: 216 days 
+Question 24 
+In a cricket tournament, 16 school teams participated. A sum of Rs.8000 is to be awarded 
+among them as prize money.  If the team placed last is award Rs.275 as prize money and the 
+award increases by the same amount for successive finishing places, how much will the team 
+placed first receive? 
+1. 1000 
+2. 500 
+3. 1250 
+4. 725 
+Answer: 725 
+Question 24 
+1. A and B completed a work together in 5 days. Had A worked at twice his own speed and 
+B half his own speed, it would have taken them 4 days to complete the job.  How much 
+time would it take for A alone to do the job? 
+2. 10 days 
+
+3. 20 days 
+4. 25 days 
+5. 15 days 
+Answer: 10 days 
+Question 25 
+Eesha’s father was 34 years of age when she was born.her younger brother, Shashank, now that 
+he is 13,is very proud of the fact that he is as tell as her, even though he is three years younger 
+than her. Eesha’s mother , who is shorter than Eesha,was only 29 when Shashank was 
+born .what is the sum of the ages of Eesha’s  parents now? 
+1. 92 
+2. 76 
+3. 66 
+4. 89 
+Answer: 92 
+Question 26 
+A sum of Rs 2387 is divided into three parts in such a way that one fifth of the first part,one half 
+of the second part and fourth one the third part are equal. Find the sum of five times the first 
+part,three times the second part and four times the third part (in rupees). 
+1. 9982 
+2. 7812 
+3. 9114 
+4. 10199 
+Answer: 10199 
+Question 27 
+
+Apples cost L rupees per kilogram for the first 30 kilograms and Q rupees per kilogram for each 
+additional kilogram. If the price paid for 33 kilograms of apples is Rs. 1167 and for 36 kilograms 
+of apples is Rs. 1284, then the cost of the first 10 kgs of apples is: 
+a. Rs.117 
+b. Rs.1053 
+c. Rs.350 
+d. Rs.281 
+Answer: Rs.350 
+Question 28 
+A and B are traveling in the same duration. B is traveling at a constant speed of 55kmph and the 
+distance between A and B is 1.5 km. If A crosses B within 1 minute, what is the speed of A? 
+Answer: 145 kmph 
+Question 29 
+In a test with 26 questions, five points were deducted for each wrong answer and eight points 
+were added for every correct answer. How many were answered correctly if the score was zero? 
+1. 11 
+2. 10 
+3. 13 
+4. 12 
+Answer: 10 
+Question 30 
+
+In a week in July the average daily temperature of Monday to Wednesday was 27 degrees and 
+of Tuesday to Thursday was 24 degrees.if the temperature remained constant throughout in 
+any given day. 
+a. 20 
+b. 22 
+c. 18 
+d. 16 
+Answer: 18 
+Question 31 
+In this question x^y stands for x raised to the power y. For example  ,2^3=8 and 4^1.5=8. If a,b 
+are real numbers such that a+b=3, a^2+b^2=7, the value of a^4+b^4 is? 
+a. 49 
+b. 45 
+c. 51 
+d. 47 
+Answer: 47 
+Question 32 
+
+The air conditioned bus service from Siruseri industry park runs at regular intervals throughout 
+the day. It is now 3:12 pm and it has arrived 1 minute ago but it was 2 minutes late. The next 
+bus is due 3:18 pm. When is the next bus due? 
+a. 3:27 pm 
+b. 3:29 pm 
+c. 3:24 pm 
+d. 3:25 pm 
+Answer: 3:27 pm 
+Question 33 
+A road network covers some cities.city c can be reached only from city a or city b.the distance 
+from a to c is 65 kms and that from  B to C is 30 kms. The shortest distance from a to b is 58 kms. 
+The shortest distance from city P to A is 420 kms and the shortest distance  from city P to B is 
+345 kms. The shortest distance from city P to city C in kms is: 
+a. 153 
+b. 478 
+c. 403 
+d. 375 
+Answer: 375 
+Question 34 
+
+A 70 foot pole stands vertically in a horizontal plane supported by three 490 foot wires, all 
+attached to the top of the pole. Pulled and anchored to three equally spaced points in the plane. 
+How many feet apart are any two of those anchor points? 
+Answer: 149.61 
+Question 35 
+Advanced: The set A (0) is (1,2,3,4). For n > 0,A(n+1) contains all possible sums that can be 
+obtained by adding two different numbers from what is the number of integers in A(10). 
+Answer: 67 
+Question 36 
+Advanced What is the number of positive integers less than or equal to 2017 that have at least 
+one pair of adjacent digits that are both even. For example 24,564 are two examples of such 
+numbers while 1276 does not satisfy the required property. 
+Answer: 738 
+Question 37 
+In the following star, the numbers on each straight line are in arithmetic progression. What is 
+H+K+L? 
+
+ 
+a. -8 
+b. 11 
+c. 5 
+Answer: -8 
+Question 38 
+Considering a hash table with 100 slots. Collisions are resolved using chaining. Assuming simple 
+uniform hashing, what is the probability that the first 3 slots are unfilled after the first 3 
+insertions? (NOTE:100 ^ 3 means 100 raised to the power 3) 
+a. (97 * 96 * 95) / 100 ^ 3 
+b. (97 * 96 * 95) / (6 * 100 ^ 3) 
+c. (97 * 97 * 97 ) / 100 ^ 3 
+d. (99 * 98 * 97) / 100 ^3 
+
+Answer: (97 * 97 * 97 ) / 100 ^ 3 
+Question 39 
+Advanced  In this question x^y stands for x raised to the power y .for example 2^3=8 and 
+4^1.5=8 
+Find the number of positive integers n>2000 which can be expressed as n=2^m+2^n where m 
+and n are integers (for example, 33=2^0+2^5) 
+Answer: 65 
+Question 40 
+Fishing is a serious environmental issue.It has been determined by the scientists that if the net 
+of a trawler has mesh size x cm by x (square mesh) then the percentage of fish entering the net 
+that are caught in the net is (100-0.02x^2-0.05x.for example if the mesh size is zero 100% of the 
+fish that enter the net will be caught. The trawler with net with a square mesh that was 
+suspected of using an illegal size net dropped its net to the ocean floor near the damans and 
+coast guard officials arrested the crew.the scientists later looked at the size of the fish caught 
+and estimated that  the net used by the trawler at least 97.93% of the fish entering the net 
+would be caught. What is the maximum value of x for the net by the trawler? 
+a. 8.5 
+b. 9 
+c. 11 
+d. None of the answers 
+
+Answer: 9 
+ 
+Q 1.2/3rd of the balls in a bag are blue, the rest are pink. if 5/9th of the blue balls 
+and 7/8th of the pink balls are defective, find the total number of balls in the bag 
+given that the number of non defective balls is 146? 
+a) 216  
+b) 649  
+c) 432  
+d) 578 
+Solution- let total no of balls =x 
+blue=2x/3 
+pink=x/3 
+total no of defective balls = 10x/27 +7x/24 
+=143x/216 
+non defective balls=x-143x/216=146 
+x=432 
+ 
+Q 2. Find no of ways in which 4 particular persons a,b,c,d and 6 more persons 
+can stand in a queue so that A always stand before B. B always stand before C, 
+And C always stand before D. 
+a)6!  
+b)7!  
+c)1006*6! 
+d)10046! 
+Solution - a,b,c,d are grouped ie consider them as one and remaining as 6. 
+total 6+1 = 7! Ways 
+
+ 
+ 
+ 
+Q 3. 100 students appeared for two different examinations 60 passed the first,50 
+the second and 30 both the examinations.Find the probability that a student 
+selected at random failed in both the examination 
+a)5/6  
+b)1/5  
+c)1/7  
+d)5/7 
+Solution-60+50-30=80 
+100-80=20 
+20/100=1/5. 
+so B is the answer. 
+ 
+Q 4. There are 10 points on a straight line AB and 8 on another straight line AC 
+none of them being point A. how many triangles can be formed with these points 
+as vertices? 
+Option 
+a. 680  
+b. 720  
+c. 816  
+d. 640 
+Solution- 
+To form a triangle we need 3 points 
+select 2 points from the 10 points of line AB & 1 from the 8 on AC 
+= (10C2)*(8C1)  
+
+select 2 points from the 8 points of line AC & 1 from the 10 on AB= 
+(8C2)*(10C1)  
+total no. of triangles = (10C2)*(8C1)+ (8C2)*(10C1) = 640 
+d.640 
+ 
+Q 5. From a bag containing 8 green and 5 red balls,three are drawn one after the 
+other .the probability of all three balls beings green if the balls drawn are replace 
+before the next ball pick and the balls drawn are not replaced , are respectively. 
+a)512/2197,336/2197   
+b) 512/2197,336/1716  
+c) 336/2197,512/2197  
+d) 336/1716,512/1716 
+Solution-THE PROBABILITIES OF GETTING WITH REPLACEMENT 
+IS=8/13*8/13*8/13=512/2197 
+THE PROBABILITIES OF GETTING WITHOUT REPLACEMENT 
+=8/13*7/12*6/11=336/2197 
+Q 6. find the greatest number that will divide 148 246 and 623 leaving remainders 
+4 6 and 11 respectively. 
+a) 20 b) 12 c)6 d)48 
+Solution-Hcf ( (148-4), (246-6), (623-11))=12 
+ 
+Q 7. a mother her little daughter and her just born infant boy together stood on a 
+weighing machine which shows 74kgs.how much does the daughter weigh if the 
+mother weighs 46kg more than the combined weight of daughter and the infant 
+and the infant weighs 60% less than the daughter. 
+ a)9 
+ b)11 
+ c)cannot be determined  
+
+d)10 
+Solution-daughter weight is x 
+infant weight is 60% less than daughter i.e., 0.4x 
+ 
+mother weight is (x+0.4x+46) 
+total weight = x + 0.4x + (x+0.4X+46) = 74  
+solving the eq. x = 10 
+option d is correct 
+ 
+Q 8. find the number of ways a batsman can score a double century only in terms 
+of 4's & 6's? 
+a)15  
+b)16  
+c)17  
+d)18 
+Solution-4's and 6's 
+50 0 
+47 2 
+44 4 
+41 6 
+38 8 
+35 10 
+32 12 
+29 14 
+26 16 
+
+23 18 
+20 20 
+17 22 
+14 24 
+11 26 
+8 28 
+5 30 
+2 32 
+So total 17 ways but here it is 4's & 6's both so don't consider 1st one 
+Final ans : 16 ways 
+ 
+Q 9. 98. Thomas takes 7 days to paint a house completely whereas Raj would 
+require 9 days to paint the same house completely. How many days will take to 
+paint the house if both them work together. (Give answers to the nearest integer)? 
+A. 4  
+B. 2  
+C. 5  
+D. 3 
+Solution-work done by thomas in day=1/7 
+work done by other in a day=1/9 
+work done by both in a day=1/7 +1/9 =16/63 
+days required by both = 63/16 
+Answer-A 
+ 
+Q 10. how many positive integers less than 4300 of digits 0-4. 
+a) 560 b)565 c)575 d)625 
+
+Solution-Ans is 575 
+one digit no =4 (0 is not a positive integer) 
+two digit no=4*5=20 
+three digit no=4*5*5=100 
+four digit no=3*5*5*5=375(the possibility for 1,2,3 will come in the first 
+position)four digit no=1*3*5*5(the possibility of 4is fixed in the first position and 
+then 0,1,2 is comes in second position)and the last digit is 4300 we include this 
+number also 
+Ans is 4+20+100+375+75+1=575 
+ 
+Q 11. A person travels from Chennai to Pondicherry in cycle at 7.5 Kmph. Another 
+person travels the same distance in train at a speed of 30 Kmph and reached 30 
+mins earlier. Find the distance.  
+A)5 Km  
+B)10 Km  
+C)15km  
+D)20km 
+Solution-Let, time taken by  =t 
+//ly, time taken by train  =t-30 
+We know that.....speed=distance /time 
+Speed of bicycle , 7.5=d/t....(1) 
+Speed of , 30=d/(t-30/60)....(2) 
+Sol 1&2,we get t=0.666 
+By sub and value in equal(1)  
+We d=4.999~5km 
+ 
+
+Q 12. A bag contains 8 white balls, and 3 blue balls. Another bag contains 7 white, 
+and 4 blue balls. What is the probability of getting blue ball? 
+a)3/7 b)7/22 c)7/25 d)7/15 
+Solution-First we have to select a bag and then we will draw a ball. 
+Probability of selection of both bags is equal =1/2 
+Now probability of blue ball taken from first bag = ( 1/2) x (3/11) 
+and probability of blue ball taken from second bag = (1/2) x (4/11) 
+So probability of blue ball = ( 1/2) x (3/11) + (1/2) x (4/11) = 7/22 
+ 
+ 
+Q 13. In a 3*3 square grid comprising 9 tiles each tile can be painted in red or blue 
+color. When the tile is rotated by 180 degree, there is no difference which can be 
+spotted. How many such possibilities are there? 
+a) 16 b)32 c)64 d)256 
+Solution-ans is 32 . 
+ans grid has to be rotated at 180 degrees. 
+hence, 
+11=33 
+12=32 
+13=31 
+21=23 
+22=22 
+31=13 
+32=12 
+33=11 
+cell 11-33 can be altered in 2 ways (as thr are 2 colours) 
+
+cell 12-32 can be altered in 2 ways 
+cell 13-31 can be altered in 2 ways 
+cell 21-23 can be altered in 2 ways 
+and , cell 22 can be altered in 2 ways 
+, so 
+2X2X2X2X2 = 32. 
+ 
+Q 14. Jake can dig a well in 16 days. Paul can dig the same well in 24 days. Jake, 
+Paul and Hari together dig the well in 8 days. Hari alone can dig the well in 
+option 
+A)48  
+B)96  
+C)24  
+D)32 
+Solution-1/x = 1/8 - (1/16 + 1/24) 
+so x=48 
+ 
+ans = 48 days 
+ 
+ 
+Q 15. For any two numbers we define an operation $ yielding another number, X 
+$ Y such that following condition holds: 
+• X $ X = 0 for all X 
+• X $ (Y $ Z) = X $ Y + Z 
+Find the Value of 2012 $ 0 + 2012 $ 1912 
+Options 
+
+a) 2112 
+b) 100 
+c) 5936 
+d) Can not be determined 
+Solution-here $ represent the - operator so X-X=0 first condition 
+x$(y$z)=x-(y-z)=x-y+z 
+it can be written as x$y+z 
+2012-0+2012-1912=2112 so ans is 2112 
+ 
+Q 16. On a toss of two dice, A throws a total of 5. Then the probability that he will 
+throw another 5 before he throws 7 is 
+a)40% b) 45% c)50% d)60% 
+Solution-ans: 40% 
+Explanation: 
+total probabilities for getting 5 = 4/36 
+total probabilities for getting 7 = 6/36 
+Total Probability = 10/36 
+We need only 5, hence prob of getting only 5 is (4/36)/(10/36) 
+=40% 
+ 
+Q 17.  
+1,2,2,3,3,3,4,4,4,4,1,1,2,2,2,2,3,3,3,3,3,3,4,4,4,4,4,4,4,4,......................................... 
+Then what is the 2320 position of the number in the sequence? 
+a) 2 b) 1c) 3 d) 4 
+Solution-answer is b)1 
+
+1,2,3,4(1-1time 2- 2times 3-3 4-4)=10 terms /completes cycle and starts from 1 
+1,2,3,4(1-2 2-4 3-6 4-8)= 20 terms /completes cycle and starts from 1 
+(1,2,3,4)each digit 3 time to its value =30 terms/completes cycle and starts from 1 
+ 
+10+20+30+40+50+.......=x 
+x is nearer value to 2320 solving n(n+1)/2 
+10.(21.22)/2= 2310  
+analysing it 2310 completes cycle and starts from 1 again  
+now it 22 times 
+(1-22 times 2-44 times ......) 
+2320 position will occupied by 1 
+ 
+ 
+Q 18. In 2003, there are 28 days in February and there are 365 days in the year. In 
+2004, there are 29 days in February and there are 366 days in the year. If the date 
+March 11, 2003 is a Tuesday, then which one of the following would be the date 
+March 11, 2004 be?  
+A. Wednesday  
+B. Tuesday  
+C. Thursday  
+D. Monday 
+Solution-Every year day is increased by 1 odd day. Or in leap year it is increased 
+by 2 odd days. 
+so 11 march 2003 is tuesday, 
+11 march 2004 is thursday 
+C. Thursday 
+ 
+
+Q 19. How many 6 digit even numbers can be formed from digits 1 2 3 4 5 6 7 so 
+that the digit should not repeat and the second last digit is even? 
+a)6480 b)320 c)2160 d)720 
+solution-given 6th digit even number , so last digit 2 or 4 or 6-> 3 ways 
+" 5th digit should be even...so there will be 2 ways(rep. not allowed) 
+so,therefore we get 5*4*3*2*2*3=720 ways 
+ 
+ 
+ 
+Q 20. There are 5 letters and 5 addressed envelopes. If the letters are put at 
+random in the envelops, the probability that all the letters may be placed in 
+wrongly addressed envelopes is. 
+a)119 b)44 c)53 d)40 
+Solution-If there is one letter and one envelope then no way you can put it 
+wrong(S1). 
+If there are 2 letters and 2 envelopes then you can put them wrong in 1 way(S2). 
+If there are 3 letters and 3 envelopes then you can put them wrong in 2 ways(S3). 
+If there are 4 then you can put them wrong in 9 ways(S4). 
+If there are 5 then you can put them wrong in 44 ways(S5). 
+If you observe you can find a pattern. 
+S3=(S1+S2)*2 
+S4=(S2+S3)*3 
+S5=(S3+S4)*4 
+S6=(S4+S5)*5 
+In general, Sn=(Sn-2 + Sn-1)*(n-1) 
+So, if there are 5 letters then S5=(S3+S4)*4=(2+9)*4=44 
+ 
+
+Q 21. How many liters of a 90% of concentrated acid needs to be mixed with a 75% 
+solution of concentrated acid to get a 30 liter solution of 78% concentrated acid? 
+a) 8 b)9 c) 7 d)6 
+ 
+Solution-the concentration is given which is wrt 100, hence we can take x lt of 90% 
+and (30-x)of 75% 
+ 
+x*90 + (30-x)*75 = 30*78 hence the ans is 6 ltr... 
+ 
+Q 22. Average marks of a,b,c is 48. When d joins average becomes 47. E has 3 
+more marks than d. Average marks of b,c,d,e is 48. What is the marks of a? 
+a) 42 b) 43 c) 53 d)56 
+Solution- a+b+c=144 
+a+b+c+d=188 
+d=44 
+e=47 
+b+c+d+e=192 
+b+c=101 
+b=43 ans. 
+ 
+Q 23. On a certain assembly line, the rejection rate for Hyundai i10s production 
+was 4 percent, for Hyundai i20s production 8 percent and for the 2 cars combined 
+7 percent. What was the ratio of Hyundais i10 production? 
+option  
+a) 3/1  
+b) 2/1  
+c) 1/1  
+
+d) ½ 
+Solution-let the no of i10 cars be x and i20 be y 
+now th rejcted i10 cars are 4x/100 and i20 cars are 8y/100 
+ 
+and it is given that 4x/100 +8y/100 = 7(x+y)/100 
+so we get y = 3x 
+so the ratio is 3:1 
+Q 24. For a car there are 5 tyres including one spare tyre(4+1). All tyres are 
+equally used. If the total distance travelled by the car is 40000km then what is the 
+average distance travelled by the each tyre? 
+ 
+Option 
+a) 10000 
+b) 40000 
+c) 32000 
+d) 8000 
+Solution-total distance travelled by the car=40000km 
+so total distance travelled by 4 wheels=4*40000=160000 
+as all tyres(4+1) are equally used 
+so average distance travelled by the each tyre=160000/5=32000 
+option(c) 
+Q 25. If A=x3 y2 and B=xy3, then find the HCF of A,B. 
+a)x4y5  b)xy2 c)xy d)x3 
+Solution-if A=x^3*y^3 
+B=xy3 
+then hcf=xy2 
+
+bcoz hcf is always equal to the highest common powers between the expressions, 
+i.e x1 is common in both and also y2 is common in both. 
+ 
+Q 26. In a clock the long hand is of 8cm and the short hand is of 7cm. if the clock 
+runs for 4 days find out the total distance covered by both the hands 
+       a)  1824 π cm                     b)1648π cm                     c)1724π cm       d)2028π cm 
+Solution-Explanation:    Short Hand ( Hour hand) 
+Hour hand makes a full rotation in 12 hours. 
+One full rotation in 12 hours =>2πr=14π cm traversed every 12 hours. 
+For one day(24 hours ), we have 28π cm, twice that of a 12 hour period. 
+For 3 days, we then have 4 x 28 π=112π cm traversed. 
+Long Hand ( Minute hand) 
+One full rotation in 1 hour =>2πr=16π cm traversed every hour. 
+For one day, we have 24 x  16 π=384π cm. 
+For 4 days, we then have 4 x 384π=1536π cm traversed. 
+Total Distance 
+For the total, we have 112π+1536π=1648π cm. 
+ 
+Q 27. A can finish a work in 18 days and B can do the same work in 15 days. B 
+worked for 10 days and left the job. In how many days A alone can finish the 
+remaining work? 
+a) 7 b) 6 c) 5 d) 10 
+Solution-A can finish 118118th of the total work in a day and B can finish 115115th of 
+the total work in a day. After working 10 days by B alone,the work remains is 
+1−1015=131−1015=13th of the total work. 
+ 
+
+It can be finished by A in13÷118=1×183×1=613÷118=1×183×1=6days. 
+ 
+Q 28. In how many way possible ways can you write 1800 as a product of 3 
+positive integers a,b,c 
+a)350 b)360 c)380 d)450 
+Solution-1800=2^3*3^2*5^2 
+then 5c2*4c2*4c2=360 ans 
+ 
+Q 29. In ahorse racing competition there were 18 numbered 1 to 18.The 
+organizers assigned a probability of winning the race to each horse baesd on 
+horses health and training the probability that horse one would win is 1/7, that 2 
+would win is 1/8, and that 3 would win is 1/7.Assuming that tie is imposible Find 
+the chance that one of these three will win the race? 
+a)22/392 b)1/392 c)23/56 d)391/392 
+Solution-HORSE 1: 1/7 WINNING PROBABILITY 
+HORSE 2: 1/8 WINNING PROBABILITY 
+HORSE 3: 1/7 WINNING PROBABILITY 
+ONE OF THESE WIN THE RACE: 
+=> 1/7 + 1/8 + 1/7 
+=> 8/56 +7/56 + 8/56 (TAKING LCM) 
+=> 23/56 
+ 
+Q 30. Apple costs L rupees per kilogram for first 30kgs and Q rupees per kilogram 
+for each additional kilogram. If the price of 33 kilograms is 11.67and for 36kgs of 
+Apples is 12.48 then the cost of first 10 kegs of Apples is 
+a) 3.50 b) 10.53 c) 1.17 d)2.8 
+Solution-30L+3Q=11.67 
+30L+6Q=12.48 
+
+------------ 
+3Q=.81 Q= .27 
+from that L=0.362 cost of 10 kg apple is 10*.362=3.6 a) 3.50 
+ 
+Q 31. How many vehicle registration plate numbers can be formed with digits 
+1,2,3,4,5(no digits being repeated)if it is given that registration number can have 1 
+to 5 digits ? 
+a) 205 b) 100 c) 325 d) 105 
+Solution-you can have registration plates of 5,4,3,2 or 1 digits 
+So, it's 5*4*3*2*1 + 5*4*3*2 + 5*4*3 +5*4 + 5 
+=120 + 120 + 60 + 20 +5 
+=> 325 
+ 
+Q 32. Jake and Paul each walk 10 km. The speed of jack is 1.5 faster than paul 
+speed . what is the Jake's speed ? 
+a)4 b)6 c)7 d)8 
+Solution-Let pauls speed be x kmph 
+Then jacks speed is (x+1.5 ) kmph 
+(10/x)-(10/1.5+x)=1.5 
+X=2.5 
+Jacks speed=2.5+1.5=4kmph 
+ 
+Q33. In this question A^B means A raised to the power B. If f(x)=a*x^4-b*x^2+x+5. 
+f(-3)=2. Then f(3)=? 
+a)3 b) 7 c) 8 d) 6 
+Solution-Given that f(x)=a*x^4-b*x^2+x+5 
+and f(-3)=2 
+
+so => a*(-3)^4-b*(-3)^2+(-3)+5=2 
+=> 81a-9b+2=2 
+=> 81a-9b=0 -------equation(1) 
+now f(3)=a*(3)^4-b*(3)^2+3+5 
+=81a-9b+8 
+and from equation (1) 81a-9b=0 
+so f(3)=0+8=8 
+ 
+ 
+Q 34. Of a set of 30 numbers, average of first 10 numbers = average of last 20 
+numbers. Then the sum of the last 20 numbers is ? 
+(a)2 X sum of first ten numbers 
+(b)2 X sum of last ten numbers 
+(c)Sum of first ten numbers 
+(d)Cannot be determined with given data 
+Solution-since, average=(sum of n no.s)/(total no) 
+therefore, (sum of first 10 no.s)/10 ==(sum of last 20 no)/20 
+hence. (sum of last 20 no.s) = 2*(sum of first 10 no.s) 
+ 
+Q 35. Mother, daughter and infant total weight is 74 kg. Mother's weight is 46 kg 
+more than daughter and infant's weight. Infant's weight is 60% less than 
+daughter's weight. Find daughter's weight. 
+a)10 b)9 c)8 d) 7 
+Solution-Total Age is M+D+I=74 
+given that M-D-I=46 
+solving above 2 eq's we get Mother age = 60 
+
+now remaing age=14 which is sum of daughter and Infant age. 
+Given that Infant age is 60% lass than Daughter. 
+i.e If daughter age is 100 then infant age is 40. 
+So ages ratio Of D and I is 100 : 40 i.e ... 5 : 2 
+So (5+2)=7 parts equal to 14. 
+then 5 parts equal to 10. 
+2 parts equal to 4. 
+daughter age is =10 
+and infant age is = 4 
+Answer a) 10 
+ 
+Q 36. In a certain city, 60% of the registered voters are congress supporters and 
+the rest are BJP supporters. In an assembly election, if 75% of the registered 
+congress supporters and 20% of the registered BJP supporters are expected to 
+vote for candidate A, what percent of the registered voters are expected to vote 
+for candidate A? 
+a) 53 b) 20 c) 60 d) 75 
+Solution-let the people in the city be x 
+60% are congress=60% of x 
+40% are BJP=40% of x 
+out of 60%,75% voted for congress=75%(60% of x)=18x/40 
+out of 40%,20% voted for congress=20%(40% of x)=8x/100 
+total=18x/40+8x/100=106x/200 
+total percent=106x/200*100=53% of x 
+ 
+Q 37. In a particular year the month of january had exactly 4 thursdays and 4 
+sundays , on which day of the weekk, jan 1 occurs? 
+
+a) Monday b) Tuesday c) Thursday d) Wednesday 
+Solution-as there are 4 fulls weeks i.e 28 days.. 
+so..every day occurs min 4 times. 
+den remaining 3 days (as jan has 31 days) will be monday tuesday wednesday. 
+so on 31st jan comes wednesday. 
+so 1st jan ll be MONDAY 
+ 
+Q 38. A number when divided successively by 4 and 5 leaves remainder 1 and 4 
+respectively. when it is successively divided by 5 and 4, then the respective 
+remainders will be; 
+ 
+a). 1,2 
+b). 2,3 
+c). 3,2 
+d). 4,1 
+Solution-When dividing a positive integer nn by another positive integer DD (divider), we 
+obtain a quotient QQ, which is a non-negative integer and a remainder R, which is an 
+integer such that 0≤R<D0≤R<D. We can write n=DQ+R.n=DQ+R. 
+ 
+When dividing our number nn by 4 we obtain a remainder of 1, so, if the quotient 
+is some integer QQ, we can write n=4Q+1.n=4Q+1. 
+Now, dividing QQ by 5, we obtain another quotient say qq and remainder 4, thus 
+we can write Q=5q+4.Q=5q+4. 
+ 
+It follows that n=4(5q+4)+1=20q+17.n=4(5q+4)+1=20q+17. 
+Since n=20q+17=5(4q+3)+2n=20q+17=5(4q+3)+2, it means that when dividing nn 
+by 5 first, we get a quotient 4q+34q+3 and remainder 2. 
+
+Then dividing 4q+34q+3 by 4 we obviously obtain a remainder of 3. 
+Q 39. Average salary of 17 teachers is 45000.3 teachers left and the average 
+salary dropped by 2500.What is the sum of salaries of 3 teachers who left? 
+a)173000  b) 176000 c) 170000 d) 85000 
+Solution- Total Initial Salary : 17*45000 = 765000 
+Average Salary After removal of 3 Teachers = 45000-2500 = 42500 
+Total Final Salary : 14*42500 = 595000 
+Sum of Salaries of 3 teachers who left : 765000 - 595000 = 170000 
+ 
+Q 40. There are 20 persons sitting in a circle. In that, there are 18 men and 2 
+sisters. How many arrangements are possible, in which the two sisters are always 
+separated by a man? 
+a. 18!*2 
+b. 17! 
+c. 17!*2 
+d. 12 
+Solution- 18!*2 Consider 1 man along with two sisters as one group.. so they can 
+be arranged in 17! ways as circular.. The one man in between the two sisters can 
+be out of any 18 men.. so,17!*18.. and the two sisters can be arranged in 2 
+ways..so 18!*2 
+ 
+Q 41. a number plate can be formed with two alphabets followed by two digits 
+with no repetition. then how many possible combinations can we get? 
+a) 58500 b) 67600 c) 57850 d) 58761 
+Solution- no.of alphabets=26 (a-z), no.of digits=10(0-9).  
+ways of arranging two alphabets with out repetition=26*25; 
+ways of forming two digits without repetition=10*9 
+no.of combinations of forming the number on number plate= 26*25*10*9=58500 
+
+ 
+Q 42. The letters in the word "PLACES" are permuted in all possible ways and 
+arranged in the alphabetical order.Find the word at 48 position. 
+a)AESPCL 
+b)ALCEPS 
+c)ALSCEP 
+d)AESPLC 
+Solution- ans = (d) 
+for words AC**** possible ways for arranging * will be 4!=24 
+now next seq in alphabatical order will be AE**** so.... 
+same way for AE**** possible ways for arranging * will be 4!=24 
+.. 
+.. 
+Thus, 48th element will be last element in AE**** that means AE followd by 
+reverse alphabatical order! which is AESPLC 
+ 
+Q 43. A alone can do 1/4th of the work in 2 days. B alone can do 2/3th of the work 
+in 4 days. If all the three work together, they can complete it in 3 days so what 
+part of the work will be completed by C in 2 days? 
+A. 1/12  
+B. 1/8  
+C. 1/16  
+D. 1/20 
+Solution- A can do the total work in 8 days, and B can do it in 6 days. 
+Let the total work be 24 units. Now capacities are 
+A = 24/8 = 3, 
+B = 24/6 = 4, 
+
+A + B + C = 24/3 = 8 
+So Capacity of C = 1 unit. 
+In two days C will do 2 units which is 2/24th part of the total work. So 1/12th part. 
+ 
+Q 44. A sum is sufficient to pay either George age for 15 days or marks wage to 
+10dayshow long together? 
+a)5 b) 6 c) 8 d) 9 
+Solution- George one day work is (1/15) 
+Marks one day work is (1/10) 
+G+M=(1/15)+(1/10)=(1/6) 
+6 is the answer 
+ 
+ 
+ 
+ 
+ 
+Q 45. In how many ways a team of 11 must be selected a team 5 men and 11 
+women such that the team must comprise of not more than 3 men. 
+a) 1565          b) 2256             c) 2456            d) 1243 
+Solution- Maximum 3 men can be played which means there can be 0, 1, 2, 3 men 
+in the team. 
+(5C0×11C11)+(5C1×11C10)+(5C2×11C9)+(5C3×11C8)=2256 
+ 
+Q 47. how many prime numbers less that 100 and greater than 3 are of the 
+form:4x+1 , 5y-1 
+a) 11 b)12 c)7 d)None of the above 
+
+Solution- all the prime numbers between 3 and 100 
+are:5,7,11,13,17,19,23,29,31,37,41,43,47,53,59,61,67,71,73, 79, 83, 89 and 97 
+numbers must end with 4 or 9 to follow 5y-1 condition. 
+so the numbers are:29,89 
+so there are two numbers. 
+ 
+Q 48. Three dice are rolled. What is the probability of getting a sum of 13? 
+a) 19/216 b) 21/216 c) 17/216 d) 23/216 
+Solution- Just count the number of ways to get 13. We just need to count 
+possibilities for two dice because the third dice value is fixed. For two dice, the 
+sum can be anywhere from 7 to 12 and that would be 6 + 5 + 4 + 3 + 2 + 1 = 21. So, 
+the probability is 21/216  
+ 
+ 
+Q 49. On a 26-question test, five points were deducted for each wrong answer and 
+eight points were added for each correct answer. If all the questions were 
+answered, how many were correct if the score was zero?  
+a). 10  
+b). 11  
+c). 12  
+d). 13 
+Solution- if x no. of question is wrong and y no. of question is correct then 
+-5*x+8*y=0 and x+y=26 
+by solving we get 
+x=16 & y=10 
+ 
+ 
+
+Q 50.Two alloys A and B are composed of two basic elements. The ratios of the 
+compositions of the two basic elements in the two alloys are 5:3 and 1:2, 
+respectively. A new alloy X is formed by mixing the two alloys A and B in the ratio 
+4:3. What is the ratio of the composition of the two basic elements in alloy X? 
+a)1:1 b) 2:3 c) 5:2 d) 4:32 
+Solution- Let the actual amount of A be 4x and actual amount of B be 3x since A 
+and B are in the ratio 4/3  
+ 
+amount of first basic element in the new alloy T (5/8)*4x + (1/3)*3x = (7x)/2  
+ 
+amount of second basic element in the new alloy T (3/8)*4x + (2/3)*3x= (7x)/2  
+ 
+so ratio of first basic element to second basic element: [(7x)/2 ] / [ 7x/2] = 1/1 = 1:1 
+( Answer A) 
+ 
+Q 51. Babla alone can do a piece of work in 10 days ashu alone can do it in 15 
+days. The total wages for the work in Rs.5000 .how much should babla be paid of 
+they work together for entire duration of the work  
+a)4000 b)3000 c)5000 d)2000 
+Solution- babla 10 day------ now 30/10=3 unit per day 
+L.C.M = 30(total work they have to perform) 
+ashu 15 day------- 30/15=2 unit per day 
+ 
+so their ratios of work is 3:2 
+so babla will get 3/5*5000=3000 
+ 
+
+Q 52. Average of 3 numbers ABC is given as 48. Average of A,B,C,D is 46. Its 
+given that E is having 3 more than D, then Average of B,C,D,E is 45. What is the 
+score of A? 
+a) 46 b) 48 c) 49 d) 47 
+Solution- average A+B+C= 48; A+B+C=3*48=144; 
+average A+B+C + D= 46; A+B+C+D =4*46=184; 
+D=40; GIVEN E=D+3=40+3=43; 
+B+C+D+E=45*4= B+C+40+43=45*4  
+B+C=180-40-43 
+B+C=97 
+A+B+C=144 
+A+97=144 
+A=47 
+ 
+Q 53. Raj travels a part of journey by taxi paying 15 per km and rest by train 
+paying 21per km. If he travels a total of 450 Km and pay Rs.8130 then the distance 
+travelled by raj in train? 
+a) 230 b) 260 c) 190 d) 180 
+Solution- let the distance traveled by train =x 
+therefore distance travelled by taxi = (450-x) 
+now, 15*(450-x) + 21*x=8130 
+or, x=230 
+ 
+Q54. A sum is sufficient to pay either George age for 15 days or marks wage to 
+10dayshow long together? 
+a) 9 b) 5 c) 6 d) 8 
+Solution- George one day work is (1/15) 
+
+Marks one day work is (1/10) 
+G+M=(1/15)+(1/10)=(1/6) 
+6 is the answer 
+ 
+ 
+ 
+Q 55. Radius of the bigger circle is 1. Which area will be greater? 
+ 
+                                            
+ 
+a) 5 b) 4 c) cannot be determined d) none of these 
+Solution- If the radius of the bigger circle is 1, then diameter = 2 units.  Which in 
+turn equals to diagonal of square. 
+Let the side of the square be x. Then x2 + x2 = 22 ⇒ 2x2 = 4 ⇒ x = √22 
+Now diameter of the inner circle = side of the square.  So radius of the inner circle = 
+√22=1√222=12 
+Areas marked by 1, 2, 3, 4 = (Area of the circle - area of the square)/4 = 
+π(1)2−(√2)24π(1)2−(2)24 = π−24π−24 = 0.285 
+Areas marked by 5, 6, 7, 8 = (Area of the square - area of the inner circle)/4 = 
+(√2)2−π(1√2)24(2)2−π(12)24 = 2−π242−π24 = 0.1075 
+So Area marked by 4 is bigger. 
+ 
+Q 56. University of Vikram has enrolled nine Phd candidates.Babu Chitra,Dheeraj , 
+Eesha,Farooq,Gowri , Hameed,Iqbal,Jacob. 
+
+-Farooq and Iqbal were enrolled on the same day as each other, and no one else 
+was enrolled that day. 
+-Chitra and gowri were enrolled on the same day as each other, and no one else 
+was enrolled that day. 
+-On each of the other days of hiring , exactly one candidate was enrolled. 
+-Eesha was enrolled before Babu. 
+-Hameed was enrolled before Dheeraj 
+-Dheeraj was enrolled after Iqbal but before Eesha 
+- Gowri was enrolled after both Jacob and Babu 
+-Babu was enrolled before Jacob 
+Who were the last two candidates to be enrolled? 
+a)Gowri and Chitra b) Babu and Chitra c) Babu and Gowri d) Eesha and Jacob 
+Solution-  
+Given that 
+1.  Easha < Babu 
+2. Hameed < Dheeraj 
+3. Iqbal < Dheeraj < Easha 
+4. Jacob/Babu < Gowri 
+5. Babu < Jacob 
+from 1 and 5, Easha was before Babu and Jacob so she cannot be in the last two. 
+Option B ruled out 
+from 4 and 5, babu is before Jacob and Gowri so he cannot be in the last two. 
+Options a, c ruled out. 
+So option d is correct. 
+ 
+
+Q 56. A boy buys 18 sharpeners (brown or white) for Rs. 100. For every white 
+sharpener, he pays one rupee more than the brown sharpener. What is the cost of 
+white sharpener & how much did he buy? 
+a) 5,13 b)5,10 c)6,10 d) None of these 
+Solution- If he bought x white sharpeners @ Rs (y+1) and (18-x) brown 
+sharpeneres @ Rs y per sharpener, then  
+x*(y+1)+x*(18-x)=100 
+x= 100-18y  
+Only integral value of x less than 18 will be 10. 
+then x=10, y=5 
+so he bought 10 white sharpeners @ Rs 6 per sharpeners and 8 brown 
+sharpeners @ Rs 5 per sharpener. 
+c)6,10 
+ 
+Q 57. If M is 30% of Q, Q is 20% of P, N is 50% of P, Then M/N = ? 
+a) 4/3 b) 3/25 c) 6/5 d) 3/250 
+Solution- m=3/10q,q=1/5p,n=1/2p 
+here we can find d value of p and put into d second to get value of q 
+so m/n will be 3/25 
+ 
+Q 58. In a staircase, there are 10 steps. A child is attempting to climb the 
+staircase. Each time, she can either make 1 step or 2 steps. In how many different 
+ways can she climb the stair case? 
+a). 10 b). 21 c). 36 d). None of these. 
+Solution- she can go by  
+1 steps-1 way 
+ 
+
+that is choosing 1 two-step in 9 moves: 
+9C1 : 9 ways// 
+ 
+2 two-steps: 
+choosing 2 two-steps in 8 moves: 
+8C2 = 28 ways// 
+ 
+3 two-steps 
+7C3 = 35 ways// 
+ 
+4 two-steps// 
+6C4 = 15 ways// 
+ 
+5 two-steps// 
+which covers all the 10 stairs.. that means only one way 
+2 2 2 2 2 = 1 way// 
+ 
+Adding all the ways: 
+1 + 9 + 28 + 35 + 15 + 1 = 89 ways// 
+ 
+ 
+Q 59. Eesha bought two varities of rice costing 50Rs per kg and 60 Rs per kg and 
+mixed them in some ratio.Then she sold that mixture at 70 Rs per kg making a 
+profit of 20 % What was the ratio of the mixture? 
+a)1:10 b) 3:8 c) 1:5 d) 2:7 
+solution- let x be the price of the rice after mixing,then 
+
+120*x/100=70 
+x=175/3 by eligation method 
+the required ratio is(60-175/3):(175/3-50)=1:5 
+ 
+ 
+Q 60.Find the 32nd wordin the list where the word MONOS IS permuted in all 
+posiblities ways and arranged in alphabetical order. 
+a) OSMON b) OSNOM c) OSMNO d) ONMSO 
+Solution- 
+Arranging in alphabetical order MNOOS  
+M_ _ _ _ CAN BE ARRANGED IN 4!/2!=12 WAYS 
+N_ _ _ _ CAN BE ARRANGED IN 4!/2!=12 WAYS (12+12=24) 
+O_ _ _ _ CAN BE ARRANGED IN 4!/2!=12 WAYS (12+12+12=36) OUT OF BOUND 
+OM_ _ _CAN BE ARRANGED IN 3!=6 WAYS(12+12+6=30) 
+30TH WORD IS OMSON 
+31ST WORD IS ONMOS 
+32ND WORD IS ONMSO 
+ 
+Q 61. One card is lost out of 52 cards. two cards are drawn randomly. They are 
+spade. What is the probability that the lost card is also spade? 
+a)1/52 b)1/13 c) 1/4 d) 11/50 
+Solution- (13 - 2) / (52 - 2) = 11 / 50 
+ 
+Q 62. What is the value of 
+ 
+44444445*88888885*44444442*44444438/44444448^2 
+
+ 
+a)88888883 b)88888884 c)88888888 d)44444443 
+Solution- take x=44444444 
+that equ.can be written as- (x+1) (2x-3) (x-2)+(x-6) / x^2 
+solving equation we get 2x-5 
+substitute x=44444444 in above equation we get- 88888883 
+ 
+Q 63.Complete the series  4,20,35,49,62,74,? 
+a)76 b)79 c) 78 d) 85 
+Solution- 4+16=20 
+20+15=35 
+35+14=49 
+49+13=62 
+62+12=74 
+74+11=85 
+Q 64. Walking at 3/4 of his normal speed, Mike is 16 minutes late in reaching his 
+office. The usual time taken by him to cover the distance between his home and 
+his office is 
+ 
+a). 42 minutes 
+b). 48 minutes 
+c). 60 minutes 
+d). 62 minutes 
+Solution- Let s = his normal speed 
+t = his normal time 
+ 
+
+Then  
+D = (3/4)s * (t+16) 
+Since the distance is the same we can equate this to his regular day which is D = 
+s*t 
+s*t = (3/4)s * (t+16) 
+t=48 
+ 
+Q 65. The sum of 5 numbers in AP is 30 and the sum of their squares is 190. 
+Which of the following is the third term? 
+a)5 b) 6 c) 8 d) 9 
+Solution- consider the 5 numbers in AP as a-2d,a-d,a,a+d,a+2d; 
+given,a-2d+a-d+a+a+d+a+2d=30; 
+5a=30==>a=6 
+here a is the 3 rd term so..third term is 6. 
+ 
+Q 66. A, B and C can do a piece of work in 20, 30 and 60 days respectively. In how 
+many days can A do the work if he is assisted by B and C on every third day? 
+ 
+a). 12 days 
+b). 15 days 
+c). 16 days 
+d). 18 days 
+solution- A's 2 day's work =2 * (1/20)= 1/10  
+(A + B + C)'s 1 day's work =((1/20)+(1/30)+(1/60))= 1/10  
+Work done in 3 days =(1/10)+(1/10)= 1/5 
+Now, (1/5) work is done in 3 days. 
+
+Whole work will be done in (3 x 5) = 15 days. 
+ 
+ 
+Q 67. The least number which when divided by 48, 60, 72, 108 and 140 leaves 38, 
+50, 62, 98 and 130 as remainders respectively, is: 
+a) 4562 
+b) 15110 
+c) 2135 
+d) 7589 
+Solution- Here (48 - 38 ) = ( 60 - 50 ) = ( 72 - 62 ) = ( 108 - 98 ) = ( 140 - 130 ) = 10 in 
+every case  
+ 
+Leat number will be LCM of ( 48, 60, 72, 108, 140 ) - 10  
+ 
+LCM = 15120 
+ 
+So, required number = 15120 - 10 = 15110 
+ 
+Q 68. A sum of money is borrowed and paid back in two annual instalments of 
+Rs.882 each allowing 5% C.I.The sum borrowed was:      
+a) Rs.1680  b)  Rs.1142  c)  Rs.640  d)  Rs.1640 
+Solution- 
+amount=p*(1+r/100)^n 
+borrowed amount= 882 / (1+5/100) + 882 / (1+5/100)^2 
+= (882*20)/21 + (882*20*20)/(21*21) 
+= 1640 
+
+ 
+Q 69. how many parallelograms are formed by a set of 4parallel lines intersecting 
+an other set of 7 parallel lines. 
+a) 125 b)126 c) 127 d) 128 
+Solution- Let there be 4 horizontal set of parallel lines and 7 vertical set of parallel 
+line.(U can also consider vice-versa) 
+Now for a parallelogram, u need 2 horizontally parallel and 2 vertically parallel 
+lines ie. we need to choose 2 lines from each set.  
+So the solution will be 7C2*4C2=126 
+ 
+Q 70. A completes 80% of a work in 20 days. Then B also joins and A and B 
+together finish the remaining work in 3 days. How long does it need for B if he 
+alone completes the work? 
+a) 37 ½ b) 32 c)32 ½ d) 37 
+Solution-  let total work is 100 unit . 
+ 
+A can do 80 unit in 20 days ....so he can do 4 unit in 1 days . 
+ 
+now A has finished 80 units so remaining work is 20 unit  
+ 
+so , 20 unit work takes 3 days time to complete in which A will do 12 unit  
+ 
+(since A do 4 unit/days )  
+ 
+thus ,B do 8 unit in 3 days  
+ 
+
+and total work is 100 unit so B will take (3/8)*100 = 37.5 days to complete total 
+work 
+ 
+ 
+Q 71. a person starts writing all 4 digits numbers.how many times had he written 
+the digit 2? 
+a) 4200 b) 4700 c) 3700 d) 3200 
+Solution-1)when 2 is at unit place=9*10*10*1 
+2)when 2 is at tenth place=9*10*1*10 
+3)when 2 is at hundred place=9*1*10*10 
+4)when 2 is at thousand place=1*10*10*10 
+so total no. of 2s=900+900+900+1000=3700 
+ 
+ 
+Q 72. There is a tank,and two pipes A and B.A can fill the tank in 25 minutes and 
+B can empty the tank in 20 minutes.If both pipes are opened at same time.how 
+much time required the tank can fill? 
+a) 15 min b) 18 min c) 13 min d) Never be filled 
+Solution-We have pipe A filling the tank completely in 25 minutes. 
+Ie, it can fill 100% tank in 25 minutes. 
+Hence, in 1 min, the tank is filled = 100/25 = 4% 
+We have pipe B which can empty the tank in 20 minutes. 
+Hence, in 1 min, tank is empties = 100/20 = 5%. 
+Since we have the rate of emptying the tank more than the rate of filling the tank, 
+We can say that the tank will never get filled. 
+ 
+ 
+
+Q 73. An Old man and a Young man are working together in an office and staying 
+together in a near by apartment. The Old Man takes 30 minutes and the Young 20 
+minutes to walk from apartment to office. If one day the old man started at 
+10:00AM and the young man at 10:05AM from the apartment to office, when will 
+they meet? 
+a) 10:15 b) 10:30 c) 10:45 d) 10:00 
+Solution-Ratio of old man speed to young man speed = 2:3 
+The distance covered by old man in 5 min = 10 
+The 10 unit is covered with relative speed=10/(3-2)=10 min 
+so, they will meet at 10:15 am. 
+ 
+Q 74. the shopkeeper charged 12 rupees for a bunch of chocolate. but i bargained 
+to shopkeeper and got two extra ones, and that made them cost one rupee for 
+dozen less then first asking price . 
+how many chocolates i recieved in 12 rupees ?? 
+a)10 
+b)16 
+c)14 
+d)18 
+Solution-let no. of chocolates=x=x/12dozen 
+price of x/12 dozen is rs 12 
+so price of 1 dozen is 144/x 
+2nd condition 
+144/(x+2) +1=144/x 
+go through option x=16 
+Q 75. there are 16 teams divided in 4 groups.Every team from each group will play 
+with each other once. The top 2 teams will go to the next round and so on the top 
+
+two teams will play the final match. Minimum hw many matches will be played in 
+that tournament? 
+a) 43 b) 40 c) 14 d) 50 
+Solution-for first round 4*4C2=24 
+second round 2*4C2=12 
+1*4C2=6 
+FINAL=1 
+TOTAL=43 
+ 
+Q 76. A sealed envelope contains a card with a single digit written on it. Three of 
+the following statements are true and one is false. 
+I. The digit is 1. 
+II. The digit is not 2. 
+III. The digit is not 9. 
+IV. The digit is 8. 
+Which one of the following must necessarily be correct? 
+a) II is false 
+b) III is true 
+c) IV is false 
+d) The digit is even. 
+e) I is true 
+ 
+Solution-III is true 
+since when 3 is wrong then there are 2 possibilities that 1 or 8  
+which is not possible 
+ 
+
+Q 77. Tickets are numbered from 1,2....1100 and one card is drawn randomly what 
+is the probability of having 2 as a digit? 
+a) 29/110 b) 32/110 c) 30/110 d) 22/110 
+Solution-for every 100 probability of having 2 as digit is 19 and 2 is used 20 times 
+for every 100.according to qstn, there r 10 100's having 19 digits as 2 n 200 to 299 
+has 100 digits having 2. hence, 
+((10*19)+100)/1100=29/110 
+ 
+Q 78. How many 2’s are there between the terms 112 to 375? 
+a) 313 b) 159 c) 156 d) 315 
+Solution-156 
+from 112 to 199....(19) 
+from 200 to 299....(100+20) 
+from 300 to 375....(18) 
+so 100 + 19 + 18 + 20 -1=156  
+-1 bcz 112 shouldn't be taken 
+ 
+ 
+ 
+Q 79. Ram and Shakil run a race of 2000 meters. First, Ram gives Shakil a start of 
+200 meters and beats him by one minute. If , Ram gives Shakil a start of 6 minutes 
+Ram is beaten by 1000 meters. Find the time in minutes in which Ram and Shakil 
+can run the races separately. 
+a) 12,18 b) 10,12 c) 11,18 d) 8,10 
+Solution-Let x and y are the speeds of Ram and Shakil.. Then by problem we got 
+following equation 
+2000/x=(1800/y)-1 
+1000/X=(2000/y)-6 
+
+solve equation 1 and 2, we get x=250 and y=200 
+Therefore, Time taken by Ram and Shakilk to complete a race of 2000m is 8 min 
+and 10 Min 
+d) 8,10 
+ 
+Q80. The average temperature of June, July and August was 31 degrees. The 
+average temperature of July, August and September was 30 degrees. If the 
+temperature of June was 30 degrees, find the temperature of September (in 
+degrees). 
+a) 25 
+b) 26 
+c) 27 
+d) 28 
+Solution-c.27 
+June+July+August=3*31=93.......(1) 
+July+august+Sept=3*30=90........(2)June=30 
+Hence, putting june =30 in equ 1 
+July+August=63 
+putting in 2nd equ. 
+63+Sept=90 
+hence, Sept=27 
+ 
+Q 81.Three generous friends, each with some money, redistribute the money as 
+follows: Sandra gives enough money to David and Mary to double the amount of 
+money each has. David then gives enough to Sandra and Mary to double their 
+amounts. Finally, Mary gives enough to Sandra and David to double their 
+amounts. If Mary had 11 rupees at the beginning and 17 rupees at the end, what is 
+the total amount that all three friends have? 
+
+a) 105 b) 60 c) 88 d) 71 
+Solution-let sandra, david and mary each has s, d and 11(given) respectively. 
+After first distribution  
+David has d+d=2d, marry has 11+11=22 and sandra has s-d-11. 
+After second distribution, 
+sandra has 2*(s-d-11) , mary has 2*22=44 and david has 2d-(s-d-11)-22=3d-s-11. 
+After third distribution, 
+sandra has 2*2(s-d-11), david has 2*(3d-s-11) and mary has 44-2(s-d-11)-(3d-s-
+11)=77-s-d 
+It is given that finally Mary has 17 rs. So, 
+77-s-d=17 
+=>s+d=60 
+=> s+d+11(Mary's money)=60+11=71. 
+ 
+Q 82. George walks 36 kms partly at a speed of 4 kms per hour and partly at 3 km 
+per hour If he had walked at a speed of 3km per hour when he had walked at 4 
+and 4 km per when he had walked at 3 he would have walked only 34 kms. The 
+time (in hours) spent by George in walking was). 
+a) 8 b) 12 c) 5 d) 10 
+Solution-the question can be solved with the help of two equations... 
+4x+3y=36----equ(1) 
+3x+4y=34----equ(2) 
+by solving these two equations 
+x=6 and y=4 
+so total time is 10hours. 
+ 
+
+Q 83. The sum of the four consecutive two digit odd number when divided by 10 
+becomes a perfect square, which of the following can be one of these four 
+numbers? 
+a) 21 b) 25 c) 41 d) 67 
+Solution-Let the four 2-digit odd numbers be  
+n-3 n-1 n+1 n+3  
+Sum of the 4 numbers ==> 4n  
+acc to qn, when the sum is divided by 10  
+we get a perfect square...  
+perfect squares include==>1,4,9,16,25,36,49,.....  
+Possible values of 4n/10 ==> 4, 16,36...  
+If 4n/10=4  
+n=10  
+Hence, the corresponding nos are 7,9,11,13(all of which are NOT 2-digit nos)  
+If 4n/10=16  
+n=40  
+Hence the corresponding nos are 37, 39, 41, 43  
+If 4n/10=36  
+n=90  
+Hence the corresponding nos are 87, 89, 91, 93  
+The answer to the ques therefore is Option C 
+ 
+Q 84. Consider the sequence of numbers 0, 2, 2, 4,... Where for n > 2 the nth term 
+of the sequence is the unit digit of the sum of the previous two terms. 
+Let sn denote the sum of the first n terms of this sequence. what is the smallest 
+value of n for which sn>2771? 
+a) 692 b) 693 c) 694 d) 700 
+
+Solution-0 2 2 4 6 0 6 6 2 8 0 8 8 6 4 0 4 4 8 2 .0 2 2...this series will be repeated 
+after every 20 terms  
+sum of 20 terms of series=80 
+2771/80 quotient=34 remainder=51 sum of 13 terms =52 
+number of terms is 693 since 34*20=680 
+680+13 =693 
+sum of 693 terms will be > 2771 
+Q 85. a number plate can be formed with two alphabets followed by two digits 
+with no repetition. then how many possible combinations can we get? 
+a) 52500 b) 58500 c) 56500 d) 56800 
+Solution-no.of alphabets=26 (a-z), no.of digits=10(0-9).  
+ways of arranging two alphabets with out repetition=26*25; 
+ways of forming two digits without repetition=10*9 
+no.of combinations of forming the number on number plate= 26*25*10*9=58500 
+ 
+Q 86. I bought a certain number of marbles at rate of 59 marbles for rupees 2 
+times M, where M is an integer. I divided these marbles into two parts of equal 
+numbers, one part of which I sold at the rate of 29 marbles for Rs. M, and the 
+other at a rate 30 marbles for Rs. M. I spent and received an integral number of 
+rupees but bought the least possible number of marbles. How many did I buy? 
+a) 870 b) 102660 c) 1770 d) 1740 
+Solution-Let he bought x marbles.  
+59 marbles costs = Rs. 2M 
+Therefore, x marbles costs = Rs. (2M * x) / 59 
+Since the marble is divided into 2 equal parts so the number x should be an even 
+number. 
+For first x/2 marbles, 
+29 marbles s.p. is = Rs. M 
+
+Therefore, x/2 marbles s.p. = Rs. (M * x) / 58 
+For other x/2 marbles, 
+30 marbles s.p. is = Rs. M 
+Therefore, x/2 marbles s.p. = Rs. (M * x) / 60 
+Now we can't equate like [(M * x) / 58] + [(M * x) / 60] = (2M * x) / 59 
+because (M *x ) will get cancel each side and of course 1/58 + 1/60 is not equal to 
+2/59 
+So here we don't need M and we can cancel it. After that we have, 
+CP = 2x/59 
+For first x/2 marbles, 
+SP = x/58 
+And for other x/2 marbles, 
+SP = x/60 
+Now this CP and SP must be an integer (as per question). So we have to find a 
+number x which will be divisible simultaneously by 59, 58 and 60. So we have to 
+find the LCM of 59, 58, 60 which will turn out minimum value as 102660 and it is 
+even as well. So the value of x will be 102660 minimum 
+ 
+Q 87. Cara, a blue whale participated in a weight loss program at the biggest 
+office. At the end of every month, the decrease in weight from original weight was 
+measured and noted as 1, 2, 6, 21, 86, 445, 2676. While Cara made a steadfast 
+effort, the weighing machine showed an erroneous weight once. What was that.  
+a) 2676  
+b) 2  
+c) 445  
+d) 86 
+Solution-1*1+1=2 
+2*2+2=6 
+
+6*3+3=21 
+21*4+4=88 and not 86 
+ 
+Q 88. How many different integers can be expressed as the sum of three distinct 
+numbers from the set {3,8,13,18,23,28,33,38,43,48} 
+a) 421 b) 20 c) 10 d) 22 
+Solution-minimum sum of 3 no.=24 
+maximum sum =129 
+now the series 24,29,34,....................,129 
+no of terms ={(129-24)/5}+1=22 
+ 
+Q 89. Aman walking at the speed of 4 km/h crosses a square field diagonally in 3 
+minutes. The area of the field (in m2) is: 
+a) 20000 b) 21000 c) 25000 d) 26000 
+Solution-convert speed into m/s i.e 
+4*5/18 = 2/9 
+this is distance covered in 1 sec. 
+so distance covered in 3 min i.e 180 sec = 2/9*180  
+= 200m 
+this is the lenth of diagonal 
+and are of square = 1/2 (daigonal)*(diagonal) 
+1/2*200*200 
+20,000 m2 
+ 
+Q 90. A owes B Rs 50. He agrees to pay B over a number of consecutive day 
+starting on a Monday, paying single note of Rs 10 or Rs 20 on each day. In how 
+
+many different ways can A repay B. (Two ways are said to be different if at least 
+one day, a note of a different denomination is given)  
+a) 8 
+b) 7 
+c) 6 
+d) 5 
+Solution- 10,20,20=3!/2!==3 ways 
+10,10,10,20=4!/3!==4 ways 
+10,10,10,10,10=5!/5!==1 way 
+so.total=3+4+1==8 ways. 
+ 
+Q 91. The HCF of 2472, 1284 and a third number ‘N’ is 12. If their LCM is 2^3 × 3^2 
+× 5 × 103 × 107, 
+then the number ‘N’ is: 
+ 
+a) 2^2 × 3^2 × 7 
+b) 2^2 × 3^3 × 103 
+c) 2^2 × 3 × 5 
+d) None of these 
+Solution- 2472=8*3*103  
+1284=4*3*107 
+so n = 4*3*x 
+dividing by hcf 
+2472/12=2*103 
+1284/12=107 
+lcm/12=2*3*5*103*107 
+
+x=lcm/first*second 
+x=2*3*5*103*107/2*103*107=3*5=15 
+number is = 15*12=180 
+ans. d) 
+ 
+Q 92. A certain function f satisfies the equation f(x)+2*f(6-x) = x for all real 
+numbers x. The value of f(1) is 
+a) 2 
+b) can't determine 
+c) 1 
+d) 3 
+Solution- f(1)+2*f(6-1)=1......... (1) 
+f(5)+2*f(6-5)=5......... (2) 
+substituting we have (2) in (1) we have :- 
+-3f(1)=-9, 
+hence answer f(1)=3 
+Q 93. what is the value of 77!*(77!-2*54!)^3/(77!+54!)^3+54!*(2*77!-
+54!)^3/(77!+54!)^3 
+a)2*77!+2*54! b) 77!-54! c) 77!+54! d) 2*77!-2*54! 
+Solution-77!-54! 
+take 77!=a, 54!=b then we get in simple (a-2b)^3/a+b solve it u get a-b as answer 
+ 
+Q 94.Find sum of the series 1-2+3-4+....-98+99 
+a)-49 b) 0 c) 50 d)-50 
+Solution-(1+3+.....+99)-(2+4+....+98)ie 50 terms+49 terms resp. 
+using formla s=n/2[a+l] 
+
+we get, 50/2[1+99]-49/2[2+98] 
+den 2500-2450=50. 
+ 
+Q 95. In a city there are few engineering, MBA and CA candidates. Sum of four 
+times the engineering, three times the MBA and 5 times CA candidates is 3650. 
+Also three times CA is equal to two times MBA and three times engineering is 
+equal to two times CA. In total how many MBA candidates are there in the city? 
+a) 200 b) 300 c) 450 d) 400 
+Solution-e = no. of engineering students, m = no. of MBA students and c = no. of 
+CA students 
+4e + 3m + 5c = 3650, therefore e = (3650-3m-5c)/4 --------(1) 
+3c = 2m , therefore c = 2m/3 
+3e = 2c replacing e with (1) we get, 
+3(3650- 3m - 5c)/4 = 2c.....replacing c with 2m/3 and solving this equation we get m 
+= 450 
+So the number of MBA students is 450 
+ 
+Q 96. Find the sum of angles 1,2,3,4,5 in a star. 
+                                      
+a) 180 b) 300 c) 360 d) 400 
+Solution-et an angle of 5 star is a,b,c,d,e 
+then (180-a)+(180-b)+(180-c)+(180-d)+(180-e)=720 
+now a+b+c+d+e=900-720=>180 
+ 
+Q 97. Consider a triangle drawn on the X-Y plane with its three vertices at (41, 0), 
+(0, 41) and (0, 0), each vertex being represented by its (X, Y) coordinates. The 
+number of points with integer coordinates inside the triangle (excluding all the 
+points on the boundary) is 
+
+(1) 780 
+(2) 800 
+(3) 820 
+(4) 741 
+Solution-draw the triangle and view it carefully 
+The number of points with integer coordinates inside the triangle are 
+(1,39) 
+(1,38),(2,38) 
+(1,37),(2,37),(3,37) 
+....................... 
+........................... 
+(1,2),(2,2),(3,2),........(38,2) 
+(1,1),(2,1),(3,1),(4,1)...(38,1),(39,1) 
+so total no of points are=1+2+3+...+38+39 
+=39*(39+1)/2=39*20=780 
+ANS(1) 
+ 
+Q 98. the marked price of coat was 40%less than the suggested retail price. Eesha 
+purchased the coat for half of the marked price at the 15th anniversary sale. What 
+percent less than the suggested retail price did eesha pay? 
+a)60% b)20% c)70% d)30% 
+Solution-suppose retail price = 100 
+so the market price will be = 60 
+as given coat purchased = half f d market price = 30 
+so its clear isha paid 70% less than retail price. 
+ 
+
+Q 99. There is a school were 60% are girls and 35% of the girls are poor. 
+Students are selected at random, what is the probability of selecting a poor girl 
+out of total strength. 
+a) 21 b) 27 c) 28 d) 29 
+Solution- '21 will be the probability of poor girl out of total strength.... 
+ 
+let 100 be the total strength 
+60% out of 100= 60 number of girls 
+now 35% of gals are poor ..i.e. (35/60)*100 are poor girl=21 
+ 
+so 21% of total strength are poo... i.e. the probability is .21 
+ 
+Q 100. If m+n is divided by 12 leaves a reminder 8,If m-n is divided by 12 leaves a 
+reminder 6,then If mn is divided by 6 what is the reminder? 
+ a) 4 b) 3 c) 2 d) 1 
+Solution- let m=19 and n=1; 
+m+n=20, gives the remainder=8 
+m-n=18, remainder=6 
+so mn=19*1=19 after division by 6 it wud giv the remainder 1...:) 
+ 
+ 
+Q 101. there is conical tent in which 10 persons can stand. Each person need 6m 
+square to stand and 60m cube air to breath. what is the height of tent? 
+a) 60 b) 30 c) 20 d) 45 
+Solution-Amount of area reqd. by 1 person to stand = 6 sq.metre 
+Amount of area reqd. by 10 person to stand = 6x10 sq.metre i.e 60 sq.metre 
+
+So, 
+Base Area, pi*r*r=60 
+=>r*r = 60/pi ---------------(1) 
+Now, 
+Volume of air reqd. to breathe 1 person= 60 cu.metre 
+Volume of air reqd. by 10 person to breathe = 60x10=600 cu.metre 
+So, 
+Volume, 1/3*pi*r*r*h = 600 ---------------------(2) 
+Putting the value of eqn 1 in eqn 2, we get 
+1/3*pi*60/pi*h = 600 
+==> 1/3*60*h = 600 
+==> 20*h = 600 
+==> h = 600/20 = 30 
+Therefore height = 30 metres 
+ 
+Q 102. In a triangle ABC, the lengths of the sides AB and AC equal 17.5 cm and 9 
+cm respectively. Let D be a point on the line segment BC such that AD is 
+perpendicular to BC. If AD = 3 cm, then what is the 
+radius (in cm) of the circle circumscribing the triangle ABC? 
+a) 17.05 b) 27.85 c) 22.45  d) 26.25 
+Solution-circum radius = R 
+Area of the triangle ABC = Δ = ½ (BC)(AD) = ½ (a)(3) = 3a/2 
+The formula here is : R = abc/4Δ = abc / 4(3a/2) = bc/6 = (17.5)(9)/6 = 26.25 
+ 
+ 
+
+Q 103. A rectangle is divided into four rectangles with area 70,36,20 and X. The 
+value of X is:                       
+a) 350/90 b) 350/7 c) 350/11 d) 350/13 
+Solution-70/x = 36/20 
+=> x*36= 20*70 
+=> x= 20*70/36 = 350/9 
+ 
+Q 104. the ratio of radii of cylinder to that of cone is 1:2.heights are qual.find ratio 
+between volume. 
+ 
+a) 3:4 b) 1:2 c) 1:4 d) 4:1 
+Solution-Let ratio of radius of cylinder to cone=...r1/r2=1/2 
+Volume of cylinder=π*r1^2*h 
+Volume of cone=π*r2^2*h/3 
+Ratio of volumes=3*(r1/r2)^2= 3:4 
+ 
+Q 105. A hollow pipe has circumference 14 cm. A bug is on its wall at a distance 
+of 48 cm from top. A drop of honey is on the wall at 24 cm from top but 
+diametrically opposite to bug. Find the shortest distance bug has to travel to 
+reach honey. 
+a) 25 cm  b) 39 cm c) 21 cm d) 24 cm 
+Solution-Total Vertical Distance bug has to through = 24 cm Circumference of 
+pipe= 14 cmSince bug has to move to diametrically opposite side, it has to cover 
+half of the circumference = 14/2 = 7 cmSO by Pythagoras, diagonal distance 
+would be = sqrt(7^2+24^2) = sqrt(625) = 25 cm 
+Q 106. if a ladder is 100m long, and distance b/w bottom of ladder and wall is 60. 
+top side of bottom and wall is joint. 
+what is the maximum size of cube that place b/t them. 
+
+a) 34.28 b) 24.28 c) 21.42 d) 28.56 
+Solution- using trigonometry we have 
+(80/60)=tan(y)....1 
+(x/60-x)=tan(y)....2 
+solve it... u will have 35 so a) 34.28 
+ 
+Q 107. what is the next three numbers for the given series? 11 23 47 83 131 
+a)145 b) 178 c) 176 d) 191 
+Solution- there are multiples of 12: 
+11+12=23 
+23+(12*2)=47 
+and so on .....answer is 191 as 131+(12*5)=191 
+ 
+ 
+Q 108. A series of book was published at 7 year intervals.When the 7th book was 
+issued the sum of publication year is 13524.When was the 1st book published ? 
+a) 1911 b) 1910 c) 2002 d) 1932 
+Solution- sum of A.P. series=(n/2)(2*a+(n-1)*d) 
+here sum=13524,n=7,d=7 substituting these values in above eq. n solving we get  
+a=1911 
+which was the 1st book published year. 
+ 
+Q 109. There are 14 digits of credit card number to be filled. Each of the below 
+three boxes contains continuous digits of 18 as sum. Given: 4th digit is 7 and 7th 
+digit is x. Then what is the value of x? 
+a) 1 b) 7 c) 4 d) 2 
+
+Solution- a+b+c=18 and b+c+d=18 
+given d=7 ,so b+c=11 
+then we get b=5 and c=6 
+c+d+e=18, so e=18-(c+d)=5 
+since d+e+f=18 
+we get f=7 ie x=7 
+ 
+Q 110. Crusoe hatched from a mysterious egg discovered by Angus, was growing 
+at a fast pace that Angus had to move it from home to the lake. Given the weights 
+of Crusoe in its first weeks of birth as 5, 15, 30,135, 405, 1215, 3645. Find the odd 
+weight out. 
+a) 3645  
+b) 135  
+c) 30  
+d) 15 
+Solution- 30. 
+5 
+5*3=15 
+15*3=45(here it is given as 30) 
+45*3=135 
+135*3=405 
+405*3=1215 
+1215*3=3645 
+ 
+Q 111. Arun makes a popular brand of ice-cream in a rectangular shaped bar 6 cm 
+long, 5 cm wide and 2 cm thick. To cut costs, the company had decided to reduce 
+
+the volume of the bar by 19%. The thickness will remain the same, but the length 
+and width will be decreased by the same percentage. The new width will be. 
+a) 4.5cm b) 5.5cm c) 6.5 cm d) 7.5cm 
+Solution- volume v=l*b*t 
+new volume is 81% of old v. 
+therefore new vol = 81%(v)=l'*b'*t 
+=> 81% (l*b*t) = l'*b'*t 
+=> 81% (l*b) = l' * b' 
+since the change in new l and b is the same. hence consider change to be x. 
+=> 81% (l*b) = xl*xb 
+81%=x^2 
+x=9%. 
+9% change in 5cm width is 0.45 
+therefore new width is 5-0.45=4.55cm 
+Q 112. A can complete a piece of work in 8 hours, B can complete in 10 hours and 
+C in 12 hours. If A,B, C start the work together but A laves after 2 hours. Find the 
+time taken by B and C to complete the remaining work. 
+ 
+a) 2 (1⁄11) hours 
+b) 4 (1⁄11) hours 
+c) 2 (6⁄11) hours 
+d) 2 hours 
+Solution- A,B,C 1 hour work is=1/8+1/10+12= 37/120 
+A,B,C work together for 2 hours, so,A,B,C 2 hours work is: (37/120)*2=37/60 
+remaining work=1-37/60=23/60 (23/60 work is done by B and C together) 
+B,C 1 hour work is= 1/10+1/12=11/60 
+
+23/60 hours work done by B,C= (11/60)* (60/23)=11/23 
+so... ans is: 2(1/11) 
+ 
+Q 113. What is the greatest possible positive integer n if 8^n divides (44)^44 
+without leaving a remainder? 
+a)14 b)28 c)29 d)15 
+Solution- 44^44 = 2^88 *11^44  
+= 8^29 * 2 * 11^44 
+so ans is 29 
+ 
+ 
+ 
+Q 114. A tree of height 36m is on one edge of a road of width 12m. It falls such 
+that the top of the tree touches the other edge of the road. Find the height at 
+which the tree breaks. 
+a) 16 b) 24 c) 12 d) 18 
+Solution- let the height at which it broke be Xmt 
+let the length of other piece be Ymt which touches ground 
+X+Y=36; 
+Y^2 - X^2 = 144 
+ 
+then on solving x=16mt 
+ 
+Q 115. How many 6 digit even numbers can be formed from digits 1 2 3 4 5 6 7 so 
+that the digit should not repeat and the second last digit is even? 
+a)6480 b)320 c)2160 d)720 
+Solution- given 6th digit even number , so last digit 2 or 4 or 6-> 3 ways 
+
+" 5th digit should be even...so there will be 2 ways(rep. not allowed) 
+so,therefore we get 5*4*3*2*2*3=720 ways 
+ 
+Q 116. At the end of 1994 rohit was half an old as his grand mother.The sum of 
+years in which they were born is 3844. How old rohit was at the end of 1999. 
+a) 48 b) 55 c) 49 d) 53 
+Solution- let at the end of 1994 grand mother's age is x 
+and rohit's age x/2 
+then we can say....birth year of GM is =(1994-x) 
+and rohit is = (1994 - x/2) 
+sum of years is 3844 
+i.e (1994 -x) + (1994 - x/2) = 3884 
+=> x = 96 
+i.e GM age is 96 
+so rohit age will be 96/2 = 48 years 
+in 1994 age is 48 
+1995 49 
+1996 50 
+1997 51 
+1998 52 
+1999 53 
+so ans should be 53 years....... 
+ 
+Q 117. Find the number of divisors of 1728.? 
+a) 28 b) 21 c) 24 d) 18 
+
+Solution- 1728= 2^6 * 3^3 
+Hence the Number of factors = (6+1) x (3+1) = 7 x 4 = 28. 
+We know that if a number represented in standard form (a^m *b^n) , then the 
+number of factors Is given by (m+1)(n+1). 
+ 
+Answer is 28 
+Q 118. 17 x 8 m rectangular ground is surrounded by 1.5 m width path. Depth of 
+the path is 12 cm. Gravel is filled and find the quantity of gravel required. 
+a) 5.5 
+b) 7.5 
+c) 6.05 
+d) 10.08 
+Solution- area of the rectangular ground=(17*8)m^2=136 m^2 
+taking into account the path: 
+total area=[(17+(2*1.5))*(8+(2*1.5))]=220 m^2 
+area of the path=220-136=84m^2 
+gravel required=[84*(12/100)]=10.08m 
+ 
+Q 119. Ashok, Eesha, Farookh, and Gowri ran a race. Ashok said, “I did not finish 
+1st or 4th “.  
+Eesha said, “I did not finish 4th ”. Farookh said, “I finished 1st ”. Gowri said, “I 
+finished 4th ”. There were no ties in the competition, and exactly three of the 
+children told the truth. Who finished 4th? explain 
+a) Farookh  
+b) Eesha  
+c) Gowri  
+d) Ashok 
+
+Solution- Gowri finished with 4th place: 
+According to the qsn : 
+exactly three of the children told the truth. 
+then 4conditions may arise i.e. 
+TTTF,TTFT,TFTT,FTTT 
+For 1st condition : 
+Let Gowri lies that means she nver be in 4th Place and other 3 tell the truth then 
+nobody is in 4th place 
+so from the above we conclude that Gowri finished at the 4th 
+ 
+ 
+Q 120. A circle has 29 points arranged in a clockwise manner numbered from 0 to 
+28, as shown in the figure below. A bug moves clockwise around the circle 
+according to the following rule. If it is at a point i on the circle, it moves clockwise 
+in 1 second by ( 1 + r ) places, where r is the reminder ( possibly 0 ) when i is 
+divided by 11. Thus if it is at position 5, it moves clockwise in one second by ( 1 + 
+5 ) places to point 11. Similarly if it is at position 28 it moves ( 1 + 6 ) or 7 places 
+to point 6 in one second. If it starts at point 23, at what point will it be after 2012 
+seconds? 
+                                              
+a) 1 b) 7 c) 15 d) 20 
+Solution- after 1st second : (1+23%11 = 1) = 2 places [25] 
+after 2nd second : (1+25%11 = 3) = 4 places [0] 
+after 3rd second : (1+0%11 = 0) = 1 place [1] 
+after 4th second : (1+1%11 = 1) = 2 places [3] 
+after 5th second : (1+3%11 = 3) = 4 places [7] 
+after 6th second : (1+7%11 = 7) = 8 places [15] 
+after 7th second : (1+15%11 = 4) = 5 places [20] 
+
+after 8th second : (1+20%11 = 9) = 10 places [1] 
+now,for the same pattern from 4th sec to 8th sec will repeat itself (5 sec intervals).. 
+ 
+total time = 2012 secs 
+first 3 secs out of pattern...so time left 2012 - 3 =2009 secs 
+ 
+now no. of repetitions in the leftover time = 2009/5 = 401....remainder = 4 
+for the next 4 iterations following the similar pattern  
+ 
+the position will be 20.. 
+ 
+Q 121. A team won 80% of the games it played. It played 5 more games of which it 
+won 3 and lost 2. Its loss percentage changed to 25%. How many games did it 
+play overall? 
+a) 20  
+b) 14 
+c) 16 
+d) 25 
+Solution- ans= 20 
+if game played=x 
+then lost game=x/5 
+now they played 5 more games in which they lost 2 
+so, (x+5)*25/100=x/5 + 2 
+x=15 
+so total game he played=15+5 = 20 
+ 
+
+Q 122. find the sum of the series given below 1(1!)+2(2!)+3(3!)+.........+2012(2012!) 
+a) 2013!+1 b) 2013!-1 c) 2012!+1 d) 2013!-1 
+Solution- let x = 1(1!)+2(2!)+3(3!)+.........+2012(2012!) & y = 1!+2!+3!+.........+2012! 
+x+y = 2(1!)+3(2!)+....+2013(2012!) = 2!+3!+....+2012!+2013! 
+x+y+1 = 1!+2!+3!+.........+2012!+2013! = y+2013! 
+x = 2013! -1 
+ 
+Q 123. there is a circle which circumscribes three unit circle which are tangential 
+to each other.what is the circumference of bigger circle.? 
+a) pi(4+2sqrt3)/sqrt3 b) pi(6+2sqrt3)/sqrt3 c) pi(3+2sqrt3)/sqrt3 d) 
+pi(6+2sqrt3)/sqrt3 
+Solution- Just draw according to question, 
+now, join the center of the smaller circles.  
+radius of bigger circle= 1+ radius of circle circumscribing the equilateral triangle. 
+Hence radius of bigger circle = 2/root 3 + 1 
+Hence circumferance = 2* pie * R  
+ie. pi(4+2sqrt3)/sqrt3 
+ 
+Q 124. a man starts work on monday and works for 8 days and works for every 
+ninth day as his holiday. His 12th day will be on which day 
+a) Monday b) Wednesday c) Thursday d) Tuesday 
+Solution- his work cycle includes 9 days(Mon-Mon=8days and 1 day Tue is 
+holiday) 
+so to get 12 holiday there should be 12 cycle=12*9=108 days 
+get remainder by dividing it by 7(108/7 i.e 3) 
+hence from monday 3rd day is wensday 
+ 
+
+Q 125. the value of a scooter depreciates in such a way that at the end of each 
+year, is ¾ of its value at the beginning of same year. If the initial value of the 
+scooter is rs40,000. What is the value at the end of 3yrs? 
+a)23125 b)19000 c)13435 d)16875 
+Solution- As, it is given that , the cost becomes 3/4 at the end of year. 
+so, after 3 years ,the price of Scooter=40000*3/4*3/4*3/4= Rs.16875 
+ 
+Q 126. At 12:00 hours jake starts to walk from his house at 6kms an hour. At 13:30 
+hours, paul follows him from jake's house on his bicycle at 8 kmph. When will 
+jake be 3 kms behind paul? 
+a) 19:00 b) 18:30 c) 20:00 d) 19:30 
+Solution- upto 13:30 jake covered 6*1.5=9km 
+then paul need to be ahead of 3 km.so he go 12km. 
+their relative speed is 2km per hour.(same direction). 
+so 12km divided by 2 is 6hrs. 
+hence from 13:30hrs ,6hrs is added.so answer is 19:30 hours. 
+ANS:19:30 hrs 
+ 
+Q 127. There are five boxes in a cargo hold. The weight of the first box is 200 kg 
+and theweight of the second box is 20% higher than the weight of the third box, 
+whose weight is 25% higher than the first box’s weight. The fourth box at 350 kg 
+is 30% lighter than the fifth box. Find the difference in the average weight of the 
+four heaviest boxes and the four lightest boxes. 
+a) 80 kg  
+b) 75 kg 
+c) 37.5 kg  
+d) 116.8 kg 
+Solution- weight of 1st box=200 kg 
+
+so weight of 3rd box=250 kg  
+weight of 2nd box = 300 kg nd 4th box= 350  
+thus 5th box=500 kg 
+avg weight of four heaviest boxes= 1400/4=350  
+nd lightest box=1100/4=275 
+diff=75 kg 
+ 
+Q 128. A rectangle of height 100 squares and width 200 squares. Squares is 
+drawn on a graph paper. It is colored square by square from top left corner and 
+moving across in a spiral turning right. Whenever a side of this rectangle or a 
+colored square is reached. Which square is colored last (give its row and column 
+numbers). The bottom right square is on row 100, column 200? 
+a) 51,150 
+b) 51, 50 
+c) 50, 150 
+d) 50, 50 
+Solution- For (4, 8) rectangle, ends at (3, 2) 
+Likewise, 
+For (2, 4) rectangle, ends at (2, 1) 
+For (3, 6) rectangle, ends at (2, 5) 
+For (4, 8) rectangle, ends at (3, 2) 
+For (5, 10) rectangle, ends at (3, 8) 
+For (6, 12) rectangle, ends at (4, 3) 
+For (7, 14) rectangle, ends at (4, 11) 
+For (8, 16) rectangle, ends at (5, 4) 
+For (9, 18) rectangle, ends at (5, 14) 
+For (10, 20) rectangle, ends at (6, 5) 
+
+Analyzing the above 10 points: 
+We can get some idea that, 
+For Even number of rows, End points column increases 1 by previous column. 
+For Odd number of rows, End points column difference of the present column 
+and the previous even number column. 
+For End point row, the value repeats two times from row 2. 
+In our problem, (100, 200) i.e. 
+Even number row, 
+So End point column value must be 50 for 200 columns and End point row value 
+must be 51 for 100 rows. 
+For even number of rows and columns, 
+Condition: Column =2*Row 
+Endpoint (R, C) = {((Row/2) +1), Column/4} 
+so last square to be coloured is (51, 50) 
+ 
+Q 129. A bag contains six sticks of the following lengths 1 cm, 3 cm, 7 cm, 11 cm 
+and 13 cm. three sticks are drawn at random from the bag. What is the probability 
+that we can form a triangle with those sticks? 
+a) 11/20 
+b) 1 
+c) 1/4 
+d) 2/5 
+Solution- A bag contains six sticks of the following lengths 1 cm, 3 cm, 7 cm, 
+5cm,11 cm and 13 cm. three sticks are drawn at random from the bag. What is the 
+probability that we can form a triangle with those sticks 
+total possibilities=6c3=20 
+now for making a triangle,, the sum of any 2 sides must be greater than 3rd side 
+so 
+
+3 5 7  
+3 11 13 
+5 7 11 
+7 11 13  
+5 11 13 
+5/20=1/4 
+ 
+Q 130. 3 mangoes and 4 apples costs Rs 85. 5 apples and 6 peaches costs Rs. 
+122. 6 mangoes and 2 peaches cost Rs.114. what is the combined price of 1 apple, 
+1 peach and 1 mango? 
+a) 37 Rs  
+b) 39 Rs  
+c) 35 Rs  
+d) 36 Rs 
+Solution- 3m+4a=85...(i) 
+5a+6p=122....(ii) 
+6m+2p=114....(iii) 
+Adding (i) (ii) (iii) we get 
+9a+9m+8p= 321 
+9a+9m+9p= 321+p 
+a+m+p=(321+p)/9------(iv) It must have to be a integer number. 
+To make (iv) as an integer p must have to be either 3 or (3+9) or (3+18)or..... 
+Let check it out.. 
+if p=3 then  
+5a+18=122 
+5a=104 
+
+a!= an integer so p=3 is false 
+If a=12, then 
+by(ii) 
+5a=122-72 
+a=10 
+by(i) 
+3m=85=40 
+a=15 
+a+m+p= 15+10+12=37. 
+ 
+Q 131. how many number x (x being an integer) with 10<=x<=99 are 18 more than 
+sum of their digits? 
+a)12 
+b)9 
+c)18 
+d)10 
+Solution- Let the no. be 10y+z. 
+then, 
+10y+z= y+z+18 
+=> Y=2 
+So the no. are 20, 21, 22, 23, 24, 25, 26, 27, 28, 29. Total nos. 10 
+ 
+ 
+Q 132. F, G, H, K, L, M and N are 8 people. They need to group into 2 with the 
+condition. 
+* F and J must be same group 
+
+* G and N must be in different groups 
+* H and L must be in same group 
+* M and G are not in the same group 
+Correct ordering of groups  
+a) FJ,KL,MN,GH  
+b) FH,JL,MN,GK  
+c) FJ,HL,MN,GK  
+d) FJ,Hl,MN,GH 
+Solution- ans is c because c satisfies all the conditions specified 
+ 
+Q 133. In how many ways can the digit of the number 2233558888 be arranged so 
+that the odd digits are placed in the even positions? 
+a) 900 b) 450 c) 225 d) 360 
+Solution- odd place combination = 5!/2!*2!=30 
+even place combination= 6!/2!*4!=15 
+to total=30*15=450 
+ 
+Q 134. Find the probability that a leap year chosen at random will contain 53 
+sundays. 
+a) 2/7 
+b) 3/7 
+c) 1/49 
+d) 1/7 
+Solution- In leap year,we have 366 days. 
+366/7=52Weeks+2days 
+we have already 52 sundays,mondays,etc. 
+
+then we have 2 days may be 
+{sunday,monday} , {monday,tuesday} , {tuesday,wednesday} ,....{saturday,sunday} 
+we have 2 possible chances out of 7. 
+hence ans:2/7. 
+ 
+Q 135. A shop sells chocolates It is used to sell chocolates for Rs.2 each but 
+there were no sales at that price.When it reduced the price all the chocolates sold 
+out enabling the shopkeeper to realize Rs 164.90 from the chocolates alone If the 
+new price was not less than half the original price quoted How many chocolates 
+were sold? 
+a) 39 b) 97 c) 37 d) 71 
+Solution- just go on trial and error method until u get u a integer. 164.90/1.7=97 
+ 
+Q 136. The Mean of three numbers is 10 more than than the least number and 15 
+less than the highest. Their median is 5. Find the sum of the three numbers. 
+a) 5 b) 20 c) 30 d) 25 
+Solution- given: x+y+z/3=m 
+y=5; 
+m=x+10;x=m-10; 
+z=m+15 
+sub in above give eq u will get m= 10; 
+sub in x, y, z =0,5,25=total=30 
+ 
+Q 136. what is the remainder of (16937^30)/31 
+a) 1 b) 2 c) 3 d) 6 
+Solution- 16937=16926+11,now 16926 is completely divisible.. So Wat remains is 
+(11^30)/31 
+
+Which is (11^6)^5./31 
+11^6 gives 4 as remainder..so 4^5/31 is remaining...which gives 1 as remainder. 
+ 
+Q 137. 8+88+888+.....+8888........8888. There are 21 “8” digits in the last term of the 
+series.  
+Find the last three digits of the sum. 
+a) 458 b) 648 c) 658 d) 568 
+Solution- 21*8=168 carry 16 
+20*8=160+16=176 carry 17 
+19*8=152+17=169 
+the value is 968 
+ 
+Q 138. If x^y denotes x raised to the power y, find last two digits of (1941 ^ 3843)+ 
+(1961 ^4181). 
+a) 02 b) 82 c) 42 d) 22 
+Solution- we should use power cycle method 
+take last 2 digit of 1941 take last 2 digits of 1961 
+41^1=41 r=1 61^1=61 r=1 
+41^2=81(take last 2 digits of ans)r=2 61^2=21 r=2 
+41^3=21 r=3 61^3=81 r=3 
+41^4=61 r=4 61^4=41 r=4 
+41^5=01 r=0 61^5=01 r=0 
+41^6=41 61^6=61 
+hence power cycle is repeating and it is 5 hence for 1961 it is 5 
+r-remainder for 1961 powercycle-5 
+for 1941 powercycle-5 4181mod5=rem1=61  
+
+3843mod5=rem 3=21 
+therefore 21+61=82 
+ 
+Q 139. in a g6 summit being held in London a French, a german, an Italian, a 
+british, a Spanish and a polish diplomat represent their respective countries and 
+participate in a round table conference to strengthen the co operation between 
+these countries. There are exactly 6chairs evenly spaced around a circular table. 
+The chairs are numbered 1 through 6, with successively numbered chairs next to 
+each other and chair number 1 next to chair no6. Each chair is occupied by one of 
+the diplomats. The following conditions apply. 
+• Polish sits immediately next to british 
+• German sits immediately next to Italian 
+• French doesn’t sit immediatedly next to Italian 
+• If Spanish sits immediatedly next to polish, Spanish doesn’t sit next to 
+Italian 
+Which of the following seating arrangement of the 6 diploamts in chair 1-6 would 
+not violate the given conditions? 
+A) French, polish, british, Italian, Spanish, german 
+B) French, german, Italian, polish, british, Spanish 
+C) French, german, Italian, Spanish, polish, british 
+D) French, Spanish, polish, british, german, Italian 
+ 
+a) C b) D c) A d) B 
+ 
+Solution- from the above inference its clear that german sits beside italian but 
+spanish must sit beside polish and polish sits nxt to british. So D matches n 
+hence option b)D 
+ 
+
+Q 140. Figure shows an equilateral triangle of side of length 5 which is divided 
+into several unit triangles. A valid path is a path from the triangle in the top row to 
+the middle triangle in the bottom row such that the adjacent triangles in our path 
+share a common edge and the path never travels up (from a lower row to a higher 
+row) or revisits a triangle. An example is given below. How many such valid paths 
+are there? 
+  
+a) 120 b) 16 c) 23 d) 24 
+Solution- given side length=5 .....so (n-1)!=(5-1)!=4! 
+ans is 24 
+ 
+Q 141. A sum of rs 3000 is distributed amongst A, B, and C. A gets 2/3 of what B 
+and C got together and c gets 1/3 of what A and B got together, C's share is? 
+a) 1200 b) 2250 c) 750 d) 1050 
+Solution- A+B+C=3000 from data it is clear that A=2/3(B+C) and C=1/3(A+B) 
+==> 3C=A+B so replace A+B can be replaced by 3c..... 
+===> 4c=3000 and now c=3000/4===>750... So c gets 750 
+ 
+Q 142. Joke is faster than Paul, Joke and Paul each walk 24 KM. The sum of their 
+speed is 7 Km per hour. And the sum of times taken by them is 14 hours. Then, 
+Jake speed is 
+a) 7 kmph b) 3 kmph c) 5 kmph d) 4 kmph 
+Solution- peed=TimedistanceSpeed=Timedistance 
+let the speed of joke x then speed of paul will be 7-x 
+24x+247−x=1424x+247−x=14 
+Try to plugin the values from the options. If Jake speed is 4 the paul is 3. 
+ 
+
+Q 143. A child is looking for his father. He went 90 meters in the east before 
+turning to his right. He went 20 meters before turning to is right again to look for 
+his father at his uncle's place 30 meters from this point. His father was not there. 
+From there, he went 100 meters to his north before meeting his father in a street. 
+How far did the son meet his father from starting point ? 
+a) 80 metre 
+b) 90 metre 
+c) 100 metre 
+d) 110 metre 
+Solution- Clearly, the child moves from A to B 90 metres eastwards upto B, then 
+turns right and moves 20 metre upto C, then turns right and moves upto 30 metre 
+upto D. Finally he turns right and moves upto 100 metre upto E. 
+ 
+So AB = 90 metre, BF = CD = 30 metre, 
+So, AF = AB - BF = 60 metre 
+ 
+Also DE = 100 metre, DF = BC = 20 metre 
+So, EF = DE - DF = 80 metre 
+ 
+as we can see in image that triangle AFE is a right angled triangle and we are 
+having two sides, need to calculate third one, so we can apply Pythagoras 
+theorem here  
+A = AE = sqrt{AF^2 + EF^2}  
+= sqrt{(60)^2+(80)^2}  
+= sqrt{3600+6400}  
+= sqrt{10000} = 100 
+So from starting point his father was 100 metre away. 
+ 
+
+Q 144. assume that f(1)=0 and f(m+n)=f(m)+f(n)+4(9mn-1).for all natural 
+no(integer>0)m and n.what is the value of f(17)? 
+a) 5436 b) 4831 c) 5508 d) 4832 
+Solution- 4832... 
+calculate upto f(5)by putting values in the given expression i.e. f(1)=0, f(2)=32, 
+f(3)=100, f(4)=204, f(5)=344. then cal f(7)=f(5+2)orf(3+4)=732 and f(10)=f(5+5)=1584, 
+and now f(17)=f(10+7)=f(10)+f(7)+4(9*15*7 -1).......... 
+f(17)=1584+732+2516=4832 
+ 
+Q 145. The numbers 272738 and 232342, when divided by n, a 2 digit number, 
+leave a remainder of 13 and 17 respectively. Find the sum of the digits of n? 
+a) 7 
+b) 8 
+c) 5 
+d) 4 
+Solution- as remainder is 13 & 17 so dividend must be greater than 17 
+272738 = n*a+13 => 272725=n*a ---(1) 
+232342 = n*b+17 => 232325=n*b ---(2) 
+last two digit of (1)&(2) is 25 so n must be 25, no other two digit no. greater than 
+25 satisfies this 
+272725=25*10909 
+232325=25*9293 
+n=25, sum of digits of n = 2+5 = 7 
+ 
+Q 146. 60 48 38 28 24 20 18 choose odd one. 
+a) 28 b) 38 c) 60 d) 18 
+Solution- 28 is odd one.because 
+
+coming in reverse order 18+2=20 
+20+4=24 
+24+6=30 
+30+8=38 
+38+10=48 
+48+12=60 
+ 
+Q 147. The perimeter of a equilateral triangle and regular hexagon are equal.Find 
+out the ratio of their areas? 
+a) 3:2 
+b) 2:3 
+c) 1:6 
+d) 6:1 
+Solution- Given that perimeter of equ.triang and hexagon are equal.consider 
+length of triang  
+as 'x' and length of hex as 'y'.so the relation is x=2y.Hexagon is made of six equ 
+traingles and formula for area of equ triang is sqrt(3)/4*x^2 and using this we get 
+ratio of areas as 2:3 
+ 
+Q 148. what is the remainder of (32^31^301) when it is divided by 9? 
+a) 3 b) 5 c) 2 d) 1 
+Solution- 32^31^301 
+when 31 divided by 9 gives remainder 5 
+5 5^2 5^3 all gives the same unit digit 5 
+so 31^32 gives unit digit 5 
+same rule applicable to 31^301 
+when 31 divided by 9 gives remainder 4 
+
+4 4^2 4^3 4^4 =4 6 4 6 unit place repeats for every 2 times i,e for even power its 
+uint place is 6 and for odd its 4 
+as 301 is odd its unit place is 4 
+so 31^32^301=31^4=5^4=5 is the ans 
+ 
+Q 149. A take 12 hrs to make publication B take 10 hrs to make publication. find 
+the time taken by them to make two publications working independently? 
+a) 12 hours b) 11 hours 
+b) 22 hours d) 11 hours 40 minutes 
+ 
+Q 150. Which of the following numbers must be added to 5678 to give a reminder 
+35 when divided by 460? 
+a) 980 b) 797 c) 955 d) 618 
+Solution- ans is 797 
+If you need of remainder 35, while dividing a number by 460. The Unit place of 
+that number must be 5. So 5678+797= 6475 
+6475/460 gives reminder 35 
+ 
+Q 151. If a number is divided by 357 the remainder is 5, what will be the remainder 
+if the number is divided by 17? 
+a) 9 b) 3 c) 5 d) 7 
+solution- ANS:5 ...to get the original number add the 357 with remainder 5, you 
+will get 362.then divide it by 17 you will get 5 as remainder. 
+ 
+Q 152. A girl entered a store and bought x flowers for y dollars (x and y are 
+integers). When she was about to leave, the clerk said, “If you buy 10 more 
+flowers I will give you all for $2, and you will save 80 cents a dozen”. The values 
+of x and y are: 
+
+a) (15,1)  
+b) (10,1) 
+c) (5,1) 
+d) Cannot be determined from the given information. 
+Solution- initially price/dozen= 12y/x;aftr purchasing 10 more--new dozen prices= 
+2*12/x+10...now.. 12y/x- 24/x+10 must be equal to 80/100 dollars...keep 
+substituting the options.. (5,1) fits in 
+ 
+Q 153. In how many possible ways can write 3240 as a product of 3 positive 
+integers a,b and c 
+a) 450 b) 420 c) 350 d) 320 
+Solution- 3240=2*2*2*5*3*3*3*3 
+so, 
+no. of ways=8!/(3!*4!)=420...... 
+ 
+Q 154.  a and b starts from their house at 10am. they travel from their house on 
+MG road at 20kmph and 40kmph. they meet at T junction at 12:00 pm B reaches 
+the T junction earlier and turns right .Both of them continue travelling till 2:00pm 
+what is distance between a& b at 2:00pm? 
+a) 160km b) 120km c) 140km d) 150km 
+Solution- a reaches the junction at 12 after travelling 40 km 
+but b reaches junction at 11 after travelling 40 km. 
+at 2 am. a will travel 40 km from junction 
+at 2 am. b will travel for 3 hrs that is 120 km from junction so it travel 10 km. 
+distance between them is 120 +40=160 km 
+ 
+Q 155. On door A - It leads to freedom 
+
+On door B - It leads to Ghost house 
+On door C - door B leads to Ghost house 
+The statement written on one of the doors is wrong. 
+Identify which door leads to freedom. 
+a) A 
+b) B 
+c) C 
+d) None 
+Solution- lets consider door A is wrong then A leads to ghost 
+on door B written is it leads to ghost 
+and on door c it is written door B leads to ghost house,henc C leads to freedom 
+in the same way assume B is wrong,means lead to freedm but on door c written 
+door B leads to ghost house,it is contradiction 
+last case if we assume C is wrong,the written on door B is also becoming wrong 
+so our ansr is C lead to freedm which comes from 1st case where we assume A is 
+wrong 
+ 
+Q 156. The savings of employee equals income minus expenditure.If the income 
+of A,B,C are in the ratio 1:2:3 and their expense ratio 3:2:1 thenwhat is the order 
+of the employees in increasing order of their size of their savings? 
+a) A>C>B b) B>A>C c) B>C>A d) C>B>A 
+Solution-C >B>A 
+salary of C is highest among all n expenses are least 
+salary of A is lowest among all n expenses are high 
+ 
+
+Q 157. A manufacturer of chocolates makes 6 different flavors of chocolates. The 
+chocolates are sold in boxes of 10. How many different boxes of chocolates can 
+be made? 
+(NOTE: A box is considered different from another only if, regardless of the order, 
+the box contains a different number of chocolates of at least one type) 
+a) 3003 
+b) 10^6 
+c) 3000  
+d) 6^10 
+Solution- f n similar articles are to be distributed to r persons, x1+x2+x3......xr=n each 
+person is eligible to take any number of articles then the total ways are n+r−1Cr−1 
+In this case x1+x2+x3......x6=10 
+in such a case the formula for non negative integral solutions is n+r−1Cr−1 
+Here n =10 and r=6. So total ways are 10+6−1C6−1 = 3003 
+ 
+Q 158. 4 men throw a die each simultaneously. Find the probability that at least 2 
+people get the same number. 
+a) 5/18 b)13/18 c) 1/36 d) ½ 
+Solution- 13/18 as 1-(probability of not getting same no.)=1-((6*5*4*3)/(6*6*6*6)) 
+ 
+Q 159. How many positive integers less than 500 can be formed using the 
+numbers 1,2,3,and 5 for digits, each digit being used only once. 
+a) 52 b) 68 c) 66 d) 34 
+Solution- 3 digits no formed= 3*3*2 (5 cant come at place,no should be less than 
+500) 
+=18 
+
+2 digit no formed=4*3 
+=12 
+1 digit no formed=4 
+total positive integers=18+12+4 
+=34 
+ 
+Q 160. In a rectangular region of 300X400 foot, there are 3 ants per square inch. 
+how many ants(approximate value) are there in the square region??? 
+[Gave the hint: 1foot=12inches] 
+a) 500million 
+b) 50million' 
+c) 500000 
+d) 5million 
+Solution- 00*400 (foot) 
+300*400*12 (inches) 
+300*400*12*3 
+4320000 
+approximately 50 million ants 
+ 
+Q 161. The letters in the word ROADIE are permuted in all possible ways and 
+arranged in alphabetic order. Find the word in the 44th rank. 
+a) AERIOD b) AERDOI c) AERODI d) AEODRI 
+Solution- A----- => 5!=120 
+ 
+AD---- => 4!=24 
+AED--- => 3!=6 
+
+AEI--- => 3!=6 
+AEO--- => 3!=6 
+ 
+24+6+6+6=42 
+AERDIO => 43th 
+AERDOI => 44th 
+ 
+Q 162. There is a pool of radius X and there is a path way around the pool with a 
+width of 4 feet. Find the radius of the pool if the path area / pool area = 11/25. 
+a) 12  
+b) 5  
+c) 25 
+d) 29 
+Solution- (PI.(X+4)^2-PI.X^2)/PI.X^2=11/25 
+(X+4)^2/X^2-1=11/25 
+(X+4)^2/X^2=36/25 
+(X+4)/X=6/5 
+X=20 
+ 
+Q 163. a certain organization has three committees.only two persons are 
+members of all committees,but every pair of committees have three members in 
+common.what is the least possible no of member of members on any one 
+committee? 
+ 
+a) 4 b) 5 c) 6 d) none of these. 
+Solution- the least possible no of member of members on any one committee = 4 .. 
+option a) 
+
+ 
+In all 3 committees, say X,Y,Z, 2 persons say A and B are common. 
+C is common between X and Y. 
+D is common between Y and Z. 
+E is common between X and Z. 
+ 
+so X committee has ABCE. Y committee has ABCD. Z committee has ABDE. 
+ 
+Q 164. In how many ways can 2310 be expressed as product of three factors??  
+ 
+1) 41 
+2) 56 
+3) 23 
+4) 46 
+Solution- (3^(n-1)+1)/2 
+2310=2*3*5*7*11 
+n=5 
+do this 
+ 
+ans===41 
+ 
+ 
+ 
+Q 165. In an office, at various times during the day, the boss gives secretary a 
+letter to type , each time putting the letter on top of the secretary's inbox. when 
+there is time, the secretary takes the top letter off the pile and type it. if there are 5 
+
+letters in all and boss delivers them in the order 12345, which of the following 
+could not be the order in which secretary types them? 
+a) 24351 
+b) 45231 
+c) 32415 
+d) 12345 
+Solution- B) 45231 cant be the order of typing..... 
+Suppose boss put first time 4 letters in order 1,2,3,4 
+Then definitely she will strt typing the top one tht is 4th..after completing 4th 
+letter...boss again put the 5th letter on the top....sho she again choose the top 
+most tht is 5th one and type it...after tht queue will have order 1,2,3 
+So she should shoosed the top most one tht is 3rd card...but in option it is given 
+2 which is wrong...check like this in all the options. 
+ 
+Q 166. 6 task and 6 persons. P1 and P2 does not do task T1. T2 is assigned to P3 
+or P4;. Each person should be assigned with at least 1 task. In how many ways 
+the task can be assigned. 
+a) 192 
+b) 360 
+c) 144 
+d) 180 
+Solution- 192 
+As T1 can be done in 4 ways(p3,p4,p5,p6) 
+T2 in tw0 ways (p3,p4) 
+and the remaining in 4! ways 
+4*2*4!=192 
+ 
+
+Q 167. How many lattice points are there between (2,0) and (16,203)? 
+a) 8 b) 10 c) 14 d) 15 
+Solution- draw a line from origin(0,0) to (14,203) 
+this line is parallel to the line joining(2,0) and (16,203). 
+A lattice point is defined as the positive values for x and y coordinates along the 
+line in a graph. 
+after drawing this line you will come across 8 such points. 
+so the answer is 8 
+ 
+Q 168. It takes 52 days to complete an agreement deal by a certain number of 
+men.After 17 days,300 men are added and 21 days are reduced.how many men 
+were working initially? 
+a) 250 b) 150 c) 200 d) None of the above 
+Soultion- Let x no people works initially. 
+So the left work after 17 days can be done by x people is in 35, but the same work 
+can be done by x+300 is in 35-21=14 days. 
+so, 35*(x/(x+300))=14 
+x=200. 
+initially 200 people worked 
+ 
+Q 169. four parallel lines are drawn parallel to one side of an equilateral triangle 
+such that it cuts the other two sides at equal intervals.the area of the largest 
+segment thus formed is 27msqr.find the area of the triangle? 
+a) 100 b) 75 c) 81 d) 54 
+Solution- Area of Trapezoid= ((a+b)*h))/2(where a and b are length of parallel 
+sides) 
+Now Since side is divided in 5 parts therefore,length of one interval=a/5 
+
+Now use Sin60 and to calculate the height of trapezoid( ie. a root 3/10). and cos60 
+to calculate the base of the triangle whose hypotenuse is a/5..(i.e. will be a/10); 
+We get b= a-(a/10+a/10) 
+b= 4a/5 
+now equate the area of trapezoid with 27.. 
+Hence area of equilateral triangle is 75 sqm 
+ 
+Q 170. In the sample subtraction problem below, single digits are replaced by 
+letters,  
+Find the values of 3*A + &*B + 4*C *D = ? 
+A5C1  
+3U79 
+------ 
+397D 
+a) 80  
+b) 99  
+c) 89  
+d)96 
+Solution- I think the answer is 96, let me explain... 
+from the above question it is clear that there is a printing mistake, for now let us 
+assume b=u; 
+after solving the subtraction we get the value A=7,d=2,u=5,c=5; 
+now if we suppose &=a then the ans will be 96(Which is option d) 
+if &=d then the ans will be 71 
+if &=c then the ans will be 86 
+so, from all the assumptions only the first one matches with the options given,  
+
+so option d will be our answer, 96 
+ 
+Q 171. two dice are thrown. find the probability of getting a multiple of 3 of 4 as 
+the sum. 
+a) 5/9 b) 4/9 c) 2/9 d) 1/9 
+Solution- 20/36=5/9 
+(1,2),(1,3),(1,5),(2,1)(2,2)(2,4)(2,6)(3,1)(3,3)(3,5)(3,6)(4,2)(4,4)(4,5)(5,1)(5,3)(5,4)(6,2)(6
+,3)(6,6) as its some is multiple of 3 or 4 
+ 
+Q 172. 2 gears. one with 12 teeth and the other one with 14 teeth are engaged with 
+each other. One tooth in smaller gear and one tooth in bigger gear are marked 
+and initially those 2 marked teeth are in contact with each other. After how many 
+rotations of the smaller gear with the marked teeth in the other gear will again 
+come into contact for the first time? 
+a) 7 
+b) 12 
+c) Data Insufficient 
+d) 84 
+Solution- Assume the distance between the teeth is 1 cm. Then the circumference 
+of first gear is 12 cm and the second is 14 cm. 
+Now LCM (12, 14) = 84. 
+So to cover 84 cm, the first gear has to rotate 84/12 = 7 rounds  
+(the second gear rotates 84 / 14 = 6 rounds as it is bigger) 
+ 
+Q 173. there are 4 couples who go for honeymoon together.at one of the places 
+they all have to cross the river but only one boat is available.wives are jealous 
+that they dont want their husbands to travel with another women and husbands 
+are also possessive that they dont want their wives to travel with some other 
+men.the no of minimum possible ways in which they will cross the river are. 
+
+a) 16 b) 17 c) 18 d) 19 
+Solution- we have 4 couple 
+1)first two husbands goes to another side 
+2)then one husband comes back 
+3)then one couple will go 
+4)then second husband comes back 
+so in this 4 ways 1 couple reach to another side 
+so for 4 couples there are 16 ways 
+a)16 is ans 
+ 
+ 
+Q 174. Professor absentminded has a very peculiar problem, in that he cannot 
+remember numbers larger than 15. However, he tells his wife, I can remember any 
+number up to 100 by remembering the three numbers obtained as remainders 
+when the number is divided by 3, 5 and 7 respectively. For example (2,2,3) is 17. 
+Professor remembers that he had (1,1,6) rupees in the purse, and he paid (2,0,6) 
+rupees to the servant. How much money is left in the purse? 
+option 
+a) 59  
+b) 61  
+c) 49  
+d) 56 
+Solution- He had 76 rupees,according to questions, he remember any no. larger 
+than 15 as remainder when divided by 3,5 and 7 respectively. 
+Divide 76 by 3,5 and 7, we will get (1,1,6)as remainder. 
+He paid 20 rupees bcoz when 20 divided by 3,5 & 7 , we will get (2,0,6) as 
+remainder. 
+Now money left=76-20 
+
+=56 (Ans) 
+ 
+Q 175. A and B completed a work together in 5 days. Had A worked at twice the 
+speed and B at half the speed, it would have taken them four days to complete 
+the job. How much time would it take for A alone to do the work? 
+a) 5days b) 20days c) 10days d) 25days 
+Solution- a nd b's 1 day work, a+b=1/5 
+with twice d speed of a nd half of b completes work in 4 days,  
+so, 2a+b/2=1/4. 
+on solving both d eq. we get a=1/10 
+so a will complete d whole work in 10 days. 
+ 
+Q 176. 0>a>b>c>d. Which is largest 
+a) (b+d)/(a+c) 
+b) (a+d)/(b+c) 
+c) (b+c)/(a+d) 
+d) (c+d)/(a+d) 
+Solution- given statement is 0>a>b>c>d 
+that means all the values of a,b,c,d are less than ZERO 
+so lets consider a=-1 b=-2, c=-3 and d=-4 so that 0>a>b>c>d will satisfy  
+by solving the options we get the values as follows  
+a.(b+d)/(a+c)= 1.5 
+b. 1 
+c.1 
+d.1.4 
+among all of these option a is highest so the ans is option a. 
+
+ 
+Q 177. An engineer undertakes a project to build a road of 15km in 300 days and 
+employs 45 men for the purpose .After 100 days,he finds only 2.5km of the road 
+has been completed.find the (approx)number of extra men must employs to finish 
+the work in time. 
+option 
+a) 43  
+b) 45  
+c) 55  
+d) 68 
+Solution- 45 workers working already 
+Let x be the total men required to finish the task in next 200 days 
+2.5 km done hence remaining is 12.5 km 
+Also, work has to be completed in next 200 days (300 - 100 = 200) 
+We know that, proportion of men to distance is direct proportion  
+and, proportion of men to days is inverse proportion  
+Hence, X = (45 * 12.5 * 100) / (2.5 * 200) 
+thus, X = 112.5 that is approximately 113 
+Thus, more men needed to finish the task = 113-45=68 
+ 
+Q 178. there are 5 sweets - jamun, kulfi, peda. laddu and jilebi that i wis t eat on 5 
+consecutive days, monday throufh friday, one sweet a day, based on following 
+self imposed constraints:  
+1) laddu is not eaten on monday 
+2) if jamun is eaten on monady , then laddu must be eaten on friday 
+3) if jamun is eaten on tuesday, kulfi should be eaten on monday 
+4) peda is eaten the day following the day eating jelabi 
+
+based on the above , peda can be eaten on any day expect?? 
+Solution-monday bcoz the day before jalebi is required to be taken bt its sunday 
+and no sweet is eaten on Sunday 
+Q 179. A circular swimming pool is surrounded by a concrete wall 4ft wide. If the 
+area of the wall is 11/25 of the area of the pool then radius of the pool in feet is 
+a) 20  
+b) 8  
+c) 16  
+d) 30 
+Solution- i thnk ans is 20.Bcoz let r be the radius of pool. 
+(11/25)(pi*r^2)=(pi(r+4)^2)-(pi*r^2) 
+By solving this we get ans as 20 
+ 
+Q 180. How many 5’s will be there in the number 121122123... till 356? 
+a) 51 b) 54 c) 50 d) 49 
+Solution- 121122123... till 356 
+121,122,123,124... till 356 
+121 to 200 => 125,135,145, from 150 to 159 => 11 5's , 165,175,185,195  
+[from 150 to 159, each no. has 1 no. of 5 except 155, 155 has 2 no. of 5] 
+total=18 
+201 to 300 => 205,215,225,235,245, 250 to 259 => 11 5's , 265,275,285,295  
+=> total=20 
+301 to 356 => 305,315,325,335,345,350,351,352,353,354,355(2 5's),356  
+=> total=13 
+total 5's = 18+20+13 = 51 
+
+Q 181. Car A leaves city C at 5 pm and drives at a speed of 40 kmph. 2 hours later 
+another car B leaves city C and drives in the same direction as car A. In how 
+much time will car B be 9 km ahead of car A. Speed of car B is 60 kmph.  
+option 
+a) 4.25 hrs  
+b) 4.17 hrs  
+c) 4.30 hrs  
+d) 4.45 hrs 
+Solution-we take the relative speeds of the 2 cars. 
+relative speed=(60-40)=20km/h 
+the car a has travelled (40*2)km in 2 hrs. 
+thence car b has to travel 80km+9km ahead to get ahead by 9 km. 
+so time= 89/20=4hr 45 min. 
+ 
+Q 182. The rupee/coin changing machine at a bank has a flaw. It gives 10 ten 
+rupee notes if you put a 100 rupee note and 10 one rupee coins if you insert a 10 
+rupee note but gives 10 hundred rupee notes when you put a one rupee coin! 
+Sivaji, after being ruined by his rivals in business is left with a one rupee coin and 
+discovers the flaw in the machine by accident. By using the machine repeatedly, 
+which of the following amounts is a valid amount that Sivaji can have when he 
+gets tired and stops at some stage (assume that the machine has an infinite 
+supply of notes and coins): 
+a) 26975  
+b) 53947 
+c) 18980 
+d) 33966 
+Solution-initially sivaji had only one coin so he earns only 1000/- 
+
+to earn more he must convert one 100 note to 10 notes and then one ten note to 
+ten coins  
+now he has Rs.990 and 10 coins  
+after converting 10 coins he has 10990 
+after converting another 10 coins he has 20980 
+after converting another 10 coins he has 30970 
+after converting another 10 coins he has 40960 
+after converting another 10 coins he has 50950 
+after converting another 10 rupee note to coins and using only 3 
+he has seven coins and 53940 
+so sum is 53940+7=53947 
+ 
+Q 183. 2/3rd of the balls in a bag are blue, the rest are pink. if 5/9th of the blue 
+balls and 7/8th of the pink balls are defective, find the total number of balls in the 
+bag given that the number of non defective balls is 146. 
+a) 216 b) 649 c) 432 d) 578 
+Solution-let total no of balls =x 
+blue=2x/3 
+pink=x/3 
+total no of defective balls = 10x/27 +7x/24 
+=143x/216 
+non defective balls=x-143x/216=146    ,x=432 
+Q 184. One day Eesha started 30 min late from home and reached her office 50 
+min late while driving 25% slower than her usual speed. How much time in min 
+does eesha usually take to reach her office from home? 
+a) 80min b) 50min c) 60min d) 70min 
+Solution-let time taken by eesha daily = x 
+
+and usual speed = y 
+(x+20)*(.75*y) = x*y extra time taken = 50-30 = 20min 
+.75x+15 = x 
+.25x = 15 
+x = 60 min 
+ 
+Q 185. 7,17,19,43,91,131...find the odd term. 
+a) 17 b) 43 c) 91 d) 131 
+Solution-except 91 all other are  prime no. 
+so 91 odd one 
+ 
+Q 186. find the no. of zeros in the product of 1^1*2^2*3^3....*49^49? 
+a) 250 b) 225 c) 545 d) 135 
+Solution-the number of zero's can be found by finding number of 2's and 5's. 
+since in this number, number of occurrences 2's will always be greater than 
+number of occurrences of 5's. 
+therefore we need to find number of 5's only. 
+number of occurrences of 5's  
+in 5^5 = 5 
+10^10=10 
+15^15=15 
+20^20=20 
+25^25=25 
+30^30=30 
+35^35=35 
+
+40^40=40 
+45^45=45 
+sum=225. 
+therefore 225 5's can be paired with 225 2's. 
+total number of zeros = 225 
+ 
+Q 187. a merchant buys 20kg of wheat at 30rs/kg and 40k at 25rs/kg.he mixes and 
+sells 1/3 rd of mixture at 26rs/kg.price at whch merchant should sell remaining 
+mixture so that a profit of 25% on whole outlay is? 
+a) Rs30 b) Rs40 c) Rs360 d) Rs 37 
+Solution-cp of total mixture=(20*30)+(25*40)=1600rs 
+as he needs 25% profit, so he needs to earn 1600+(1600*(25/100))=2000rs. 
+he has alredy got rs by selling 1/3 part=1/3 of 60 kg..=20 kg  
+=20*26=520rs.. 
+now he needs 2000-520=1480rs. 
+so he must sell remaining 40 kg at=1480/40=37rs/kg 
+ 
+Q 188. the addition of 641+852+973=2456 is incorrect. What is the largest digit 
+that can be changed to make the addition correct? 
+ 
+a) 5 b) 6 c) 4 d) 7 
+Solution-641 
+852 
+973  
+2466 
+Given Sum is 2456 
+
+So if we change 10's digit 7 to 6 then the sum will be correct . 
+so 7 is the largest digit . 
+ 
+Q 189. a, b, c are non negative integers such that 28a+30b+31c=365. Then a+b+c 
+is? 
+a)13 b)> 13 c) =13 d) 12 
+Solution-Here, a + b + c = 12 
+Explanation : 
+a = 1, because in a month of twelve only Feb has 28 days 
+b = 4, there are four months namely April,June,Sep and Nov having 30 days 
+c = 7, there are 7 months namely Jan,Mar,May,Jul,Aug,Oct and Dec having 31 
+days 
+So, a + b + c = 1 + 4 + 7 = 12. 
+ 
+ 
+Q 190. 26ab5 is a four-digit number divisible by 25. If the number formed from the 
+two digits ab is a multiple of 13, then ab =?  
+a) 52 
+b) 65 
+c) 10 
+d) 25 
+Solution-Any number last two digits are 25 then that should be divisible by 25. 
+When ab=52, the number is 26525 and 52/13=4, 
+So ab=52 
+ 
+Q 191. A owes B Rs 50. He agrees to pay B over a number of consecutive day 
+starting on a Monday, paying single note of Rs 10 or Rs 20 on each day. In how 
+
+many different ways can A repay B. (Two ways are said to be different if at least 
+one day, a note of a different denomination is given)  
+a) 8 
+b) 7 
+c) 6 
+d) 5 
+Solution-10,20,20=3!/2!==3 ways 
+10,10,10,20=4!/3!==4 ways 
+10,10,10,10,10=5!/5!==1 way 
+so.total=3+4+1==8 ways. 
+ 
+ 
+Q 192. After 6 years Raju's fathers age will twice of the Raju's age 2 years ago.His 
+mothers age was twice that of Raju's age. Sum of the age of their parents. 
+a) 4 less than four times Raju’s age 
+b) 2 more than four times Raju’s age 
+c) 4 more than four times Raju’s age 
+d) 2 less than four times Raju’s age 
+Solution-F+6=2(R+6) 
+F= 2R+6 
+M-2=2(R-2) 
+M= 2R-2 
+Therefore the sum of Raju’s Parent’s age is 
+F+M=2R+6+2R-2 
+F+M=4R+4 
+4 more than four times Raju’s age 
+
+ 
+Q 193. Length, Breadth and Height of a 3D figure is in the ratio 3:2:1. If the length 
+is doubled and Breadth & Height are halved, then what is the % decrease in the 
+volume of the solid? 
+a) Decreased by 15% b) Decreased by 18% c) Decreased by 30% 
+d) Decreased by 50% 
+Solution-50% decrease 
+If original length, breadth & height are 3x, 2x and x respectively, then 
+volume=3x*2x*x=6x^3 With length doubled, breadth & height halved, new 
+dimensions are 6x, x and x/2 respectively and volume=6x*x*x/2=3x^3 
+So % decrease in volume=100*(6x^3-3x^3)/6x^3=50 
+ 
+Q 194. 12 divides, ab313ab (in decimal notation, where a,b are digits>0, the 
+smallest value of a+b is  
+a) 7 
+b) 6 
+c) 2 
+d) 4 
+Solution-If a number is divisible by 12 then it should be divisible by 4&3 
+for divisible by 4 last [2 digit]no's should be divisible by 4 
+so last no's are 12,15,18,,,,,,and soon.. 
+now least is 12 it,. 3 which is not the option,, 
+no other least is 16 it's sum 1+6=7.. 
+so 7 is option :) 
+ 
+Q 195. In a telecom assembly factory,there are 250men and 150 women.The 
+average productivity of all works is 12 units per day.The average productivity of 
+men is 15 units per day..what is the average productivity of women per day? 
+
+a) 6 b) 9 c) 7 d) 8 
+Solution-250M + 150W = 400 
+Thus, 400*12 = 4800 
+Now, 250*15 = 3750 
+Now, 4800-3750 = 1050 Thus, for 150W avg prod is : 1050/150 = 7 
+Q 196. If a lemon and an apple together cost Rs. 12.00, a tomato and a lemon cost 
+Rs. 4.00 and an apple cost Rs.8.00 more than a tomato or a lemon then which of 
+the following can be. 
+a) Rs 2 b) Rs 4 c) Rs 1 d) Rs 3 
+Solution-lemon+apple=12rs 
+tomato+lemon=4 
+then apple=8+t or 8+l 
+by solving we get 
+l+(8+l)=12 
+2l=4 
+lemon=2 
+so a=8+2=10; so a) 
+ 
+Q 197. George, Paul and Hari start a business by contributing Rs. 30000/-, Rs. 
+40000/- and Rs. 50000/- respectively. After ½ a year George withdraws half his 
+contribution. At the end of the year the business showed a profit of Rs 90000 
+which was divided amongst the 3 men proportionate the to amount and duration 
+of their investment in the enterprise. Paul got, 
+a) Rs 25000/- 
+b) Rs 18000/- 
+c) Rs 32000/- 
+d) Rs 24000/ 
+
+Solution-G,P & h ratio will be 
+(30,000*6+15000*6):(40000*12):(50000*12) 
+=27:48:60 
+hence 135x=90000 x=2000/3 
+paul got x*48 means 2000/3*48=32000 
+ 
+Q 198. A drinks machine offers three solutions – Tea, Coffee or Random but the 
+machine has been wired up wrongly so that each button does not give what it 
+claims. If each drink costs Rs. 50, what is the mimimum amount of money that 
+must be spent to determine with certainity the correct labeling of the buttons? 
+a) Rs. 100 
+b) Can not be determined from the given information 
+c) Rs 150 
+d) Rs 50 
+Solution-You have to put just 50rs.  
+Put 50rs and push the button for Random. There are only 2 
+possibilities. It will give either Tea or Coffee.  
+ If it gives Tea, then the button named Random is for Tea. 
+The button named Coffee is for Random selection. And the 
+button named Tea is for Coffee.  
+ If it gives Coffee, then the button named Random is for 
+Coffee. The button named Tea is for Random selection. And 
+the button named Coffee is for Tea. 
+Thus, you can make out which button is for what by putting 
+just 50rs and pressing Random selection first. 
+ 
+
+Q 199. P,Q,R,S are distinct integers numbered from 1 to 12.What is the possible 
+smallest value for (P/Q)+(R/S)=? 
+a) 1/12+2/11 b) 1/11+9/10 c) 1/11+2/12 d) 1/10+1/11 
+Solution-he given options for the above question are, a.1/12+2/11 b.1/11+9/10 
+c.1/11+1/12 d.1/10+1/11 
+In mathematics, two things are called distinct if they are not equal. 
+so p,q,r,s are not equal. 
+Ans:- 1/12 + 2/11 
+ 
+Q 200. If ab64ab is divisible by 12, then what is the least possible value of a+b ? 
+a) 4 b) 5 c) 6 d) 7 
+Solution-1.Condition for divisibility by 3-- 
+The sum of digits of number must be divisible by 3. 
+i.e a+b+6+4+a+b = 0 mod 3 
+=> 10 + 2(a+b) = 0 mod 3 
+=> 1 + 2(a+b) = 0 mod 3 (10 = 1 mod 3) 
+=> 2(a+b) = -1 mod 3 
+=> 2(a+b) = 2 mod 3 
+=> a+b = 1 mod 3 
+So, a+b must be of the form 3n + 1 for some positive integer n. 
+Max value of (a+b) is 18 as a and b can take values upto 9 since they are digits. 
+The possible values are 1,4,7,10,13,16. 
+ 
+2. Condition for divisibility by 4-- 
+For divisibility by 4, Last two digits must be divisible by 4. 
+i.e 10a+b = 0 mod 4 
+
+=> 2a + b = 0 mod 4  (Since, 8a = 0 mod 4) 
+So, 2a + b can be 4,8,12,16,20,24,28. 
+Combining these,we get 
+a + b = 3n +1  
+2a + b = 4k 
+The smallest values which satisfies these two equation is a = 4 ,b = 0. 
+So, the minimum sum of a + b is  4. 
+ 
+Q 201. There are 100 in a class and they attend a test. 20 students are failed in 
+both the subjects. 50 students pass in subject A. 60 students passed in subject B. 
+How many students passed in subject A only. 
+a) 20 b) 30 c) 15 d) 25 
+Solution-LET x be the total no. of students who passed in both test. 
+Then, no. of students who passed in A only= total no. of students who passed in 
+A - total no. of students who passed for both A & B =50 - x 
+similarly, no. of students who got pass only in B = 60 - x 
+now, total no. students who got pass = 80 
+80= (50 - x) +(60-x)+x then we'll get on solving, x=30 
+ 
+students who passed in A only = 50 -x= 50-30=20 
+Q 202. Aravind can do a job in 24 days. Mani can dig the same well in 36 days. 
+Aravind, Mani, and Hari can do the work together in 8 days. How long does it take 
+Hari to do the work alone? 
+a) 12 days b) 18 days c) 16 days d) 24 days 
+Solution-This can be solved with the help of efficiency.Efficiency of (aravind 
++mani+hari) =total efficiency 
+Here, 
+
+No. Of Days taken by Aravind =24 Efficiency of aravind =1/24 
+No.of days taken by mani=36 Efficiency of mani=1/36 
+No. Of days taken when all the three work together =8 
+Efficiency of all thr three together=1/8 
+Let the no. Of days taken by hari to complete the job be x. 
+Then efficiency of hari =1/x Now, from the above formula 
+1/24 + 1/36 + 1/x = 1/8 
+x=18 
+ 
+Q 203. Truck A and Truck B move grain into a box at the rate of 20 kilos/min and 
+13 1/3 kilos a min respectively while truck C removes grain from the box at the 
+rate of 10 kilos/min. If the capacity of the box is 2.4 tons, and Truck A, Truck B 
+and Truck C are working simultaneously Then the box will be filled in? 
+a) 1 1/2 hrs 
+b) 3/5 hrs 
+c)1 5/7 hrs 
+d)2 1/8 hrs 
+Solution-otal filled in i min=(20+40/3-10)=70/3 
+to fill 70/3 time req-----=1min 
+to fill 2400 time req-----=(3/70)*(2400/60)hr 
+=15/7 
+ 
+Q 204. If 5 + 3 + 2 = 151022, 9 + 2 + 4 = 183652, 8 + 6 + 3 = 482466 and 5 + 4 + 5 = 
+202541, then 7 + 2 + 5 = ? 
+a) 143547 b) 132234 
+c) 2577224 d) 112321 
+Solution-5+3+2=(5*3)(5*2)(5*3+5*2-3(ie second term))=15,10,22 
+
+9+2+4=(9*2)(9*4)(9*2+9*4-2(ie second term))=18,36,52 
+8+6+3=(8*6)(8*3)(8*6+8*3-6(ie second term))=48,24,66 
+so answer is 143547 
+ 
+Q 205. Two full tanks one shaped like the cylinder and the other like a cone 
+contain liquid fuel the cylindrical tank held 500 lts more then the conolical tank 
+After 200 lts of fuel is pumped out from each tank the cylindrical tank now 
+contains twice the amount of fuel in the canonical tank How many lts of fuel did 
+the cylindrical tank have when it was full? 
+a) 1200 b) 1000 c) 700 d) 1100 
+Solution-let area of cylinder=A 
+& area of cone=B 
+acc. to ques, 
+A=B+500 .....(1) 
+A-200=2(B-200) .....(2) 
+from (1) &(2) 
+A=1200 
+volume of fuel when cylinder is full=1200 lts 
+ 
+Q 206. Asha and Eesha – Eesha lies on Monday, Tuesday and Wednesday. Asha 
+lies on Thursday, Friday and Saturday. Other days they will say the truth. 
+Professor forgot and asked them what day it is. Both of them said yesterday I was 
+lying and then professor got the day. What day it is? 
+a) Tuesday b) Thursday c) Friday d) Cannot be determined 
+Solution-Thursday. Asha lies on thursday and today she is lying that she was 
+lying yesterday. Eesha is not lying today but she was lying yesterday. 
+ 
+
+Q 207. Three sisters are identical triplets. The oldest by is Aasha, and she always 
+tells anyone the truth. The next oldest is Usha, and Usha always will tell anyone a 
+lie. Eesha is the youngest of the three. She sometimes lies and sometimes tells 
+the truth. 
+Mukund an old friend of the family, visited them one day and was able to 
+recognize who was who, so he asked each of them one question. 
+Mukund asked the sister that was sitting on the left. “Which sister is in the middle 
+of you three ?” and the answer he received was, “Oh,that’s Aasha.” 
+Mukund then asked the sister in the middle. “What is your name?” The response 
+given was, “I’m Eesha.” 
+Mukund turned to the sister on the right,then asked. “Who is that in the middle ?” 
+The sister then replied, “She is Usha.” 
+This confused Mukund. 
+Who was in the middle ? 
+a) Aasha b) Eesha c) Usha d) Cannot be determined  
+Solution-its USHA ! as the left one said the middle one is aasha.. if it was aasha 
+she would have admitted! so the left one and the middle one could be eesha usha 
+both. as eesha sometimes says truth and sometimes lie. and usha always lie. so 
+the right one would be aasha who will say truth and she said the middle one is 
+USHA,so option (c) Usha is a right answer ! 
+ 
+Q 208. If 4 examiners can examine a certain number of answer books in 8 days by 
+working 5 hours a day, for how many hours a day would 2 examiners have to 
+work in order to examine twice the number of answer books in 20 days. 
+a) 6 hours  
+b) 7 hours  
+c) 15/2 hours 
+d) 8 hours 
+Solution-4 examiner working for 8 days(5 hours a day) 
+thus, 
+
+1 examiner=8*5=40 hrs/person 
+Now, 
+2 examiner working for 20 days(x hrs a day) to have twice the work. 
+thus,2*x hrs spent each day 
+We need 160 hrs.Working 2 hrs the duration will be: 
+160/2*x=20 
+=>x=4 hrs 
+Twice work is done,thus,time=4*2=8 hrs. 
+ 
+Q 209. A circle has 11 points arranged in a clockwise manner from 0 to 10. A bug 
+moves clockwise on the circle according to following rule. If it is at a point i on 
+the circle, it moves clockwise in 1 sec by (1 + r) places, where r is the remainder 
+(possibly 0) when i is divided by 2. If it starts at 4th position, at what position will 
+it be after 2012 seconds? 
+                                                         
+ 
+a) 7 b) 9 c) 5 d) 1 
+solution-(D) 1 
+cycle= 1 +7n after this cycle always is 5th position. 
+now after 2008 sec point is 5th position. 
+now next 4 sec 1st position. 
+or 
+Trick:- starting position - 3 = present position. maximum cases. 
+ 
+Q 210. in a group of 5, Anooj said"one of us are lying", Pooja said"Exactly two are 
+lying", Bitto said "Exactly three are lying", Billa said"Exactly four are lying", 
+Chitra said,"Exactly five of us are lying". Which one said the Truth? 
+
+a) Billa b) Anooj c) Chitra d) Pooja 
+Solution-Billa because 4 of them are lying and one is saying the truth.... 
+1/5+2/5+3/5+4/5+5/5 
+15/5=3 So Billa 
+Q 211. A travels at 40kmph. B travels at 60kmph. They are travelling towards each 
+other. BY the time they meet ,B would have travelled 120 km more than A. Find 
+the total distance. 
+a)600km b) 720km c) 400km d) 540km 
+Solution- dist. traveeld by A = 40x (let x be the time taken to meet) 
+dist travelld by B = 60x 
+difference in dist = 20x = 120; which gives x=6hours 
+so relative speed of A and B is 100km/hr. 
+distance travlld = 6*100 = 600km. 
+ 
+Q 212. If all the numbers between 11 and 100 are written on a piece of paper. How 
+many times will the number 4 be used? 
+a) 20 b) 19 c) 9 d) none of these 
+Solution- 19, every word can only be appeared 20 times from 1 to 100. nd it is 
+starting from 11, so 19 times used.. 
+ 
+Q 213. 10 people are there, they are shaking hands together, how many hand 
+shakes possible, if they are in no pair of cyclic sequence. 
+a) 45  
+b) 9  
+c) 12  
+d) 10 
+Solution- 10c2= n!/(n-r)!.r! 
+
+=10!/8!.2! 
+=10*9/2 
+=45 
+ 
+Q 214. What should be the value of a,in the polynomials x^2-11x+a and x2-14x+2a 
+so that these two polynomials have common factors.  
+a) 24 b) 1 c) -1 d) ½ 
+Solution- a=24, then polynomials will become 
+x^2-11x+24 and x^2-14x+48  which can be written as  
+(x-8)*(x-3) and (x-8)*(x-6)   
+(x-8) is common factor. 
+ 
+Q 215. a man cannot remember the number larger than 15. However he remember 
+any number upto 100 by remembering the three numbers obtained as remainders 
+when the numbers is divided by 3,7 and 11 respectively. he remembers that he 
+had (2,4,8) rupees in his purse. and he paid (2,5,4)rupees to the servant. How 
+much money is left in the purse? 
+a) 40 b) 48 c) 46 d) 52 
+Solution- the number that satisfies the all remainders of 2,4,8 by numbers 3,7,11 
+respectively is 74. 
+and the the number that satisfies the all remainders of 2,5,4 by numbers 3,7,11 is 
+26. 
+hence the remaining money is=74-26=48 
+ans is 48 
+ 
+ 
+Q 216. Next number in the given series 1, 7, 8, 49, 50, 56, 57, 343 
+a) 344 b) 350 c) 2401 d) Cannot be determined 
+
+Solution- 344 because 
+1*7=7 
+7+1-8 
+7*7=49 
+49+1=50 
+8*7=56 
+56+1=57 
+49*7=343 
+343+1=344 
+ans= 344 
+ 
+Q 217. A man sold 12 candies in 10$ had loss of b% then again sold 12 candies at 
+12$ had profit of b% find the value of b. 
+a) 9 b) 9.09 c) 10 d) 11 
+Solution- Let the CP be 'x' then: 
+(x-10)*100/x = b% ----------->1 (12- x) * 100 /x = b% ------->2 
+(x-10)*100 / x = (12-x)*100 / x 
+x-10 = 12-x 
+x = 11 
+So by Submitting value of x into one of above question (1 or 2) we get b% 
+which is 9.09 or 9 Approx 
+Q 218. Two breakers are kept on a table. the capacity of the first breaker is x liters 
+and that of the second breaker is 2x. Two thirds of the 1st breaker and one fourth 
+of the 2nd breaker is filled with wine. The remaining space in both breakers is 
+filled with water. If the content in these breakers are mixed in a larger breaker of 
+volume 3x, What is the proportion of wine in the breaker?  
+a) 11/12  
+
+b) 11/36  
+c) 7/6  
+d) 7/18 
+Solution- 2/3+1/2(1/4th of 2x =1/2 of x)=7/6. when pored in breaker of vol 3x then d 
+proportion will be 7/6 *1/3=7/18 
+ 
+Q 219. When all possible six-letter arrangements of the letters of the word 
+"MASTER" are sorted in alphabetical order, what will be the 49th word? 
+a) AREMST b) ARMEST c) AMERST d) ARMSET  
+Solution- ARRANGING THE LETTERS IN MASTER ALPHABETICALLY WE GET.... 
+AEMRST 
+NOW A E _ _ _ _ can be filled in 4! ways 
+A M _ _ _ _ can be filled in 4! ways  
+so words upto 4!+4! =48 words are of ae series and am series 
+So 49th word can be A R E M S T 
+ 
+Q 220. find a number such that when it is added to 7249 will be perfectly divisible 
+by 12,14,21,33 and 54 
+a) 8136 b) 9123 c) 8727 d) 9383 
+Solution- lcm of 12,14,21,33,54=8316 
+now checking through options, 
+on adding 7249+8136/8316=not perfetily divisible 
+similarly on checking through options,(9383+7249)/8316=2 
+answer=9383 
+ 
+Q 221.60 men can complete a piece of work in 40 days.60 men start the work but 
+after every 5 days 5 people leave.in how many days will the work be completed? 
+
+a) 60 b) 80 c) 120 d) None of these 
+Solution- (60*40) men complete the work in 1 day 
+1man's 1 day work is 1/60*40 
+60 men's 5 day work is 5*(1/40)=1/8 
+remaining work (1-1/8)=7/8 
+as 5 men leave 
+55 men's 1 day work=55*(1/60*40)=11/60*8 
+now 
+11/60*8 work done by them 1day 
+7/8 work done by them [(60*8)/11]*(7/8)=420/11=38.18 
+so they complete in (38.18+5) days{5 day added bcoz alrdy 5dy work had been 
+done} 
+43.18 day total work will be completed. 
+ 
+ 
+Q 222. A person walks at 4km/hr for a particular duration T1 and 3km/hr for 
+another duration T2 and covers a total distance of 36km. If he walks at 4km/hr for 
+the duration T2 and at 3Km/hr for the duration T1, then he covers only 34km. 
+What willl be the time taken by him to cover the one of the legs? 
+a) 4hrs  
+b) 7hrs  
+c) 10hrs  
+d) 6hrs 
+Solution- 4T1 + 3T2 =36...(i) 
+3T1 + 4T2 =34...(ii) 
+4*(i)-3*(ii),we get 
+T1=6hrs and T2=4hrs 
+
+ 
+Q 223. If ABERSU are in sorted in alphabetical order, if 24 sortings are req for 
+ABUSRE, 25 - AEBRSU, 49- ARBESU, den how many for AEUSRB. 
+a) 45 b) 48 c) 47 d) 46 
+Solution- AEUSRB 
+ALPHA OREDER ABERSU 
+A B _ _ _ _ =4! =24 
+A E B _ _ _ =3!=6 
+A E R _ _ _ =3!=6 
+A E S _ _ _ =3! =6 
+A E U B _ _ =2! =2 
+A E U R _ _=2!=2 
+A E U S B _=1 
+A E U S R B=1 
+24+6+6+6+2+2+1+1=48 
+ 
+Q 224. a,band c can do some work in 36 days a and b together do twice as much 
+work as c.a and c together do thrice as much work as b.eind time taken by c 
+alone to do complete work 
+a) 72 
+c) 120 
+c) 96 
+d) 108 
+Solution- 1 day work for (A+B+C) = 1/36 ............(ii) 
+Now, (A+B) = 2C ..........................(i) 
+From (i)and(ii): 3C = 1/36 
+
+C = 1/108 
+Thus, C takes 108 days to complete the whole work alone. 
+(Remaining data are not required in this case) 
+ 
+Q 225. A sum of rs 3000 is distributed amongst A, B, and C. A gets 2/3 of what B 
+and C got together and c gets 1/3 of what A and B got together, C's share is? 
+a) 1200 b) 2250 c) 750 d) 1050 
+Solution- A+B+C=3000 from data it is clear that A=2/3(B+C) and C=1/3(A+B) 
+==> 3C=A+B so replace A+B can be replaced by 3c..... 
+===> 4c=3000 and now c=3000/4===>750... So c gets 750 
+Q 226. raj writes a number. He sees that the first no of 2digits exceeds 4times the 
+sum of its digits by 3. If the number is increased by 18, the result is the same as 
+the number formed by reversing its digits. Find the number 
+a) 35 b) 57 c) 42 d) 49 
+Solution- 35-4*8=3 
+35+18=53 
+answer is 35 
+ 
+Q 227. P ( x ) = ( x2012 + x2011 + x2010 + . . . . + x + 1)2 – x2012 
+Q ( x ) = x2011 + x 2010 + . . . . + x + 1 
+The reminder when P ( x ) is divided by Q ( x ) is 
+a) 1 b) 0 c) x+1 d) x-1 
+Solution- substitute 1 in x 
+then it will become 
+((2013)^2-1)/2012 
+(2013+1)(2013-1)/2012 
+
+2014 is quotient 
+So, remainder is '0'. 
+ 
+Q 228. If YWUSQ is 25 - 23 - 21 - 19 - 17 then MKIGF is what? 
+a) 13-11-9-7-6 b) 1-2-3-5-7 c) 9-8-7-6-5 d) 7-8-4-5-3 
+Solution- YWUSQ - 25-23-19-17 
+THEN Y=25,W=23,U=21..... 
+THEN MKIGF = 13-11-9-7-6 
+ 
+Q 229. when numbers are written in base b, we have 12x25=333. The value of b is 
+a) 6 b) 8 c) 7 d) none of these 
+Solution- when a no. is written in base b 
+(1*b^1+2*b^0)*(2*b^1+5*b^0)=(3*b^2+3*b^1+3*b^0) 
+(b+2)*(2b+5)=(3b^2+3b+3) 
+solve it further a quadratic eq. is formed 
+b^2-6b-7 
+after solving it can be written as 
+(b-7)(b-1) 
+therefore b=7 
+b=7 
+ 
+Q 230. How many polynomial functions f of degree >=1 satisfy f(X2) = (f(X)) 2 =f 
+(f(X)). 
+a) 1 b) 0 c) 2 d) more than 2 
+Solution- :Let f(x)=x^2 
+
+f(x^2)=x^4 
+[f(x)]^2=x^4 
+f(f(x))=x^4 
+Only 1 sol. 
+Q 231. A cow and a horse are bought for Rs.200000. The cow is sold at a profit 
+of20% and the horse is sold at a loss of 10%. The overall gain is Rs. 4000.The 
+cost pric of the cow is: 
+a) Rs 130000 
+b) Rs 80000 
+c) Rs 70000 
+d) Rs 120000 
+Solution- let cost of cow be x 
+let cost of horse be 200000-x 
+so, (120%)x-(90%)(200000-x)=204000 
+solve the above equation vil get x=80000 
+thus cost price of cow is 80000/- 
+ 
+Q 232. Raj drives slowly along the perimeter of a rectangular park at 24kmph and 
+completes one full round in 4mins. The ratio of length is to breadth is 3:2. What 
+are its dimensions? 
+a) 450m*300m 
+b) 150m*100m 
+c) 480m*320m 
+d) 100m*100m 
+Solution- The ratio of length is to breadth is 3:2 
+So, 
+Length is 3x and breadth is 2x 
+
+Now, The perimeter of the rectangular park is; 2( Length + Breadth) 
+2 ( 3x+ 2x) 
+2*5x 
+=10x 
+Raj drives slowly along the perimeter of a rectangular park that's mean he 
+covered the total distance 10x. 
+So, the total distance is = 10x 
+Total time 4mins, so 4/60 hrs. 
+Speed 24kmph 
+We know that,  
+Distance = Time * Speed 
+Distance = 4/60 * 24 
+Distance= 1.6 
+Now, we can write; 
+10x= 1.6 
+x = 1.6/10 
+x = 0.16 
+Length is (3*0.16) = .48km or 480 m 
+Breath (2*0.16) = .32km or 320 m 
+Ans. Its dimensions are 480m * 320 m 
+ 
+Q 233. or which of the following n is the number 2^74 + 2^2058 + 2^2n is a perfect 
+square. 
+a) 2010 b) 2018 c) 2012 d) 2020 
+Solution- 2^74 + 2^2058 + 2^2n =(2^37)^2 + (2^1029)^2 + (2^n)^2 
+
+now, if we put 2^37 = a ; 2^1029 = b; Then for the above expression to be perfect 
+square 2^2n must be equal to (2*a*b)= 2*(2^37)*(2^1029);  
+==> 2^2n = 2^(1067) 
+==> 2n = 1067 ,  
+but this case is not possible since R.H.S is an odd integer whereas L.H.S is an 
+even integer. 
+So , the above mentioned case can't hold. 
+ 
+Now,if we put 2^37 = a; 2^n = b ; So, for the given expression to be perfect square 
+2^2058 = (2*a*b)= 2*(2^37)*(2^n) = 2^(n+38); 
+So, 2058 = (n+38) 
+=> n = 2020 
+So,The answer is n = 2020 
+ 
+Q 234. Father is 5 times faster than son. Father completes work in 40days before 
+son.If both of them work together when will work get complete? 
+a) 8 days b) 50/6 days c) 10 days d) 20 days 
+Solution- et takes x days TO COMPLETE THE WORK than father will take x-40  
+as we know time is inversely propotional to speed so  
+time=1/speed 
+fatherstime/sonstime 
+ 
+x-40/x 
+and given that speed ration btwn father and son is 5:1 
+so x-40/x=5/1 
+x-40=5x 
+4x=40 
+
+x=10 
+so if father and son work together than  
+1/10+1/50 
+25/3 days is ans 
+ 
+Q 235. a beaker contains 180 litres of alcohol. On day 1, 60 litres of alcohol is 
+replaced with water. On 2nd and 3rd days 60 litres of the mixture in the beaker is 
+replaced with water. What will be the quantity of alcohol in the beaker after 3rd 
+day? 
+a) 40 liters b) 80 liters c) 53.33 liters d) 100 liters 
+Solution-  
+1st time 180-60=120 
+2nd time 120-60*120/180=80lit 
+3rd time 80-60*80/180= 160/3 lit 
+So c) 53.33 liters 
+ 
+ 
+ 
+ 
+Q 236. A man asks 5 people to make a guess about the amount of money in his 
+pocket which is less than 50. 
+A guess that the amt is a multiple of 10.. 
+B guess that the amt is a multiple of 12.. 
+C guess that the amt is a multiple of 15.. 
+D guess that the amt is a multiple of 18... 
+E guess that the amt is a multiple of 30 
+Which of the following guesses are correct? 
+
+a)AE  
+b) AB  
+c) BC  
+d) DE 
+Solution- AE:30 is multiple of both 10 and 30 which is less than 50. ... possible 
+answer. 
+AB: there is no multiple of 10 and 12 less than 50. ..... not possible answer. 
+BC: Same logic as that of AB. ..... not possible answer. 
+DE: Same logic as that of AB. ..... not possible answer. 
+Hence answer is AE. 
+ 
+Q 237. Letters of alphabets no from 1 to 26 are consecutively with 1 assigned to A 
+and 26 to Z.  By 27th letter we mean A, 28th B. In general 26m+n, m and n 
+negative intezers is same as the letters numbered n.  
+Let P = 6, strange country military general sends this secret message according 
+ot the following codification scheme.  In codifying a sentence, the 1st time a letter 
+occurs it is replaced by the pth letter from it.   2nd time if occurred it is replaced 
+by P^2 letter from it. 3rd time it occurred  it is replaced by p^3 letter from it.   
+What is the code word for ABBATIAL 
+a) GHNNZOOR 
+b) GHKJZOHR 
+c) GHHGZOGR 
+d) GHLKZOIR 
+Solution-A should be coded as 1+6 = G (it occurred for first time) 
+B should be coded as 2+6 = H (it occurred for first time) 
+B Should be coded as 2 + 36 = 38 - 26 = 12 = L (it occurred for second time) 
+Option d) 
+ 
+
+Q 238. 30L + 3Q = 1167 ,30L + 6Q = 1284 
+Find L? 
+a) 30 b) 35 c) 40 d) 45 
+Solution- 30L+3Q=1167 ----(i) 
+30L+6Q=1284 ----(ii) 
+Solving (i) & (ii),Q=39, L=35 
+ 
+Q 239. The price of a book in four different shops and the successive discounts 
+offered for the books is given below. Select the option in which the price of the 
+book is the least. 
+(a) 10%, 5%, and 5% discount on Rs.195 
+(c) 12.5% and 12.5% discounts on Rs.205 
+(b)25%, discount on Rs.200 
+(d) 10%, and 15% discounts on a marked price of Rs.190 
+Solution- we know that there is a formula on discount of m% and n% respectively 
+which is(m+n-mn/100)%.According to this for first case,total discount is 
+18.775%,so after discount the price of the book is Rs.158.38.For second case total 
+discount is 23.4375%,so the price of the book after discount is Rs.156.95.For third 
+case after discount the pice of the book is Rs.150.For last case total discount is 
+23.5% and the price of the book after discount is Rs.145.35. 
+So ans is option d in which the price is least. 
+ 
+Q 240. Divide 50 into two parts such that the sum of their reciprocals is 1/12. the 
+numbers are 
+a) (24,26) b)  (28,22) c) (27,23) d)  (20,30)  
+let one number be x 
+the other number will be 50-x  
+1/x + 1/(50-x)= 1/12  
+
+50-x+x = x(50-x)/12   
+600 = 50x-x^2  
+x^2-50x+600=0  
+x^2-30x-20x+600=0  
+x(x-30)-20(x-30)=0  
+(x-30)(x-20)=0  
+x= 20or 30 the numbers are 20 and 30 
+ 
+ 
+Q 241. John told mark that if mark gives 1/3 rd of his money to him, he will have 
+rs. 75. Mark told john that if john gives half of hi money to him, he will have rs. 75. 
+How much money did they totally have? 
+a) 105 b) 125 c) 150 d) 75 
+Solution- let mark be y nd john be x 
+x+y/3=75 
+y+x/2=75 
+by solving 
+x=60 
+y=45 
+total=105 
+ 
+Q 242. A city in the U S has a basketball league with three basketball teams, the 
+Arêtes, the Braves and the Deities. A sports writer notices that the tallest player 
+of the Arêtes is Shortest than the shortest player of the Braves. The shortest of 
+the Deities is shortest of the Arêtes, while the tallest of the braves is taller than 
+the tallest of the Arêtes. Which of the following can be judged with certainty? 
+X) Paul, a brave is taller than David, an Arêtes. 
+
+Y) David, a Deities, is shorter than Edward, an Arêtes. 
+a) X only  
+b) Both X and Y 
+c) Neither X and Y 
+d) Y only 
+ 
+Solution- its clearly written that the tallest player of the ArÃªtes is Shortest than 
+the shortest player of the Braves.  
+=> all players of braves are taller than all players of Arates. 
+=> X is true 
+=> ans = (a) 
+ 
+Q 243. Sum of the digits in the equation (16^100)*(125^135) is 
+a) 2 b) 5 c) 3 d) 8 
+Solution- 16^100 * 125^135 => (2^4)^100 * (5^3)^135 => 2^400 * 5^405 = 2^400 * 
+5^400 * 5^5  
+= (2*5)^400 *3125 
+=10^400 * 3125 
+sum of 10^400= 1+0 + 0+ 0+ ...... = 1 
+sum of 3125 = 11 
+therefore= 1 * 11 = 11 
+therefore = 1 + 1= 2 
+ans is 2 
+ 
+Q 244. what is the average of the first 200 terms of the series 1,-2,3,-4,5,-6,7.... 
+a) -0.5 b) -50.5 c) 0.5 d) 50 
+
+Solution- average of the first 200 terms of the series 1,-2,3,-4,5,-6,7... 
+=1+(-2)+3+(-4)+...+199+(-200)/200 
+=(1-2)+(3-4)+(5-6)+...+(199-200)/200 
+=(-1)+(-1)+(-1)+...100times/200 
+=-100/200 
+=-0.5 
+ 
+Q 245. A sequence x1,x2,x3.... Is said to be in harmonic progression if the 
+reciprocals 1/x1,1/x2,1/x3... are in arithmetic progression. The 5th and 7th term 
+for harmonic progression are 30 and 50 respectively what is difference between 
+6th and 4th term ? 
+a) 16 b) 14.5 c) 13.4 d) 12.5 
+Solution- hp series is  
+a,a/1+d,a/1+2d,......... 
+so applying this  
+5th term is 30=a/1+4d 
+and 7th term is 50=a/1+6d 
+so from this two eq. we get  
+a=50/3 
+and d=-1/9 
+putting this two for 4th and 6th term we get 4th term =25 ..6th term=37.5 
+difference=12.5 
+ 
+Q 246. Each of A,B and C need a 
+certain unique time to do certain work. C needs 1 hour less than A 
+to complete the work. Working together they require 30 minutes to 
+
+complete 50% of the work. The work also gets completed if A and B 
+start working together and A leaves after 1 hour and B works further 
+3 hours. How much work does C do per hour? 
+a) 16.66% 
+b) 66.66% 
+c) 50% 
+d) 33.33% 
+Solution- 50% suppose A do work in x hrs ,B in y, then c would do in x-1 hrs..then 
+1/x+1/x-1+1/y=1 in 1 hrs..also A&B 1 hrs work 1/x+1/y then work remaining xy-x-
+y/xy which is done by B in 3 hrs so (xy-x-y)/xy=3/y it results y=4x/x-1 putting value 
+we get x=3 so y=6 so A CAN DO WORK in 3 hrs B in 6 hrs & C IN 2 hrs that is 50% 
+ 
+Q 247. In an year N, the 320th day of the year is Thursday. In the year N+1 the 
+206th day of the year is also Thursday. What is the 168th day of In the year N-1? 
+a) Friday 
+b) Thursday 
+c) Tuesday 
+d) Saturday 
+Solution- riday..If the Nth year is a non-leap year, then 320th day of year N to 
+206th day of year N+1 is [(365 
+– 320) + 206] = 251 days i.e. 35 weeks + 6 days. But this will not make the two 
+days to be 
+Thursday. 
+Thus, the Nth year has to be a leap year. In this case 320th day of year N to 206th 
+day of year 
+N+1 is [(366 – 320) + 206) = 252 days i.e. 36 weeks. Hence both days will be same 
+day of the 
+week i.e. Thursday as given by the data. 
+
+ 
+168th day of N-1 year to 320th day of N year is [(365 – 168) + 320) = 517 days i.e. 
+73 weeks + 
+6 days. Thus, if the 320th day is Thursday, then the 168th day of year will be 
+Friday, option 
+ 
+Q 248. What is the remainder when 6^17+17^6 is divided by 7? 
+a) 1 
+b) 6 
+c) 0 
+d) 3 
+Solution- 6^17+17^6 = (7-1)^17 + (21-4)^6 = (7-1)^17 + (7*3 -4)^6....[eqn1] 
+ 
+if the [eqn1] is expanded then every term of the expansion except [(-1)^17 + (-4)^6] 
+will have 7 as one of its factors.  
+Just think a little bit about the binomial expansion of both [(7-1)^17] and [(7*3 -
+4)^6] ,then u can readily point out that only the last term of both the expansions , 
+i.e , [(-1)^17] & [(-4)^6] respectively,will don't have 7 as one of its factors. 
+ 
+So, we have to calculate the remainder when [(-1)^17 + (-4)^6] is divided by 7. 
+Now, clearly (-1)^17 = -1 
+and, (-4)^6 = 4^6 = 2^12 = (2^3)^4 = (7+1)^4. 
+Now, a same reasoning related to binomial expansion mentioned previously 
+explains why, when (7+1)^4 is divided by 7 will leave a remainder 1. 
+So, (7+1)^4 will be of the for (7*A + 1); where A is some +ve integer, to know 
+whose value isn't important in this case. 
+So, when  
+[(-1)^17 + (-4)^6] will be divided by 7  
+
+or, [-1 + (7+1)^4] will be divided by 7 
+or, when [-1 + 7*A +1] will be divided by 7 
+or, when [ 7*A ] will be divided by 7 , clearly therefore the remainder will be zero, 
+i.e, 0. 
+ 
+So, the answer is OPTION 3)0. 
+ 
+Q 249. George and Mark can paint 720 boxes in 20 days. Mark and Harry in 24 
+days and Harry and George in 15 days. George works for 4 days, Mark for 8 days 
+and Harry for 8 days. The total number of boxes painted by them is 
+a) 252 b) 516 c) 348 d) 492 
+Solution- Capacity of G + M = 720 / 20 = 36 
+M + H = 720 / 24 = 30 
+H + G = 720 / 15 = 48 
+Combined capacity = 2 (G + H + M) = 114 
+G + H + M = 114 / 2 = 57 
+Now capacity of G = (G+H+M) - (H + M) = 57 - 30 = 27 
+M = (G+H+M) - (H + G) = 57 - 48 = 9 
+H = (G+H+M) - (G + M) = 57 - 36 = 21 
+ 
+Given that G worked for 4 days, and mark for 8 and harry for 8 days 
+So total work by them = 4 x 27 + 8 x 9 + 8 x 21 = 348 
+ 
+Q 250. Megha drives along the perimeter of square field of side 10kms.She drives 
+along the first side at 10kmph.along second side 20 kmph along 3rd side 30kmph 
+and along the forth side at 40 kmph.Her avearse speed is ? 
+a) 19.2kmph b) 18kmp c) 30kmph d) 20kmph 
+
+Solution- Average speed : total distance/total time 
+Total distance=10*4=40 km 
+total time =10/40 + 10/20 + 10/30 + 10/40  
+ 
+So, Average Speed = 19.2 Km/h 
+ 
+Q 251. For real number x, int(x) denotes integer part of x. int(x) is the largest 
+integer less than or equal to x.int(1,2)=1, int(-2,4)= -3. Find the value of 
+int(1/2)+int(1/2+100)+int(1/2+2/100)+....+int(1/2+99/100) 
+a) 50 b) 49 c) 51 d) 48 
+Soluiton- if it is int(1/2 + 100) the answer is 150 lest if it is int(1/2 + 1/100) the 
+answer is 50.  
+from int(1/2 + 49/100)= 0 and from int(1/2 + 50/100)= 1 and int(1/2 + 99/100) = 1 so 
+from 50 to 99 it is equal to 50 
+ 
+Q 252. 10 years ago 10 people age was33. After 3 years a person of age 40 dies. 
+After another 3 years anothe person of 40years dies.After another 3 years another 
+person of 27years dies. Find the present average age? 
+a) 43 b) 44 c) 35 d) 40 
+Solution- 10 year ago 10 people= 33 
+10 year ago total age=330 
+after 3 year 1 person with age 40 died = ie take his age as 37 before 3 years 
+lly for next 2 persons ; consider as 34 (40-6) and as 18(27-9) in 6 and 9 years 
+ago( ie 37+34+18=89) 10 years ago age of 7 people =330-89=241  
+nw consider present age 7*10=70+241=311 
+nw avg= 311/7=44.43(ans) 
+ 
+Q 253. Raj invested in Indigo, HUL and SBI shares at Rs. 300, 
+
+Rs. 200 and Rs. 5 per share, 100 shares for Rs. 10000. The number of Indigo and 
+HUL shares he bought are 
+a) 15, 25 b) 23, 17 
+c) 17, 23 d) 17, 60 
+Solution- ans will be 17,23 coz.. 
+left sbi share will be 100-(17+23)=60 
+then indigo=300*17=5100 
+and HUL=200*23=4600 
+sbi=5*60=300 
+............ 
+total=5100+4600+300=10000 
+Q 254. Raju can do a piece of work in 10 days..vicky 12days,tinku 15 days..day all 
+start the work together,but raju leaves aftr 2 days,vicky leaves 3 days before the 
+work is completed..how many days work is completed? 
+a) 7 b) 5 c) 9 d) 6 
+Solution- raju+vicky+tinku one day work = (1/10)+(1/12)+(1/15)= 1/4 
+now for 2 days together work done= 2*(1/4)= 1/2 
+......now work done by tinku in last 3 days alone=(3/15)=(1/5) 
+remaining work= 1-(1/2 + 1/5)= 3/10 
+....now vicky+tinku one day work=(1/12)+(1/15)=9/60 
+therefore 3/10 work will be done by both of them in= (60/9)*(3/10)= 2 days 
+ 
+now answer= 2days(as got from above; it is days required to do rem. work)+ 
+3days(when vicky leaves)+2days(raju leaves)=7 days ans. 
+ 
+Q 255. Box of fruits can be loaded into a truck in 9 minutes by a 
+worker. And 8 boxes will fill a truck completely. How many trucks 
+
+can be loaded in 1 ½ hours if there are 16 men together. 
+a) 1 
+b) 2 
+c) 3 
+d) 0 
+Solution- 1 worker can in 9 mins load 1 box 
+1 worker can in 90 mins load (1*90/9)=10boxes 
+16 worker can in 90 mins load (10*16)=160 boxes 
+So no. of trucks needed=160/8=20 i think... 
+ 
+Q 256. the first 44 positive integers are written in order to form the largest number 
+N=12345678910111213..424344. what will be the he remainder when N is diveded 
+by 45? 
+a) 4 b) 9 c) 14 d) 18 
+Solution- no will be div by 45 when it is divided y both 9 and 5 
+a no is div by 9 if sum of digits is div by 9 
+now sum of digits of given no is 270 
+so the no is div by 9 
+and since last digit is 4 when div by 5 it leaves rem 4 
+let us say numbers such as 9,54... 
+we see they are div by 9 but leaves rem 4 when div by 5.. 
+so when div by 45 they leave rem 9 
+so req ans=9 
+ 
+Q 257. The sum of 3 consecutive numbers of the four numbers A, B, C, D are 
+4613,4961,5010,5099 then what is the largest number among A,B,C,D ? 
+
+a) 1948 b) 1463 c) 1601 d) 1550 
+Solution- Let, S1,S2,S3,S4 be the sums of A,B,C,D taking 3 of them at a time. 
+So, by the given data in the problem,it follows that : 
+S1+S2+S3+S4 = 4613+4961+5010+5099  
+=>S1+S2+S3+S4 = 19683....[eqn 1] 
+Now, Without the loss of generality we can assume  
+S1= A+B+C 
+S2= B+C+D 
+S3= C+D+A 
+S4= D+A+B 
+------------------------------------------------------- 
+adding the above terms we get, 
+S1+S2+S3+S4 = 3(A+B+C+D) 
+=>19683 = 3(A+B+C+D); [From [eqn 1] ] 
+=>(A+B+C+D)=(19683/3) 
+=>(A+B+C+D)=6561 
+So,the greatest term among them =sum of all four - sum of lowest three terms 
+So,the greatest term among them=6561-4613 = 1948. 
+So,the greatest term among them = 1948 
+So, the correct answer is : OPTION a)1948 
+ 
+Q 258. Three cars A, B and C are participating in a race.A is twice as likely as B to 
+win and B is thrice as likely as C to win. What is the probability that B will win, if 
+only one of them can win the race? 
+a) ½ b) 2/5 c) 3/10 d) 1/10 
+Solution- p(A)=2*p(B)  
+
+P(B)=3*p(c) 
+P(A) +P(B)+P(C) =1 
+2 * P(B) + P(B)+P(B)/3 =1 
+10*p(B) /3=1 
+P(B)=3/10 
+ 
+Q 259. 3 white chips, 7 blue chips, 16 green chips, 2 chips drawn from the box in 
+succession what is the probability that one is blue and other is white? 
+a) 7/50 b) 8/30 c) 7/25 d) 21/25*13 
+Solution- no of ways that 2 chips selected from total of 26 is 26C2=26*25/2=13*25 
+no of ways that 1 white and 1 blue is selected is 3C1*7C1=21 
+total probability=21/13*25 
+ 
+Q 260. George is 2/3 rd as efficient as smith and smith is ¾ th as efficient as John. 
+George working alone is what fraction of All of them working together. 
+a) 2/3 b) 2/9 c) 4/9 d) 1/3 
+Solution- g:s=2/3:1=2:3 
+s:j=3/4:1=3:4 
+g:s:j=2:3:4 
+so ans is 2/9 
+ 
+Q 261. A man can load one box in 9 minutes. A truck can contain 8 boxes. If 16 
+men load for one and a half hour, how many trucks will be loaded? 
+a) 20 b) 10 c) 15 d) 40 
+Solution- 1 person in 9 min can load 1 box 
+1 person in 1 min can load 1/9 boxes 
+
+16 person in 1 min can load 16/9 boxes 
+16 person in 90 min can load 16*90/9=160 boxes 
+now 
+8 boxes in 1 truck  
+so 
+160 boxes comes under 20 trucks  
+so answer is 20 trucks loaded 
+ 
+Q 262. In the simple subtraction problem Below , sum single digits (not 
+necessarily distinct) are replace by letters , find the value of 7*A + 7*B +6*C*D 
+A 7 C 2 
+- 4 B 6 8 
+————– 
+5 4 3 D 
+a) 77 b) 95 c) 84 d) 70 
+Solution- A7C2 
+-4B68 
+_________ 
+543D 
+So after solving the equation we get A=9,B=2,C=0,D=4(because no are not distinct 
+so it may be repeated). 
+so Ans of 7A+7B+6CD=7*7+7*2+6*0*4=77 
+ 
+Q 263. There are 5 distinct integers a,b,c,d,e in ascending order. 
+(68-a)(68-b)(68-c)(68-d)(68-e)=725. 
+then what is the value of a+b+c+d? 
+
+a) 34 b) 136 c) 306 d) 238 
+Solution- 725 = -5*-1*1*5*29  
+so we can write, 
+68-e = -5 
+=> e = 73 
+68-d = -1 
+=> d = 69 
+68-c = 1 
+=> c = 67 
+68 - b = 5 
+=> b = 63 
+68-a= 29 
+=> a = 39 
+ 
+so a+b+c+d = 39+63+67+69 = 238 
+ 
+Q 264. A circle has 29 points arranged in a clockwise manner numbered from 0 to 
+28, as shown in the figure below. A bug moves clockwise around the circle 
+according to the following rule. If it is at a point i on the circle, it moves clockwise 
+in 1 second by ( 1 + r ) places, where r is the reminder ( possibly 0 ) when i is 
+divided by 11. Thus if it is at position 5, it moves clockwise in one second by ( 1 + 
+5 ) places to point 11. Similarly if it is at position 28 it moves ( 1 + 6 ) or 7 places 
+to point 6 in one second. If it starts at point 23, at what point will it be after 2012 
+seconds?        
+                                                      
+a) 1 b) 7 d) 15 d) 20 
+Solution- after 1st second : (1+23%11 = 1) = 2 places [25] 
+after 2nd second : (1+25%11 = 3) = 4 places [0] 
+
+after 3rd second : (1+0%11 = 0) = 1 place [1] 
+after 4th second : (1+1%11 = 1) = 2 places [3] 
+after 5th second : (1+3%11 = 3) = 4 places [7] 
+after 6th second : (1+7%11 = 7) = 8 places [15] 
+after 7th second : (1+15%11 = 4) = 5 places [20] 
+after 8th second : (1+20%11 = 9) = 10 places [1] 
+now,for the same pattern from 4th sec to 8th sec will repeat itself (5 sec intervals).. 
+total time = 2012 secs 
+first 3 secs out of pattern...so time left 2012 - 3 =2009 secs 
+ 
+now no. of repetitions in the leftover time = 2009/5 = 401....remainder = 4 
+for the next 4 iterations following the similar pattern  
+ 
+the position will be 20.. 
+Q 265. Total income of Eesha in the years 2003,2004,2005 was $36,400.Her 
+income increased by 20% each year.What was her income in 2005? 
+a) 14500 b) 14000 c) 14200 d) 14100 
+Solution- let in 2003 income=x.so in 2004 it will be (x+x*20%)=6x/5.and in 2005 it 
+will be(6x/5+6x/5*20%)=36x/25. 
+x+6x/5+36x/25=36400 then x=10000.in 2004 income=12000 and in 2005 
+income=14400 
+ 
+Q 266. Length, Breadth and Height of a cuboid is in the ratio 1:3:27. Volume of the 
+cuboid is 27 m3. If the length is doubled and Breadth & Height are halved, then 
+what is the change in the volume of the cuboid? 
+a) Decreased by 15% b) Decreased by 18% c) Decreased by 30% 
+d) Decreased by 50% 
+
+Solution- given l:b:h=1:3:27 
+so now volume will be lbh=1*3*27=81 
+now given l is doubled so l= 2l 
+b and h are halved so b=3b/2,h=27h/2 
+now new volume 2l*b/2*h/2 
+so substitute values then u get lbh=2*(3/2)*(27/2)=40.5 
+so the change is 81-40.5=40.5 
+so half of the original volume 
+ 
+Q 267. Two people, Ranbir and Katrina decide to meet at a a beach between 1 pm 
+to 2 pm, given that both will surely turn up once in the given time frame. If Ranbir 
+arrives, he waits for 15 minutes and then leaves feeling betrayed and similarly 
+Katrina waits for 15 minutes after she arrives. So what's the probability that they 
+meet? 
+a) 0.35 b) 0.45 c) 0.25 d) 0.15 
+Solution- waiting time of both katrina and runbir is 15 min. Means they can meet 
+only meet each other in 15 Min. , if they 1 more min. than they can't meet each 
+other .. so chances of meeting in only(Favourable event )=15 min 
+Total no. of min.(Sample space)= 60 min 
+Probability of Meeting is =(Favourable event)/(Sample space) 
+15/60=0.25 ans. 
+ 
+Q 268. If (3a+6b)/(5a+12b)=12/23 determine the value of 3a2+5b2/ab 
+a) 19/2 b) 32/3 c) 9 d) 31/3 
+Solution- consider (3a+6b)/(5a+12b)=12/23---->eq 1 
+sol eq--->1 the v vil get a/b=2/3 
+div 'ab 'to the num and den for 3a2+5b2/ab 
+
+therfore, 3*(a/b)+5*(ba) 
+sub a/b=2/3 in ab eqtn 
+v get 19/2 
+ 
+Q 269. A series of books was published at 10years intervals when the 10th book 
+was issued the sum of publication years was 19,560when was the 1st book 
+published 
+a)1910 b)1914 c)1911 d)1909 
+Solution- 19560=10/2[a+a+(10-1)*10] 
+19560=5[2a+90] 
+19560-450=10a 
+a=19110/10 
+a=1911 
+ 
+Q 270. given the digits 1,3,6,9 find the probability that a 3 digit number formed by 
+using them with no digit repeated is divisible by 4  
+a) 1/12 b) 1/4 c) 1/6 d) none 
+Solution- divisibility rule for four is last 2 digit must be divisible by 4. so last 2 
+digit must be 16,36,96. 
+(1) -- -- 1 6,(2) -- -- 3 6 , (3) -- -- 9 6  
+mow you can put in 1 st case 9,3 yoy have 2*1 choice, similar in 2nd and 3rd 
+case ..so total number of choice is =6 
+and total no. odf case = 4!=24 
+p(divisible 4)= 6/24=1/4 
+ 
+Q 271. The diagonal of a square is twice the side of equilateral triangle the ratio of 
+Area of the Triangle to the Area of Square is? 
+
+a) √3:8 b) √2:5 c) √3:6 d) √2:4 
+Solution- diagonal of a square is 2a 
+area of the square=1/2*(diagonal)^2 i.e 2a^2 
+side of the equi triangle is a 
+area of equi triangle=(3/4)a^2 
+3/4a^2:2a^2 
+3:8 
+ 
+Q 272. The number of different non congruent triangles with integer side and 
+perimeter 15 is 
+a) 9 b) 7 c) 10 d) 6 
+Solution- B)7, Let ,1st side of triangle =a, 2nd side =b & 3rd side =c 
+ 
+A/C to law of triangle a+b>c so (a+b) must be 8 or 9 or 10 or 11 or 12 or 13 or 14 
+but not be 15, 
+ 
+Q 273. The number of committes of size 10 that could be formed from 10 men & 
+10 women such that committee has atleast 6 women is 
+a)60626 b) 210 c) 10210 d) none 
+Solution- Option: (a) 
+10C6x10C4 + 10C7X10C3 + 10C8X10C2 + 10C9X10C1 + 10C10X10C0 
+= 44100+14400+2025+100+1 
+= 60626 
+ 
+Q 274. How many positive multiples of 10 that are less than 1000 are the sum of 4 
+consecutive integers 
+
+a) 51 b) 50 c) 49 d) none 
+Solution- in the question what they given is we have to find the sum of the 4 
+consecutive numbers that sum should be multiple of like 10 ie..10,20.....and 
+should be less than 1000. 
+so that we can conclude tat last 10 multiple before 1000 is 990 
+then w.k.t 1+2+3+4=10 
+6+7+8+9=30--->2 
+11+12+13+14=50 
+16+17+18+19=70 
+like wise it will be repeat, 
+based upon the given we need to find upto 990 how many time it occurs is  
+so that use this formula to find last number in AP 
+sn=a+(n-1)d 
+we knw sn=990=>last number 
+a=10=>initial number 
+d=20==>diff b/w two consecutive numbers  
+990=10+(n-1)20 
+990=10+20n-20 
+990=20n-10 
+20n=1000 
+n=50 
+ 
+Q 275. Inabhi’s class of 44 students,28 students speak malayalam,26 students 
+speak tamil,9 students speak none of the two languages.How many students 
+speak both tamil& Malayalam 
+a) 54 b) 38 c) 19 d) 10 
+Solution- (44-9)=28+26-n(A$B) 
+
+35=54-n(A$B) 
+n(A$B)=19 
+ 
+Q 276. The sum of two numbers is 2016 and their product is 32 the sum of their 
+reciprocals is 
+a) 63 b) 9 c) 32+ 2014 d) 32- 2014 
+Solution- let two no are x,y 
+x+y=2016 ......(1) 
+xy=32 ......(2) 
+therefore 
+1/x+1/y=x+y/xy=2016/32=63 
+ 
+Q 277. The sum of two numbers is 45. The sum of their quotient and is reciprocal 
+is 2.05, the product of the numbers is? 
+a) 450 b) 205 c) 400 d) 500 
+Solution- a + b = 45 
+a/b+b/a = 2.05 
+=>(a^2+b^2)/ab = 2.05 
+=>((a+b)^2−2ab)/ab=2.05 
+=>(a+b)^2 = 2.05ab + 2ab = 4.05ab 
+=> ab = 45^2 / 4.05 = 500 
+ 
+Q 278. Find the number of divisors of 1728.? 
+a) 28 b) 20 c) 30 d) 18 
+Solution- 1728= 2^6 * 3^3 
+
+Hence the Number of factors = (6+1) x (3+1) = 7 x 4 = 28. 
+We know that if a number represented in standard form (a^m *b^n) , then the 
+number of factors Is given by (m+1)(n+1). 
+Answer is 28 
+ 
+Q 279. In 4 years, Rajs father will be double Rajs age then. Two years ago, while 
+his mother was twice his age that time. If Raj is going to be 32 years old 8 years 
+from now, then what is the sum of his parents age now? 
+a) 96 b) 100 c) 102 d) 98 
+Solution- R.F=RAJS FATHER AGE 
+R=RAJS AGE 
+R.M=RAJS MOTHER AGE 
+(R.F+4)=2*(R+4) 
+(R.M-2)=2*(R-2) 
+R+8=32 
+therefore, R=24 
+therefore, R.M=46 
+therefore, R.F=52 
+R.F + R.M = 98 
+ 
+Q 280. when a no. divided by 406 it gives 115 as a remainder. when it divided by 
+29 what is the remainder.??? 
+a) 27 b) 7 c) 28 d) 19 
+Solution- let x is divided by 406 & gives quotient y & remainder 115 then 
+x = 406 * y + 115  
+now, x / 29 = (406 * y + 115)/29 = 406 * y/29 + 115/29 
+=> rem = 115/29 = 28 
+
+ 
+Q 281. Raj divided 50 into two parts such that the sum of their reciprocal is 1/12, 
+we get the parts as 
+a) 28, 22 
+b) 24, 36 
+c) 36, 14 
+d) 20, 30 
+Solution- (1/20)+(1/30)=5/60=1/12 so ans is (d) 20,30 
+ 
+Q 282. p/q - q/p =21/10 
+then 
+4p/q + 4q/p = ? 
+a) 58/10 b) 113/10 c) 58/5 d) 121/110 
+Solution- 58/5 
+let us take p/q=x and q/p=1/x 
+x-1/x=21/10 
+then by solving we get a quadratic equation like 10x^2-10-21x=0 
+10x^2-25x+4x-10=0 
+then by taking factors we get two values for x,x=-2/5 and x=5/2 
+by substituting x=5/2 
+4(5/2)+4(2/5)=58/5 
+ 
+Q 283. what is the 2015th no. of problemsolvingproblemsolving............................ 
+a) g b) p c) n d) o 
+Solution- "problemsolving"it is a 14 letters word 
+
+total no=2015th 
+"g" is repeat=2015/14=143 remainder=13 
+13th words is "N" 
+ 
+Q 284. In the sixth, seventh, eighth, and ninth basketball games of the season, a 
+player scored 23,14, 11, and 20 points, respectively. Her points-per-game average 
+was higher after nine games than it was after the first five games. If her average 
+after ten games was greater than 18, what is the least number of points she could 
+have scored in the tenth game? 
+a) 29 b) 30 c) 28 d) 27 
+Solution- The sum of the scores for games 6 through 9 is 68. The average in these 
+four games is \frac{68}{4} = 17 
+The total points in all ten games is greater than $10\cdot 18 = 180. Thus, it must 
+be at least 181. 
+There are at least 181 - 68 = 113 points in the other six games: games 1-5and 
+game 10.Games 1-5 must have an average of less than 17. Thus we cannot put 
+more than $16 + 17 + 17 + 17 + 17 = 84 points in those five games. 
+ 
+Thus, the tenth game must have at least $113 - 84 = 29 points 
+Q 285. 2/3rd of the balls in a bag are blue, the rest are pink. if 5/9th of the blue 
+balls and 7/8th of the pink balls are defective, find the total number of balls in the 
+bag given that the number of non defective balls is 146. 
+a) 216 b) 649 c) 432 d) 578 
+Solution- let the total balls be x 
+2/3x=blue & 1/3x=pink 
+non defective balls=146 
+total no. of balls=defective+non defective 
+hence defective=total-non defective(146) 
+(2/3x)*5/9+(1/3x)*7/8=t-146 
+
+0.66203x=t-146 
+146=0.3303x 
+x=432 
+ 

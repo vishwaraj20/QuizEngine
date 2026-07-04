@@ -1,0 +1,240 @@
+
+
+TEST CODE	: TCS17-04T(R)
+
+Total number of question	: 10
+
+Test duration (min)	: 20 min
+
+Correct attempt (mark)	: 1 
+
+Wrong attempt (mark)	: Nil
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TECHNICAL
+
+
+
+Certain questions are self-explanatory. Thus detailed solutions are provided only wherever required.
+
+
+
+1. What is the purpose of ftell?
+
+a. To get the current file name
+
+b. To get the current file status
+
+c. To get the current file attributes
+
+d. To get the current file position
+
+
+
+Answer: D
+
+
+
+Explanation: 
+
+ ftell() is used to find out the position of file pointer in the file with respect to starting of the file.
+
+
+
+2. What will be the output of the below code?
+
+
+
+a. NO output				b. NO
+
+c. Successfully complied but no output	d. ERROR
+
+
+
+Answer: C
+
+
+
+Explanation: 
+
+ No error and if condition fails so there is no output
+
+
+
+3. What is the output of the below-mentioned programme?
+
+
+
+a. sizeof(i) = 2			b. sizeof(i) = 1
+
+c. compile Error			d. None of these
+
+
+
+Answer: B
+
+
+
+Explanation: 
+
+  int size is 2bytes or 4 bytes. Char size is 1 byte. Int is defined as Char. Sizeof(i) = 1
+
+
+
+4. For passing command line argument the main function should be like
+
+a. int main(int argc, char *argv[])
+
+b. int main(int argc)
+
+c. int main(char *argv[])
+
+d. int main(char *argv[], int argc)
+
+
+
+Answer: A
+
+Explanation: 
+
+ Command Line Arguments Syntax
+
+
+
+5. Where the local variables are stored?
+
+a. Disk		b. Stack		c. Heap		d. OS
+
+
+
+Answer: B
+
+
+
+Explanation: 
+
+ Local Variable is stored in stack
+
+
+
+6. Which of the below functions is NOT declared in string.h?
+
+a. strptr ()			b. strcpy ()
+
+c. strlen()			d. strupr()
+
+
+
+Answer: A
+
+
+
+Explanation: 
+
+ strptr() is not declared
+
+
+
+7. What is the output of the below-mentioned programme?
+
+
+
+a. 16				b. Compilation Error
+
+c. 64				d. 4
+
+
+
+Answer: C
+
+
+
+Explanation: 
+
+ It executes based on the operator precedence. 64 / 4 * 4.  16*4 = 64
+
+
+
+8. What is the format of conditional operator?
+
+a. Condition? true value: false value
+
+b. Condition! true value: false value
+
+c. Condition? false value: true value
+
+d. Condition? true value: :false value
+
+
+
+Answer: A
+
+
+
+Explanation: 
+
+                  Syntax
+
+
+
+9. What is recursion?
+
+a. Looping
+
+b. A function calls another function repeatedly
+
+c. A function calls repeatedly
+
+d. A function calls itself repeatedly
+
+
+
+Answer: D
+
+
+
+Explanation: 
+
+ In recursion, function calls itself repeatedly
+
+
+
+10. A memory leak happens when?
+
+a. A program allocates memory in heap but forget to delete it.
+
+b. A program allocates memory in stack.
+
+c. When an unsigned pointer is freed using free function.
+
+d. When realloc() is called on a pointer that is not allocated
+
+
+
+Answer: A
+
+
+
+Explanation: 
+
+ Memory leak occurs when programmers create a memory in heap and forget to delete it.
+
+
+

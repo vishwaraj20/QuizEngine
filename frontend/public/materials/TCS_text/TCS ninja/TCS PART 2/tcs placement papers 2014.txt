@@ -1,0 +1,256 @@
+
+
+TCS Placement Paper 2014 
+ 
+Naradha.in Page 1 
+ 
+ 1. Ray writes a two digit number.  He sees that the number exceeds 4 times the sum of its digits 
+by 3.  If the number is increased by 18, the result is the same as the number formed by reversing 
+the digits.  Find the number.  
+a) 35 
+b) 42 
+c) 49 
+d) 57 
+Solution: Let the two digit number be xy. 
+4(x + y) +3 = 10x + y .......(1) 
+10x + y + 18 = 10 y + x ....(2) 
+Solving 1st equation we get 2x - y = 1 .....(3) 
+Solving 2nd equation we get y - x = 2 .....(4) 
+Solving 3 and 4, we get x = 3 and y = 5 
+ 
+2. a, b, c are non negitive integers such that 28a+30b+31c = 365. a + b + c = ? 
+a) Greater than 14 
+b) less than or equal to 11 
+c) 13 
+d) 12 
+In a calender,  
+Number of months having 28 days = 1 
+Number of months having 30 days = 4 
+Number of months having 31 days = 7 
+28 x 1 + 30 x 4 + 31 x 7 = 365 
+Here, a = 1, b = 4, c = 7.  
+a+b+c = 12 
+ 
+3. George can do a piece of work in 8 hours. Paul can do the same work in 10 hours, Hari can do 
+the same work in 12 hours.  George, paul and hari start the same work at 9 am, while george 
+stops at 11 am, the remaining two complete the work. What time will the work complete? 
+a) 11.30 am 
+b) 12 noon 
+c) 12.30 pm 
+d) 1 pm 
+Let the total work = 120 units.  
+As George completes this entire work in 8 hours, his capacity is 15 units /hour 
+Similarly, the capacity of paul is 12 units / hour 
+the capacity of Hari is 10 units / hour 
+All 3 started at 9 am and worked upto 11 am. So total work done upto 11 am = 2 x (15 + 12 + 
+10) = 74 
+Remaining work = 120 - 74 = 46 
+Now this work is to be done by paul and hari.  46 / (12 + 10) = 2 hours (approx) 
+So work gets completed at 1 pm 
+ 
+4. If x^y denotes x raised to the power y, Find last two digits of (1141^3843) + (1961^4181) 
+a) 02 
+
+TCS Placement Paper 2014 
+ 
+Naradha.in Page 2 
+ 
+b) 82 
+c) 42 
+d) 22 
+ 
+Remember 1 raised to any power will give 1 as unit digit.  
+To find the digit in the 10th place, we have to multiply, 10th digit in the base x unit digit in the 
+power.  
+ 
+So the Last two digits of the given expression = 21 + 61 = 82 
+ 
+5. J can dig a well in 16 days. P can dig a well in 24 days. J, P, H dig in 8 days.  H alone can dig 
+the well in How many days? 
+a) 32 
+b) 48 
+c) 96 
+d) 24 
+Assume the total work = 48 units. 
+Capacity fo J = 48 / 16 = 3 units / day 
+Capacity of P = 48 / 24 = 2 units / day 
+Capacity of J, P, H = 48 / 8 = 6 units / day 
+From the above capacity of H = 6 - 2 - 3 = 1 
+So H takes 48 / 1 days = 48 days to dig the well 
+ 
+6. If a lemon and apple together costs Rs.12, tomato and a lemon cost Rs.4 and an apple costs 
+Rs.8 more than a  lemon.  What is the cost of lemon? 
+L + A = 12 ...(1) 
+T + L = 4 .....(2) 
+L + 8 = A 
+Taking 1 and 3, we get A = 10 and L = 2 
+ 
+7. 3 mangoes and 4 apples costs Rs.85. 5 apples and 6 peaches costs 122.  6 mangoes and 2 
+peaches costs Rs.144.  What is the combined price of 1 apple, 1 peach, and 1 mango. 
+
+TCS Placement Paper 2014 
+ 
+Naradha.in Page 3 
+ 
+a) 37 
+b) 39 
+c) 35 
+d) 36 
+Sol: Note: It is 114 not 144.  
+3m + 4a = 85 ..(1) 
+5a + 6p = 122 ..(2) 
+6m + 2p = 114 ..(3) 
+ (1) x 2 => 6m + 8a = 170 
+ (3) =>  6m + 2p = 114 
+Solving we get 8a - 2p = 56 ..(4) 
+(2) =>  5a + 6p = 122 
+3 x (4) = 24a - 6p = 168 
+Solving we get a = 10, p = 12, m = 15 
+So a + p + m = 37 
+ 
+8. An organisation has 3 committees, only 2 persons are members of all 3 committee but every 
+pair of committee has 3 members in common. what is the least possible number of members on 
+any one committee? 
+a) 4  
+b) 5 
+c) 6 
+d) 1 
+Sol: 
+ 
+Total 4 members minimum required to serve only on one committee.  
+ 
+
+TCS Placement Paper 2014 
+ 
+Naradha.in Page 4 
+ 
+9. There are 5 sweets - Jammun, kaju, Peda, Ladu, Jilebi which can be consumed in 5 
+consecutive days. Monday to Friday. A person eats one sweet a day, based on the following 
+constraints.  
+(i) Ladu not eaten on monday 
+(ii) If Jamun is eaten on Monday, Ladu should be eaten on friday.  
+(iii) Peda is eaten the day following the day of eating Jilebi 
+(iv) If Ladu eaten on tuesday, kaju should be eaten on monday 
+based on above, peda can be eaten on any day except 
+a) tuesday  
+b) monday 
+c) wednesday 
+d) friday 
+From the (iii) clue, peda must be eaten after jilebi. so Peda should not be eaten on monday.  
+ 
+10. If YWVSQ is 25 - 23 - 21 - 19 - 17, Then MKIGF 
+a) 13 - 11 - 8 - 7 - 6 
+b) 1 - 2-3-5-7 
+c) 9 - 8 - 7 - 6 - 5 
+d) 7 - 8 - 5 - 3 
+MKIGF = 13 - 11 - 9 - 7 - 6 
+Note: this is a dummy question. Dont answer these questions 
+ 
+11. Addition of 641 + 852 + 973 = 2456 is incorrect.  What is the largest digit that can be 
+changed to make the addition correct? 
+a) 5  
+b) 6 
+c) 4  
+d) 7 
+Sol: 
+ 641 
+ 852 
+ 963 
+------ 
+
+TCS Placement Paper 2014 
+ 
+Naradha.in Page 5 
+ 
+2466 
+Largest among tens place is 7, so 7 should be replaced by 6 to get 2456 
+ 
+12. Value of a scooter depriciates in such a way that its value at the end of each year is 3/4th of 
+its value at the beginning of the same year. If the initial value of scooter is 40,000, what is the 
+value of the scooter at the end of 3 years. 
+a) 23125 
+b) 19000 
+c) 13435 
+d) 16875 
+value of the scooter at the end of the year = 40000×(34)3 = 16875 
+ 
+13. At the end of 1994, R was half as old as his grandmother.  The sum of the years in which 
+they were born is 3844.  How old R was at the end of 1999 
+a) 48 
+b) 55 
+c) 49 
+d) 53 
+In 1994, Assume the ages of GM  and R = 2k, k 
+then their birth years are 1994 - 2k, 1994 - k.  
+But given that sum of these years is 3844.  
+So 1994 - 2k + 1994 - k = 3844  
+K = 48 
+In 1999, the age of R is 48 + 5 = 53 
+ 
+14. When numbers are written in base b, we have 12 x 25 = 333, the value of b is? 
+a) 8 
+b) 6 
+c) None 
+d) 7 
+Let the base = b 
+So, (b+2)(2b+5) = (b+2)(2b+5)=3b2+3b+3 
+2b2+9b+10=3b2+3b+3 
+
+TCS Placement Paper 2014 
+ 
+Naradha.in Page 6 
+ 
+b2−6b−7=0 
+Solving we get b = 7 or -1 
+So b = 7 
+ 
+15. How many polynomials of degree >=1 satisfy f(x2)=[f(x)]2=f(f(x) 
+a) more than 2 
+b) 2 
+c) 0 
+d) 1 
+Sol:Let f(x) = x2 
+f(x2)=[x2]2=x4 
+(f(x))2=[x2]2=x4 
+f(f(x))=f(x2)=[x2]2=x4 
+Only 1 
+ 
+16. Figure shows an equilateral triangle of side of length 5 which is divided into several unit 
+triangles.  A valid path is a path from the triangle in the top row to the middle triangle in the 
+bottom row such that the adjacent triangles in our path share a common edge and the path never 
+travels up (from a lower row to a higher row) or revisits a triangle.  An example is given below. 
+How many such valid paths are there?  
+a) 120  
+b) 16 
+c) 23 
+d) 24 
+ 
+ 
+Sol: 
+
+TCS Placement Paper 2014 
+ 
+Naradha.in Page 7 
+ 
+Number of valid paths = (n-1) ! = (5-1)! = 24 
+ 
+17. In the question, A^B means, A raised to power B. If x*y^2*z < 0, then which one of the 
+following statements must be true? 
+(i) xz < 0 (ii) z < 0  (iii) xyz < 0 
+a) (i) and (iii) 
+b) (iii) only 
+c) None 
+d) (i) only 
+As y^2 is always positive,  x*y^2*z < 0 is possible only when xz < 0. Option d is correct.  
+ 
+18. The marked price of a coat was 40% less than the suggested retail price.  Eesha purchased the 
+coat for half the marked price at the fiftieth anniversary sale.  What percentage less than the 
+suggested retail price did Eesha pay? 
+a) 60 
+b) 20 
+c) 70 
+d) 30 
+Let the retail price is Rs.100. then market price is (100-40) % of 100 = 60.  Eesha purchased the 
+coat for half of this price. ie., 30 only. which is 70 less than the retail price. So Option C is 
+correct.  
+ 

@@ -1,0 +1,183 @@
+
+
+Free Placement Video Tutorial with Mock Test visit: 
+www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+www.MyPlacementPrep.com 
+ 
+Pro Material Series 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Join Telegram Channel for more updates: 
+https://t.me/MyPlacementprepApp 
+ 
+Visit www.MyPlacementPrep.com .  
+India’s No1 website for Placement Materials and Free mock test Series 
+Free Placement Learning path now available with free video course. 
+
+Free Placement Video Tutorial with Mock Test visit: 
+www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+Best website for interview preparation: www.prodevelopertutorial.com  
+ 
+CODING  
+Program to print all the unique elements in the array.  
+#include <stdio.h> #define MAX_SIZE 100 int main() 
+{  
+int arr[MAX_SIZE], freq[MAX_SIZE]; int size, i, j, count; 
+scanf("%d", &size);  
+// Get the N elements as input 
+// Assign the array freq[] as -1 (i.e., as default value)  
+for(i=0; i<size; i++) {  
+scanf("%d", &arr[i]);  
+freq[i] = -1; }  
+// Check the frequency of all the elements in an array for(i=0; i<size; i++)  
+{ 
+count = 1; 
+for(j=i+1; j<size; j++) {  
+if(arr[i] == arr[j]) {  
+count++;  
+freq[j] = 0; }  
+} 
+// Store the number of occurrences of each element of the given array  
+if(freq[i] != 0) {  
+freq[i] = count; }  
+} 
+// Print only the unique elements  
+
+Free Placement Video Tutorial with Mock Test visit: 
+www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+// If freq[i] value is 1, then it has occured only one time for(i=0; i<size; i++)  
+{ 
+if(freq[i] == 1) {  
+printf("%d ", arr[i]); }  
+______________________________________________________________________________________________________  
+Buy top competitive programming and coding question book to clear interview. 100+ solved 
+questions Buy top data structure and algorithm book to clear interview. 90+ Chapters 
+Join telegram channel for placement materials  
+TEST CODE : TCS Ninja - Coding_3 
+Total number of question : 1 
+Test duration (min) : 20 min  
+Correct attempt (mark) : NA Wrong attempt (mark) : NA  
+
+Free Placement Video Tutorial with Mock Test visit: 
+www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+
+Free Placement Video Tutorial with Mock Test visit: 
+www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+ 
+Best website for interview preparation: www.prodevelopertutorial.com  
+ 
+}  
+return 0; }  
+______________________________________________________________________________________________________  
+Buy top competitive programming and coding question book to clear interview. 100+ solved 
+questions Buy top data structure and algorithm book to clear interview. 90+ Chapters 
+Join telegram channel for placement materials  
+
+Free Placement Video Tutorial with Mock Test visit: 
+www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+
+Free Placement Video Tutorial with Mock Test visit: 
+www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+ 
+ 
+ 
+ 
+www.MyPlacementPrep.com 
+ 
+Free Mock Test and Video 
+Tutorial 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Visit www.MyPlacementPrep.com .  
+India’s No1 website Placement and Mock Test series 
+Free Placement Learning Path with Free Video Course. 
+
+Free Placement Video Tutorial with Mock Test visit: 
+www.MyPlacementPrep.com 
+ 
+ 
+Join Telegram Channel: https://t.me/MyPlacementprepApp 
+Join Telegram Group: https://t.me/myPlacementPrep 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

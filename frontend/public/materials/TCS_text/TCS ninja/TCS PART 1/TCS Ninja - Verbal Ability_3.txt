@@ -1,0 +1,286 @@
+
+
+TEST CODE	: TCS Ninja - Verbal Ability_3
+
+Total number of question	: 10
+
+Test duration (min)	: 10 min
+
+Correct attempt (mark)	: 1 
+
+Wrong attempt (mark)	: Nil
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+VERBAL ABILITY
+
+
+
+Questions 1 to 2
+
+In the following sentences, there may be some errors in the parts which are marked as A, B, C, D. Identify the part which has errors.
+
+1. Everyone who saw the movie ‘Star Wars’ (A)/ is unanimous in their view (B)/ that it is the best science fiction movie (C)/ ever produced. (D)
+
+a. A		b. B		c. C		d. D
+
+
+
+Answer: B
+
+
+
+Explanation: 
+
+ The word 'unanimous' itself means sharing the same views or opinions. Thus it is needless to repeat the same point by stating that 'Everyone who saw the movie ‘Star Wars’ is unanimous in their view'. Thus the error is in B. 
+
+Correction: Everyone who saw the movie ‘Star Wars’ is unanimous that it is the best science fiction movie ever produced.
+
+
+
+2. Though the elephant, because of its size, (A)/ appears to be a rather slow animal, (B)/ it can in fact run faster than (C)/ any other man. (D)
+
+a. A		b. B		c. C		d. D
+
+
+
+Answer: D
+
+
+
+Explanation: 
+
+ Correction: Though the elephant, because of its size, appears to be a rather slow animal, it can in fact run faster than any other man can.
+
+It should be evident from the sentence that the ability of an elephant is being compared to the ability of a man.
+
+
+
+Question 3
+
+Choose the most appropriate sentence which can replace the ‘Underlined’ sentence.
+
+3. The publishers, unwilling to shoulder the entire risk, insisted that the author should pay half the cost of the initial print run of his controversial new book.
+
+a. The publishers, unwilling to shoulder the entire risk, insisted that the author should pay half the cost of the initial print run of his controversial new book.
+
+b. The publishers, unwilling to shoulder the entire risk, insisted that the author should be paying half the cost of the initial print run of the author’s controversial new book.
+
+c. The publishers, unwilling to shoulder the entire risk, insisted that the author pay half the cost of the initial print run of his controversial new book.
+
+d. Unwilling to shoulder the entire risk, the publishers insisted the author should pay half the cost of the initial print run of his controversial new book.
+
+
+
+Answer: C
+
+
+
+Explanation: 
+
+ The option 'The publishers, unwilling to shoulder the entire risk, insisted that the author pay half the cost of the initial print run of his controversial new book.' is the correct option. When the verb 'insist' comes, there doesn't arise a need for using the verb 'should'.
+
+
+
+Question 4
+
+For each sentence, choose the most appropriate option that best completes the given sentence.
+
+4. His musical tastes are certainly ____; he has recordings ranging from classical piano performances to rock concerts, jazz and even Chinese opera.
+
+a. antediluvian			b. eclectic
+
+c. harmonious			d. Sonorous
+
+
+
+Answer: B
+
+
+
+Explanation: 
+
+ The correct option is eclectic.
+
+Eclectic means a mixture of what appears to be best of various doctrines, methods or styles. Thus the word fits into its premises perfectly.
+
+Antediluvian: ancient or antiquated; old; prehistoric.
+
+Harmonious: showing accord in feeling or action.
+
+Sonorous: capable of giving out a deep resonant sound.
+
+
+
+
+
+
+
+Question 5
+
+Choose the most logical order of sentences among the given choices to construct a coherent paragraph.
+
+5. A. Besides this, no organ of the government can act in a manner that violates them.
+
+B. While ordinary legal rights are protected and enforced by ordinary law, Fundamental Rights are protected and guaranteed by the constitution of the country.
+
+C. Ordinary rights may be changed by the legislature by ordinary process of law making, but a fundamental right may only be changed by amending the Constitution itself.
+
+D. Fundamental Rights are different from other rights available to us.
+
+a. DCBA	         b. DBCA        c. DCAB        d. ACDB
+
+
+
+Answer: B
+
+
+
+Explanation: 
+
+ The correct answer is DBCA. The opening sentence can only be D. sentence B introduces us to the differences between ordinary and fundamental rights. The sentence C demarcates the two kinds of rights further and sentence A concludes it. Thus the sequence is DBCA
+
+
+
+Question 6
+
+In each of the questions given below from the given options select the word which is farthest in meaning to the word given in the question.
+
+6. Infirm
+
+a. hospitable			b. Equestrian
+
+c. tremulous			d. Robust
+
+
+
+Answer: D
+
+
+
+Explanation: 
+
+ The word infirm means feeble or weak in body or health. A very old dog would likely be infirm. The opposite of infirm is
+
+strong in health. Because robust means strong and healthy, 'robust' is the answer. 
+
+'hospitable' means receptive or open. This is not the opposite of infirm. 
+
+'equestrian' means mounted on horseback. This is not the opposite of infirm. 
+
+'tremulous' means quivering or fearful. This is not the opposite of infirm.
+
+
+
+Question 7
+
+Select the lettered pair that best expresses a relationship similar to that expressed by the original pair.
+
+7. ETHEREAL: EMPYREAL::
+
+a. celestial : deferential        b. earnest : saccharine
+
+c. fastidious : foolhardy	      d. obsequious : sycophantic
+
+
+
+Answer: D
+
+
+
+Explanation: 
+
+ To be ethereal is to be empyreal; both terms refer to the heavenly or unearthly. Similarly, to be obsequious is to be sycophantic; both terms refer to behaviour that is excessively fawning, servile, or submissive.
+
+
+
+Question 8
+
+In each of the questions given below from the given options select the word which is closest in meaning to the word given in the question.
+
+8. Prosaic
+
+a. Pedestrian			b. Creative
+
+c. Exceptional			d. Different
+
+
+
+Answer: A
+
+
+
+Explanation: 
+
+ Prosaic means pertaining to or having the characteristics of prose. It also means simple and commonplace to the point of being boring. 
+
+Pedestrian has a meaning of ordinary, dull, everyday; unexceptional. Thus the words 'prosaic' and 'pedestrian' are synonymous.
+
+
+
+QUESTION 9
+
+Choose the most appropriate sentence which can replace the ‘Underlined’ Phrase.
+
+9. People cry over spilt milk when they do not execute tasks with proper planning.
+
+a. weep
+
+b. repent
+
+c. fail
+
+d. are indifferent
+
+
+
+Answer: B
+
+
+
+Explanation: 
+
+ ’To cry over spilt milk’ is to be unhappy about what cannot be undone. The word ’repent’ also has a similar meaning.
+
+
+
+Question 10
+
+Directions for questions: Choose the most logical fit for each blank.
+
+10. People often revel under the impression that only the wretched and less educated people use slang, but this idea is totally _________.
+
+a. accurate 			b. popular 
+
+c. erroneous 			d. Ineffective
+
+
+
+Answer: C
+
+
+
+Explanation: 
+
+ Anticipated answer:- The answer one could come up through proactive solving will be ‘incorrect’. The answer closest to ‘incorrect’ among the answer options is option "erroneous" (Erroneous – full of errors)
+
+Contrast sign:- But. Due to the presence of the conjunction ‘but’, the answer has to be negative in this context. Thus ‘accurate’ and ‘popular’ cannot be answers. 
+
+‘Ineffective’ does not exactly capture the opposing-idea-relationship expected in this question. Thus ‘erroneous’ is the right answer.
+

@@ -9,7 +9,7 @@ export default function LeaderboardPage() {
   const [topStudents, setTopStudents] = useState([]);
   const [loading, setLoading] = useState(true);
 
-  const examCategories = ['UPSC', 'MPSC', 'GATE', 'SSC', 'Railways', 'Banking', 'Defence'];
+  const examCategories = ['UPSC', 'MPSC', 'GATE', 'SSC'];
   const companyCategories = ['TCS', 'Infosys', 'Wipro', 'Accenture', 'Cognizant', 'Capgemini', 'IBM', 'Tech Mahindra', 'HCLTech', 'Deloitte', 'KPMG', 'EY', 'PwC', 'Amazon', 'Microsoft', 'Google', 'Goldman Sachs', 'JP Morgan', 'Oracle', 'Cisco', 'LTIMindtree', 'Hexaware'];
 
   useEffect(() => {

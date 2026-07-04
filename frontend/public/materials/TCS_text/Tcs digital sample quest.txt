@@ -1,0 +1,277 @@
+
+
+ 
+ 
+TCS Confidential                Page | 1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                           TNQT Digital Sample Questions 
+                                                                                                                                                              
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Scope: 
+ 
+
+ 
+ 
+TCS Confidential                Page | 2 
+Advanced Quantitative Aptitude: 
+ 
+1.  Of 60 students in a class, anyone who has chosen to study Maths elects to study Physics as well. But no student 
+studies Maths and Chemistry, and 16 study Physics and Chemistry. Each of the students elect for at least one of the 
+three subjects and the number of people who study exactly one of the three is more than the number who do more 
+than one of the three. What are the maximum and minimum number of students who could have studied only 
+Chemistry?  
+ 
+Option 1 : 44, 0 
+Option 2 : 38,2 
+Option 3 : 28,0 
+Option 4 : 40,0 
+ 
+  2. The average score in an examination of 10 students of a class is 60. If the scores of the top five students are not 
+considered, the average score of the remaining students falls by 5. The pass mark was 40 and the maximum mark 
+was 100. It is also known that none of the students failed. If each of the top five scorers had distinct integral scores 
+and each of their scores are greater than any of the remaining scores, the maximum possible score of the topper is 
+Option 1 : 95 
+Option 2 : 100 
+Option 3 : 87 
+Option 4 : 99 
+ 
+3. 3L of milk are drawn from a container containing 30L of milk. It is replaced by water and the process is repeated 2 
+times. What is the ratio of milk to water at the end? 
+ 
+Option 1 : 729 / 271 
+Option 2 : 2187/100 
+Option 3 : 81/ 19 
+Option 4 : 743/229 
+ 
+4. a, b, c are real numbers in a Geometric Progression (G.P.) such that |a + b + c| = 15. The median of these three 
+terms is a, and b = 10. If a > c, what is the product of the first 4 terms of this G.P.?  
+Option 1 : 40,000 
+Option 2 : 32,000 
+Option 3 : 8,000 
+Option 4 : 2,500 
+ 
+5. B takes 12 more hours than A to complete a task. If they work together, they take 16 fewer hours than B would 
+take to complete the task. How long will it take A and B together to complete a task twice as difficult as the first one?  
+ 
+Option 1 : 16 hours 
+Option 2 : 12 hours 
+Option 3 : 14 hours 
+Option 4 : 8 hours 
+ 
+ 
+ 
+ 
+
+ 
+ 
+TCS Confidential                Page | 3 
+6. A number when divided by 18 leaves a remainder 7. The same number when divided by 12 leaves a remainder n. 
+How many values can n take? 
+Option 1 : 1 
+Option 2 : 2 
+Option 3 : 0 
+Option 4 : 3 
+ 
+7. In how many ways can we stack n different coins so that two particular coins are not adjacent to each other? [ 
+Note that m! = (1)(2)(3)...(m) ] 
+Option 1 : (n &minus; 2) * (n &minus; 1) ! 
+Option 2 : (n &minus; 2) ! 
+Option 3 : (n &minus; 1) * (n &minus; 1) ! 
+Option 4 : (n) * (n &minus; 2) ! 
+ 
+8. For how many integer values does the following inequality hold good?  
+(x + 2) (x + 4) (x + 6)...(x + 100) < 0 
+ 
+9. Consider the set S = {8, 5, 1, 13, 34, 3, 21, 2}. Akshay lists all the two element subsets of S and takes the larger of 
+the elements in each set. If he sums all these numbers, the sum he will obtain is __________ 
+ 
+10.Set P comprises all positive multiples of 4 less than 500. Set Q comprises all positive odd multiples of 7 less than 
+500, Set R comprises all positive multiples of 6 less than 500. How many elements are present in P &cup; Q &cup; R 
+?___________ 
+ 
+ 
+Advanced Programming Logic : 
+ 
+ 
+1. Which one of the following algorithm design techniques is used in finding all pairs of shortest distances in a graph? 
+ 
+Option 1 : Dynamic programming 
+Option 2 : Backtracking 
+Option 3 : Greedy 
+Option 4 : Divide & Conquer  
+ 
+ 
+2. Eesha wrote the below program . Comment about the correctness of the program. 
+ 
+#include <stdio.h> 
+int main () 
+{ 
+    printf("%f\n", sum(10.1, 5.2)); 
+    return 0; 
+} 
+sum(a, b) 
+{ 
+    return (a+b); 
+} 
+
+ 
+ 
+TCS Confidential                Page | 4 
+Option 1 : Problem with return type and parameter types in function definition 
+Option 2 : conio.h not included 
+Option 3 : Command line parameters for main() not declared 
+Option 4 : There are  no bugs in this program 
+ 
+ 
+3. What is the time complexity of following function fun()? Assume that log(x) returns log value in base 2.  
+ 
+void fun()  
+{     
+int i, j;     
+for (i=1; i<=n; i++)        
+  for (j=1; j<=log(i); j++)           
+    printf("hello"); }  
+} 
+Option 1 : Θ(nLogn) 
+Option 2 : Θ(n) 
+Option 3 : Θ(n^2) 
+Option 4 : Θ(n^2(Logn)) 
+ 
+4. Consider the below code for insertion sort. The initial value of the array  elements is given in the program as part 
+of array initialisation. What will be the value of the array elements at the beginning of 6th iteration . 
+ 
+#include <stdio.h> 
+#define N 10 
+int main() 
+{ 
+  int c, d, t; 
+  int arr[N]={60,10,90,15,50,80,40,100,4,2}; 
+  for (c = 1 ; c <= N - 1; c++) 
+  { 
+    d = c; 
+    while ( d > 0 && arr[d-1] > arr[d]) 
+    { 
+      t    = arr[d]; 
+      arr[d]   = arr[d-1]; 
+      arr[d-1] = t; 
+      d--; 
+    } 
+  } 
+  return 0; 
+} 
+ 
+Option 1 : 10 15 50 60 80 90 40 100 4 2 
+Option 2 : 10 15 50 60 90 80 40 100 4 2 
+Option 3 : 10 15 40 50 60 80 90 100 4 2 
+Option 4 : 10 15 60 90 50 80 40 100 4 2 
+5. A binary search tree is generated by inserting in order the following integers: 50, 15, 62, 5, 20, 58, 91,  
+3, 8, 37, 60, 24. The number of nodes in the left subtree is ___________ 
+ 
+Advanced Coding: 
+
+ 
+ 
+TCS Confidential                Page | 5 
+ 
+Problem Statement : Card Shuffle 
+You have 100 cards, numbered 1 to 100. You distribute them into k piles and collect back the piles in order. For 
+example, if you distribute them into 4 piles, then the first pile will contain the cards numbered 1, 5, 9, ... and the 
+4
+th
+ pile will contain the cards numbered 4, 8, 12, .... While collecting back the cards you collect first the last pile, 
+flip it bottom to top, then take the third pile, flip it bottom to top and put the cards on top of the 4
+th
+ pile and so 
+on. Next round, you distribute the cards into another set of piles and collect in the same manner (last pile first 
+and first pile last). 
+If we have 10 cards, and put them into 2 piles, the order of the cards in the piles (top to bottom) would be 
+9, 7, 5, 3, 1 and 10, 8, 6, 4, 2 
+We flip the piles to get the order 
+1, 3, 5, 7, 9 and 2, 4, 6, 8, 10 
+We put second pile at the bottom and first on top of it to get the deck 
+1, 3, 5, 7, 9, 2, 4, 6, 8, 10 
+Given the number of rounds (m), number of piles in each round (k
+i
+), you need to write a program to find the N
+th
+ 
+card from the top at the end of the final round. 
+Input 
+The input consists of a single line of (m+2) comma separated integers. 
+The first number is m, the number of rounds. The next m numbers are k
+i
+ which represent the number of piles in 
+each round. 
+The last number in the input is N, the position in the final pile whose value is to be determined. 
+Output 
+One integer representing the N
+th
+ card after all rounds have been played. 
+Constraints 
+Number of rounds <= 10, number of piles in each round <= 13. 
+Example 1 
+Input 
+2, 2, 2, 4 
+Output 
+13 
+Explanation 
+m = 2, k
+1 
+= 2, k
+2
+ = 2 and N = 4.  
+We have two rounds. The first round has two piles. At the end of the round, the deck is in the following order: 
+1, 3, 5, ..., 99, 2, 4, 6, ..., 100 
+The next round also has 2 piles and after the second round, the cards are in the order 
+1, 5, 9, 13, .... 
+The fourth card from the top has number 13. 
+Example 2 
+Input 
+3, 2, 2, 3, 2 
+Output 
+13 
+Explanation 
+m = 3, k
+1 
+= 2, k
+2
+ = 2, k
+3
+ = 3 and N = 2. 
+After the second round, the cards are in the order 
+1, 5, 9, 13, ... 
+The third round has 3 piles. Thus after this round the cards will be in the order 
+1, 13, .... 
+Second card is 13. 
+ 
+ 

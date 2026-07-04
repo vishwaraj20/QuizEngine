@@ -1,0 +1,223 @@
+
+
+ 
+Naradha 
+ 
+Naradha.in Page 1 
+ 
+ TCS Placement Papers with   
+Answers(Technical Round) 
+  
+
+ 
+Naradha 
+ 
+Naradha.in Page 2 
+ 
+ 
+ 
+1. For the FIFA world cup, Paul the octopus has been 
+predicting the winner of each match with amazing 
+success. It is rumored that in a match between 2 
+teams A and B, Paul picks A with the same 
+probability as A's chances of winning. 
+Let's assume such rumors to be true and that in a 
+match between X and Y, X the stronger team has a 
+probability of 2/3 of winning the game. What is the 
+probability that Paul will correctly pick the winner of 
+the X-Y game? 
+ 
+Ans. (2/3)^2+(1-2/3)^2 
+ 
+2. A circular dart board of radius 1 foot is at a 
+distance of 20 feet from you. You throw a dart at it 
+and it hits the dartboard at some point X in the 
+circle. What is the probability that X is closer to the 
+center of the circle than the periphery? 
+ 
+Ans. pi(r/2)^2/pi(r)^2 
+ 
+3. On planet Corba, a solar blast has melted the ice 
+caps on its equator. 8 years after the ice melts, tiny 
+plantoids called echina start growing on the rocks. 
+echina grows in the form of a circle and the 
+relationship between the diameter of this circle and 
+the age of echina is given by the formula  d = 4 * v 
+(t - 8 ) for t = 8, where d represents the diameter in 
+mm and t the number of years since the solar blast. 
+If you record the radius of some echina at a 
+particular spot as 8mm. How many years back did 
+the solar blast occur? 
+ 
+Ans. simply put d=2*r 
+ 
+4. Given 3 lines in the plane such that the points of 
+
+ 
+Naradha 
+ 
+Naradha.in Page 3 
+ 
+intersection form a triangle with sides of length 20, 
+20 and 30, What is the number of points equidistant 
+from all the 3 lines? 
+ 
+Ans. 4 for 3line 
+if question say line segment then answer will be 1. 
+ 
+5. 36 people {a1, a2, ..., a36} meet and shake 
+hands in a circular fashion. In other words, there are 
+totally 36 handshakes involving the pairs, {a1, a2}, 
+{a2, a3}, ..., {a35, a36}, {a36, a1}. Find the size of 
+the smallest set of people such that the rest have 
+shaken hands with at least one person in the set. 
+ 
+Ans. simply put n/3=36/3=12 
+ 
+6. After the typist writes 12 letters and addresses 12 
+envelopes, he inserts 1 letter per envelope randomly 
+into the envelopes. What is the probability that 
+exactly 1 letter is inserted in an improper envelope? 
+ 
+Ans. 0 
+ 
+7. Given a collection of points P in the plane, a 1-set 
+is a point in P that can be separated from the rest by 
+a line; i.e. the point lies on one side of the line while 
+the others lie on the other side. The number of 1-
+sets of P is denoted by n1(P). Find the maximum 
+value of n1(P) over all configurations P of 19 points 
+in the plane. 
+ 
+Ans. 19 
+ 
+8. A sheet of paper has statements numbered from 1 
+to 35. For all values of n from 1 to 35, statement n 
+says "At most n of the statements on this sheet are 
+false". Which statements are true and which are 
+
+ 
+Naradha 
+ 
+Naradha.in Page 4 
+ 
+false? 
+ 
+Ans. For this type f question  
+At least-half f the statements are true and remains 
+false. 
+Exactly-n-1 statements are true and remains false 
+Almost-all statement r true. In my set this type f 
+question. repeated 3 times. 
+ 
+9. A and B play the following min-max game. Given 
+the expression 
+N = 12 + X*(Y - Z) 
+where X, Y and Z are variables representing single 
+digits (0 to 9), "A" would like to maximize N while 
+"B" would like to minimize it. Towards this end, "A" 
+chooses a single digit number and "B" substitutes 
+this for a variable of her choice (X, Y or Z). "A" then 
+chooses the next value and "B", the variable to 
+substitute the value. Finally "A" proposes the value 
+for the remaining variable. Assuming both play to 
+their optimal strategies, the value of N at the end of 
+the game would be 
+ 
+Ans. x-y-z=2 
+x+y-z=11 
+x*(y-z)=x*(y+z)=18 
+ 
+10. 1/3 of a number is 6 more than 1/6 of the same 
+number. What is the number? 
+ 
+Ans. 36 
+ 
+11. Two pipes A and B fill at A certain rate B is filled 
+at 10,20,40,80,. If 1/16 of B if filled in 17 hours 
+what time it will take to get completely filled. 
+ 
+Ans. Simply find the factor of 16 count the no. of 2 & 
+
+ 
+Naradha 
+ 
+Naradha.in Page 5 
+ 
+add them with 17. 
+ 
+12. Alice and Bob play the following coins-on-a-stack 
+game. 20 coins are stacked one above the other. 
+One of them is a special (gold) coin and the rest are 
+ordinary coins. The goal is to bring the gold coin to 
+the top by repeatedly moving the topmost coin to 
+another position in the stack. Alice starts and the 
+players take turns. A turn consists of moving the 
+coin on the top to a position i below the top coin (0 
+= i = 20). We will call this an i-move (thus a 0- 
+move implies doing nothing). The proviso is that an 
+i-move cannot be repeated; for example once a 
+player makes a 2- move, on subsequent turns 
+neither player can make a 2-move. If the gold coin 
+happens to be on top when it's a player's turn then 
+the player wins the game. Initially, the gold coins the 
+third coin from the top 
+ 
+Ans. In order 2 win 1 moves at 1st. 
+ 
+13. A lady has fine gloves and hats in her closet- 18 
+blue- 32 red and 25 yellow. The lights are out and it 
+is totally dark inspite of the darkness. She can make 
+out the difference between a hat and a glove. She 
+takes out an item out of the closet only if she is sure 
+that if it is a glove. How many gloves must she take 
+out to make sure she has a pair of each colour? 
+ 
+50 
+8 
+60 
+42 
+ 
+Ans. highest +middle +2 
+ 
+14. 20 people meet and shake hands. The maximum 
+
+ 
+Naradha 
+ 
+Naradha.in Page 6 
+ 
+number of hand shakes possible if there is to be no 
+'cycle' of handshakes is( a cycle of handshake is a 
+sequence of people a1,a2, ...ak) such that 
+people(a1,a2),(a2,a3)...(a(k-1),ak),(a2,a1) shake 
+hand is 
+ 
+Ans. for cyclic-(n-1) 
+for non-cyclic-(nc2) 
+ 
+15. The IT giant Tirnop has recently crossed a head 
+count of 150000 and earnings of $7 billion. As one of 
+the forerunners in the technology front, Tirnop 
+continues to lead the way in products and services in 
+India. At Tirnop, all programmers are equal in every 
+respect. They receive identical salaries answer also 
+write code at the same rate. Suppose 12 such 
+programmers take 12 minutes to write 12 lines of 
+code in total. How many lines of code can be written 
+by 72 programmers in 72 minutes? 
+ 
+Ans. For this types if question ask to find no. f 
+programmer & no. f minute simply put the first digit 
+i.e. 12 n this question but if ask to find no. f line 
+using=(12*72*72)/(12*12) in my set this come 3 
+times. 
+ 
+16. if there are 30 cans out of them one is poisoned 
+if a person tastes very little he will die within 14 
+hours so if there are mice to test and 24 hours, how 
+many mices are required to find the poisoned can? 
+ 
+Ans. I don't know exactly but it may be 1 
+ 
+ 

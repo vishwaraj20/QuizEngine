@@ -1,0 +1,3643 @@
+
+
+http://placementpapers.net - Original Placement Papers Website for Freshers 
+http://placementpapers.net - Placement Papers, Resume Samples, 
+http://placementpapers.net/jobs
+ - Daily Fresher Jobs, Interview Tips. 
+Infosys Puzzles Collection for Freshers 
+1. There is a escalator and 2 persons move down it. A takes 50 steps 
+and B takes 75 steps while the escalator is moving down. Given that 
+the time taken by A to take 1 step is equal to time taken by B to take 
+3 steps. Find the no. of steps in the escalator while it is stationary. 
+Ans= (s1*t2 ~ s2*t1) / (t1 ~ t2) which gives 100. so 100 steps is the answer 
+2. If 5/2 artists make 5/2 paintings using 5/2 canvases in 5/2 days 
+then how many artists r required to make 25 paintings using 25 
+canvases in 25 days? 
+Ans: -- 
+3. If the digits of my present age are reversed then I get the age of 
+my son. If 1 year ago my age was twice as that of my son. Find my 
+present age. 
+Ans. father-73, son-37 
+4. There are 6561 balls out of them 1 is heavy. Find the min. no. of 
+times the balls have to be weighed for finding out the heavy ball. 
+Ans. 8 
+5. If I walk with 30 miles/hr I reach 1 hour before and if I walk with 
+20 miles/hr I reach 1 hour late. Find the distance between 2 points 
+and the exact time of reaching destination is 11 am then find the 
+speed with which it walks. 
+Ans. 120miles and 24 miles/hr 
+6. There r four face cards (J, Q, K, A) all of different 
+types(diamond, club, spade, heart) and some conditions r given. 
+find the order of cards 
+Ans. king -> jack -> queen -> ace heart diamond spade club 
+7. If A, B, C, D, E r 5 members of a family.4 of them give true 
+statements : 
+1. E is my mother in law 
+2. C is my son in law's brother 
+3. B is my father's brother 
+4. A is my brother's wife 
+Who made the stmt. and what is the relations among them 
+Ans. E 
+ | 
+
+http://placementpapers.net - Original Placement Papers Website for Freshers 
+http://placementpapers.net - Placement Papers, Resume Samples, 
+http://placementpapers.net/jobs
+ - Daily Fresher Jobs, Interview Tips. 
+A<-->B--C  
+| 
+D 
+<--> denotes husband-wife 
+ -- denotes brothers 
+8. The product of 5 different temperatures is 12.If all of then r 
+integers then find all the temperatures 
+Ans.-2,-1, 1, 2, 3 
+9.There r 9 cities numbered 1 to 9.From how many cities the flight 
+can start so as to reach the city 8 either directly or indirectly such 
+the path formed is divisible by 3. 
+Ans. 1368-Flights goes through 1-3-6-8. 
+10. If i do this puzzle i find it to be hard than the last puzzle that i 
+did before that after that..............very complex stmt. 
+Ans. Is that puzzle difficult, easy, can't say or depends on the no. of puzzles 
+11. Replace each letter by a digit. Each letter must be represented 
+by the same digit and no beginning letter of a word can be 0. 
+O N E 
+O N E 
+O N E 
+O N E 
+ ------- 
+T E N 
+------- 
+Ans: 0 =1, N = 8, E = 2, T = 7. 
+12. Ann, Boobie, Cathy and Dave are at their monthly business 
+meeting. Their occupations are author, biologist, chemist and 
+doctor, but not necessarily in that order. Dave just told the 
+biologist that Cathy was on her way with doughnuts. Ann is sitting 
+across from the doctor and next to the chemist. The doctor was 
+thinking that Boobie was a goofy name for parent's to choose, but 
+didn't say anything. What is each person's occupation? 
+Ans: Since Dave spoke to the biologist and Ann sat next to the chemist and 
+across the doctor, Cathy must be the author and Ann the biologist. The doctor 
+didn't speak, but David did, so Bobbie is the doctor and Dave the chemist. 
+13. Sometime after 10:00 PM a murder took place. A witness 
+claimed that the clock must have stopped at the time of the 
+shooting. It was later found that the position of both the hands 
+
+http://placementpapers.net - Original Placement Papers Website for Freshers 
+http://placementpapers.net - Placement Papers, Resume Samples, 
+http://placementpapers.net/jobs
+ - Daily Fresher Jobs, Interview Tips. 
+were the same but their positions had interchanged. Tell the time 
+of the shooting (both actual and claimed). 
+Ans: Time of shooting = 11:54 PM Claimed Time = 10:59 PM. 
+14. Next number in the series is 1, 2, 4, 13, 31, 112,? 
+Ans: 224.No number has digits more than 4. All of them are 1, 2, 4, 8, 16, 32, 
+64 converted to numbers in base 5. 
+15. Shahrukh speaks truth only in the morning and lies in the 
+afternoon, whereas Salman speaks truth only in the afternoon. A 
+says that B is Shahrukh. Is it morning or afternoon and who is A - 
+Shahrukh or Salman? 
+Ans: Afternoon. A is Salman. 
+16. Two trains starting at same time, one from Bangalore to My 
+sore and other in opposite direction arrive at their destination 1 hr 
+and 4 hours respectively after passing each other. How much faster 
+is one train from other? 
+Ans: Twice. 
+17. There are 6 volumes of books on a rack kept in order ( i.e. vol.1, 
+vol. 2 and so on ). Give the position after the following changes 
+were noticed. All books have been changed Vol.5 was directly to the 
+right of Vol.2 Vol.4 has Vol.6 to its left and both weren't at Vol.3's 
+place.Vol.1 has Vol.3 on right and Vol.5 on left. An even numbered 
+volume is at Vol.5's place Find the order in which the books are 
+kept now. 
+Ans: 2, 5,1,3,6,4. 
+18. I bought a car with a peculiar 5 digit numbered license plate 
+which on reversing could still be read. On reversing value is 
+increased by 78633.Whats the original number if all digits were 
+different? 
+Ans: Only 0 1 6 8 and 9 can be read upside down. So on rearranging these 
+digits, we get the answer as 10968. 
+19. The shape in the sketch below is that of a square attached to half 
+of a similar square. Divide it into four equal pieces. 
+Ans: Hint : The figure can be divided into 12 equal triangles. 
+(20) There are two balls touching each other circumferentially. The 
+radius of the big ball is 4 times the diameter of the small all. The 
+outer small ball rotates in anticlockwise direction 
+
+http://placementpapers.net - Original Placement Papers Website for Freshers 
+http://placementpapers.net - Placement Papers, Resume Samples, 
+http://placementpapers.net/jobs
+ - Daily Fresher Jobs, Interview Tips. 
+circumferentially over the bigger one at the rate of 16 rev/sec. The 
+bigger wheel also rotates anticlockwise at N rev/sec. What is 'N' for 
+the horizontal line from the centre of small wheel always is 
+horizontal. 
+Ans: -- 
+(21) 
+1 2 3 4 
++ 3 4 5 5 
+---------- 
+4 6 8 9 
+- 2 3 4 5 
+---------- 
+2 3 4 4 
++ 1 2 5 4 
+------------ 
+3 6 9 8 
+------------ 
+Ans. Strike off any digit from each number in seven rows (need not be at 
+same place) and combine the same operations with 3 digit numbers to get the 
+same addition. After this strike off another digit from all and add all the Nos. 
+to get the same 2 digit No. perform the same process again with 1 digit Nos. 
+Give the ' nods in 7 rows at each stage. 
+(22) There is a safe with a 5 digit No. The 4th digit is 4 greater than 
+second digit, while 3rd digit is 3 less than 2nd digit. The 1st digit is 
+thrice the last digit. There are 3 pairs whose sum is 11. Find the 
+number. 
+Ans: 65292. 
+(23) There are 2 guards Bal and Pal walking on the side of a wall of 
+a warehouse(12m X 11m) in opposite directions. They meet at a 
+point and Bal says to Pal "See you again in the other side". After a 
+few moments of walking Bal decides to go back for a smoke but he 
+changes his direction again to his previous one after 10 minutes of 
+walking in the other opposite) direction remembering that Pal will 
+be waiting for to meet. If Bal and Pal walk 8 and 11 feet 
+respectively, how much distance they would have traveled before 
+meeting again. 
+Ans: -- 
+24. 13 kgs and 6 libs can produce 510 tors in 10 hrs, 8 kgs and 14 
+libs can produce 484 tors in 12 hrs. 
+Ans. Find the rate of production of tors for kgs and libs. Express the answer 
+in tors/hr. 
+
+http://placementpapers.net - Original Placement Papers Website for Freshers 
+http://placementpapers.net - Placement Papers, Resume Samples, 
+http://placementpapers.net/jobs
+ - Daily Fresher Jobs, Interview Tips. 
+(25) 
+xxx)xxxxx(xxx 
+3xx 
+------- 
+xxx 
+x3x 
+------- 
+xxx 
+3xx 
+------- 
+Ans. Find the 5 digit No. Hint: 5 is used at least once in the calculation. 
+(26) A fly is there 1 feet below the ceiling right across a wall length 
+is 30m at equal distance from both the ends. There is a spider 1 feet 
+above floor right across the long wall equidistant from both the 
+ends. If the width of the room is 12m and 12m, what distance is to 
+be traveled by the spider to catch the fly, if it takes the shortest 
+path. 
+Ans: -- 
+(27) Ramesh sit around a round table with some other men. He has 
+one rupee more than his right person and this person in turn has 1 
+rupee more than the person to his right and so on, Ramesh decided 
+to give 1 rupee to his right & he in turn 2 rupees to his right and 3 
+rupees to his right & so on. This process went on till a person has 
+'no money' to give to his right. At this time he has 4 times the 
+money to his right person. How many men are there along with 
+Ramesh and what is the money with poorest fellow. 
+Ans: -- 
+ (28)Question related to probabilities of removing the red ball from 
+a basket, given that two balls are removed from the basket and the 
+other ball is red. The basket contains 
+Ans. blue, red, yellow balls. 
+(29) Venkat has 1boy&2daughters.The product of these children 
+age is 72.The sum of their ages give the door number of Venkat. 
+Boy is elder of three. Can you tell the ages of all the three. 
+Ans: -- 
+(30) L: says all of my other 4 friends have money 
+M: says that P said that exact one has money 
+N: says that L said that precisely two have money 
+O: says that M said that 3 of others have money. 
+P: L and N said that they have money. 
+
+http://placementpapers.net - Original Placement Papers Website for Freshers 
+http://placementpapers.net - Placement Papers, Resume Samples, 
+http://placementpapers.net/jobs
+ - Daily Fresher Jobs, Interview Tips. 
+Ans. All are liars. Who has money & who doesn't have? 
+(31)Post man has a data of name surname door number, pet name 
+of 4 families. But only one is correct for each family. There are a set 
+of statements & questions. 
+Ans: -- 
+(33) 4 couples have a party. Depending on the set of statements, 
+find who insulted whom and who is the host of the party. 
+Ans: -- 
+ (34) 5 women given some of their heights (tall, medium, short) 
+Hair( long, plainted), stards(Black or Brown), sari,2 medium,2-
+short.Tall->no sari. Plainted->medium.  
+Answer: the combinations. 
+(35) A person has to go both Northwards & Southwards in search of 
+a job. He decides to go by the first train he encounters. There are 
+trains for every 15 min both southwards and northwards. First 
+train towards south is at 6:00 A.M. and that towards North is at 
+6:10. If the person arrives at any random time, what is the 
+probability that he gets into a train 
+Ans. towards North. 
+(36) A person has his own coach&. Whenever he goes to railway 
+station he takes his coach. One day he was supposed to reach the 
+railway station at 5 O'clock. But he finished his work early and 
+reached at 3 O'clock. Then he rung up his residence and asked to 
+send the coach immediately. He came to know that the coach has 
+left just now to the railway station. He thought that the coach has 
+left just now to the railway station. He thought that he should not 
+waste his time and started moving towards his residence at the 
+speed of 3 miles/hr. On the way, he gets the coach and reaches 
+home at 6 o'clock. How far is his residence from railway station. 
+Ans: -- 
+ (37) Radha, Geeta & Revathi went for a picnic. After a few days 
+they forgot the date, day and month on which they went to picnic. 
+Radha said that it was on Thursday, May 8 and Geeta said that it 
+was Thursday May 10. Revathi said Friday Jun 8. Now one of them 
+told all things wrongly, others one thing wrong and the last two 
+things wrongly. If April 1st is Tuesday, what is the right day, date 
+and month? 
+Ans: -- 
+
+http://placementpapers.net - Original Placement Papers Website for Freshers 
+http://placementpapers.net - Placement Papers, Resume Samples, 
+http://placementpapers.net/jobs
+ - Daily Fresher Jobs, Interview Tips. 
+38. There is 66x33m rectangular area. Ram is 11/8 times faster 
+than Krishna. Both of them started walking at opposite ends and 
+they met at some point then, Ram said "See you in the other end" 
+Then they continued walking. After some time Ram thought he will 
+have tea so he turned back walked back 15 meters then he changed 
+his mind again and continued walking. How much Krishna has 
+traveled by the time they meet? 
+Ans: -- 
+39. There are 5 burglars and once went to a bakery to rob it 
+obviously The first guy ate 1/2 of the total bread and 1/2 of the 
+bread. The second guy ate 1/2 of the remaining and 1/2 of the 
+bread. The third guy ,fourth guy and fifth guy did the same. After 
+fifth guy there is no bread left out. How many bread are there? 
+Ans: -- 
+40. All members belonging to D are members of A. All members 
+belonging to E are members of D. All members belonging to C are 
+members of both A & D. Some members of A does not belong to D. 
+All members belonging to D are members of E.5 questions are 
+there. 
+Ans: -- 
+41. Write each statements true or false:- 
+1. The sum of the 1st three statements and the 2nd false statement gives the 
+true statement. 
+2.The no. of true statements false statement. 
+3. The sum of 2nd true statement and 1st false statement gives the first true 
+statement. 
+4. There are at most 3 false statements. 
+5.There is no two consecutive true statements. 
+42. There are twelve consecutive flags at an equal interval of 
+distance. A man passes the 8th flag in 8 seconds. How many more 
+seconds will he take to pass the remaining 4 flags? 
+Ans: -- 
+43. A person has to cover the fixed distance through his horses. 
+There are five horses in the cart. They ran at the full potential for 
+the 24 hours continuously at constant speed and then two of the 
+horses ran away to some other direction. So he reached the 
+destination 48 hours behind the schedule. If the five horses would 
+have run 50 miles more, then the person would have been only 24 
+hours late. Find the distance of the destination. 
+Ans: -- 
+
+http://placementpapers.net - Original Placement Papers Website for Freshers 
+http://placementpapers.net - Placement Papers, Resume Samples, 
+http://placementpapers.net/jobs
+ - Daily Fresher Jobs, Interview Tips. 
+44. A boat M leaves shore A and at the same time boat B leaves 
+shore B. They move across the river. They met at 500 yards away 
+from A and after that they met 300 yards away from shore B 
+without halting at shores. Find the distance between the shore A & 
+B. 
+Ans: -- 
+45. A person was going through train from Bombay to Pune. After 
+every five minutes he finds a train coming from opposite direction. 
+Velocity of trains are equal of either direction. If the person 
+reached Pune in one hour then how many trains he saw in the 
+journey? 
+Ans: -- 
+46. Food grains are to be sent to city from go down. Owner wants to 
+reach the food grains at 11 O' Clock in the city. If a truck travels at a 
+speed of 30km/hr then he will reach the city one hour earlier. If the 
+truck travels at a speed of 20km/h then he will reach the city one 
+hour late. Find the distance between the go down to city. Also with 
+which speed the truck should travel in order to reach at exactly 11 
+'O clock. 
+Ans: -- 
+47. There are five persons A, B, C, D, E whose birthdays occur at the 
+consecutive days. Birthday of A is some days or day before C & 
+birthday of B is exactly the same days or day after E. D is two days 
+older than E. If birth day of C is on Wednesday then find out the 
+birthdays of other. 
+Ans: -- 
+48. Persons say these statements. 
+A says either Democratic or liberal wins the elections. 
+B says Democratic wins. 
+C says neither democratic nor liberal wins the election. 
+Of these only one is wrong. Who wins the election? 
+Ans: -- 
+49. Six persons A,B,C,D,E, and F went to soldier cinema. There are 
+six consecutive seats. A sits in the first seat followed by B, followed 
+by C and so on. If A taken on of the six seats, then B should sit 
+adjacent to A. C should sit adjacent to A or B. D should sit adjacent 
+to A, B or C and so on. How many possibilities are there ? 
+Ans: -- 
+
+http://placementpapers.net - Original Placement Papers Website for Freshers 
+http://placementpapers.net - Placement Papers, Resume Samples, 
+http://placementpapers.net/jobs
+ - Daily Fresher Jobs, Interview Tips. 
+50. Suppose there are four grades A, B, C, D. (A is the best and D is 
+the worst) 4 persons Jack, Jean, Poul and Lucy wrote the final 
+exam and made the statements like this:- 
+1. Jack: If I will get A then Lucy will get D. 
+2. Lucy: If I will get C then Jack will get D. 
+Jack grade is better than Poul grade. 
+3. Jean: If Jean doesn't get A then Jack will not get A. 
+4. Poul: If Jack get A, then Jean will not get B, Lucy will get C, I won't either A 
+or B. 
+Ans. If all the above statements are true, then which person will get which 
+grade? 
+51. Each man dances with 3 women, Each women dances with 3 
+men. Among each pair of men they have exactly two women in 
+common. Find the no. of men and women. 
+Ans: -- 
+52. A survey was taken among 100 people to find their preference 
+of watching TV. programmes. There are 3 channels. Given no of 
+people who watch at least channel 1, at least channel 2,at least 
+channel 3, no channels at all, at least channels 1 and 3, at least 
+channels 1 and 2, at least channels 2 and 3. Find the no of people 
+who watched all three. 
+Ans: -- 
+53. A bird keeper has got P pigeon, M mynas and S sparrows. The 
+keeper goes for lunch leaving his assistant to watch the birds. 
+Suppose p=10, m=5, s=8. 
+(a.) When the bird keeper comes back, the assistant informs that x birds have 
+escaped. The bird keeper exclaims oh no! all my sparrows are gone. How 
+many birds flew away. 
+(b.) when the bird keeper come back, the assistant told him that x birds have 
+escaped. The keeper realised that at least 2 sparrows have escaped. What is 
+minimum no of birds that can escape. 
+Ans: -- 
+54. Select from the five alternatives A,B,C,D,and E. At the end of 
+each question, two conditions will be given. The choices are to be 
+filled as follows. 
+A: If a definite conclusion can be drawn from condition 1. 
+B: If a definite conclusion can be drawn from condition 2. 
+C: If a definite conclusion can be drawn from condition 1 and 2. 
+D: If a definite conclusion can be drawn from condition 1 or 2. 
+E: No conclusion can be drawn using both conditions. 
+1. Person 1 says N<5 
+Person 2 says n>5. 
+
+http://placementpapers.net - Original Placement Papers Website for Freshers 
+http://placementpapers.net - Placement Papers, Resume Samples, 
+http://placementpapers.net/jobs
+ - Daily Fresher Jobs, Interview Tips. 
+Person 3 says 3N>20 
+Person 4 says 3n>10 
+Person 5 says N<8. 
+Ans. What is the value of N? 
+55. There are N coins on a table. There are two players A&B. You 
+can take 1or 2 coins at a time. The person who takes the last coin is 
+the loser. A always starts first. 
+ 
+1. If N=7, then 
+(a) A can always win by taking two coins in his first chance. 
+(b) B can win only if A takes two coins in his first chance. 
+(c) B can always win by proper play. 
+(d) none of the above. 
+2. A can win by proper play if N is equal to 
+(a) 13                 (b) 37  
+(c) 22                 (d) 34  
+(e) 48 
+Ans: E. 
+3. B can win by proper play if N is equal to 
+(a) 25                     (b)26  
+(c) 32                     (d) 41  
+(e) none 
+4. if N<4, can A win by proper play always? 
+56. There are 4 parties A,B,C,D. There are 3 people x, y, z. X-says A 
+or D will win. Y-says A will not win. Z-says B or D will not win. Only 
+one of them is true. Which party won? 
+Ans: -- 
+57. 5 persons R,S,T,U,V are contesting for a medal. Evaluation is 
+over English, Math's, Physics, Chemistry and Hindi. Toper will get 
+5 marks, least will get 1 mark. No ties any where. R get 24 and won 
+the overall medal. V gets first in Chemistry and third in Hindi, T got 
+consistent scores in 4 subjects. Their final standings where in the 
+alphabetical order. What was the score of S in Chemistry. 
+Ans: -- 
+58. Persons A and B. Person A picks a random no. from 1 to 1000. 
+Then person B picks a random no. from 1 to 1000. What is the 
+probability of B getting no. greater then what A has picked? 
+Ans: -- 
+
+http://placementpapers.net - Original Placement Papers Website for Freshers 
+http://placementpapers.net - Placement Papers, Resume Samples, 
+http://placementpapers.net/jobs
+ - Daily Fresher Jobs, Interview Tips. 
+59. Three boys and three girls brought up together. Jim, Jane, 
+Tom, Virgina, Dorthy, XXX. They marry among themselves to form 
+three couples. Conditions are:- 
+(i) Sum of their ages would be the same. 
+(ii) Virgina was the oldest. 
+(iii) Jim was Dorothy's brother. 
+(iv) Sum of ages Jane Jim and Tom+dorthy is same. 
+        Give the three couples. 
+60. X^(1/3) - X^(1/9) =60. Solve for X. 
+Ans: -- 
+61. X Z Y+X Y Z = Y Z X. 
+Ans. Find the three digits. 
+62. Two boats start from opposite banks of river perpendicular to 
+the shore. One is faster then the other. They meet at 720 yards from 
+one of the ends. After reaching opposite ends rest for 10mins each. 
+After that they start back. This time on the return journey they 
+meet at 400yards from the other end of the river. Calculate the 
+width of the river. 
+Ans: -- 
+63. Basketball Tournament organizers decided that two 
+consecutive defeats will knock out the team. There are 51 teams 
+participating. What is the maximum no. of matches that can be 
+played. 
+Ans: -- 
+64. The Master says to his grandmaster that I and my three cousins 
+have ages in prime nos. only. Summation of our ages is 50. 
+Grandmaster who knows the age of the master instantly tells the 
+ages of the three cousins. Tell the ages of three cousins. 
+( 1 is not considered as prime no.) 
+Ans: -- 
+65. There are two families Alens and smiths. They have two 
+children each. There names are A,B,C,D whose ages are different 
+and ages are less then or equal to 11. The following conditions are 
+given:- 
+        (i) A's age is three years less then his brother's age . 
+        (ii) B is eldest among the four. 
+        (iii) C is half the age of the eldest in Alens family. 
+        (iv) The difference in sum of the ages of Alens children and smith’s 
+children is same as that of five years ago. 
+
+http://placementpapers.net - Original Placement Papers Website for Freshers 
+http://placementpapers.net - Placement Papers, Resume Samples, 
+http://placementpapers.net/jobs
+ - Daily Fresher Jobs, Interview Tips. 
+Ans. Find the ages of all the children. 
+66. a, b, c, d, e are having numerical values. There are some 
+conditions given:- 
+(a) a=c <=== b!=e 
+(b) Difference between a and c as same as difference between c and b as same 
+as difference  
+between a and d. 
+(c) c<a and c>d. 
+Ans. Then find a, b, c, d, e. 
+67. There are six cards in which it has two king cards. all cards are 
+turned down and two cards are opened. 
+(a) What is the possibility to get at least one king. 
+(b) What is the possibility to get two kings. 
+Ans: -- 
+68. There are 5 persons a, b, c, d, e and each is wearing a block or 
+white cap on his head. A person can see the caps of the remaining 
+four but can't see his own cap. A person wearing white says true 
+and who wears block says false. 
+(i) a says i see 3 whites and 1 block. 
+(ii) b says i see 4 blocks. 
+(iii) e says i see 4 whites. 
+(iv) c says i see 3 blocks and 1 white. 
+Now find the caps wearied by a, b, c, d and e. 
+Ans: -- 
+69. There are two women, kavitha and shamili and two males 
+shyam, aravind who are musicians. Out of these four one is a 
+pianist, one flutist, violinist and drummer. 
+(i) Across aravind beats pianist. 
+(ii) Across shyam is not a flutist. 
+(iii) Kavitha's left is a pianist. 
+(iv) Shamili's left is not a drummer.  
+(v) Flutist and drummer are married. 
+Ans: -- 
+70. When Arthur is as old as his father Hailey is now, he shall be 5 
+times as old as his son Clarke is now. By then, Clarke will be 8 
+times older than Arthur is now. The combined ages of Hailey and 
+Arthur are 100 years. How old is Clarke? 
+Ans: -- 
+
+http://placementpapers.net - Original Placement Papers Website for Freshers 
+http://placementpapers.net - Placement Papers, Resume Samples, 
+http://placementpapers.net/jobs
+ - Daily Fresher Jobs, Interview Tips. 
+71. The seven digits in this subtraction problem are 0, 1, 2, 3, 4, 5 
+and 6. Each letter represents the same digit whenever it occurs. 
+D A D C B 
+- E B E G 
+-------------------- 
+B F E G 
+-------------------- 
+What digit is represented by each letter? 
+Ans: -- 
+72. The Jones have named their four boys after favorite relatives; 
+their friends, the Smiths, have done the same thing with their three 
+boys. One of the families has twin boys. From the following clues, 
+can you determine the families of all seven children and their ages? 
+(i) Valentine is 4 years older than his twin brothers. 
+(ii) Winston, who is 8, and Benedict are not brothers. They are each named 
+after a grandfather. 
+(iii) Briscoe is two years younger than his brother Hamilton, But three years 
+older than Dewey. 
+(iv) Decatur is 10 years old. 
+(v) Benedict is 3 years younger than Valentine; they are not related. 
+(vi) The twins are named for uncles. 
+Ans: -- 
+73. Motorboat A leaves shore P as B leaves Q; they move across the 
+lake at a constant speed. They meet first time 600 yards from P. 
+Each returns from the opposite shore without halting, and they 
+meet 200 yards from. How long is the lake? 
+Ans: -- 
+74. On the Island of imperfection there is a special road, Logic 
+Lane, on which the houses are usually reserved for the more 
+mathematical inhabitants. Add, Divide and Even live in three 
+different houses on this road (which has houses numbered from 1-
+50). One of them is a member of the Pukka Tribe, who always tell 
+the truth. Another is a member of the Wotta Tribe, who never tell 
+the truth and the third is a member of the Shalla Tribe, who make 
+statements which are alternately true and false, or false and true. 
+They make statements as  
+follows:- 
+ADD: 
+1. The number of my house is greater than that of Divide's. 
+2. My number is divisible by 4. 
+3. Even number differs by 13 from that of one of the others. 
+
+http://placementpapers.net - Original Placement Papers Website for Freshers 
+http://placementpapers.net - Placement Papers, Resume Samples, 
+http://placementpapers.net/jobs
+ - Daily Fresher Jobs, Interview Tips. 
+DIVIDE : 
+1. Odd number is divisible by 12. 
+2. My number is 37. 
+3. Even number is even. 
+EVEN : 
+1. No one's number is divisible by 10. 
+2. My number is 30. 
+3. Odd number is divisible by 3. 
+Find to which tribe each of them belongs, and the number of each of their 
+houses. 
+Ans: -- 
+75. The names of the inhabitants of Walkie Talkie Land sound 
+strange to the visitors, and they find it difficult to pronounce them, 
+due to their length and a few vowel sounds they contain. The 
+Walkie Talkie guide is discussing the names of four inhabitants – 
+A,B,C and D. Their names each contain upto eight syllables, 
+although none of the four names contain the same number. Two of 
+the names contain no vowel sounds; one contains one vowel sound; 
+and one contains two vowel sounds. From the Guide's statements 
+below, determine the number of syllables and vowel sounds in each 
+of the four Walkie Talkie names:- 
+(i) The one whose name contains two vowel sounds is not A. 
+(ii) C's name does not contain more than one vowel sound or fewer than seven 
+syllables. 
+(iii) The name with seven syllables does not contain exactly one vowel sound. 
+(iv) B and C do not have names with the same number of vowel sounds. 
+(v) Neither the name with five syllables nor the name with seven syllables 
+contains more than one vowel sound. 
+(vi) Neither the name with six syllables, nor the B's name, contains two vowel 
+sounds. 
+Ans: -- 
+76. Two identical twins have a very unusual characteristic. One 
+tells nothing but lies on Mondays, Wednesdays and Fridays, and 
+tells nothing but the truth all other days. The other tells nothing 
+but lies on Tuesdays, Thursdays and Saturdays, and tells nothing 
+but the truth all other days. On Sundays both children speak the 
+truth. 
+Ans: -- 
+77. According to the information presented, which of the following 
+conversations will be impossible. 
+(a) Twin A : "Today you are a lire" Twin B : "You are telling the truth" 
+(b) Twin A : "Today you are a lire" Twin B : "Today I am a truth teller" 
+(c) Twin A : "Tomorrow I shall be a lire" Twin B : "That's correct" 
+
+http://placementpapers.net - Original Placement Papers Website for Freshers 
+http://placementpapers.net - Placement Papers, Resume Samples, 
+http://placementpapers.net/jobs
+ - Daily Fresher Jobs, Interview Tips. 
+(d) Twin A : "Tomorrow you will be a lire" Twin B : "Today you are a truth 
+teller" 
+(e) Twin A : "Yesterday we were both truth tellers" Twin B : "You are lying". 
+Ans: -- 
+78. Assume that the twins followed a different set of rules, so that 
+on a given day both told only the truth while next day both only 
+lied, alternating days of truth telling and lying. Under these rules, 
+which of the following conversations would be possible? 
+(a) Twin A : "Today you are a lire" Twin B : "That is correct" 
+(b) Twin A : "Today you are a lire" Twin B : "That is not so" 
+(c) Twin A : "Tomorrow we will be liars" Twin B : "Yesterday we were truth 
+tellers" 
+(d) Twin A : "Tomorrow we will be liars" Twin B : "You are 1 year older than I 
+am" 
+(e) Twin A : "We always tell the truth" Twin B : "We some times tell the truth". 
+Ans: -- 
+79. If the twins are heard saying the following on the same day, 
+which choice presents a correct statement ? 
+Twin A : "It is Sunday Today" 
+Twin B : "Yesterday was Sunday" 
+Twin A : "it is summer season now" 
+(a) it is a summer Sunday. 
+(b) it is a summer Monday. 
+(c) it is Monday but not summer. 
+(d) it is Sunday but not summer. 
+(e) it is impossible to determine whether it is Sunday or Monday. 
+Ans: -- 
+80. In the month of October in a year has exactly four Mondays and 
+four Fridays, find what day of week will be on the 20th of 
+November of that year. 
+Ans: 20th November was a Wednesday. 
+81. Six persons A,B,C,D,E & F went to solider cinema. There are six 
+consecutive seats. A sits in one of the seats followed by B, followed 
+by C and soon. If a taken one of the six seats , then B should sit 
+adjacent to A. C should sit adjacent A or B. D should sit adjacent to 
+A, B,or C and soon. How many possibilities are there? 
+Ans: 32 ways. 
+83. In mathematica country 1,2,3,4....,8,9 are nine cities. Cities 
+which form a no. that is divisible by 3 are connected by air planes. 
+
+http://placementpapers.net - Original Placement Papers Website for Freshers 
+http://placementpapers.net - Placement Papers, Resume Samples, 
+http://placementpapers.net/jobs
+ - Daily Fresher Jobs, Interview Tips. 
+(e.g. cities 1 & 2 form no. 12 which divisible by 3 then 1 is connected 
+to city 2). Find the total no. of ways you can go to 8 if you are 
+allowed to break the journeys. 
+Ans: 5. 
+84. ABCDE are sisters. Each of them gives 4 gifts and each receives 
+4 gifts No two sisters give the same combination ( e.g. if A gives 4 
+gifts to B then no other sisters can give four to other one.)  
+(i) B gives four to A. 
+(ii) C gives 3 to E. 
+How much did A,B,C,E give to D? 
+Ans: Donor no of gifts A 1 B - C 1 D 2 
+85. There are some bulbs, which are numbered from 1 to 100.all 
+the bulbs are in on conditions. The following operations are 
+performed:- 
+1. Those bulbs number which are divisible by 2 are switched OFF. 
+2. Those bulbs numbered which are divisible by 3 are switched ON (which are 
+already OFF) and OFF bulbs are switched ON. 
+3. Similarly bulbs numbers divisible by 4 are either switched ON or OFF 
+depending upon there previous condition. 
+4. This procedure is adopted till 100th bulb. At the end there were how many 
+bulbs which were in ON condition? 
+Ans: 10 ( only perfect squares ). 
+86. There are different numbers related with A, B, C, D, E.such 
+that, AB*CD=EEE. E*CDAB= CC. Find AB*D. 
+Ans: BE. 
+87. Find the total no of 10 digits whose sum is 4. 
+Ans: -- 
+88.Four musician problem (refer GRE BARRONS). 
+Ans: -- 
+89.GRE BARRONS problem --> Problem number 25 to 28 page no. 
+4. 
+Ans: -- 
+90. A, B, C are 3 girls and there are 770 Apples. For every 4 Apples, 
+A takes, B takes 3. For ever 6 Apples, C takes 7 Apples?  
+Ans: 261:145:303. 
+
+http://placementpapers.net - Original Placement Papers Website for Freshers 
+http://placementpapers.net - Placement Papers, Resume Samples, 
+http://placementpapers.net/jobs
+ - Daily Fresher Jobs, Interview Tips. 
+(91) T, U, V are 3 friends digging groups in fields. If T & U can 
+complete i groove in 4 days &, U & V can complete 1 groove in 3 
+days & V & T can complete in 2 days. Find how many days each 
+takes to complete 1 groove individually.  
+Ans: 24 days. 
+(92) 4 mathematician has x apples. If he arranges them in rows of 3 
+one will be left. The same is the case with 5,7,9 apples. But when he 
+arranged them in rows of 11, non will be left. Find the no. of apples. 
+Ans: 946. (Hint: 11*6 11*11 11*16 11*21 =2E......11*76 =3D946). 
+(93) H starts running after T reaches 1/5th they must when H reach 
+1/6th, if H wants win at what speed H should be run? Note: One 
+circle is there, you show this type of problem. 
+Ans: -- 
+ (94) There are 4 mothers, 4 daughters and the colour of their 
+dresses, and they are aged 1, 2, 3 & 4. Details of the dresses are 
+given & then it asked about the remaining dresses. 
+Ans: -- 
+ (95) There are 5 levels of dolls and each of different colors & 
+condition are given. Note: This type of problem also refer. 
+Ans: -- 
+ (96) 5 student A, B, C, D, E. One student knows 5 languages. Like 
+that up to one language. Conditions:- 
+1. Spanish is most popular language. 
+2. 3 persons knows Portuguese. 
+3. B & C normally speak English, but when D gathered, they switched to 
+Spanish because that is only common between the three. 
+4. Only language common between A, B, E is French. 
+5. Only language common between C & E is Italian. 
+Ans: -- 
+97. An escalator is descending at constant speed. A walks down and 
+takes 50 steps to reach the bottom. B runs down and takes 90 steps 
+in the same time as A takes 10 steps. How many steps are visible 
+when the escalator is not operating.  
+ANS. 150. 
+98. Every day a cyclist meets a train at a particular crossing. The 
+road is straight before the crossing and both are traveling in the 
+
+http://placementpapers.net - Original Placement Papers Website for Freshers 
+http://placementpapers.net - Placement Papers, Resume Samples, 
+http://placementpapers.net/jobs
+ - Daily Fresher Jobs, Interview Tips. 
+same direction. Cyclist travels with a speed of 10 Kmph. One day 
+the cyclist comes late by 25 min. and meets the train 5km before 
+the crossing. What is the speed of the train. 
+Ans. 60 Kmph. 
+99. Five persons muckerjee, misra, iyer, Patil and Sharma, all take 
+then first or middle names in the full names. There are 4 persons 
+having first or middle name of Kumar, 3 persons with Mohan, 2 
+persons with dev and 1 anil.- Either mukherjee and Patil have a 
+first or middle name of dev or misra and iyer have their first or 
+middle name of dev. -- Of mukherkjee and misre, either both of 
+them have a first or middle name of Mohan or neither have a first 
+or middle name of Mohan.-- Either iyer of Sharma has a first or 
+middle name of Kumar but not both. Who has the first or middle 
+name of anil? 
+Ans. Today is Mukherjee. 
+101. Two turns have certain peculiar characteristics. One of them 
+always lies on Monday, Wednesday, Friday. The other always lies 
+on Tuesdays, Thursdays and Saturdays. On the other days they tell 
+the truth. You are given a conversation. Person A -- Today is 
+Sunday and my name is anil. Person B -- Today is Tuesday and my 
+name is Bill. What is today? 
+Ans. Today is Tuesday. 
+(102) Which of the following statements can be deduced from the 
+information presented? 
+(i) If it is Sunday, the twins will both say so. 
+(ii) If it is not Sunday, one twin will give the correct day and the other will lie 
+about everything. 
+(iii) On any given day, only one twin will give his correct name. 
+(a) I only. 
+(b) I and ii only. 
+(c) I and iii only. 
+(d) ii and iii only. 
+(e) i, ii and iii. 
+Ans: -- 
+ (103) If the twins are heard saying the following on the same day, 
+which choice presents a correct statement? 
+Twin A : "It is Sunday Today". 
+Twin B : "Yesterday was Sunday". 
+Twin A : "it is summer season now". 
+(a) It is a summer Sunday. 
+(b) It is a summer Monday. 
+(c) It is Monday but not summer. 
+
+http://placementpapers.net - Original Placement Papers Website for Freshers 
+http://placementpapers.net - Placement Papers, Resume Samples, 
+http://placementpapers.net/jobs
+ - Daily Fresher Jobs, Interview Tips. 
+(d) It is Sunday but not summer. 
+(e) It is impossible to determine whether it is Sunday or Monday. 
+Ans: -- 
+104. Logical reasoning tactics practice puzzle poetry. 
+(1) Henny, Axie, Amie are friends. Conditions:- 
+(a) Herry or Axies is the oldest. 
+(b) If Axie is the oldest, Amie is the youngest. Who is the youngest & who is 
+the oldest? 
+Ans: Amie is the youngest, Axie is oldest. 
+105. There is a robbery and four persons are suspected out of them 
+one is actual thief, these are the sentences said by each one of 
+them! 
+A says D had done B says A had done C says I didn't done D B lied when he 
+said that i am thief Out of these only one man is true remaining are false 
+Ans.  C is thief, D is true! 
+106. How many four digit numbers divisible by four can be formed 
+using 1, 2, 3, 4; repetitions are not allowed!  
+Ans. 6  
+107. A vender sells two things at same cost 12 RS with one item at 
+25%profit and other at 20%loss,by this transaction he made profit 
+or loss by how much?  
+Ans. loss,60paise 
+108. Conversation between two employees is as follows:- 
+EMPLOYEE-1: Hello! Now your experience is twice the my experience. 
+EMPLOYEE-2: Exactly two times. 
+EMPLOYEE-1: But at the last meet, you said that your experience is thrice of 
+my experience. 
+EMPLOYEE-2: That is when we met at 2 years back, your experience is thrice 
+that of yours. 
+What is the experience of two employees with the company? 
+Ans: EMPLOYEE-1: 4 years EMPLOYEE-2: 8 years. 
+109. there are four persons A,B,C,D and for languages English 
+,french, german, italian. conditions 
+1 only one language is spoken by more than two men 
+2 A don't know English 
+3 a man can speak either French or German but not both 
+4 all man cannot speck in a group (no common language) 
+
+http://placementpapers.net - Original Placement Papers Website for Freshers 
+http://placementpapers.net - Placement Papers, Resume Samples, 
+http://placementpapers.net/jobs
+ - Daily Fresher Jobs, Interview Tips. 
+5 A can mediate when B and C want to speak with each other 
+6 each men can speak two languages 
+Ans. 
+A French Italian 
+B English French 
+C German Italian 
+D German Italian 
+110. There are 3 women ,they having three jewels, named diamond 
+emerald, ruby 3 women A,B,C 3 thief's D,E,F each they had taken 
+one jewel from each of the women following conditions one who 
+had taken diamond is the bachelor and most dangerous D 's 
+brother in law E who is less dangerous than the thief who had 
+stolen emerald (this is the key from this e had stolen ruby) D didn’t 
+stolen from B one more condition is there 
+Ans: -- 
+111. there were three suspects for a robbery that happened in a 
+bank, Tommy, joy and Bruce Each of them were saying that I 
+haven't done anything and the other two has done it. police found 
+that Tommy was lying .who is the thief. 3M (MARKS). 
+Ans: -- 
+112. Joe started from Bombay towards Pune and her friend Julie in 
+opposite direction. they meet at a point .distance traveled by Joe 
+was 1.8 miles more than that of Julie. after spending some both 
+started there way. Joe reaches in 2 hours while Julie in 3.5 hours. 
+Assuming both were traveling with constant speed.What is the 
+distance between the two cities. 
+Ans: -- 
+113. there were five hunters A,B,C,D,E and five animals A,B,C,D,E. 
+Hunter having the same name with the animal didn't kill it. Each 
+hunter has missed some animal. A animal was hunt by the hunter 
+whose name matches with animal hunt by hunter B. C animal was 
+hunt by the hunter whose name matches with animal hunt by 
+hunter D. E has hunt C and missed D .find out animals hunted by 
+A,B,C. 6m. 
+Ans: -- 
+114. A boy picks up the phone and asks "Who are you?". The voice 
+from the other side answers "I am your mother's mother-in-law". 
+What is the relation of the boy with the fellow speaking at the other 
+end. 
+
+http://placementpapers.net - Original Placement Papers Website for Freshers 
+http://placementpapers.net - Placement Papers, Resume Samples, 
+http://placementpapers.net/jobs
+ - Daily Fresher Jobs, Interview Tips. 
+Ans: -- 
+115. Imagine a rectangle. Its length = 2*width. A square of 1 inch is 
+cut on all corners so that the remaining portion forms a box when 
+folded. The volume of the box is _____ cubic inches. Find the 
+original dimensions of the box. 
+Ans: -- 
+116. 2 persons are doing part time job in a company say A and B. 
+The company is open for all the 7 days of the week. 'A' works every 
+second day. 'B' works every 3rd day. If 'A' works on first June and 
+'B' works on second June. Find out the date on which both 'A' and 
+'B' will work together. 
+Ans: -- 
+117. Consider a pile of Diamonds on a table. A thief enters and 
+steals 1/2 of the e total quaint and then again 2 extra from the 
+remaining. After some time a second thief enters and steals 1/2 of 
+the remaining+2. Then 3rd thief enters and steals 1/2 of the 
+remaining+2. Then 4th thief enters and steals 1/2 of the 
+remaining+2. When the 5th one enters he finds 1 diamond on the 
+table. Find out the total no. of diamonds originally on the table 
+before the 1st thief entered. 
+Ans: -- 
+118. Imagine 4 persons A,B,C,D. (It is a strength determining 
+game). A found it hard, but could pull 'C' and 'D' to his side. AC and 
+BD pairs on opposite sides found themselves equally balanced. 
+When A and B exchanged their positions to form pairs AD and BC, 
+BC pair could win and pull AD to their side. Order the 4 persons in 
+Ascending order according to their strengths.  
+Ans: -- 
+119. Consider a beauty contest. 3 persons participate. Their names 
+are Attractive, Delectable, Fascinating. They are from 3 tribes 
+Pukkas, Wottas, Summas. Pukkas - Always speak truth. Wottas - 
+Always speak lies. Summas - Speak truth and lies alternatively. 
+Each of the 3 persons make 2 statements. The person who speaks 
+truth is the least beautiful. From the statements they give and the 
+character of the 3 tribal types, find out which person belongs to 
+which tribe. Also find out the persons in the Ascending order of 
+their beauty. 
+Ans: -- 
+
+http://placementpapers.net - Original Placement Papers Website for Freshers 
+http://placementpapers.net - Placement Papers, Resume Samples, 
+http://placementpapers.net/jobs
+ - Daily Fresher Jobs, Interview Tips. 
+120. There are 5 positions-Clerk, Buyer, Cashier, Manager, 
+Floorwalker. There are 5 persons- Mrs. Allen, Mrs. Clark, Twain, 
+Ewing, Barnett. Conditions: 
+1. Clerk and cashier lunch time 11.30.to12.30. 
+2. Others 12.30 to 1.30. 
+3. Mrs. Allen and Barnett play during lunch time. 
+4. Clerk and cashier share Bachelor rooms. 
+5. Ewing and Twain are not in good terms because one day when Twain 
+retuned early from lunch he saw Ewing already sitting for lunch and reported 
+about him to the manager. Find out which person holds which post. 
+Ans: -- 
+121. There are 8 courses to be handled by faculty in 2 semesters. 4 
+in 1st semester and 4 in 2nd semester. The candidates hired for the 
+post are k, l, m, n, o. The courses are Malvino, Shakespeare, Joyce, 
+Chaucer........... Some conditions will be given like,1. L and N 
+handle Shakespeare and Malvino. 2. M and O handle Malvino and 
+Joyce. 
+Ans: -- 
+122. A family I know has several children. Each boy in this family 
+has as many sisters as brothers but each girl has twice as many 
+brothers as sisters. How many brothers and sisters are there? 
+Ans: 4 boys and 3 girls. 
+123. No. of animals is 11 more than the no. of birds. If the no. of 
+birds were the no. of animals and no. of animals were the no. of 
+birds( i.e., interchanging nos of animals and birds.), the total no. of 
+legs get reduced by one fifth (1/5). How many no. of birds and 
+animals were there? 
+Ans: birds:11,animals:22 
+124. In a soap company a soap is manufactured with 11 parts. For 
+making one soap you will get 1 part as scrap. At the end of the day u 
+have 251 such scraps. From that how many soaps can be 
+manufactured?  
+Ans: 22 + 2+ 1 = 25. 
+125. 2 * * | 
+3 * * | No. 7 does not occur in this---------------- | 
+5 * * | multiplication. 
+* 4 * | 
+* * 3 | Find the product. 
+---------------- | 
+* * * * * | 
+
+http://placementpapers.net - Original Placement Papers Website for Freshers 
+http://placementpapers.net - Placement Papers, Resume Samples, 
+http://placementpapers.net/jobs
+ - Daily Fresher Jobs, Interview Tips. 
+------------- | 
+-------------------------------------------------- 
+Ans: 2 8 1 
+3 2 2 
+----- 
+5 6 2 
+5 6 2 0 
+8 4 3 0 0 
+--------- 
+9 0 4 8 2 
+--------- 
+126. There is a 5digit no. 3 pairs of sum is eleven each. Last digit is 
+3 times the first one. 3 rd digit is 3 less than the second. 4 the digit 
+is 4 more than the second one. Find the digit. 
+Ans: 25296. 
+127. There are five thieves, each loot a bakery one after the other 
+such that the first one takes 1/2 of the total no. of the breads plus 
+1/2 of a bread. Similarly 2nd, 3rd,4th and 5fth also did the same. 
+After the fifth one no. of breads remained are 3. Initially how many 
+breads were there? 
+Ans: 31. 
+128.There are some chicken in a poultry. They are fed with corn 
+One sack of corn will come for 9 days. The farmer decides to sell 
+some chicken and wanted to hold 12 chicken with him. He cuts the 
+feed by 10% and sack of corn comes for 30 days. So initially how 
+many chicken are there? 
+Ans: -- 
+129.Two people X & Y walk on the wall of a go down in opposite 
+direction. They meet at a point on one side and then go ahead. X 
+after walking for some time, walks in opposite direction for 15 
+mtrs. Then again he turns back and walks in the original direction. 
+What distance did Y walk before they met again, if X walks 11 
+meters by the time Y walks 8 meters. 
+130. Problem from SAKUNTALA DEVI 'PUZZLES TO PUZZLE U'. 
+Problem no: 23( Walking back to happiness.) 
+Ans: -- 
+131. Find a five digit number subject to following conditions:- 
+a. It contains 2 prime no digits. 
+b. 3rd digit is the largest. 
+
+http://placementpapers.net - Original Placement Papers Website for Freshers 
+http://placementpapers.net - Placement Papers, Resume Samples, 
+http://placementpapers.net/jobs
+ - Daily Fresher Jobs, Interview Tips. 
+c. 1st digit = (3 rd digit - 1). 
+c. Sum of 4th digit and 5th digit is less than 1st digit. 
+d. Value of the 5th digit lies between the value of 1st digit and 2nd digit, 5th 
+digit is one half of the 4th digit. 
+Ans: 71842 
+132. 1, 2 , 3, 4 digits are available. How many number of 4 digited 
+numbers which are divisible by 4. (There should be no repetition of 
+digits in the numbers) can be formed? 
+Ans: 6 numbers. 
+133. A hill of 440 yards is there. Two competitors JACK and JILL go 
+up the hill, first JACK reaches the topmost and immediately starts 
+back and meet JILL 20 yards from the topmost point. Finally JACK 
+reaches the starting point 0.5 minutes earlier than JILL. Speed 
+while coming down is 1.5 times the speed of going up. Find the time 
+taken by JACK for whole journey (880 yards)? 
+Ans: 6.3 minutes. 
+134. A merchant in the last day sells 2 lamps for Rs.12 price. He 
+finds that he has got 25 % gain on one and 20% lost on the other. 
+Did he loose or gain overall? If so how much? 
+Ans: 60 paise Loss. 
+135. 4 persons are there called JOHN, JACOB, PETER, and 
+WILLIAMS. 4 languages are there named ENGLISH, ITALIAN, 
+GERMAN, FRENCH. Conditions:- 
+a. There is no common language for all. 
+b. Except one language, no language is spoken by more than two. 
+c. One can know either German or FRENCH but not both. 
+d. John can't speak ENGLISH But John can act as interpreter between JACOB 
+and PITER. Jacob knows GERMAN but he can talk with WILLIAM who 
+doesn't know a word of GERMAN. 
+e. No common language between JOHN, PITER, and WILLIAMS. Which two 
+languages does each person speaks? 
+Hint: ITALIAN IS SPOKEN BY THREE PERSONS (This hint is given in 
+Question paper) 
+136. 5 couples are there. MEN: L, M, N, O, P. WOMEN: S, T, U, V, 
+W.10 seats are in one row. Odd numbered seats are reserved for 
+MEN only Like that many conditions are there. This problem is 
+from GRE-BARONS BOOK. 
+Ans: -- 
+
+http://placementpapers.net - Original Placement Papers Website for Freshers 
+http://placementpapers.net - Placement Papers, Resume Samples, 
+http://placementpapers.net/jobs
+ - Daily Fresher Jobs, Interview Tips. 
+137. I participated in a race.1/5th of those who are before me are 
+equal to 5/6th of those behind me. What were the total number of 
+contestants in the race? 
+Ans: -- 
+138. Find the 3 digit number. Third digit is square root of first digit. 
+Second digit is sum of first and third digits. Find the number. 
+Ans: -- 
+139. This problem is of time and work type. Some A and some B are 
+able to produce so many tors in so many hours. (for example 10 A 
+and 20 B are able to produce 30 tors per hour). Like this one more 
+sentence was given. We have to find out the rate of working of A 
+and B in tors/hour. 
+140. A and B play a game of dice between them. The dice consists of 
+colors on their faces instead of numbers. A wins if both dice show 
+same color. B wins if both dice show different colors. One dice 
+consists of 1 red and 5 blue. What must be the color in the faces of 
+other dice. (i.e. how many blue and how many red?). 
+Ans: Chances of winning for A and B are even. 
+141. A girl has 55 marbles. She arranges them in n rows. The nth 
+row consists of n marbles, the (n-1)the row consists of (n-1) 
+marbles and so on. What are the number of marbles in nth row? 
+Ans: -- 
+142. This question is of analogy type. Some sentences regarding 
+tastes of people to poetry are given like all who like A's Poem, like 
+the poems of B. Like this 7 or 8 sentences were given. Questions 
+were based on this. 
+Ans: -- 
+143. This question is also of analogy type. Four persons are there 
+A,B,C,D. Each of the four persons own either P,Q,R,S. 10 sentences 
+using if clause were given. We have to find out which belongs to 
+whom. 
+Ans: -- 
+ (144) Every station in N railroad issues every other station's ticket. 
+Some stations are added. Now they have to issue 46 more tickets. 
+Give the No. of stations after and before added. 
+Ans: -- 
+
+http://placementpapers.net - Original Placement Papers Website for Freshers 
+http://placementpapers.net - Placement Papers, Resume Samples, 
+http://placementpapers.net/jobs
+ - Daily Fresher Jobs, Interview Tips. 
+ (145) There was a race between 3 people. Me, Doug and Anne. 
+When I take 21 steps the distance covered is equal to Doug's 24 
+steps and Anne's 28 steps. I take 6 steps to every 7 steps of Doug 
+and 8 steps of Anne. Who won the race? 
+Ans: -- 
+ (146) How many bearers will an explorer need for a 6 day march if 
+each man can carry the food stuff of one man for 4 days. 
+Ans: -- 
+ (147) Consider the following statements: 
+Albert: Dave did it. 
+Dave: Tony did it. 
+Gug: I did not do it. 
+Tony: Dave lied when he said that I did it. 
+(a) If only one out of all above statements is true, who did it? 
+(b) If only one out of all above statements is false, who did it? 
+Ans: -- 
+ (148) A contribution of Rs. 500 was raised from 500 people. The 
+fee was as follows: Men: Rs.3.00 each Women: Rs. 2.00 each 
+Children: 0.48 each If number of women is more than number of 
+men, how many children are there? 
+Ans: -- 
+ (149) Alice and Liu had some berries. The total of Alice's berries 
+and square of number of berries with Liu is 62. The total of Liu's 
+berries and square of number of berries with Alice is 176. How 
+many berries does each of them have? 
+Ans: -- 
+ (150) A rope ladder was left down from a ship. 12 steps of the 
+ladder were exposed at 10:00 am. The queen who was going to visit 
+the ship, said she would visit at 1:00 pm as she would have to climb 
+lesser number of steps then. The tide in the sea increases from 
+morning to afternoon at the rate of 1.2 meters per hour. The 
+distance between any 2 steps of the ladder is 0.4 mts. How many 
+steps will the queen have to climb? 
+Ans: -- 
+ (151) 5 hunters Doe, Deer, Hare, Boar and Row kill 5 animals. Each 
+hunter kills an animal that does not correspond to his name. Also 
+each hunter misses a different animal which again does not 
+correspond to his name. 
+
+http://placementpapers.net - Original Placement Papers Website for Freshers 
+http://placementpapers.net - Placement Papers, Resume Samples, 
+http://placementpapers.net/jobs
+ - Daily Fresher Jobs, Interview Tips. 
+(a) The Deer is killed by the hunter, known by the name of the animal killed by 
+Boar. 
+(b) Doe is killed by the hunter, known by name of animal missed by Hare. 
+(c) The Deer was disappointed to kill only a Hare and missed the Roe. 
+Ans: -- 
+ (152) A local forecast service has accuracy of 2/3 says No rain , and 
+Meteorological service having accuracy of 4/3 says Rain. if 
+Preference is as no rain what is the chance of rain? 
+Ans: -- 
+ (153)  
+(a) 10 1 9 2 8 3 7 4 6 5 5 6 4 7 3 8 2 _ _ 
+(b) 2 4 16 512 _  Write the next elements in the series. 
+Ans: -- 
+ (154) A Man is sitting in the last coach of train could not find a 
+seat, so he starts walking to the front coach ,he walks for 5 min and 
+reaches front coach. Not finding a seat he walks back to last coach 
+and when he reaches there, train had completed 5 miles. What is 
+the speed of the train. 
+Ans: -- 
+ (155) The Old car of Mary requires tyres to be changed after each 
+24000 km. If she wants to go for 42000 km journey then how many 
+minimum number of tyres she will need. 
+Ans: -- 
+ (156) A coin is so unbalanced that it may come both heads in 2 
+tosses as it may come tails in a single toss. What is the probability 
+of getting a head in a single toss. 
+Ans: -- 
+ (157) A pen, pencil and eraser together cost $1.00. if 2E<N , if 
+N>2P, and 3P>4E then what a single pen will cost? 
+Ans: -- 
+ (158) A local forecast service has accuracy of 2/3 says No rain , and 
+Meteorological service having accuracy of 4/3 says Rain. if 
+Preference is as no rain what is the chance of rain? 
+Ans: -- 
+
+http://placementpapers.net - Original Placement Papers Website for Freshers 
+http://placementpapers.net - Placement Papers, Resume Samples, 
+http://placementpapers.net/jobs
+ - Daily Fresher Jobs, Interview Tips. 
+ (159) Sherlock Holmes thwarted the plan to kidnap Mrs. marry 
+when they were questioned Mercy and his two associated shipy and 
+rany. when they were telling the story one of them told one thing 
+wrong and other true, the other told both true, and the last told 
+both false. examining the following tell the roles played by each 
+Mercy::  
+(1) I wrote the ransomed note 
+(2) shipy broke into the window rainy  
+(1) shipy wrote the ransomed note 
+(2) mercy ran away with the lady shipy  
+(1) I broke into the window 
+(2)rany wrote the ran some note. 
+Ans: -- 
+ (160) Tom asked Kim did you like the stamps? She said yes ,me 
+and rob too liked them. Kim again said that rob got 3 more than he 
+would have got, if i would have kept 2 more than, what he got. Tom 
+asked how many u gave Rob? She replied 2 more than what I got. 
+Tell, how many stamps each rob and Kim got? 
+Ans: -- 
+ (161) The Virgo club members used to meet every week to play 
+cards. Each time they used to seat around a round table and for 
+their memory they used all the possible combinations of positions 
+each for a single time only. Can you tell for how many times they 
+met? Essays Asked If you are given a chance to change a thing in 
+you hometown, what would you change? Give examples why you 
+want to do so. Television is creating a communication gap among 
+young generation. 
+Ans: -- 
+162. A person needs 6 steps to cover a distance of one slab. If he 
+increases his foot length (step length) by 3 inches he needs only 5 
+steps to cover the slabs length. What is the length of the each slab. 
+Ans: 31 inches. 
+163. There are 19 red balls and one black ball. Ten balls are put in 
+one jar and the remaining 10 are put in another jar. What is the 
+possibility that the black is in the right jar. 
+Ans: 1/2. 
+164. There is one lily in the pond on 1st June. There are two in the 
+pond on 2nd June . There are four on 3rd June and so on. The pond 
+is full with lilies by the end of the June. 
+ 
+
+http://placementpapers.net - Original Placement Papers Website for Freshers 
+http://placementpapers.net - Placement Papers, Resume Samples, 
+http://placementpapers.net/jobs
+ - Daily Fresher Jobs, Interview Tips. 
+(i) On which date the pond is half full? 
+Ans: 29th. --the June has 30 days). 
+(ii) If we start with 2 lilies on 1st June when will be the pond be full 
+with lilies. 
+Ans: 29th June. 
+165. A lorry starts from Bangalore to Mysore at 6.00 AM, 7.00 AM, 
+8.00 am.....10 pm. Similarly one another starts from Mysore to 
+Bangalore at 6.00 am,7.00 am, 8.00 am.....10.00pm. A lorry takes 
+9 hours to travel from Bangalore to Mysore and vice versa.  
+(i) A lorry which has started at 6.00 am will cross how many 
+lorries.  
+Ans: 10. 
+ 
+(ii) A lorry which had started at 6.00pm will cross how many 
+lorries. Ans: 14. 
+166. A person meets a train at a railway station coming daily at a 
+particular time . One day he is late by 25 minutes, and he meets the 
+train 5 Kim. before the station. If his speed is 12 Kmph, what is the 
+speed of the train. 
+Ans: 60 Kmph. Refer--Shakuntala Devi Book. 
+167. A thief steals half the total no of loaves of bread plus 1/2 loaf 
+from a bakery. A second thief steals half the reaming no of loaves 
+plus 1/2 loaf and so on. After the 5th thief has stolen there are no 
+more loaves left in the bakery. What was the total no of loaves did 
+the bakery have at the beginning. 
+Ans: 31. 
+168. A gardener plants 100 meters towards east, next 100 meters 
+towards north, next 100 meters towards west. 98 meters towards 
+east, 96 meters towards north and 96 meters towards west, 94 
+meters towards south. and 94 meters towards east and so on. If a 
+person walks between the trees what is the total distance traveled 
+by him before he reaches the center. 
+Ans: |---------------| | | | | | | | --------|- | ---------------------| -. 
+169. There are four women and 3 men. They play bridge one night. 
+Find widow among them. Rules: 
+(i) wife and husband are never partners. 
+(ii) Wife and husband never play more than one game. One night 
+they played four games as 
+follows:- 
+
+http://placementpapers.net - Original Placement Papers Website for Freshers 
+http://placementpapers.net - Placement Papers, Resume Samples, 
+http://placementpapers.net/jobs
+ - Daily Fresher Jobs, Interview Tips. 
+1. ------ + ------ vs. ------- + --------- 
+2. ------ + ------ vs. ------- + --------- 
+3. ------ + --*--- vs. ------- + --------- 
+4. ---*-- + ------ vs. ------- + --------- 
+the woman are marked * above. 
+Ans: Refer Problem 21. Mind Teasers by Summers. 
+170. From a vessel, 1/3rd of the liquid evaporates on the first day. 
+On the second day 3/4th of the remaining liquid evaporates. What 
+fraction of the volume is present at the end of the second day. 
+Ans: 50%.  
+171. There is a 4 inch cube painted on all sides. This is cut down into 
+of 1 inch cubes. What is the no of cubes which have no pointed 
+sides? 
+Ans: 8. 
+172. Sam and Mala have a conversation. Sam says I am certainly 
+not over 40. Mala says I am 38 and you are at least 5 years older 
+than me. Now, Sam says you are at least 39. All the statements by 
+the two are false. How old are they really? 
+Ans: Mala = 38 yrs; Sam = 41 yrs. 
+173. Ram Singh goes to his office in the city, every day from his 
+suburban house. His driver Gangaram drops him at the railway 
+station in the morning and picks him up in the evening. Every 
+evening Ram Singh reaches the station at 5 O' Clock. Gangaram 
+also reaches at the same time. One day Ram Singh started early 
+from his office and came to the station at 4 O' Clock. Not wanting to 
+wait for the car he starts walking home. Mangaram starts at 
+normal time, picks him up on the way and takes him back house, 
+half an hour early. How much time did Ram Singh walk? 
+174. In a railway station, there are two trains going. One in the 
+harbor line and one in the main line, each having a frequency of 10 
+minutes. The main line service starts at 5 o'clock and the harbor 
+line starts at 5.02A.M. A man goes to the station every day to catch 
+the first train that comes. What is the probability of the man 
+catching the first train? 
+Ans: 0.8. 
+175. A family X went for a vacation. Unfortunately it rained for 13 
+days when they were there. But whenever it rained in the 
+mornings, they had clear afternoons and vice versa. In all they 
+
+http://placementpapers.net - Original Placement Papers Website for Freshers 
+http://placementpapers.net - Placement Papers, Resume Samples, 
+http://placementpapers.net/jobs
+ - Daily Fresher Jobs, Interview Tips. 
+enjoyed 11 mornings and 12 afternoons. How many days did they 
+stay there totally? 
+Ans: 18. 
+176. Albert and Fernandez have two leg swimming race. Both start 
+from opposite ends of the pool. On the first leg, the boys pass each 
+other at 18 m from the deep end of the pool. During the second leg 
+they pass at 10 m from the shallow end of the pool. Both go at 
+constant speed but one of them is faster. Each boy rests for 4 
+seconds at the end of the first leg. What is the length of the pool? 
+Ans: -- 
+177. Each alphabet stands for one digit in the following 
+multiplication. 
+T H I S 
+x I S 
+--------- 
+X F X X 
+X X U X 
+------------ 
+X X N X X 
+------------ What is the maximum value T can take? 
+Ans: -- 
+178. If 1/4 of the time from midnight plus 1/2 of the time from now 
+to midnight is the present time, then What is the present time? 2. 
+In a 10 digit number, if the 1st digit number is the number of 
+ones,2nd digit number is the number of twos, and ... so on. 10th 
+digit is the number of zeroes, then find the number. 
+Ans: -- 
+179. A train blows a siren one hour after starting from the station. 
+After that it travels at 3/5th of its speed it reaches the next station 2 
+hours behind schedule. If it had a problem 50 miles farther from 
+the previous case, it would have reached 40 minutes sooner. Find 
+the distance between the two stations. 
+Ans: -- 
+180. An army 50 miles long marches at a constant rate. A courier 
+standing at the rear moves forward and delivers the message to the 
+first person and then turns back and reaches the rear of the army 
+as the army completes 50 miles. Find the distance traveled by the 
+courier. 
+Ans: -- 
+
+http://placementpapers.net - Original Placement Papers Website for Freshers 
+http://placementpapers.net - Placement Papers, Resume Samples, 
+http://placementpapers.net/jobs
+ - Daily Fresher Jobs, Interview Tips. 
+181. Olympic race : 4 contestants : Alan, Charlie, Darren ,Brain. 
+There are two races and average is taken to decide the winner. One 
+person comes at the same position in both the race. Charlie always 
+come before Darren. Brian comes first once. Alan comes third at 
+least once. Find the positions. Alan never comes last. Charlie & 
+Darren comes 2nd at least once. 
+Ans: -- 
+ (182) There are 6561 number of balls in a bag. Out of which one is 
+heavy ball. In how many minimum number of weighing you can 
+find the heavy ball. 
+Ans: 8. 
+(183) The profit made by a company in one year is enough to give 
+6% return on all shares. But as the proffered shares get on return 
+of 7.5%, so the ordinary shares got on return of 5%. If the value of 
+preferred shares is Rs 4,000000, then what is the value of ordinary 
+shares? 
+Ans: Rs. 6,000000. 
+(184) There were 50 players playing a game among themselves. 
+Each player is out of the game when lose 3 matches. What is the 
+number of matches should be played in order to get the winner. 
+Ans: -- 
+ (185) A & B two places. C & D are two people. C started from A and 
+D started from B. When they meet each other in the way C traveled 
+18 m more than D. Then C takes 13 and half a minute and D takes 
+24 minutes to reach the other end. What was the distance between 
+A & B. 
+Ans: 126. 
+(186) I have been hearing a girl singing a song for last two score. 
+Song: If seven times five and three times seven is added to my age it 
+would be as far above six nines and four as the difference between 
+twice of my age and a score. Given-A score is 20 yrs. 
+Ans: -- 
+ (187) A tourist wants to go from A to B. There are four ways to do 
+this:- 
+1. To take a wagon. The wagon stops for half an hour at a station in 
+between a & b and then goes to b. 
+2. To walk to B. If he leaves A at the same time the wagon leaves, he 
+will be between by the wagon by 1 mile to reach B. 
+
+http://placementpapers.net - Original Placement Papers Website for Freshers 
+http://placementpapers.net - Placement Papers, Resume Samples, 
+http://placementpapers.net/jobs
+ - Daily Fresher Jobs, Interview Tips. 
+3. To walk from A at the same time the wagon leaves from A. He 
+will arrive at the mid station at the time when the wagon is 
+prepared to leave. He can take the wagon from there. This will take 
+shortest time. 
+4. To go on unto the mid station & to walk from there. He will reach 
+at B 15 minutes before the wagon. What is the distance between A & 
+B? 
+Ans: -- 
+ (188) In a train there is one brakeman, conductor, engineer & 
+fireman. Their names are Art, John, Tom & Pete given in this order 
+or in reverse order. You have to tell the occupation of the four, 
+w.r.t. these conditions:- 
+1. Brakeman has no relatives. 
+2. John is older than art. 
+3. Engineer & fireman are brothers. 
+4. John is Pete's nephew. 
+5. Fireman is not conductor's uncle. 
+6. Conductor is not engineer's uncle. 
+Ans: Pete & Tom are brothers. Tom--Father and John is his son. 
+Art--Brakeman. 
+John--Conductor. 
+Tom--Engineer. 
+Pete--Fireman. 
+(189) There is a 18 strong building and 4 people live in it. They are 
+dentist, lawyer, accountant, architect. Dentist floor is 5 times the 
+lawyer's floor. Account is below dentist. If architect moves two 
+floors up he will be midway between dentist and account. If 
+architect moves to midway of the building (9th floor) then he will 
+be middle of dentist & lawyer. Ground floor can be ignored i.e. 
+floor 0. 
+Ans: Dentist 15. Accountant 13. Architect 12. Lawyer 3. 
+(190) 4 ladies, Mrs. Margaret, Mrs. Price, Mrs. Winter & Mrs. Ellen 
+went for marketing. Each went for 2 shops only. Their surnames 
+are lorret, torrey, dories and Marshall. One went to a hardwires 
+shop. Two went to bank. Two went to bluchers. All but dories went 
+to grocery etc. Who went where? 
+Ans: -- 
+ (191). A software engineer starts from home at 3 pm for evening 
+walk. He walks at a speed of 4 Kmph on level ground and then at a 
+speed of 3 Kmph on the uphill and then down the hill at a speed of 
+6 Kmph to the level ground and then at a speed of 4 Kmph to the 
+home at 9 pm. What is the distance on one way? 
+
+http://placementpapers.net - Original Placement Papers Website for Freshers 
+http://placementpapers.net - Placement Papers, Resume Samples, 
+http://placementpapers.net/jobs
+ - Daily Fresher Jobs, Interview Tips. 
+Ans: -- 
+ (192). A bag contains certain number of files. Each file is 
+numbered with one digit of 0 to 9. Suppose the person want to get 
+the number between 1 to 2000 (or 7000 check ). How many 
+minimum number of files should be present in the bag. 
+Ans: -- 
+ (193). a + b + c +d = d + e + f + g = g + h + i =17. If a = 4, what are 
+the values of d and g. Each letter taken only one of the digit from 1 
+to 9. 
+Ans: a = 4 ,b = 2, c =6, d = 5, e = 3, f = 8, g = 1, h = 7, i = 9. 
+194. A frog jumps 3 ft comes back 2ft in a day. In how many day it 
+will come out of 30ft deep well? 
+Ans: 28 day. 
+195. A-B=C D/E=F G+H=I C.F=I 
+Ans: A=9, B=5, C=4, F=2. 
+196. When the actual time pass 1 hr, wall clock is 10 min behind it. 
+When 1 hr is shown by wall clock, table clock shows 10 min ahead 
+of 1 hr. When table clock shows 1 hr, the alarm clock goes 5 min 
+behind it. When alarm clock goes 1 hr, wrist watch is 5 min ahead 
+of it. Assuming that all clocks are correct with actual time at 12 
+noon, what will be time shown by wrist watch after 6 hr? 
+Ans: 5:47:32.5 (n X 60 )50/60 X 70/60 X 55/60 X 65/60. 
+197. A software engineer just returned from US, has eaten too 
+much fat & put a lot of weight. Every Sunday he starts walking 4 
+km/hr on level ground, then up at 3 km\hr, then back down hill at 
+6km\hr, then again on level ground at 4km\hr till he reaches his 
+destination. If he returned home at 9 p.m., what distance did he 
+covered? 
+Ans: 24 km. 
+198. Answer the questions from facts:- The members of certain 
+tribe are divided into 3 casts abhor, dravid &  magar. 
+1. An abhor woman can't marry dravid man. 
+2. A magar woman can't marry a dravid man. 
+3. A son takes the caste of his father and a daughter takes caste of her mother. 
+5. All marriages except those mentioned, are not permitted. 
+6. There are no children born out of a wedlock. 
+
+http://placementpapers.net - Original Placement Papers Website for Freshers 
+http://placementpapers.net - Placement Papers, Resume Samples, 
+http://placementpapers.net/jobs
+ - Daily Fresher Jobs, Interview Tips. 
+199. There are 2 scales of temp A & B. It was given A varies from 14 
+to 133 and B varies from 36 to 87. Find the temperature, when 
+temperature of A is equal to temp of B. 
+Ans: 52.5. Let t=mx+c, c=-70 => m=51/119 a=a.51/119 -70 => a=52.5. 
+201. There are 4 married couples, out of which, 3 people in a group 
+is needed. But there should not be his or her spouse in the group. 
+How many groups are possible? 
+Ans: 32. 
+202. In the 4 digits 1,2,3,4, how many 4 digested numbers are 
+possible which are divisible by 4? Repetitions are allowed. 
+Ans: 64. 
+203. Two men are going along a track of rail in the opposite 
+direction. One goods train crossed the first person in 20 sec. After 
+10 min the train crossed the other person who is coming in 
+opposite direction in 18 sec. After the train has passed, when the 
+two persons will meet? 
+Ans: Approx. 72 min, check it once. 
+204. The no. of children, adults. The no. of adults the no. of boys. 
+The no. of boys no. of girls. The no. of girls no. of family. 
+Conditions:- 
+1. No family is without a child. 
+2. Every girl has at least one brother and sister. 
+Ans: c > a > b > g > f; 9 6 5 4 3. 
+205. There are 4 boys - Anand, Anandya, Madan and Murali with 
+nic-names perich, zomie, drummy and madeena not in the same 
+order. Some conditions. 
+Ans: Anand : Perich Anandya : Drummy Madan : Zombie Murali : Madeena 
+206. There are 2 diamonds, 1 spade and 1 club and 1 ace and also 1 
+king, 1 jack and 1 ace are arranged in a straight line. 
+1. The king is at third place. 
+2. The left of jack is a heart and its right is king. 
+3. No two red colours are in consecutive. 
+4. The queens are separated by two cards. Write the order of which suits 
+(hearts ,clubs) and names (jacks queens etc.) are arranged? 
+Ans: -- 
+
+http://placementpapers.net - Original Placement Papers Website for Freshers 
+http://placementpapers.net - Placement Papers, Resume Samples, 
+http://placementpapers.net/jobs
+ - Daily Fresher Jobs, Interview Tips. 
+207. Write each statement as true or false. 8 Marks 
+1. The sum of the first three statements and the second false statement gives 
+the true statement. 
+2. The no. of true statements > No. of false statements. 
+3. The sum of second true statement and first false statement gives the first 
+true statement. 
+4. There are atmost 3 false statements. 
+5. There are no two consecutive true statements. 
+Ans: -- 
+208. There are 3 piles each contains 10, 15, & 20 stones. There are 
+A, B, C, D, F, G and H persons. One man can catch upto four stones 
+from any pile. The last man who takes will win. If first A starts next 
+B and so on, who will win? 
+Ans: May be F. 
+209. In a certain department store the position of Buyer, Cashier, 
+Clerk, Floorwalker & Manager are held, though not necessarily 
+respectively, by Evans, Ames, Conroy, Davis amp; Buyer. The 
+cashier & the manager were roommates in college. The Buyer is 
+bachelor, Evans & Miss Ames have only business contacts with 
+each other. Mrs. Conroy was greatly disappointed when her 
+husband told her that the manager had refused to give him a raise. 
+Davis is going to be the best man when the clerk & the cashier are 
+married. What position does each person held? 
+Ans: -- 
+210. In a four team foot-ball tournament, all the teams played each 
+Other in three rounds of matches as shown in the Table - A. Some 
+of The results of the tournament are shown in the Table - B. Using 
+the Clues given below, please fill in the blank columns in the result 
+Table - B (Goals for & Goals Against?). Note : Two points for win, 
+one point for draw & zero points for defeat are awarded. Clues : 
+1. East zone won the tournament despite scoring one less goal than the 
+runners-up. 
+2. North zone scored an odd number of goals in their first round Game. 
+3. South zone, who failed to score in their final match, were beaten by a two-
+goal margin in the first round. 
+4. East zone lost their match against west zone. 
+5. All four teams scored goals in the second round matches. 
+6. West zone scored the same number of goals against east zone as North zone 
+scored against them. 
+Ans: -- 
+211. East zone scored four goals in round two match.</LI< OL> 
+Table - A (Matches Played) 
+
+http://placementpapers.net - Original Placement Papers Website for Freshers 
+http://placementpapers.net - Placement Papers, Resume Samples, 
+http://placementpapers.net/jobs
+ - Daily Fresher Jobs, Interview Tips. 
+Round 1 
+North zone vs. South zone 
+West zone vs. east zone. 
+Round 2 
+South zone vs. West zone 
+East zone vs. North zone 
+Round 3 
+South zone vs. East zone 
+West zone vs. North zone. 
+Table - B (Results) 
+Played Won Draw Lost Goals For Goals Against Points 
+East Zone 3 - - - ? 3 4 
+North Zone 3 - - - ? ? 4 
+West Zone 3 - - - 4 3 3 
+South Zone 3 - - - 2 5 1 
+Ans: -- 
+212. In certain community, there are thousand married couples. 
+Two thirds of the husbands who are taller than their wives are also 
+heavier and three quarters of the husbands who are heavier than 
+their wives are also taller. If there are 120 wives who are taller and 
+heavier than their husbands, how many husbands are taller and 
+heavier than their wives? 
+Ans: -- 
+213. Both the Guptas and Sinhas have two young sons, whose ages 
+are under Eleven. The names of the boys, whose ages rounded off 
+to the nearest year are all different, are Rajesh, Praveen, Lalith and 
+Prathap. Taking the ages of the boys only to the nearest year, the 
+following statements are true:-Rajesh is three years younger than 
+his brother is. Praveen is the oldest. Prathap is 5 years older than 
+the younger Sinha's boy. Lalith is half as old as one of the Guptha's 
+boys. The total ages of the boys in each family differ by the same 
+amount today as they did five years ago. 
+Ans: -- 
+214. A long Division Problem:- 
+xx)xxxxxxxxx(xxxxxxx 
+xx 
+------ 
+xxx 
+xx 
+------ 
+xxx 
+xx 
+
+http://placementpapers.net - Original Placement Papers Website for Freshers 
+http://placementpapers.net - Placement Papers, Resume Samples, 
+http://placementpapers.net/jobs
+ - Daily Fresher Jobs, Interview Tips. 
+------- 
+xx 
+xx 
+------- 
+xxx 
+xxx 
+------- 
+------- 
+In the complete solution, there are four 5's. Find the missing digits. 
+Ans: -- 
+215. Following services are operated by Asian airlines between the 
+two are located in different countries with different time zones. As 
+it is normally done, the time shown is the local time - viz IST & TST. 
+Regular Flight Supersonic Flight Arrive Alexandria 17:10 TST 15:40 
+TST Depart Alexandria 20:50 TST 22:50 TST Arrived Rampur 
+23:40 IST Is the arrival time of supersonic flight into Rampur from 
+Alexandria same as the Arrival time of the Regular flight, assuming 
+each Service - Regular and Supersonic maintains its own constant 
+speed of flight. 
+Ans: -- 
+ (216) A, B, C, D, E related. Four of them made these statements 
+each:- 
+(i) C is my son-in-law's brother. 
+(ii) B is my father's brother. 
+(iii) E is my mother-in-law. 
+(iv) A is my brother's wife. Who made these statements? 
+Ans: -- 
+ (217) A ship is away from the shore by 180 miles. A plane is 
+travelling at 10 times speed of the ship. How long from the shore 
+will they meet? (218) A clock showing 6 o'clock takes 30 secs. to 
+strike 6 times. How long will it take to strike 12 at midnight? 
+Ans: 66 seconds. 
+(219) Only boys aged > 16 wear coats. Boys aged > 15 go to watch 
+football. Some more statements are given. What can be said about 
+those who are watching football? 
+(220) There are 3 societies A, B amp; C having some tractors each. 
+A Gives B and C as many tractors as they already have. After some 
+days B gives A and C as many tractors as they have. After some days 
+C gives A and B as many tractors as they have. Finally each has 24 
+tractors. What is the original No. of tractors each had in the 
+beginning? 
+
+http://placementpapers.net - Original Placement Papers Website for Freshers 
+http://placementpapers.net - Placement Papers, Resume Samples, 
+http://placementpapers.net/jobs
+ - Daily Fresher Jobs, Interview Tips. 
+Ans: A - 39. B - 21. C - 12. 
+221. BE * BE = ACB. A, B, C, E are non zero numbers. Find B, E. 
+Ans: B=1 E=9. 
+222. A, B, C, D, E are having numerical values. There are some 
+conditions given:- 
+(a) A=C <===> B!=E 
+(b) Difference between A and C as same as difference between C and B as 
+same as difference between A and D. 
+(c) C < A and C > D, Then Find A, B, C, D, E. 
+Ans: -- 
+223. There are six cards, in which, it has two king cards. All cards 
+are turned down and two cards are opened. 
+(a) What is the possibility to get at least one king? 
+(b) What is the possibility to get two kings? 
+224. A person went to a shop and asked for change for 1.15 paisa, 
+but he said that he could not only give change for one rupee but 
+also for 50p, 25p, 10p and 5p. What were the coins he had? 
+Ans: 1-->50p 4--->10p 1--->25p. 
+225. There are 3 nurses and they work altogether only once in a 
+week. No nurse is called to work for 3 consecutive days. Nurse 1 is 
+off on Tuesday, Thursday and Sunday. Nurse 2 is off on Saturday. 
+Nurse 3 is off on Thursday, Sunday. No two nurses are off more 
+than once a week. Find the day on which all the 3 nurses were on 
+work. 
+Ans: -- 
+226. There are 5 persons A, B, C, D, E and each is wearing a block 
+or white cap on his head. A person can see the caps of the 
+remaining 4 but can't see his own cap. A person wearing white says 
+true and who wears black says false. 
+(i) A says I see 3 whites and 1 black. 
+(ii) B says I see 4 blacks. 
+(iii) E says I see 4 whites. 
+(iv) C says I see 3 blacks and 1 white. Now Find the caps wear by A, B, C, D 
+and E. 
+Ans: -- 
+227. There are two women, Kavitha and Shamili and two males 
+Shyam and Aravind, who are musicians. Out of these four one is a 
+Pianist, one Flutist, Violinist and Drummer. 
+
+http://placementpapers.net - Original Placement Papers Website for Freshers 
+http://placementpapers.net - Placement Papers, Resume Samples, 
+http://placementpapers.net/jobs
+ - Daily Fresher Jobs, Interview Tips. 
+(i) Across Aravind beats Pianist. 
+(ii) Across Shyam is not a Flutist. 
+(iii) Kavitha's left is a Pianist. 
+(iv) Shamili's left is not a Drummer. 
+(v) Flutist and Drummer are married. 
+Ans: -- 
+228. 1/3 rd of the contents of a container evaporated on the 1st day. 
+3/4 the of the remaining contents of the container evaporated the 
+second day. What part of the contents of the container are left at 
+the end of the second day? 
+229. A man covered 28 steps in 30 seconds but he decided to move 
+fast and covered 34 steps in 18 seconds. How many steps are there 
+on the escalator when stationary? 
+Ans: -- 
+230. What is the maximum number of slices can you obtain by 
+cutting a cake with only 4 cuts? 
+Ans: 16. 
+231. Three are three boxes. In first box, two white balls. In second 
+box, 2 black balls. In third box, 1 white & 1 black ball. The labels on 
+the boxes are not correct. Then you have to open one box and to 
+find the colour of the balls in all boxes. 
+Ans: Open the box labeled black & white. If white balls are there then the box 
+labeled with white balls contain black balls and labeled with black balls 
+contain one black and one white ball and vice versa, if two black balls are 
+there. 
+232. There is a 4 inch cube painted on all sides. This is cut into 
+number of 1 inch cubes. What is the number of cubes which have 
+no painted sides? 
+Ans: -- 
+233. Sam and Mala have a conversation. Sam says I am certainly 
+not over 40. Mala says I am 38 and you are at least 5 years older 
+than me. Now Sam says you are at least 39. All the statements by 
+the two are false. How old are they really? 
+Ans: -- 
+234. Ram singh goes to his office in the city every day from his 
+suburban house. His driver Mangaram drops him at the railway 
+station in the morning and picks him up in the evening. Every 
+
+http://placementpapers.net - Original Placement Papers Website for Freshers 
+http://placementpapers.net - Placement Papers, Resume Samples, 
+http://placementpapers.net/jobs
+ - Daily Fresher Jobs, Interview Tips. 
+evening Ram Singh reaches the station at 5 o'clock. Mangaram also 
+reaches at the same time. One day Ram singh started early from his 
+office and came to the station at 4 o'clock. Not wanting to wait for 
+the car he starts walking home. Mangaram starts at normal time, 
+picks him up on the way and takes him back house, half an hour 
+early. How much time did Ram Singh walked? 
+Ans: -- 
+235. Some people went for vacation. Unfortunately it rained for 13 
+days when they were there. But whenever it rained in the morning, 
+they had clean afternoon and vice versa. In all they enjoyed 11 
+morning and 12 afternoons. How many days did they stay there 
+totally? 
+Ans: -- 
+236. Geoffrey, Hellmann and Molly attend and interview and give 
+three different statements each. To make it a little complex. Out of 
+the three statements made by each one, one is false. Geoffrey says: 
+I am 22 - false Hellmann is elder than me by one year. Molly is 25 
+Hallmann says: I am not the youngest - Geoffrey is 2 years younger 
+than me Molly is younger than me by one year - false Molly says: 
+Geoffrey is 23 I am a year younger than Geoffrey (I don't remember 
+this statement but it is false.) 
+Answer: Geoffrey is 22 as Goof states, And Goof== 23 as Molly states. Both 
+cannot be true. Either one has to be true or either one has to be false. Start 
+deriving from this point and u get, Geoffrey Hellmann Molly Age: 23 25 22 
+237. There is a cube, which has to be inscribed with the following 
+pair of numbers on opposite sides.1 and 6, 2 and 4,3 and 5. How 
+many different ways can it be done? 
+Ans: -- 
+238. There's an electric wire running 1 km from the side of a 
+building. The number of poles in between them is placed in an 
+interval of distance between each other. If one pole is removed 
+then the distance between each pole becomes 1 2/3 meters. Find 
+out how many poles were kept. 
+Ans: -- 
+239. The time taken to travel in train from Town A to Town B is 5 
+hours. There are trains starting from both towns at an interval of 1 
+hour. How many trains meet in 1 trip? 
+Ans : 10 trains check it as trains come from both sides every hour. 
+
+http://placementpapers.net - Original Placement Papers Website for Freshers 
+http://placementpapers.net - Placement Papers, Resume Samples, 
+http://placementpapers.net/jobs
+ - Daily Fresher Jobs, Interview Tips. 
+240. Shadow went to an Isle where the natives lie and the visitors 
+speak truth. Shadow saw a salesman and wanted to know whether 
+he was a native or a visitor. He did not pose a question directly but 
+asked him indirect instead. Shadow saw a woman and asked the 
+salesman,"Is that a NATIVE or VISITOR?" .For which the salesman 
+replied," She is a visitor". Is the salesman a Native or a Visitor? 
+Ans : Since Shadow himself saw him/her as a woman and asked the 
+salesman.The Salesman replied ,"SHE " by which he speaks truth and is a 
+Visitor. Salesman is a Visitor. 
+241. Three friends divided some bullets equally. After all of them 
+shot 4 bullets the total number of bullets remaining is equal to the 
+bullets each had after division. Find the original number divided. 
+Ans: 18 (2 marks) Initially . x x x Now x-4 x-4 x-4 Equation is 3x-12 = x 
+242. There are 3 societies A, B, C. A lent cars to B and C as many as 
+they had already. After some time B gave as many tractors to A and 
+C as many as they have. After sometime c did the same thing. At the 
+end of this transaction each one of them had 24. Find the cars each 
+originally had. 
+Ans: A had 39 cars, B had 21 cars & C had 12 cars 
+243. The Bulls, Pacers, Lakers and Jazz ran for a contest. Anup, 
+Sujit, John made the following statements regarding results. Anup 
+said either Bulls or Jazz will definitely win Sujit said he is confident 
+that Bulls will not win John said he is confident that neither Jazz 
+nor Lakers will win When the result cameit was found that only 
+one of the above three had made a correct statement. Who has 
+made the correct statement and who has won the contest. 
+Ans: Sujith; Lakers 
+244. Five people A ,B ,C ,D ,E are related to each other. Four of 
+them make one true statement each as follows.  
+(i) B is my father's brother. 
+(ii) E is my mother-in-law. 
+(iii) C is my son-in-law's brother 
+(iv) A is my brother's wife. 
+Ans: (i) D (ii) B (iii) E (iv) C 
+245. Some statements are given below: L says all of my other four 
+friends have money M says that P said that exactly one among them 
+has money N says that L said that precisely two among them have 
+money O says that M said that three of the others have money P, L 
+and N said that they have money All the above statement are false.. 
+Who has money & who doesn't have any money? 
+
+http://placementpapers.net - Original Placement Papers Website for Freshers 
+http://placementpapers.net - Placement Papers, Resume Samples, 
+http://placementpapers.net/jobs
+ - Daily Fresher Jobs, Interview Tips. 
+Ans: -- 
+246. Fifty minutes ago if it was four times as many minutes past 
+three o’clock, how many minutes is it to six o'clock? 
+Ans: Twenty six minutes. 
+247. A hotel has 10 storeys.Which floor is above the floor below the 
+floor, below the floor above the floor, below the floor above the 
+fifth. 
+Ans: The sixth floor. 
+248. Seven members sat around a table for three days for a 
+conference. The member's names were Abhishek, Amol, Ankur, 
+Anurag,Bhuwan ,Vasu and Vikram. The meetings were chaired by 
+Vikram. On the first evening members sat around the table 
+alphabetically. On the following two nights, Vikram arranged the 
+seating so that he could have Abhishek as near to him as possible 
+and absent minded Vasu as far away as he could. On no evening did 
+any person have sitting next to him a person who had previously 
+been his neighbor. How did Vikram manage to seat everybody to 
+the best advantage on the second and third evenings? 
+Ans: Second evening:Vikram,Ankur,Abhishek,Amol,Vasu,Anurag and 
+Bhuwan. Third evening :Vikram,Anurag,Abhishek,Vasu,Bhuwan,Ankur,Amol. 
+249. Two trains start from stations A and B spaced 50 kms apart at 
+the same time and speed. As the trains start, a bird flies from one 
+train towards the other and on reaching the second train, it flies 
+back to the first train. This is repeated till the trains collide. If the 
+speed of the trains is 25 km/h and that of the bird is 100km/h. How 
+much did the bird travel till the collision. 
+Ans: 100 kms. 
+250. Four prisoners escape from a prison. The prisoners, Mr. East, 
+Mr. West, Mr. South, Mr. North head towards different directions 
+after escaping. The following information of their escape was 
+supplied: The escape routes were The North Road, South Road, 
+East Road and West Road. None of the prisoners took the road 
+which was their namesake. Mr. East did not take the South Road 
+Mr. West did not the South Road. The West Road was not taken by 
+Mr. East What road did each of the prisoners take to make their 
+escape? 
+Ans: Mr. East took the North Road Mr. West took the East Road Mr. North 
+took the South Road Mr. South took the West Road 
+251. Complete the series: 5, 20, 24, 6, 2, 8, ? 
+
+http://placementpapers.net - Original Placement Papers Website for Freshers 
+http://placementpapers.net - Placement Papers, Resume Samples, 
+http://placementpapers.net/jobs
+ - Daily Fresher Jobs, Interview Tips. 
+Ans: 12 (as 5*4=20, 20+4=24, 24/4=6, 6-4=2, 2*4=8, 8+4=12). 
+(252) A soldier looses his way in a thick jungle. At random he walks 
+from his camp but mathematically in an interesting fashion. First 
+he walks one mile East then half mile to North. Then 1/4 mile to 
+West, then 1/8 mile to South and so on making a loop. Finally how 
+far he is from his camp and in which direction. 
+Ans: Distance traveled in north and south directions 1/2 - 1/8 + 1/32 - 1/128 
++ 1/512 - and so on = 1/2/((1-(-1/4)) Similarly in east and west directions 1- 
+1/4 + 1/16 - 1/64 + 1/256 - and so on = 1/(( 1- ( - 1/4)) Add both the answers 
+(253) How can 1000000000 be written as a product of two factors 
+neither of them containing zeros 
+Ans: 2 power 9 x 5 power 9 
+(254) Conversation between two mathematicians: First : I have 
+three children. The product of their ages is 36. If you sum their 
+ages, it is exactly same as my neighbor’s door number on my left. 
+The second mathematician verifies the door number and says that 
+it is not sufficient. Then the first says " Ok one more clue is that my 
+youngest is really the youngest". Immediately the second 
+mathematician answers . Can you answer the question asked by the 
+first mathematician? What are the children ages?  
+Ans 1,6 and 6 
+(255) Light glows for every 13 seconds . How many times did it glow 
+between 1:57:58 and 3:20:47 am. 
+Ans : 383 + 1 = 384 
+(256) 500 men are arranged in an array of 10 rows and 50 columns 
+according to their heights. Tallest among each row of all are asked 
+to fall out. And the shortest among them is A. Similarly after 
+resuming that to their original positions that the shortest among 
+each column are asked to fall out. And the tallest among them is B . 
+Now who is taller among A and B ? 
+Ans : A 
+(257) A person with some money spends1/3 for cloths, 1/5 of the 
+remaining for food and 1/4 of the remaining for travel. He is left 
+with Rs 100/- . How much did he have with him in the beginning ? 
+Ans: Rs 250/- 
+(258) There are six boxes containing 5 , 7 , 14 , 16 , 18 , 29 balls of 
+either red or blue in colour. Some boxes contain only red balls and 
+
+http://placementpapers.net - Original Placement Papers Website for Freshers 
+http://placementpapers.net - Placement Papers, Resume Samples, 
+http://placementpapers.net/jobs
+ - Daily Fresher Jobs, Interview Tips. 
+others contain only blue. One sales man sold one box out of them 
+and then he says " I have the same number of red balls left out as 
+that of blue ". Which box is the one he solds out ? 
+Ans: Total no of balls = 89 and (89-29 /2) = 60/2 = 30 and also 14 + 16 = 5 + 
+7 + 18 = 30 
+(260) Grass in lawn grows equally thick and in a uniform rate. It 
+takes 24 days for 70 cows and 60 days for 30 cows to eat the whole 
+of the grass. How many cows are needed to eat the grass in 96 
+days.? 
+Ans : 20 g - grass at the beginning r - rate at which grass grows, per day y - 
+rate at which one cow eats grass, per day n - no of cows to eat the grass in 96 
+days g+ 24*r = 70 * 24 * y 
+g + 60*r = 30 * 60 * y 
+g + 96*r = n * 96 * y 
+Solving, n = 20. 
+(261) There r some bees in a garden..1/5th of them went to a 
+particular flower,1/3rd went to another flower,3 times the 
+difference of the above two went to third flower..n one was 
+remaining n it was roaming around..how many bees were there? (3 
+marks) 
+Ans:15 
+(262) There was a community in which there were 1000 couples. In 
+that2/3rd of men who r taller r also heavier n 3/4th of the men who 
+r heavier r also taller n there were 120 women who were both 
+heavier n taller than men. So how many men r both taller n heavier 
+than men? 
+(263) A man drives with constant speed..n he after some time he 
+sees a milestone with 2-digits..then he travels for an hr n sees the 
+same 2 digits in reverse order..n then after an hr he sees that the 
+milestone has the same 2 digits with a 0 between them..so what’s 
+the man speed? 
+Ans:45km/hr 
+(264)There were 2 systems A n B.14 degrees in A is equivalent to 36 
+in system B.and 133 in A is equivalent to 87 in B.now what is the 
+temperature where they both r equal? 
+Ans:51.25 (conversion A=(7/3)B-70) 
+(265) X Y Z X Y Z 
+A B + A B - 
+------------ ------------- 
+C D E F B G A find X,Y,Z,G 
+
+http://placementpapers.net - Original Placement Papers Website for Freshers 
+http://placementpapers.net - Placement Papers, Resume Samples, 
+http://placementpapers.net/jobs
+ - Daily Fresher Jobs, Interview Tips. 
+(266)A women buys some shoestrips n then 4 times of that she 
+buys packet pins n then 8 times of shoestrips she buys 
+handkerchiefs..n she has a bill of Rs3.24..n she pays for each article 
+as many paise as there r articles(of that particular item).Now 
+what’s the number of handkerchiefs? 
+Ans:16 
+(267)Ms. Anitha got her salary n she spent half of it in shopping n 
+gave 1RS to a beggar. After that 1/2 of the remaining money she 
+spends in a hotel n she gives Rs.2/- as a tip to waiter. n then 1/2 of 
+the remaining she spends again n she gives 3 RS as charity.. n after 
+that finally she is left with Rs 1/- when she comes out. Whats the 
+actual money she had? 
+Ans. Rs 42/- (3 marks) 
+268. A person is cycling in a circular track. At some point he 
+notices that 1/5 of people in front of him and 5/6 of people together 
+constitute the total no. of cyclists. Find the total no. of cyclists. 
+Ans:31 
+269.Trains leave from New York to Washington every hour on the 
+hour(1:00,2:00....).Trains leave from Washington to New York 
+every hour on the hour and half hour(1:00,1:30,2:0,2:30....).It 
+takes a train 5 hrs to complete its journey from Washington to New 
+York as well as from new York to Washington. A train leaves from 
+new York to Washington. Find out how many trains it will meet 
+before it reaches Washington. 
+Ans:19 or 21(not sure). 
+(270) A pen, pencil and eraser together cost $1.00. if 2E<N , if 
+N>2P, and P>4E then what a single pen will cost? 
+271. In a class there are less than 500 students . when it is divided 
+by 3 it gives a whole number. similarly when it is divided by 4,5 or 7 
+gives a whole number. find the no. of students in the class. 
+Ans: 420 
+272. Uncle Reuben and aunt Cynthia came to town to shop Reuben 
+bought a suit and hat for $15 Cynthia paid as much as for her hat as 
+Reuben did for his suit then she spent the rest of their money for a 
+new dress on the way home Cynthia called Reuben's attention to 
+the fact that his hat cost $1 more than her dress then she added if 
+we had divided our hat money differently so that we bought 
+different hats mine costing 1 and 1/2 time cost if yours then we each 
+
+http://placementpapers.net - Original Placement Papers Website for Freshers 
+http://placementpapers.net - Placement Papers, Resume Samples, 
+http://placementpapers.net/jobs
+ - Daily Fresher Jobs, Interview Tips. 
+would have spent the same amount of money in that case said uncle 
+Reuben "how much would my hat have cost" 
+Ans : Uncles hat costs $6.4 (total money was $29) 
+273. Four family names are given and their friends name are given 
+but not in order.( u have to find which friend belongs to which 
+family) Each friend prepares salad using 3 different fruits . they are 
+given apple, cherry, grape, banana., no two ferns uses the same 
+combination. Various conditions are given and 4 quest asked. 
+Which fruit did Mandy didn't use? Who is flares friend? Name the 
+fruits common between Erica and Stacy? 
+274. Here is a simple mathematical puzzle set by Longfellow in his 
+own flowery, poetical language. If 1/5th of a hive of bees flew to the 
+badamba flower, 1/3rd flew to the slandbara, 3 times the difference 
+of these two numbers flew to an arbour, ad one bee continued to fly 
+about, attracted on each side by the fragrant ketaki and malati, 
+what was the total number of bees? 
+Ans: 15 
+275. (don't remember the exact question)a man while sorting files 
+picks up file number one, misses one, picks up file no. 2,mises two 
+files, and so on...after that he found that he picked up 5% of the 
+files. How many files were there? 
+Ans:39 
+276. A man walks at 4 km/hr on plain, then at 3 km/hr uphill and 
+then returns through the same road at 6 km/hr downhill and at 4 
+km/hr on the plain. It takes altogether 6 hours. So what distance he 
+covered in one way? 
+Ans: 12 km Solution: Let plain road = x km And hill road = y km ? x/4 + y/3 + 
+y/6 + x/4 = 6 ? x/2 + y/2 = 6 ? x + y =12 
+277. There are some men and some lodges for which the following 
+conditions hold true – 
+(i) Each lodge is represented by exactly 3 men . 
+(ii) Each man is associated with exactly 2 lodges. 
+(iii) Any pair of lodge has only one man in common. 
+How many men and how many lodges were there? 
+Ans: 6 men and 4 lodges. Solution: 
+(i) L1 is represented by M1, M2, M3. L2 is represented by M3, M4, M5. L3 is 
+represented by M1, M4, M6. L4 is represented by M2, M5, M6. 
+(ii) M1 is associated with L1,L3. M2 is associated with L1,L4. M3 is associated 
+with L1,L2. M4 is associated with L2,L3. M5 is associated with L2,L4. M6 is 
+
+http://placementpapers.net - Original Placement Papers Website for Freshers 
+http://placementpapers.net - Placement Papers, Resume Samples, 
+http://placementpapers.net/jobs
+ - Daily Fresher Jobs, Interview Tips. 
+associated with L3,L4. 
+(iii) Common between L1 and L2 is only M3. Common between L1 and L3 is 
+only M1. Common between L1 and L4 is only M2. Common between L2 and 
+L3 is only M4. Common between L2 and L4 is only M5. Common between L3 
+and L4 is only M6. i.e. all the given conditions are satisfied. 
+278. A person sells 2 items for Rs. 12 each. For one he profits 25% 
+and for the other he losses 20%. Altogether did he loss or gain? And 
+by how much? 
+Ans: He losses by 60 paise. Solution: Cost price of the item for which he 
+losses = Rs. 12*100/80 = Rs. 15. Cost price of the item for which he Gains = 
+Rs. 12*100/125 = Rs 9.6. ? Total cost price is Rs. 24.6 and total sell price is Rs. 
+24. So altogether he losses by Rs. 0.6. 
+279. My father’s age was x in the year x². I am obviously talking 
+about 20th century. In which year was my father born? 
+Ans: In the year 1892. Solution: x = 44 as 44² = 1936 and the square of any 
+other integer will not fall in between 1900 and 2000. i.e. my father was 44 in 
+the year 1936. ? my father was born in the year 1892. 
+280.A man was going by cycle. After going 2/3rd of total distance 
+the cycle broke down and he had to complete the journey on foot. 
+At the end he found that he walked twice as long as he was on cycle. 
+How many times the speed of the cycle is as the speed of walking? 
+Ans: 4 times. Solution: Let the distance be z km, speed of cycle be x km/hr 
+and walking speed be y km/hr. Then he covered 2z/3 km by cycle in 2z/3x hr 
+and covered z/3 km on foot in z/3y hr. ? according to the question 2*2z/3x = 
+z/3y ? x/y = 4. 
+281. In a badminton tournament a team is eliminated from the 
+tournament if it losses 2 games. If there are 51 teams then what is 
+the maximum number of games required to select the champion? 
+Ans: 101 Solution: To eliminate the 50 teams 50*2 = 100 games are required. 
+And the champion team may lose in at most 1 game. ? Max. no. of games 
+required = 101. 
+282. There are 3 tribes in a Island. Sororean who always speak 
+truth, Nororean who always speak false and Midorean who speak 
+truth and false alternately in either order. From the statements 
+given by A,B and C (who belong to 3 different tribes), three persons 
+from the island, identify who belongs to which tribe. 
+A : C is Sororean. 
+B is Midorean. 
+B : A is Nororean. 
+C is Midorean. 
+
+http://placementpapers.net - Original Placement Papers Website for Freshers 
+http://placementpapers.net - Placement Papers, Resume Samples, 
+http://placementpapers.net/jobs
+ - Daily Fresher Jobs, Interview Tips. 
+C : A is Midorean. 
+I am Sororean. 
+Ans: 
+A B C 
+Midorean Nororean Sororean 
+Solution: Think logically. 
+283. There are 5 persons A,B,C,D,E . All of them have different 
+occupations and none of them are of same age. There professions 
+are Consultant, Planner, Engineer, Nutritionist and Technician 
+definitely not in the same order. From the following conditions 
+determine whose profession is what? 
+(i) The consultant is the oldest among them. 
+(ii) The Technician is not younger than the Planner and the Planner is not 
+younger than the Nutritionist. 
+(iii) D is not as old as A and also not as young as B, who is not as old as the 
+Engineer and also not as young as C. 
+(iv) C is not the youngest among them. 
+Ans: Names are given in descending order of their ages. Consultant Engineer 
+Technician Planner Nutritionist A D B C E Solution: Think logically. 
+284. 4 persons, Watts, Roger, O'Neil and Smith, were eating in a 
+restaurant while Smith was killed by poisoning. During 
+investigation the other 3 persons gave the following statements. 
+They gave one false statement each.  
+Watts :  
+(i) I didn’t do it. 
+(ii) O'Neil sat beside me. 
+(iii) We had our usual waiter. 
+Roger :  
+(i) Smith was across the table from me. 
+(ii) We had a new waiter. 
+(iii) The waiter didn’t do it.  
+O'Neil :  
+(i) Roger didn’t do it. 
+(ii) The waiter has poisoned Smith. 
+(iii) Watts lied when he said that we had our usual waiter. One among these 
+three persons and the waiter murdered Smith. Who is the murderer? 
+Ans : O'Neil is the murderer. 
+Solution: Think logically. I have given the false statements in red and italics. 
+285. There is a 4 inch cube painted on all sides. This is cut down 
+into of 1 inch cubes. What is the no of cubes which have no pointed 
+sides. 
+
+http://placementpapers.net - Original Placement Papers Website for Freshers 
+http://placementpapers.net - Placement Papers, Resume Samples, 
+http://placementpapers.net/jobs
+ - Daily Fresher Jobs, Interview Tips. 
+Ans: 8 [(n-2)*(n-2)*(n-2)] where n is side length of the cube 
+286. Find the values of each of the alphabets. 
+N O O N 
+S O O N 
++ M O O N 
+J U N E 
+Ans: 9326 
+287. If a clock takes 7seconds to strike 7, how long will the same 
+clock take to strike 10? 
+Ans: The clock strikes for the first time at the start and takes 7 seconds for 6 
+intervals-thus for one interval time taken=7/6. Therefore, for 10 seconds there 
+are 9 intervals and time taken is 9*7/6=10 and 1/2 seconds. 
+288. Fifty minutes ago if it was four times as many minutes past 
+three o'clock, how many minutes is it to six o'clock? 
+Ans: Twenty six minutes. 
+289. Everyday in his business a merchant had to weigh amounts 
+from 1 kg to 121kgs, to the nearest kg. What are the minimum 
+number of weight required and how heavy should they be? 
+Ans: .The minimum number is 5 and they should weigh 1,3,9,27 and 81kgs. 
+290. Ram, Shyam and Gumnaam are friends. Ram is a widower 
+and lives alone and his sister takes care of him. Shyam is a bachelor 
+and his niece cooks his food and looks after his house. Gumnaam is 
+married to Gita and lives in large house in the same town. Gita 
+gives the idea that all of them could stay together in the house and 
+share monthly expenses equally. During their first month of living 
+together, each person contributed Rs.25. At the end of the month, it 
+was found that Rs 92 was the expense so the remaining amount 
+was distributed equally among everyone. The distribution was such 
+that everyone received a whole number of Rupees. How much did 
+each person receive? 
+Ans. Rs 2 (Hint: Ram's sister, Shyam's niece and Gumnaam's wife are the 
+same person) 
+291. Sam and Mala have a conversation. 
+• Sam says I am certainly not over 40 
+• Mala says I am 38 and you are at least 5 years older than me 
+• Now Sam says you are at least 39 All the statements by the two are 
+false. How old are they really? 
+Ans: Mala = 38 yrs, Sam = 41 yrs. 
+
+http://placementpapers.net - Original Placement Papers Website for Freshers 
+http://placementpapers.net - Placement Papers, Resume Samples, 
+http://placementpapers.net/jobs
+ - Daily Fresher Jobs, Interview Tips. 
+292. Grass in lawn grows equally thick and in a uniform rate. It 
+takes 24 days for 70 cows and 60 days for 30 cows to eat the whole 
+of the grass. How many cows are needed to eat the grass in 96 
+days.? 
+Ans : 20 [Hint: g - grass at the beginning r -rate at which grass grows, per day 
+y - rate at which one cow eats grass, per day n - no of cows to eat the grass in 
+96 days g + 24*r = 70 * 24* y g + 60*r= 30 * 60 * y g + 96*r = n * 96* y, 
+Solving, n = 20. ] 
+293. Three criminals were arrested for shop lifting. However, when 
+interrogated only one told the truth in both his statements, while 
+the other two each told one true statement and one lie. The 
+statements were: 
+• ALBERT :(a) Chandler passed the merchandise. (b) Bruce created the 
+diversion. 
+• BRUCE :(a) Albert passed the merchandise. (b) I created the diversion. 
+• CLIVE :(a) I took the goods out of the shop. (b) Bruce passed them over. 
+Ans: Albert passed the goods. Bruce created the diversion. Clive took the 
+goods out of the shop. 
+294. There N stations on a railroad. After adding X stations on the 
+rail route 46 additional tickets have to be printed. Find N and X. 
+Ans. x=2 and N=11 ( Let initially, N(N-1) = t; After adding, (N+X)(N+X-1) = 
+t+46;Trail and error method ) 
+295. Complete the Table given below: Three football teams are 
+there. Given below is the group table. Fill in the x's Played Won 
+Lost Draw Goals For Goals Against 
+A 2 2 x x x 1 
+B 2 x x 1 2 4 
+C 2 x x x 3 7 
+Ans: The filled table is given below Played Won Lost Draw Goals For Goals 
+Against 
+A 2 2 0 0 7 1 
+B 2 0 1 1 2 4 
+C 2 0 1 1 3 7 
+297. Four prisoners escape from a prison. The prisoners, Mr. East, 
+Mr. West, Mr. South, Mr. North head towards different directions 
+after escaping. The following information of their escape was 
+supplied: 
+• The escape routes were The North Road, South Road, East Road 
+and West Road. 
+• None of the prisoners took the road which was their name sake. 
+• Mr. East did not take the South Road 
+• Mr. West did not the South Road. 
+
+http://placementpapers.net - Original Placement Papers Website for Freshers 
+http://placementpapers.net - Placement Papers, Resume Samples, 
+http://placementpapers.net/jobs
+ - Daily Fresher Jobs, Interview Tips. 
+• The West Road was not taken by Mr. East What road did each of 
+the prisoners take to make their escape? 
+Ans: Mr. East took the North Road Mr. West took the East Road Mr. North 
+took the South Road Mr. South took the West Road. 
+298. A hotel has two wings, the east wing and the west wing. Some 
+east wing rooms but not all have an ocean view. All west wing 
+rooms have a harbor view. The charge for all rooms is identical, 
+except as follows: 
+• Extra charge for all harbor view rooms on or above the 3rd floor 
+• Extra charge for all ocean view rooms except those without 
+balcony 
+• Extra charge for some harbor rooms on the first two floor & some 
+east wing rooms without ocean view but having kitchen facilities. 
+Which of the following cannot be determined on the basis of the 
+information given: 
+I. Whether there are any rooms without a balcony for which an extra charge is 
+imposed. 
+II. Whether any room without a kitchen or a view involves an extra charge. 
+III. Whether two extra charges are imposed for any room. 
+(A) I only               (B) II only 
+(C) III only             (D) II and III only 
+(E) I, II and III 
+Ans: (A) 
+299. A ship went on a voyage. After it had traveled 180 miles a 
+plane started with 10 times the speed of the ship. Find the distance 
+when they meet from starting point. 
+Ans: 200miles. ( Distance traveled by plane = 1/10 distance traveled by ship + 
+180 ) 
+301. Father's age is three years more than three times the son's age. 
+After three years, father's age will be ten years more than twice the 
+son's age. What is the father's present age? 
+Ans: 33 years. 
+302. Light glows for every 13 seconds . How many times did it glow 
+between 1:57:58 and 3:20:47 am. 
+Ans : 383 + 1 = 384 
+303. There are 20 poles with a constant distance between each 
+pole. A car takes 24 second to reach the 12th pole. How much will it 
+take to reach the last pole. 
+
+http://placementpapers.net - Original Placement Papers Website for Freshers 
+http://placementpapers.net - Placement Papers, Resume Samples, 
+http://placementpapers.net/jobs
+ - Daily Fresher Jobs, Interview Tips. 
+Ans: 41.45 seconds (Let the distance between two poles = x, Hence 
+11x:24::19x:? ) 
+304. A man collects cigarette stubs and makes one full cigarette 
+with every 8 stubs. If he gets 64 stubs how many full cigarettes can 
+he smoke.  
+Ans: 8+1=9 
+305. The minute and the hour hand of a watch meet every 65 
+minutes. How much does the watch lose or gain time and by how 
+much? 
+Ans: Gains; 5/11 minutes 
+306. A survey was taken among 100 people to find their preference 
+of watching T. V. programs. There are 3 channels. Given the no of 
+people who watch 
+• at least channel 1 
+• at least channel 2 
+• at least channel 3 
+• no channels at all 
+• at least channels 1and 3 
+• at least channels 1 and 2 
+• at least channels 2 and 3 Find the no of people who watched all 
+three. 
+Ans: -- 
+307. Some statements are given below: 
+• L says all of my other four friends have money 
+• M says that P said that exactly one among them has money 
+• N says that L said that precisely two among them have money 
+• O says that M said that three of the others have money 
+• P, L and N said that they have money All the above statement are 
+false. Who has money & who doesn't have any money? 
+Ans: -- 
+308. 500 men are arranged in an array of 10 rows and 50 columns 
+according to their heights. Tallest among each row of all are asked 
+to fall out. And the shortest among them is A. Similarly after 
+resuming that to their original positions that the shortest among 
+each column are asked to fall out. And the tallest among them is B. 
+Now who is taller among A and B ? 
+Ans. A 
+309. Mr. Mathur's jewels have been stolen from his bank locker. 
+The bank has lockers of 12 people which are arranged in an array of 
+
+http://placementpapers.net - Original Placement Papers Website for Freshers 
+http://placementpapers.net - Placement Papers, Resume Samples, 
+http://placementpapers.net/jobs
+ - Daily Fresher Jobs, Interview Tips. 
+3 rows and 4 columns like: 1 2 3 4 5 6 7 8 9 10 11 12 
+• The locker belonging to JONES was to the right of BLACK'S locker 
+and directly above MILLAR'S. 
+• BOOTH'S locker was directly above MILLAR'S. 
+• SMITH'S locker was also above Gray's (though not directly). 
+• GREEN'S locker was directly below SMITH'S. 
+• WILSON'S locker was between that of DAVIS and BOOTH. 
+• MILLAR'S locker was on the bottom row directly to the right of 
+HERD'S. 
+• WHITE'S locker was on the bottom right hand corner in the same 
+column as BOOTH'S. Which box belonged to Mr. Mathur’s? 
+Ans: Box number 9 belongs to Mr. Mathur. 
+310. Problem based on sets. 100 papal. 85 are married, 70 have 
+phone, 75 have house, 60 have car. find papal having house, car, 
+phone and r married?? easy set problem. I am not sure about 
+figures but find total papal who do not have these things and 
+subtract from 100 to get pal having all these. 
+Ans. 10 
+311. village and town. in between a hill. a person travels on cycle 8 
+km uphill and 24 downhill to reach town continuously in 2hrs 50 
+min. then he comes to village in 4 hrs and 30 min. find his speed 
+uphill and downhill. 
+Ans:  uphill 6 downhill 16 
+312. find wizard's age. his age is 3 times son's age, his father's age is 
+40 more than twice his age. total of their ages is 1240. 
+ans. 360 
+313. there r some steps. I come down 7 steps then see a man at 
+bottom. then he comes up and I go down at same speed (my speed). 
+when 4 steps r remaining for me I find that man has reached the 
+top. for my single step downwards he took 2 steps up. find total 
+steps. 
+ans. 22 steps. 
+(314) One person went to market to purchase three varieties of 
+chocolates. He had purchased 20 items with 20 cents. Fudges are 
+available at 4 cents each, Chaco bars are available at 4 for a penny 
+and gum pints are available at 2 a penny. How many of each item 
+he had purchased. 
+Ans: -- 
+
+http://placementpapers.net - Original Placement Papers Website for Freshers 
+http://placementpapers.net - Placement Papers, Resume Samples, 
+http://placementpapers.net/jobs
+ - Daily Fresher Jobs, Interview Tips. 
+ (315) There is a five digit number, where the third number is one 
+higher than the sum of first and second digits. Fourth digit is twice 
+of fifth and third digit is twice the fourth. Second digit is five more 
+than the first digit. What is the number 
+Ans: -- 
+ (316) A cube, which is painted red on all its sides, is cut into 27 
+cubes with three straight cuts. Now how many cubes have 
+(i) No red face 
+(ii) One red face 
+(iii) Two red faces 
+(iv) Three red faces 
+Ans: -- 
+ (317) It is a typical Tap problem. There are two taps, which are 
+used to fill the tank and one tap to empty the tank. First tap fill the 
+tank in 10 min., while the second takes quarter of an hour to fill the 
+tank if both are operated independently. Third tap is capable of 
+emptying the tank in seven and a half minutes. If all the taps are 
+opened simultaneously (when the tank is empty) how long (if ever) 
+will it take for the tank to get filled completely? 
+Ans: -- 
+ (318) Ten years before, one is seven years more than the "half the 
+age" of other. Now the bride’s age is 30 years. And also one is nine-
+tenths the age of other. What is groom’s present age. 
+Ans: -- 
+ (319) Two guys are tossing coin with a bet of $1 for each game. 
+After some tosses., one guy earned $3 while the other won three 
+times. How many games do they play. 
+Ans: -- 
+ (320) There is one 8 marks analytical question. Which is the 
+easiest puzzle I had ever seen. There are in total eight members in 
+the group. Five members are to be selected from that group. They 
+had given three conditions. We have to answer four multiple-
+choice questions which are framed based on the above three 
+conditions. In almost all the questions, answer can be found out by 
+eliminating the answers from the choices. Going thru the GRE 
+Barrons analytical section will help. Get the gist of it., rather than 
+trying to solve more and more. 
+Ans: -- 
+
+http://placementpapers.net - Original Placement Papers Website for Freshers 
+http://placementpapers.net - Placement Papers, Resume Samples, 
+http://placementpapers.net/jobs
+ - Daily Fresher Jobs, Interview Tips. 
+ (321) There are four friends, who are speaking about the pizza, 
+which one of them ate before. Each one will say one statement and 
+we were given that one of them is lying. We have to find out who ate 
+the pizza. Easy one.., no need to worry about. this. 
+Ans: -- 
+ (322) All the above nine puzzles are very easy when compared to 
+this one. This is difficult not because of logic but because of its 
+grammar. The sentence structure is too complicate. This question 
+reminded me of puzzle 127 of sakunthala devi’s Puzzles to Puzzle U. 
+Ans: -- 
+323. there is a 1 km long wire places on x poles . if the no of poles is 
+reduced by 1 then he distance of wire between each poles increases 
+1 2/3.how many poles are there initially.\ 
+Ans: -- 
+324. Clark ,Jones, mason, smith are 4 pal. there are 4 professions 
+druggists, grocer, butcher, policeman. find out who is who? 
+(1) clark and Jones are neighbors and they drive each other to work. 
+(2) jones earns more than mason 
+(3) the police man earns more than the druggists and i "think" the grocer. 
+(4) the policeman does not have a druggists as a neighbor. 
+(5) the butcher walks to work 
+(6)policeman does not meet the grocer until he arrests him for committing an 
+offence. 
+Ans: -- 
+325. A and B write a test A says " I got a third of the quiz. wrong" B 
+says " I got 5 wrong" together they got three quarters of the 
+questions correct. how many did a get correct. (5 m) 
+Ans: -- 
+326. If a die has 1,6 and 3,4 and 2,5 opposite each other how many 
+such dies can be made. 
+Ans: -- 
+327. There are three boxes , In one box Two white balls , In two box 
+2 black balls In three box 1 white &1 black The labels on the boxes 
+are not correct. Then you have to open one box and to find the 
+colour of the balls in all boxes. 
+
+http://placementpapers.net - Original Placement Papers Website for Freshers 
+http://placementpapers.net - Placement Papers, Resume Samples, 
+http://placementpapers.net/jobs
+ - Daily Fresher Jobs, Interview Tips. 
+Ans:  Open the box lab led black& white If white balls are there then the box 
+lab led with white balls contain black balls and lab led with black balls contain 
+one black and one white ball and vice versa if two black balls are there. 
+(328). there are containing 5 , 7 , 14 , 16 , 18 , 29 balls of either red 
+or blue in colour. Some boxes contain only red balls and others 
+contain only blue . One sales man sold one box out of them and 
+then he says " I have the same number of red balls left out as that of 
+blue ". Which box is the one he sold out ? 
+Ans : total no of balls = 89 and (89-29 /2 = 60/2 = 30 and also 14 + 16 = 5 + 7 
++ 18 = 30 
+(329). A chain is broken into three pieces of equal lengths 
+containing 3 links each. It is taken to a blacksmith to join into a 
+single continuous one . How many links are to to be opened to 
+make it ?  
+Ans : 2. 
+(330) when the actual time pass 1hr wall clock is 10 min behind it 
+when 1 hr is shown by wall clock, table clock shows 10 min ahead of 
+it when table clock shows 1 hr the alarm clock goes 5min behind it, 
+when alarm clock goes 1 hr wrist watch is 5 min ahead of it 
+assuming that all clocks are correct with actual time at 12 noon 
+what will be time shown by wrist watch after 6 hr 
+Ans: ---5:47:32.5 (n X 60 )50/60 X 70/60 X 55/60 X 65/60 
+331. complete the following a. $ * * $ @ * ? ? # @ @ # # $ ? ? some 
+what similar like this...but not clear. b. 1 , 3 , 7 , 13 , 21 , __ , 43 
+Ans : 31 c. 1, 3, 9, __ , 16900 
+332. A girl took part in a (some) game with many others in a 
+circular closed circuit. After pedaling for several minutes, he found 
+that 1/3rd of the cyclists ahead of her and 3/4th of the cyclists 
+behind him together formed the total no. of participants. How 
+many were participating in the race? 
+Ans: -- 
+333. OF all pets i have, except 2 all are rabbits OF all pets i have, 
+except 2 all are fish OF all pets i have, except 2 all are cats How 
+many rabbits, fish and cats are there? 
+Ans: -- 
+334. given carpenter + painter = 1100 painter + electrician = 3200 
+electrician + plumber = 5100 plumber + mason = 2200 mason + 
+
+http://placementpapers.net - Original Placement Papers Website for Freshers 
+http://placementpapers.net - Placement Papers, Resume Samples, 
+http://placementpapers.net/jobs
+ - Daily Fresher Jobs, Interview Tips. 
+labour = 3000 labour + painter = 1100 find every person's cash? (i 
+don't know the exact amount mentioned above.) 
+Ans: -- 
+335. out of 30 questions, the three persons A,B & C answered 45 
+correct answers, B answered 55% of A, B and C together answered 
+25 % more of what A answered. Find how many answers each 
+answered? 
+Ans: -- 
+336. Jim, Bud and Sam were rounded up by the police yesterday. 
+because one of them was suspected of having robbed the local 
+bank. The three suspects made the following statements under 
+intensive questioning. Jim: I'm innocent Bud: I'm innocent Sam: 
+Bud is the guilty one. If only one of the statements turned out to be 
+true, who robbed the bank? 
+(337) There are two containers on a table. A and B . A is half full of 
+wine, while B, which is twice A's size, is one quarter full of wine . 
+Both containers are filled with water and the contents are poured 
+into a third container C. What portion of container C's mixture is 
+wine ? 
+Ans: -- 
+ (338) A wall clock loses 10 minutes every 1 hour. In 1 hour by the 
+wall clock , a table clock gets 10 minutes ahead of it. In 1 hour by 
+the table clock an alarm clock falls 5 minutes behind it. In 1 hour of 
+the alarm clock, a wristwatch gets 5 minutes ahead it. At noon, all 4 
+timepieces were set correctly. To the nearest minutes, what time 
+will the wrist show when the correct time is 6 p.m. on the same day 
+? 
+Ans: -- 
+ (339) "You see," said Mrs. Murphy, "Paddy is now one and one-
+third times as old as he was when he took to drink, and little 
+Jimmy, who was forty months old when paddy took to drink is now 
+two years more than half as old as I was when Paddy took to drink , 
+so when little Jimmy is as old as Paddy was when he took to drink. 
+our three ages combined will amount to just one hundred years" 
+How old is little Jimmy? 
+Ans: -- 
+ (340)Both the Allen's and the Smiths have two young sons under 
+eleven. The name of the boys whose ages rounded off to the nearest 
+year are all different are Arthur, Bert, Carl and David . Taking the 
+
+http://placementpapers.net - Original Placement Papers Website for Freshers 
+http://placementpapers.net - Placement Papers, Resume Samples, 
+http://placementpapers.net/jobs
+ - Daily Fresher Jobs, Interview Tips. 
+ages of the boys only to the nearest year , the following statements 
+are true 
+* Arthur is three years younger than his brother 
+* Bert is the oldest 
+* Carl is half as old as one of the Allen boys 
+* David is five years older than the younger smith boy 
+* the total ages of the boys in each family differ by the same amount today as 
+they did five years ago How old is each boy and what is each boys family 
+name. 
+Ans: -- 
+ (341) In a certain organization there are either men eligible to 
+serve on a eligible to serve on a newly established committee of 
+four. The selection of the members is not an easy matter , however 
+for there are jealousies and attachments among the candidates 
+which prevents a free choice of four committeemen, if you were the 
+president of the organization could you select a committee of four 
+satisfying all these whims? 
+* Ames will serve with anybody 
+* Brown won't serve unless Clayton serves 
+* Clayton wont serve with Evans 
+* Davis wont serve without Hughes 
+* Evans will serve with anybody 
+* French wont serve with Davis unless Grant serves too, and wont serve with 
+Clayton unless Davis also serves 
+* Grant wont serve with both Brown and Clayton and wont serve with either 
+Ames or Evens 
+* Hughes wont serve unless either Brown or French serves and wont serve 
+with Clayton unless Grant serves too and wont serve with both Ames and 
+Evans 
+Ans: -- 
+ (342) An artist has exactly seven paintings --- ,T,U,V,W,X,Y, and Z -
+- from which she must choose exactly five to be in an exhibit. Any 
+combination is acceptable provided it meets the following 
+conditions: 
+* If T is chosen , X cannot be chosen 
+* If U is chosen , Y must also be chosen 
+* If V is chosen , X must also be chosen 
+(1) Which one of the following is an acceptable combination of 
+paintings for inclusion in the exhibit? 
+A. T,U,V,X,Y 
+B. T,U,V,Y,Z 
+C. T,W,X,Y,Z 
+D. U,V,W,Y,Z 
+E. U,V,W,Z,Y 
+
+http://placementpapers.net - Original Placement Papers Website for Freshers 
+http://placementpapers.net - Placement Papers, Resume Samples, 
+http://placementpapers.net/jobs
+ - Daily Fresher Jobs, Interview Tips. 
+(2) If painting T is chosen to be among the paintings included into 
+he exhibit which one of the following cannot be chosen to be among 
+the paintings included in the exhibit? 
+A. U 
+B. V 
+C. W 
+D. Y 
+E. Z 
+(3)Which one of the following substitutions can the artist always 
+make without violating restrictions affecting the combination of 
+paintings given that the painting mentioned first was not, and the 
+painting mentioned first was not, and the painting mentioned 
+second was, originally going to be chosen ?A. T replaces V 
+B. U replaces Y 
+C. V replaces X 
+D. W replaces Y 
+E. Z replaces W 
+(4) If the artist chooses painting V to be included among the 
+paintings in the exhibit, which one of the following must be true of 
+that combination of paintings? 
+A. T is not chosen 
+B. Y is not chosen 
+C. U is chosen 
+D. W is chosen 
+E. Z is chosen 
+Ans: -- 
+ (343) Yesterday my mother asked me to buy some stamps. Stamps 
+are available in 2 paise,7paise,10paise,15paise and 20paise 
+denominations. For three types of stamps I was asked to buy five of 
+each. For the other two types of stamps. I was asked to buy six of 
+each. Unfortunately I forgot which I was supposed to buy five of 
+and which to buy six of Luckily my mother had given me the exact 
+money required to buy the stamps , Rs. 3.00 and the shopkeeper 
+was able to give me the correct stamps. Which stamps did I buy? 
+Ans: -- 
+ (344)Farmer Jones sold a pair of cows for Rs. 210 , On one he 
+made a profit of ten percent and on the other he lost ten percent. 
+Altogether he made a profit of five percent. How many did each 
+cow originally cost him? 
+Ans: -- 
+345.Meera was playing with her brother using 55 blocks. She gets 
+bored playing and starts arranging the blocks such that the no. of 
+
+http://placementpapers.net - Original Placement Papers Website for Freshers 
+http://placementpapers.net - Placement Papers, Resume Samples, 
+http://placementpapers.net/jobs
+ - Daily Fresher Jobs, Interview Tips. 
+blocks in each row is one less than that in the lower row. Find how 
+many were there in the bottom most row? 
+Ans: -- 
+346.Rahul took part in a cycling game with many others in a 
+circular closed circuit. After pedaling for several minutes, he found 
+that 1/5th of the cyclists ahead of him and 5/6th of the cyclists 
+behind him together formed the total no. of participants. How 
+many were participating in the race? 
+Ans: -- 
+347.Tom wants to catch a hare. He is standing 250 yards south 
+from the hare. The hare starts moving due east. Tom, instead of 
+moving in the northeast direction, moves in such a way that at 
+every instant, he is going towards the hare. If speed of tom is one 
+and one-third times that of the hare, find the distance each traveled 
+before he caught the hare. 
+Ans: -- 
+348.Two people are playing with a pair of dies. Instead of numbers, 
+the dies have different colors on their sides. The first person wins if 
+the same color appears on both the dies and the second person 
+wins if the colors are different. The odds of their winning are 
+equal. If the first dice has 5 red sides and 1 blue side, find the 
+color's on the second one. 
+Ans: -- 
+349.A company's director said during the board meeting: " The 
+company's income from roads will be sufficient to pay 6% of the 
+entire stock issue, but since we are paying 7.5% interest on the 
+preferred stock of Rs.4, 000,000 we are able to pay only 5% of the 
+common stock". Find the value of the common stock. 
+Ans: -- 
+350. Mr. ANY MAN left ANY TOWN by car to attend a wedding at 
+ANY CITY. He had been driving for exactly two hours when the car 
+got punctured. It took his driver exactly ten minutes to change the 
+wheel. In order to play safe they covered the remaining distance at 
+a speed of 30 mph. consequently, Mr. ANY MAN was at wedding 
+half an hour behind schedule. Had the car got the puncture only 30 
+miles later , I would have been only FIFTEEN minutes late he told 
+the driver . How Far is ANY CITY from ANYTOWN. 
+Ans: 120 miles 
+
+http://placementpapers.net - Original Placement Papers Website for Freshers 
+http://placementpapers.net - Placement Papers, Resume Samples, 
+http://placementpapers.net/jobs
+ - Daily Fresher Jobs, Interview Tips. 
+351. Alpha, Beta , gamma, delta and epsilon are friends and have 
+birthdays on consecutive days though may not be in order. Gamma 
+is as many days old to Alpha as Beta is younger to Epsilon. Delta is 
+two days older then Epsilon. Gamma’s Birthday is on Wednesday. 
+Tell whose birthday is when. 
+Ans: 
+Alpha: Friday 
+Beta : Saturday 
+Gamma: Wednesday 
+Delta: Tuesday 
+Epsilon: Thursday 
+352.The quarter of the time from midnight to present time added 
+to the half of the time from the present to midnight gives the 
+present time. What is the present time? 
+Ans: 9hrs past 36 minutes AM 
+353. A man is going to a wedding party. He travels for 2hrs when he 
+gets a puncture. Changing types takes 10mins. The rest of the 
+journey he travels at 30 miles/hr. He reaches 30mins behind 
+schedule. He thinks to himself that if the puncture had occurred 
+30miles later, he would have been only 15mins late. Find the total 
+distance traveled by the man 
+Ans: -- 
+354. After world war II three departments did as follows First 
+department gave some tanks to 2nd &3rd departments equal to the 
+number they are having. Then 2nd department gave some tanks to 
+1st & 3rd departments equal to the number they are having. Then 
+3rd department gave some tanks to 2nd &1st departments equal to 
+the number they are having. Then each department has 24 tanks. 
+Find the initial number of tanks of each department? 
+Ans ; A-39 B-21 C-12 
+355. A girl 'A' told to her friend about the size and color of a snake 
+she has seen in the beach. It is one of the colors brown/black/green 
+and one of the sizes 35/45/55.  
+If it were not green or if it were not of length 35 it is 55. 
+If it were not black or if it were not of length 45 it is 55. 
+If it were not black or if it were not of length 35 it is 55. 
+(a) What is the color of the snake? 
+(b) What is the length of the snake? 
+Ans: (a) brown (b) 55 
+
+http://placementpapers.net - Original Placement Papers Website for Freshers 
+http://placementpapers.net - Placement Papers, Resume Samples, 
+http://placementpapers.net/jobs
+ - Daily Fresher Jobs, Interview Tips. 
+356.A man was on his way to a marriage in a car with a constant 
+speed. After 2 hours one of the tier is punctured and it took 10 
+minutes to replace it. After that they traveled with a speed of 30 
+miles/hr and reached the marriage 30 minutes late to the 
+scheduled time. The driver told that they would be late by 15 
+minutes only if the 10 minutes was not waste. Find the distance 
+between the two towns? 
+Ans: -- 
+357. Three clocks where set to true time. First run with the exact 
+time. Second slows one minute/day. Third gains one minute/day. 
+After how many days they will show true time. 
+Ans: -- 
+358. There were some containers of quantity 1, 3, 4, 5, 6, 12, 15, 22, 
+24, 38 liters. Each was filled with some liquid except one. The 
+liquids are milk, water and oil. Quantity of each was like this. 
+Water = 2* milk oil = 2* water. Find out which container was empty 
+and containers filled with milk and oil. 
+Ans: -- 
+359. Two travelers, one with 64 barrels of wine, other with 20 
+barrels of wine. They don't have enough money to pay duty for the 
+same. First traveler pays 40 francs and gives his 5 barrels, Second 
+traveler gives his 2 barrels but gets 40 francs in exchange. What's 
+value of each barrel, and duty for each barrel? 
+Ans: Value of each barrel-120 francs, Duty on each-10 francs 
+360. What is Ann's relation with her husband's mother's only 
+daughter-in-law's sister's husband? 
+Ans: Brother-in-law 
+361. Some guy holding a glass of wine in his hand looking around in 
+the room says, "This is same as it was four years ago, how old are 
+your two kids now?" Other guy says "Three now, Pam had one 
+more in the meanwhile." Pam says, "If you multiply their ages, 
+answer is 96 and if you add the ages of first two kids, addition is 
+same as our house number." The first guy says, "You are very 
+smart but that doesn't tell me their ages." Pam says, "It's very 
+simple, just think." What are the ages of three kids? 
+Ans: 8, 6, 2 
+362. A motor cyclist participant of a race says "We drove with the 
+speed of 10 miles an hour one way, but while returning because of 
+
+http://placementpapers.net - Original Placement Papers Website for Freshers 
+http://placementpapers.net - Placement Papers, Resume Samples, 
+http://placementpapers.net/jobs
+ - Daily Fresher Jobs, Interview Tips. 
+less traffic we drove on the same route with 15 miles per hour." 
+What was their average speed in the whole journey? 
+Ans: 12 miles per hour 
+363. Given following sequence, find the next term in the series: 
+(i) 0, 2, 4, 6, 8, 12, 12, 20, 16, ____  
+Ans: 12 
+(ii) 3, 6, 13, 26, 33, 66, ___  
+Ans: 53 
+364. Three customers want haircut and a shave. In a saloon, two 
+barbers operate at same speed. They take quarter of an hour for 
+the haircut and 5 mines for the shave. How quickly can they finish 
+the haircut and shave of these three customers? 
+Ans: 30 minutes 
+365. A shopkeeper likes to arrange and rearrange his collection of 
+stamps. He arranges them sometimes in pair, sometimes in bundle 
+of three, sometimes in bundle of fours, occasionally in bundle of 
+fives and sixes. Every time he's left with one stamp in hand after 
+arrangement in bundles. But if he arranges in the bundle of seven, 
+he's not left with any stamp. How many stamps does a shopkeeper 
+have? 
+Ans: 301 
+366. Three different types of objects in a bucket. How many times 
+does one need to select object from the bucket to get at least 3 
+objects of the same type? 
+Ans: 7 
+(367). A stamp collector has the habit to arrange or rearrange the 
+stamps accordingly. while doing this he some times keeps the 
+stamps in pairs, or in group of 3 or in 4 or in or in 6 and realizes 
+that in any case he is left with 1 stamp and when he arranges them 
+in groups of 7 no stamps remain. what is the number of stamps he 
+has? 
+Ans: -- 
+ (368). Amy while walk-in down the street with her daughter, meets 
+her husband's mother's only daughter in law's sister's husband. 
+how is the related to her? 
+Ans: -- 
+
+http://placementpapers.net - Original Placement Papers Website for Freshers 
+http://placementpapers.net - Placement Papers, Resume Samples, 
+http://placementpapers.net/jobs
+ - Daily Fresher Jobs, Interview Tips. 
+ (369). there are 3 customers who wants to take a hair cut and 
+shave. there are 2 barbers who takes one quarter of an hour for a 
+hair cut, and 5 minutes for a shave. both the barbers want to finish 
+off and go quickly to their homes. in what time can do it. 
+Ans: -- 
+ (370). we traveled to a place at the rate of 10 miles per hour and off 
+course returned the same way, but owing to less traffic at the rate 
+of 15 miles per hour. what was our relative speed. 
+Ans: -- 
+ (371). there are 3 types of apples in a box. what is the number of 
+apples we should take so that we end up with 3 apples of one kind. 
+Ans: -- 
+ (372). (a).3,6,13,26,33,66,_ (b).0, 1,2,13 ,6,33 ,12, 63,20, 103,_ 
+Ans: -- 
+ (373). Each alphabet A,B.. Z is a constant. A=1,B=2,C=3^2,D=4^9 
+n so on. Each letter is assigned a value -the position of that letter 
+raised to the value of preceding alphabet.(C = 3 ^B,D= 4 ^ C n so 
+on) Compute the numerical value of (X-A)(X-B)(X-C)....(X-Y)(X-Z). 
+Ans: -- 
+374. Mr. T has a wrong weighing pan. One arm is lengthier than 
+other.1 kilogram on left balances 8 melons on right.1 kilogram on 
+right balances 2 melons on left. If all melons are equal in weight, 
+what is the weight of a single melon? 
+375. In a game of dice, 2 dice thrown at each turn. The score at each 
+turn is taken as the product of number on 2 dices. there were five 
+turns (rolls) second roll is 1 less than first n (like this ... the 
+relationship between third n second, third n fourth, fourth n fifth ) 
+were given. Find the score in first roll, second roll, third roll, 
+fourth roll. (jus giving an idea about question and don know the 
+exact relationships). 
+ 
+PURPLE: these are always poisonous if red are. 
+YELLOW: six months in a year they are safe. 
+GREEN: always safe to consume if purple are poisonous. 
+RED: six months in a year poisonous. The colors are colors of 
+mushrooms available. AT this time which one is safe to consume? 
+G: I am 22 M = G + 2 H = G - 1 H: I am not the youngest. difference 
+between M & H is 3 G is 25. M: M is younger than G. G = 23. H = 
+
+http://placementpapers.net - Original Placement Papers Website for Freshers 
+http://placementpapers.net - Placement Papers, Resume Samples, 
+http://placementpapers.net/jobs
+ - Daily Fresher Jobs, Interview Tips. 
+G+2. Mr.G, Mr.M, Mr.H made only one statement false. Find the 
+ages of all three.  
+Ans: -- 
+376. Matrix problem repeated from prev paper there are 3 males 
+A,B,C and 3 females X,Y,W. they played 18 games of golf altogether. 
+1. A scored 94 
+2. X scored 106 
+3. Y scored 102. 
+4. Z scored 100. 
+5. B and C scored 96 and 98 and don't no who's score what?? 
+6. A's wife beats C's wife. 
+7. there are two couples whose sum of scores is same. Determine 
+who's wife is who and scores of B and C. 
+Ans: -- 
+377. A girl had several dollars with her. she went out for shopping 
+and spent half of them in shopping mall, being generous she had 
+given 1 dollar to the beggar. After that she went for lunch and spent 
+the half of the remaining and gave 2 dollars as tip to the waiter. 
+Then she went to watch a movie and spent the half of remaining 
+dollars and gave autorikshaw-wala 3 dollars. This left her with only 
+1 dollar. How many dollars did she had with her at the beginning. 
+Ans: -- 
+378. A person says that his son is 5 times as old as his daughter and 
+his wife is 5 times older than his son and he is twice the age of his 
+wife . The sum total of all the ages equals the age of the grand 
+mother who celebrated her 81st birthday today. How old was his 
+son? 
+Ans: -- 
+379. A bargain hunter bought some plates for $ 1.30 from as ale on 
+Saturday, where price 2 was marked off at each article .On Monday 
+she went to return them at regular prices, and bought some cups 
+and saucers from that much amount of money only. the normal 
+price of plate were equal to the price of 'one cup and one saucer'. In 
+total she bought 16 items more than previous. saucers were only of 
+3 cents hence she brought 10 saucers more than the cups, How 
+many cups and saucers she bought and at what price? 
+Ans: -- 
+380. A jeweler prepared a window display each displaying 3 of the 7 
+jams at a time . They were methyst, opal, sapphire, emerald, ruby 
+and garnet. Displayed according to the following conditions:- 
+
+http://placementpapers.net - Original Placement Papers Website for Freshers 
+http://placementpapers.net - Placement Papers, Resume Samples, 
+http://placementpapers.net/jobs
+ - Daily Fresher Jobs, Interview Tips. 
+1 A should always be displayed on the left window and D on the 
+right. 
+2 Ruby should never come with any of D or G. 
+3.E should always be with S. then some 4 questions were asked on 
+this. easy #1 which combination is appropriate? AOS;ADR;AES 
+(Ans). 
+#2 which condition is correct in the right window? 
+#3 Ruby can be displayed with following other two? 
+#4 S can be displayed with the following other two on left side window? 
+381. Racing competition. Participants were from 3 tribes Sonorant-
+always says truth Midorean-alternatively says T and F ,not with any 
+particular start. Nororean-always False  
+A says- 
+1. C obstructed me at the last moment ,which caused me to lose the race. 
+2. C always speak true 
+3. c is the winner. 
+B says -  
+1. A is the winner. 
+2. c says false always. 
+C says-  
+1.B won the Race 
+2. I didn't caused any obstruction to A at the last time. Identify the tribes of 
+each. 
+Ans: -- 
+382. A boss tells 1/6 the of his life in child hood,1/12 of his in youth 
+and 1/7 of his in bachelor, five years after his election a son was 
+born whom was died four years ago at half his final age. find the 
+boss age. 
+. ANS.:74 this solution a/6+a/12+a/7 +5...... 
+383. Two thieves went to the museum to stole the diamonds first 
+thief stole half of them and while going he took another two and 
+left. Second, third and fourth did the same and there was zero 
+diamonds at the end. How many diamonds initially at the 
+beginning? Similar to Q. No. 193 Stolen Mangoes from Shakuntala 
+Devi - More Puzzles  
+Ans: 79 
+384. A, B, C are the husbands and D, E, F are their wives not in that 
+order. They are playing the Golf following these conditions. D, E, F 
+and B scores are as follows 106,102,100 and 94.A and C scores are 
+98 and 96 not in that order as their names are not displayed. Two 
+couples get the same score. B wife beat the A wife list out the wives 
+names and the scores they got. 
+
+http://placementpapers.net - Original Placement Papers Website for Freshers 
+http://placementpapers.net - Placement Papers, Resume Samples, 
+http://placementpapers.net/jobs
+ - Daily Fresher Jobs, Interview Tips. 
+Ans: 
+Hus Wife Score Total 
+A F 98 102 200 100 198 
+B D 94 106 200 106 200 
+C E 96 100 96 102 198 
+385.A women with dollar bills go to the shopping he spent half of 
+the money she had for shopping as she was so kind she gave one 
+dollar to the beggar. she went to the hotel and spent half of the 
+remaining and she gave 2 dollars to the waiter, the she buy some 
+goods with half of the remaining and she gave 3 dollars to the 
+receptionist. how much money she had in the beginning? 
+ans:42 come in the reverse order 1+3=4and twice of it 8+2=10 and twice of it 
+20+1=21 and twice of it 42. 
+386.A conductor in the bus ask the man how old the boy is. the man 
+replied that my son is five times older than my daughter and my 
+wife is five times older than my son and i am twice older to my wife 
+and our ages summed up to my grandmother whose age is 81 years. 
+can u tell me the son age? 
+Ans: 5 years x+5x+25X+50X=81 81X=81 x=1 therefore son age is 5 years old 
+387. find out who is oldest and who is youngest from the following 
+statements... 
+(a) either A or B r the oldest 
+(b) either C is the oldest or B is the youngest. 
+Ans: A is the oldest and B is the Youngest 
+388.one boy tells three papal to guess mule color.. number one says 
+its not balk number two says its either brown or grey number 3 
+says its brown. ..the boy then says one is at least lying and at least 
+telling truth...find mule color ans grey? 
+Ans: -- 
+389. 2 men take turns walking and riding one horse that they 
+share...walking speed 4km/hr..riding speed 12km/hr..one rides for 
+some time and ties horse for the other walking fellow and 
+continues walking......they keep going on like this alternately ..find 
+time that the horse rests 
+Ans: -- 
+390. 7 ppl have holidays on 7 diff days...and they give conditions 
+like A's hold is 3 days before B etc etc...we have to find the days on 
+which they take holiday 5.6 subjects 3 ppl teach 2 each...some crazy 
+
+http://placementpapers.net - Original Placement Papers Website for Freshers 
+http://placementpapers.net - Placement Papers, Resume Samples, 
+http://placementpapers.net/jobs
+ - Daily Fresher Jobs, Interview Tips. 
+conditions and we got to find the subject for each. I cant really 
+recall clearly so why confuse u guys 
+Ans: -- 
+391. A Lady (say L) is a philanthropist. she goes to a restaurant, 
+orders food and pays half the amount she has and another dollar to 
+a waiter as tip. she then goes to a mall, does some purchases and 
+pays half the amount left and another 2 dollars to a beggar outside. 
+At last she goes to a book store, takes some books and pays half the 
+amount left and another 3 dollars to a beggar outside. she then 
+checks that she only had a dollar left to her. How much money she 
+had initially?  
+Ans. 42 $ 
+392. Three couples are playing golf together. The men are E, B & T 
+while women are M G & H. they play 8 rounds. M, G, H & E score 
+106, 102, 100, 94 respectively. while B & T scored either 96 or 98 as 
+it was unresolved due to error at scoreboard. When finally resolved 
+they found that two of the couples scored same. It is given that- E's 
+wife scored greater than B's wife. Who's whose wife & how much 
+the men scored each? 
+Ans: -- 
+393. A lady buys some plates in 130$ with 2$ off every item. she 
+then returns the plates for the same amount next day to exchange 
+them for some cups & saucers. Each saucer costs only 3$ each and 
+the no. of saucers is 10 more than cups. Altogether she takes 16 
+more items than before. If she had to buy only cups, how many of 
+them she could have been taken home on the first day? 
+Ans: -- 
+394. Impressed by admiration of the boy by stranger, the father 
+said "My son is five times as old as my daughter and my wife is five 
+times as old as my son. I'm double the age of my wife and my 
+grandmother is as old as the sum of ages of all of us and she is 
+celebrating her 81st birthday." what is the age of the boy? 
+ANS. 5 yrs 
+395. A, B & C participate in a race & one of them wins. They belong 
+to three communities-M, N, O. O always speak the truth, N always 
+lie and M alternate. Each of A, B & C belongs to one community. 
+A SAYS: 
+1. I would have won the race if C had not interfered me at the last movement. 
+2. C always speaks truth. 
+3. C is the winner. 
+
+http://placementpapers.net - Original Placement Papers Website for Freshers 
+http://placementpapers.net - Placement Papers, Resume Samples, 
+http://placementpapers.net/jobs
+ - Daily Fresher Jobs, Interview Tips. 
+B SAYS: 
+1. A wins the race. 
+2. C is not a 'N'. 
+C SAYS: 
+1. I hadn't interfered with A at the last movement. 
+2. B wins the race. Tell, who's who? 
+Ans: -- 
+396. Harry is a friend of Axy and Amy. Two statements are given 
+about them. 
+1. if one of Axy and Amy is oldest then another is youngest. 
+2. Either Harry is the oldest or Amy is the youngest. Who is the 
+oldest? 
+ANS. Axy 
+397.sons age is 5 times daughters. mother is five times son. father 
+is 5 times wife. Total of all age is Grandpas who is celebrating 81st 
+B`day. 
+Ans:-5 yrs 
+(398) One woman buys plates worth 1.30$ at 2cent discount each 
+plate. Then she exchanged the plates for saucers & bowl where one 
+bowl & one saucers costs equal to one plate. no of saucers which 
+costs 3 cent is10 more than bowl. no of saucers & bowl is 16 more 
+than no of plates. 
+Ans:-10Plates 
+399. "One-sixth of my life", said my boss, "I spent as a child, next 
+one-twelfth as an old boy, one-seventh & 5 more years in politics & 
+socialization. This brought me up to when Jimmy born. Jimmy was 
+elected for the governor four years ago, when he was half my 
+present age." How old is my boss? 
+ANS.: 84 yrs. (However, I overlooked that 'one-seventh' part, & got the 
+answer 36 - a wrong answer.) 
+******************************************************* 
+J= (B/2) + 4 (B/6) + (B/12) + (B/7) + 5 + J = B => B = 84 
+******************************************************* 
+401.A Couple decided to travel a north country side .so they decide 
+to travel a minimum amount on car the first day and the second 
+and subsequent day a distance of 20 miles .If they travel a total 
+amount of 1080 miles. Find he distance traveled on the 4th day and 
+the 9 day. 
+
+http://placementpapers.net - Original Placement Papers Website for Freshers 
+http://placementpapers.net - Placement Papers, Resume Samples, 
+http://placementpapers.net/jobs
+ - Daily Fresher Jobs, Interview Tips. 
+Ans: -- 
+402. A card board of 34 * 14 has to be attached to a wooden box and 
+a total of 35 pins are to be used on the each side of the card box. 
+Find the total number of pins used . 
+Ans: -- 
+403. During a Pizza buffet where A eats more times 2.4 than B, and 
+B eats 6 times less than C. find the leat number of times all the 
+three has to eat. 404. Last Year my cousin came to my place and we 
+played a game where the loosing one has to give one chocolate to 
+the person who won the game .At the end of the vacation,i.e the day 
+my cousin was leaving she counted number of games that i won an 
+she won. At last she gave me a total of 8 chocolates even though she 
+won about 12 games. Find the member of games that we played. 
+Ans: -- 
+405. A tree on first day grows 1/2 of its size second day 1/3rd of its 
+size on the previous day similarly than 1/4th and so on. u have to 
+calculate after how many days the tree will be 100 times of its 
+original size. 
+Ans -198 days 
+406. three person are there let A B C one always tell truth one 
+always lie and one sometimes tell truth they are standing in 
+straight line the first person who is senior most and always tells 
+truth tells in middle A is standing the middle one says C is in the 
+third position the last one says B is in second position i.e. middle 
+Ans: -- 
+407. A,B,C,D and E are juniors and F,G,H,I are seniors you have to 
+make three groups each congaing three person such that in each 
+group one senior is there and some other conditions which I cant 
+recall exactly but was like that if this person will be in group than 
+this cant be in the same group . 
+408. there are 100 teams in a football knockout tournament how 
+many matches should be held to get the winner answer is 99 i.e. 
+one less than the no of teams box in every match on team goes out 
+Ans: -- 
+409.A car traveling with uniform speed. There r 15 poles. A car 
+travel from 1 to 10th pole in 10 seconds. the poles are equally 
+spaced. then how many seconds it takes to reach the 15th pole? (4) 
+
+http://placementpapers.net - Original Placement Papers Website for Freshers 
+http://placementpapers.net - Placement Papers, Resume Samples, 
+http://placementpapers.net/jobs
+ - Daily Fresher Jobs, Interview Tips. 
+Ans: -- 
+410. A boy jump to the river from the bridge. He swim opposite 
+direction of the stream. After 1000 yards he noted that his hat was 
+fallen at the bridge. The he goes to take the hat. He didn’t change 
+his speed. What is the velocity of stream? (4) 
+Ans: -- 
+411. Uncles A bought a Hat & Suit for Rs.15.Aunty B bought a Suit 
+with as much as cost of uncle’s Hat. Then reaming cost he bought 
+Dresses. Dresses cost is one rupee more than his hat’s cost. Then 
+she told him his hat’s hat is 1 and ½ cost of her hat. They spend 
+equal amount on their purchase . 
+a. Then uncle said how much is the cost of Hat. 
+b. How much they spend altogether ? (4) 
+Ans: -- 
+412. There are 17 brown ties,13 red ties, 9 green ties, 5 blue ties and 
+2 white ties. Then a man takes a tie. so, how many times he at least 
+take tie to get the 2 ties In same colour? (6) 
+Ans: -- 
+413. Mrs. Bar binger bought some plates on Saturday for $1.30, 
+when everything was being sold two cents below the regular price. 
+She exchanged those plates on Monday, at their regular price, for 
+cups & saucers. Cost of one plate equals cost of one plate & one 
+saucer. She returned home with 16 more articles than before. 
+Since, saucers cost only 3 cents each, she bought 10 more saucers 
+than cups. The puzzle is, how many cups could she have bought on 
+Saturday, for $1.30? 
+ANS.: 13 cups 
+******************************************************* 
+On Monday: cup = 12 cents, saucer = 3 cents, plate = 15 cents 
+On Saturday: cup = 10 cents, saucer = 1 cent, plate = 13 cents 
+******************************************************* 
+414. Mr. and Mrs. ABC purchase suit and hats for 15 Rs. then from 
+remaining money Mrs. ABC purchase A dress. She said " My dress 
+cost is more than 1 Rs from your hat's cost. she also added "if we 
+divide our money and then purchase and cost of my hat is 3 and 1/2 
+times yours hat then we had spend equal money" a. " if that " 
+condition fallows what is price of his hat? b. Total amount spend ? 
+Ans. hat= 6 Rs , Total = 22 Rs. ( not sure) 
+
+http://placementpapers.net - Original Placement Papers Website for Freshers 
+http://placementpapers.net - Placement Papers, Resume Samples, 
+http://placementpapers.net/jobs
+ - Daily Fresher Jobs, Interview Tips. 
+415. My rack contains 8 Red colour ties, 13 violate colour ties,10 
+Blue colour ties, 5 Pink colour ties, 4 green colour ties. If electricity 
+gone and i want at least two ties of same colour then how many ties 
+I should take out from my rack? 
+Ans : 6 ties. 
+416. Two trains leaving from two station 50 miles away from each 
+other with constant speed of 60 miles per hour, approaches 
+towards each other on different tracks. if length of each train is 1/6 
+mile. when they meet How much time they need to pass each other 
+totally? 
+ANS : 10 sec. ( not sure) 
+417. All handsome, fair skinned, muscular, lean, employed, and 
+rich men are tall. All handsome men are fair skinned. Some 
+muscular men are handsome. Some muscular men are not fair 
+skinned. All lean men are muscular. No lean man is handsome. No fair 
+skinned man who is not handsome is rich. All tall men who are neither fair 
+skinned nor muscular are employed. 
+1. pramod is not fair skinned. Which of the following must be true ? 
+(a) pramod is employed 
+(b) if pramod is muscular, he is neither handsome nor lean 
+(c) if pramod is tall, he is employed or muscular. 
+(d) if pramod is not employed, he is muscular. 
+(e) if pramod is tall, he may be muscular or handsome, but not both. 
+2. which must be false if the information given is true ? 
+(a) no lean men are fair skinned. 
+(b) some fair skinned are lean. 
+(c) some rich men are both fair skinned and muscular. 
+(d) some tall men are neither fair skinned nor employed 
+(e) some rich men are lean 
+3. which of the following can be deduced from the information 
+given ? 
+(a) all rich men are handsome 
+(b) some rich men are handsome 
+(c) some rich men are employed 
+(d) some rich men are muscular 
+(e) all rich men are handsome, muscular, or employed 
+4. which cannot be shown to be true or false on the basis of the 
+information given ? 
+I. No fair skinned or muscular man is employed 
+II. Some muscular men are fair skinned but not handsome 
+III. No fair skinned man both handsome and lean 
+(a) I only               (b) II only  
+
+http://placementpapers.net - Original Placement Papers Website for Freshers 
+http://placementpapers.net - Placement Papers, Resume Samples, 
+http://placementpapers.net/jobs
+ - Daily Fresher Jobs, Interview Tips. 
+(c) III only             (d) I and II  
+(e) II and III 
+Ans: -- 
+418. In Mulund, the shoe store is closed every Monday, the 
+boutique is closed every Tuesday, the grocery store is closed every 
+Thursday and the bank is open only on Monday, Wednesday and 
+Friday. Everything is closed on Sunday. One day A, B, C and D went 
+shopping together, each with a different place to go. They made the 
+following statements: A D and I wanted to go earlier in the week 
+but there wasn’t day when we could both take care of our errands. 
+B I did not want to come today but tomorrow I will not be able to do 
+what I want to do. C I could have gone yesterday or the day before 
+just as well as today. D Either yesterday or tomorrow would have 
+suited me. Which place did each person visit ? 
+Ans: -- 
+419. The Novice hockey tournaments are on for beginners. Just 
+three teams are in the league, and each plays the other two teams 
+just once. Only part of the information appears in the result chart, 
+which is given below. Team Games Won Lost Tied Goals For Goals 
+against A 2 1 0 B 2 1 1 2 C 2 The scoring pattern in the tournament is 
+as follows: Two points are awarded to the winning team. In case of 
+a tie, both teams are awarded one point, so the total points in the 
+standings should always equal the total number of games played ( 
+since each game played is counted as one for each of the two 
+participating teams).Of course, total goals scored for and goals 
+scored against must be the same, since every goal scored for one 
+team is scored against another. The games are played in the 
+following order: Game 1: A Vs B; Game 2: A Vs C; Game B Vs C Can 
+you determine the score of each of the above games ? 
+Ans: -- 
+420. A recent murder case centered around the six men, clam, flip, 
+grout, herm, mast, and Walt. In one order or another these man 
+were the victim, the murderer, the witness, the police, the judge, 
+and the hangman. The facts of the case were simple. The victim had 
+died instantly from the effect of gunshot wound inflicted a shot. 
+After a lengthy trial the murderer was convicted, sentenced to 
+death, and hanged. V Mast knew both the victim and the murderer. 
+v In court the judge asked clam his account of the shooting. V Walt 
+was the last of the six to see flip alive. V The police testified that he 
+picked up grunt near the place where the body was found. V Herm 
+and Walt never met. What role did each of the following play in this 
+melodrama ? 
+(a) Murderer 
+(b) Victim 
+
+http://placementpapers.net - Original Placement Papers Website for Freshers 
+http://placementpapers.net - Placement Papers, Resume Samples, 
+http://placementpapers.net/jobs
+ - Daily Fresher Jobs, Interview Tips. 
+(c) Judge 
+(d) Witness 
+Ans: -- 
+421.A alone can do a work in 6 days B alone can do in 8 days with 
+help of c they finished the work in 3 days. If the agreed sum is 640 
+what is the share of c.(refer Rs agarwal) 
+Ans: -- 
+ (422) A boy goes to school from his house. on one fourth oh his 
+way to school, he crosses a machinery station. And on one third of 
+his way to school, he crosses a Railway station. He crossed the 
+machinery station at 7:30 and he crosses the Railway station at 
+7:35. When does he leave the house & when does he reach the 
+school ? (5M) 
+Ans: -- 
+423.A drives a car four times a lap 10,20 30,60 Kmph what is the 
+average speed. 
+Ans: -- 
+424.speed of boat in still water 10 km,if speed up stream is 24 km 
+and speed down stream is 16 what is speed of the river. 
+Ans: -- 
+425.If grand father age is sum all the three grand children whose 
+age r in equal interval what is the age of the grand father? 
+Ans: -- 
+426.In a grass field if 40 cow could eat for 40 days. The same grass 
+field can feed 30 cows for 60 days. how long will it feed 20 cows? 
+Ans: -- 
+ (427) An Eraser, Pencil, Notebook together costs $1.00. Notebook 
+costs more than the cost of 2 Pencils. 3 Pencil costs more than 4 
+Erasers. 3 Erasers costs more than a Notebook. How much does a 
+pencil costs? (5M) 
+Ans: -- 
+ (428) Four persons A,B,C,D were there. All were of different 
+weights. All Four gave a statement. Among the four statements only 
+the person who is lightest in weight of all others gave a true 
+
+http://placementpapers.net - Original Placement Papers Website for Freshers 
+http://placementpapers.net - Placement Papers, Resume Samples, 
+http://placementpapers.net/jobs
+ - Daily Fresher Jobs, Interview Tips. 
+statement. 
+A Says : B is heavier than D. 
+B Says : A is heavier than C. 
+C Says : I am heavier than D. 
+D Says : C is heavier than B. Find the lightest & List the persons in 
+ascending order according to their weights. (5M) 
+Ans: -- 
+428. A man was traveling to a place 30 miles away from starting 
+point. he was speeding at 60 miles/hr. but when he came back, his 
+car got breakdown and half an hour was wasted in repairing that. 
+altogether he took 1 hr for return journey. Find the avg. speed of 
+the whole journey. 
+Ans: -- 
+429.I'M NOT VERY SURE REGARDING THIS QUESTION. A 
+detective was assigned to generate a code using 4 digits, so that no 
+one could break it. he knew that if the code starts with 0,5 or 7 it 
+will be cracked. so how many numbers can be formed using 4 
+digits. 
+Ans: -- 
+430. A cow was standing on a bridge, 5feet away from the middle of 
+the bridge. suddenly a lightning express with 90 miles/hr was 
+coming towards the bridge from nearest end of the cow. seeeing 
+this the cow ran towards the express and managed to escape when 
+the train is one feet away from the bridge. if it would have ran to 
+opposite direction (i.e. away from train) it would have been hit the 
+train one ft away from the end of the bridge. Calculate the length of 
+bridge. 
+Ans: -- 
+431. there are 3 towns attacked by 3 dragons-x,y,z. Number of days 
+x attack a town is equal to number of days y attacking another 
+town. Number of days x attack is equal to half the square root of 
+number of days z attacking a town. number of days y attacking the 
+town is twice the square root of z. calculate how much days the 
+curse of each dragon be. 
+Ans: -- 
+432. A town have a population of 500000 and 42% of males and 
+28% of females are married to same town. find the total number of 
+males 
+
+http://placementpapers.net - Original Placement Papers Website for Freshers 
+http://placementpapers.net - Placement Papers, Resume Samples, 
+http://placementpapers.net/jobs
+ - Daily Fresher Jobs, Interview Tips. 
+433. A and B came back home after their exam and their father 
+asked them about the test. A replied-- 1/3rd of my answers were 
+wrong B replied-- 5 of my answers were wrong but together we got 
+3/4 of answers right. How many questions were there for the 
+exam? 
+Ans: -- 
+ (434) We are given 100 pieces of a puzzle. If fixing two 
+components together is counted as 1 move ( a component can be 
+one piece or an already fixed set of pieces), how many moves do we 
+need to fix the entire puzzle. 
+Ans: 18 
+(435) This problem has appeared b4. 4 kids from 2 families Gupta 
+and Sharma... their names are Praveen, Pra... blah blah...and some 
+relation... which family and what are their ages.. 
+Ans:  
+Sinhas - 11(praveen) 
+Sinhas - 5(lalit) 
+Gupta - 10(pratap) 
+Gupta - 7 (Rajesh) 
+(436) This was one hell of a long problem - But it has appeared 
+before.. Two girls after one guy ( sue, sew and Sam I think). Sue 
+first asks his house no... he replies with two statements (second is 
+false) so she goes to the wrong house... blah blah.. same thing 
+happens with the other gal What was the house number of sue and 
+sam 
+Ans: 20 and 24 
+(437) A complex statement - about an aero plane coming late. "The 
+boy says if it was 6 hours later, the waiting time would be 1/5th of 
+the time if the plane had come 2 hours earlier instead. the plane is 
+supposed to come at midnight 
+Ans 11.00 am 
+(438) There are 4 statements and 4 guys ( Dave, Gus, someone else 
+and one more someone else) - sorry my memory is rotten! Anyway 
+now these guys make 4 statements about. who committed the 
+crime. We need to find out who did it if  
+(i) all but one are saying false and  
+(ii)all but one are saying true 
+Ans: (I) Archie ( ii) Tony 
+
+http://placementpapers.net - Original Placement Papers Website for Freshers 
+http://placementpapers.net - Placement Papers, Resume Samples, 
+http://placementpapers.net/jobs
+ - Daily Fresher Jobs, Interview Tips. 
+(439) A kid goes to a bank with a che    que... Comes back and says 
+he spent 35 cents .. his mom says you have brought back twice what 
+u very supposed to get. What happened is the novice bank clerk 
+gave dollars for cents and vice-versa (quote silly) anyway... What 
+was the actual amount?? 
+Ans: don't know... 
+440. John had decided to divide his RS.1000/- for his four children 
+according to their ages. The elder child should be a RS.20/- extra 
+for each than his younger child . What will be the share of Mahesh 
+whose the youngest?[3 marks] 
+Ans: -- 
+441.One side of the measuring arm was longer than the other side 
+.If 3 pyramid width was placed in longer side it is equal to 2 cube 
+width in the shorter arm. If 8 pyramid width was placed in longer 
+arm then it is equal to 6 cube width. Let 1 pyramid width is equal to 
+10kg.What is the wgt of cube width? 
+Ans: -- 
+442. A,B,C,D are four girls who have 1,2,3,4 apples with them 
+respectively. If E have apples equal to his sister, F have twice the 
+apples as his sister, G have thrice the apples than his sister and I 
+have four times the apples than my sister. All together we have 32 
+apples . A,B,C,D are the sisters of whom and whom? 
+Ans: -- 
+443.Andy,Brian,Cedric,Dave are architects ,barber, case worker 
+and dentist but not in the order.  
+*Architect will have the letter ‘r’ in his name. 
+*At least one of the person should have coincidence in the first 
+letter of their name and their occupation but not all [e.g.: andy-
+architect] 
+* Barber and dentist share their name by only one letter What is 
+the occupation of each person? 
+Ans: -- 
+444.There are 100 bulbs connected to 100 switches 
+• 1 to 100 all the switches are put ON. 
+• Only even numbers of switches are used i.e., ON means OFF and 
+vice versa 
+• Similarly odd numbers of switches are done 
+• Switch number which is divisible by 3 are done similarly 
+• Switch number which are divisible by 4 are done similarly This 
+
+http://placementpapers.net - Original Placement Papers Website for Freshers 
+http://placementpapers.net - Placement Papers, Resume Samples, 
+http://placementpapers.net/jobs
+ - Daily Fresher Jobs, Interview Tips. 
+process is done up to 100 divisible. When do all the bulbs are in ON 
+and OFF condition?[8marks] 
+Ans: -- 
+445. A man wrote his “will’ accordingly the money was also shared 
+between his car driver,5 sons and 5 daughters. First he gave one 
+rupee to his car driver, remaining 1/5 of the money is given to his 
+1st son .again he gave one to his car driver and remaining 1/5 of the 
+money is given to his 2nd son, continuing the process until 5 sons 
+are completed .After that he remaining money is divided between 
+his 5 daughters. What was total amount of money? 
+Ans: -- 
+446. 4 people identified a criminal and their statements are:  
+# A: Eyes was blue ,height was tall and he wore a hat & a vest. 
+# B: Eyes was dark , height was short and he wore a hat & a vest 
+# C: Eyes was green ,height was medium and he wore hat & a tie. 
+# D: Eyes was grey ,height was tall and he wore a rain coat and a 
+hat. Everyone said only one correct identify other two was untrue . 
+How can be the criminal identified? 
+Ans: -- 
+447. A wall clock was slow by 10minutes . According to the wall 
+clock, a table clock was 10 minutes ahead of it . According to the 
+table clock an alarm clock was 5 minutes behind and according to 
+the alarm clock wrest watch was 5 minutes fast. Atnoon all the 
+clocks were adjusted .What will be the time at 6 P.M wrist watch? 
+Ans: -- 
+448.Professor Kittredge’s literature seminar includes students 
+with varied tastes in poetry. All those in the seminar who enjoy the 
+poetry of browning also enjoy the poetry of Eliot. Those who enjoy 
+the poetry of Eliot despise the poetry of Coleridge. Some of those 
+who enjoy the poetry of Eliot also enjoy the poetry of Auden. All of 
+those who enjoy the poetry of Coleridge also enjoy the poetry of 
+Donne. Some of those who enjoy the poetry of Auden also despise 
+the poetry of Coleridge. All of those who enjoy the poetry of Donne 
+also enjoy the poetry of Frost  
+Miss Garfield enjoys the poetry of Donne. Which of the following 
+must be true? 
+(A) she may or may not enjoy the poetry of Coleridge. 
+(B) She does not enjoy the poetry of Browning. 
+(C) She does not enjoy the poetry of Eliot. 
+(D) She enjoys the poetry of Coleridge. 
+
+http://placementpapers.net - Original Placement Papers Website for Freshers 
+http://placementpapers.net - Placement Papers, Resume Samples, 
+http://placementpapers.net/jobs
+ - Daily Fresher Jobs, Interview Tips. 
+Mr.Huxtable enjoys the poetry of Browing. He may also enjoy any 
+of the following poets except 
+(A) Auden. 
+(B) Coleridge 
+(C) Donne 
+(D) Eliot 
+(E) Frost 
+Miss Ingush enjoys the poetry of Coleridge. Which of the following 
+must be false? 
+(A) she does not enjoy the poetry of Auden. 
+(B) She enjoys the poetry of Donne. 
+(C) She enjoys the poetry of Frost. 
+(D) She does not enjoy the poetry of Browning. 
+(E) She may enjoy the poetry of Eliot. 
+Based on the information provided, which of the following 
+statements concerning the members of the seminar must be true? 
+(A) All the those who enjoy the poetry of Eliot also enjoy the poetry of 
+Browning. 
+(B) None of those who despise the poetry of Frost enjoy the poetry of Auden. 
+(C) Some of those who enjoy the poetry of Auden despise the poetry of 
+Coleridge. 
+(D) None of those who enjoy the poetry of Browning despise the poetry of 
+Donne. 
+(E) Some of those who enjoys the poetry of Frost despise the poetry of Donne. 
+a. Rimmie wears a hat only if George wears a tie. b. George wears a scarf only 
+if Johnnie wears a tie. c. Vickie wears a goggles only if Ramie wears a hat. d, e, 
+f, g, h some what like this there are 8 statements, from that we have to 
+determine who wears what. 
+Ans: -- 
+449. 8 Kgs and 14 Ligs can do 510 tors of work in10days. 13 Kgs and 
+6 Ligs can do 484 tors of work in 12 days. Then find work done by 
+Kgs and Ligs individually in tors/hr? 
+Ans: -- 
+450.There is a 3 digested number. 3rd number is the square root of 
+the 1st digit. 2nd digit is the sum of 1st and 3rd.And that number is 
+divisible by 2,3,6,7. What is that number? 
+Ans: -- 
+451. A boy is playing a game. He took totally 55 blocks and kept like 
+placing some x number on the ground, next one less than that 
+above those blocks like that till the topmost one is one, like: 
+x 
+x x 
+
+http://placementpapers.net - Original Placement Papers Website for Freshers 
+http://placementpapers.net - Placement Papers, Resume Samples, 
+http://placementpapers.net/jobs
+ - Daily Fresher Jobs, Interview Tips. 
+x x x 
+x x x x 
+x x x x x 
+x x x x x x 
+x x x x x x x 
+x x x x x x x x 
+x x x x x x x x x 
+x x x x x x x x x x 
+(They didn’t gave this pictuire, but my explanation is not clear, 
+that's I gave u this picture) the question is how many blocks are 
+there at the base level? 
+Ans: -- 
+452. There r 100 nations competing for a world-cup. The board 
+decided to make Knock-out series. How many matches to be played 
+for deciding the world champion? 
+Ans: -- 
+453.There is log weighing 30kgs. The log having twice thickness 
+and twice short as first one will weigh how much ?? 
+Ans: -- 
+454. there is truck which should reach some place at 11`o clock , if 
+it travels with 30 mph it reaches i hour before , if it travels with 20 
+mph it reaches 1 hour late. what is the distance it must be traveled 
+and what is the speed it must maintain to retch at exact time? 
+Ans: 120 miles and 24 mph 
+455.There is a square cabbage patch. He told his sister that i have a 
+larger patch than last year and hence 211 more cabbages this year. 
+Then how many cabbages I have this year.? 
+Ans:106*106=11236 
+456. there are two clocks one runs 1min/hrs faster and other 
+1min/hr slower when will the two clocks have time time difference 
+of 1 hr : 
+Ans : 30hrs 
+457. i take a taxi whose no is 3 digit no. it is not divisible by 2,3,5,7 
+but divisible by 11 it is the smallest no possible: 
+Ans : 121 
+
+http://placementpapers.net - Original Placement Papers Website for Freshers 
+http://placementpapers.net - Placement Papers, Resume Samples, 
+http://placementpapers.net/jobs
+ - Daily Fresher Jobs, Interview Tips. 
+458. A man brought some watermelons to town and sold them. he 
+sold 1/2 more than 1/2 of what he brought and e was left with one 
+melon. how many melons did he bring to Town? 
+Ans: 3 
+459. When u reverse the digits of age of father u will get the age of 
+son. one year ago the age of father was twice that of son's age. what 
+are the current ages of father and son? 
+Ans: 73 & 37 
+460. There will be four friends ,one is doctor, one is lawyer... they 
+are having four cars one Ferrari, corvette .... there were some 
+conditions and we were suppose to find what is profession of each 
+one and what car they own. this was the one for 8 marks. 
+Ans: -- 
+461. There is a circular ring in which there are 12 black mice and 
+one white mice . a cat walks circularly in the ring and eats every 
+12th mice. where should the cat start so that the white mice is the 
+last one to be eaten by cat? 
+Ans: if the cat moves circularly it has to start from the 11th mice (clockwise) 
+w.r.t. to white one. 
+462. A farmer grows four types of crops say W,X,Y & Z . two 
+conditions were given:  
+1. If the farmer grows crop W in a year then also grows X that year 
+2. If the farmer grows crop Z one year then he never grows crop Y 
+next year There were 6 choices among which we were suppose to 
+find one correct one which does not violate the two conditions the 
+choices were some thing like:( first pair denotes crops grown first 
+year and second after semicolon represents crops grown next year) 
+W,X ; X,Z (this one is a valid one) 
+Ans: I don’t remember the choices but the ans was option C 
+463. In a class there are less than 500 students . when it is divided 
+by 3 it gives a whole number. Similarly when it is divided by 4,5 or 7 
+gives a whole number. find the no. of students in the class  
+Ans: 420 
+464. There are three types of birds A,B & C . A costs 5pounds, B 
+costs 3 Pounds and C costs 1/3 of a pound. find the no. of A,B &C 
+such that u will get 100 birds for 100 pounds. (I think we were 
+suppose to find 3 answers since there were 3 rows in the answer) 
+
+http://placementpapers.net - Original Placement Papers Website for Freshers 
+http://placementpapers.net - Placement Papers, Resume Samples, 
+http://placementpapers.net/jobs
+ - Daily Fresher Jobs, Interview Tips. 
+Ans: A : 4 B : 18 C: 78 
+465. There are 5 persons who have won top five places in an event 
+in Olympics . one of them asks all the five regarding their positions, 
+they reply as 
+a: "I am not the last" 
+b: "c is in third place" 
+c: "E is behind A" 
+d: "B is in first place" 
+e: "D is not the first" The persons who have won gold and silver have lied find 
+the positions in order(format: name of first, name of second,..) 
+Ans: B,D,E,A,C 
+466. A coffee seller has two types of coffee Brand A costing 5 bits 
+per pound and Brand B costing 3 bits per pound. he mixes two 
+brands to get a 40 pound mixture. he sold this at 6 bits per pound. 
+the seller gets a profit of 33 1/2 percent. how much he has used 
+Brand A in the mixture?  
+Ans: 30 pounds 
+467. You are given with two identical iron bars. one of them is 
+magnetized and the other is not. u are suppose to find which one is 
+magnetized. u are not suppose to use any other thing. my ans: first 
+time I told that i will suspend the bars freely. but then they told me 
+that I am not suppose to use any external help. I took some time 
+and then realized that a magnetic bar in the middle repels towards 
+the end . I told that place one of the bars horizontal & then move 
+the other one perpendicularly to it . if it repels towards any of ends 
+then the horizontal one is magnetized if it attracts then is not. They 
+were convinced 
+Ans: -- 
+468: What is the result of (x-a)*(x-b)*(x-c)*...........*(x-y)*(x-z) ? my  
+Ans: I told that since there is a term (x-x) the answer is zero. They 
+told ok. finally they asked me whether I have any questions to them 
+I asked them what is the duration of training and what is field 
+which i will be working on if I get selected. Anyone looking for infy 
+solve Shakuntala devi's 2 books, George summers and Ravi narula 
+this would me more than enough. most important thing is develop 
+or logical analysis skill and try to remember the approach rather 
+than answers. don’t panic in the interview just be cool and 
+confident u will definitely get through. Best of luck for all 
+Ans: -- 
+
+http://placementpapers.net - Original Placement Papers Website for Freshers 
+http://placementpapers.net - Placement Papers, Resume Samples, 
+http://placementpapers.net/jobs
+ - Daily Fresher Jobs, Interview Tips. 
+ (469)  
+(a) 10 1 9 2 8 3 7 4 6 5 5 6 4 7 3 8 2 _ _ 
+(b) 2 4 16 512 _ 
+ write the next elements in the series. 
+ 

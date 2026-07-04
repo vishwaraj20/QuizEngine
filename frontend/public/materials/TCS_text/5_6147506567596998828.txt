@@ -1,0 +1,560 @@
+
+
+ 
+TCS Placement Questions Paper SET 1 
+ 
+1) The water from one outlet, flowing at a constant rate, can fill the swimming pool in 9 hours. The 
+water from second outlet, flowing at a constant rate can fill up the same pool in approximately in 5 
+hours. If both the outlets are used at the same time, approximately what is the number of hours 
+required to fill the pool? 
+Ans: Assume tank capacity is 45 Liters.  Given that the first pipe fills the tank in 9 hours.  So its 
+capacity is 45 / 9 = 5 Liters/ Hour.  Second pipe fills the tank in 5 hours.  So its capacity is 45 / 5 = 9 
+Liters/Hour. If both pipes are opened together, then combined capacity is 14 liters/hour.   To fill a 
+tank of capacity 45 liters, Both pipes takes 45 / 14 = 3.21 Hours. 
+ 
+2) If 75 % of a class answered the first question on a certain test correctly, 55 percent answered the 
+second question on the test correctly, and 20 percent answered neither of the questions correctly, 
+what percentage answered both correctly? 
+It is a problem belongs to sets. We use the following formula n(A 
+∪ 
+∪ 
+B) = n(A) + n(B) - n(A 
+∩ 
+∩ 
+B) 
+Here n(A 
+∪ 
+∪ 
+B) is the people who answered atleast one of the questions. 
+It was given that 20% answered neither question then the students who answered atleast one 
+question is 100% - 20% = 80% 
+Now substituting in the formula we get 80% = 75% + 55% - n(A 
+∩ 
+∩ 
+B) 
+⇒ 
+⇒ 
+ n(A 
+∩ 
+∩ 
+B) = 50% 
+ 
+3) A student's average ( arithmetic mean) test score on 4 tests is 78. What must be the students 
+score on a 5th test for the students average score on the 5th test to be 80? 
+Ans: We know that Average  
+= 
+
+ 
+Sum of the observations  
+No of observations 
+=Sum of the observations No of observations 
+ 
+So Sum of 4 test scores = 78 
+× 
+× 
+4=312 
+Sum of 5 tests scores = 80 
+× 
+× 
+5=400 
+⇒ 
+⇒ 
+ 5th test score=400-312=88 
+ 
+Alternative method:​ If the student scores 78 in the fifth test also, what could be his average? No 
+change. Is it not? 
+But to bring the average to 80, he must have scored enough marks extra so that each of the five 
+subject scores increase upto 80. i.e., he should have scored 2 x 5 = 10 runs extra in the fifth subject. 
+So 5th subject score is 78 + 10 = 88 
+ 
+4) Rural households have more purchasing power than do urban households at the same income 
+level, since some of the income urban and suburban households use for food and shelter can be 
+used by the rural households for other needs. Which of the following inferences is best supported by 
+the statement made above? 
+(A) The average rural household includes more people than does the average urban or suburban 
+household. 
+(B) Rural households have lower food and housing costs than do either urban or suburban 
+households. 
+(C) Suburban households generally have more purchasing power than do either rural or urban 
+households. 
+(D) The median income of urban and suburban households is generally higher than that of rural 
+households. 
+(E) All three types of households spend more of their income on housing than on all other purchases 
+combined. 
+Ans: If average rural household includes more people, then how come they have more purchasing 
+power? Infact, they have less purchasing power as they have to feed more people.  Option A ruled 
+out. 
+Option C does not explain why rural households have more purchasing power than urban.  Ruled 
+out. 
+If median income of urban and suburban households is generally higher than rural households they 
+are likely to have more purchasing power, assuming other parameters constant.  But this does not 
+explain why rural households have more purchasing power. Options D ruled out. 
+
+ 
+Option E does not provide any explanation why rural households have more purchasing power. 
+Ruled out. 
+Option B is correct as, If rural households spend less income on food and shelter due to less prices 
+they definitely have more disposable income to spend.  
+ 
+5) Jose is a student of horticulture in the University of Hose. In a horticultural experiment in his final 
+year, 200 seeds were planted in plot I and 300 were planted in plot II. If 57% of the seeds in plot I 
+germinated and 42% of the seeds in plot II germinated, what percent of the total number of planted 
+seeds germinated? 
+Ans: Total seeds germinated in Plot I = 57% of 200 = 114 
+Total seeds germinated in Plot II = 42% of 300 = 126 
+Total germinated seeds = 114 + 126 = 240 
+The percentage of germinated seeds of the total seeds =  
+240 
+500 
+× 
+100 
+240500×100 
+ = 48% 
+ 
+6) A closed cylindrical tank contains 36 
+π 
+π 
+ cubic feet of water and its filled to half its capacity. When the tank is placed upright on its circular 
+base on level ground, the height of water in the tank is 4 feet. When the tank is placed on its side on 
+level ground, what is the height, in feet, of the surface of the water above the ground? 
+Ans: We know that the volume of cylinder =  
+π 
+r 
+2 
+h 
+πr2h 
+ 
+Given tank hight = 4ft. 
+⇒ 
+⇒ 
+  
+π 
+r 
+2 
+4 
+πr24 
+ = 36 
+π 
+
+ 
+π 
+ 
+⇒ 
+⇒ 
+ r = 3 
+So the radius is 3 which means the diameter is 6. 
+ 
+ 
+As the cylinder is filled to initially exactly half of the capacity, When this cylinder is placed on its side, 
+Water comes upto the height of the radius. 
+So water comes upto 3 ft.  
+ 
+7) The present ratio of students to teachers at a certain school is 30 to 1. If the student enrollment 
+were to increase by 50 students and the number of teachers were to increase by 5, the ratio of the 
+teachers would then be 25 to 1 What is the present number of teachers? 
+Assume the present students and teachers are 30K, K 
+After new recruitments of students and teachers the strength becomes  30K + 50, K + 5 respectively. 
+But given that this ratio = 25 : 1 
+⇒ 
+30 
+K 
++ 
+50 
+K 
++ 
+5 
+= 
+25 
+1 
+⇒30K+50K+5=251 
+ 
+Solving we get K = 15 
+So present teachers are 15. 
+ 
+
+ 
+8) College T has 1000 students. Of the 200 students majoring in one or more of the sciences,130 
+are majoring in Chemistry and 150 are majoring in Biology. If at least 30 of the students are not 
+majoring in either Chemistry or Biology, then the number of students majoring in both Chemistry and 
+Biology could be any number from 
+If we assume exactly 30 students are not  majoring in any subject then the students who take atleast 
+one subject = 200 - 30 = 170 
+We know that n(A 
+∪ 
+∪ 
+B) = n(A) + n(B) - n(A 
+∩ 
+∩ 
+B) 
+⇒ 
+⇒ 
+ 170 = 130 + 150 - n(A 
+∩ 
+∩ 
+B) 
+Solving we get n(A 
+∩ 
+∩ 
+B)  = 110. 
+i.e., Students who can take both subjects are 110 
+But If more than 30 students are not taking any subject, what can be the maximum number of 
+students who can take both the subjects? 
+As there are 130 students are majoring in chemistry, assume these students are taking biology also. 
+So maximum students who can take both the subjects is 130 
+ 
+So the number of students who can take both subjects can be any number from 110 to 130. 
+ 
+9) Kelly and Chris are moving into a new city. Both of them love books and thus packed several 
+boxes with books. If Chris packed 60% of the total number of boxes, what was the ratio of the 
+number of boxes Kelly packed to the number of boxes Chris packed? 
+Simple questions.  If chris packs 60% of the boxes, kelly packs remaining 40% 
+So Kelly : Chris = 40% : 60% = 2 : 3 
+
+ 
+ 
+10) Among a group of 2500 people, 35 percent invest in municipal bonds, 18 percent invest in oil 
+stocks, and 7 percent invest in both municipal bonds and oil stocks. If 1 person is to be randomly 
+selected from 2500 people, what is the probability that the person selected will be one who invests in 
+municipal bonds but not in oil stocks? 
+Ans: Here 2500 is redundant  
+ 
+ 
+From the diagram we know that only ones who invested in municipal bonds are 28%, the probability 
+is 28 / 100 = 7/25 
+ 
+11) Machine A produces bolts at a uniform rate of 120 every 40 second, and Machine B produces 
+bolts at a uniform rate of 100 every 20 seconds. If the two machines run simultaneously, how many 
+seconds will it take for them to produce a total of 200 bolts? 
+Ans: Machine A produces 120/40 = 3 bolts in 1 second and machine B produces 100/20 = 5 bolts in 
+one second. 
+Hence, both of them will produce 8 bolts per second. 
+Hence, they wil take 200/8 = 25 seconds to produce 200 bolts. 
+ 
+12) How many prime numbers between 1 and 100 are factors of 7150? 
+Ans: 7, 150 =  
+2 
+× 
+5 
+2 
+× 
+11 
+× 
+13 
+2×52×11×13 
+ 
+So there are 4 distinct prime numbers that are below 100 
+ 
+13) Analyzing the good returns that Halocircle Insurance Pvt Ltd was giving, Ratika bought a 1-year, 
+Rs 10,000 certificate of deposit that paid interest at an annual rate of 8% compounded 
+semi-annually.What was the total amount of interest paid on this certificate at maturity? 
+
+ 
+This is a question on compound interest to be calculated semi annually.  
+In the case of semi annual compounding, Interest rate becomes half and Number of periods 
+becomes 2 per year. 
+So A = P 
+( 
+1 
++ 
+R 
+100 
+) 
+n 
+(1+R100)n 
+ 
+⇒ 
+A 
+= 
+10 
+, 
+000 
+( 
+1 
++ 
+4 
+100 
+) 
+2 
+= 
+10 
+, 
+000 
+× 
+26 
+25 
+⇒A=10,000(1+4100)2=10,000×2625 
+ 
+= 10,816 
+Interest = A - P = 10, 816 - 10,000 = 816 
+ 
+14) Juan is a gold medalist in athletics. In the month of May, if Juan takes 11 seconds to run y yards, 
+how many seconds will it take him to run x yards at the same rate? 
+Ans: If juan takes 11 seconds to run Y yards, for 1 yard he will take 11 / y seconds.  To run x yards 
+his time will be 11 / y  
+
+ 
+× 
+× 
+ x = 11x/ y 
+ 
+15) A certain company retirement plan has a rule of 70 provision that allows an employee to retire 
+when the employee's age plus years of employment with the company total at least 70. In what year 
+could a female employee hired in 1986 on her 32nd birthday first be eligible to retire under this 
+provision?https://www.freshersnow.com/placement-papers-download/ 
+Assume it has taken x years to the female employee to reach the rule of 70. 
+So her age should be 32 + x.  Also she gains x years of experience. 
+⇒ 
+⇒ 
+ (32 + x) + x = 70 
+⇒ 
+⇒ 
+ x = 19. 
+Her age at the time of retirement = 1986 + 19 = 2005 
+ 
+16) Of the following, which is the closest approximation of (50.2*0.49)/199.8 ? 
+ans: For approximation (50.2 
+× 
+× 
+0.49)/199.8 can be taken as 
+50 
+× 
+× 
+0.5/200 = 25/200 = 1/8 = 0.125 
+ 
+17) Andalusia has been promoting the importance of health maintenance. From January 1,1991 to 
+January 1,1993, the number of people enrolled in health maintenance organizations increased by 15 
+percent. The enrollment on January 1,1993 was 45 million. How many million people(to the nearest 
+million) was enrolled in health maintenance organizations on January 1,1991? 
+Ans: If a number K is to be increased by x % it should be multiplied by  
+( 
+100 
++ 
+x 
+) 
+100 
+(100+x)100 
+ 
+So When the enrollment in January 1, 1991 is multiplied by  
+( 
+
+ 
+100 
++ 
+x 
+) 
+100 
+(100+x)100 
+ we got 45 million.  
+K 
+× 
+( 
+100 
++ 
+15 
+) 
+100 
+= 
+45 
+K×(100+15)100=45 
+ 
+K =  
+45 
+× 
+100 
+115 
+45×100115 
+ = 39.13 
+ 
+18) What is the lowest possible integer that is divisible by each of the integers 1 through 7, 
+inclusive? 
+Ans: If a number has to be divisible by each number from 1 to 7, that number should be L.C.M 
+of(1,2,3,4,5,6,7) = 420 
+ 
+19) If the area of a square region having sides of length 6 cms is equal to the area of a rectangular 
+region having width 2.5 cms, then the length of the rectangle, in cms, is 
+Ans: Given Area of the square = Area of rectangle 
+⇒ 
+a 
+2 
+= 
+l 
+. 
+b 
+
+ 
+⇒a2=l.b 
+ 
+Substituting the above values in the formula 
+⇒ 
+6 
+2 
+= 
+l 
+.2 
+.5 
+⇒62=l.2.5 
+ 
+⇒ 
+⇒ 
+ l = 14.4 cm 
+ 
+20) A tank contains 10,000 gallons of a solution that is 5 percent sodium chloride by volume. If 2500 
+gallons of water evaporate from the tank, the remaining solution will be approximately what 
+percentage of sodium chloride? 
+Ans: Sodium chloride in the original solution = 5% of 10,000 = 500 
+Water in the original solution = 10,000 - 500 = 9,500 
+If 2,500 Liters of the water is evaporated then the remaining water = 9,500 - 2,500 = 7,000 
+Sodium chloride concentration =  
+500 
+500 
++ 
+7000 
+× 
+100 
+500500+7000×100 
+ = 6.67 % 
+(concentration should be calculated always on the total volume) 
+ 
+21) After loading a dock, each worker on the night crew loaded 3/4 as many boxes as each worker 
+on the day of the crew. If the night crew has 4/5 as many workers as the day crew, what fraction of 
+all the boxes loaded by two crews did the day crew load? 
+ Assume the number of boxes loaded in dayshift is equal to 4, then the number of boxed loaded in 
+night shift = 3 
+Assume the worked on dayshift = 5, then workers on night shift = 4 
+
+ 
+ 
+ 
+So boxes loaded in day shift = 4 x 5 = 20, and boxes loaded in night shift = 3 x 4 = 12 
+so fraction of boxes loaded in day shift =  
+20 
+20 
++ 
+12 
+= 
+5 
+8 
+2020+12=58 
+ 
+ 
+22) A bakery opened yesterday with its daily supply of 40 dozen rolls. Half of the rolls were sold by 
+noon and 80 % of the remaining rolls were sold between noon and closing time. How many dozen 
+rolls had not been sold when the bakery closed yesterday? 
+Ans: If half of the rolls were sold by noon, the remaining are 50 % (40) = 20.  
+Given 80% of the remaining were sold after the noon to closing time 
+⇒ 
+⇒ 
+ 80% (20) = 16 
+Unsold = 20 - 16 = 4 
+ 
+23) If N=4P, where P is a prime number greater than 2, how many different positive even divisors 
+does n have including n? 
+Ans: N =  
+2 
+2 
+× 
+P 
+1 
+22×P1 
+ 
+We know that total factors of a number which is in the format of  
+a 
+P 
+
+ 
+× 
+b 
+Q 
+× 
+c 
+R 
+. 
+. 
+. 
+aP×bQ×cR... 
+ = (P + 1). (Q + 1). (R + 1) .... = (2 + 1).(1 + 1) = 6 
+Also odd factors of any number can be calculated easily by not taking 2 and its powers. 
+So odd factors of  
+2 
+2 
+× 
+P 
+1 
+22×P1 
+ = the factors of  
+P 
+1 
+P1 
+ = (1 + 1) = 2 
+Even factors of the number = 6 - 2 = 4 
+ 
+24) A dealer originally bought 100 identical batteries at a total cost of q rupees. If each battery was 
+sold at 50 percent above the original cost per battery, then, in terms of q, for how many rupees was 
+each battery sold? 
+Ans: Per battery cost = q / 100 
+If each battery is sold for 50% gain, then selling price =  
+C 
+o 
+s 
+t 
+P 
+r 
+i 
+c 
+e 
+× 
+( 
+100 
+
+ 
++ 
+G 
+a 
+i 
+n 
+100 
+) 
+CostPrice×(100+Gain100) 
+ 
+⇒ 
+⇒ 
+  
+q 
+100 
+× 
+( 
+100 
++ 
+50 
+100 
+) 
+= 
+3 
+q 
+200 
+q100×(100+50100)=3q200 
+ 
+ 
+25) The price of lunch for 15 people was 207 pounds, including a 15 percent gratuity of service. 
+What was the average price per person, EXCLUDING the gratuity? 
+Ans: Let the net price excluding the gratuity of service = x pounds 
+Then, total price including 15% gratuity of service =  
+x 
+× 
+( 
+100 
++ 
+15 
+100 
+) 
+x×(100+15100) 
+ = 1.15 x pounds 
+
+ 
+So, 1.15 x = 207 pounds 
+  
+⇒ 
+⇒ 
+ x = 207 / 1.15 = 180 pounds 
+Net price of lunch for each person = 180 / 15 = 12 pounds 
+ 

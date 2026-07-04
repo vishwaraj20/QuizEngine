@@ -18,6 +18,7 @@ export default function CategoryQuizzesPage() {
   const [quizzes, setQuizzes] = useState([]);
   const [loading, setLoading] = useState(true);
   const [leaderboard, setLeaderboard] = useState([]);
+  const [selectedSubCategory, setSelectedSubCategory] = useState(null);
 
   const pyqQuizzes = quizzes.filter(q => q.quiz_mode === 'PYQ Papers' || q.title.includes('Prelims 2')).sort((a, b) => (b.year||b.title).localeCompare(a.year||a.title));
   const gspyqQuizzes = pyqQuizzes.filter(q => q.title.includes('GS Paper') || q.subject === 'General Studies' || (!q.title.toLowerCase().includes('csat') && (q.quiz_mode === 'PYQ Papers' || q.title.includes('Prelims 2'))));
@@ -59,6 +60,8 @@ export default function CategoryQuizzesPage() {
 
   const isCompanyCategory = categoryName.includes(' - ');
   const companyName = isCompanyCategory ? categoryName.split(' - ')[0] : null;
+  const isTcsNinjaFolder = categoryName === 'TCS - TCS Ninja';
+  
   const backUrl = isCompanyCategory ? `/dashboard/company/${companyName}` : '/dashboard#categories';
   const backLabel = isCompanyCategory ? `Back to ${companyName} Prep` : 'Back to Categories';
 
@@ -72,7 +75,10 @@ export default function CategoryQuizzesPage() {
       const res = await fetch("http://localhost:5000/api/quizzes");
       const data = await res.json();
       if (Array.isArray(data)) {
-         setQuizzes(data.filter(q => q.category === categoryName));
+         let filtered = data.filter(q => q.category === categoryName || q.category.startsWith(categoryName + ' -'));
+         // Sort ascending by title (e.g. Question Bank 1, 2, 3...)
+         filtered.sort((a, b) => (a.title || '').localeCompare(b.title || '', undefined, { numeric: true }));
+         setQuizzes(filtered);
       } else {
          console.error("Fetch quizzes failed:", data);
          setQuizzes([]);
@@ -197,6 +203,10 @@ export default function CategoryQuizzesPage() {
   if (loading) return <div className="min-h-screen flex items-center justify-center bg-gray-50 dark:bg-slate-900">Loading {categoryName} quizzes...</div>;
 
   const isPSC = categoryName === 'UPSC' || categoryName === 'MPSC';
+
+  const displayedQuizzes = (isTcsNinjaFolder && selectedSubCategory)
+      ? quizzes.filter(q => q.category === selectedSubCategory)
+      : quizzes;
 
   return (
     <div className="min-h-screen bg-gray-50/50 dark:bg-slate-900/50 p-6 md:p-12">
@@ -463,19 +473,55 @@ export default function CategoryQuizzesPage() {
              <StageSection stageLabel="Stage 2: Mains Exam" sectionQuizzes={stage2Quizzes} />
              <StageSection stageLabel="Stage 3: Personality Test (Interview)" sectionQuizzes={stage3Quizzes} />
           </div>
+        ) : (isTcsNinjaFolder && !selectedSubCategory) ? (
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
+            <div 
+              onClick={() => setSelectedSubCategory('TCS - TCS Ninja - Quantitative')}
+              className="cursor-pointer bg-white dark:bg-slate-800 p-10 rounded-[3rem] border border-gray-100 dark:border-slate-700 shadow-sm hover:shadow-xl hover:border-blue-200 transition-all group flex flex-col items-center text-center relative overflow-hidden"
+            >
+              <div className="absolute top-0 right-0 w-32 h-32 bg-blue-50/50 rounded-bl-[5rem] group-hover:bg-blue-600/10 transition-colors"></div>
+              <div className="text-6xl mb-6 transform group-hover:scale-110 transition-transform">🔢</div>
+              <h3 className="text-3xl font-black text-gray-900 dark:text-white mb-2">Quantitative Aptitude</h3>
+              <p className="text-gray-500 dark:text-gray-400 font-medium text-sm mb-6">Numerical Ability Mock Tests</p>
+              <div className="mt-auto px-6 py-2 bg-gray-50 dark:bg-slate-900 text-gray-400 group-hover:bg-blue-600 group-hover:text-white rounded-full text-xs font-bold uppercase tracking-widest transition flex items-center">
+                Open Folder <ArrowLeft className="w-4 h-4 ml-1 rotate-180" />
+              </div>
+            </div>
+
+            <div 
+              onClick={() => setSelectedSubCategory('TCS - TCS Ninja - Verbal')}
+              className="cursor-pointer bg-white dark:bg-slate-800 p-10 rounded-[3rem] border border-gray-100 dark:border-slate-700 shadow-sm hover:shadow-xl hover:border-blue-200 transition-all group flex flex-col items-center text-center relative overflow-hidden"
+            >
+              <div className="absolute top-0 right-0 w-32 h-32 bg-purple-50/50 rounded-bl-[5rem] group-hover:bg-purple-600/10 transition-colors"></div>
+              <div className="text-6xl mb-6 transform group-hover:scale-110 transition-transform">📚</div>
+              <h3 className="text-3xl font-black text-gray-900 dark:text-white mb-2">Verbal Ability</h3>
+              <p className="text-gray-500 dark:text-gray-400 font-medium text-sm mb-6">English & Grammar Mock Tests</p>
+              <div className="mt-auto px-6 py-2 bg-gray-50 dark:bg-slate-900 text-gray-400 group-hover:bg-purple-600 group-hover:text-white rounded-full text-xs font-bold uppercase tracking-widest transition flex items-center">
+                Open Folder <ArrowLeft className="w-4 h-4 ml-1 rotate-180" />
+              </div>
+            </div>
+          </div>
         ) : (
           <div className="mb-12">
-            <div className="flex items-center gap-3 mb-8">
-               <div className="w-10 h-10 rounded-xl bg-blue-50 dark:bg-slate-900 text-blue-600 dark:text-blue-400 flex items-center justify-center">
-                  <BrainCircuit className="w-5 h-5" />
+            <div className="flex items-center justify-between mb-8">
+               <div className="flex items-center gap-3">
+                  <div className="w-10 h-10 rounded-xl bg-blue-50 dark:bg-slate-900 text-blue-600 dark:text-blue-400 flex items-center justify-center">
+                     <BrainCircuit className="w-5 h-5" />
+                  </div>
+                  <div>
+                     <h2 className="text-2xl font-black text-gray-900 dark:text-white tracking-tight">Available Practice Modules</h2>
+                     <p className="text-gray-400 font-medium text-xs">All modules for {selectedSubCategory || categoryName}</p>
+                  </div>
                </div>
-               <div>
-                  <h2 className="text-2xl font-black text-gray-900 dark:text-white tracking-tight">Available Practice Modules</h2>
-                  <p className="text-gray-400 font-medium text-xs">All modules for {categoryName}</p>
-               </div>
+               
+               {isTcsNinjaFolder && selectedSubCategory && (
+                 <button onClick={() => setSelectedSubCategory(null)} className="px-5 py-2.5 bg-white dark:bg-slate-800 hover:bg-gray-50 dark:hover:bg-slate-700 border border-gray-200 dark:border-slate-600 text-gray-700 dark:text-gray-300 rounded-full font-bold text-xs tracking-wide transition-colors flex items-center gap-2 shadow-sm">
+                   <ArrowLeft className="w-4 h-4" /> Back to Folders
+                 </button>
+               )}
             </div>
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-              {quizzes.map(quiz => (
+              {displayedQuizzes.map(quiz => (
                 <div key={quiz.id} className="bg-white dark:bg-slate-800 p-7 rounded-[2rem] border border-gray-100 dark:border-slate-700 shadow-sm hover:shadow-xl transition-all group flex flex-col h-full">
                    <div className="flex justify-between items-start mb-4">
                       <div className="p-2 bg-gray-50 dark:bg-slate-900 rounded-xl group-hover:bg-blue-50 transition-colors">
@@ -496,8 +542,8 @@ export default function CategoryQuizzesPage() {
                       <div className="flex items-center"><CheckCircle className="w-4 h-4 mr-2 text-emerald-400"/> {quiz.pass_percent}%</div>
                    </div>
 
-                   <Link href={`/quiz/${quiz.id}`} className="mt-8 w-full py-4 bg-gray-50 dark:bg-slate-900 group-hover:bg-blue-600 text-gray-700 dark:text-gray-300 group-hover:text-white rounded-2xl font-black text-sm text-center transition-all shadow-sm group-hover:shadow-blue-600/20 block">
-                     Start Assessment
+                   <Link href={quiz.category.includes('Question Bank') ? `/material/${quiz.id}` : `/quiz/${quiz.id}`} className="mt-8 w-full py-4 bg-gray-50 dark:bg-slate-900 group-hover:bg-blue-600 text-gray-700 dark:text-gray-300 group-hover:text-white rounded-2xl font-black text-sm text-center transition-all shadow-sm group-hover:shadow-blue-600/20 block">
+                     {quiz.category.includes('Question Bank') ? 'Read Material' : 'Start Assessment'}
                    </Link>
                 </div>
               ))}

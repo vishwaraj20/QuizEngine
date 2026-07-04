@@ -1,0 +1,1306 @@
+
+
+ TCS Ninja programming MCQ’s with answers 
+ TCS Ninja coding questions and answers 
+ TCS Ninja Aptitude & English questions – Answers with Explanations 
+ 
+Brought to you by the N. Rajeev Reddy | More n More @ www.matterhere.com | Google+ - Facebook/matterhere 
+_________________________________________Source: FACE Prep 
+TCS Ninja Mock test questions – Coding section 
+Consider the below series: 
+1, 2, 1, 3, 2, 5, 3, 7, 5, 11, 8, 13, 13, 17, ... 
+This series is a mixture of 2 series – all the odd terms in this series form a Fibonacci series and all the even 
+terms are the prime numbers in ascending order.  
+Write a program to find the Nth term in this series.  
+The value N is a Positive integer that should be read from STDIN. The Nth term that is calculated by the 
+program should be written to STDOUT. Other than the value of Nth term, no other characters/strings or 
+message should be written to STDOUT.  
+For example, when N = 14, the 14th term in the series is 17. So only the value 17 should be printed to 
+STDOUT. 
+Program: 
+#include<stdio.h> 
+#define MAX 1000 
+void fibonacci(int n) 
+{ 
+int i, t1 = 0, t2 = 1, nextTerm; 
+for (i = 1; i<=n; i++) 
+{ 
+nextTerm = t1 + t2; 
+t1 = t2; 
+t2 = nextTerm; 
+} 
+printf(―%d‖, t1); 
+} 
+  
+void prime(int n) 
+{ 
+int i, j, flag, count =0; 
+
+for (i=2; i<=MAX; i++) 
+{ 
+flag = 0; 
+for (j=2; j<i; j++) 
+{ 
+if(i%j == 0) 
+{ 
+flag = 1; 
+break; 
+} 
+} 
+if (flag == 0) 
+count++; 
+if(count == n) 
+{ 
+printf(―%d‖, i); 
+break; 
+} 
+} 
+} 
+int main( ) 
+{ 
+int n; 
+scanf(―%d‖, &n); 
+if(n%2 == 1) 
+fibonacci (n/2 + 1); 
+else 
+prime(n/2); 
+return 0; 
+} 
+TCS Ninja Coding question 1:  
+Factorial program in c using command line arguments. 
+Explanation: Factorial of a non-negative integer n, denoted by n!, is the product of all positive integers less 
+than or equal to n. For example, The value of 5! is 5*4*3*2*1 = 120 
+Solution: 
+#include 
+int main(int a, char *b[])  //command line arguments 
+{ 
+int x,y,f=1; 
+x=atoi(b[1]);   //atoi function is to convert a character to integer 
+for(i=1;i<=x;i++) 
+{ 
+f=f*i; 
+} 
+printf(―%d‖,f); 
+return 0; 
+} 
+
+TCS Ninja Coding question 2:  
+Write a c program, to find the area of a circle when the diameter is given, using command line arguments. The 
+input diameter is an integer and the output area should be a floating point variable with 2 point precision. 
+Solution: 
+#include 
+#define PI 3.14 
+int main(int a, char *b[])   //command line arguments 
+{ 
+int d; float area =0; 
+d= atoi(argv[1]); 
+area =(float) PI*(d/2)*(d/2); 
+printf(―%0.2f‖, area);    //%0.2f is to print the answer with 2 values after decimal point. 
+return 0; 
+} 
+TCS Ninja Coding question 3:  
+Write a c program, to check whether the given year is a leap year or not using command line arguments. A leap 
+year is a calendar year containing one additional day (Feb 29th) added to keep the calendar year synchronized 
+with the astronomical year. 
+Solution: 
+#include 
+int main(int a, char*b[]) 
+{ 
+int year; year=atoi(b[1]); 
+if(year%100==0) 
+{ 
+if(year%400==0) 
+{ 
+printf(―LEAP YEAR‖); 
+} 
+else{ 
+printf(―NOT LEAP YEAR‖); } } 
+else if(year%4==0) 
+{ 
+printf(―LEAP YEAR‖); 
+} 
+else{ 
+printf(―NOT LEAP YEAR‖); 
+} 
+return 0; } 
+Brought to you by the N. Rajeev Reddy | More n More @ www.matterhere.com | Google+ - Facebook/matterhere 
+ 
+
+TCS Ninja Coding question 4: 
+Write a c program, to find the GCD of the given 2 numbers, using command line arguments. The input is 2 
+integer and the output GCD also should be an integer value. 
+Solution: 
+#include 
+int main(int x, char *y[]) 
+{ 
+inta,b,small,i; 
+a=atoi(y[1]); 
+b=atoi(y[2]); 
+small=a>b?b:a; 
+for(i=small;i>=1;i–) 
+{ 
+if((a%i==0)&&(b%i==0)) 
+{ 
+printf(―%d‖,i); 
+break; 
+} } 
+return 0; 
+} 
+TCS Ninja Coding question 5: 
+C Program to check whether a given number is a prime number or not. The given number N, a positive integer, 
+will be passed to the program using the first command line parameter. If it is a prime number the output should 
+be the square root of the number up to 2 decimal point precision, If it is not a prime number then print 0.00 to 
+stdout. 
+Solution: 
+#include 
+#include 
+#include int main(int a, char *b[]) 
+{ 
+int number,i,flag = 1; 
+number = atoi(b[1]); 
+for(i=2; i<number; i++) 
+{ 
+if(number%i == 0) 
+{ 
+flag = 0; 
+break; 
+} 
+} 
+if(flag == 1) 
+printf(―%.2f‖,sqrt(number)); 
+else 
+printf(―0.00‖); 
+return 0; 
+} 
+
+TCS Ninja Coding question 6: 
+C Program to check whether a given number is a strong number or not. The given number N, a positive integer, 
+will be passed to the program using the first command line parameter. If it is a strong number, the output should 
+be ―YES‖, If it is not a prime number then output should be ―NO‖ to stdout. Other than YES or NO, no other 
+extra information should be printed to stdout. 
+Solution: 
+#include 
+#include 
+int main(int a, char *b[]) 
+{ 
+int number, i, temp, sum = 0, factorial = 1; 
+number = atoi(b[1]); 
+temp = number; 
+while(number != 0) 
+{ 
+int rem = number%10; 
+for(i=2; i<=rem; i++) 
+{ 
+factorial = factorial * i; 
+} 
+sum = sum + factorial; 
+number = number/10; 
+factorial = 1; 
+} 
+if(temp == sum) 
+printf(―YES‖); 
+else 
+printf(―NO‖); 
+return 0; 
+} 
+TCS Ninja Coding question 7: 
+Write a C program which will convert a given decimal integer number N to its binary equivalent. The given 
+number N, a positive integer, will be passed to the program using the first command line parameter. Print the 
+equivalent binary number to stdout. Other than the binary number, no other extra information should be printed 
+to stdout Example: Given input ―19‖, here N=19, expected output 10011 
+Solution: 
+#include 
+#include 
+int main(int a, char *argv[]) 
+{ 
+int number, count, i; 
+int b[32]; 
+number = atoi(argv[1]); 
+count = 0; 
+while(number != 0) 
+{ 
+
+b[count]=number%2; 
+number = number/2; 
+count++; 
+} 
+for(i=(count-1); i>=0; i–) 
+printf(―%d‖, b[i]); 
+return 0; 
+} 
+TCS Ninja Coding question 8: 
+Write a c program that will find the sum of all prime numbers in a given range. The range will be specified as 
+command line parameters. The first command line parameter, N1 which is a positive integer, will contain the 
+lower bound of the range. The second command line parameter N2, which is also a positive integer will contain 
+the upper bound of the range. The program should consider all the prime numbers within the range, excluding 
+the upper bound and lower bound. Print the output in integer format to stdout. Other than the integer number, 
+no other extra information should be printed to stdout. Example Given inputs ―7‖ and ―24‖ here N1= 7 and 
+N2=24, expected output as 83. 
+Solution: 
+#include  
+int main(int argc, char *argv[]) 
+{ 
+int N1, N2, j, i, count, sum = 0; 
+N1 =atoi(argv[1]); 
+N2 =atoi(argv[2]); 
+for(i=N1+1; i<N2; ++i) 
+{ 
+count = 0; 
+for(j=2; j<=(i/2); j++) 
+{ 
+if(i%j==0) 
+{ 
+count++; 
+break; 
+} 
+} 
+if(count==0) 
+sum = sum + i; 
+} 
+printf(―%d‖,sum); 
+return 0; 
+} 
+Brought to you by the N. Rajeev Reddy | More n More @ www.matterhere.com | Google+ - Facebook/matterhere 
+ 
+TCS Ninja Coding question 9: 
+Write a C program to check whether the given number is a perfect square or not using command line 
+arguments. 
+
+Solution: 
+#include 
+#include 
+int main(int a, char *b[]) 
+{ 
+int n, i; 
+n= atoi(b[1]); 
+for(i = 0; i <= n; i++) 
+{ 
+if(n == i * i) 
+{ 
+printf(―YES‖); 
+return 0; 
+} 
+} 
+printf(―NO‖); 
+return 0; 
+} 
+TCS Ninja Coding question 10: 
+Write a C program to check whether the given number is Palindrome  or not using command line arguments. 
+Solution: 
+#include 
+#include 
+int main(int a,int *b[]) 
+{ 
+int  number, rem, sum = 0; 
+number = atoi(b[1]); 
+int copy = number; 
+while(number != 0) 
+{ 
+rem =number%10; 
+sum = sum * 10 + rem; 
+number = number/10; 
+} 
+if(copy == sum) 
+printf(―Palindrome‖); 
+else 
+printf(―Not Palindrome‖); 
+return 0; 
+} 
+TCS Ninja Coding question 11: 
+Write a C program to convert the vowels to an uppercase in a given string using command line arguments. 
+Example: if the input is tata, then the expected output is tAtA. 
+
+Solution: 
+#include 
+int main(int argc, char *argv[]) 
+{ 
+char *str = argv[1]; 
+int i; 
+for(i =0; str[i] !=‘\0′; i++) 
+{ 
+if(str[i] ==  ̳a‘ || str[i] ==  ̳e‘ || str[i] ==  ̳i‘ || str[i] ==  ̳o‘ || str[i] ==  ̳u‘) 
+{ 
+str[i] = str[i] – 32; 
+} 
+} 
+printf(―%s‖, str); 
+return 0; 
+} 
+TCS Ninja Coding question 12: 
+Write a C program to find the hypotenuse of a triangle using command line arguments. 
+Solution: 
+#include int main(int a, char*b[]) 
+{ 
+float hyp; 
+int opp=atoi(b[1]); 
+int adj=atoi(b[2]); 
+hyp=sqrt((opp*opp)+(adj*adj)); 
+printf(―%0.2f‖,hyp); 
+return 0; 
+} 
+TCS Ninja Coding question 13: 
+Write a C program to find whether the given number is an Armstrong number or not using command line 
+arguments. 
+An Armstrong number of three digits is an integer such that the sum of the cubes of its digits is equal to the 
+number itself. For example, 371 is an Armstrong number since 3**3 + 7**3 + 1**3 = 371. 
+Solution: 
+#include 
+#include 
+#include int main(int a, char*b[]) 
+{ 
+int n; 
+n= atoi(b[1]); 
+int sum=0; 
+
+int temp=n; 
+int cnt=0; 
+while(n!=0) 
+{ 
+n=n/10; 
+cnt++; 
+} 
+n=temp; 
+while(n!=0) 
+{ 
+int rem=n%10; 
+sum=sum+pow(rem,cnt); 
+n=n/10; 
+} 
+if(temp==sum) 
+{ 
+printf(―yes‖); 
+} 
+else 
+{ 
+printf(―no‖); 
+} 
+return 0; 
+} 
+TCS Ninja Coding question 14: 
+Write a program to generate Fibonacci Series. 
+Solution: 
+#include 
+#include 
+int main(int a, char *b[]) 
+{ 
+int i, n, t1 = 0, t2 = 1, nextTerm; 
+n=atoi(b[1]); 
+for (i = 1; i <= n; ++i) 
+{ 
+printf(―%d ―, t1); 
+nextTerm = t1 + t2; 
+t1 = t2; 
+t2 = nextTerm; 
+} 
+return 0; 
+} 
+Brought to you by the N. Rajeev Reddy | More n More @ www.matterhere.com | Google+ - Facebook/matterhere 
+ 
+ 
+ 
+
+TCS Ninja Programming MCQ’s 
+TCS Ninja mock test – Programming MCQ’s (Standard) 
+1) 
+#include 
+int main(int argc, char ** argv) 
+{ 
+char **items; 
+int j = 3, i; 
+items = argv; 
+for(i = 1; (i%4); i++) 
+{ 
+int **p = &items[j]; 
+printf(―%c‖, **p); 
+j–; 
+} 
+return 0; 
+} 
+The above code is run with three command line parameters mentioned below:  
+Paper Ink Pen 
+What will be the output of the above program? 
+1. PIP 
+2. Pen 
+3. Pap 
+4. Ink 
+Answer: a 
+2) Improper formation of which of the following data-structures can cause un-intentional looping of a program 
+that uses it. 
+2. Linked list 
+3. Array 
+4. Queue 
+5. Stack 
+Answer: Linked list 
+3) What is the data type that occupies the least storage in ―C‖ language? 
+Please give the answer in the blank line: __________ 
+Answer: char 
+
+4) Which of the following is true? 
+a. Array is a dynamic data structure whose size can be changed while stacks are static data structures whose 
+sizes are fixed. 
+b. Array elements can be accessed and modified(elements can be added or removed) only at the ends of the 
+array while any elements of the stack can be accessed or modified randomly through their indices.  
+c. An array can have elements of different data types.  
+d. Elements of a linked-list can be accessed only sequentially. 
+Answer: d 
+5) Which of the following statements is FALSE? 
+a. The time complexity of binary search is O(log n). 
+b. A linear search requires a sorted list. 
+c. A binary search can operate only on a sorted list. 
+d. The time complexity of linear search is O(n). 
+Answer: b 
+6) Eesha wrote a function fact( ) in ―C‖ language to calculate factorial of a given number and saved the file as 
+fact.c. She forgot to code the main function to call this fact function. Will she be able to compile this fact.c 
+without the main() function? 
+a. Yes, she can compile provided the compiler option -nostrict-checking is enabled. 
+b. No, she can not compile as main function is required to compile any C program file. 
+c. Yes, she can compile as main( ) is not required at compile time. 
+d. Yes, she can compile and run as the system will supply default values to fact function. 
+Answer: b 
+7) The difference between variable declaration and variable definition is: 
+a. Declaration and definition are the same. There is no difference. 
+b. A declaration is used for variables and definitions is used for functions. 
+c. Declaration associates type to the variable whereas definition associates scope to the variable.  
+d. Declaration associates type to the variable whereas definition gives the value to the variable. 
+ Answer: d 
+TCS Ninja Mock test Questions – Programming Concepts (Advanced Section) 
+1) The inorder and preorder traversal of a binary tree are d b e a f c g and a b d e c f g, respectively. The post-
+order traversal of the binary tree is:  
+a. d e b f g c a 
+b. d e f g b c a 
+c. e d b f g c a 
+d. e d b g f c a  
+Answer: a 
+
+2) Eesha wrote a recursive function that takes the first node in a linked list as an argument, reverses the list, 
+returning the first Node in the result. The pseudo code for this function is given below. However, she did not 
+get the correct result. In which line number did she make a mistake? 
+Please give the answer in the blank line: ____________ 
+public Node  reverse(Node first) 
+{ 
+if (first == null)   return null; 
+if (first.next == null)   return first; 
+Node second = first.next; 
+Node rest  = reverse (second); 
+second.next = first; 
+first.next = null; 
+return rest.next; 
+} 
+Answer: return rest 
+3) The longest common subsequence (LCS) problem is the problem of finding the longest subsequence 
+common to a set of sequences (often just two sequences). A subsequence is a sequence that can be derived from 
+another sequence by deleting some or no elements without changing the order of the remaining elements. One 
+form of implementation of LCS function is given below. The function takes as input sequences X[1...m] and 
+Y[1...n], computes the length of the Longest common subsequence between X[1..i] and Y[1..j] for all 1<i < m 
+and 1< j < n, and stores it in C[i,j]. C[m,n] will contain the length of the LCS of X and Y. 
+function LCSLength(X[1..m], Y[1..n]) 
+C = array(0..m, 0..n) 
+for i:= 0..m 
+C[i,0] =0 
+for j := 0..n 
+C[0,j] = 0d 
+for i := 1..m 
+for j := 1..n 
+if X[i]  =  Y[j] 
+C[i,j] := C[i-1, j-1] + 1 
+else 
+C[i,j] := max(C[i, j-1], C[i-1, j]) 
+return C[m, n] 
+Eesha used the above algorithm to calculate the LCS length between ―kitten‖ and ―string‖. What was the result 
+she got? Please give the answer in the blank line. ___________ 
+ Answer: 2 
+Brought to you by the N. Rajeev Reddy | More n More @ www.matterhere.com | Google+ - Facebook/matterhere 
+ 
+ 
+
+TCS Ninja Programming MCQ’s (previously asked) 
+1) How many times the below loop will be executed? 
+#include 
+int main() 
+{ 
+int x, y; 
+for(x=5;x>=1;x–) 
+{ 
+for(y=1;y<=x;y++) 
+printf(―%d\n‖,y); 
+} } 
+A. 15 
+B. 11 
+C. 10 
+D. 13 
+Solution: Option A 
+2) Where are the local variables stored? 
+A. Disk 
+B. Stack 
+C. Heap 
+D. Code 
+Solution: Option B 
+3) Which datatype has more precision? 
+A. double 
+B. float 
+C. int 
+D. long int 
+4) Find the output of the following code? 
+int main 
+{ 
+float f = 0.1; 
+if (f = 0.1) 
+printf (―yes‖); 
+else print (―no‖); 
+} 
+5) What will happen if in a C program you assign a value to an array element whose subscript exceeds the size 
+of array? 
+
+A. The element will be set to 0. 
+B. The compiler would report an error. 
+C. The program may crash if some important data gets overwritten. 
+D. The array size would appropriately grow. 
+Solution: Option C 
+ 
+Explanation: If the index of the array size is exceeded, the program will crash. Hence ―option c‖ is the correct 
+answer. But the modern compilers will take care of this kind of errors. 
+6) What does the following declaration mean? 
+int (*ptr)[10]; 
+A.ptr is array of pointers to 10 integers 
+B.ptr is a pointer to an array of 10 integers 
+C.ptr is an array of 10 integers 
+D.ptr is an pointer to array 
+Solution: Option B 
+7) In C, if you pass an array as an argument to a function, what actually gets passed? 
+A.Value of elements in array 
+B.First element of the array 
+C.Base address of the array 
+D.Address of the last element of array 
+Solution: Option C 
+Explanation: The statement  ̳C‘ is correct. When we pass an array as a function argument, the base address of 
+the array will be passed. 
+8) What will be the output of the program ? 
+#include 
+int main() 
+{ 
+    int a[5] = {5, 1, 15, 20, 25}; 
+    int i, j, m; 
+    i = ++a[1]; 
+    j = a[1]++; 
+    m = a[i++]; 
+    printf(―%d, %d, %d‖, i, j, m); 
+    return 0; 
+} 
+A. 2, 1, 15              
+B. 1, 2, 5 
+
+C. 3, 2, 15              
+D. 2, 3, 20 
+Solution: Option C 
+Explanation: 
+Step 1: int a[5] = {5, 1, 15, 20, 25}; The variable arr is declared as an integer array with a size of 5 and it is 
+initiapzed to 
+a[0] = 5, a[1] = 1, a[2] = 15, a[3] = 20, a[4] = 25 . 
+Step 2: int i, j, m; The variable i,j,m are declared as an integer type. 
+Step 3: i = ++a[1]; becomes i = ++1; Hence i = 2 and a[1] = 2 
+Step 4: j = a[1]++; becomes j = 2++; Hence j = 2 and a[1] = 3. 
+Step 5: m = a[i++]; becomes m = a[2]; Hence m = 15 and i is incremented by 1(i++ means 2++ so i=3) 
+Step 6: printf(―%d, %d, %d‖, i, j, m); It prints the value of the variables i, j, m 
+Hence the output of the program is 3, 2, 15 
+9) Is there any difference int the following declarations? 
+int fun(int arr[]); 
+int fun(int arr[2]); 
+A.Yes 
+B.No 
+Solution: Option B 
+Explanation:  No, both the statements are same. It is the prototype for the function fun() that accepts one 
+integer array as a parameter and returns an integer value. 
+10) Are the expressions arr and &arr same for an array of 10 integers? 
+A.Yes     
+B.No 
+Solution: Option B 
+Explanation: Both mean two different things. arr gives the address of the first int, whereas the &arr gives the 
+address of array of ints.  
+11) Which of the fplowing statements should be used to obtain a remainder after dividing 3.14 by 2.1? 
+A.rem = 3.14 % 2.1; 
+B.rem = modf(3.14, 2.1); 
+C.rem = fmod(3.14, 2.1); 
+D.Remainder cannot be obtain in floating point division. 
+Solution: Option C 
+Explanation: 
+fmod(x,y) – Calculates x modulo y, the remainder of x/y. 
+This function is the same as the modulus operator. But fmod() performs floating point divisions. 
+Brought to you by the N. Rajeev Reddy | More n More @ www.matterhere.com | Google+ - Facebook/matterhere 
+
+ 
+12) What are the types of pnkages? 
+A.Internal and External 
+B.External, Internal and None 
+C.External and None      
+D.Internal 
+Solution: Option B 
+13) Which of the following special symbols are allowed in a variable name? 
+A.* (asterisk)     
+B.| (pipepne) 
+C.-(hyphen) 
+D._(underscore) 
+Solution: Option D 
+ 
+Explanation:  Variable names in C are made up of letters (upper and lower case) and digits. The underscore 
+character (―_‖) is also permitted. Names must not begin with a digit.  
+14) Is there any difference between fplowing declarations? 
+1 : extern int fun(); 
+2 : int fun(); 
+A. Both are identical 
+B. No difference, except extern int fun(); is probably in another file 
+C. int fun(); is overrided with extern int fun(); 
+D. None of these 
+Answer: Option B 
+ 
+Explanation: extern int fun(); declaration in C is to indicate the existence of a global function and it is defined 
+externally to the current module or in another file. 
+int fun(); declaration in C is to indicate the existence of a function inside the current module or in the same file. 
+ 
+ 
+ 
+ 
+
+TCS Ninja English questions  
+TCS Ninja Mock test questions and solutions – English section 
+A greenhouse is a glass-covered structure  (1) __________  (uses, using, used) to grow plants. It has transparent 
+glass that allows sunlight to pass (2) ________ (out, through , inside), but does not allow the heat inside to 
+escape. The same (3) ________  (effect, affect) occurs on the earth. The (4) ________ (sun‘s, suns, sun) 
+radiation (5) __________ (passes, passing) through the atmosphere to heat the earth‘s surface. When heated, the 
+earth‘s surface produces infrared radiation, which has a longer wavelength than that of sunlight. This infrared 
+radiation rises into the atmosphere where gases, such as carbon dioxide, (6) ____________ (prevents, prevent, 
+prevented) the infrared radiation from escaping into space. The concentrations of these gases, (7) __________ 
+(that, those, which) are called greenhouse gases, control how much-infrared radiation escapes.  
+(1) used 
+(2) through 
+(3) effect 
+(4) sun‘s 
+(5) passes 
+(6) prevent 
+(7) which 
+ Brought to you by the N. Rajeev Reddy | More n More @ www.matterhere.com | Google+ - Facebook/matterhere 
+ 
+TCS Ninja English questions (sample questions) 
+1) Read each sentence to find out whether there is any grammatical error in it. The error, if any will be in one 
+part of the sentence. The letter of that part is the answer. If there is no error, the answer is  ̳D‘. (Ignore the 
+errors of punctuation, if any). 
+a. I could not put up in a hotel 
+b. because the boarding and lodging charges 
+c. were exorbitant. 
+d. No error. 
+ 
+Answer: a 
+ ̳I could not put up at a hotel‘ 
+2) 
+
+a.  A lot of travel delay is caused 
+b. due to the inefficiency and lack of good management 
+c. on behalf of the railways. 
+d. No error. 
+ 
+Answer: c 
+on the part of the railways 
+3) 
+a. Having received your letter 
+b. this morning, we are writing 
+c. to thank you for the same. 
+d. No error. 
+ 
+Answer: D 
+4) 
+a. Do the roses in your garden smell 
+b. more sweetly 
+c. than those in ours? 
+d. No error. 
+ 
+Answer: B 
+sweeter 
+5) 
+a. The students were 
+b. awaiting for 
+c. the arrival of the chief guest. 
+d. No error. 
+ 
+Answer: b 
+6) Identify the meaning of the idiom:  To catch a tartar 
+a. To trap wanted criminal with great difficulty 
+b. To catch a dangerous person 
+c. To meet with disaster 
+d. To deal with a person who is more than one‘s match 
+ 
+Answer: b 
+
+7) To have an axe to grind 
+a. A private end to serve 
+b. To fail to arouse interest 
+c. To have no result 
+d. To work for both sides 
+ 
+Answer: a 
+8) Complete the below sentences: I felt somewhat more relaxed _______ 
+a. but tense as compared to earlier 
+b. and tense as compared to earlier 
+c. as there was already no tension at all 
+d. and tension-free as compared to earlier 
+ 
+Answer: d 
+9) His appearance is unsmiling but _______ 
+a. his heart is full of compassion for others 
+b. he looks very serious on most occasions 
+c. people are afraid of him 
+d. he is uncompromising on matters of task performance 
+ 
+Answer: a 
+10) DIVA: OPERA 
+a. producer:theatre 
+b. director:drama 
+c. conductor:bus 
+d. thespian:play 
+ 
+Answer: d 
+11) GRAIN:SALT 
+a. shard:pottery 
+b. shred:wood 
+c. blades:grass‘ 
+d.  chip:glass 
+Answer: d 
+
+TCS Ninja Aptitude questions 
+TCS Ninja Mock test questions and solutions – Aptitude (Standard section) 
+1) A^B means A raised to the power B. If f(x) = ax^4  – bx^2 + x + 5 and f(-3) = 2, then f(3) = ? 
+a. 3 
+b. 8 
+c. -2 
+d. 1 
+Answer: b 
+ 
+Explanation:  
+f(-3) = a(-3)
+4
+ – b(-3)
+2
+ + (-3) + 5 = 81a – 9b + 2 = 2 So 81a – 9b = 0,  
+f(3) = a(3)
+4
+ – b(3)
+2
+ + (3) + 5 = 81a – 9b + 8 
+Substituting the value of 81a – 9b = 0 in the above we get f(3) = 8 
+2) 1/4 of the tank contains fuel. When 11 liters of the fuel is poured into the tank, the indicator rests at the 1/2 
+mark. Find the capacity of the tank in liters. 
+a. 44 
+b. 36 
+c. 6 
+d. 8 
+Answer: a 
+ 
+Explanation: 
+Let the capacity of the tank be x liters.  
+Given, 1/4 of x + 11 = 1/2 of x 
+By solving we get the x value as 44 liters.  
+3) You have been given a physical balance and 7 weights of 47, 46, 43, 48, 49, 42, and 77 kgs. Keeping weights 
+on one pan and object on the other, what is the maximum you can weigh less than 178 kgs. 
+a. 172 
+b. 174 
+c. 175 
+d. 177 
+Answer: b 
+ 
+Explanation: 
+The maximum weight that can be weighed less than 178 kgs is 174 (48 + 49 + 77 = 174 kgs). 
+Brought to you by the N. Rajeev Reddy | More n More @ www.matterhere.com | Google+ - Facebook/matterhere 
+
+ 
+4) How many 6-digit even numbers can be formed from the digits 1, 2, 3, 4, 5, 6 and 7 so that the digits should 
+not repeat and the second last digit is even? 
+a. 320 
+b. 6480 
+c. 2160 
+d. 720 
+Answer: d 
+ 
+Explanation:  
+To form 6-digit even number, the last digit should be an even number so 3 ways (2, 4, or 6) to fill the last digit 
+and second last digit also should be even for which it will take 2 ways to fill.  
+The last two digits are filled in 6 ways( 2 x 3 = 6 ways). The rest of the 4 digits can be filled in 5P4 ways i.e. 
+120 ways. Hence altogether to fill 6-digit even number = 120 * 6 = 720 ways. 
+5) Out of a group of swans, 7/2 times the square root of the total number are playing on the shore of the pond. 
+The remaining 2 are inside the pond. Find the total number of swans. 
+a. 16 
+b. 25 
+c. 4 
+d. 9 
+Answer: a 
+ 
+Explanation:  
+Let the number of swans = x
+2
+ 
+x
+2
+ = 7x/2 + 2 –> x
+2
+ = (7x + 4)/2 
+2x
+2
+ = 7x + 4, —>  2x
+2
+ – 7x – 4 = 0 
+The roots of x are 4, -1/2. Here -1/2 is not possible, so the x value will be 4. 
+The total number of swans is x
+2
+ i.e 16. 
+6) In a village, every weekend, three-eighth of the men and one-third of the women participate in a social 
+activity. If the total number of participants is 54, and out of them 18 are men then the total number of men and 
+women in the village is: 
+a. 180 
+b. 156 
+c. 204 
+d. 228 
+Answer: b 
+Brought to you by the N. Rajeev Reddy | More n More @ www.matterhere.com | Google+ - Facebook/matterhere 
+
+ 
+ 
+Explanation: 
+3/8th of men and 1/3rd of women participated and given that the total participants are 54.  
+Out of total participants 54, 18 were men and the rest will be women (54-18 = 36 women). From this, we can 
+say that –> 3/8 * men = 18, therefore men = 48. And 1/3 of women = 36 –> women = 108. 
+The total number of men and women in the village is 156. 
+7) If M is 30% of Q, Q is 20% of P, and N is 50% of P, then M/N = ? 
+a. 6/5 
+b. 4/3 
+c. 3/25 
+d. 3/250 
+Answer: c 
+ 
+Explanation:  
+Q = 20% of P 
+M    =    30% of  Q —> 30% of (20% of P)   —> 30/ 100 * 20/100 * P  –> 6/100 * p 
+N    =    50% of P  –> 5/10 * P 
+M/ N = (6/100 * P) / (5/10 * P) = 6/50 = 3/25 
+8) There are 20 persons among whom two are sisters. Find the number of ways in which we can arrange them 
+around a circle so that there is exactly one person between two sisters? Please note that the exact position on the 
+circle does not matter (no seat numbers are marked on the circle), and only the relative positions of the people 
+matter. 
+a. 2! * 19! 
+b. None of these 
+c. 2 * 18! 
+d. 18! 
+Answer: c 
+ 
+Explanation:  
+Fix the position of two sisters. Hence there are only 18 people left 
+So there are 18 ways in which a person can sit between the two sisters. Now if we swap the bothers we get 
+another 18 ways. 
+So hence we have a total of  = 2 * 18 combinations 
+Consider the group of three people(two brothers and the person between them) as a single entity. 
+we have another 17 people left so there are 18 entities to be arranged in total. 
+Arranging 18 entities around a circle can be done in (18-1)! = 17! ways 
+Total no of ways = 2 * 18 * 17! = 2 * 18! 
+Brought to you by the N. Rajeev Reddy | More n More @ www.matterhere.com | Google+ - Facebook/matterhere 
+ 
+
+9) Find the length of the longest pole that can be placed in an indoor stadium 24m long, 18m wide and 16m 
+high. 
+a. 36m 
+b. 34m 
+c. 30m 
+d. 25m 
+Answer: b 
+Explanation: 
+Length of the longestt pole = diagonal of rectangular indoor stadium  
+= √( l²+b²+h²) 
+= √(24²+18²+16²) 
+= √(576+324+256) 
+= √1156 
+= 34 m 
+10) Of a set of 30 numbers, the average of first 10 numbers is equal to the average of last 20 numbers. Then the 
+sum of the last 20 numbers is: 
+a. Sum of first ten numbers 
+b. 2 X sum of the first ten numbers 
+c. Cannot be determined with the given data 
+d. 2 x sum of last ten numbers 
+Answer: b 
+ 
+Explanation:  
+Average = (sum of n numbers)/(n) 
+(sum of first 10 numbers)/10 = (sum of last 20 numbers)/20 
+Hence, (sum of last 20 numbers) = 2*(sum of first 10 numbers) 
+11) Thomas takes 7 days to paint a house completely whereas Raj would require 9 days to paint the same house 
+completely. How many days will it take to paint the house if both of them work together (give answers to the 
+nearest integer)? 
+a. 4 days 
+b. 2 days 
+c. 5 days 
+d. 3 days 
+Answer: a 
+ 
+Explanation:  
+Work done by Thomas in a day = 1/7 
+
+Work done by Raj in a day = 1/9 
+Work done by both in a day = 1/7 +1/9 =16/63 
+Days required if they both work together = 63/16 = 3.9 = 4 days 
+12) The University of Vikramasila has enrolled nine Ph.D. candidates: Babu, Chitra, Dheeraj, Eesha, Farooq, 
+Gowri, Hameed, Iqbal, Jacob. 
+– Farooq and Iqbal were enrolled on the same day as each other, and no one else was enrolled that day. 
+– Chitra and Gowri were enrolled on the same day as each other, and no one else was enrolled that day. 
+– On each of the other days of hiring, exactly one candidate was enrolled. 
+– Eesha was enrolled before Babu. 
+– Hameed was enrolled before Dheeraj. 
+– Dheeraj was enrolled after Iqbal but before Eesha. 
+– Gowri was enrolled after both Jacob and Babu. 
+– Babu was enrolled before Jacob. 
+Who were the last two candidates to be enrolled? 
+a. Eesha and Jacob 
+b. Babu and Chitra 
+c. Gowri and Chitra 
+d. Babu and Gowri 
+Answer: c 
+ 
+Explanation: 
+1.  Easha < Babu 
+2. Hameed < Dheeraj 
+3. Iqbal < Dheeraj < Easha 
+4. Jacob/Babu < Gowri 
+5. Babu < Jacob 
+from 1 and 5, Easha was before Babu and Jacob so she cannot be in the last two. Option B ruled out 
+from 4 and 5, babu is before Jacob and Gowri so he cannot be in the last two. Options a, c ruled out. 
+So option d is correct. 
+13) In a certain city, 60 percent of the registered voters are Party A supporters and the rest are Party B 
+supporters. In an assembly election, if 75% of the registered Party A supporters and 20% of the registered Party 
+B supporters are expected to vote for Candidate A, what percent of the registered voters are expected to vote for 
+Candidate A? 
+a. 20 
+b. 60 
+c. 75 
+d. 53 
+Answer: d 
+ 
+Explanation: 
+let there be x number of registered voters 
+
+60% are Party A supporters = 60% of x 
+40% are Party B supporters = 40% of x 
+Out of 60%, 75% voted for party A = 75%(60% of x) = 18x/40 
+Out of 40% ,20% voted for party B = 20%(40% of x) = 8x/100 
+=18x/40+8x/100=106x/200 
+Percentage of registered voters expected to vote for A = 106x/200*100 = 53% of x 
+14) When 100 is to be successively divided by 6, 3, 4, first divide 100 by 6. Then divide the quotient 16 by 3. 
+Then divide the quotient 5 by 4. 
+A number when successively divided by 5, 3, 2 gives the remainder of 0, 2 and 1 respectively in that order. 
+What will be the remainders when the same number is divided successively by 2, 3 and 5 in that order? 
+a. 4, 1, 2 
+b. 1, 0, 4 
+c. 2, 1, 3 
+d. 4, 3, 2 
+Answer:  b 
+15) Professor Nitwit obtains a hash number of a given positive integer > 3 as follows. He subtracts 2 from the 
+number (to get the new number), and multiplies the new number by 2 to get a term. He repeats this with the 
+new number (to get newer numbers and terms) until the number becomes 2 or 1. The hash is defined as the sum 
+of all the terms generated in this process. 
+For example, with the number 5, he multiplies (5-2 =3) by 2 to get the first term 6. He multiplies (3-2=1) by 2 
+to get the second term 2.  As the number has become 1, he stops. The hash is the sum of the two terms (6+2) or 
+8. 
+If professor Nitwit is given 3 numbers 4, 9 and 13, what is the sum of the hash numbers he obtains for the three 
+numbers? 
+TCS Ninja Mock test questions and solutions – Aptitude (Advanced section) 
+1) How many pairs (m,n) of integers satisfy the equation 4^m = n^2 + 15? Please do not add white space 
+around the answer _____________ 
+Answer: 4 
+2) Of all the nonempty subsets S of { 1, 2, 3, 4, 5, 6, 7}, how many do not contain the number |S|, where |S| 
+denotes the number of elements in S? For example, {3, 4} is one such subset, since it does not contain the 
+number 2. Please do not add white space around the answer ____________ 
+Answer: 63 
+3) A chord of a circle has length 3n, where n is a positive integer. The segment cut off by the chord has height 
+n, as shown. What is the smallest value of n for which the radius of the circle ia also a positive integer? Please 
+do not add white space around the answer ________ 
+
+Answer: 8 
+4) A function f satisfies f(0) = 0, f(2n) = f(n), and f(2n + 1) = f(n) + 1 for all positive integers n. What is the 
+value of f(2018)? Please do not add white space around the answer ___________ 
+5) If n is a positive integer, let s(n) denote the integer obtained by removing the last digit of n and placing it in 
+front. For example, s(731) = 173. What is the smallest positive integer n ending in 6 satisfying s(n) = 4n?. 
+Please do not add white space around the answer ____________ 
+ Brought to you by the N. Rajeev Reddy | More n More @ www.matterhere.com | Google+ - Facebook/matterhere 
+ 
+TCS Ninja Aptitude questions (previously asked) 
+1. On a 26 question test, five points were deducted for each wrong answer and eight points were added for each 
+correct answer. If all the questions were answered, how many were correct, if the score was zero? 
+a. 10 
+b. 12 
+c. 11 
+d. 13 
+Ans: a 
+ 
+Explanation: 
+Let x be the number of questions correct and therefore, (26- x) will be the wrong number of questions, 
+8x – 5(26-x) = 0 –> 8x – 130 + 5x =0 
+13x = 130, x =10 
+Hence 10 questions were correct. 
+2. Jake can dig a well in 16 days. Paul can dig the same well in 24 days. Jake, Paul and Hari together dig the 
+well in 8 days. Hari alone can dig the well in 
+a. 96 days 
+b. 48 days 
+c. 32 days 
+d. 24 days 
+Ans: b 
+ 
+Explanation: 
+Let the total work to be done is 48 meters( LCM of 16, 24 and 8). Now Jake can dig (48/16) – 3 meters, Paul 
+can dig (24/12) – 2 meters a day. Now all of them combined dug in 8 days so per day they dug 48/8 = 6 meters. 
+So Of these 8 meters, Hari capacity is 1 meter. So he takes 48 /1 = 48 days to complete the digging job. 
+3. Mark told John ―If you give me half your money I will have Rs.75‖. John said, ―if you give me one-third of 
+your money, I will have Rs.75/- How much money did John have? 
+
+a. 45 
+b. 60 
+c. 48 
+d. 37.5 
+Ans: b 
+ 
+Explanation: 
+Let the money with Mark and John are M and J respectively. 
+Now 
+M + J/2 = 75 
+M/3 + J = 75 
+Solving we get M = 45, and J = 60. 
+4. The value of a scooter depreciates in such a way that its value of the end of each year is 3/4 of its value of the 
+beginning of the same year. If the initial value of the scooter is Rs.40,000, what is the value at the end of 3 
+years? 
+a. Rs.13435 
+b. Rs.23125 
+c. Rs.19000 
+d. Rs.16875 
+Ans: d 
+ 
+Explanation: 
+Every year it depreciates 3/4 th of the previous year. So ( 3/ 4 x (3/4 x (3/4 of 40,000))) = 3*3*3*625 = 16875. 
+Hence the value after 3 years is Rs. 16875 
+5. A man has a job, which requires him to work 8 straight days and rest on a ninth day. If he started work on 
+Monday, find the day of the week on which he gets his 12th rest day. 
+a. Thursday 
+b. Wednesday 
+c. Tuesday 
+d. Friday 
+Ans: b 
+ 
+Explanation: 
+He works for 8 days and takes rest on the 9th day. So On the 12th rest day, there are 9 x 12 = 108 days passed. 
+Number of odd days = (108 – 1) / 7 = 107 / 7 = 2. So the 12th rest day is Wednesday. 
+6. George can do a piece of work in 10 days, Paul in 12 days and Hari in 15 days. They all start the work 
+together, but George leaves after 2 days and Paul leaves 3 days before the work is completed. In how many 
+days is the work completed? 
+
+a. 5 
+b. 6 
+c. 9 
+d. 7 
+Ans: d 
+ 
+Explanation: 
+Let the work be 60 units(LCM of 10, 12 and 15). If Paul worked for 3 days, and the remaining days of work are 
+x days, total days to complete the work be x + 3 days. Now George‘s is 60/10 = 6, Paul is 5, Hari is 4.  
+(6 + 5 + 4) 2 + (5 + 4) (x – 3) + 5 x 3 = 60. On solving we get x = 4. So total days to complete the work is 7 
+days. 
+7. How many arrangements will start and end with a vowel for TOGETHER? 
+a. 1060 
+b. 1080 
+c. 2024 
+d. 1050 
+Ans: a 
+ 
+Explanation: 
+No. of ways to put a vowel on start and end = 3 (i.e O..E,  E..O,  E..E ). The number of ways to arrange other 6 
+letters = 6!/2! = 360 (letter T is two times). Total number of arrangements = 3*360 = 1080.  
+  
+8. In 4 years, Raj‘s father age is twice as raj, Two years ago, Raj‘s mother‘s age twice as raj. If Raj is 32 years old in eight 
+years from now, what is the age of Raj‘s mother and father? 
+  
+a. 32,34 
+b. 51,50 
+c. 32,36 
+d. 52,46 
+  
+Ans: d 
+Explanation: 
+Raj present age = 32 – 8 = 24. 
+After 4 years Raj‘s age is 28. and Raj‘s father‘s age is 28 x 2 = 56, and his present age is 52. 
+Two years ago, Raj‘s age is 22. and his mother‘s age is 22 x 2 = 44. His mother‘s present age = 46 
+  
+  
+
+9. A call center agent has a list of 305 phone numbers of people in alphabetic order of names (but she does not have any 
+of the names). She needs to quickly contact Deepak Sharma to convey a message to him. If each call takes 2 minutes to 
+complete, and every call is answered, what is the minimum amount of time in which she can guarantee to deliver the 
+message to Mr. Sharma?  
+  
+a. 18 minutes 
+b. 610 minutes  
+c. 206 minutes  
+d. 34 minutes  
+  
+Ans: a 
+Explanation: 
+The call center calls the middle no. i.e. (305/2) = 152.5 say 152 and asks them their name to get an idea of whether to go 
+to up or downside of 152 no directory and suppose person replies some name. The starting letter of the name will suggest 
+the call center to decide to weather go up or down the name list.  
+So the process goes like >305->152–>76–>38–>19–>9–>4–>2–>1, the minimum time = 9*2 = 18 mins. 
+10. In how many ways a team of 11 must be selected from 5 men and 11 women such that the team must 
+comprise of not more than 3 men? 
+a. 1565 
+b. 2456 
+c. 1243 
+d. 2256 
+  
+Ans: d 
+ 
+Explanation: 
+The team may consist of 0 men + 11 women, 1 men + 10 women, 2 men + 9 women, or 3 men + 8 women.So 
+Number of ways are = 11C11+5C1 ×× 11C10+5C2 ×× 11C9+5C3 ××11C8 = 2256 ways. 
+11. Given that 0 < a < b < c < d, which of the following the largest? 
+a. (c+d) / (a+b) 
+b. (b+d) / (a+c) 
+c. (b+c) / (a+d) 
+d. (a+d) / (b+c) 
+  
+Ans: a 
+ 
+Explanation: 
+Let‘s assume the value of a , b, c and d as 1, 2, 3, 4 (a=1, b=2, c=3, and d=4), by solving we get the answer 
+as    (c+d) / (a+b). 
+
+12. Eesha bought 18 sharpeners for Rs.100. She paid 1 rupee more for each white sharpener than for each 
+brown sharpener. What is the price of a white sharpener and how many white sharpeners did she buy? 
+a. Rs. 5, 10 
+b. Rs. 6, 8 
+c. Rs. 6, 10 
+d. Rs. 5, 8 
+  
+Ans: c 
+ 
+Explanation: 
+Let‘s solve from the options, if she bought 10 white sharpeners at Rs.6 per piece, She has spent Rs.60 
+already. And with the remaining Rs.40, she bought 8 brown sharpeners at 40/8 = Rs.5 which is Rs.1 less than 
+the White sharpener. Hence Rs. 6 and 10 white sharpeners. 
+13. The sum of the digits of a three digit number is 17, and the sum of the squares of its digits is 109. If we 
+subtract 495 from the number, we shall get a number consisting of the same digits written in the reverse order. 
+Find the number. 
+a. 683 
+b. 863 
+c. 944 
+d. 773 
+  
+Ans: b 
+ 
+Explanation: 
+Let‘s solve from the options, Sum of the squares should be equal to 109. Only Options a and b satisfying. When 
+we subtract 495, only 863 becomes 368. 
+14. Raj goes to the market to buy oranges. If he can bargain and reduce the price per orange by Rs.2, he can buy 
+30 oranges instead of 20 oranges with the money he has. How much money does he have? 
+a. Rs. 50 
+b. Rs. 150 
+c. Rs. 120 
+d. Rs. 100 
+  
+Ans: d 
+ 
+Explanation:  
+Let the money with Raj is M. So (M/20)  – (M/30) = 2. Check options. Option c satisfies. 
+
+15. A city in the US has a basketball league with three basketball teams, the Aziecs, the Braves and the 
+Celtics.  A sportswriter notices that the tallest player of the Aziecs is shorter than the shortest player of the 
+Braves.  The shortest of the Celtics is shorter than the shortest of the Aziecs, while the tallest of the Braves is 
+shorter than the tallest of the Celtics.  The tallest of the Braves is taller than the tallest of the Aziecs. 
+Which of the following can be judged with certainty? 
+X) Paul, a Brave is taller than David, an Aziec 
+Y) David, a Celtic, is shorter than Edward, an Aziec 
+a. Both X and Y 
+b. X only 
+c. Y only 
+d. Neither X nor Y 
+Ans: B 
+ 
+Explanation: 
+By assuming the values, let‘s solve it. Be the shortest of Braves is 4 feet, then tallest of Aziecs is less than 4. So 
+let it be 3 feet. A ->  2 – 3, B -> 4 – 6, C -> 1 – 7. From the above, we can safely conclude X is correct. but Y 
+cannot be determined. 
+16. A BB CCC DDDD EEEEE..... What is the 120th letter? 
+a. L 
+b. O 
+c. K 
+d. N 
+  
+Ans: b 
+ 
+Explanation: 
+Number of letters in each term are in AP. 1, 2, 3, ... So, n(n+1)/2 <= 120. For n = 15, we get LHS = 120. So 
+15th letter in the alphabet is O. So 15th term contains 15 Os. 
+17. There are 120 male and 100 female in a society. Out of 25% male and 20% female are rural. 20% of male 
+and 25% of female rural people passed in the exam. What % of rural students have passed the exam? 
+a. 20% 
+b. 18% 
+c. 22% 
+d. 15% 
+  
+Ans: c 
+
+ 
+Explanation: 
+From the given information, Rural male = 25%(120) = 30, Rural female = 20%(100) = 20. Passed students 
+from rural: male = 20%(30) = 6, female = 25%(20) = 5. Required percentage = 11/50 * 100 = 22%. 
+18.  On the fabled Island of Knights and Knaves, we meet three people, A, B, and C, one of whom is a knight, 
+one a knave, and one a spy. The knight always tells the truth, the knave always lies, and the spy can either lie or 
+tell the truth. A says: ―C is a knave.‖B says: ―A is a knight.‖C says: ―I am the spy.‖Who is the knight, who the 
+knave, and who the spy? 
+a. A – Knight, B – Knave, C – Spy 
+b. A – Spy, B – Knight, C – Knave 
+c. A – Knave, B – Spy, C – Knight 
+d. A – Knight, B – Spy, C – Knave 
+Ans: d 
+ 
+Explanation: 
+Let us say A is Knight and speaks the truth. So C is Knave and B is a spy. So Cs statement is false and Bs 
+statement is true. This case is possible. If B is Knight,  this is not possible as A also becomes Knight as B 
+speaks the truth. 
+Suppose C is Knight,  this is clearly contradicted by C‘s statement itself. 
+19. The average temperature of Tuesday, Wednesday and Thursday is 37 C. The average temperature of 
+Wednesday, Thursday and Friday is 38 C. If the temperature on Friday is 39 C. Find the temperature on 
+Tuesday. 
+a. 37.33 
+b. 38.33 
+c. 36 
+d. None of the above 
+Ans: c 
+ 
+Explanation: 
+The average temperature of Tuesday, Wednesday and Thursday is (Tue + Wed + Thu) / 3 = 37 
+Tue + Wed + Thu = 111  ——  (A) 
+The average temperature of Wednesday, Thursday and Friday is (Wed + Thu + Fri) / 3 = 38 
+Wed + Thu + Fri = 114   ——- (B) 
+Given Friday‘s temperature as 39, then (B) – (A) –> Fri – Tue = 3. So 39 – Tue = 3 –> Tue = 36. 
+Hence, the temperature on Tuesday is 36 
+Brought to you by the N. Rajeev Reddy | More n More @ www.matterhere.com | Google+ - Facebook/matterhere 
+ 
+20. In a certain city, 60% of the registered voters are Congress supporters and the rest are BJP supporters. In an 
+assembly election, if 75% of the registered congress supporters and 20% of the registered BJP supporters are 
+expected to vote for candidate A, what percent of the registered voters are expected to vote for candidate A? 
+
+a. 20 
+b. 23 
+c. 50 
+d. 53 
+  
+Ans: d 
+ 
+Explanation: 
+Let the people in the city be 100, Congress supporters = 60% of 100 = 60 and 40% are BJP=40% of 100 = 40. 
+Out of 60, 75% voted for congress=75%(60)=45 
+Out of 40%,20% voted for congress=20%(40)=8 
+In total = 45 + 8 = 53, Hence the total percentage of registered candidates – 53% 
+Brought to you by the N. Rajeev Reddy | More n More @ www.matterhere.com | Google+ - Facebook/matterhere 
+ 
+Practice sheet ________________________________________________ 
+ 
+ 
+ 

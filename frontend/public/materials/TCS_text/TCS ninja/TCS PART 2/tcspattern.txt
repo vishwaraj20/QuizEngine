@@ -1,0 +1,659 @@
+
+
+Dinesh Vijayakumar <dinwin1989@gmail.com>
+tcs pattern refer this to get 5 to 7 questions from this ( study
+@ your own risk)
+2 messages
+rajesh perumal <jeshpv@gmail.com>Sun, Dec 5, 2010 at 9:37 AM
+To: subakarthik <esubakarthik@gmail.com>, nirmal 9884791987 <nirmalr60@gmail.com>, karthik raja 9952777030
+<terrifickarthi@gmail.com>, bala.rocks31@gmail.com, karthi <karthi51289@gmail.com>, Dinesh Kumar
+<dinwin1989@gmail.com>, gowri sangar <smoothlife07@gmail.com>, thilip 9600672271 <thilipjan31@gmail.com>,
+sampath <samp10vv@gmail.com>, elavarasan 9003886566 <elavarasanblack@gmail.com>, saravana
+<kumar1790@gmail.com>, faiyaz <faiyaz50@gmail.com>
+Pattern 1:
+1. (1/2) of a number is 3 more than the (1/6) of the same number? 
+a) 6 b)7 c)8 d)9
+2. (1/3) of a number is 3 more than the (1/6) of the same number? 
+a) 6 b)16 c)18 d)21
+3. (1/3) of a number is 6 more than the (1/6) of the same number? 
+a) 6 b)18 c)36 d)24
+4. (2/3) of a number is 4 more than the (1/6) of the same number? 
+a) 6 b)8 c)36 d)24
+5. (1/3) of a number is 5 more than the (1/6) of the same number? 
+a) 6 b)36 c)30 d)72
+Pattern 2:
+1. There are two water tanks A and B, A is much smaller than B. While water fills at the rate of 1 liter every
+hour in A, it gets filled up like, 10, 20, 40,80, 160.....in tank B. (At the end of first hour, B has 10 liters, second
+hour it has 20 liters and so on). If tank B is 1/32 filled of the 21 hours, what is total duration of hours required to
+fill it completely?
+a) 26 B)25 c)5 d)27
+2. There are two pipes A and B. If A filled 10 liters in an hour, B can fill 20 liters in same time. Likewise B can fill
+10, 20, 40, 80, 160...... If B filled in 1/16 of a tank in 3 hours, how much time will it take to fill the tank
+completely?
+a) 9 B)8 c)7 d)6
+3. There are two water tanks A and B, A is much smaller than B. While water fills at the rate of 1 liter every
+hour in A, it gets filled up like, 10, 20, 40,80, 160.....in tank B. 1/8 th of the tank B is filled in 22 hours. What is
+the time to fill the tank fully?
+a) 26 B)25 c)5 d)27
+4. A tank is filled with water. In first hour 10 liters, second hours 20 liters, and third hour 40 liters and so on...If
+time taken to fill ¼ of the tank if 5 hours. What is the time taken to fill up the tank?
+a) 5 B)8 c)7 d)12.5
+5. If a tank A can be filled within 10 hours and tank B can be filled ¼ in 19 hours then, what is the time taken to
+fill up the tank completely?
+Gmail - tcs pattern refer this to get 5 to 7 questions from this ( study @ you...http://mail.google.com/mail/?ui=2&ik=6962b1ff48&view=pt&search=in...
+1 of 1612/5/2010 11:33 AM
+
+a) 21 B)38 c)57 d)76
+Pattern 3:
+1. 6 persons standing in queue with different age group, after two years their average age will be 43 and
+seventh person joined with them. Hence the current average age has become 45. Find the age of seventh
+person?
+a) 43 b)69 c)52 d)31
+2. In a market 4 men are standing. The average age of the four before 4years is 45, after some days one man
+is added and his age is 49. What is the average age of all?
+a) 43 b)45 c)47 d)49
+3. In a shopping mall with a staff of 5 members the average age is 45 years. After 5 years a person joined them
+and the average age is again 45 years. What’s the age of 6th person?
+a) 25 b)20 c)45 d)30
+4. In a market 4 men are standing .The average age of the four before 2 years is 55, after some days one man
+is added and his age is 45. What is the average age of all?
+a) 55 b)54.5 c)54.6 d)54.7
+Pattern 4:
+1. In the reading room of a library, there are 23 reading spots. Each reading spot consists of a round table with
+9 chairs placed around it. There are some readers such that in each occupied reading spot there are different
+numbers of readers. If in all there are 36 readers, how many reading spots do not have even a single reader?
+a)8 b)none c)16 d)15
+2. In the reading room of a library, there are 10 tables, 4 chairs per table. In each table there are different
+numbers of people seated. How many tables will be left out without at least 1 person?
+a) 8 b)6 c)2 d)7
+3. In the reading room of a library, there are 10 tables, 4 chairs per table. In each table there are different
+numbers of people seated. How many ways they will sit in the library so that no chair would be blank?
+a) 8 b)6 c)2 d)7
+Pattern 5:
+1. A man jogs at 6 mph over a certain journey and walks over the same route at 4 mph. What is his average
+speed for the journey?
+a) 2.4 mph b) 4.8 mph c) 4 mph d) 5 mph
+2. A man travels from A to B at 4 mph over a certain journey and returns over the same route to A, at 5 mph.
+What is his average speed for the journey?
+a) 4.44 mph b) 4.8 mph c) 4.887 mph d)5 mph
+3. A person is rock climbing at an altitude of 800 m. He go up by 7 mph. and come down by 9 mph. what was
+his average speed?
+a) 7.875 mph b) 7.125 mph c) 7mph d) 7.5 mph
+4. Find average speed if a man travels at speed of 24kmph up and 36kmph down at an altitude of 200m?
+a) 28.8 mph b) 27.8 mph c) 27.5mph d) 30 mph
+5. Person travels to a hill, if he goes from A to B with speed of 4kmph and returns back to B with speed of
+5kmph. What is his average speed of journey?
+a) 4.5kmph b) 4.44kmph c) 9kmph d) 4.245kmph
+6. A man travels from A to B at 70 mph over a certain journey and returns over the same route to A, at 80 mph.
+What is his average speed for the journey?
+a) 74.66 b)75 c)74.33 d)74.99
+Gmail - tcs pattern refer this to get 5 to 7 questions from this ( study @ you...http://mail.google.com/mail/?ui=2&ik=6962b1ff48&view=pt&search=in...
+2 of 1612/5/2010 11:33 AM
+
+7. Find average speed if a man travels at speed of 24kmph up and 36kmph down at an altitude of 200m.
+a) 28.8 b)28 c)27 d)28.6
+Pattern 6
+1. Susan made a block with small cubes of 8 cubic cm volume to make a block ,3 small cubes long, 9 small
+cubes wide and 5 small cubes deep. She realizes that she has used more small cubes than she really needed.
+She realized that she could have glued a fewer number of cubes together to lock like a block with same
+dimensions, if it were made hollow. What is the minimum number of cubes that she needs to make the block?
+a) 114 b) 135 c) 21 d) 71
+2. A boy wants to make cuboids of dimension 5m, 6m and 7m from small cubes of .03 m3. Later he realized he
+can make same cuboids by making it hollow. Then it takes some cubes less. What is the number of the cubes to
+be removed?
+a) 2000 b) 5000 c) 3000 d) 7000
+3. Smita was making a cube with dimensions 5*5*5 using 1*1*1 cubes. What is the number of cubes needed to
+make a hollow cube looking of the same shape?
+a) 98 b) 104 c) 100 d) 61
+4. Leena cut small cubes of 10 cm dimension each. She joined it to make a cuboid of length 100 cm, width 50 cm
+and depth 50 cm. How many more cubes does she need to make a perfect cube?
+a)500 b)250 c)750 d)650
+5. Leena cut small cubes of 3 cubic cm each. She joined it to make a cuboid of length 10 cm, width 3 cm and
+depth 3 cm. How many more cubes does she need to make a perfect cube?
+a) 910 b) 250 c) 750 d) 650
+6. A lady builds 9cm length, 10cm width,3cm height box using 1 cubic cm cubes. What is the minimum number
+of cubes required to build the box?
+a) 730 b) 270 c) 720 d) 310
+Pattern 8:
+1. (40*40*40 – 31*31*31)/(40*40+40*31+31*31)=?
+a)8 b)9 c)71 d)51
+2. (98*98*98 – 73*73*73)/( 98*98*98 – 73*73*73)=?
+a).171 b).4 c).420 d).415
+3. (209*144)^2 + (209*209)+(209*144)+(144*144) = ?
+a)905863729 b)905368729 c)905729368 d)65
+Pattern 9:
+1. ((4x+3y)+(5x+9y))/(5x+5y) = ? as (x/2y) = 2 
+a)8 b)none c)16 d)15
+2. x/2y = 2a,then 2x/x-2ay=?
+a)4 b)8 c)16 d)2
+3. 3X/5Y = 5Y/3X.....Find the value of X/Y
+a)3/5 b)5/3 c)2/5 d)5/2
+4. What is the value of (3X+8Y)/(X-2Y), if X/2Y=2
+a)8 b)none c)10 d)13
+5. (4x+3y)+(5x+9y))/(5x+5y) = ? as (x/2y) = 2
+Gmail - tcs pattern refer this to get 5 to 7 questions from this ( study @ you...http://mail.google.com/mail/?ui=2&ik=6962b1ff48&view=pt&search=in...
+3 of 1612/5/2010 11:33 AM
+
+a)48/5 b)46/5 c)47/5 d)49/5
+6. ((4x+2y)/(4x-2y)= ? as (x/2y) = 2
+a)8/7 b)9/7 c)11/7 d)6/7
+Pattern 10:
+1. A girl has to make pizza with different toppings. There are 8 different toppings. In how many ways can she
+make pizzas with 2 different toppings?
+a)16 b)56 c)112 d)28
+2. A pizza shop made pizzas with many flavors. There are 10 different flavors, in that 7 flavors are taken to
+make pizza. In how many ways they can arrange?
+a)240 b)120 c)65 d)210
+3. A pizza shop made pizzas with many flavors. There are 9 different flavors, in that 2 flavors are taken to make
+pizza. In how many ways they can arrange?
+a)16 b)26 c)36 d)46
+Pattern 11:
+1. 3, 22, 7, 45, 15,? , 31
+a)91 b)151 c)90 d)5
+2. 8 6 17 14 35 31 75 _ 143?
+3. Inspired by Fibonacci series Sangeet decided to create his own series which is 1, 2, 3, 7, 7, 22, 15, 67, 31, _,
+63?
+a)202 b)31 c)76 d)49
+4. 3, 12, 7, 26, 15, ?
+a)54 b)27 c)108 d)31
+5. 1! + 2! + ....... + 50!=?
+a)3.1035*10^64 b)2.1021*10^65 c)3.1035*10^63 d)3.1035*10^62
+6. 1, 2, 3, 6, 7, 14, _, 32?
+7. 5, 9, 12, 18, 26, 36, 47, 72, _?
+a)75 b)135 c)100 d)55
+8. 3, 15, x, 51, 53,159,161
+a)17 b)34 c)54 d)112
+Pattern 12:
+1. Simple question but big one on average age.sth like a, b, c weighted separately 1st a, b, c ,then a& b, then b
+&c ,then c & a at last abc, the last weight was 167,then what will be the average weight of the 7 reading?
+a)95 b)95.428 c)95.45 d)94
+Pattern 13:
+1. A toy train produces 10 different sounds when it moves around a circular toy track of radius 5 m at 10 m per
+min. However, the toy train is defective and it now produces only 2 different tunes at random. What are the
+odds that the train produces for consecutive music tones of the same type?
+a) 1 in 16 B)1 in 4 c)1 in 8 d)1 in 32
+2. A car manufacturer produces only red and blue models which come out of the final testing area at random.
+What are the odds that five consecutive cars of same color will come through the test area at any one time?
+a)1 in 16 b)1 in 125 c)1 in 32 d)1 in 25
+Gmail - tcs pattern refer this to get 5 to 7 questions from this ( study @ you...http://mail.google.com/mail/?ui=2&ik=6962b1ff48&view=pt&search=in...
+4 of 1612/5/2010 11:33 AM
+
+Pattern 15:
+1. A triangle is made from a rope. The sides of the triangle are 25 cm, 11 cm and 31 cm. What will be the area
+of the square made from the same rope?
+a)280.5625 b)240.5625 c)280.125 d)240
+2. A triangle is made from a rope. The sides of the triangle are 21 cm, 24 cm and 28 cm. What will be the area
+of the square made from the same rope?
+a)280.5625 b)333.0625 c)333.0125 d)400
+Pattern 16:
+1. What is the distance between the z-intercept from the x-intercept in the equation ax+by+cz+d=0
+2. What is the distance of the z-intercept from the x-intercept in the equation ax+by+cz=d (I do not remember
+the values of a, b, c, d).
+Pattern 17:
+1. A scientist was researching on animal behavior in his lab. He was very interested in analyzing the behavior of
+bear. For some reason he travelled 1mile in north direction & reached at North Pole. There he saw a bear. He
+then followed the bear around 1 hr with a speed of 2km/hr in east direction. After that he travelled in south
+direction & reached at his lab in2 hrs. Then what is the color of the bear?
+a)white b)black c)gray d)brown
+Pattern-18:
+1. Out of 7 children the youngest is boy then find the probability that all the remaining children are boys
+a)1/64 b)1/32 c)1/128 d)1/256
+Pattern 19:
+1. Usha bought a linen cloth and rope to build a tent. If the rope is 153 m long and it is to be cut into pieces of
+1m length, then how many cuts are to be made to cut the ropes into 153 pieces?
+a)153 b)152 c)154 d)155
+2. A person has to make 146 pieces of a long bar. He takes 4 seconds to cut a piece. What is the total time
+taken by him in seconds to make 146 pieces?
+a)584 b)580 c)730 d)725
+3. A person has to make 141 pieces of a long bar. He takes 2 seconds to cut a piece. What is the total time
+taken by him in seconds to make 141 pieces?
+a)560 b)280 c)112 d)324
+Pattern 20:
+1. Spores of a fungus, called late blight, grow and spread infection rapidly. These pathogens were responsible
+for the Irish potato famine of the mid-19th century. These seem to have attacked the tomato crops in England
+this year. The tomato crops have reduced and the price of the crop has risen up. The price has already gone up
+to $45 a box from $27 a box a month ago. How much more would a vegetable vendor need to pay to buy 27
+boxes this month over what he would have paid last month?
+a) $27 b)$ 18 c)$45 d)$ 486
+Pattern 21:
+1. A Person buys a horse for 15 ponds, after one year he sells it for 20 pounds. After one year, again he buys the
+same horse at 30 pounds and sells it for 40 pounds. What is the profit for that person?
+Pattern 22:
+1. John buys a cycle for 31 dollars and given a cheque of amount 35 dollars. Shop Keeper exchanged the cheque
+with his neighbor and gave change to John. After 2 days, it is known that cheque is bounced. Shop keeper paid
+the amount to his neighbor. The cost price of cycle is 19 dollars. What is the profit/loss for shop keeper?
+a)loss 23 b)gain 23 c)gain 54 d)Loss 54
+Gmail - tcs pattern refer this to get 5 to 7 questions from this ( study @ you...http://mail.google.com/mail/?ui=2&ik=6962b1ff48&view=pt&search=in...
+5 of 1612/5/2010 11:33 AM
+
+Pattern 23:
+1. A lady has fine gloves and hats in her closet- 18 blue, 32 red, and 25 yellow. The lights are out and it is totally
+dark. In spite of the darkness, she can make out the difference between a hat and a glove. She takes out an
+item out of the closet only if she is sure that if it is a glove. How many gloves must she take out to make sure
+she has a pair of each color?
+a)50 b)8 c)60 d)42
+2. A lady has fine gloves and hats in her closet- 14 blue, 20 red, and 18 yellow. The lights are out and it is totally
+dark. In spite of the darkness, she can make out the difference between a hat and a glove. She takes out an
+item out of the closet only if she is sure that if it is a glove. How many gloves must she take out to make sure
+she has a pair of each color?
+3. A lady has fine gloves and hats in her closet- 13 blue, 27 red, and 40 yellow. The lights are out and it is totally
+dark. In spite of the darkness, she can make out the difference between a hat and a glove. She takes out an
+item out of the closet only if she is sure that if it is a glove. How many gloves must she take out to make sure
+she has a pair of each color?
+4. A lady has fine gloves and hats in her closet- 25blue, 7 red, and 9 yellow. The lights are out and it is totally
+dark. In spite of the darkness, she can make out the difference between a hat and a glove. She takes out an
+item out of the closet only if she is sure that if it is a glove. How many gloves must she take out to make sure
+she has a pair of each color?
+5. A lady has fine gloves and hats in her closet- 26 blue, 30 red, and 56 yellow. The lights are out and it is totally
+dark. In spite of the darkness, she can make out the difference between a hat and a glove. She takes out an
+item out of the closet only if she is sure that if it is a glove. How many gloves must she take out to make sure
+she has a pair of each color?
+Pattern 24:
+1. Sangakara and Ponting selects batting by using a dice, but dice is biased. So to resolve, Ponting takes out a
+coin. What is the probability that coin shows correct option?
+a)1/2 b)1/6 c)1/12 d)6/10
+2. There is a die with 10 faces. It is not known that fair or not. 2 captains want to toss die for batting selection.
+What is the possible solution among the following?
+a) If no. is odd it is head, if no. is even it is tail
+b) If no. is odd it is tail, if no. is even it is head
+c) Toss a die until all the 10 digits appear on top face. And if first no. in the sequence is odd then consider it as
+tail. If it is even consider it as head.
+Pattern 25:
+1. In a family there are some boys and girls. All boys told that they are having equal no of brothers and sisters
+and girls told that they are having twice the no. of brothers than sisters. How many boys and girls present in a
+family?
+a)4 boys and 3 girls b)3 boys and 4 girls c)2 boys and 5 girls d)5 boys and 2 girls
+Pattern 26;
+1. 10men and 10 women are there, they dance with each other, is there possibility that 2 men are dancing with
+same women and vice versa?
+a)22 b)20 c)10 d)none
+2. There are 100 men and 100 women on the dance floor. They want to dance with each other. Then which of
+the following statements is always true:
+a) There are 2 men who danced with equal no. of women’s
+b) There are 2 women who danced with equal no. of men
+Gmail - tcs pattern refer this to get 5 to 7 questions from this ( study @ you...http://mail.google.com/mail/?ui=2&ik=6962b1ff48&view=pt&search=in...
+6 of 1612/5/2010 11:33 AM
+
+a) both a and b b)only a c)only b d)none
+Pattern 27:
+1. Middle- earth is a fictional land inhabited by hobbits, elves, dwarves and men. The hobbits and elves are
+peaceful creatures that prefer slow, silent lives and appreciate nature and art. The dwarves and the men engage
+in physical games. The game is as follows. A tournament is one where out of the two teams that play a match,
+the one that loses get eliminated. The matches are played in different rounds, where in every round; half of the
+teams get eliminated from the tournament. If there are 8 rounds played in knock out tournament, how many
+matches were played?
+a)257 b)256 c)72 d)255
+2. A game is played between 2 players and one player is declared as winner. All the winners from first round are
+played in second round. All the winners from second round are played in third round and so on. If 8 rounds are
+played to declare only one player as winner, how many players are played in first round?
+a)256 b)512 c)64 d)128
+Pattern 28:
+1. Metal strip of width ‘x’ cm. 2 metal strips are placed one over the other, then the combine length of 2 strips is
+‘y’. If ‘z’ strips are placed in that manner. What is the final width of that arrangement?
+2. A, B, C, D, E are there among A, B, C are boys and D, E are girls D is to the left of A and no girl sits at the
+middle and at the extemes. Then what is the order of their sittings.
+Pattern 29:
+1. There is 7 friends (A1, A2, A3....A7).If A1 have to have shake with all without repeat. How many handshakes
+possible?
+a)6 b)21 c)28 d)7
+2. 49 members attended the party. In that 22 are males, 17 are females. The shake hands between males,
+females, male and female. Total 12 people given shake hands. How many such kinds of such shake hands are
+possible?
+a)122 b)66 c)48 d)128
+Pattern 30:
+1. B is taller than j and 3 pillars. P is shorter than B and 2 pillars is j shorter/taller than P?
+a)yes b)no c)may be d)can’t find
+2. There are 1000 pillars for a temple. 3 friends Linda, Chelsey, Juli visited that temple. (Some unrelated stuff)
+Linda is taller than Chelsea and taller than 2 of 1000 pillars. Julia is shorter than Linda. Find the correct
+sentence?
+a) Linda is shorter among them
+b) Chelsea is taller than Julia
+c) Chelsea is shorter than Julia
+d) Cannot determine who is taller among Chelsea and Julia 
+Pattern-31
+1. Entry ticket to an exhibition ranges from 1p to 31p. You need to provide exact change at the counter. You
+have 31p coin. In how many parts will u divide 31p so that u will provide the exact change required and carry as
+less coins as possible?
+a)4 b)5 c)6 d)7
+Pattern 32
+1. Peter and Paul are two friends. The sum of their ages is 35 years. Peter is twice as old as Paul was when
+Peter was as old as Paul is now. What is the present age of Peter?
+Gmail - tcs pattern refer this to get 5 to 7 questions from this ( study @ you...http://mail.google.com/mail/?ui=2&ik=6962b1ff48&view=pt&search=in...
+7 of 1612/5/2010 11:33 AM
+
+a)8 b)20 c)16 d)15
+Pattern 33
+1. 20 men handshake with each other without repetition. What is the total number of handshakes made?
+a)190 b)210 c)150 d)250
+2.10 people are there, they are shaking hands together, how many hand shakes possible, if they are in no pair
+of cyclic sequence.
+a)45 b)9 c)12 d)10
+Pattern 34
+1. If there are 2 wheelers and 4 wheelers parked in a school located at the heart of the city, find the number of
+4 wheelers parked there if there were 20 two wheelers parked there
+a)48 b)50 c)52 d)64
+2. If there are 2 wheelers and 4 wheelers parked in a school located at the heart of the city, find the number of
+4 wheelers parked there if there were 58 wheels are parked there
+a)10 b)33 c)22 d)none
+Pattern 35
+1. A man whose age is 45 yrs has 3 sons named John, Jill, jack. He went to a park weekly twice. He loves his
+sons very much. On a certain day he found the shop keepers selling different things. An apple cost 1penny,
+2chocalate costs 1penny & 3 bananas cost 1 penny. He has bought equal number of apple, chocolate & banana
+for each son. If the total amount he invest is 7 penny then how many he has bought from each piece for his son?
+a)1app,1cho,1 banana b)1 app,2cho,3 banana c)1app,2cho,1banana
+2. One person had three children. He had 7 pennies. Find the distribution of the fruits among the three children.
+A melon costs 1 penny, 2 oranges cost 1 penny and 3 grapes cost 1 penny
+a)2 melons, 1 orange, 1 grape b) 2 melons, 2 orange, 1 grape c) 1 melons, 2 orange, 1 grape.
+PATTERN 36
+1) The age of the two friends were in the ration of 6:5.If the sum of their ages is 55.Then after how many years
+their ratio will become 8:7?
+a)11 b)7 c)10 d)12
+2)The age of the two friends were in the ration of 6:5.If the sum of their ages is 66.Then after how many years
+their ratio will become 7:6?
+a)11 b)6 c)10 d)12
+3) The age of the two friends were in the ration of 2:3.If the sum of their ages is 55.Then after how many years
+their ratio will become 4:5?
+a)11 b)33 c)22 d)44
+PATTERN 37
+1)A volume of 10936 l water is in a container of sphere.How many semisphere of volume 4l each will be
+required to tranfer all the water into the small semispheres?
+a)2812 b)8231 c)2734 d)4222
+PATTERN 38
+1)A person ismanufacturing a house.He bought 20 ropes of wire which has a density of 300 Kg/m3.The height of
+the building to be constructed is 40 m.If the capacity of the current passed in the wire is 20 A and the voltage
+capacity is 80 Volts.Then what will be the opposing force to the current if the wire is used ?
+a)2 b)4 c)8 d)1600
+Gmail - tcs pattern refer this to get 5 to 7 questions from this ( study @ you...http://mail.google.com/mail/?ui=2&ik=6962b1ff48&view=pt&search=in...
+8 of 1612/5/2010 11:33 AM
+
+PATTERN 39
+1)A horse chases a pony 2 hours after the pony runs.Horse takes 3 hours to reach the pony.If the average speed
+of the horse is 81Kmph.Then what is the average speed of the pony?
+a)46.4 b)51 c)53.4 d)48.6
+2) A horse chases a pony 3 hours after the pony runs. Horse takes 4 hours to reach the pony. If the average
+speed of the horse is 35 kmph, what s the average speed of the pony? 
+3) : A horse chases a pony 3 hours after the pony runs. Horse takes 4 hours to reach the pony. If the average
+speed of the horse is 35 kmph, what s the average speed of the pony
+PATTERN 40
+1)The difference between two no is 9 and the product of the two is 14.What is the square of their sum?
+a)120 b)130 c)137 d)145
+2) The sum of two no is 5 and the product of the two is 14.What is the sum of their squares?
+3) The sum of the squares of two no is 12 and their sum is 15.Find the product of the two no?
+PATTERN 41
+1) On planet korba, a solar blast has melted the ice caps on its equator. 9 years after the ice melts, tiny
+planetoids called echina start growing on the rocks. Echina grows in the form of circle, and the relationship
+between the diameter of this circle and the age of echina is given by the formula d = 4*√ (t-9) for t ≥ 9 where d
+represents the diameter in mm and t the number of years since the solar blast.Jagan recorded the radius of
+some echina at a particular spot as 7mm. How many years back did the solar blast occur?
+a) 17 b)21.25 c)12.25 d)14.05
+PATTERN 42
+1)A man goes 50Km north , then turned left walked 40Km, then turned right ? In which direction he is?
+a)North b)South c)East d)West
+PATTERN 43
+1)In T.Nagar the building were numbered from 1 to 100.Then how many 4’s will be present in the numbers?
+a)18 b)19 c)20 d)21
+2)In T.Nagar the building were numbered from 1 to 100.Then how many 6’s will be present in the numbers?
+a)18 b)19 c)20 d)21
+3)In T.Nagar the building were numbered from 1 to 100.Then how many 1’s will be present in the numbers?
+a)18 b)19 c)20 d)21
+4)In T.Nagar the building were numbered from 1 to 100.Then how many 0’s will be present in the numbers?
+a)18 b)19 c)20 d)11
+PATTERN 44
+1) A number when divided by D leaves a remainder of 8 and when divided by 3D leaves a remainder of 21.
+What is the remainder left, when twice the number is divided by 3D?
+13 b) cannot be determined c) 3 d) 42
+PATTERN 45
+1.) Ferrari S.P.A is an Italian sports car manufacturer based in Maranello, Italy. Founded by Enzo Ferrari in 1928
+as Scuderia Ferrari, the company sponsored drivers and manufactured race cars before moving into production
+of street-legal vehicles in 1947 as Ferrari S.P.A. Throughout its history, the company has been noted for its
+continued participation in racing, especially in Formula One where it has employed great success .Rohit once
+bought a Ferrari. It could go 4 times as fast as Mohan's old Mercedes. If the speed of Mohan's Mercedes is 35
+km/hr and the distance traveled by the Ferrari is 490 km, find the total time taken for Rohit to drive that
+Gmail - tcs pattern refer this to get 5 to 7 questions from this ( study @ you...http://mail.google.com/mail/?ui=2&ik=6962b1ff48&view=pt&search=in...
+9 of 1612/5/2010 11:33 AM
+
+distance.
+20.72 b) 5.18 c) 238.25 d) 6.18
+2) Ferrari S.P.A is an Italian sports car manufacturer based in Maranello, Italy. Founded by Enzo Ferrari in 1928
+as Scuderia Ferrari, the company sponsored drivers and manufactured race cars before moving into production
+of street-legal vehicles in 1947 as Ferrari S.P.A. Throughout its history, the company has been noted for its
+continued participation in racing, especially in Formula One where it has employed great success .Rohit once
+bought a Ferrari. It could go 4 times as fast as Mohan's old Mercedes. If the speed of Mohan's Mercedes is 46
+km/hr and the distance traveled by the Ferrari is 953 km, find the total time taken for Rohit to drive that
+distance.
+20.72 b) 5.18 c) 238.25 d) 6.18
+PATTERN 46
+1) A sheet of paper has statements numbered from 1 to 70. For all values of n from 1 to 70. Statement n says '
+At least n of the statements on this sheet are false. ‘Which statements are true and which are false?
+a) The even numbered statements are true and the odd numbered are false.
+b) The odd numbered statements are true and the even numbered are false.
+c) The first 35 statements are true and the last 35 are false.
+d) The first 35 statements are false and the last 35 are false.
+PATTERN 47
+1) A man goes north 37km.turns left goes 2km.turns right goes 17km.turns right goes 2km. find distance b/w
+starting ending point.
+a) 54 b) 27 c) 81 d) 67
+PATTERN 48
+1) If there are 30 cans out of them one is poisoned if a person tastes very little he will die within 14 hours so if
+there are mice to test and 24 hours to test, how many mices are required to find the poisoned can?
+a) 3 b) 2 c) 6 d) 1
+PATTERN 49
+1) If a and b are mixed in 3:5 ration and b and c are mixed in 8:5 ration if the final mixture is 35 liters, find the
+amount of b?
+A) 13.34 b) 15.73 c) 16.73 d) 9.45
+PATTERN 50
+1) If we subtract a number with y, we get 4 increase of number, once it got divided by y itself... Find that
+number??
+A) 13 b) 12 c) 14 d) 11
+PATTERN 51
+1) It is the class with the seating arrangement in 4 rows and 8 columns. When the teacher says 'start' the girl
+who is sitting in first row and first column will say 1, then the next girl sitting behind her will say 4, the next girl
+sitting behind that girl will say 7, in a particular order each girl is telling a number, the following girls told 10, 13
+next turn is yours what u will say?
+a) 15 b) 17 c) 14 d) 16
+PATTERN 52
+1) It is dark in my bedroom and I want to get two socks of the same color from my drawer, which contains 24
+red and 24 blue socks. How many socks do I have to take from the drawer to get at least two socks of the same
+color?
+A) 2 b) 3 c) 48 d) 25
+2) Lady has 2 select gloves & hat from a basket. In the dark, she can distinguish hat&gloves.14red, 20blue,
+18green r there. Find probability that any selected glove pair has same color.
+Gmail - tcs pattern refer this to get 5 to 7 questions from this ( study @ you...http://mail.google.com/mail/?ui=2&ik=6962b1ff48&view=pt&search=in...
+10 of 1612/5/2010 11:33 AM
+
+3).A lady had fine gloves and hats. 25 blue, 7 red and 9grey. She had to select a pair among them. But there
+was no light so she had to select in darkness the correct pair with a glove and a hat. Therefore how many
+combinations of same color she can select?
+PATTERN 53
+1) If the Valentine’s Day in 2005 falls on Monday, then on which day will the Valentine’s Day fall on 2010?
+A) Saturday b) Thursday c) Wednesday d) Sunday
+PATTERN 54
+1. A person run from A to B.He took ¼ of the time less to reach B when compare to run at normal Speed.Then
+how many percentage he has increased his speed?
+a)40 b)44.4 c)33.3 d)22.2
+2. An athlete decides to run the same distance in 1/4th less time that she usually took. By how much percent will
+she have to increase her average speed?
+a)40 b)44.4 c)33.3 d)22.2
+PATTERN 55
+1. In a building there are 5 rooms.Each having a equal area .The length of the room is 4m and breadht is 5
+m.The height of the rooms are 2m.If 17 bricks are needed to make a square meter then how many bricks are
+needed to make the floor of a particular room?
+a)320 b)380 c)340 d)300
+PATTERN 56
+1. One man want to build a wall .The length and breadth of the wall are 20 and 30 respectively. He need 35
+bricks for one square centimeter then how many bricks he need?
+a)21,500 b)30,000 c)21,000 d)20,000
+PATTERN 57
+1. In a hotel we can order two types of varities,but we can make 6 more variteis in home.One can choose the
+four varities with two from hotel as must.Find how many ways one can order.
+a)14 b)15 c)56 d)28
+PATTERN 58
+1. If a pipe can fill the tank within 6hrs.But due to leak it takes 30 min more.Now the tank is full then how much
+time will it take to empty the tank throught the leak.?
+a)78 b)56 c)66 d)59
+PATTERN 59
+1.The bacteria has the probability of split into 3 and probability to die is 1/3rd of the total bacteria.Let the
+probability is P.Some of them survived with probability 1/5.Then which among the following relation is true?
+a)P=1/3+1/5*3 b)P=1/5*(1/8-3)
+2. There is a bacteria which has the probability of die 1/3 of its total number or it may tripled. Find out the
+probability
+A. P=1/3+(2/3*p^3) B. P=2/3+(2/3*p^3) C. P=2/3+(1/3*p^3) D P=2/3+(2/3*p^3)
+PATTERN 60
+1. There was a grand mother in a village who had a grand child.Upon asking her grand childs age she told that
+she is as older as many days old as her daughters age in weeks and as many days as her own age in years.The
+sum of the three is 130.then how old is the child.?
+PATTERN 61
+1) In T.Nagar the building were numbered from 1 to 100.Then how many 4’s will be present in the numbers?
+a)18 b)19 c)20 d)21
+Gmail - tcs pattern refer this to get 5 to 7 questions from this ( study @ you...http://mail.google.com/mail/?ui=2&ik=6962b1ff48&view=pt&search=in...
+11 of 1612/5/2010 11:33 AM
+
+2) In Tnagar many buildings were under residential category.for buildings they number as 1 to 100. For shops,
+corporation numbered between 150 and 200 only prime numbers. how many time 6 will appear in building
+numbering?
+PATTERN 62
+1)Amrith told to Anand in front of a Photo that “He is the son of my father’s son”.Find who is in the picture if
+amrith have no brothers and sisters.
+a)Amrith himself b)Amrith’s Uncle c)Amrith’s Father d)Amrith’s son
+2) One person has no siblings and says,” the guy in the photo is the only son of my father ‘s son”. What is the
+relation of the guy to the person?
+PATTERN 63
+1) One grand father has 3 grand children two of the age difference is 3.Eldest child age is 3 times the youngest
+childs age and the eldest child age is two year more than the sum of other two children. Find what is the age of
+the elders child?
+a)18 b)22 c)30 d)10.
+2) One grandfather has three grandchildren, two of their age difference is 3, eldest child age is 3 times youngest
+child’s age and eldest child’s age is two times of sum of other two children. What is the age of eldest child?
+3) One grandfather has three grandchildren, two of their age difference is 3, eldest child age is 3 times youngest
+child’s age and eldest child’s age is two times of sum of other two children. What is the age of eldest child?
+PATTERN 64
+1) In a school, for a student out of 100 he got 74 of average for 7 subjects and he got 79 marks in the 8th
+subject. what is the average of all the subject?
+a)76.251 b)80.25 c)74.265 d)74.625
+PATTERN 65
+1) 3 persons a,b,c were there A always says truth,B lies on Monday,tusday,& Wednesday.but C lies on
+thrusday,Friday & saturday .one day A said”that B & C said to A that” B said “yesterday way one of the days
+when I lies”,C said that”yesterday way one of the days when I lies too”.then which day was that?
+a)Sunday b)Thursday c)Saturday d)Tuesday
+PATTERN 66
+1) Which is the smallest no which divides 2880 and gives a perfect square?
+a)4 b)9 c)3 d)5
+PATTERN 67
+1) How many 9 digit numbers are possible by using the digits 1,2,3,4,5 which are divisible by 4 if the repetition
+is allowed?
+a)57 b)56 c)59 d)58
+2) how many 13 digit numbers are possible by using the digits 1,2,3,4,5 which are divisible by 4 if repetition of
+digits is allowed?
+3) By using 1,2,3,4,5,how many 5 digit no. can be formed which is divisible by 4,repetation of no. is allowed??
+4) Form 8 digit numbers from by using 1, 2,3,4,5 with repetition is allowed and must be divisible by4?
+5) How many of 14 digit numbers we can make with 1,2,3,4,5 that are divisible by 4. Repetitions allowed.
+PATTERN 68
+1) Consider two tumblers, the first containing Water and next contains coffee. Suppose you take one spoon of
+Gmail - tcs pattern refer this to get 5 to 7 questions from this ( study @ you...http://mail.google.com/mail/?ui=2&ik=6962b1ff48&view=pt&search=in...
+12 of 1612/5/2010 11:33 AM
+
+water out of the first tumbler and pour it into the second tumbler. After moving you take one spoon of the
+mixture from the second tumbler and pour it back into the first tumbler . Which one of the following statement
+holds now?
+a) There is less coffee in the first tumbler than water in the second tumblers
+b) There is more coffee in the firs tumbler than water in the second tumbler
+c) There is as much coffee in the first tumbler as there is water in the second tumbler
+d)None of the statements holds true
+2) Two bowls are taken, one contains water and another contains tea.one spoon of water is added to second
+bowl and mixed well, and a spoon of mixture is taken from second bowl and added to the second bowl. Which
+statement will hold good for the above?
+PATTERN 69
+1) Six friends decide to share a big cake. Since all of them like the cake, they begin quarreling who gets to first
+cut and have a piece of the cake. One friend suggests that they have a blindfold friend choose from well shuffled
+set of cards numbered one to six. You check and find that this method works as it should simulating a fair throw
+of a die. You check by performing multiple simultaneous trials of picking the cards blindfold and throwing a die.
+You note that the number shown by the method of picking up a card and throwing a real world die, sums to a
+number between 2 and 12. Which total would be likely to appear more often – 8,9 or 10?
+a) 8 b)All are equally likely c)9 d)10
+PATTERN 70
+69) Given a collection of points P in the plane , a 1-set is a point in P that can be separated from the rest by a
+line, .i.e the point lies on one side of the line while the others lie on the other side. The number of 1-sets of P is
+denoted by n1(P). The minimum value of n1(P) over all configurations P of 5 points in the plane in general
+position (.i.e no three points in P lie on a line) is
+a) 3 b)5 c)2 d)8
+--
+RAJESH PERUMAL :)
+T H E   O N L Y   P L A C E   W H E R E   S U C E S S   C O M E S   B E F O R E   W O R K   I S   I N  T H E
+D I C T I O N A R Y
+Gmail - tcs pattern refer this to get 5 to 7 questions from this ( study @ you...http://mail.google.com/mail/?ui=2&ik=6962b1ff48&view=pt&search=in...
+13 of 1612/5/2010 11:33 AM
+
+ 
+--
+RAJESH PERUMAL :)
+T H E   O N L Y   P L A C E   W H E R E   S U C E S S   C O M E S   B E F O R E   W O R K   I S   I N  T H E
+D I C T I O N A R Y
+Gmail - tcs pattern refer this to get 5 to 7 questions from this ( study @ you...http://mail.google.com/mail/?ui=2&ik=6962b1ff48&view=pt&search=in...
+14 of 1612/5/2010 11:33 AM
+
+ 
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>Sun, Dec 5, 2010 at 9:37 AM
+To: dinwin1989+caf_=the_king_castel=yahoo.co.in@gmail.com
+Delivery to the following recipient failed permanently:
+    
+the_king_castel@yahoo.co.in
+Technical details of permanent failure:
+Google tried to deliver your message, but it was rejected by the recipient domain. We recommend contacting the
+other email provider for further information about the cause of this error. The error that the other server returned
+was: 554 554 delivery error: dd Sorry your message to 
+the_king_castel@yahoo.co.in cannot be delivered. This
+account has been disabled or discontinued [#102]. - mta1040.mail.in.yahoo.com (state 18).
+----- Original message -----
+Received: by 10.213.17.198 with SMTP id t6mr827865eba.57.1291522058399;
+       Sat, 04 Dec 2010 20:07:38 -0800 (PST)
+X-Forwarded-To: the_king_castel@yahoo.co.in
+X-Forwarded-For: dinwin1989@gmail.com the_king_castel@yahoo.co.in
+Delivered-To: dinwin1989@gmail.com
+Received: by 10.213.14.82 with SMTP id f18cs62842eba;
+       Sat, 4 Dec 2010 20:07:37 -0800 (PST)
+Return-Path: <
+jeshpv@gmail.com>
+Received-SPF: pass (google.com: domain of jeshpv@gmail.com designates 10.223.93.142 as permitted sender)
+client-ip=10.223.93.142;
+Authentication-Results: mr.google.com; spf=pass (google.com: domain of jeshpv@gmail.com designates
+10.223.93.142 as permitted sender) smtp.mail=jeshpv@gmail.com; dkim=pass header.i=jeshpv@gmail.com
+Received: from mr.google.com ([10.223.93.142])
+Gmail - tcs pattern refer this to get 5 to 7 questions from this ( study @ you...http://mail.google.com/mail/?ui=2&ik=6962b1ff48&view=pt&search=in...
+15 of 1612/5/2010 11:33 AM
+
+       by 10.223.93.142 with SMTP id v14mr4005700fam.49.1291522057087 (num_hops = 1);
+       Sat, 04 Dec 2010 20:07:37 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+       d=gmail.com; s=gamma;
+       h=domainkey-signature:mime-version:received:received:date:message-id
+        :subject:from:to:content-type;
+       bh=rMoAjudNw720as3dZ4JfEGxnAzwsE+iJm7Ca0fYo1z8=;
+       b=yClsFPBHa1wLj/7T3VSiTkHNJLeFY4jCcEvSflnRchSumHE1Z0Ana9NLdtGLiMOfNp
+        2lw1c1qEq7iXHsFEPHTRPedzXWUpbZWvuKpGx9zM2vfqDCWI7n9aIe3isS/0N4hvXxXP
+        crkVf3Co6mMVNRcqbfo6zZPuCOcpImyl/WAiw=
+DomainKey-Signature: a=rsa-sha1; c=nofws;
+       d=gmail.com; s=gamma;
+       h=mime-version:date:message-id:subject:from:to:content-type;
+       b=Z9IPcjQv7HSm8oHX6lDvr0mRH+ZSQ+DpuTixzgRl8YrdKEaHa4C0Zt2zkOaJ3uPtjH
+        SkmVHaucqmARtdwiStcSuoQV6OmhlO80nAoCBdVPlUWVKFeAE75PkRL0sm2YuhxJJSFr
+        yEagSgJiCZpAZk2m27447yrH8bch5+4hf03B0=
+MIME-Version: 1.0
+Received: by 10.223.93.142 with SMTP id v14mr4005700fam.49.1291522057065; Sat,
+ 04 Dec 2010 20:07:37 -0800 (PST)
+Received: by 10.223.14.150 with HTTP; Sat, 4 Dec 2010 20:07:36 -0800 (PST)
+Date: Sun, 5 Dec 2010 09:37:36 +0530
+Message-ID: <AANLkTi=6q3BR-At+4VS98LBK3V+YDDUDB_xYRRLD-HHF@mail.gmail.com>
+Subject: tcs pattern refer this to get 5 to 7 questions from this ( study @
+ your own risk)
+From: rajesh perumal <jeshpv@gmail.com>
+To: subakarthik <esubakarthik@gmail.com>, nirmal 9884791987 <nirmalr60@gmail.com>,
+       karthik raja 9952777030 <terrifickarthi@gmail.com>, bala.rocks31@gmail.com,
+       karthi <karthi51289@gmail.com>, Dinesh Kumar <dinwin1989@gmail.com>,
+       gowri sangar <smoothlife07@gmail.com>, thilip 9600672271 <thilipjan31@gmail.com>,
+       sampath <samp10vv@gmail.com>, elavarasan 9003886566 <elavarasanblack@gmail.com>,
+       saravana <kumar1790@gmail.com>, faiyaz <faiyaz50@gmail.com>
+Content-Type: multipart/alternative; boundary=20cf3054a3db6e567f0496a1e9b7
+*Pattern 1:
+[Quoted text hidden]
+Gmail - tcs pattern refer this to get 5 to 7 questions from this ( study @ you...http://mail.google.com/mail/?ui=2&ik=6962b1ff48&view=pt&search=in...
+16 of 1612/5/2010 11:33 AM

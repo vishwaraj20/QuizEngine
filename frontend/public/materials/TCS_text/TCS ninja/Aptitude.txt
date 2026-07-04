@@ -1,0 +1,2475 @@
+
+
+First Job.... Dream Job.... Freshersworld.com 
+Freshersworld.com Resource Center 
+ 1 
+Aptitude Questions 
+1.One of the following is my secret word:AIM  DUE  MOD  OAT  TIE.With the list 
+in front of you, if I were to tell you any one of my secret word, then you would be 
+able to tell me the number of vowels in my secret word.Which is my secret word? 
+Ans.TIE 
+ 
+2.In the following figure:A  B  C 
+                                              D 
+                                              E   F  G 
+                                                       H 
+                                                       I 
+Each of the digits 1, 2, 3, 4, 5, 6, 7, 8, and 9 is: 
+a)Represented by a different letter in the figure above. 
+b)Positioned in the figure above so that each of A + B + C,C + D +E,E + F + G, 
+and G + H + I is equal to 13. 
+Which digit does E represent? 
+ 
+Ans.E is 4 
+3.One of Mr. Horton,his wife,their son,and Mr. Horton's mother is a doctor and 
+another is a lawyer. 
+a)If the doctor is younger than the lawyer, then the doctor and the lawyer are 
+not blood relatives. 
+b)If the doctor is a woman, then the doctor and the lawyer are blood relatives. 
+c)If the lawyer is a man, then the doctor is a man. 
+Whose occupation you know? 
+ 
+Ans.Mr. Horton:he is the doctor. 
+4.Here is a picture of two cubes: 
+                                                 
+ 
+           
+  a)The two cubes are exactly alike. 
+  b)The hidden faces indicated by the dots have the same alphabet on them. 
+Which alphabet-q, r, w, or k is on the faces indicated by the dots? 
+ 
+Ans.q 
+ 
+
+First Job.... Dream Job.... Freshersworld.com 
+Freshersworld.com Resource Center 
+ 2 
+ 
+5.In the following figure: 
+                                    A              D 
+                                    B      G     E 
+                                    C             F 
+Each of the seven digits from 0, 1, 2, 3, 4, 5, 6, 7, 8, and 9 is: 
+  a)Represented by a different letter in the figure above. 
+  b)Positioned in the figure above so that A*B*C,B*G*E, and D*E*F are equal. 
+Which digit does G represent? 
+ 
+Ans.G represents the digit 2. 
+6.Mr. and Mrs. Aye and Mr. and Mrs. Bee competed in a chess tournament.Of the 
+three games played: 
+  a)In only the first game werethe two players married to each other. 
+  b)The men won two games and the women won one game. 
+  c)The Ayes won more games than the Bees. 
+  d)Anyone who lost game did not play the subsequent game. 
+Who did not lose a game? 
+ 
+Ans.Mrs.Bee did not lose a game. 
+7.Three piles of chips--pile I consists one chip, pile II consists of chips, and pile 
+III consists of three chips--are to be used in game played by Anita and 
+Brinda.The game requires: 
+  a)That each player in turn take only one chip or all chips from just one pile. 
+  b)That the player who has to take the last chip loses. 
+  c)That Anita now have her turn. 
+From which pile should Anita draw in order to win? 
+ 
+Ans.Pile II 
+8.Of Abdul, Binoy, and Chandini: 
+  a)Each member belongs to the Tee family whose members always tell the truth 
+or to the El family whose members        always lie. 
+  b)Abdul says ''Either I belong or Binoy belongs to a different family from the 
+other two." 
+     Whose family do you name of? 
+ 
+Ans.Binoy's family--El. 
+9.In a class composed of x girls and y boys what part of the class is composed of 
+girls 
+ 
+A.y/(x + y) 
+B.x/xy 
+C.x/(x + y) 
+D.y/xy 
+ 
+Ans.C 
+
+First Job.... Dream Job.... Freshersworld.com 
+Freshersworld.com Resource Center 
+ 3 
+ 
+ 
+10.What is the maximum number of half-pint bottles of cream that can be filled 
+with a 4-gallon can of cream(2 pt.=1 qt. and 4 qt.=1 gal) 
+ 
+A.16 
+B.24 
+C.30 
+D.64 
+ 
+Ans.D 
+ 
+ 
+11.If the operation,^ is defined by the equation x ^ y = 2x + y,what is the value 
+of a in 2 ^ a = a ^ 3 
+ 
+A.0 
+B.1 
+C.-1 
+D.4 
+ 
+Ans.B 
+ 
+ 
+12.A coffee shop blends 2 kinds of coffee,putting in 2 parts of a 33p. a gm. grade 
+to 1 part of a 24p. a gm.If the mixture is changed to 1 part of the 33p. a gm. to 
+2 parts of the less expensive grade,how much will the shop save in blending 100 
+gms. 
+ 
+A.Rs.90 
+B.Rs.1.00 
+C.Rs.3.00 
+D.Rs.8.00 
+ 
+Ans.C 
+ 
+ 
+13.There are 200 questions on a 3 hr examination.Among these questions are 50 
+mathematics problems.It is suggested that twice as much time be spent on each 
+maths problem as for each other question.How many minutes should be spent on 
+mathematics problems 
+ 
+A.36 
+B.72 
+C.60 
+D.100 
+ 
+Ans.B 
+ 
+ 
+ 
+
+First Job.... Dream Job.... Freshersworld.com 
+Freshersworld.com Resource Center 
+ 4 
+ 
+ 
+14.In a group of 15,7 have studied Latin, 8 have studied Greek, and 3 have not 
+studied either.How many of these studied both Latin and Greek 
+ 
+A.0 
+B.3 
+C.4 
+D.5 
+ 
+Ans.B 
+ 
+ 
+15.If 13 = 13w/(1-w) ,then (2w)
+2 
+= 
+ 
+A.1/4 
+B.1/2 
+C.1 
+D.2 
+ 
+Ans.C 
+ 
+ 
+16. If a and b are positive integers and (a-b)/3.5 = 4/7, then  
+(A) b < a 
+(B) b > a 
+(C) b = a 
+(D) b >= a 
+Ans. A 
+ 
+ 
+17. In june a baseball team that played 60 games had won 30% of its game 
+played. After a phenomenal winning streak this team raised its average to 50% 
+.How many games must the team have won in a row to attain this average? 
+A. 12 
+B. 20 
+C. 24 
+D. 30 
+Ans. C 
+ 
+ 
+18. M men agree to purchase a gift for Rs. D. If three men drop out how much 
+more will each have to contribute towards the purchase of the gift/ 
+A. D/(M-3) 
+B. MD/3 
+
+First Job.... Dream Job.... Freshersworld.com 
+Freshersworld.com Resource Center 
+ 5 
+C. M/(D-3) 
+D. 3D/(M
+2
+-3M)  
+Ans. D 
+ 
+ 
+19. A company contracts to paint 3 houses. Mr.Brown can paint a house in 6 days 
+while Mr.Black would take 8 days and Mr.Blue 12 days. After 8 days Mr.Brown 
+goes on vacation and Mr. Black begins to work for a period of 6 days. How many 
+days will it take Mr.Blue to complete the contract? 
+A. 7 
+B. 8 
+C. 11 
+D. 12 
+ 
+Ans.C 
+ 
+20. 2 hours after a freight train leaves Delhi a passenger train leaves the same 
+station travelling in the same direction at an average speed of 16 km/hr. After 
+travelling 4 hrs the passenger train overtakes the freight train. The average 
+speed of the freight train was? 
+A. 30 
+B. 40 
+C.58 
+D. 60 
+Ans. B 
+ 
+21. If 9x-3y=12 and 3x-5y=7 then 6x-2y = ? 
+A.-5 
+B. 4 
+C. 2 
+D. 8 
+Ans. D 
+22. There are 5 red shoes, 4 green shoes. If one draw randomly a shoe what is 
+the probability of getting a red shoe  
+ 
+Ans 5c
+1
+/ 9c
+1
+ 
+ 
+ 
+23. What is the selling price of a car? If the cost of the car is Rs.60 and a  profit 
+of 10% over selling price is earned 
+ 
+Ans: Rs 66/- 
+
+First Job.... Dream Job.... Freshersworld.com 
+Freshersworld.com Resource Center 
+ 6 
+ 
+ 
+ 
+24. 1/3 of girls , 1/2 of boys go to canteen .What factor and total number of 
+classmates go to canteen.  
+ 
+Ans: Cannot be determined. 
+ 
+ 
+25. The price of a product is reduced by 30% . By what percentage should it be 
+increased to make it 100%  
+ 
+Ans: 42.857% 
+ 
+ 
+26. There is a square of side 6cm . A circle is inscribed inside the square. Find the 
+ratio of the area of circle to square.  
+Ans. 11/14  
+27. There are two candles of equal lengths and of different thickness. The thicker 
+one lasts of six hours. The thinner 2 hours less than the thicker one. Ramesh 
+lights the two candles at the same time. When he went to bed he saw the thicker 
+one is twice the length of the thinner one. How long ago did Ramesh light the two 
+candles . 
+ 
+Ans: 3 hours.  
+28. If M/N = 6/5,then 3M+2N = ?  
+29. If p/q = 5/4 , then 2p+q= ?  
+30. If PQRST is a parallelogram what it the ratio of triangle PQS & parallelogram 
+PQRST . 
+Ans: 1:2  
+31. The cost of an item is Rs 12.60. If the profit is 10% over selling price what is 
+the selling price ? 
+Ans: Rs 13.86/-  
+32. There are 6 red shoes & 4 green shoes . If two of red shoes are drawn what 
+is the probability of getting red shoes  
+Ans: 6c
+2
+/10c
+2
+ 
+33. To 15 lts of water containing 20% alcohol, we add 5 lts of pure water. What is 
+% alcohol.  
+
+First Job.... Dream Job.... Freshersworld.com 
+Freshersworld.com Resource Center 
+ 7 
+Ans : 15%  
+34. A worker is paid Rs.20/- for a full days work. He works 1,1/3,2/3,1/8.3/4 
+days in a week. What is the total amount paid for that worker ? 
+Ans : 57.50  
+35. If the value of x lies between 0 & 1 which of the following is the largest?  
+(a) x  
+(b) x
+2
+ 
+(c) -x 
+(d) 1/x 
+ 
+Ans : (d)  
+ 36. If the total distance of a journey is 120 km .If one goes by 60 kmph and 
+comes back at 40kmph what is the average speed during the journey?  
+Ans: 48kmph 
+37. A school has 30% students from Maharashtra .Out of these 20% are Bombey 
+students. Find the total percentage of Bombay? 
+Ans:  6% 
+38. An equilateral triangle of sides 3 inch each is given. How many equilateral 
+triangles of side 1 inch can be formed from it? 
+Ans: 9 
+39. If A/B = 3/5,then 15A = ? 
+Ans : 9B 
+40. Each side of a rectangle is increased by 100% .By what percentage does the 
+area increase? 
+Ans : 300% 
+41. Perimeter of the back wheel = 9 feet, front wheel = 7 feet on a certain 
+distance, the front wheel gets 10 revolutions more than the back wheel .What is 
+the distance? 
+Ans : 315 feet. 
+42. Perimeter of front wheel =30, back wheel = 20. If front wheel revolves 240 
+times. How many revolutions will the back wheel take? 
+Ans: 360 times 
+
+First Job.... Dream Job.... Freshersworld.com 
+Freshersworld.com Resource Center 
+ 8 
+43. 20% of a 6 litre solution and 60% of 4 litre solution are mixed. What 
+percentage of the mixture of solution 
+Ans: 36% 
+44City A's population is 68000, decreasing at a rate of 80 people per year. City B 
+having population 42000 is increasing at a rate of 120 people per year. In how 
+many years both the cities will have same population? 
+Ans: 130 years 
+45Two cars are 15 kms apart. One is turning at a speed of 50kmph and the other 
+at 40kmph . How much time will it take for the two cars to meet? 
+Ans: 3/2 hours 
+46A person wants to buy 3 paise and 5 paise stamps costing exactly one rupee. If 
+he buys which of the following number of stamps he won't able to buy 3 paise 
+stamps. 
+Ans: 9 
+47There are 12 boys and 15 girls, How many different dancing groups can be 
+formed with 2 boys and 3 girls. 
+48Which of the following fractions is less than 1/3 
+(a) 22/62  
+(b) 15/46 
+(c) 2/3 
+(d) 1 
+Ans: (b) 
+49There are two circles, one circle is inscribed and another circle is circumscribed 
+over a square. What is the ratio of area of inner to outer circle? 
+Ans: 1 : 2 
+50Three types of tea the a,b,c costs Rs. 95/kg,100/kg and70/kg respectively. 
+     How many kgs of each should be blended to produce 100 kg of mixture worth 
+Rs.90/kg, 
+     given that the quntities of band c are equal 
+a)70,15,15  
+b)50,25,25  
+c)60,20,20  
+d)40,30,30  
+Ans. (b) 
+
+First Job.... Dream Job.... Freshersworld.com 
+Freshersworld.com Resource Center 
+ 9 
+51. in a class, except 18 all are above 50 years. 
+    15 are below 50 years of age. How many people are there 
+(a) 30  
+(b) 33  
+(c) 36  
+(d) none of these. 
+Ans. (d) 
+52. If a boat is moving in upstream with velocity of 14 km/hr and goes 
+downstream with a velocity of 40 km/hr, then what is the speed of the stream ? 
+ 
+(a) 13 km/hr 
+(b) 26 km/hr 
+(c) 34 km/hr 
+(d) none of these 
+Ans. A 
+53. 
+Find the value of ( 0.75 * 0.75 * 0.75 - 0.001 ) / ( 0.75 * 0.75 - 0.075 + 
+0.01) 
+ 
+(a) 0.845 
+(b) 1.908 
+(c) 2.312 
+(d) 0.001 
+Ans. A 
+54. A can have a piece of work done in 8 days, B can work three times faster 
+than the A, C can work five times faster than A. How many days will they take to 
+do the work together ? 
+ 
+(a) 3 days 
+(b) 8/9 days 
+(c) 4 days 
+(d) can't say 
+Ans. B 
+55. A car travels a certain distance taking 7 hrs in forward journey, during the 
+return journey increased speed 12km/hr takes the times 5 hrs.What is the 
+distance travelled 
+ 
+(a) 210 kms 
+(b) 30 kms 
+(c) 20 kms 
+(c) none of these 
+Ans. B 
+
+First Job.... Dream Job.... Freshersworld.com 
+Freshersworld.com Resource Center 
+ 10 
+56. Instead of multiplying a number by 7, the number is divided by 7. What is the 
+percentage of error obtained ? 
+57.  Find (7x + 4y ) / (x-2y) if x/2y = 3/2 ? 
+ 
+(a) 6 
+(b) 8 
+(c) 7 
+(d) data insufficient 
+Ans. C 
+58. A man buys 12 lts of liquid which contains 20% of the liquid and the rest is 
+water. He then mixes it with 10 lts of another mixture with 30% of liquid.What is 
+the % of water in the new mixture? 
+59. If a man buys 1 lt of milk for Rs.12 and mixes it with 20% water and sells it 
+for Rs.15, then what is the percentage of gain? 
+60. Pipe A can fill a tank in 30 mins and Pipe B can fill it in 28 mins.If 3/4th of the 
+tank is filled by Pipe B alone and both are opened, how much time is required by 
+both the pipes to fill the tank completely ? 
+61. If on an item a company gives 25% discount, they earn 25% profit. If they 
+now give 10% discount then what is the profit percentage. 
+(a) 40% 
+(b) 55% 
+(c) 35% 
+(d) 30% 
+Ans. D 
+62. A certain number of men can finish a piece of work in 10 days. If however 
+there were 10 men less it will take 10 days more for the work to be finished. How 
+many men were there originally? 
+ 
+(a) 110 men 
+(b) 130 men 
+(c) 100 men 
+(d) none of these 
+Ans. A 
+63. In simple interest what sum amounts of Rs.1120/- in 4 years and Rs.1200/- 
+in 5 years ? 
+(a) Rs. 500 
+(b) Rs. 600 
+(c) Rs. 800 
+(d) Rs. 900 
+
+First Job.... Dream Job.... Freshersworld.com 
+Freshersworld.com Resource Center 
+ 11 
+Ans. C 
+64. If a sum of money compound annually amounts of thrice itself in 3 years. In 
+how many years  
+will it become 9 times itself. 
+ 
+(a) 6 
+(b) 8 
+(c) 10 
+(d) 12 
+Ans A 
+65. Two trains move in the same direction at 50 kmph and 32 kmph respectively. 
+A man in the slower train  
+observes the 15 seconds elapse before the faster train completely passes by him. 
+What is the length of faster train ? 
+ 
+(a) 100m 
+(b) 75m 
+(c) 120m 
+(d) 50m 
+Ans B 
+66. How many mashes are there in 1 squrare meter of wire gauge if each mesh 
+is 8mm long and 5mm wide ? 
+ 
+(a) 2500 
+(b) 25000 
+(c) 250 
+(d) 250000 
+Ans B 
+67. x% of y is y% of ? 
+(a) x/y 
+(b) 2y 
+(c) x 
+(d) can't be determined 
+Ans. C 
+68. The price of sugar increases by 20%, by what % should a housewife reduce 
+the consumption of sugar so that expenditure on sugar can be same as before ? 
+(a) 15% 
+(b) 16.66% 
+(c) 12% 
+(d) 9%    
+Ans B 
+
+First Job.... Dream Job.... Freshersworld.com 
+Freshersworld.com Resource Center 
+ 12 
+69. A man spends half of his salary on household expenses, 1/4th for rent, 1/5th 
+for travel expenses, the man deposits the rest in a bank. If his monthly deposits 
+in the bank amount 50, what is his monthly salary ? 
+(a) Rs.500 
+(b) Rs.1500 
+(c) Rs.1000 
+(d) Rs. 900 
+Ans C 
+70. The population of a city increases @ 4% p.a. There is an additional annual 
+increase of 4% of the population due to the influx of job seekers, find the % 
+increase in population after 2 years ?  
+71. The ratio of the number of boys and girls in a school is 3:2 Out of these 10% 
+the boys and 25% of girls are scholarship holders. % of students who are not 
+scholarship holders.? 
+72. 15 men take 21 days of 8 hrs. each to do a piece of work. How many days of 
+6 hrs. each would it take for 21 women if 3 women do as much work as 2 men? 
+(a) 30 
+(b) 20 
+(c) 19 
+(d) 29 
+Ans. A 
+73. A cylinder is 6 cms in diameter and 6 cms in height. If spheres of the same 
+size are made from the material obtained, what is the diameter of each sphere? 
+(a) 5 cms 
+(b) 2 cms 
+(c) 3 cms 
+(d) 4 cms 
+Ans C 
+74. A rectangular plank (2)
+1/2
+ meters wide can be placed so that it is on either 
+side of the diagonal of a square shown below.(Figure is not available)What is the 
+area of the plank? 
+Ans :7*(2)
+1/2
+ 
+75. The difference b/w the compound interest payble half yearly and the simple 
+interest on a  
+certain sum lent out at 10% p.a for 1 year is Rs 25. What is the sum? 
+(a) Rs. 15000 
+(b) Rs. 12000 
+(c) Rs. 10000 
+(d) none of these 
+Ans C 
+
+First Job.... Dream Job.... Freshersworld.com 
+Freshersworld.com Resource Center 
+ 13 
+76. What is the smallest number by which 2880 must be divided in order to make 
+it into a  
+perfect square ? 
+ 
+(a) 3 
+(b) 4 
+(c) 5  
+(d) 6  
+Ans. C 
+77. A father is 30 years older than his son however he will be only thrice as old 
+as the son after 5 years 
+what is father's present age ? 
+ 
+(a) 40 yrs 
+(b) 30 yrs 
+(c) 50 yrs 
+(d) none of these 
+Ans. A 
+78. An article sold at a profit of 20% if both the cost price and selling price would 
+be Rs.20/- the profit would be 10% more. What is the cost price of that article? 
+29. If an item costs Rs.3 in '99 and Rs.203 in '00.What is the % increase in price? 
+ 
+(a) 200/3 % 
+(b) 200/6 % 
+(c) 100% 
+(d) none of these 
+Ans. A 
+80. 
+5 men or 8 women do equal amount of work in a day. a job requires 3 men 
+and 5 women to finish the job in 10 days how many woman are required to finish 
+the job in 14 days. 
+ 
+a) 10 
+b) 7  
+c) 6  
+d) 12 
+Ans 7 
+81. A simple interest amount of rs 5000 for six month is rs 200. what is the anual 
+rate of interest? 
+ 
+a) 10%    
+b) 6%  
+
+First Job.... Dream Job.... Freshersworld.com 
+Freshersworld.com Resource Center 
+ 14 
+c) 8%   
+d) 9%  
+Ans 8%    
+82. In objective test a correct ans score 4 marks and on a wrong ans 2 marks are 
+---. a student score 480 marks from       150 question. how many ans were 
+correct? 
+a) 120 
+b) 130 
+c) 110 
+d) 150 
+Ans130. 
+83. An artical sold at amount of 50% the net sale price is rs 425 .what is the list 
+price of the artical? 
+ 
+a) 500 
+b) 488 
+c) 480  
+d) 510  
+Ans 500 
+84. A man leaves office daily at 7pm  A driver with car comes from his home to 
+pick him from office and bring back home   
+     One day he gets free at 5:30 and instead of waiting for driver he starts 
+walking towards home. 
+     In the way he meets the car and returns home on car  He reaches home 20 
+minutes earlier than usual. 
+     In how much time does the man reach home usually?? 
+Ans. 1hr 20min 
+85. A works thrice as much as B. If A takes 60 days less than B to do a work then 
+find the number of days it would take to       complete the work if both work 
+together? 
+Ans. 22½days 
+86. How many 1's are there in the binary form of  8*1024 + 3*64 + 3 
+Ans. 4 
+87. In a digital circuit which was to implement (A B) + (A)XOR(B), the designer 
+implements (A B) (A)XOR(B)   
+    What is the probability of error in it ? 
+
+First Job.... Dream Job.... Freshersworld.com 
+Freshersworld.com Resource Center 
+ 15 
+88. A boy has Rs 2. He wins or loses Re 1 at a time  If he wins he gets Re 1 and 
+if he loses the game he loses Re 1. 
+     He can loose only 5 times. He is out of the game if he earns Rs 5. 
+     Find the number of ways in which this is possible? 
+Ans. 16 
+89. If there are 1024*1280 pixels on a screen and each pixel can have around 16 
+million colors 
+     Find the memory required for this? 
+Ans. 4MB 
+90. On a particular day A and B decide that they would either speak the truth or 
+will lie.  
+     C asks A whether he is speaking truth or lying? 
+     He answers and B listens to what he said. C then asks B what A has said  B 
+says "A says that he is a liar"  
+     What is B speaking ? 
+(a) Truth 
+(b) Lie 
+(c) Truth when A lies 
+(d) Cannot be determined 
+Ans. (b) 
+91. What is the angle between the two hands of a clock when time is 8:30 
+Ans. 75(approx) 
+92. 
+A student is ranked 13th from right and 8th from left. How many students are 
+there in totality ? 
+93. A man walks east and turns right and then from there to his left and then 
+45degrees to 
+  his right.In which direction did he go 
+ 
+Ans. North west 
+94. A student gets 70% in one subject, 80% in the other. To get an overall of 
+75% how much should get in third subject. 
+95. A man shows his friend a woman sitting in a park and says that she the 
+daughter of my  grandmother's only son. 
+    What is the relation between the two 
+ 
+Ans. Daughter 
+ 
+
+First Job.... Dream Job.... Freshersworld.com 
+Freshersworld.com Resource Center 
+ 16 
+96.  How many squares with sides 1/2 inch long are needed to cover a rectangle 
+that is 4 ft long and 6 ft wide 
+(a) 24 
+(b) 96 
+(c) 3456 
+(d) 13824 
+(e) 14266 
+97. If a=2/3b , b=2/3c, and c=2/3d what part of d is b/ 
+(a) 8/27 
+(b) 4/9 
+(c) 2/3 
+(d) 75% 
+(e) 4/3 
+Ans. (b) 
+2598Successive discounts of 20% and 15% are equal to a single discount of  
+(a) 30% 
+(b) 32%  
+(c) 34%  
+(d) 35%  
+(e) 36 
+Ans. (b) 
+99. The petrol tank of an automobile can hold g liters.If a liters was removed 
+when the tank was full, what part of the full tank was removed? 
+(a)g-a 
+(b)g/a 
+(c) a/g 
+(d) (g-a)/a 
+(e) (g-a)/g 
+Ans. (c) 
+100. If x/y=4 and y is not '0' what % of x is 2x-y 
+ 
+(a)150% 
+(b)175% 
+(c)200% 
+(d)250% 
+ 
+Ans. (b) 
+1.If 2x-y=4 then 6x-3y=? 
+
+First Job.... Dream Job.... Freshersworld.com 
+Freshersworld.com Resource Center 
+ 17 
+(a)15 
+(b)12 
+(c)18 
+(d)10
+ 
+ 
+Ans. (b) 
+2.
+If x=y=2z and xyz=256 then what is the value of x? 
+ 
+(a)12 
+(b)8 
+(c)16 
+(d)6 
+ 
+Ans. (b) 
+3. (1/10)
+18
+ - (1/10)
+20 
+= ? 
+(a) 99/10
+20 
+(b) 99/10 
+(c) 0.9 
+(d) none of these 
+Ans. (a) 
+4.
+Pipe A can fill in 20 minutes and Pipe B in 30 mins and Pipe C can empty the 
+same in 40 mins.If all of them work together, find the time taken to fill the tank 
+(a) 17 1/7 mins 
+(b) 20 mins 
+(c) 8 mins 
+(d) none of these 
+Ans. (a) 
+5. Thirty men take 20 days to complete a job working 9 hours a day.How many 
+hour a day should 40 men work to complete the job? 
+(a) 8 hrs 
+(b) 7 1/2 hrs 
+(c) 7 hrs 
+(d) 9 hrs 
+Ans. (b) 
+6. Find the smallest number in a GP whose sum is 38 and product 1728 
+(a) 12 
+(b) 20 
+(c) 8 
+(d) none of these 
+
+First Job.... Dream Job.... Freshersworld.com 
+Freshersworld.com Resource Center 
+ 18 
+Ans. (c) 
+7. A boat travels 20 kms upstream in 6 hrs and 18 kms downstream in 4 hrs.Find 
+the speed of the boat in still water and the speed of the water current? 
+(a) 1/2 kmph 
+(b) 7/12 kmph 
+(c) 5 kmph 
+(d) none of these 
+Ans. (b) 
+8. 
+A goat is tied to one corner of a square plot of side 12m by a rope 7m 
+long.Find the area it can graze? 
+(a) 38.5 sq.m 
+(b) 155 sq.m 
+(c) 144 sq.m 
+(d) 19.25 sq.m 
+Ans. (a) 
+9. Mr. Shah decided to walk down the escalator of a tube station. He found   that 
+if he walks down 26 steps, he requires 30 seconds to reach the bottom. However, 
+if he steps down 34 stairs he would only require 18 seconds to get to the bottom. 
+If the time is measured from the moment the top step begins   to descend to the 
+time he steps off the last step at the bottom, find out the height of the stair way 
+in steps? 
+Ans.46 steps. 
+10. 
+The average age of 10 members of a committee is the same as it was 4 years 
+ago, because an old member has been replaced by a young member. Find how 
+much younger is the new member ? 
+Ans.40 years. 
+11. 
+Three containers A, B and C have volumes a, b, and c respectively; and 
+container A is full of water while the other two are empty. If from container A 
+water is poured into container B which becomes 1/3 full, and into container C 
+which becomes 1/2 full, how much water is left in container A? 
+12. ABCE is an isosceles trapezoid and ACDE is a rectangle. AB = 10 and EC = 
+20. What is the length of AE? 
+Ans. AE = 10. 
+13.
+ In the given figure, PA and PB are tangents to the circle at A and B 
+respectively and   the chord BC is parallel to tangent PA. If AC = 6 cm, and 
+length of the tangent AP   is 9 cm, then what is the length of the chord BC? 
+
+First Job.... Dream Job.... Freshersworld.com 
+Freshersworld.com Resource Center 
+ 19 
+Ans. BC = 4 cm. 
+15 Three cards are drawn at random from an ordinary pack of cards. Find the 
+probability that they will consist of a king, a queen and an ace. 
+Ans. 64/2210. 
+16. A number of cats got together and decided to kill between them 999919   
+mice. Every cat killed an equal number of mice. Each cat killed more mice   than 
+there were cats. How many cats do you think there were ? 
+Ans. 991. 
+17. If Log2 x - 5 Log x + 6 = 0, then what would the value / values of x be?  
+Ans. x = e2 or e3. 
+18.
+ The square of a two digit number is divided by half the number. After   36 is 
+added to the quotient, this sum is then divided by 2. The digits of the resulting 
+number are the same as those in the original number, but they   are in reverse 
+order. The ten's place of the original number is equal to twice   the difference 
+between its digits. What is the number? 
+Ans. 46 
+19.Can you tender a one rupee note in such a manner that there shall be   total 
+50 coins but none of them would be 2 paise coins.? 
+Ans. 45 one paisa coins, 2 five paise coins, 2 ten paise coins, and 1 twenty-five 
+paise coins. 
+20.
+A monkey starts climbing up a tree 20ft. tall. Each hour, it hops 3ft. and slips 
+back 2ft. How much time would it take the monkey to reach the top? 
+Ans.18 hours. 
+21. What is the missing number in this series?   8 2 14 6 11 ? 14 6 18 12 
+Ans. 9 
+22. A certain type of mixture is prepared by mixing brand A at Rs.9 a kg. with 
+brand B at Rs.4 a kg. If the mixture is worth Rs.7 a kg., how many   kgs. of 
+brand A are needed to make 40kgs. of the mixture? 
+Ans. Brand A needed is 24kgs. 
+23. 
+A wizard named Nepo says "I am only three times my son's age. My father   
+is 40 years more than twice my age. Together the three of us are a mere 1240   
+years old." How old is Nepo? 
+
+First Job.... Dream Job.... Freshersworld.com 
+Freshersworld.com Resource Center 
+ 20 
+Ans. 360 years old. 
+24. One dog tells the other that there are two dogs in front of me. The other one 
+also shouts that he too had two behind him. How many are they? 
+Ans. Three. 
+25. A man ate 100 bananas in five days, each day eating 6 more than the 
+previous day. How many bananas did he eat on the first day? 
+Ans. Eight. 
+26. If it takes five minutes to boil one egg, how long will it take to boil four eggs?  
+Ans. Five minutes.  
+27.
+ The minute hand of a clock overtakes the hour hand at intervals of 64   
+minutes of correct time. How much a day does the clock gain or lose? 
+Ans. 32 8/11 minutes. 
+28.
+ Solve for x and y:   1/x - 1/y = 1/3, 1/x2 + 1/y2 = 5/9. 
+Ans. x = 3/2 or -3 and y = 3 or -3/2. 
+29.
+ Daal is now being sold at Rs. 20 a kg. During last month its rate was Rs. 16 
+per kg. By how much percent should a family reduce its consumption so   as to 
+keep the expenditure fixed?  
+Ans. 20 %. 
+30.
+ Find the least value of 3x + 4y if x2y3 = 6.  
+Ans. 10. 
+31.
+ Can you find out what day of the week was January 12, 1979? 
+Ans. Friday. 
+32. A garrison of 3300 men has provisions for 32 days, when given at a rate of 
+850 grams per head. At the end of 7 days a reinforcement arrives and it was 
+found that now the provisions will last 8 days less, when given at the rate of 825 
+grams per head. How, many more men can it feed? 
+Ans. 1700 men. 
+33.
+ From 5 different green balls, four different blue balls and three   different red 
+balls, how many combinations of balls can be chosen taking at least   one green 
+and one blue ball? 
+
+First Job.... Dream Job.... Freshersworld.com 
+Freshersworld.com Resource Center 
+ 21 
+Ans. 3720. 
+34. Three pipes, A, B, & C are attached to a tank. A & B can fill it in 20   & 30 
+minutes respectively while C can empty it in 15 minutes. If A, B & C   are kept 
+open successively for 1 minute each, how soon will the tank be filled? 
+Ans. 167 minutes. 
+35. A person walking 5/6 of his usual rate is 40 minutes late. What is his usual 
+time? Ans. 3 hours 20 minutes. 
+ 
+36.For a motorist there are three ways going from City A to City C. By way of 
+bridge the distance is 20 miles and toll is $0.75. A tunnel between the two cities 
+is a distance of 10 miles and toll is $1.00 for the vehicle and driver and $0.10 for 
+each passenger. A two-lane highway without toll goes east for 30 miles to city B 
+and then 20 miles in a northwest direction to City C.  
+ 
+ 
+1. Which is the shortest route from B to C 
+ 
+(a) Directly on toll free highway to City C 
+(b) The bridge  
+(c) The Tunnel 
+(d) The bridge or the tunnel 
+(e) The bridge only if traffic is heavy on the toll free highway 
+ 
+Ans. (a) 
+ 
+ 
+2. The most economical way of going from City A to City B, in terms of toll and 
+distance is to use the 
+ 
+(a) tunnel 
+(b) bridge 
+(c) bridge or tunnel 
+(d) toll free highway 
+(e) bridge and highway 
+ 
+Ans. (a) 
+ 
+ 
+3. Jim usually drives alone from City C to City A every working day. His firm 
+deducts a percentage of employee pay for lateness. Which factor would most 
+influence his choice of the bridge or the tunnel ? 
+ 
+(a) Whether his wife goes with him 
+(b) scenic beauty on the route 
+(c) Traffic conditions on the road, bridge and tunnel 
+(d) saving $0.25 in tolls 
+(e) price of gasoline consumed in covering additional 10 miles on the bridge 
+ 
+
+First Job.... Dream Job.... Freshersworld.com 
+Freshersworld.com Resource Center 
+ 22 
+Ans. (a) 
+ 
+ 
+4. In choosing between the use of the bridge and the tunnel the chief factor(s) 
+would be: 
+I. Traffic and road conditions 
+II. Number of passengers in the car 
+III. Location of one's homes in the center or outskirts of one of the cities 
+IV. Desire to save $0.25 
+ 
+(a) I only 
+(b) II only 
+(c) II and III only 
+(d) III and IV only 
+(e) I and II only 
+ 
+Ans. (a) 
+ 
+ 
+37.The letters A, B, C, D, E, F and G, not necessarily in that order, stand for 
+seven consecutive integers from 1 to 10 
+D is 3 less than A 
+B is the middle term 
+F is as much less than B as C is greater than D 
+G is greater than F 
+ 
+1. The fifth integer is 
+(a) A 
+(b) C 
+(c) D 
+(d) E 
+(e) F 
+ 
+Ans. (a) 
+ 
+ 
+2. A is as much greater than F as which integer is less than G 
+(a) A 
+(b) B 
+(c) C 
+(d) D 
+(e) E 
+ 
+Ans. (a) 
+ 
+ 
+3. If A = 7, the sum of E and G is 
+(a) 8 
+(b) 10 
+(c) 12 
+(d) 14 
+(e) 16 
+ 
+
+First Job.... Dream Job.... Freshersworld.com 
+Freshersworld.com Resource Center 
+ 23 
+Ans. (a) 
+ 
+4. A - F = ? 
+(a) 1 
+(b) 2 
+(c) 3 
+(d) 4 
+(e) Cannot be determined 
+ 
+Ans. (a) 
+ 
+ 
+5. An integer T is as much greater than C as C is greater than E. T can be written 
+as A + E. What is D? 
+(a) 2 
+(b) 3 
+(c) 4 
+(d) 5 
+(e) Cannot be determined 
+ 
+Ans. (a) 
+ 
+ 
+6. The greatest possible value of C is how much greater than the smallest 
+possible value of D? 
+(a) 2 
+(b) 3 
+(c) 4 
+(d) 5 
+(e) 6 
+ 
+Ans. (a) 
+ 
+ 
+ 
+38. 
+1. All G's are H's 
+2. All G's are J's or K's 
+3. All J's and K's are G's 
+4. All L's are K's 
+5. All N's are M's 
+6. No M's are G's 
+ 
+ 
+1. If no P's are K's, which of the following must be true? 
+ 
+(a) All P's are J's 
+(b) No P is a G 
+(c) No P is an H 
+(d) If any P is an H it is a G 
+(e) If any P is a G it is a J 
+ 
+Ans. (a) 
+
+First Job.... Dream Job.... Freshersworld.com 
+Freshersworld.com Resource Center 
+ 24 
+ 
+ 
+2. Which of the following can be logically deduced from the conditions stated? 
+ 
+(a) No M's are H's 
+(b) No M's that are not N's are H's 
+(c) No H's are M's 
+(d) Some M's are H's 
+(e) All M's are H's 
+ 
+Ans. (a) 
+ 
+ 
+3. Which of the following is inconsistent with one or more of the conditions? 
+ 
+(a) All H's are G's 
+(b) All H's that are not G's are M's 
+(c) Some H's are both M's and G's 
+(d) No M's are H's 
+(e) All M's are H's 
+ 
+Ans. (a) 
+ 
+ 
+4. The statement "No L's are J's" is 
+I. Logically deducible from the conditions stated 
+II. Consistent with but not deducible from the conditions stated 
+III. Deducible from the stated conditions together with the additional statement 
+"No J's are K's" 
+ 
+(a) I only 
+(b) II only 
+(c) III only 
+(d) II and III only 
+(e) Neither I, II nor III 
+ 
+Ans. (a) 
+ 
+ 
+ 
+39.In country X, democratic, conservative and justice parties have fought three 
+civil wars in twenty years. TO restore stability an agreement is reached to rotate 
+the top offices President, Prime Minister and Army Chief among the parties so 
+that each party controls one and only one office at all times. The three top office 
+holders must each have two deputies, one from each of the other parties. Each 
+deputy must choose a staff composed of equally members of his or her chiefs 
+party and member of the third party.  
+ 
+1. When Justice party holds one of the top offices, which of the following cannot 
+be true 
+ 
+(a) Some of the staff members within that office are justice party members 
+(b) Some of the staff members within that office are democratic party members 
+
+First Job.... Dream Job.... Freshersworld.com 
+Freshersworld.com Resource Center 
+ 25 
+(c) Two of the deputies within the other offices are justice party members 
+(d) Two of the deputies within the other offices are conservative party members 
+(e) Some of the staff members within the other offices are justice party 
+members. 
+ 
+Ans. (a) 
+ 
+ 
+2. When the democratic party holds presidency, the staff of the prime minister's 
+deputies are composed  
+I. One-fourth of democratic party members 
+II. One-half of justice party members and one-fourth of conservative party 
+members 
+III. One-half of conservative party members and one-fourth of justice party 
+members. 
+ 
+(a) I only 
+(b) I and II only 
+(c) II or III but not both 
+(d) I and II or I and III 
+(e) None of these 
+ 
+Ans. (a) 
+ 
+ 
+3. Which of the following is allowable under the rules as stated: 
+ 
+(a) More than half of the staff within a given office belonging to a single party 
+(b) Half of the staff within a given office belonging to a single party 
+(c) Any person having a member of the same party as his or her immediate 
+superior 
+(d) Half the total number of staff members in all three offices belonging to a 
+single party 
+(e) Half the staff members in a given office belonging to parties different from the 
+party of the top office holder in that office. 
+ 
+Ans. (a) 
+ 
+ 
+4. The office of the Army Chief passes from Conservative to Justice party. Which 
+of the following must be fired. 
+ 
+(a) The democratic deputy and all staff members belonging to Justice party 
+(b) Justice party deputy and all his or hers staff members 
+(c) Justice party deputy and half of his Conservative staff members in the chief of 
+staff office 
+(d) The Conservative deputy and all of his or her staff members belonging to 
+Conservative party 
+(e) No deputies and all staff members belonging to conservative parties. 
+ 
+Ans. (a) 
+ 
+ 
+
+First Job.... Dream Job.... Freshersworld.com 
+Freshersworld.com Resource Center 
+ 26 
+ 
+40.In recommendations to the board of trustees a tuition increase of $500 per 
+year, the president of the university said "There were no student demonstrations 
+over the previous increases of $300 last year and $200 the year before". If the 
+president's statement is accurate then which of the following can be validly 
+inferred from the information given: 
+I. Most students in previous years felt that the increases were justified because of 
+increased operating costs. 
+II. Student apathy was responsible for the failure of students to protest the 
+previous tuition increases. 
+III. Students are not likely to demonstrate over new tuition increases. 
+ 
+(a) I only 
+(b) II only 
+(c) I or II but not both 
+(d) I, II and III 
+(e) None 
+ 
+Ans. (a) 
+  
+41. The office staff of XYZ corporation presently consists of three bookeepers--A, 
+B, C and 5 secretaries D, E, F, G, H. The management is planning to open a new 
+office in another city using 2 bookeepers and 3 secretaries of the present staff . 
+To do so they plan to seperate certain individuals who don't function well 
+together. The following guidelines were established to set up the new office 
+I. Bookeepers A and C are constantly finding fault with one another and should 
+not be sent together to the new office as a team 
+II. C and E function well alone but not as a team , they should be seperated 
+III. D and G have not been on speaking terms and shouldn't go together 
+IV Since D and F have been competing for promotion they shouldn't be a team 
+1.If A is to be moved as one of the bookeepers,which of the following cannot be a 
+possible working unit. 
+ 
+A.ABDEH 
+B.ABDGH 
+C.ABEFH 
+D.ABEGH 
+ 
+Ans.B 
+ 
+ 
+2.If C and F are moved to the new office,how many combinations are possible 
+ 
+A.1 
+B.2 
+C.3 
+D.4 
+ 
+Ans.A 
+
+First Job.... Dream Job.... Freshersworld.com 
+Freshersworld.com Resource Center 
+ 27 
+ 
+ 
+3.If C is sent to the new office,which member of the staff cannot go with C 
+ 
+A.B 
+B.D 
+C.F 
+D.G 
+ 
+Ans.B 
+ 
+ 
+4.Under the guidelines developed,which of the following must go to the new office 
+ 
+A.B 
+B.D 
+C.E 
+D.G 
+ 
+Ans.A 
+ 
+ 
+5.If D goes to the new office,which of the following is/are true 
+ 
+I.C cannot go 
+II.A cannot go 
+III.H must also go 
+ 
+A.I only 
+B.II only 
+C.I and II only 
+D.I and III only 
+ 
+Ans.D 
+ 
+ 
+42.After months of talent searching for an administrative assistant to the 
+president of the college the field of applicants has been narrowed down to 5--A, 
+B, C, D, E .It was announced that the finalist would be chosen after a series of 
+all-day group personal interviews were held.The examining committee agreed 
+upon the following procedure 
+ 
+I.The interviews will be held once a week 
+II.3 candidates will appear at any all-day interview session 
+III.Each candidate will appear at least once 
+IV.If it becomes necessary to call applicants for additonal interviews, no more 1 
+such applicant should be asked to appear the next week 
+V.Because of a detail in the written applications,it was agreed that whenever 
+candidate B appears, A should also be present. 
+VI.Because of travel difficulties it was agreed that C will appear for only 1 
+interview. 
+
+First Job.... Dream Job.... Freshersworld.com 
+Freshersworld.com Resource Center 
+ 28 
+1.At the first interview the following candidates appear A,B,D.Which of the 
+follwing combinations can be called for the interview to be held next week. 
+ 
+A.BCD 
+B.CDE 
+C.ABE 
+D.ABC 
+ 
+Ans.B 
+ 
+ 
+2.Which of the following is a possible sequence of combinations for interviews in 
+2 successive weeks 
+ 
+A.ABC;BDE 
+B.ABD;ABE 
+C.ADE;ABC 
+D.BDE;ACD 
+ 
+Ans.C 
+ 
+ 
+3.If A ,B and D appear for the interview and D is called for additional interview 
+the following week,which 2 candidates may be asked to appear with D? 
+ 
+I. A 
+II B 
+III.C 
+IV.E 
+A.I and II 
+B.I and III only  
+C.II and III only 
+D.III and IV only 
+ 
+Ans.D 
+ 
+ 
+4.Which of the following correctly state(s) the procedure followed by the search 
+committee 
+ 
+I.After the second interview all applicants have appeared at least once 
+II.The committee sees each applicant a second time 
+III.If a third session,it is possible for all applicants to appear at least twice 
+ 
+A.I only 
+B.II only 
+C.III only 
+D.Both I and II 
+ 
+Ans.A 
+ 
+ 
+
+First Job.... Dream Job.... Freshersworld.com 
+Freshersworld.com Resource Center 
+ 29 
+43. A certain city is served by subway lines A,B and C and numbers 1 2 and 3 
+When it snows , morning service on B is delayed 
+When it rains or snows , service on A, 2 and 3 are delayed both in the morning 
+and afternoon  
+When temp. falls below 30 degrees farenheit afternoon service is cancelled in 
+either the A line or the 3 line, 
+but not both. 
+When the temperature rises over 90 degrees farenheit, the afternoon service is 
+cancelled in either the line C or the 
+3 line but not both. 
+When the service on the A line is delayed or cancelled, service on the C line which 
+connects the A line, is delayed. 
+When service on the 3 line is cancelled, service on the B line which connects the 
+3 line is delayed. 
+Q1.  On Jan 10th, with the temperature at 15 degree farenheit, it snows all day. 
+On how many lines will service be 
+       affected, including both morning and afternoon. 
+(A) 2 
+(B) 3 
+(C) 4 
+(D) 5  
+Ans. D 
+ 
+Q2. On Aug 15th with the temperature at 97 degrees farenheit it begins to rain at 
+1 PM. What is the minimum number 
+      of  lines on which service will be affected? 
+(A) 2 
+(B) 3 
+(C) 4 
+(D) 5  
+Ans. C 
+ 
+Q3. On which of the following occasions would service be on the greatest number 
+of lines disrupted. 
+(A) A snowy afternoon with the temperature at 45 degree farenheit 
+(B) A snowy morning with the temperature at 45 degree farenheit 
+(C) A rainy afternoon with the temperature at 45 degree farenheit 
+(D) A rainy afternoon with the temperature at 95 degree farenheit 
+Ans. B 
+ 
+44. In a certain society, there are two marriage groups, red and brown. No 
+
+First Job.... Dream Job.... Freshersworld.com 
+Freshersworld.com Resource Center 
+ 30 
+marriage is permitted within a group. On marriage, males become part of their 
+wives groups; women remain in their own group. Children belong to the same 
+group as their parents. Widowers and divorced males revert to the group of their 
+birth. Marriage to more than one person at the same time and marriage to a 
+direct descendant are forbidden 
+Q1. A brown female could have had 
+I. A grandfather born Red 
+II. A grandmother born Red 
+III Two grandfathers born Brown 
+(A) I only 
+(B) III only 
+(C) I, II and III 
+(D) I and II only 
+Ans. D 
+ 
+Q2. A male born into the brown group may have  
+(A) An uncle in either group 
+(B) A brown daughter 
+(C) A brown son 
+(D) A son-in-law born into red group  
+Ans. A 
+ 
+Q3. Which of the following is not permitted under the rules as stated. 
+(A) A brown male marrying his father's sister 
+(B) A red female marrying her mother's brother 
+(C) A widower marrying his wife's sister 
+(D) A widow marrying her divorced daughter's ex-husband  
+Ans. B 
+ 
+Q4. If widowers and divorced males retained their group they had upon marrying 
+which of the following would be permissible ( Assume that no previous marriage 
+occurred) 
+(A) A woman marrying her dead sister's husband 
+(B) A woman marrying her divorced daughter's ex-husband 
+(C) A widower marrying his brother's daughter 
+(D) A woman marrying her mother's brother who is a widower. 
+Ans. D  
+
+First Job.... Dream Job.... Freshersworld.com 
+Freshersworld.com Resource Center 
+ 31 
+ 
+Q5. I. All G's are H's 
+II. All G's are J's or K's 
+III All J's and K's are G's 
+IV All L's are K's 
+V All N's are M's 
+VI No M's are G's 
+45. There are six steps that lead from the first to the second floor. No two people 
+can be on the same step 
+Mr. A is two steps below Mr. C 
+Mr. B is a step next to Mr. D 
+Only one step is vacant ( No one standing on that step ) 
+Denote the first step by step 1 and second step by step 2 etc.  
+1. If Mr. A is on the first step, Which of the following is true?  
+(a) Mr. B is on the second step 
+(b) Mr. C is on the fourth step. 
+(c) A person Mr. E, could be on the third step 
+(d) Mr. D is on higher step than Mr. C.  
+Ans: (d) 
+2. If Mr. E was on the third step & Mr. B was on a higher step than Mr. E which 
+step must be vacant  
+(a) step 1  
+(b) step 2  
+(c) step 4  
+(d) step 5 
+(e) step 6  
+Ans: (a)  
+3. If Mr. B was on step 1, which step could A be on?  
+(a) 2&e only 
+(b) 3&5 only  
+(c) 3&4 only  
+(d) 4&5 only  
+(e) 2&4 only  
+Ans: (c) 
+4. If there were two steps between the step that A was standing and the step 
+that B was standing on, and A was on a higher step than D , A must be on step  
+(a) 2  
+(b) 3  
+(c) 4  
+(d) 5  
+(e) 6   
+
+First Job.... Dream Job.... Freshersworld.com 
+Freshersworld.com Resource Center 
+ 32 
+Ans: (c)  
+ 
+5. Which of the following is false  
+ 
+i. B&D can be both on odd-numbered steps in one configuration 
+ii. In a particular configuration A and C must either both an odd numbered steps 
+or both an even-numbered steps 
+iii. A person E can be on a step next to the vacant step.  
+(a) i only  
+(b) ii only  
+(c) iii only 
+(d) both i and iii 
+Ans: (c)  
+  
+46. Six swimmers A, B, C, D, E, F compete in a race. The outcome is as follows.  
+i. B does not win. 
+ii. Only two swimmers separate E & D 
+iii. A is behind D & E 
+iv. B is ahead of E , with one swimmer intervening 
+v. F is a head of D  
+1. Who stood fifth in the race ? 
+(a) A  
+(b) B  
+(c) C  
+(d) D  
+(e) E  
+Ans: (e)  
+2. How many swimmers seperate A and F ? 
+(a) 1  
+(b) 2  
+(c) 3  
+(d) 4  
+(e) cannot be determined  
+Ans: (d) 
+3. The swimmer between C & E is 
+(a) none  
+(b) F  
+(c) D  
+(d) B  
+(e) A   
+
+First Job.... Dream Job.... Freshersworld.com 
+Freshersworld.com Resource Center 
+ 33 
+Ans: (a) 
+ 
+ 
+4. If the end of the race, swimmer D is disqualified by the Judges then swimmer 
+B finishes in which place  
+(a) 1 
+(b) 2  
+(c) 3  
+(d) 4  
+(e) 5   
+Ans: (b)  
+47. Five houses lettered A,B,C,D, & E are built in a row next to each other. The 
+houses are lined up in the order A,B,C,D, & E. Each of the five houses has a 
+colored chimney. The roof and chimney of each housemust be painted as follows. 
+i. The roof must be painted either green,red ,or yellow. 
+ii. The chimney must be painted either white, black, or red. 
+iii. No house may have the same color chimney as the color of roof. 
+iv. No house may use any of the same colors that the every next house uses. 
+v. House E has a green roof. 
+vi. House B has a red roof and a black chimney  
+1. Which of the following is true ?  
+(a) At least two houses have black chimney. 
+(b) At least two houses have red roofs. 
+(c) At least two houses have white chimneys 
+(d) At least two houses have green roofs 
+(e) At least two houses have yellow roofs  
+Ans: (c)  
+2. Which must be false ?  
+(a) House A has a yellow roof  
+(b) House A & C have different color chimney 
+(c) House D has a black chimney 
+(d) House E has a white chimney 
+(e) House B&D have the same color roof.  
+Ans: (b)  
+3. If house C has a yellow roof. Which must be true.  
+(a) House E has a white chimney 
+(b) House E has a black chimney 
+(c) House E has a red chimney 
+(d) House D has a red chimney 
+(e) House C has a black chimney  
+Ans: (a)  
+
+First Job.... Dream Job.... Freshersworld.com 
+Freshersworld.com Resource Center 
+ 34 
+4. Which possible combinations of roof & chimney can house  
+I. A red roof 7 a black chimney 
+II. A yellow roof & a red chimney 
+III. A yellow roof & a black chimney 
+ 
+(a) I only  
+(b) II only  
+(c) III only  
+(d) I & II only  
+(e) I&II&III  
+Ans: (e) 
+ 
+ 
+ 
+ 
+ 
+48. Find x+2y 
+(i). x+y=10 
+(ii). 2x+4y=20 
+Ans: (b) 
+ 
+ 
+49. Is angle BAC is a right angle  
+(i) AB=2BC 
+(2) BC=1.5AC 
+Ans: (e) 
+50. Is x greater than y 
+(i) x=2k 
+(ii) k=2y  
+Ans: (e) 
+ 
+ 
+1. It  was  calculated  that  75  men  could  complete  a  piece  of  work  in  20  days. 
+When work was scheduled to commence, it was found necessary to send 25 
+men to another project. How much longer will it take to complete the work? 
+
+First Job.... Dream Job.... Freshersworld.com 
+Freshersworld.com Resource Center 
+ 35 
+ 
+2. A  student  divided  a  number  by  2/3  when  he  required  to  multiply  by  3/2. 
+Calculate the percentage of error in his result. 
+ 
+3. A dishonest shopkeeper professes to sell pulses at the cost price, but he uses a 
+false weight of 950gm. for a kg. His gain is ...%. 
+ 
+4. A  software  engineer  has  the  capability  of  thinking  100  lines  of  code  in  five 
+minutes  and  can  type  100  lines  of  code  in  10  minutes.  He  takes  a  break  for 
+five  minutes  after  every  ten  minutes.  How  many  lines  of  codes  will  he 
+complete typing after an hour? 
+ 
+5. A man was engaged on a job for 30 days on the condition that he would get a 
+wage  of  Rs.  10  for  the  day  he  works,  but  he  have  to  pay  a  fine  of  Rs.  2  for 
+each day of his absence. If he gets Rs. 216 at the end, he was absent for work 
+for ... days. 
+ 
+6. A  contractor  agreeing  to  finish  a  work  in  150  days,  employed  75  men  each 
+working  8  hours  daily.  After  90  days,  only  2/7  of  the  work  was  completed. 
+Increasing  the  number  of  men  by  ________  each  working  now  for  10  hours 
+daily, the work can be completed in time. 
+ 
+7. what is a percent of b divided by b percent of a? 
+  (a)  a (b) b (c) 1 (d) 10 (d) 100 
+ 
+8. A man bought a horse and a cart. If he sold the horse at 10 % loss and the cart 
+at 20 % gain, he would  not lose anything; but if he sold the horse at 5% loss 
+and the cart at 5% gain, he would lose Rs. 10 in the bargain. The amount paid 
+by him was Rs._______ for the horse and Rs.________ for the cart. 
+ 
+9. A  tennis  marker  is  trying  to  put  together  a  team  of  four  players  for  a  tennis 
+tournament out of seven available. males - a, b and c; females – m, n, o and p. 
+All  players  are  of  equal  ability  and  there  must  be  at  least  two  males  in  the 
+team.  For  a  team  of  four,  all  players  must  be  able  to  play  with  each  other 
+under the following restrictions: 
+  b should not play with m, 
+  c should not play with p, and 
+  a should not play with o. 
+ Which of the following statements must be false? 
+1. b and p cannot be selected together 
+2. c and o cannot be selected together 
+3. c and n cannot be selected together. 
+ 
+10-12. The  following  figure  depicts  three  views  of  a  cube.  Based  on this, 
+answer questions 10-12. 
+
+First Job.... Dream Job.... Freshersworld.com 
+Freshersworld.com Resource Center 
+ 36 
+    
+6         5          4      
+ 
+       1        22      3          6   
+   
+   
+ 
+ 
+10. The number on the face opposite to the face carrying 1 is _______ . 
+ 
+11. The number on the faces adjacent to the face marked 5 are _______ . 
+ 
+12. Which  of  the  following  pairs  does  not  correctly  give  the  numbers  on  the 
+opposite faces. 
+ (1) 6,5 (2) 4,1 (3) 1,3 (4) 4,2 
+ 
+13. Five farmers have 7, 9, 11, 13 & 14 apple trees, respectively in their orchards. 
+Last  year,  each  of  them  discovered  that  every  tree  in  their own  orchard  bore 
+exactly the same number of apples. Further, if the third farmer gives one apple 
+to the first, and the fifth gives three to each of the second and the fourth, they 
+would  all  have  exactly  the  same  number  of  apples.  What  were  the  yields  per 
+tree in the orchards of the third and fourth farmers? 
+ 
+14. Five boys were climbing a hill. J was following H. R was just ahead of G. K 
+was  between  G  &  H.  They  were  climbing  up  in  a  column.  Who  was  the 
+second? 
+ 
+15-18   John is undecided which of the four novels to buy. He is considering a spy  
+thriller, a Murder mystery, a Gothic romance and a science fiction novel. The 
+books are written by Rothko, Gorky, Burchfield and Hopper, not necessary in 
+that order, and published by Heron, Piegon, Blueja and sparrow, not necessary 
+in that order. 
+(1) The book by Rothko is published by Sparrow. 
+(2) The Spy thriller is published by Heron. 
+(3) The science fiction novel is by Burchfield and is not published by Blueja. 
+(4)The Gothic romance is by Hopper. 
+ 
+15. Pigeon publishes ____________. 
+ 
+16. The novel by Gorky ________________. 
+ 
+17. John  purchases  books  by  the  authors  whose  names  come  first  and  third  in 
+alphabetical order. He does not buy the books ______. 
+ 
+ 
+     2   
+ 
+     3 
+ 
+      2 
+
+First Job.... Dream Job.... Freshersworld.com 
+Freshersworld.com Resource Center 
+ 37 
+18. On  the  basis  of  the  first  paragraph  and  statement  (2),  (3)  and  (4)  only,  it  is 
+possible to deduce that 
+1. Rothko wrote the murder mystery or the spy thriller 
+2. Sparrow published the murder mystery or the spy thriller 
+3. The book by Burchfield is published by Sparrow.  
+ 
+19.  If  a  light  flashes  every  6  seconds,  how  many  times  will  it flash  in  ¾  of  an 
+hour? 
+ 
+20. If point P is on line segment AB, then which of the following is always true? 
+ (1) AP = PB   (2) AP > PB  (3) PB > AP  (4) AB > AP  (5) AB > AP + PB 
+ 
+21. All  men  are  vertebrates.  Some  mammals  are  vertebrates.  Which  of  the 
+following conclusions drawn from the above statement is correct. 
+All men are mammals 
+All mammals are men 
+Some vertebrates are mammals. 
+None 
+ 
+22. Which  of  the  following  statements  drawn  from  the  given  statements  are 
+correct? 
+ Given: 
+All watches sold in that shop are of high standard. Some of the HMT watches 
+are sold in that shop. 
+a) All watches of high standard were manufactured by HMT. 
+b) Some of the HMT watches are of high standard. 
+c) None of the HMT watches is of high standard. 
+d) Some of the HMT watches of high standard are sold in that shop. 
+ 
+23-27. 
+1. Ashland is north of East Liverpool and west of Coshocton. 
+2. Bowling green is north of Ashland and west of Fredericktown. 
+3. Dover is south and east of Ashland. 
+4. East Liverpool is north of Fredericktown and east of Dover. 
+5. Fredericktown is north of Dover and west of Ashland. 
+6. Coshocton is south of Fredericktown and west of Dover. 
+ 
+23. Which of the towns mentioned is furthest of the north – west 
+ (a) Ashland      (b) Bowling green  (c) Coshocton   
+(d) East Liverpool (e) Fredericktown 
+ 
+24. Which of the following must be both north and east of Fredericktown? 
+ (a) Ashland  (b) Coshocton  (c) East Liverpool 
+ I a only  II b only III c only IV a & b V a & c 
+ 
+
+First Job.... Dream Job.... Freshersworld.com 
+Freshersworld.com Resource Center 
+ 38 
+25. Which of the following towns must be situated both south and west of at least 
+one other town? 
+A. Ashland only 
+B. Ashland and Fredericktown 
+C. Dover and Fredericktown 
+D. Dover, Coshocton and Fredericktown 
+E. Coshocton, Dover and East Liverpool. 
+ 
+26. Which of the following statements, if true, would make the information in the 
+numbered statements more specific? 
+(a) Coshocton is north of Dover. 
+(b) East Liverpool is north of Dover 
+(c) Ashland is east of Bowling green. 
+(d) Coshocton is east of Fredericktown 
+(e) Bowling green is north of Fredericktown 
+ 
+27. Which  of  the  numbered  statements  gives  information  that  can  be  deduced 
+from one or more of the other statements? 
+ (A) 1    (B) 2     (C) 3     (D) 4    (E) 6     
+ 
+28. Eight  friends  Harsha,  Fakis,  Balaji,  Eswar,  Dhinesh,  Chandra,  Geetha,  and 
+Ahmed are sitting in a circle facing the center. Balaji is sitting between Geetha 
+and  Dhinesh.  Harsha  is  third  to  the  left  of  Balaji  and  second  to  the  right  of 
+Ahmed. Chandra is sitting between Ahmed and Geetha and Balaji and Eshwar 
+are not sitting opposite to each other. Who is third to the left of Dhinesh? 
+ 
+29. If every alternative letter starting from B of the English alphabet is written in 
+small letter, rest all are written in capital letters, how the month  “ September” 
+be written.  
+ (1) SeptEMbEr (2) SEpTeMBEr   (3) SeptembeR  
+(4) SepteMber  (5) None of the above. 
+ 
+30. The length of the side of a square is represented by x+2. The length of the side 
+of  an  equilateral  triangle  is  2x.  If  the  square  and  the  equilateral  triangle  have 
+equal perimeter, then the value of x is _______. 
+ 
+31. It  takes  Mr.  Karthik  y  hours  to  complete  typing  a  manuscript.  After  2  hours, 
+he   was   called   away.   What   fractional   part   of   the   assignment was   left 
+incomplete? 
+ 
+32. Which of the following is larger than 3/5? 
+ (1)  ½ (2) 39/50   (3) 7/25     (4) 3/10     (5) 59/100 
+ 
+33. The number that does not have a reciprocal is ____________. 
+ 
+
+First Job.... Dream Job.... Freshersworld.com 
+Freshersworld.com Resource Center 
+ 39 
+34.    There are 3 persons Sudhir, Arvind, and Gauri. Sudhir lent cars to Arvind and Gauri as many as they had already. 
+After some time Arvind gave as many cars to Sudhir and Gauri as many as they have. After sometime Gauri did the same 
+thing. At the end of this transaction each one of them had 24. Find the cars each originally had. 
+ 
+35. A man bought a horse and a cart. If he sold the horse at 10 % loss and the cart 
+at 20 % gain, he would  not lose anything; but if he sold the horse at 5% loss 
+and the cart at 5% gain, he would lose Rs. 10 in the bargain. The amount paid 
+by him was Rs._______ for the horse and Rs.________ for the cart. 
+ 
+Answers: 
+ 
+1. Answer:  
+30 days. 
+ Explanation: 
+ Before: 
+ One day work    =  1 / 20 
+ One man’s one day work =  1 / ( 20 * 75) 
+Now: 
+  No. Of workers  =  50   
+  One day work    =  50 * 1 /  ( 20 * 75) 
+ 
+  The total no. of days required to complete the work = (75 * 20) / 50  = 
+30 
+ 
+2. Answer: 
+ 0 % 
+ Explanation: 
+ Since 3x / 2  = x / (2 / 3) 
+ 
+3. Answer:  
+5.3 % 
+ Explanation: 
+  He sells 950 grams of pulses and gains 50 grams. 
+ If  he  sells  100  grams  of  pulses  then  he  will  gain  (50  /  950)  *100    =  
+5.26 
+ 
+4. Answer:  
+250 lines of codes 
+ 
+5. Answer:  
+7 days 
+Explanation: 
+The equation portraying the given problem is: 
+   10 *  x – 2 * (30 – x) =  216  where x is the number of working days. 
+ Solving this we get x = 23 
+ Number of days he was absent was 7 (30-23) days. 
+ 
+
+First Job.... Dream Job.... Freshersworld.com 
+Freshersworld.com Resource Center 
+ 40 
+6. Answer:  
+150 men. 
+Explanation: 
+ One day’s work   = 2 / (7 * 90) 
+ One hour’s work  = 2 / (7 * 90 * 8) 
+ One man’s work  = 2 / (7 * 90 * 8 * 75) 
+ 
+The remaining work (5/7) has to be completed within 60 days, because 
+the total number of days allotted for the project is 150 days. 
+ 
+ So we get the equation 
+   
+  (2 * 10 * x * 60) / (7 * 90 *  8 * 75)   =    5/7    where  x  is  the  number  of 
+men working after the 90
+th
+ day. 
+ 
+ We get x = 225 
+ Since we have 75 men already, it is enough to add only 150 men. 
+ 
+7. Answer:  
+(c) 1 
+Explanation:  
+ a percent of b : (a/100) * b 
+ b percent of a : (b/100) * a 
+ a percent of b divided by b percent of a : ((a / 100 )*b) /  (b/100) * a )) 
+= 1 
+ 
+8. Answer: 
+Cost price of horse =  Rs. 400 & the cost price of cart = 200. 
+Explanation:- 
+ Let x be the cost price of the horse and y be the cost price of the cart. 
+ In the first sale there is no loss or profit. (i.e.) The loss obtained is equal to the 
+gain. 
+ 
+  Therefore (10/100) * x    =  (20/100) * y 
+ 
+     X =  2 * y     -----------------(1) 
+ In  the  second  sale,  he  lost  Rs.  10.  (i.e.)  The  loss  is  greater  than  the  profit  by 
+Rs. 10. 
+ 
+  Therefore (5 / 100) * x    =  (5 / 100) * y + 10 -------(2) 
+  Substituting (1) in (2) we get 
+   (10 / 100) * y  =  (5 / 100) * y + 10 
+   (5 / 100) * y    =  10 
+   y = 200  
+From (1) 2 * 200 = x = 400 
+ 
+
+First Job.... Dream Job.... Freshersworld.com 
+Freshersworld.com Resource Center 
+ 41 
+9. Answer: 
+ 3. 
+ Explanation: 
+ Since inclusion of any male player will reject a female from the team. 
+Since  there  should  be  four  member  in  the  team  and  only  three  males  are 
+available, the girl, n should included in the team always irrespective of others 
+selection.  
+ 
+10. Answer:  
+5 
+ 
+11. Answer:  
+1,2,3 & 4 
+ 
+12. Answer:  
+B 
+ 
+13. Answer: 
+11 & 9 apples per tree. 
+ Explanation: 
+ Let a, b, c, d & e be the total number of apples bored per year in A, B, 
+C, D & E ‘s orchard. Given that  a + 1 = b + 3 = c – 1 = d + 3 = e – 6   
+But the question is to find the number of apples bored per tree in C and D ‘s 
+orchard. If is enough to consider c – 1 = d + 3. 
+ Since the number of trees in C’s orchard is 11 and that of D’s orchard 
+is 13. Let x and y be the number of apples bored per tree in C & d ‘s orchard 
+respectively. 
+ Therefore 11 x – 1 = 13 y + 3 
+By trial and error method, we get the value for x and y as 11 and 9 
+  
+14. Answer:  
+G. 
+ Explanation:  
+ The order in which they are climbing is R – G – K – H – J      
+ 
+15 – 18 
+Answer: 
+  Novel Name     Author  Publisher 
+  Spy thriller  Rathko  Heron 
+  Murder mystery Gorky   Piegon 
+  Gothic romance Burchfield Blueja 
+  Science fiction  Hopper Sparrow 
+ 
+ Explanation:  
+ Given 
+  Novel Name     Author  Publisher 
+
+First Job.... Dream Job.... Freshersworld.com 
+Freshersworld.com Resource Center 
+ 42 
+  Spy thriller  Rathko  Heron 
+  Murder mystery Gorky   Piegon 
+  Gothic romance Burchfield Blueja 
+  Science fiction  Hopper Sparrow   
+ 
+Since  Blueja  doesn’t  publish  the  novel  by  Burchfield  and  Heron 
+publishes the novel spy thriller, Piegon publishes the novel by Burchfield. 
+Since  Hopper  writes  Gothic  romance  and  Heron  publishes  the  novel 
+spy thriller, Blueja publishes the novel by Hopper. 
+Since  Heron  publishes  the  novel  spy  thriller  and  Heron  publishes  the 
+novel by Gorky, Gorky writes Spy thriller and Rathko writes Murder mystery.  
+ 
+19. Answer:   
+451 times. 
+Explanation: 
+There are 60 minutes in an hour. 
+ In ¾ of an hour there are (60 * ¾) minutes  = 45 minutes. 
+  In ¾ of an hour there are (60 * 45) seconds = 2700 seconds. 
+ Light flashed for every 6 seconds. 
+  In 2700 seconds 2700/6 = 450 times. 
+The count start after the first flash, the light will flashes 451 times in ¾ 
+of an hour. 
+ 
+20. Answer:  
+(4) 
+ Explanation:  
+    P  
+  A     B  
+ Since p is a point on the line segment AB, AB > AP 
+  
+21. Answer:  (c) 
+  
+22. Answer:  (b) & (d). 
+ 
+ 
+ 
+ 
+ 
+ 
+       Ahmed 
+23 - 27.Answer:  
+    Fakis      Chandra 
+28. Answer: Fakis     
+Explanation:  Harsha        Geetha 
+  
+    Eswar     Balaji   
+
+First Job.... Dream Job.... Freshersworld.com 
+Freshersworld.com Resource Center 
+ 43 
+ 
+       
+Dhinesh 
+ 
+29. Answer:  
+(5). 
+Explanation:  
+ Since every alternative letter starting from B of the English alphabet is 
+written in small letter, the letters written in small letter are b, d, f... 
+ In  the  first  two  answers  the  letter  E  is  written  in  both  small  &  capital 
+letters, so they are not the correct answers. But in third and fourth answers the 
+letter  is  written  in  small  letter  instead  capital  letter,  so  they  are  not  the 
+answers. 
+  
+30. Answer:  
+x = 4 
+Explanation:  
+Since the side of the square is x + 2, its perimeter = 4 (x + 2) = 4x + 8 
+Since the side of the equilateral triangle is 2x, its perimeter = 3 * 2x = 6x 
+Also, the perimeters of both are equal. 
+ (i.e.)    4x + 8 = 6x   
+ (i.e.)    2x = 8  x = 4. 
+ 
+31.  Answer: 
+       (y – 2) / y. 
+Explanation:   
+ To type a manuscript karthik took y hours. 
+ Therefore his speed in typing  = 1/y. 
+ He was called away after 2 hours of typing. 
+ Therefore the work completed = 1/y * 2. 
+ Therefore the remaining work to be completed = 1 – 2/y.  
+ (i.e.) work to be completed  = (y-2)/y 
+ 
+32. Answer: 
+  (2) 
+ 
+33. Answer:  
+1 
+ Explanation:  
+One   is   the   only   number   exists   without   reciprocal   because   the 
+reciprocal of one is one itself. 
+ 
+34. Answer:  
+Sudhir had 39 cars, Arvind had 21 cars and Gauri had 12 cars. 
+ Explanation:  
+    Sudhir           Arvind              Gauri 
+
+First Job.... Dream Job.... Freshersworld.com 
+Freshersworld.com Resource Center 
+ 44 
+ 
+ Finally    24   24   24 
+Before Gauri’s transaction     12   12   48 
+ Before Arvind’s transaction    6   42   24 
+ Before Sudhir’ s transaction   39   21   12 
+ 
+35. Answer:   
+Cost price of horse:     Rs. 400 &  
+Cost price of cart: Rs. 200 
+ Explanation:  
+  Let x be the cost of horse & y be the cost of the cart. 
+  10 % of loss in selling horse = 20 % of gain in selling the cart 
+   Therefore (10 / 100) * x = (20 * 100) * y 
+ x = 2y -----------(1) 
+5 % of loss in selling the horse is 10 more than the 5 % gain in selling 
+the cart. 
+ Therefore  (5 / 100) * x - 10 = (5 / 100) * y 
+   5x - 1000 =  5y 
+ Substituting (1) 
+   10y - 1000 = 5y 
+   5y = 1000 
+   y = 200 
+   x = 400  from (1)  
+ 
+Exercise 2.1 
+For the following, find the next term in the series  
+ 
+1.  6, 24, 60,120, 210 
+ 
+   a) 336 b) 366   c) 330   d) 660 
+ 
+   Answer : a) 336 
+   Explanation  :  The  series  is  1.2.3,  2.3.4,  3.4.5,  4.5.6,  5.6.7,  .....                    (  '.'  means 
+product) 
+ 
+2.  1, 5, 13, 25 
+ 
+  Answer : 41 
+  Explanation : The series is of the form   0^2+1^2, 1^2+2^2,... 
+ 
+3. 0, 5, 8, 17 
+ 
+   Answer : 24 
+   Explanation : 1^2-1, 2^2+1, 3^2-1, 4^2+1, 5^2-1 
+ 
+4. 1, 8, 9, 64, 25    (Hint : Every successive terms are related) 
+
+First Job.... Dream Job.... Freshersworld.com 
+Freshersworld.com Resource Center 
+ 45 
+ 
+   Answer : 216 
+   Explanation : 1^2, 2^3, 3^2, 4^3, 5^2, 6^3 
+ 
+5. 8,24,12,36,18,54 
+    
+   Answer : 27 
+ 
+6. 71,76,69,74,67,72 
+   Answer : 67   
+ 
+7. 5,9,16,29,54 
+   Answer : 103 
+   Explanation : 5*2-1=9; 9*2-2=16; 16*2-3=29; 29*2-4=54; 54*2-5=103 
+ 
+8. 1,2,4,10,16,40,64 (Successive terms are related) 
+   Answer : 200 
+   Explanation : The series is powers of 2 (2^0,2^1,..). 
+          All digits are less than 8.  Every second number is in octal number system.  
+          128 should follow 64. 128 base 10 = 200 base 8. 
+ 
+Exercise 2.2 
+ 
+Find the odd man out. 
+ 
+1. 3,5,7,12,13,17,19 
+    Answer : 12  
+    Explanation : All but 12 are odd numbers 
+ 
+2. 2,5,10,17,26,37,50,64 
+   Answer : 64 
+   Explanation   :   2+3=5;   5+5=10;   10+7=17;   17+9=26;   26+11=37;   37+13=50; 
+50+15=65; 
+ 
+3. 105,85,60,30,0,-45,-90 
+    Answer : 0 
+    Explanation : 105-20=85; 85-25=60; 60-30=30; 30-35=-5; -5-40=-45; -45-45=-90; 
+ 
+ 
+Exercise 3 
+Solve the following. 
+ 
+1.  What  is  the  number  of  zeros  at  the  end  of  the  product  of  the  numbers from  1  to 
+100? 
+ Answer : 127 
+
+First Job.... Dream Job.... Freshersworld.com 
+Freshersworld.com Resource Center 
+ 46 
+2. A fast typist can type some matter in 2 hours and a slow typist can type the same in 
+3 hours. If both type combinely, in how much time will they finish? 
+ Answer : 1 hr 12 min 
+ Explanation :    The fast typist's work done in 1 hr = 1/2 
+             The slow typist's work done in 1 hr = 1/3 
+             If they work combinely, work done in 1 hr = 1/2+1/3 = 5/6 
+So, the work will be completed in 6/5 hours. i.e., 1+1/5 hours = 1hr 12 min 
+ 
+3.  Gavaskar's  average  in  his  first  50  innings  was  50.  After  the  51st  innings,  his 
+average was 51. How many runs did he score in his 51st innings. (supposing that he 
+lost his wicket in his 51st innings) 
+ Answer : 101 
+ Explanation :  Total score after 50 innings = 50*50 = 2500 
+  Total score after 51 innings = 51*51 = 2601 
+   So, runs made in the 51st innings = 2601-2500 = 101  
+  If he had not lost his wicket in his 51st innings, he would have scored 
+an unbeaten 50 in his 51st innings. 
+ 
+4.  Out  of  80  coins,  one  is  counterfeit.  What  is  the  minimum  number  of  weighings 
+needed to find out the counterfeit coin? 
+ Answer : 4 
+ 
+5. What can you conclude from the statement : All green are blue, all blue are red. ? 
+(i) some blue are green 
+(ii) some red are green   
+(iii) some green are not red  
+(iv) all red are blue 
+(a) i or ii but not both  
+(b) i & ii only  
+(c) iii or iv but not both  
+(d) iii & iv 
+ 
+ Answer : (b) 
+ 
+6. A rectangular plate with length 8 inches, breadth 11 inches and thickness 2 inches 
+is available. What is the length of the circular rod with diameter 8 inches and equal to 
+the volume of the rectangular plate? 
+ Answer : 3.5 inches 
+ Explanation  :  Volume  of  the  circular  rod  (cylinder)  =  Volume  of  the 
+rectangular plate 
+  (22/7)*4*4*h = 8*11*2 
+  h = 7/2 = 3.5 
+ 
+7. What is the sum of all numbers between 100 and 1000 which are divisible by 14 ? 
+ Answer : 35392 
+
+First Job.... Dream Job.... Freshersworld.com 
+Freshersworld.com Resource Center 
+ 47 
+ Explanation  :  The  number  closest  to  100  which  is  greater  than  100  and 
+divisible by 14  is 112, which is the first term of the series which has to be summed. 
+           The number closest to 1000 which is less than 1000 and divisible by 14 
+is 994, which is the last term of the series. 
+  112 + 126 + .... + 994 = 14(8+9+ ... + 71) = 35392 
+ 
+8. If s(a) denotes square root of a, find the value of s(12+s(12+s(12+ ......   upto 
+infinity. 
+ Answer : 4 
+ Explanation : Let x = s(12+s(12+s(12+..... 
+          We can write  x = s(12+x). i.e., x^2 = 12 + x. Solving this quadratic equation, 
+we get x = -3 or x=4. Sum cannot be -ve and hence sum = 4. 
+ 
+9.  A  cylindrical  container  has  a  radius  of  eight  inches  with  a  height  of  three  inches. 
+Compute how many inches should be added to either the radius or height to give the 
+same increase in volume? 
+ Answer : 16/3 inches 
+ Explanation  :  Let  x  be  the  amount  of  increase.  The  volume  will  increase  by 
+the same amount if the radius increased or the height is increased. 
+So,  the  effect  on  increasing  height  is  equal  to  the  effect  on  increasing  the 
+radius. 
+ i.e., (22/7)*8*8*(3+x) = (22/7)*(8+x)*(8+x)*3 
+ Solving the quadratic equation we get the x = 0 or 16/3. The possible increase 
+would be by 16/3 inches. 
+ 
+10. With just six weights and a balance scale, you can weigh any unit number of kgs 
+from 1 to 364. What could be the six weights? 
+ Answer : 1, 3, 9, 27, 81, 243 (All powers of 3)  
+ 
+11. Diophantus passed one sixth of his life in childhood, one twelfth in youth, and one 
+seventh  more  as  a  bachelor;  five  years  after  his  marriage  a  son  was  born  who  died 
+four years before his father at half his final age. How old is Diophantus? 
+ Answer : 84 years 
+ Explanation : x/6 + x/12 + x/7 + 5 + x/2 + 4 = x 
+ 
+12 . If time at this moment is 9 P.M., what will be the time 23999999992 hours later? 
+ Answer : 1 P.M. 
+ Explanation  :  24  billion  hours  later,  it  would  be  9  P.M.  and  8  hours  before 
+that it would be 1 P.M. 
+ 
+13.  How  big  will  an  angle  of  one  and  a  half  degree  look  through  a  glass  that 
+magnifies things three times? 
+ Answer : 1 1/2 degrees 
+ Explanation  :  The  magnifying  glass  cannot  increase  the  magnitude  of  an 
+angle. 
+ 
+
+First Job.... Dream Job.... Freshersworld.com 
+Freshersworld.com Resource Center 
+ 48 
+14. Divide 45 into four parts such that when 2 is added to the first part, 2 is subtracted 
+from the second part, 2 is multiplied by the third part and the fourth part is divided by 
+two, all result in the same number. 
+ Answer: 8, 12, 5, 20 
+ Explanation: a + b + c + d =45; a+2 = b-2 = 2c = d/2;  a=b-4; c = (b-2)/2; 
+d = 2(b-2); b-4 + b + (b-2)/2 + 2(b-2) = 45; 
+ 
+15. I drove 60 km at 30 kmph and then an additional 60 km at 50 kmph. Compute my 
+average speed over my 120 km. 
+ Answer : 37 1/2 
+ Explanation  :  Time  reqd  for  the  first  60  km  =  120  min.;  Time  reqd  for  the 
+second 60 km = 72 min.; Total time reqd = 192 min 
+  Avg speed = (60*120)/192 = 37 1/2 
+ 
+ 
+Questions 16 and 17 are based on the following : 
+    Five executives of European Corporation hold a Conference in Rome 
+      Mr. A converses in Spanish & Italian 
+      Mr. B, a spaniard, knows English also 
+      Mr. C knows English and belongs to Italy 
+      Mr. D converses in French and Spanish 
+      Mr. E , a native of Italy knows French 
+ 
+16.   Which of the following can act as interpreter if Mr. C & Mr. D wish to converse 
+    a) only Mr. A  b) Only Mr. B c) Mr. A & Mr. B d) Any of the other three 
+ 
+ Answer : d) Any of the other three. 
+ Explanation :  From the data given, we can infer the following. 
+  A knows Spanish, Italian 
+  B  knows Spanish, English 
+  C  knows Italian, English 
+  D  knows Spanish, French 
+  E   knows Italian, French 
+To  act  as  an  interpreter  between  C  and  D,  a  person  has  to  know  one of  the 
+combinations Italian&Spanish, Italian&French, English&Spanish,  English&French 
+A, B, and E know atleast one of the combinations. 
+  
+17. If a 6th executive is brought in, to be understood by maximum number of original 
+five he should be fluent in 
+ a) English & French   b) Italian & Spanish    c) English & French   d)    French 
+& Italian 
+ Answer :  b) Italian & Spanish 
+ Explanation : No of executives who know 
+                             i) English is 2 
+                 ii) Spanish is 3 
+                            iii) Italian is 3 
+
+First Job.... Dream Job.... Freshersworld.com 
+Freshersworld.com Resource Center 
+ 49 
+                            iv) French is  2 
+Italian  &  Spanish  are  spoken  by  the  maximum  no  of  executives.  So,  if  the  6th 
+executive is fluent in Italian & Spanish, he can communicate with all the original five 
+because everybody knows either Spanish or Italian.   
+ 
+18. What is the sum of the first 25 natural odd numbers? 
+Answer : 625 
+Explanation : The sum of the first n natural odd nos is square(n).  
+1+3 = 4 = square(2) 1+3+5 = 9 = square(3) 
+ 
+19. The sum of any seven consecutive numbers is divisible by 
+a) 2  b) 7  c) 3  d) 11 
+ 
+ 
+Exercise 3 
+Try the following. 
+ 
+1. There  are  seventy  clerks  working  in  a  company,  of  which  30  are  females. 
+Also, 30 clerks are   married; 24 clerks are above 25 years of age; 19 married 
+clerks are above 25 years, of which 7 are males; 12 males are above 25 years 
+of age; and 15 males are married. How many bachelor girls are there and how 
+many of these are above 25? 
+ 
+2. A  man  sailed  off  from  the  North  Pole.  After  covering  2,000  miles  in  one 
+direction  he  turned  West,  sailed  2,000  miles,  turned  North  and  sailed  ahead 
+another 2,000 miles till he met his friend. How far was he from the North Pole 
+and in what direction? 
+ 
+3. Here  is  a  series  of  comments  on  the  ages  of  three  persons  J,  R,  S  by 
+themselves. 
+      S : The difference between R's age and mine is three years. 
+      J : R is the youngest. 
+      R : Either I am 24 years old or J 25 or S 26. 
+      J : All are above 24 years of age. 
+      S : I am the eldest if and only if R is not the youngest. 
+      R : S is elder to me. 
+      J : I am the eldest. 
+      R : S is not 27 years old. 
+      S : The sum of my age and J's is two more than twice R's age. 
+One of the three had been telling a lie throughout whereas others had spoken 
+the truth. Determine the ages of S,J,R. 
+ 
+4. In a group of five people, what is the probability of finding two persons with 
+the same month of birth? 
+ 
+
+First Job.... Dream Job.... Freshersworld.com 
+Freshersworld.com Resource Center 
+ 50 
+5. A father and his son go out for a 'walk-and-run' every morning around a track 
+formed by an equilateral triangle. The father's walking speed is 2 mph and his 
+running speed is 5 mph. The son's walking and running speeds are twice  that 
+of his father.  Both start together from one apex of the triangle, the son  going 
+clockwise  and  the  father  anti-clockwise.  Initially  the  father  runs  and  the  son 
+walks  for  a  certain  period  of  time.        Thereafter,  as  soon  as  the  father  starts 
+walking,  the  son  starts  running.  Both  complete  the  course  in  45  minutes.  For 
+how long does the father run? Where do the two cross each other? 
+ 
+6. The Director of Medical Services was on his annual visit to the ENT Hospital. 
+While  going  through  the  out  patients'  records  he  came  across  the  following 
+data for a particular day :  " Ear consultations 45; Nose 50; Throat 70; Ear and 
+Nose  30;  Nose  and  Throat  20;  Ear  and  Throat  30;  Ear,  Nose  and  Throat 10; 
+Total  patients  100."  Then  he  came  to  the  conclusion  that  the  records  were 
+bogus. Was he right? 
+ 
+7. Amongst Ram, Sham and Gobind are a doctor, a lawyer and a police officer. 
+They  are  married  to  Radha,  Gita  and  Sita  (not  in  order).  Each  of the  wives 
+have a profession. Gobind's wife is an artist. Ram is not married to Gita. The 
+lawyer's  wife  is  a  teacher.  Radha  is  married  to  the  police  officer.  Sita  is  an 
+expert cook. Who's who? 
+ 
+8. What should come next? 
+1, 2, 4, 10, 16, 40, 64,  
+ 
+ Questions 9-12 are based on the following : 
+Three adults – Roberto, Sarah and Vicky – will be traveling in a van with five 
+children – Freddy, Hillary, Jonathan, Lupe, and Marta. The van has a driver’s 
+seat  and  one  passenger  seat  in  the  front,  and  two  benches  behind  the  front 
+seats,  one  beach  behind  the  other.  Each  bench  has  room  for  exactly three 
+people. Everyone must sit in a seat or on a bench, and seating is subject to the 
+following restrictions:      An adult must sit on each bench. 
+    Either Roberto or Sarah must sit in the driver’s seat. 
+    Jonathan must sit immediately beside Marta. 
+ 
+9. Of the following, who can sit in the front passenger seat ? 
+(a) Jonathan    (b) Lupe (c) Roberto (d) Sarah (e) Vicky 
+ 
+10.  Which of the following groups of three can sit together on a bench?  
+(a) Freddy, Jonathan and Marta (b) Freddy, Jonathan and Vicky 
+(c) Freddy, Sarah and Vicky    (d) Hillary, Lupe and Sarah 
+(e) Lupe, Marta and Roberto 
+ 
+11. If  Freddy  sits  immediately  beside  Vicky,  which  of  the  following  cannot  be 
+true ? 
+a. Jonathan sits immediately beside Sarah 
+
+First Job.... Dream Job.... Freshersworld.com 
+Freshersworld.com Resource Center 
+ 51 
+b. Lupe sits immediately beside Vicky 
+c. Hillary sits in the front passenger seat 
+d. Freddy sits on the same bench as Hillary 
+e. Hillary sits on the same bench as Roberto 
+ 
+12. If Sarah sits on a bench that is behind where Jonathan is sitting, which of the 
+following must be true ? 
+a. Hillary  sits  in  a  seat  or  on  a  bench  that  is  in  front  of  where Marta  is 
+sitting 
+b. Lupe  sits  in  a  seat  or  on  a  bench  that  is  in  front  of  where  Freddy  is 
+sitting 
+c. Freddy sits on the same bench as Hillary 
+d. Lupe sits on the same bench as Sarah 
+e. Marta sits on the same bench as Vicky 
+ 
+13. Make six squares of the same size using twelve match-sticks. (Hint : You will 
+need an adhesive to arrange the required figure) 
+ 
+14. A farmer has two rectangular fields. The larger field has twice the length and 
+4 times the width of the smaller field. If the smaller field has area K, then the 
+are  of  the  larger  field  is  greater  than  the  area  of  the  smaller  field  by  what 
+amount? 
+(a) 6K  (b) 8K  (c) 12K (d) 7K 
+ 
+15. Nine equal circles are enclosed in a square whose area is 36sq units. Find the 
+area of each circle. 
+ 
+16. There are 9 cards. Arrange them in a 3*3 matrix. Cards are of 4 colors. They 
+are red, yellow, blue, green. Conditions for arrangement: one red card must be 
+in  first  row  or  second  row.  2  green  cards  should  be  in  3
+rd
+  column.  Yellow 
+cards  must  be  in  the  3  corners  only.  Two  blue  cards  must  be  in the  2nd row. 
+At least one green card in each row.  
+ 
+17. Is z less than w? z and w are real numbers. 
+(I) z
+2
+ = 25  
+(II) w = 9 
+To answer the question, 
+a) Either I or II is sufficient 
+b) Both I and II are sufficient but neither of them is alone sufficient 
+c) I & II are sufficient 
+d) Both are not sufficient 
+ 
+18. A speaks truth 70% of the time; B speaks truth 80% of the time. What is the 
+probability that both are contradicting each other? 
+ 
+
+First Job.... Dream Job.... Freshersworld.com 
+Freshersworld.com Resource Center 
+ 52 
+19. In a family 7 children don't eat spinach, 6 don't eat carrot, 5 don't eat beans, 4 
+don't  eat  spinach  &  carrots,  3  don't  eat  carrot  &  beans,  2  don't  eat  beans  & 
+spinach. One doesn't eat all 3. Find the no. of children. 
+ 
+20. Anna, Bena, Catherina and Diana are at their monthly business meeting. Their 
+occupations  are  author,  biologist,  chemist  and  doctor,  but  not  necessarily in 
+that order. Diana just told the neighbour, who is a biologist that Catherina was 
+on her way with doughnuts. Anna is sitting across from the doctor and next to 
+the chemist. The doctor was thinking that Bena was a good name for parent's 
+to choose, but didn't say anything.  What is each person's occupation? 
+
+First Job.... Dream Job.... Freshersworld.com 
+Freshersworld.com Resource Center 
+ 53 
+ 
+ 

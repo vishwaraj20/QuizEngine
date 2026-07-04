@@ -1,0 +1,408 @@
+
+
+ALL4AJOB
+Placement training programme 
+Topic: Unix and Networking.
+Instructions:
+1. All questions carry one (1) mark each.
+2. The time limit for the test is 30 minutes.
+3. Each wrong answer carries a negative 0.25 marking.
+4. Please cooperate with your Placement coordinators. You can start by giving them all 
+your money.
+1. To display the contents of a executable file the following 
+   command can be used
+       (a) cat  (b) od (c) vi   (d) ed    
+       
+2. Assume the current directory contains 10 files and does'nt
+       contain 'temp'. What will be the output of the following 
+       commands?
+       $ls > temp
+       $wc -l temp
+       (a) 9  (b) 10 (c) 11 (d) undefined.   
+       
+3. If one wants the output of one command (command1) to be 
+       printed in the printer as well as to be added to another file
+       (outfile) which one of the following is a correct command 
+       he can give?
+       (a) $command1   outfile|tee lpr
+       (b) $tee -a command1 | lpr
+       (c) $ command1 | tee outfile | lpr
+       (d) $ command | tee -a outfile |lpr      
+       
+4. In the shell program set -x will cause 
+       A. Execution of the commands in the background
+       B. Execution of the commands in verbose mode
+       C. Exit from the shell program.
+       D. Exit from the shell program after executing the next 
+command
+5. ACL in UNIX refers to
+       A.    Access Control List
+       B.    Action Control List
+       C.    Application Command Language
+       D.    Advanced C language
+6. The command echo *
+       A. will print * on the screen
+       B. will print contents of all the files in the current 
+          directory
+       C. will list the files in the current directory
+       D.   will print the contents of all shell variables
+7.  ls || date will
+       A.  print the name of the files in the current directory
+       B. print today's date and time
+       C. (A) followed by (B)
+       D. none of the above
+8.  The built-in shell variable $$ refers to
+       A.   printing numbers in dollar format
+       B.   process id of last command 
+       C.   process id of last background command issued
+       D.   process id of current shell
+9.  dd is mainly used for 
+       A.  dealing with raw, unformatted data, whatever the 
+source
+       B.  dealing with data dictionary
+       C.  deleting a directory
+       D.  none of the above
+      
+10. In a standard directory lay out /etc is the directory where
+   a) binary files of programs such as who and ed reside
+   b) Mail programs reside
+   c)various administrative files such as password file and 
+config files reside
+   d) All user names are recorded.
+       
+11. Which of the following is true regarding the UNIX OS
+       (i) Multiuser Operating System
+       (ii)Multitasking Operating System
+       (iii) Real timing Operating System
+       A. i only  B. i and ii only  C. i and ii and iii only
+       D. i and ii 
+12. ln command is used to
+       A. link object codes into a executable code
+       B. give two names to the same file
+       C. set line numbers for the file
+       D. none of the above
+
+13. nohup command is used for 
+       A. protecting the execution of programmes from aborting 
+when 
+       hangup signal is received
+       B. changing the execution priority of the programes
+       C. not hanging up of the modem
+       D. disconnecting a node from the system
+       
+14.  SCCS is a 
+       A. Tool for maintaining large programmes in a production 
+       environment 
+       B. Communication Protocol
+       C. Shell Programming Language
+       D. String processing utility
+15.  Which one of the following is true as long as UNIX is 
+       concerned
+       A. One can do programming in C only
+       B. It can support terminals capable of printing only 
+uppercase
+       characters
+       C. The text files are sorted as it is in MS-DOS
+       D. None of the above
+16. Inside vi editor to replace the string 10/$$/94 with 
+       10/$$/92 globally the following command can be used
+       A.  :1,$s/\/10\/\$\/94/10\/\$\$\/92/g
+       B.  :1,$s/\/10\/\$\/94/10\/\$\/$92/
+       C.  :s10/$$/92/10/$$/92/g  
+       D.  :1,$s/10\/\$\$\/94/10\/\$\$\/92
+17. The cd command without any argument
+  A. will print the current working directory
+  B. will make the home directory as current directory
+  C. will ask for the directory to be used as the current 
+directory
+  D. will go to the previous directory
+       
+18.  nice command is used 
+       A. to increase/decrease execution priority of a command
+       B. to compress a file
+       C. to run a program at a later time
+       D. to set the key board response slower
+19.  What will be the output of the following command 
+sequence
+  $ x='I am x'
+  $sh
+  $echo $x
+A. I am x  
+B. Blank line
+C. x 
+D. None of the above
+20. The command tr a-z 0-9 < x
+       A. converts all the digits to lowercase alphabets
+       B. converts all the lowercase alphabets to digits
+       C. will give syntax error
+       D. none of the above
+21. In unix 'ls 'stores contents in 
+       A. Inode block
+       B. Directory
+       C. Stack
+       D. Queue
+22. $PS1= pwd
+    $export  PS1    
+     results in
+ a). your primary prompt being your current directory
+ b).  "     "     and secondary prompts being the current dir
+ c).   "    "     prompt being your home dir
+ d).   "    "     and secondary prompts being the home dir
+ e).  None of the above.
+ 
+23. If you type in the command....  
+$nohup sort employees > list 2> error_out &
+and log off ,the next time you log in . the output will be
+  a). in a file called list and the error will be typed in a file 
+error_out
+  b). there will be no file called list or error_out
+  c). error will be logged in a file called list and o/p will be in 
+error_out
+  d). you will not be allowed to log in
+  e). none of the above
+  
+24. In UNIX a file's i-node
+ a)is a data structure that defines all specifications of 
+a file like the file size ,number of lines to a
+   file ,permissions etc.
+ b)is a stack like data structure
+ c)is a file in the current directory
+ d)none of the above
+                      
+25. The UNIX shell 
+a).does not come with the rest of the system
+b).forms the interface between the user and the kernel
+c) does not give any scope for programming
+d) does not allow calling one program from with in another
+e)  all of the above
+26.  The standard source for standard input , standard output 
+and standard error is
+a) the terminal
+b) /dev/null
+c) /usr/you/input, /usr/you/output/, /usr/you/error respectively
+d) None
+               
+
+27. The redirection operators > and >>
+ a) do the same function
+ b) differ : > overwrites, while >> appends
+ c) differ : > is used for input while >> is used for output
+ d) differ : > write to any file while >> write only to standard 
+output
+  e) None of these
+               
+28. The command 
+     $grep first second third /usr/you/myfile
+      a) prints lines containing the words first, second or third 
+from the file /usr/you/myfile
+       b) searches for lines containing the pattern first in the files 
+second, third, and /usr/you/myfile and prints them
+       c) searches the files /usr/you/myfile and third for lines 
+containing the words first or second and prints them
+       d) replaces the word first with the word second in the files 
+third and /usr/you/myfile
+                       
+29. How can u specify the permission of a file in unix so that it 
+can 
+be read and used by everyone but can't be changed by anyone 
+else.
+A.755
+B.744
+C.644
+D.None
+30. The very first process created by the kernel that runs
+   till the kernel process is halted is 
+   a)init
+   b)getty
+   c)fork
+   d)none
+   
+31. Which of the following is true
+   a)UNIX is a time sharing multi-user OS
+   b)UNIX has a device independent file system
+   c)UNIX is full duplex
+   d)UNIX has command interpreter
+   e)All of the above
+32. Inter process communication in UNIX can be achieved 
+using
+   a)pipe
+   b)Message
+   c)Semaphores
+   d)Shared Memory
+   e)All of the above
+   
+33. Send Message and postmessage are 
+  a)send message puts the message in the message queue and 
+results,  postmessage processes the message immediately
+  b)Sendmessage processes the message 
+immediately,postmessage puts
+    the message in the queue and returns
+  c) Both put the message in the message queue and returns
+  d) Both process the message immediately 
+  
+34.  Which of the following message is used to limit the size
+     of teh Window
+     a)WM_SIZE
+     b)WM_PAN
+     c)WM_MAXWIN
+     d)None
+    
+35. until who|grep mary
+    do
+      sleep 60
+    done
+    a) is syntactically incorrect
+    b) waits 60 seconds irrespective of Mary being logged in or 
+not
+    c) waits until Marry is logged in
+    d)waits till Mary exited
+    
+36. The UNIX system call that transforms an executable 
+binary file into
+    a new process is
+    a)execl()
+    b)execv()
+    c)execle()
+    d)execve()
+    e)All of the above 
+    
+37. Which of the following is true about fork()
+    a)It reduces CPU usage by dividing workload
+    b)causes the creation of a new process ,the CHILD process
+      with a new process ID
+    c)It makes error handling easy.
+    d)It reduces the hunger problem that is plaguing our world.
+        
+38. The command : 
+    $ln /bin/mail /usr/you/bin/m
+    a)will not be executed because you are linking files
+     across different file systems
+   b)results ln /bin/main being the same file as /usr/you/bin/m
+   c)results in 2 links to the file mail
+   d)none
+   
+
+39. Which of the following network topologies among the list 
+below is incorrect?
+a.Star
+b.internet
+c.Ring
+d.Bus
+40. Which of the following is not a function of a repeater?
+a.Uses Jumper Settings
+b.Transmits data in both directions
+c.No Buffering
+d.Joins two(2) segments of cables
+ 
+41. Which level of the TCP/IP reference model routes 
+data/information across a network channel ?
+a.Application layer
+b.Data Link Layer
+c.Transport Layer
+d.Network Layer 
+42. The function of a modem is to convert signals. Identify the 
+correct signals it converts.
+a.Analogue to Digital
+b.Analogue to Baud rate
+c.Baud rate to Analogue 
+d.Digital to Binary
+43. Which of the following is not a LAN – Architecture?.
+a.Protocol architecture 
+b.Media access control 
+c.Logical Protocol
+d.Logical Link Control
+44. Identify the statement which best describes TCP and UDP.
+a.TCP is a connection oriented Protocol whiles UDP 
+is a datagram service
+b.TCP is a protocol for the Network Layer of the OSI 
+c.UDP and TCP could be used interchangeably
+d.TCP is an advanced protocol whiles UDP is a 
+single protocol
+45.Which of the following statement is true about FLOW 
+CONTROL?
+a.Flow control is a function performed by a receiving entity to 
+limit the amount or rate of data on a network.
+b.Flow control adjusts the weights on a network
+c.Flow control is a function performed by the MODEM
+d.Flow control is an advanced form of network management
+46.Identify the most suitable description for ERROR 
+CONTROL?
+a.Error control is an activity that manages deadlock.
+b.Error control is an advanced form of parity bit
+c.Error control is a sub-function of a modem and Hub
+d.Error control is needed to guard against loss or 
+damage of data
+47.Which of the following topologies is used for Ethernet?
+a.Star
+b.Bus
+c.Ring
+48. Which of the following standards apply to logical link 
+control?
+ a.IEEE 802.3
+ b.IEEE 802.2
+ c.IEEE 802.5
+ d.IEEE 802.4
+49. Which of the following statements is a true description of 
+fibre Optic Cable.
+    a. Fibre optic cables transfer data in a mesh
+    b. Fibre optic cables transfer data in light form
+    c. Fibre optic cables are similar to coaxial cables
+    d. None of the above
+50. Which of the following is not a routing strategy?
+a. Fixed routing 
+b. Adaptive routing 
+c. Random routing 
+d. Flooding
+d.All of the 
+above
+
+1 b
+2 c
+3 d
+4 d
+5 a
+6 c
+7 a
+8 d
+9 d
+10 c
+11 a
+12 b
+13 a
+14 a
+15 d
+16 d
+17 b
+18 a
+19 b
+20 d
+21 a
+22 e
+23 a
+24 a
+25 b
+26 a
+27 b
+28 b
+29 a
+30 a
+31 e
+32 e
+33 b
+34 a
+35 c
+36 e
+37 b
+38 b
+39 b
+40 a
+41 b
+42 a
+43 c
+44 a
+45 a
+46 d
+47 d
+48 b
+49 b
+50 c
