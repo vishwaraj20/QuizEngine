@@ -1,7 +1,7 @@
 "use client";
 import { useEffect, useState } from 'react';
 import { useParams, useRouter } from 'next/navigation';
-import { Clock, CheckCircle, BrainCircuit, ArrowLeft, Filter, Zap, Trophy } from 'lucide-react';
+import { Clock, CheckCircle, BrainCircuit, ArrowLeft, Filter, Zap, Trophy, BookOpen, ArrowRight } from 'lucide-react';
 import Link from 'next/link';
 
 export default function CategoryQuizzesPage() {
@@ -104,27 +104,28 @@ export default function CategoryQuizzesPage() {
   };
 
   const QuizCard = ({ quiz }) => (
-    <div className="bg-white dark:bg-slate-800 p-6 rounded-[2rem] border border-gray-100 dark:border-slate-700 hover:border-blue-100 dark:hover:border-blue-900/50 shadow-sm hover:shadow-md transition-all group flex flex-col justify-between h-full">
+    <div className="bg-white/90 dark:bg-[#0f1623]/90 backdrop-blur-xl p-7 rounded-3xl border border-gray-200/80 dark:border-slate-800/80 shadow-sm hover:shadow-xl hover:border-indigo-500/50 transition-all duration-300 group flex flex-col justify-between h-full relative overflow-hidden hover:-translate-y-1">
+       <div className="absolute top-0 left-1/2 -translate-x-1/2 w-48 h-24 bg-indigo-500/10 rounded-full blur-2xl group-hover:bg-indigo-500/20 transition-all duration-500 pointer-events-none"></div>
        <div>
-          <div className="flex justify-between items-start mb-4">
-             <div className="p-2 bg-gray-50 dark:bg-slate-950 rounded-xl shadow-inner group-hover:bg-blue-50 dark:group-hover:bg-blue-950/50 transition-colors">
-                <Zap className="w-5 h-5 text-gray-400 group-hover:text-blue-600" />
+          <div className="flex justify-between items-start mb-4 relative z-10">
+             <div className="p-2.5 bg-gray-100 dark:bg-slate-800/80 rounded-xl group-hover:bg-indigo-500/10 transition-colors shadow-inner">
+                <Zap className="w-5 h-5 text-amber-500 group-hover:scale-110 transition-transform animate-pulse" />
              </div>
-             <span className="px-3 py-1 rounded-full text-[10px] font-black uppercase tracking-widest border border-gray-100 dark:border-slate-700 bg-gray-50 dark:bg-slate-900 text-gray-400 capitalize">
-               {quiz.difficulty}
+             <span className="px-3 py-1 rounded-full text-[10px] font-bold uppercase tracking-widest border border-gray-200 dark:border-slate-700 bg-gray-50 dark:bg-slate-800 text-gray-500 dark:text-slate-400 capitalize shadow-sm">
+               {quiz.difficulty || 'moderate'}
              </span>
           </div>
-          <h4 className="text-lg font-extrabold text-gray-900 dark:text-white mb-4 tracking-tight group-hover:text-blue-600 dark:group-hover:text-blue-400 transition-colors leading-snug">{quiz.title}</h4>
+          <h4 className="text-lg font-black text-gray-900 dark:text-white mb-4 tracking-tight group-hover:text-indigo-400 transition-colors leading-snug relative z-10">{quiz.title}</h4>
        </div>
        
-       <div>
-          <div className="flex items-center gap-6 text-[10px] font-bold text-gray-400 uppercase tracking-widest mt-4">
-             <div className="flex items-center"><Clock className="w-4 h-4 mr-1.5 text-blue-400"/> {quiz.time_limit || '0'}m</div>
-             <div className="flex items-center"><CheckCircle className="w-4 h-4 mr-1.5 text-emerald-400"/> {quiz.pass_percent}%</div>
+       <div className="relative z-10">
+          <div className="flex items-center justify-between gap-4 text-[10px] font-bold text-gray-500 dark:text-slate-400 uppercase tracking-widest mt-4 pt-4 border-t border-gray-100 dark:border-slate-800">
+             <div className="flex items-center"><Clock className="w-4 h-4 mr-1.5 text-blue-500"/> {quiz.time_limit || '30'}m</div>
+             <div className="flex items-center"><CheckCircle className="w-4 h-4 mr-1.5 text-emerald-500"/> {quiz.pass_percent || '60'}%</div>
           </div>
 
-          <Link href={`/quiz/${quiz.id}?practice=true`} className="mt-6 block w-full py-3.5 bg-gray-50 dark:bg-slate-900 group-hover:bg-blue-600 text-gray-700 dark:text-gray-350 group-hover:text-white rounded-xl font-black text-xs text-center border border-gray-100 dark:border-slate-700 group-hover:border-transparent transition-all shadow-sm">
-            Start Practice
+          <Link href={`/quiz/${quiz.id}?practice=true`} className="mt-6 block w-full py-3 bg-gray-100 dark:bg-slate-800/80 group-hover:bg-indigo-600 text-gray-700 dark:text-slate-300 group-hover:text-white rounded-xl font-bold text-xs uppercase tracking-wider text-center transition-all duration-300 shadow-sm group-hover:shadow-lg group-hover:shadow-indigo-500/25 border border-gray-200/50 dark:border-slate-700/50 group-hover:border-transparent flex items-center justify-center gap-2">
+            Start Practice <ArrowRight className="w-4 h-4 transform group-hover:translate-x-1 transition-transform" />
           </Link>
        </div>
     </div>
@@ -477,27 +478,27 @@ export default function CategoryQuizzesPage() {
           <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
             <div 
               onClick={() => setSelectedSubCategory('TCS - TCS Ninja - Quantitative')}
-              className="cursor-pointer bg-white dark:bg-slate-800 p-10 rounded-[3rem] border border-gray-100 dark:border-slate-700 shadow-sm hover:shadow-xl hover:border-blue-200 transition-all group flex flex-col items-center text-center relative overflow-hidden"
+              className="cursor-pointer bg-white/90 dark:bg-[#0f1623]/90 backdrop-blur-xl p-10 rounded-3xl border border-gray-200/80 dark:border-slate-800/80 shadow-sm hover:shadow-2xl hover:border-indigo-500/50 transition-all duration-300 group flex flex-col items-center text-center relative overflow-hidden hover:-translate-y-1.5"
             >
-              <div className="absolute top-0 right-0 w-32 h-32 bg-blue-50/50 rounded-bl-[5rem] group-hover:bg-blue-600/10 transition-colors"></div>
-              <div className="text-6xl mb-6 transform group-hover:scale-110 transition-transform">🔢</div>
-              <h3 className="text-3xl font-black text-gray-900 dark:text-white mb-2">Quantitative Aptitude</h3>
-              <p className="text-gray-500 dark:text-gray-400 font-medium text-sm mb-6">Numerical Ability Mock Tests</p>
-              <div className="mt-auto px-6 py-2 bg-gray-50 dark:bg-slate-900 text-gray-400 group-hover:bg-blue-600 group-hover:text-white rounded-full text-xs font-bold uppercase tracking-widest transition flex items-center">
-                Open Folder <ArrowLeft className="w-4 h-4 ml-1 rotate-180" />
+              <div className="absolute top-0 left-1/2 -translate-x-1/2 w-48 h-24 bg-indigo-500/10 rounded-full blur-2xl group-hover:bg-indigo-500/20 transition-all duration-500 pointer-events-none"></div>
+              <div className="text-6xl mb-6 transform group-hover:scale-110 group-hover:-translate-y-1 transition-all duration-300 relative z-10">🔢</div>
+              <h3 className="text-3xl font-black text-gray-900 dark:text-white mb-2 group-hover:text-indigo-400 transition-colors relative z-10">Quantitative Aptitude</h3>
+              <p className="text-gray-500 dark:text-slate-400 font-medium text-sm mb-8 relative z-10">Numerical Ability Mock Tests</p>
+              <div className="mt-auto px-6 py-3 bg-gray-100 dark:bg-slate-800/60 text-gray-700 dark:text-slate-300 group-hover:bg-indigo-600 group-hover:text-white rounded-2xl text-xs font-bold uppercase tracking-wider transition-all duration-300 flex items-center justify-center gap-2 border border-gray-200/50 dark:border-slate-700/50 group-hover:border-transparent group-hover:shadow-lg group-hover:shadow-indigo-500/25 relative z-10">
+                Open Folder <ArrowLeft className="w-4 h-4 ml-1 rotate-180 transform group-hover:translate-x-1 transition-transform" />
               </div>
             </div>
 
             <div 
               onClick={() => setSelectedSubCategory('TCS - TCS Ninja - Verbal')}
-              className="cursor-pointer bg-white dark:bg-slate-800 p-10 rounded-[3rem] border border-gray-100 dark:border-slate-700 shadow-sm hover:shadow-xl hover:border-blue-200 transition-all group flex flex-col items-center text-center relative overflow-hidden"
+              className="cursor-pointer bg-white/90 dark:bg-[#0f1623]/90 backdrop-blur-xl p-10 rounded-3xl border border-gray-200/80 dark:border-slate-800/80 shadow-sm hover:shadow-2xl hover:border-purple-500/50 transition-all duration-300 group flex flex-col items-center text-center relative overflow-hidden hover:-translate-y-1.5"
             >
-              <div className="absolute top-0 right-0 w-32 h-32 bg-purple-50/50 rounded-bl-[5rem] group-hover:bg-purple-600/10 transition-colors"></div>
-              <div className="text-6xl mb-6 transform group-hover:scale-110 transition-transform">📚</div>
-              <h3 className="text-3xl font-black text-gray-900 dark:text-white mb-2">Verbal Ability</h3>
-              <p className="text-gray-500 dark:text-gray-400 font-medium text-sm mb-6">English & Grammar Mock Tests</p>
-              <div className="mt-auto px-6 py-2 bg-gray-50 dark:bg-slate-900 text-gray-400 group-hover:bg-purple-600 group-hover:text-white rounded-full text-xs font-bold uppercase tracking-widest transition flex items-center">
-                Open Folder <ArrowLeft className="w-4 h-4 ml-1 rotate-180" />
+              <div className="absolute top-0 left-1/2 -translate-x-1/2 w-48 h-24 bg-purple-500/10 rounded-full blur-2xl group-hover:bg-purple-500/20 transition-all duration-500 pointer-events-none"></div>
+              <div className="text-6xl mb-6 transform group-hover:scale-110 group-hover:-translate-y-1 transition-all duration-300 relative z-10">📚</div>
+              <h3 className="text-3xl font-black text-gray-900 dark:text-white mb-2 group-hover:text-purple-400 transition-colors relative z-10">Verbal Ability</h3>
+              <p className="text-gray-500 dark:text-slate-400 font-medium text-sm mb-8 relative z-10">English & Grammar Mock Tests</p>
+              <div className="mt-auto px-6 py-3 bg-gray-100 dark:bg-slate-800/60 text-gray-700 dark:text-slate-300 group-hover:bg-purple-600 group-hover:text-white rounded-2xl text-xs font-bold uppercase tracking-wider transition-all duration-300 flex items-center justify-center gap-2 border border-gray-200/50 dark:border-slate-700/50 group-hover:border-transparent group-hover:shadow-lg group-hover:shadow-purple-500/25 relative z-10">
+                Open Folder <ArrowLeft className="w-4 h-4 ml-1 rotate-180 transform group-hover:translate-x-1 transition-transform" />
               </div>
             </div>
           </div>
@@ -522,29 +523,42 @@ export default function CategoryQuizzesPage() {
             </div>
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
               {displayedQuizzes.map(quiz => (
-                <div key={quiz.id} className="bg-white dark:bg-slate-800 p-7 rounded-[2rem] border border-gray-100 dark:border-slate-700 shadow-sm hover:shadow-xl transition-all group flex flex-col h-full">
-                   <div className="flex justify-between items-start mb-4">
-                      <div className="p-2 bg-gray-50 dark:bg-slate-900 rounded-xl group-hover:bg-blue-50 transition-colors">
-                         <Zap className="w-5 h-5 text-gray-400 group-hover:text-blue-600" />
-                      </div>
-                      <span className={`px-3 py-1 rounded-full text-[10px] font-black uppercase tracking-widest border ${
-                        quiz.difficulty === 'hard' ? 'bg-red-50 text-red-600 border-red-100' :
-                        quiz.difficulty === 'moderate' ? 'bg-orange-50 text-orange-600 border-orange-100' :
-                        'bg-green-50 text-green-600 border-green-100'
-                      }`}>
-                        {quiz.difficulty}
-                      </span>
+                <div key={quiz.id} className="bg-white/80 dark:bg-slate-800/80 backdrop-blur-xl p-7 rounded-[2rem] border border-gray-100 dark:border-slate-700/80 shadow-sm glow-card group flex flex-col justify-between h-full relative overflow-hidden">
+                   <div className="absolute top-0 right-0 w-28 h-28 bg-gradient-to-br from-blue-500/10 to-emerald-500/10 dark:from-blue-500/20 dark:to-emerald-500/20 rounded-bl-[4rem] group-hover:scale-125 transition-transform duration-500 pointer-events-none"></div>
+                   <div>
+                     <div className="flex justify-between items-start mb-4 relative z-10">
+                        <div className="p-2.5 bg-gray-50 dark:bg-slate-900/80 rounded-xl group-hover:bg-blue-500/10 dark:group-hover:bg-blue-500/20 transition-colors shadow-inner">
+                           {quiz.category.includes('Question Bank') ? (
+                             <BookOpen className="w-5 h-5 text-blue-500 group-hover:scale-110 transition-transform" />
+                           ) : (
+                             <Zap className="w-5 h-5 text-amber-500 group-hover:scale-110 transition-transform animate-pulse" />
+                           )}
+                        </div>
+                        <span className={`px-3 py-1 rounded-full text-[10px] font-black uppercase tracking-widest border shadow-sm ${
+                          quiz.difficulty === 'hard' ? 'bg-red-50 text-red-600 border-red-200 dark:bg-red-950/40 dark:text-red-400 dark:border-red-800' :
+                          quiz.difficulty === 'moderate' ? 'bg-orange-50 text-orange-600 border-orange-200 dark:bg-orange-950/40 dark:text-orange-400 dark:border-orange-800' :
+                          'bg-green-50 text-green-600 border-green-200 dark:bg-green-950/40 dark:text-green-400 dark:border-green-800'
+                        }`}>
+                          {quiz.difficulty || 'moderate'}
+                        </span>
+                     </div>
+                     <h4 className="text-xl font-black text-gray-900 dark:text-white mb-4 tracking-tight group-hover:text-blue-600 dark:group-hover:text-blue-400 transition-colors relative z-10 line-clamp-2">{quiz.title}</h4>
                    </div>
-                   <h4 className="text-xl font-extrabold text-gray-900 dark:text-white mb-4 tracking-tight group-hover:text-blue-600 transition-colors">{quiz.title}</h4>
                    
-                   <div className="flex items-center gap-6 mt-auto text-xs font-bold text-gray-400 uppercase tracking-widest">
-                      <div className="flex items-center"><Clock className="w-4 h-4 mr-2 text-blue-400"/> {quiz.time_limit || '0'}m</div>
-                      <div className="flex items-center"><CheckCircle className="w-4 h-4 mr-2 text-emerald-400"/> {quiz.pass_percent}%</div>
-                   </div>
+                   <div className="relative z-10">
+                     <div className="flex items-center justify-between gap-4 mt-auto text-xs font-bold text-gray-500 dark:text-gray-400 uppercase tracking-widest pt-4 border-t border-gray-100 dark:border-slate-700/60">
+                        <div className="flex items-center"><Clock className="w-4 h-4 mr-1.5 text-blue-500"/> {quiz.time_limit || '30'} mins</div>
+                        <div className="flex items-center"><CheckCircle className="w-4 h-4 mr-1.5 text-emerald-500"/> Pass: {quiz.pass_percent || '60'}%</div>
+                     </div>
 
-                   <Link href={quiz.category.includes('Question Bank') ? `/material/${quiz.id}` : `/quiz/${quiz.id}`} className="mt-8 w-full py-4 bg-gray-50 dark:bg-slate-900 group-hover:bg-blue-600 text-gray-700 dark:text-gray-300 group-hover:text-white rounded-2xl font-black text-sm text-center transition-all shadow-sm group-hover:shadow-blue-600/20 block">
-                     {quiz.category.includes('Question Bank') ? 'Read Material' : 'Start Assessment'}
-                   </Link>
+                     <Link href={quiz.category.includes('Question Bank') ? `/material/${quiz.id}` : `/quiz/${quiz.id}`} className="mt-6 w-full py-4 bg-gray-900 dark:bg-slate-900 group-hover:bg-gradient-to-r group-hover:from-blue-600 group-hover:to-indigo-600 text-white rounded-2xl font-black text-xs uppercase tracking-widest text-center transition-all duration-300 shadow-md group-hover:shadow-xl group-hover:shadow-blue-500/30 flex items-center justify-center gap-2 block">
+                       {quiz.category.includes('Question Bank') ? (
+                         <>Read Material <ArrowRight className="w-4 h-4 transform group-hover:translate-x-1 transition-transform" /></>
+                       ) : (
+                         <>Start Assessment <ArrowRight className="w-4 h-4 transform group-hover:translate-x-1 transition-transform" /></>
+                       )}
+                     </Link>
+                   </div>
                 </div>
               ))}
             </div>

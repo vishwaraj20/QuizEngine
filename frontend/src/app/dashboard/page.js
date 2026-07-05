@@ -139,11 +139,16 @@ export default function StudentPortal() {
 
   const companyCategories = [
     { name: 'TCS', desc: 'Tata Consultancy Services', icon: '🏢' },
+    { name: 'Accenture', desc: 'Accenture Cognitive & Technical', icon: '📈' },
+    { name: 'AMCAT', desc: 'AMCAT Employability Assessment', icon: '📊' },
+    { name: 'CoCubes', desc: 'CoCubes Pre-Assessed Prep', icon: '🧊' },
+    { name: 'eLitmus', desc: 'eLitmus pH Test Prep', icon: '⚡' },
     { name: 'Infosys', desc: 'Infosys Placement Prep', icon: '💻' },
     { name: 'Wipro', desc: 'Wipro Elite & Turbo Prep', icon: '🌐' },
-    { name: 'Accenture', desc: 'Accenture Cognitive & Technical', icon: '📈' },
     { name: 'Cognizant', desc: 'GenC & GenC Next Prep', icon: '🚀' },
     { name: 'Capgemini', desc: 'Capgemini Analyst Prep', icon: '⚡' },
+    { name: 'Dell', desc: 'Dell Technologies Assessment', icon: '💻' },
+    { name: 'EPAM', desc: 'EPAM Systems Engineering Prep', icon: '🔧' },
     { name: 'IBM', desc: 'IBM Cognitive Assessment', icon: '🧠' },
     { name: 'Tech Mahindra', desc: 'Tech Mahindra Prep', icon: '📱' },
     { name: 'HCLTech', desc: 'HCLTech Assessment', icon: '🖥️' },
@@ -162,17 +167,30 @@ export default function StudentPortal() {
     { name: 'Hexaware', desc: 'Hexaware Aptitude', icon: '⚙️' }
   ];
 
+  const getBadgeForCompany = (name) => {
+    const topTier = ['TCS', 'Accenture', 'AMCAT', 'CoCubes', 'eLitmus'];
+    const highYield = ['Infosys', 'Wipro', 'Cognizant', 'Capgemini', 'Deloitte'];
+    if (topTier.includes(name)) {
+      return <span className="absolute top-5 right-5 px-3 py-1 bg-emerald-500/10 text-emerald-400 font-bold text-[9px] uppercase tracking-widest rounded-full border border-emerald-500/30 flex items-center gap-1.5 shadow-sm"><span className="w-1.5 h-1.5 rounded-full bg-emerald-400 animate-pulse"></span>Live Series</span>;
+    }
+    if (highYield.includes(name)) {
+      return <span className="absolute top-5 right-5 px-3 py-1 bg-indigo-500/10 text-indigo-400 font-bold text-[9px] uppercase tracking-widest rounded-full border border-indigo-500/30 shadow-sm">High Yield</span>;
+    }
+    return <span className="absolute top-5 right-5 px-3 py-1 bg-slate-800 text-slate-400 font-bold text-[9px] uppercase tracking-widest rounded-full border border-slate-700 shadow-sm">Practice Track</span>;
+  };
+
   const CategoryCard = ({ cat, baseUrl = '/dashboard/category', customHref }) => (
     <Link 
       href={customHref || `${baseUrl}/${encodeURIComponent(cat.name)}`}
-      className="bg-white dark:bg-slate-800 p-8 rounded-[2rem] border border-gray-100 dark:border-slate-700 shadow-sm hover:shadow-xl hover:border-blue-200 transition-all group flex flex-col items-center text-center relative overflow-hidden"
+      className="bg-white/90 dark:bg-[#0f1623]/90 backdrop-blur-xl p-8 rounded-3xl border border-gray-200/80 dark:border-slate-800/80 shadow-sm hover:shadow-2xl hover:border-indigo-500/50 transition-all duration-300 group flex flex-col items-center text-center relative overflow-hidden hover:-translate-y-1.5"
     >
-       <div className="absolute top-0 right-0 w-24 h-24 bg-blue-50/50 dark:bg-slate-700/30 rounded-bl-[4rem] group-hover:bg-blue-600/10 dark:group-hover:bg-blue-500/20 transition-colors"></div>
-       <div className="text-5xl mb-6 transform group-hover:scale-110 transition-transform">{cat.icon}</div>
-       <h3 className="text-2xl font-black text-gray-900 dark:text-white mb-2">{cat.name}</h3>
-       <p className="text-gray-500 dark:text-gray-400 font-medium text-sm mb-6">{cat.desc}</p>
-       <div className="mt-auto px-6 py-2 bg-gray-50 dark:bg-slate-700/50 text-gray-500 dark:text-gray-300 group-hover:bg-blue-600 group-hover:text-white rounded-full text-xs font-bold uppercase tracking-widest transition flex items-center">
-         Select Track <ChevronRight className="w-4 h-4 ml-1" />
+       <div className="absolute top-0 left-1/2 -translate-x-1/2 w-48 h-24 bg-indigo-500/10 rounded-full blur-2xl group-hover:bg-indigo-500/20 transition-all duration-500 pointer-events-none"></div>
+       {getBadgeForCompany(cat.name)}
+       <div className="text-5xl mb-6 transform group-hover:scale-110 group-hover:-translate-y-1 transition-all duration-300 relative z-10">{cat.icon}</div>
+       <h3 className="text-2xl font-black text-gray-900 dark:text-white mb-2 group-hover:text-indigo-400 transition-colors relative z-10">{cat.name}</h3>
+       <p className="text-gray-500 dark:text-slate-400 font-medium text-sm mb-8 line-clamp-2 relative z-10">{cat.desc}</p>
+       <div className="mt-auto px-5 py-3 bg-gray-100 dark:bg-slate-800/60 text-gray-700 dark:text-slate-300 group-hover:bg-indigo-600 group-hover:text-white rounded-2xl text-xs font-bold uppercase tracking-wider transition-all duration-300 flex items-center justify-center gap-2 w-full border border-gray-200/50 dark:border-slate-700/50 group-hover:border-transparent group-hover:shadow-lg group-hover:shadow-indigo-500/25 relative z-10">
+         Select Track <ChevronRight className="w-4 h-4 transform group-hover:translate-x-1 transition-transform" />
        </div>
     </Link>
   );
@@ -211,15 +229,28 @@ export default function StudentPortal() {
               <h1 className="text-5xl font-black text-gray-900 dark:text-white tracking-tight">Welcome, {userName}! 👋</h1>
               <p className="text-gray-500 dark:text-gray-400 mt-2 text-lg font-medium">Which career path are you crushing today?</p>
            </div>
-           <Link href="/dashboard/leaderboard" className="mt-8 md:mt-0 p-5 bg-blue-600 text-white rounded-3xl shadow-xl shadow-blue-600/20 hover:bg-blue-700 transition flex items-center gap-3 group">
-              <div className="w-12 h-12 bg-white dark:bg-slate-800/20 rounded-2xl flex items-center justify-center">
-                 <Trophy className="w-6 h-6 transform group-hover:scale-125 transition-transform" />
-              </div>
-              <div className="text-left pr-4">
-                 <p className="text-[10px] font-black uppercase tracking-widest text-blue-200">Global Ranking</p>
-                 <p className="font-bold text-lg">Hall of Fame</p>
-              </div>
-           </Link>
+           
+           <div className="flex flex-col sm:flex-row gap-4 mt-8 md:mt-0">
+              <Link href="/analytics" className="p-5 bg-indigo-600 text-white rounded-3xl shadow-xl shadow-indigo-600/25 hover:bg-indigo-500 transition flex items-center gap-3 group">
+                 <div className="w-12 h-12 bg-white/20 rounded-2xl flex items-center justify-center">
+                    <BrainCircuit className="w-6 h-6 transform group-hover:scale-125 transition-transform animate-pulse" />
+                 </div>
+                 <div className="text-left pr-4">
+                    <p className="text-[10px] font-black uppercase tracking-widest text-indigo-200">AI Diagnosis</p>
+                    <p className="font-bold text-lg">Smart Analytics</p>
+                 </div>
+              </Link>
+
+              <Link href="/dashboard/leaderboard" className="p-5 bg-slate-800 text-white rounded-3xl shadow-xl shadow-slate-900/20 hover:bg-slate-700 transition flex items-center gap-3 group border border-slate-700">
+                 <div className="w-12 h-12 bg-white/10 rounded-2xl flex items-center justify-center">
+                    <Trophy className="w-6 h-6 transform group-hover:scale-125 transition-transform text-amber-400" />
+                 </div>
+                 <div className="text-left pr-4">
+                    <p className="text-[10px] font-black uppercase tracking-widest text-slate-400">Global Ranking</p>
+                    <p className="font-bold text-lg">Hall of Fame</p>
+                 </div>
+              </Link>
+           </div>
         </motion.div>
 
         {/* Analytics Dashboard Widget */}

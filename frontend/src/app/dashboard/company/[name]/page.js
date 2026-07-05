@@ -19,7 +19,32 @@ export default function CompanyTracksPage() {
       { name: 'TCS Ninja', desc: 'Previous Year Ninja Papers', icon: '🥷' },
       { name: 'TCS Question Bank', desc: 'Aptitude Question Bank (44 pgs)', icon: '📖' }
     ];
+  } else if (companyName.toUpperCase() === 'ACCENTURE') {
+    topicCategories = [
+      ...topicCategories,
+      { name: 'Accenture Papers', desc: 'Previous Year Placement Papers (42 Sets)', icon: '📄' },
+      { name: 'Accenture Question Bank', desc: 'Aptitude & Reasoning Question Bank', icon: '📖' }
+    ];
+  } else {
+    topicCategories = [
+      ...topicCategories,
+      { name: `${companyName} Papers`, desc: 'Previous Year Placement Papers', icon: '📄' },
+      { name: `${companyName} Question Bank`, desc: 'Aptitude & Reasoning Question Bank', icon: '📖' }
+    ];
   }
+
+  const getBadgeForTopic = (name) => {
+    if (name.includes('Papers') || name.includes('Ninja') || name.includes('Elite')) {
+      return <span className="absolute top-5 right-5 px-3 py-1 bg-emerald-500/10 text-emerald-400 font-bold text-[9px] uppercase tracking-widest rounded-full border border-emerald-500/30 flex items-center gap-1.5 shadow-sm"><span className="w-1.5 h-1.5 rounded-full bg-emerald-400 animate-pulse"></span>Test Series</span>;
+    }
+    if (name.includes('Question Bank') || name.includes('Bank') || name.includes('Guide')) {
+      return <span className="absolute top-5 right-5 px-3 py-1 bg-blue-500/10 text-blue-400 font-bold text-[9px] uppercase tracking-widest rounded-full border border-blue-500/30 shadow-sm">Study Material</span>;
+    }
+    if (name.includes('Coding')) {
+      return <span className="absolute top-5 right-5 px-3 py-1 bg-purple-500/10 text-purple-400 font-bold text-[9px] uppercase tracking-widest rounded-full border border-purple-500/30 shadow-sm">Technical</span>;
+    }
+    return <span className="absolute top-5 right-5 px-3 py-1 bg-amber-500/10 text-amber-400 font-bold text-[9px] uppercase tracking-widest rounded-full border border-amber-500/30 shadow-sm">Core Aptitude</span>;
+  };
 
   const TopicCard = ({ topic }) => {
     // The final category string sent to the backend will be "Company - Topic"
@@ -27,14 +52,15 @@ export default function CompanyTracksPage() {
     return (
       <Link 
         href={`/dashboard/category/${encodeURIComponent(fullCategoryName)}`}
-        className="bg-white dark:bg-slate-800 p-8 rounded-[2rem] border border-gray-100 dark:border-slate-700 shadow-sm hover:shadow-xl hover:border-blue-200 transition-all group flex flex-col items-center text-center relative overflow-hidden"
+        className="bg-white/90 dark:bg-[#0f1623]/90 backdrop-blur-xl p-8 rounded-3xl border border-gray-200/80 dark:border-slate-800/80 shadow-sm hover:shadow-2xl hover:border-indigo-500/50 transition-all duration-300 group flex flex-col items-center text-center relative overflow-hidden hover:-translate-y-1.5"
       >
-         <div className="absolute top-0 right-0 w-24 h-24 bg-blue-50/50 rounded-bl-[4rem] group-hover:bg-blue-600/10 transition-colors"></div>
-         <div className="text-5xl mb-6 transform group-hover:scale-110 transition-transform">{topic.icon}</div>
-         <h3 className="text-2xl font-black text-gray-900 dark:text-white mb-2">{topic.name}</h3>
-         <p className="text-gray-500 dark:text-gray-400 font-medium text-sm mb-6">{topic.desc}</p>
-         <div className="mt-auto px-6 py-2 bg-gray-50 dark:bg-slate-900 text-gray-400 group-hover:bg-blue-600 group-hover:text-white rounded-full text-xs font-bold uppercase tracking-widest transition flex items-center">
-           View Quizzes <ChevronRight className="w-4 h-4 ml-1" />
+         <div className="absolute top-0 left-1/2 -translate-x-1/2 w-48 h-24 bg-indigo-500/10 rounded-full blur-2xl group-hover:bg-indigo-500/20 transition-all duration-500 pointer-events-none"></div>
+         {getBadgeForTopic(topic.name)}
+         <div className="text-5xl mb-6 transform group-hover:scale-110 group-hover:-translate-y-1 transition-all duration-300 relative z-10">{topic.icon}</div>
+         <h3 className="text-2xl font-black text-gray-900 dark:text-white mb-2 group-hover:text-indigo-400 transition-colors relative z-10">{topic.name}</h3>
+         <p className="text-gray-500 dark:text-slate-400 font-medium text-sm mb-8 line-clamp-2 relative z-10">{topic.desc}</p>
+         <div className="mt-auto px-5 py-3 bg-gray-100 dark:bg-slate-800/60 text-gray-700 dark:text-slate-300 group-hover:bg-indigo-600 group-hover:text-white rounded-2xl text-xs font-bold uppercase tracking-wider transition-all duration-300 flex items-center justify-center gap-2 w-full border border-gray-200/50 dark:border-slate-700/50 group-hover:border-transparent group-hover:shadow-lg group-hover:shadow-indigo-500/25 relative z-10">
+           View Quizzes <ChevronRight className="w-4 h-4 transform group-hover:translate-x-1 transition-transform" />
          </div>
       </Link>
     );
@@ -65,14 +91,15 @@ export default function CompanyTracksPage() {
            
            <Link 
              href={`/dashboard/company/${encodeURIComponent(companyName)}/coding`}
-             className="bg-white dark:bg-slate-800 p-8 rounded-[2rem] border border-gray-100 dark:border-slate-700 shadow-sm hover:shadow-xl hover:border-blue-200 transition-all group flex flex-col items-center text-center relative overflow-hidden"
+             className="bg-white/90 dark:bg-[#0f1623]/90 backdrop-blur-xl p-8 rounded-3xl border border-gray-200/80 dark:border-slate-800/80 shadow-sm hover:shadow-2xl hover:border-purple-500/50 transition-all duration-300 group flex flex-col items-center text-center relative overflow-hidden hover:-translate-y-1.5"
            >
-              <div className="absolute top-0 right-0 w-24 h-24 bg-purple-50/50 rounded-bl-[4rem] group-hover:bg-purple-600/10 transition-colors"></div>
-              <div className="text-5xl mb-6 transform group-hover:scale-110 transition-transform">💻</div>
-              <h3 className="text-2xl font-black text-gray-900 dark:text-white mb-2">Coding Problems</h3>
-              <p className="text-gray-500 dark:text-gray-400 font-medium text-sm mb-6">Technical Interview Prep</p>
-              <div className="mt-auto px-6 py-2 bg-gray-50 dark:bg-slate-900 text-gray-400 group-hover:bg-purple-600 group-hover:text-white rounded-full text-xs font-bold uppercase tracking-widest transition flex items-center">
-                Open Workspace <ChevronRight className="w-4 h-4 ml-1" />
+              <div className="absolute top-0 left-1/2 -translate-x-1/2 w-48 h-24 bg-purple-500/10 rounded-full blur-2xl group-hover:bg-purple-500/20 transition-all duration-500 pointer-events-none"></div>
+              <span className="absolute top-5 right-5 px-3 py-1 bg-purple-500/10 text-purple-400 font-bold text-[9px] uppercase tracking-widest rounded-full border border-purple-500/30 shadow-sm">Technical</span>
+              <div className="text-5xl mb-6 transform group-hover:scale-110 group-hover:-translate-y-1 transition-all duration-300 relative z-10">💻</div>
+              <h3 className="text-2xl font-black text-gray-900 dark:text-white mb-2 group-hover:text-purple-400 transition-colors relative z-10">Coding Problems</h3>
+              <p className="text-gray-500 dark:text-slate-400 font-medium text-sm mb-8 relative z-10">Technical Interview Prep</p>
+              <div className="mt-auto px-5 py-3 bg-gray-100 dark:bg-slate-800/60 text-gray-700 dark:text-slate-300 group-hover:bg-purple-600 group-hover:text-white rounded-2xl text-xs font-bold uppercase tracking-wider transition-all duration-300 flex items-center justify-center gap-2 w-full border border-gray-200/50 dark:border-slate-700/50 group-hover:border-transparent group-hover:shadow-lg group-hover:shadow-purple-500/25 relative z-10">
+                Open Workspace <ChevronRight className="w-4 h-4 transform group-hover:translate-x-1 transition-transform" />
               </div>
            </Link>
         </div>

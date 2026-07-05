@@ -76,54 +76,84 @@ export default function MaterialPage() {
 
       {/* Content */}
       <div className="max-w-4xl mx-auto px-6 mt-8">
-        <div className="bg-white dark:bg-slate-800 rounded-3xl p-8 md:p-12 shadow-sm border border-gray-100 dark:border-slate-700">
-          <p className="text-gray-500 dark:text-gray-400 font-medium mb-10 pb-6 border-b border-gray-100 dark:border-slate-700">
-             This material contains {questions.length} questions. Scroll down to read them.
+        <div className="bg-white/90 dark:bg-[#0f1623]/90 backdrop-blur-xl rounded-3xl p-8 md:p-12 shadow-xl border border-gray-200/80 dark:border-slate-800/80 relative overflow-hidden">
+          <div className="absolute top-0 left-1/2 -translate-x-1/2 w-96 h-48 bg-indigo-500/10 rounded-full blur-3xl pointer-events-none"></div>
+          
+          <p className="text-gray-500 dark:text-gray-400 font-medium mb-10 pb-6 border-b border-gray-100 dark:border-slate-700/80 relative z-10 flex items-center justify-between">
+             <span>This material contains <strong>{questions.length}</strong> practice questions and solutions.</span>
+             <span className="text-xs font-bold uppercase tracking-widest px-3 py-1 bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Solutions Included</span>
           </p>
 
-          <div className="space-y-12">
-             {questions.map((q, index) => (
-                <div key={q.id} className="group">
-                   <div className="flex gap-4">
-                      <div className="flex-shrink-0 w-10 h-10 bg-gray-100 dark:bg-slate-700 text-gray-700 dark:text-gray-300 font-black rounded-xl flex items-center justify-center text-sm">
-                         {index + 1}
-                      </div>
-                      <div className="flex-1">
-                         <h3 className="text-lg font-bold text-gray-900 dark:text-gray-100 mb-6 leading-relaxed whitespace-pre-wrap">
-                            {q.question_text}
-                         </h3>
-                         
-                         <div className="grid grid-cols-1 md:grid-cols-2 gap-3">
-                            <div className="p-4 rounded-xl border border-gray-200 dark:border-slate-600 bg-gray-50 dark:bg-slate-800 text-gray-700 dark:text-gray-300 font-medium text-sm flex items-start gap-3">
-                               <span className="font-bold text-gray-400">A</span> {q.option_a}
-                            </div>
-                            <div className="p-4 rounded-xl border border-gray-200 dark:border-slate-600 bg-gray-50 dark:bg-slate-800 text-gray-700 dark:text-gray-300 font-medium text-sm flex items-start gap-3">
-                               <span className="font-bold text-gray-400">B</span> {q.option_b}
-                            </div>
-                            {q.option_c && (
-                              <div className="p-4 rounded-xl border border-gray-200 dark:border-slate-600 bg-gray-50 dark:bg-slate-800 text-gray-700 dark:text-gray-300 font-medium text-sm flex items-start gap-3">
-                                 <span className="font-bold text-gray-400">C</span> {q.option_c}
+          <div className="space-y-12 relative z-10">
+             {questions.map((q, index) => {
+                const ans = (q.correct_option || '').trim().toUpperCase();
+                return (
+                 <div key={q.id} className="group">
+                    <div className="flex gap-5">
+                       <div className="flex-shrink-0 w-12 h-12 bg-gradient-to-br from-blue-500/10 to-indigo-500/10 dark:from-blue-500/20 dark:to-indigo-500/20 border border-blue-500/20 text-blue-600 dark:text-blue-400 font-black rounded-2xl flex items-center justify-center text-base shadow-sm group-hover:scale-110 transition-transform">
+                          {index + 1}
+                       </div>
+                       <div className="flex-1">
+                          <h3 className="text-lg font-bold text-gray-900 dark:text-gray-100 mb-6 leading-relaxed whitespace-pre-wrap">
+                             {q.question_text}
+                          </h3>
+                          
+                          <div className="grid grid-cols-1 md:grid-cols-2 gap-3.5">
+                             <div className={`p-4 rounded-2xl border text-sm flex items-start justify-between gap-3 transition-all ${
+                               ans === 'A' ? 'bg-emerald-500/10 border-emerald-500/50 text-emerald-950 dark:text-emerald-100 font-bold shadow-sm ring-1 ring-emerald-500/30' : 'border-gray-200 dark:border-slate-700/80 bg-gray-50/50 dark:bg-slate-800/50 text-gray-700 dark:text-gray-300 font-medium'
+                             }`}>
+                                <div><span className={`font-black mr-2 ${ans === 'A' ? 'text-emerald-600 dark:text-emerald-400' : 'text-gray-400'}`}>A</span> {q.option_a}</div>
+                                {ans === 'A' && <span className="text-[10px] font-black uppercase tracking-wider text-emerald-600 dark:text-emerald-400 bg-emerald-500/20 px-2 py-0.5 rounded-full shrink-0">✓ Correct</span>}
+                             </div>
+
+                             <div className={`p-4 rounded-2xl border text-sm flex items-start justify-between gap-3 transition-all ${
+                               ans === 'B' ? 'bg-emerald-500/10 border-emerald-500/50 text-emerald-950 dark:text-emerald-100 font-bold shadow-sm ring-1 ring-emerald-500/30' : 'border-gray-200 dark:border-slate-700/80 bg-gray-50/50 dark:bg-slate-800/50 text-gray-700 dark:text-gray-300 font-medium'
+                             }`}>
+                                <div><span className={`font-black mr-2 ${ans === 'B' ? 'text-emerald-600 dark:text-emerald-400' : 'text-gray-400'}`}>B</span> {q.option_b}</div>
+                                {ans === 'B' && <span className="text-[10px] font-black uppercase tracking-wider text-emerald-600 dark:text-emerald-400 bg-emerald-500/20 px-2 py-0.5 rounded-full shrink-0">✓ Correct</span>}
+                             </div>
+
+                             {q.option_c && (
+                               <div className={`p-4 rounded-2xl border text-sm flex items-start justify-between gap-3 transition-all ${
+                                 ans === 'C' ? 'bg-emerald-500/10 border-emerald-500/50 text-emerald-950 dark:text-emerald-100 font-bold shadow-sm ring-1 ring-emerald-500/30' : 'border-gray-200 dark:border-slate-700/80 bg-gray-50/50 dark:bg-slate-800/50 text-gray-700 dark:text-gray-300 font-medium'
+                               }`}>
+                                  <div><span className={`font-black mr-2 ${ans === 'C' ? 'text-emerald-600 dark:text-emerald-400' : 'text-gray-400'}`}>C</span> {q.option_c}</div>
+                                  {ans === 'C' && <span className="text-[10px] font-black uppercase tracking-wider text-emerald-600 dark:text-emerald-400 bg-emerald-500/20 px-2 py-0.5 rounded-full shrink-0">✓ Correct</span>}
+                               </div>
+                             )}
+
+                             {q.option_d && (
+                               <div className={`p-4 rounded-2xl border text-sm flex items-start justify-between gap-3 transition-all ${
+                                 ans === 'D' ? 'bg-emerald-500/10 border-emerald-500/50 text-emerald-950 dark:text-emerald-100 font-bold shadow-sm ring-1 ring-emerald-500/30' : 'border-gray-200 dark:border-slate-700/80 bg-gray-50/50 dark:bg-slate-800/50 text-gray-700 dark:text-gray-300 font-medium'
+                               }`}>
+                                  <div><span className={`font-black mr-2 ${ans === 'D' ? 'text-emerald-600 dark:text-emerald-400' : 'text-gray-400'}`}>D</span> {q.option_d}</div>
+                                  {ans === 'D' && <span className="text-[10px] font-black uppercase tracking-wider text-emerald-600 dark:text-emerald-400 bg-emerald-500/20 px-2 py-0.5 rounded-full shrink-0">✓ Correct</span>}
+                               </div>
+                             )}
+                          </div>
+
+                          {q.explanation && (
+                            <div className="mt-6 p-5 rounded-2xl bg-gradient-to-r from-blue-500/5 via-indigo-500/5 to-purple-500/5 border border-blue-500/20 dark:border-blue-400/20 text-gray-700 dark:text-gray-300 text-sm leading-relaxed shadow-sm">
+                              <div className="flex items-center gap-2 font-black text-blue-600 dark:text-blue-400 uppercase tracking-wider text-xs mb-2">
+                                <span className="w-2 h-2 rounded-full bg-blue-500 animate-pulse"></span> Step-by-Step Explanation
                               </div>
-                            )}
-                            {q.option_d && (
-                              <div className="p-4 rounded-xl border border-gray-200 dark:border-slate-600 bg-gray-50 dark:bg-slate-800 text-gray-700 dark:text-gray-300 font-medium text-sm flex items-start gap-3">
-                                 <span className="font-bold text-gray-400">D</span> {q.option_d}
-                              </div>
-                            )}
-                         </div>
-                      </div>
-                   </div>
-                   
-                   {index !== questions.length - 1 && (
-                     <div className="h-px w-full bg-gray-100 dark:bg-slate-700/50 mt-12"></div>
-                   )}
-                </div>
-             ))}
+                              {q.explanation}
+                            </div>
+                          )}
+                       </div>
+                    </div>
+                    
+                    {index !== questions.length - 1 && (
+                      <div className="h-px w-full bg-gray-100 dark:bg-slate-700/50 mt-12"></div>
+                    )}
+                 </div>
+                );
+             })}
           </div>
           
           <div className="mt-16 text-center">
             <div className="w-16 h-1 bg-gray-200 dark:bg-slate-700 mx-auto rounded-full mb-8"></div>
-            <p className="text-gray-400 font-bold uppercase tracking-widest text-xs">End of Material</p>
+            <p className="text-gray-400 font-bold uppercase tracking-widest text-xs">End of Study Material</p>
           </div>
         </div>
       </div>
