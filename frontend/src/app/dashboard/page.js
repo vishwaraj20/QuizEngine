@@ -167,6 +167,13 @@ export default function StudentPortal() {
     { name: 'Hexaware', desc: 'Hexaware Aptitude', icon: '⚙️' }
   ];
 
+  const aptitudeCategories = [
+    { name: 'Quantitative Aptitude', desc: 'Math, numbers, and arithmetic', icon: '🧮' },
+    { name: 'Verbal Ability', desc: 'English grammar and vocabulary', icon: '📖' },
+    { name: 'Logical Reasoning', desc: 'Puzzles, sequences, and logic', icon: '🧩' },
+    { name: 'Data Interpretation', desc: 'Charts, graphs, and data analysis', icon: '📊' }
+  ];
+
   const getBadgeForCompany = (name) => {
     const topTier = ['TCS', 'Accenture', 'AMCAT', 'CoCubes', 'eLitmus'];
     const highYield = ['Infosys', 'Wipro', 'Cognizant', 'Capgemini', 'Deloitte'];
@@ -477,6 +484,22 @@ export default function StudentPortal() {
                 {companyCategories.map((cat, i) => (
                    <motion.div key={cat.name} initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.8 + (i * 0.1) }}>
                       <CategoryCard cat={cat} baseUrl="/dashboard/company" />
+                   </motion.div>
+                ))}
+             </div>
+          </section>
+
+          <section id="aptitude-library">
+             <div className="flex items-center gap-4 mb-10">
+                <div className="w-12 h-12 bg-amber-100 dark:bg-amber-900/40 text-amber-600 dark:amber-400 rounded-2xl flex items-center justify-center shadow-sm">
+                   <BrainCircuit className="w-6 h-6" />
+                </div>
+                <h2 className="text-3xl font-black text-gray-900 dark:text-white tracking-tight underline decoration-amber-200 dark:decoration-amber-800 underline-offset-8">Aptitude Library</h2>
+             </div>
+             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
+                {aptitudeCategories.map((cat, i) => (
+                   <motion.div key={cat.name} initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 1.0 + (i * 0.1) }}>
+                      <CategoryCard cat={cat} baseUrl="/dashboard/aptitude-library" customHref={`/dashboard/aptitude-library?category=${encodeURIComponent(cat.name)}`} />
                    </motion.div>
                 ))}
              </div>
