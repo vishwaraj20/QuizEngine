@@ -1,6 +1,6 @@
 "use client";
 import { useEffect, useState } from 'react';
-import { BrainCircuit, Trophy, ChevronRight, GraduationCap, Briefcase, TrendingUp, Target, Zap, History, Clock, CheckCircle, Award, Shield, Star, Crown, Moon, Sunrise, Compass, Diamond, Flame, Calendar } from 'lucide-react';
+import { BrainCircuit, Trophy, ChevronRight, GraduationCap, Briefcase, TrendingUp, Target, Zap, History, Clock, CheckCircle, Award, Shield, Star, Crown, Moon, Sunrise, Compass, Diamond, Flame, Calendar, LayoutDashboard } from 'lucide-react';
 import Link from 'next/link';
 import { motion } from 'framer-motion';
 
@@ -255,6 +255,16 @@ export default function StudentPortal() {
                  <div className="text-left pr-4">
                     <p className="text-[10px] font-black uppercase tracking-widest text-slate-400">Global Ranking</p>
                     <p className="font-bold text-lg">Hall of Fame</p>
+                 </div>
+              </Link>
+
+              <Link href="/admin" className="p-5 bg-gradient-to-r from-purple-600 to-indigo-600 text-white rounded-3xl shadow-xl shadow-purple-600/25 hover:from-purple-500 hover:to-indigo-500 transition flex items-center gap-3 group border border-purple-500/30">
+                 <div className="w-12 h-12 bg-white/20 rounded-2xl flex items-center justify-center">
+                    <LayoutDashboard className="w-6 h-6 transform group-hover:scale-125 transition-transform text-purple-200" />
+                 </div>
+                 <div className="text-left pr-4">
+                    <p className="text-[10px] font-black uppercase tracking-widest text-purple-200">Admin Control</p>
+                    <p className="font-bold text-lg">CMS Suite</p>
                  </div>
               </Link>
            </div>
