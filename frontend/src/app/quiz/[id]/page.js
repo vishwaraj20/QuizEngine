@@ -550,40 +550,43 @@ export default function QuizTakingPage() {
                   {markedForReview[q.id] ? '★ Marked' : '☆ Mark for Review'}
                </button>
 
-               {currentIndex === questions.length - 1 ? (
-                 <button 
-                   onClick={submitQuiz} 
-                   disabled={isSubmitting}
-                   className={`px-8 py-3.5 rounded-xl font-black text-xs uppercase tracking-wider shadow-lg flex items-center transition-all ${
-                     isSubmitting
-                       ? 'bg-gray-200 dark:bg-slate-700 text-gray-400 cursor-not-allowed shadow-none'
-                       : 'bg-green-600 text-white shadow-green-600/20 hover:bg-green-700 hover:scale-105 active:scale-95'
-                   }`}
-                 >
-                   {isSubmitting ? "Processing..." : "Finish Attempt"} <ArrowRight className="ml-2 w-4 h-4" />
-                 </button>
-               ) : (
-                 <>
-                   <button 
-                      onClick={() => setShowSubmitConfirm(true)}
-                      className="px-5 py-3.5 rounded-xl bg-red-50 dark:bg-red-950/30 border border-red-200 dark:border-red-900/50 text-red-600 dark:text-red-400 font-bold hover:bg-red-100 dark:hover:bg-red-900/50 transition-all text-xs uppercase tracking-wider shadow-sm hidden md:block"
-                   >
-                      Submit Early
-                   </button>
-                   <button 
-                     onClick={() => {
-                        setCurrentIndex(prev => prev + 1);
-                        setQuestionStartTime(Date.now());
-                     }}
-                     className="px-8 py-3.5 rounded-xl font-black text-xs uppercase tracking-wider shadow-lg flex items-center transition-all bg-blue-600 text-white shadow-blue-600/25 hover:bg-blue-700 hover:scale-105 active:scale-95"
-                   >
-                      Next <ArrowRight className="ml-2 w-4 h-4" />
-                   </button>
-                 </>
-               )}
+               <button 
+                  onClick={() => setShowSubmitConfirm(true)}
+                  className="px-5 py-3.5 rounded-xl bg-red-50 dark:bg-red-950/30 border border-red-200 dark:border-red-900/50 text-red-600 dark:text-red-400 font-bold hover:bg-red-100 dark:hover:bg-red-900/50 transition-all text-xs uppercase tracking-wider shadow-sm hidden sm:block"
+               >
+                  Submit Early
+               </button>
+
+               <button 
+                 onClick={() => {
+                    if (currentIndex < questions.length - 1) {
+                      setCurrentIndex(prev => prev + 1);
+                      setQuestionStartTime(Date.now());
+                    }
+                 }}
+                 disabled={currentIndex >= questions.length - 1}
+                 className={`px-8 py-3.5 rounded-xl font-black text-xs uppercase tracking-wider shadow-lg flex items-center transition-all ${
+                   currentIndex >= questions.length - 1
+                     ? 'bg-gray-200 dark:bg-slate-700 text-gray-400 cursor-not-allowed shadow-none'
+                     : 'bg-blue-600 text-white shadow-blue-600/25 hover:bg-blue-700 hover:scale-105 active:scale-95'
+                 }`}
+               >
+                  Next <ArrowRight className="ml-2 w-4 h-4" />
+               </button>
+
+               <button 
+                 onClick={submitQuiz} 
+                 disabled={isSubmitting}
+                 className={`px-8 py-3.5 rounded-xl font-black text-xs uppercase tracking-wider shadow-lg flex items-center transition-all ${
+                   isSubmitting
+                     ? 'bg-gray-200 dark:bg-slate-700 text-gray-400 cursor-not-allowed shadow-none'
+                     : 'bg-emerald-600 text-white shadow-emerald-600/20 hover:bg-emerald-700 hover:scale-105 active:scale-95'
+                 }`}
+               >
+                 {isSubmitting ? "Processing..." : "Finish Attempt"} <ArrowRight className="ml-2 w-4 h-4" />
+               </button>
             </div>
           </div>
-
         </div>
 
         {/* Question Palette Sidebar */}
@@ -593,29 +596,23 @@ export default function QuizTakingPage() {
             Question Palette
           </h3>
           
-          <div className="grid grid-cols-5 sm:grid-cols-6 md:grid-cols-8 lg:grid-cols-5 gap-2 max-h-[380px] overflow-y-auto pr-2 custom-scrollbar">
+          <div className="grid grid-cols-5 sm:grid-cols-6 md:grid-cols-8 lg:grid-cols-5 gap-2.5 max-h-[380px] overflow-y-auto pr-2 custom-scrollbar">
             {questions.map((question, idx) => {
               const isAnswered = !!answers[question.id];
               const isCurrent = currentIndex === idx;
               const isMarked = !!markedForReview[question.id];
               
-              // Determine difficulty
-              const diff = question.difficulty || (
-                idx < questions.length * 0.4 ? 'easy' :
-                idx < questions.length * 0.8 ? 'moderate' : 'hard'
-              );
-              
               let btnClass = "";
               if (isCurrent) {
-                btnClass = "bg-blue-600 text-white shadow-lg shadow-blue-600/30 ring-4 ring-blue-100 dark:ring-blue-900";
+                btnClass = "bg-blue-600 text-white shadow-lg shadow-blue-600/30 ring-4 ring-blue-100 dark:ring-blue-900 font-black scale-105";
+              } else if (isAnswered && isMarked) {
+                btnClass = "bg-purple-600 text-white shadow-md shadow-purple-600/20 ring-2 ring-emerald-400";
               } else if (isAnswered) {
-                btnClass = "bg-green-500 text-white shadow-md shadow-green-500/20";
-              } else if (diff === 'easy') {
-                btnClass = "bg-emerald-50 dark:bg-emerald-950/20 text-emerald-600 dark:text-emerald-400 border border-emerald-100 dark:border-emerald-900/50 hover:bg-emerald-100 dark:hover:bg-emerald-900/50";
-              } else if (diff === 'moderate') {
-                btnClass = "bg-amber-50 dark:bg-amber-950/20 text-amber-600 dark:text-amber-400 border border-amber-100 dark:border-amber-900/50 hover:bg-amber-100 dark:hover:bg-amber-900/50";
+                btnClass = "bg-emerald-500 text-white shadow-md shadow-emerald-500/20";
+              } else if (isMarked) {
+                btnClass = "bg-purple-500 text-white shadow-md shadow-purple-500/20";
               } else {
-                btnClass = "bg-rose-50 dark:bg-rose-950/20 text-rose-600 dark:text-rose-400 border border-rose-100 dark:border-rose-900/50 hover:bg-rose-100 dark:hover:bg-rose-900/50";
+                btnClass = "bg-gray-100 dark:bg-slate-700/80 text-gray-700 dark:text-gray-300 border border-gray-200 dark:border-slate-600 hover:bg-gray-200 dark:hover:bg-slate-600";
               }
 
               return (
@@ -628,70 +625,43 @@ export default function QuizTakingPage() {
                   className={`w-9 h-9 rounded-xl font-extrabold text-xs flex items-center justify-center transition-all duration-200 hover:scale-105 active:scale-95 relative ${btnClass}`}
                 >
                   {idx + 1}
-                  {isMarked && (
-                    <div className="absolute -top-1 -right-1 w-3 h-3 bg-purple-500 rounded-full border-2 border-white dark:border-slate-800 shadow-sm"></div>
+                  {isMarked && !isCurrent && (
+                    <div className="absolute -top-1 -right-1 w-2.5 h-2.5 bg-purple-500 rounded-full border-2 border-white dark:border-slate-800"></div>
                   )}
                 </button>
               );
             })}
           </div>
 
-          <div className="mt-8 pt-6 border-t border-gray-100 dark:border-slate-700 space-y-3 text-[10px] font-black text-gray-400 uppercase tracking-wider">
-            <div className="flex items-center gap-3">
-              <span className="w-4 h-4 rounded-lg bg-blue-600 ring-2 ring-blue-100 dark:ring-blue-900 shrink-0"></span>
-              <span>Current</span>
-            </div>
-            <div className="flex items-center justify-between gap-3">
+          <div className="mt-8 pt-6 border-t border-gray-100 dark:border-slate-700 space-y-3.5 text-[11px] font-extrabold text-gray-600 dark:text-gray-300">
+            <div className="flex items-center justify-between">
               <div className="flex items-center gap-3">
-                <span className="w-4 h-4 rounded-lg bg-green-500 shrink-0"></span>
+                <span className="w-4 h-4 rounded-lg bg-blue-600 ring-2 ring-blue-100 dark:ring-blue-900 shrink-0"></span>
+                <span>Current</span>
+              </div>
+              <span className="text-gray-500 bg-gray-100 dark:bg-slate-700 px-2 py-0.5 rounded-md text-xs font-black">1</span>
+            </div>
+            <div className="flex items-center justify-between">
+              <div className="flex items-center gap-3">
+                <span className="w-4 h-4 rounded-lg bg-emerald-500 shrink-0"></span>
                 <span>Answered</span>
               </div>
-              <span className="text-gray-500 bg-gray-100 dark:bg-slate-700 px-2 py-0.5 rounded-md">{Object.keys(answers).filter(k => answers[k]).length}</span>
+              <span className="text-emerald-600 bg-emerald-50 dark:bg-emerald-950/40 px-2 py-0.5 rounded-md text-xs font-black">{Object.keys(answers).filter(k => answers[k]).length}</span>
             </div>
-            <div className="flex items-center justify-between gap-3">
+            <div className="flex items-center justify-between">
               <div className="flex items-center gap-3">
-                <span className="w-4 h-4 rounded-full bg-purple-500 shrink-0 border-2 border-white dark:border-slate-800"></span>
-                <span className="text-purple-600 dark:text-purple-400">Marked for Review</span>
+                <span className="w-4 h-4 rounded-lg bg-gray-100 dark:bg-slate-700 border border-gray-300 dark:border-slate-600 shrink-0"></span>
+                <span>Not Answered</span>
               </div>
-              <span className="text-purple-600 bg-purple-50 dark:bg-purple-900/30 px-2 py-0.5 rounded-md">{Object.keys(markedForReview).filter(k => markedForReview[k]).length}</span>
+              <span className="text-gray-600 bg-gray-100 dark:bg-slate-700 px-2 py-0.5 rounded-md text-xs font-black">{questions.length - Object.keys(answers).filter(k => answers[k]).length}</span>
             </div>
-            
-            {(() => {
-              let easy = 0, mod = 0, hard = 0;
-              questions.forEach((q, idx) => {
-                if (!answers[q.id]) {
-                  const diff = q.difficulty || (idx < questions.length * 0.4 ? 'easy' : idx < questions.length * 0.8 ? 'moderate' : 'hard');
-                  if (diff === 'easy') easy++;
-                  else if (diff === 'moderate') mod++;
-                  else hard++;
-                }
-              });
-              return (
-                <>
-                  <div className="flex items-center justify-between gap-3">
-                    <div className="flex items-center gap-3">
-                      <span className="w-4 h-4 rounded-lg bg-emerald-50 dark:bg-emerald-950/20 border border-emerald-100 dark:border-emerald-900/50 shrink-0"></span>
-                      <span className="text-emerald-700 dark:text-emerald-450">Easy (Unvisited)</span>
-                    </div>
-                    <span className="text-emerald-600 bg-emerald-50 dark:bg-emerald-900/30 px-2 py-0.5 rounded-md">{easy}</span>
-                  </div>
-                  <div className="flex items-center justify-between gap-3">
-                    <div className="flex items-center gap-3">
-                      <span className="w-4 h-4 rounded-lg bg-amber-50 dark:bg-amber-950/20 border border-amber-100 dark:border-amber-900/50 shrink-0"></span>
-                      <span className="text-amber-700 dark:text-amber-450">Moderate (Unvisited)</span>
-                    </div>
-                    <span className="text-amber-600 bg-amber-50 dark:bg-amber-900/30 px-2 py-0.5 rounded-md">{mod}</span>
-                  </div>
-                  <div className="flex items-center justify-between gap-3">
-                    <div className="flex items-center gap-3">
-                      <span className="w-4 h-4 rounded-lg bg-rose-50 dark:bg-rose-950/20 border border-rose-100 dark:border-rose-900/50 shrink-0"></span>
-                      <span className="text-rose-700 dark:text-rose-450">Hard (Unvisited)</span>
-                    </div>
-                    <span className="text-rose-600 bg-rose-50 dark:bg-rose-900/30 px-2 py-0.5 rounded-md">{hard}</span>
-                  </div>
-                </>
-              );
-            })()}
+            <div className="flex items-center justify-between">
+              <div className="flex items-center gap-3">
+                <span className="w-4 h-4 rounded-lg bg-purple-500 shrink-0"></span>
+                <span>Marked for Review</span>
+              </div>
+              <span className="text-purple-600 bg-purple-50 dark:bg-purple-950/40 px-2 py-0.5 rounded-md text-xs font-black">{Object.keys(markedForReview).filter(k => markedForReview[k]).length}</span>
+            </div>
           </div>
         </div>
 
