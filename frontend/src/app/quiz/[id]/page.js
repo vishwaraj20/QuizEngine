@@ -2,6 +2,60 @@
 import React, { useEffect, useState, useRef } from 'react';
 import { Clock, ArrowRight, ArrowLeft, CheckCircle, XCircle, AlertCircle, ShieldAlert, Maximize, AlertTriangle } from 'lucide-react';
 import { useParams, useRouter, useSearchParams } from 'next/navigation';
+import Latex from 'react-latex-next';
+
+// Fix LLM's common LaTeX mistakes and render markdown code blocks as native React elements
+const LatexWrapper = ({ children }) => {
+  if (typeof children !== 'string') return <Latex>{children}</Latex>;
+  
+  // Fix unescaped set braces which cause KaTeX parse errors
+  let sanitized = children.replace(/(?<!\\)\$\{/g, '$\\{').replace(/(?<!\\)\}\$/g, '\\}$');
+
+  const parts = [];
+  const regex = /```([a-zA-Z]*)\n([\s\S]*?)```/g;
+  let lastIndex = 0;
+  let match;
+
+  while ((match = regex.exec(sanitized)) !== null) {
+    // Add text before the code block
+    if (match.index > lastIndex) {
+      parts.push(<Latex key={`text-${lastIndex}`}>{sanitized.substring(lastIndex, match.index)}</Latex>);
+    }
+
+    const lang = match[1];
+    const content = match[2];
+
+    const lines = content.split('\n');
+    const hasMath = lines.some(line => line.includes('\\to') || line.includes('\\frac') || line.includes('\\quad') || line.includes('\\times') || line.includes('\\le') || line.includes('\\ge') || line.includes('\\mid') || line.includes('\\cup') || line.includes('\\cap') || line.includes('\\alpha') || line.includes('\\beta') || line.includes('\\gamma'));
+
+    if (hasMath) {
+      const mathLines = lines.map(line => {
+        if (line.trim().length > 0) return `$${line}$`;
+        return line;
+      });
+      // It's math grammar, render it as Latex
+      parts.push(<div key={`math-${match.index}`} className="my-2"><Latex>{mathLines.join('\n')}</Latex></div>);
+    } else {
+      // It's a table or code block! Render it as a horizontally scrolling pre block
+      parts.push(
+        <div key={`code-${match.index}`} className="w-full overflow-x-auto my-4 custom-scrollbar">
+          <pre className="bg-slate-50 dark:bg-slate-800 p-4 rounded-xl text-sm font-mono border border-slate-200 dark:border-slate-700 min-w-max text-slate-800 dark:text-slate-200">
+            {content}
+          </pre>
+        </div>
+      );
+    }
+    
+    lastIndex = regex.lastIndex;
+  }
+
+  // Add remaining text
+  if (lastIndex < sanitized.length) {
+    parts.push(<Latex key={`text-${lastIndex}`}>{sanitized.substring(lastIndex)}</Latex>);
+  }
+
+  return <div className="whitespace-pre-wrap break-words w-full overflow-x-hidden">{parts}</div>;
+};
 
 export default function QuizTakingPage() {
   const { id } = useParams();
@@ -374,25 +428,25 @@ export default function QuizTakingPage() {
             <div key={idx} className={`p-8 rounded-[2.5rem] border-2 transition hover:shadow-lg ${item.is_correct ? 'border-green-100 dark:border-green-900/50 bg-white dark:bg-slate-800' : 'border-red-100 dark:border-red-900/50 bg-white dark:bg-slate-800'}`}>
               <div className="font-extrabold text-xl mb-6 text-gray-900 dark:text-white flex items-start">
                  <span className={`w-10 h-10 shrink-0 inline-flex items-center justify-center rounded-xl mr-5 text-sm font-black shadow-sm ${item.is_correct ? 'bg-green-500 text-white' : 'bg-red-500 text-white'}`}>{idx + 1}</span>
-                 {item.question_text}
+                 <LatexWrapper>{item.question_text}</LatexWrapper>
               </div>
               
               <div className="grid md:grid-cols-2 gap-6 pl-14 mb-8">
                 <div className="p-4 bg-gray-50 dark:bg-slate-900 rounded-2xl border border-gray-100 dark:border-slate-700">
                    <p className="text-[10px] font-black text-gray-400 uppercase tracking-widest mb-1">Your response</p>
-                   <p className={`font-bold ${item.is_correct ? 'text-green-600' : 'text-red-600'}`}>{item.selected_option || 'No Response'}</p>
+                   <p className={`font-bold ${item.is_correct ? 'text-green-600' : 'text-red-600'}`}><LatexWrapper>{item.selected_option || 'No Response'}</LatexWrapper></p>
                 </div>
                 {!item.is_correct && (
                    <div className="p-4 bg-green-550 dark:bg-green-950/20 text-green-700 dark:text-green-400 rounded-2xl border border-green-100 dark:border-green-900/50">
                      <p className="text-[10px] font-black text-green-400 uppercase tracking-widest mb-1">Correct Key</p>
-                     <p className="font-bold">{item.correct_option}</p>
+                     <p className="font-bold"><LatexWrapper>{item.correct_option}</LatexWrapper></p>
                    </div>
                 )}
               </div>
               
               <div className="ml-14 p-6 bg-blue-50/50 dark:bg-blue-950/20 rounded-2xl text-sm font-medium text-blue-800 dark:text-blue-200 border border-blue-100 dark:border-blue-900/50 italic">
-                <span className="font-black uppercase text-[10px] tracking-widest block mb-2 opacity-50">Professional Rationale</span>
-                {item.explanation}
+                <span className="font-black uppercase text-[10px] tracking-widest block mb-2 opacity-50 not-italic">Professional Rationale</span>
+                <LatexWrapper>{item.explanation}</LatexWrapper>
               </div>
             </div>
           ))}
@@ -492,37 +546,56 @@ export default function QuizTakingPage() {
 
           {/* Question Area */}
           <div className="p-8 md:p-10">
-             <div className="max-h-[380px] overflow-y-auto pr-3 mb-8 custom-scrollbar">
+             <div className="mb-8">
                <h2 
                   className="text-lg md:text-xl font-semibold text-gray-900 dark:text-slate-100 leading-relaxed tracking-wide select-none"
-                  dangerouslySetInnerHTML={{ __html: q.question_text }}
-               />
+               >
+                  <LatexWrapper>{q.question_text}</LatexWrapper>
+               </h2>
              </div>
 
-             <div className="grid sm:grid-cols-1 md:grid-cols-2 gap-4">
-               {['A', 'B', 'C', 'D'].map(opt => {
-                 const isSelected = answers[q.id] === opt;
-                 return (
-                   <div 
-                     key={opt}
-                     onClick={() => selectOption(opt)}
-                     className={`group p-5 rounded-2xl border-2 flex items-center cursor-pointer transition-all duration-200 select-none
-                      ${isSelected 
-                        ? 'border-blue-600 bg-blue-50/90 dark:bg-blue-900/40 shadow-lg shadow-blue-500/10' 
-                        : 'border-gray-200 dark:border-slate-700/80 hover:border-blue-400 dark:hover:border-blue-500/50 bg-white dark:bg-slate-800/60 hover:bg-gray-50 dark:hover:bg-slate-800'}
-                     `}
-                   >
-                     <div className={`w-10 h-10 shrink-0 rounded-xl flex items-center justify-center font-black mr-4 text-sm transition-all duration-200 ${isSelected ? 'bg-blue-600 text-white shadow-md shadow-blue-600/30' : 'bg-gray-100 dark:bg-slate-700 text-gray-600 dark:text-gray-300 group-hover:bg-blue-100 dark:group-hover:bg-blue-900/50 group-hover:text-blue-600 dark:group-hover:text-blue-400'}`}>
-                        {opt}
+             {q.option_a && q.option_a.includes('NAT') ? (
+               <div className="flex flex-col items-center justify-center p-8 border-2 border-dashed border-gray-300 dark:border-slate-700 rounded-2xl bg-gray-50/50 dark:bg-slate-800/50">
+                  <p className="text-gray-500 dark:text-gray-400 mb-4 font-bold uppercase tracking-wider text-sm">Numerical Answer Type</p>
+                  <input 
+                    type="text" 
+                    value={answers[q.id] || ''}
+                    onChange={(e) => {
+                      setAnswers(prev => ({ ...prev, [q.id]: e.target.value }));
+                      if (!timeSpent[q.id]) {
+                          setTimeSpent(prev => ({ ...prev, [q.id]: 0 }));
+                      }
+                    }}
+                    placeholder="Enter your numerical answer..."
+                    className="w-full max-w-md text-center text-xl font-bold p-4 bg-white dark:bg-slate-900 border-2 border-gray-300 dark:border-slate-600 rounded-xl focus:border-blue-500 focus:ring-4 focus:ring-blue-500/20 outline-none transition-all dark:text-white"
+                  />
+                  <p className="text-xs text-gray-400 mt-3 font-medium">Type your exact numerical answer. (Grading for NAT PYQs may be unavailable if answer key is missing)</p>
+               </div>
+             ) : (
+               <div className="grid sm:grid-cols-1 md:grid-cols-2 gap-4">
+                 {['A', 'B', 'C', 'D'].map(opt => {
+                   const isSelected = answers[q.id] === opt;
+                   return (
+                     <div 
+                       key={opt}
+                       onClick={() => selectOption(opt)}
+                       className={`group p-5 rounded-2xl border-2 flex items-center cursor-pointer transition-all duration-200 select-none
+                        ${isSelected 
+                          ? 'border-blue-600 bg-blue-50/90 dark:bg-blue-900/40 shadow-lg shadow-blue-500/10' 
+                          : 'border-gray-200 dark:border-slate-700/80 hover:border-blue-400 dark:hover:border-blue-500/50 bg-white dark:bg-slate-800/60 hover:bg-gray-50 dark:hover:bg-slate-800'}
+                       `}
+                     >
+                       <div className={`w-10 h-10 shrink-0 rounded-xl flex items-center justify-center font-black mr-4 text-sm transition-all duration-200 ${isSelected ? 'bg-blue-600 text-white shadow-md shadow-blue-600/30' : 'bg-gray-100 dark:bg-slate-700 text-gray-600 dark:text-gray-300 group-hover:bg-blue-100 dark:group-hover:bg-blue-900/50 group-hover:text-blue-600 dark:group-hover:text-blue-400'}`}>
+                          {opt}
+                       </div>
+                       <span className={`text-base font-medium transition-all ${isSelected ? 'text-blue-900 dark:text-blue-100 font-bold' : 'text-gray-700 dark:text-gray-200'}`}>
+                         <LatexWrapper>{q[`option_${opt.toLowerCase()}`]}</LatexWrapper>
+                       </span>
                      </div>
-                     <span 
-                       className={`text-base font-medium transition-all ${isSelected ? 'text-blue-900 dark:text-blue-100 font-bold' : 'text-gray-700 dark:text-gray-200'}`}
-                       dangerouslySetInnerHTML={{ __html: q[`option_${opt.toLowerCase()}`] }}
-                     />
-                   </div>
-                 );
-               })}
-             </div>
+                   );
+                 })}
+               </div>
+             )}
           </div>
 
           {/* Navigation & Submission Footer */}

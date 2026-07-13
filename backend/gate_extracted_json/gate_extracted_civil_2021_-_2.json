@@ -1,0 +1,707 @@
+[
+  {
+    "question_number": "Q.1",
+    "question": "Which of the above sentences are grammatically CORRECT?\n```\n(i) Arun and Aparna are here.\n(ii) Arun and Aparna is here.\n(iii) Arun's families is here.\n(iv) Arun's family is here.\n```",
+    "question_type": "MCQ",
+    "options": {
+      "A": "(i) and (ii)",
+      "B": "(i) and (iv)",
+      "C": "(ii) and (iv)",
+      "D": "(iii) and (iv)"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.2",
+    "question": "The mirror image of the above text about the x-axis is\n\nPHYLAXIS",
+    "question_type": "MCQ",
+    "options": {
+      "A": "ΡΗΑΓΧΙΣ",
+      "B": "ЬНАГХІƧ",
+      "C": "ΕΗΑΓΕΧΙΣ",
+      "D": "ЬНАГХІS"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.3",
+    "question": "Two identical cube shaped dice each with faces numbered 1 to 6 are rolled simultaneously. The probability that an even number is rolled out on each dice is:",
+    "question_type": "MCQ",
+    "options": {
+      "A": "$1/36$",
+      "B": "$1/12$",
+      "C": "$1/18$",
+      "D": "$1/4$"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.4",
+    "question": "$\u2299$ and $\u2295$ are two operators on numbers $p$ and $q$ such that $p \u2299 q = p - q$, and $p \u2295 q = p \u00d7 q$\nThen, $(9 \u2299 (6 \u2295 7)) \u2299 (7 \u2295 (6 \u2299 5))=$",
+    "question_type": "MCQ",
+    "options": {
+      "A": "40",
+      "B": "-26",
+      "C": "-33",
+      "D": "-40"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.5",
+    "question": "Four persons P, Q, R and S are to be seated in a row. R should not be seated at the second position from the left end of the row. The number of distinct seating arrangements possible is:",
+    "question_type": "MCQ",
+    "options": {
+      "A": "6",
+      "B": "9",
+      "C": "18",
+      "D": "24"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.6",
+    "question": "On a planar field, you travelled 3 units East from a point O. Next you travelled 4 units South to arrive at point P. Then you travelled from P in the North-East direction such that you arrive at a point that is 6 units East of point O. Next, you travelled in the North-West direction, so that you arrive at point Q that is 8 units North of point P.\nThe distance of point Q to point O, in the same units, should be ________",
+    "question_type": "MCQ",
+    "options": {
+      "A": "3",
+      "B": "4",
+      "C": "5",
+      "D": "6"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.7",
+    "question": "The author said, \u201cMusicians rehearse before their concerts. Actors rehearse their roles before the opening of a new play. On the other hand, I find it strange that many public speakers think they can just walk on to the stage and start speaking. In my opinion, it is no less important for public speakers to rehearse their talks.\"\nBased on the above passage, which one of the following is TRUE?",
+    "question_type": "MCQ",
+    "options": {
+      "A": "The author is of the opinion that rehearsing is important for musicians, actors and public speakers.",
+      "B": "The author is of the opinion that rehearsing is less important for public speakers than for musicians and actors.",
+      "C": "The author is of the opinion that rehearsing is more important only for musicians than public speakers.",
+      "D": "The author is of the opinion that rehearsal is more important for actors than musicians."
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.8",
+    "question": "1. Some football players play cricket.\n2. All cricket players play hockey.\nAmong the options given below, the statement that logically follows from the two statements 1 and 2 above, is:",
+    "question_type": "MCQ",
+    "options": {
+      "A": "No football player plays hockey.",
+      "B": "Some football players play hockey.",
+      "C": "All football players play hockey.",
+      "D": "All hockey players play football."
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.9",
+    "question": "In the figure shown above, PQRS is a square. The shaded portion is formed by the intersection of sectors of circles with radius equal to the side of the square and centers at S and Q.\nThe probability that any point picked randomly within the square falls in the shaded area is ________",
+    "question_type": "MCQ",
+    "options": {
+      "A": "$\u03c0/4 - 1/2$",
+      "B": "$1/2$",
+      "C": "$1 - \u03c0/2$",
+      "D": "$\u03c0/4$"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.10",
+    "question": "In an equilateral triangle PQR, side PQ is divided into four equal parts, side QR is divided into six equal parts and side PR is divided into eight equal parts. The length of each subdivided part in cm is an integer.\nThe minimum area of the triangle PQR possible, in cm\u00b2, is",
+    "question_type": "MCQ",
+    "options": {
+      "A": "18",
+      "B": "24",
+      "C": "$48\u221a3$",
+      "D": "$144\u221a3$"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.1",
+    "question": "The value of $\\lim_{x\\to\\infty} \\frac{x \\ln(x)}{1+x^2}$ is",
+    "question_type": "MCQ",
+    "options": {
+      "A": "0",
+      "B": "1.0",
+      "C": "0.5",
+      "D": "$\u221e$"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.2",
+    "question": "The rank of the matrix $\\begin{bmatrix} 5 & 0 & -5 & 0 \\\\ 0 & 2 & 0 & 1 \\\\ -5 & 0 & 5 & 0 \\\\ 0 & 1 & 0 & 2 \\end{bmatrix}$ is",
+    "question_type": "MCQ",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.3",
+    "question": "The unit normal vector to the surface $X^2 + Y^2 + Z^2 - 48=0$ at the point (4, 4, 4) is",
+    "question_type": "MCQ",
+    "options": {
+      "A": "$\\frac{1}{\\sqrt{2}}, \\frac{1}{\\sqrt{2}}, \\frac{1}{\\sqrt{2}}$",
+      "B": "$\\frac{1}{\\sqrt{3}}, \\frac{1}{\\sqrt{3}}, \\frac{1}{\\sqrt{3}}$",
+      "C": "$\\frac{2}{\\sqrt{2}}, \\frac{2}{\\sqrt{2}}, \\frac{2}{\\sqrt{2}}$",
+      "D": "$\\frac{1}{\\sqrt{5}}, \\frac{1}{\\sqrt{5}}, \\frac{1}{\\sqrt{5}}$"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.4",
+    "question": "If A is a square matrix then orthogonality property mandates",
+    "question_type": "MCQ",
+    "options": {
+      "A": "$AA^T = I$",
+      "B": "$AA^T = 0$",
+      "C": "$AA^T = A^{-1}$",
+      "D": "$AA^T = A^2$"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.5",
+    "question": "In general, the CORRECT sequence of surveying operations is",
+    "question_type": "MCQ",
+    "options": {
+      "A": "Field observations \u2192 Reconnaissance \u2192 Data analysis \u2192 Map making",
+      "B": "Data analysis \u2192 Reconnaissance \u2192 Field observations \u2192 Map making",
+      "C": "Reconnaissance \u2192 Field observations \u2192 Data analysis \u2192 Map making",
+      "D": "Reconnaissance \u2192 Data analysis \u2192 Field observations \u2192 Map making"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.6",
+    "question": "Strain hardening of structural steel means",
+    "question_type": "MCQ",
+    "options": {
+      "A": "experiencing higher stress than yield stress with increased deformation",
+      "B": "strengthening steel member externally for reducing strain experienced",
+      "C": "strain occurring before plastic flow of steel material",
+      "D": "decrease in the stress experienced with increasing strain"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.7",
+    "question": "A single story building model is shown in the figure. The rigid bar of mass 'm' is supported by three massless elastic columns whose ends are fixed against rotation. For each of the columns, the applied lateral force (P) and corresponding moment (M) are also shown in the figure. The lateral deflection ($\\delta$) of the bar is given by $\\delta = \\frac{PL^3}{12EI}$, where L is the effective length of the column, E is the Young's modulus of elasticity and I is the area moment of inertia of the column cross-section with respect to its neutral axis.\nFor the lateral deflection profile of the columns as shown in the figure, the natural frequency of the system for horizontal oscillation is",
+    "question_type": "MCQ",
+    "options": {
+      "A": "$6\\sqrt{\\frac{EI}{mL^3}}$ rad/s",
+      "B": "$\\frac{1}{L}\\sqrt{\\frac{2EI}{m}}$ rad/s",
+      "C": "$2\\sqrt{\\frac{6EI}{mL^3}}$ rad/s",
+      "D": "$\\frac{2}{L}\\sqrt{\\frac{EI}{m}}$ rad/s"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.8",
+    "question": "Seasoning of timber for use in construction is done essentially to",
+    "question_type": "MCQ",
+    "options": {
+      "A": "increase strength and durability",
+      "B": "smoothen timber surfaces",
+      "C": "remove knots from timber logs",
+      "D": "cut timber in right season and geometry"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.9",
+    "question": "In case of bids in Two-Envelop System, the correct option is",
+    "question_type": "MCQ",
+    "options": {
+      "A": "Technical bid is opened first",
+      "B": "Financial bid is opened first",
+      "C": "Both (Technical and Financial) bids are opened simultaneously",
+      "D": "Either of the two (Technical and Financial) bids can be opened first"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.10",
+    "question": "The most appropriate triaxial test to assess the long-term stability of an excavated clay slope is",
+    "question_type": "MCQ",
+    "options": {
+      "A": "consolidated drained test",
+      "B": "unconsolidated undrained test",
+      "C": "consolidated undrained test",
+      "D": "unconfined compression test"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.11",
+    "question": "As per the Unified Soil Classification System (USCS), the type of soil represented by \u2018MH' is",
+    "question_type": "MCQ",
+    "options": {
+      "A": "Inorganic silts of high plasticity with liquid limit more than 50%",
+      "B": "Inorganic silts of low plasticity with liquid limit less than 50%",
+      "C": "Inorganic clays of high plasticity with liquid limit less than 50%",
+      "D": "Inorganic clays of low plasticity with liquid limit more than 50%"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.12",
+    "question": "The ratio of the momentum correction factor to the energy correction factor for a laminar flow in a pipe is",
+    "question_type": "MCQ",
+    "options": {
+      "A": "$1/2$",
+      "B": "$2/3$",
+      "C": "1",
+      "D": "$3/2$"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.13",
+    "question": "Relationship between traffic speed and density is described using a negatively sloped straight line. If $v_f$ is the free-flow speed then the speed at which the maximum flow occurs is",
+    "question_type": "MCQ",
+    "options": {
+      "A": "0",
+      "B": "$v_f/4$",
+      "C": "$v_f/2$",
+      "D": "$v_f$"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.14",
+    "question": "Determine the correctness or otherwise of the following Assertion [a] and the Reason [r].\nAssertion [a]: One of the best ways to reduce the amount of solid wastes is to reduce the consumption of raw materials.\nReason [r]: Solid wastes are seldom generated when raw materials are converted to goods for consumption.",
+    "question_type": "MCQ",
+    "options": {
+      "A": "Both [a] and [r] are true and [r] is the correct reason for [a]",
+      "B": "Both [a] and [r] are true but [r] is not the correct reason for [a]",
+      "C": "Both [a] and [r] are false",
+      "D": "[a] is true but [r] is false"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.15",
+    "question": "The hardness of a water sample is measured directly by titration with 0.01 M solution of ethylenediamine tetraacetic acid (EDTA) using eriochrome black T (EBT) as an indicator. The EBT reacts and forms complexes with divalent metallic cations present in the water. During titration, the EDTA replaces the EBT in the complex. When the replacement of EBT is complete at the end point of the titration, the colour of the solution changes from",
+    "question_type": "MCQ",
+    "options": {
+      "A": "blue-green to reddish brown",
+      "B": "blue to colourless",
+      "C": "reddish brown to pinkish yellow",
+      "D": "wine red to blue"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.16",
+    "question": "The softening point of bitumen has the same unit as that of",
+    "question_type": "MCQ",
+    "options": {
+      "A": "distance",
+      "B": "temperature",
+      "C": "time",
+      "D": "viscosity"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.17",
+    "question": "Which of the following statement(s) is/are correct?",
+    "question_type": "MSQ",
+    "options": {
+      "A": "Increased levels of carbon monoxide in the indoor environment result in the formation of carboxyhemoglobin and the long term exposure becomes a cause of cardiovascular diseases.",
+      "B": "Volatile organic compounds act as one of the precursors to the formation of photochemical smog in the presence of sunlight.",
+      "C": "Long term exposure to the increased level of photochemical smog becomes a cause of chest constriction and irritation of the mucous membrane.",
+      "D": "Increased levels of volatile organic compounds in the indoor environment will result in the formation of photochemical smog which is a cause of cardiovascular diseases."
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.18",
+    "question": "The value (round off to one decimal place) of $\\int_{0}^{1} x e^{|x|} dx$ is ________",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.19",
+    "question": "A solid circular torsional member OPQ is subjected to torsional moments as shown in the figure (not to scale). The yield shear strength of the constituent material is 160 MPa.\nThe absolute maximum shear stress in the member (in MPa, round off to one decimal place) is ________",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.20",
+    "question": "A propped cantilever beam XY, with an internal hinge at the middle, is carrying a uniformly distributed load of 10 kN/m, as shown in the figure.\nThe vertical reaction at support X (in kN, in integer) is ________",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.21",
+    "question": "The internal ($d_i$) and external ($d_o$) diameters of a Shelby sampler are 48 mm and 52 mm, respectively. The area ratio ($A_r$) of the sampler (in %, round off to two decimal places) is ________",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.22",
+    "question": "A 12-hour unit hydrograph (of 1 cm excess rainfall) of a catchment is of a triangular shape with a base width of 144 hour and a peak discharge of 23 m\u00b3/s. The area of the catchment (in km\u00b2, round off to the nearest integer) is ________",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.23",
+    "question": "A lake has a maximum depth of 60 m. If the mean atmospheric pressure in the lake region is 91 kPa and the unit weight of the lake water is 9790 N/m\u00b3, the absolute pressure (in kPa, round off to two decimal places) at the maximum depth of the lake is ________",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.24",
+    "question": "In a three-phase signal system design for a four-leg intersection, the critical flow ratios for each phase are 0.18, 0.32, and 0.22. The total loss time in each of the phases is 2 s. As per Webster's formula, the optimal cycle length (in s, round off to the nearest integer) is ________",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.25",
+    "question": "A horizontal angle $\\theta$ is measured by four different surveyors multiple times and the values reported are given below.\n\n```\nSurveyor | Angle $\\theta$ | Number of observations\n---------|---------------|----------------------\n1        | 36\u00b030'        | 4\n2        | 36\u00b000'        | 3\n3        | 35\u00b030'        | 8\n4        | 36\u00b030'        | 4\n```\nThe most probable value of the angle $\\theta$ (in degree, round off to two decimal places) is ________",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.26",
+    "question": "If $k$ is a constant, the general solution of $\\frac{dy}{dx} - \\frac{y}{x} = 1$ will be in the form of",
+    "question_type": "MCQ",
+    "options": {
+      "A": "$y = x\\ln(kx)$",
+      "B": "$y = k\\ln(kx)$",
+      "C": "$y = x\\ln(x)$",
+      "D": "$y = xk\\ln(k)$"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.27",
+    "question": "The smallest eigenvalue and the corresponding eigenvector of the matrix $\\begin{bmatrix} 2 & -2 \\\\ -1 & 6 \\end{bmatrix}$, respectively, are",
+    "question_type": "MCQ",
+    "options": {
+      "A": "1.55 and $\\begin{Bmatrix} 2.00 \\\\ 0.45 \\end{Bmatrix}$",
+      "B": "2.00 and $\\begin{Bmatrix} 1.00 \\\\ 1.00 \\end{Bmatrix}$",
+      "C": "1.55 and $\\begin{Bmatrix} -2.55 \\\\ -0.45 \\end{Bmatrix}$",
+      "D": "1.55 and $\\begin{Bmatrix} 2.00 \\\\ -0.45 \\end{Bmatrix}$"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.28",
+    "question": "A prismatic steel beam is shown in the figure.\nThe plastic moment, $M_p$ calculated for the collapse mechanism using static method and kinematic method is",
+    "question_type": "MCQ",
+    "options": {
+      "A": "$M_{p,static} > \\frac{2PL}{9} = M_{p,kinematic}$",
+      "B": "$M_{p,static} = \\frac{2PL}{9} \\ne M_{p,kinematic}$",
+      "C": "$M_{p,static} = \\frac{2PL}{9} = M_{p,kinematic}$",
+      "D": "$M_{p,static} < \\frac{2PL}{9} = M_{p,kinematic}$"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.29",
+    "question": "A frame EFG is shown in the figure. All members are prismatic and have equal flexural rigidity. The member FG carries a uniformly distributed load $w$ per unit length. Axial deformation of any member is neglected.\nConsidering the joint F being rigid, the support reaction at G is",
+    "question_type": "MCQ",
+    "options": {
+      "A": "0.375 wL",
+      "B": "0.453 wL",
+      "C": "0.482 wL",
+      "D": "0.500 wL"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.30",
+    "question": "A clay layer of thickness $H$ has a preconsolidation pressure $p_c$ and an initial void ratio $e_0$. The initial effective overburden stress at the mid-height of the layer is $p_0$. At the same location, the increment in effective stress due to applied external load is $\\Delta p$. The compression and swelling indices of the clay are $C_c$ and $C_s$, respectively. If $p_0 < p_c < (p_0 + \\Delta p)$, then the correct expression to estimate the consolidation settlement ($s_c$) of the clay layer is",
+    "question_type": "MCQ",
+    "options": {
+      "A": "$s_c = \\frac{H}{1+e_0} \\left[ C_s \\log \\frac{p_c}{p_0} + C_c \\log \\frac{p_0 + \\Delta p}{p_c} \\right]$",
+      "B": "$s_c = \\frac{H}{1+e_0} \\left[ C_c \\log \\frac{p_c}{p_0} + C_s \\log \\frac{p_0 + \\Delta p}{p_c} \\right]$",
+      "C": "$s_c = \\frac{H}{1+e_0} \\left[ C_c \\log \\frac{p_0}{p_c} + C_s \\log \\frac{p_0 + \\Delta p}{p_c} \\right]$",
+      "D": "$s_c = \\frac{H}{1+e_0} \\left[ C_s \\log \\frac{p_0}{p_c} + C_c \\log \\frac{p_0 + \\Delta p}{p_c} \\right]$"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.31",
+    "question": "A rectangular open channel of 6 m width is carrying a discharge of 20 m\u00b3/s. Consider the acceleration due to gravity as 9.81 m/s\u00b2 and assume water as incompressible and inviscid. The depth of flow in the channel at which the specific energy of the flowing water is minimum for the given discharge will then be",
+    "question_type": "MCQ",
+    "options": {
+      "A": "0.82 m",
+      "B": "1.04 m",
+      "C": "2.56 m",
+      "D": "3.18 m"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.32",
+    "question": "Read the statements given below.\n(i) Value of the wind profile exponent for the \u2018very unstable\u201d atmosphere is smaller than the wind profile exponent for the \u2018neutral' atmosphere.\n(ii) Downwind concentration of air pollutants due to an elevated point source will be inversely proportional to the wind speed.\n(iii)Value of the wind profile exponent for the \u2018neutral' atmosphere is smaller than the wind profile exponent for the 'very unstable' atmosphere.\n(iv) Downwind concentration of air pollutants due to an elevated point source will be directly proportional to the wind speed.\nSelect the correct option.",
+    "question_type": "MCQ",
+    "options": {
+      "A": "(i) is False and (iii) is True",
+      "B": "(i) is True and (iv) is True",
+      "C": "(ii) is False and (iii) is False",
+      "D": "(iii) is False and (iv) is False"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.33",
+    "question": "A water filtration unit is made of uniform-size sand particles of 0.4 mm diameter with a shape factor of 0.84 and specific gravity of 2.55. The depth of the filter bed is 0.70 m and the porosity is 0.35. The filter bed is to be expanded to a porosity of 0.65 by hydraulic backwash. If the terminal settling velocity of sand particles during backwash is 4.5 cm/s, the required backwash velocity is",
+    "question_type": "MCQ",
+    "options": {
+      "A": "$5.79\\times10^{-3}$ m/s",
+      "B": "$6.35\\times10^{-3}$ m/s",
+      "C": "0.69 cm/s",
+      "D": "0.75 cm/s"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.34",
+    "question": "For a given traverse, latitudes and departures are calculated and it is found that sum of latitudes is equal to +2.1 m and the sum of departures is equal to -2.8 m. The length and bearing of the closing error, respectively, are",
+    "question_type": "MCQ",
+    "options": {
+      "A": "3.50 m and 53\u00b07'48\" NW",
+      "B": "2.45 m and 53\u00b07'48\" NW",
+      "C": "0.35 m and 53.13\u00b0 SE",
+      "D": "3.50 m and 53.13\u00b0 SE"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.35",
+    "question": "From laboratory investigations, the liquid limit, plastic limit, natural moisture content and flow index of a soil specimen are obtained as 60%, 27%, 32% and 27, respectively. The corresponding toughness index and liquidity index of the soil specimen, respectively, are",
+    "question_type": "MCQ",
+    "options": {
+      "A": "0.15 and 1.22",
+      "B": "0.19 and 6.60",
+      "C": "1.22 and 0.15",
+      "D": "6.60 and 0.19"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.36",
+    "question": "A function is defined in Cartesian coordinate system as $f(x, y) = xe^y$. The value of the directional derivative of the function (in integer) at the point (2, 0) along the direction of the straight line segment from point (2, 0) to point $(1/2, 2)$ is ________",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.37",
+    "question": "An elevated cylindrical water storage tank is shown in the figure. The tank has inner diameter of 1.5 m. It is supported on a solid steel circular column of diameter 75 mm and total height (L) of 4 m. Take, water density = 1000 kg/m\u00b3 and acceleration due to gravity = 10 m/s\u00b2.\nIf elastic modulus (E) of steel is 200 GPa, ignoring self-weight of the tank, for the supporting steel column to remain unbuckled, the maximum depth (h) of the water permissible (in m, round off to one decimal place) is ________",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.38",
+    "question": "A prismatic fixed-fixed beam, modelled with a total lumped-mass of 10 kg as a single degree of freedom (SDOF) system is shown in the figure.\nIf the flexural stiffness of the beam is $4\\pi^2$ kN/m, its natural frequency of vibration (in Hz, in integer) in the flexural mode will be ________",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.39",
+    "question": "A perfectly flexible and inextensible cable is shown in the figure (not to scale). The external loads at F and G are acting vertically.\nThe magnitude of tension in the cable segment FG (in kN, round off to two decimal places) is ________",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.40",
+    "question": "A fire hose nozzle directs a steady stream of water of velocity 50 m/s at an angle of 45\u00b0 above the horizontal. The stream rises initially but then eventually falls to the ground. Assume water as incompressible and inviscid. Consider the density of air and the air friction as negligible, and assume the acceleration due to gravity as 9.81 m/s\u00b2. The maximum height (in m, round off to two decimal places) reached by the stream above the hose nozzle will then be ________",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.41",
+    "question": "A rectangular cross-section of a reinforced concrete beam is shown in the figure. The diameter of each reinforcing bar is 16 mm. The values of modulus of elasticity of concrete and steel are $2.0\\times10^4$ MPa and $2.1\\times10^5$ MPa, respectively.\nThe distance of the centroidal axis from the centerline of the reinforcement (x) for the uncracked section (in mm, round off to one decimal place) is ________",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.42",
+    "question": "The activity details for a small project are given in the Table.\n\n```\nActivity | Duration (days) | Depends on\n---------|-----------------|------------\nA        | 6               | -\nB        | 10              | A\nC        | 14              | A\nD        | 8               | B\nE        | 12              | C\nF        | 8               | C\nG        | 16              | D, E\nH        | 8               | F, G\nK        | 2               | B\nL        | 5               | G, K\n```\nThe total time (in days, in integer) for project completion is ________",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.43",
+    "question": "An equipment has been purchased at an initial cost of \u20b9160000 and has an estimated salvage value of \u20b910000. The equipment has an estimated life of 5 years. The difference between the book values (in \u20b9, in integer) obtained at the end of 4th year using straight line method and sum of years digit method of depreciation is ________",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.44",
+    "question": "A rectangular footing of size 2.8 m \u00d7 3.5 m is embedded in a clay layer and a vertical load is placed with an eccentricity of 0.8 m as shown in the figure (not to scale). Take Bearing capacity factors: $N_c = 5.14$, $N_q = 1.0$, and $N_\\gamma = 0.0$; Shape factors: $s_c = 1.16$, $s_q = 1.0$ and $s_\\gamma= 1.0$; Depth factors: $d_c = 1.1$, $d_q= 1.0$ and $d_\\gamma = 1.0$; and Inclination factors: $i_c = 1.0$ and $i_q = 1.0$ and $i_\\gamma= 1.0$.\nUsing Meyerhoff's method, the load (in kN, round off to two decimal places) that can be applied on the footing with a factor of safety of 2.5 is ________",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.45",
+    "question": "The soil profile at a road construction site is as shown in figure (not to scale).\nA large embankment is to be constructed at the site. The ground water table (GWT) is located at the surface of the clay layer, and the capillary rise in the sandy soil is negligible. The effective stress at the middle of the clay layer after the application of the embankment loading is 180 kN/m\u00b2. Take unit weight of water, $\\gamma_w = 9.81$ kN/m\u00b3.\nThe primary consolidation settlement (in m, round off to two decimal places) of the clay layer resulting from this loading will be ________",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.46",
+    "question": "Numerically integrate, $f(x) = 10x - 20x^2$ from lower limit $a = 0$ to upper limit $b = 0.5$. Use Trapezoidal rule with five equal subdivisions. The value (in units, round off to two decimal places) obtained is ________",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.47",
+    "question": "The void ratio of a clay soil sample M decreased from 0.575 to 0.510 when the applied pressure is increased from 120 kPa to 180 kPa. For the same increment in pressure, the void ratio of another clay soil sample N decreases from 0.600 to 0.550. If the ratio of hydraulic conductivity of sample M to sample N is 0.125, then the ratio of coefficient of consolidation of sample M to sample N (round off to three decimal places) is ________",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.48",
+    "question": "The hyetograph in the figure corresponds to a rainfall event of 3 cm.\nIf the rainfall event has produced a direct runoff of 1.6 cm, the $\\phi$-index of the event (in mm/hour, round off to one decimal place) would be ________",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.49",
+    "question": "A venturimeter as shown in the figure (not to scale) is connected to measure the flow of water in a vertical pipe of 20 cm diameter.\nAssume $g = 9.8$ m/s\u00b2. When the deflection in the mercury manometer is 15 cm, the flow rate (in lps, round off to two decimal places) considering no loss in the venturimeter is ________",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.50",
+    "question": "A reservoir with a live storage of 300 million cubic metre irrigates 40000 hectares (1 hectare = $10^4$ m\u00b2) of a crop with two fillings of the reservoir. If the base period of the crop is 120 days, the duty for this crop (in hectares per cumec, round off to integer) will then be ________",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.51",
+    "question": "An activated sludge process (ASP) is designed for secondary treatment of 7500 m\u00b3/day of municipal wastewater. After primary clarifier, the ultimate BOD of the influent, which enters into ASP reactor is 200 mg/L. Treated effluent after secondary clarifier is required to have an ultimate BOD of 20 mg/L. Mix liquor volatile suspended solids (MLVSS) concentration in the reactor and the underflow is maintained as 3000 mg/L and 12000 mg/L, respectively. The hydraulic retention time and mean cell residence time are 0.2 day and 10 days, respectively. A representative flow diagram of the ASP is shown below.\nThe underflow volume (in m\u00b3/day, round off to one decimal place) of sludge wastage is ________",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.52",
+    "question": "A grit chamber of rectangular cross-section is to be designed to remove particles with diameter of 0.25 mm and specific gravity of 2.70. The terminal settling velocity of the particles is estimated as 2.5 cm/s. The chamber is having a width of 0.50 m and has to carry a peak wastewater flow of 9720 m\u00b3/d giving the depth of flow as 0.75 m. If a flow-through velocity of 0.3 m/s has to be maintained using a proportional weir at the outlet end of the chamber, the minimum length of the chamber (in m, in integer) to remove 0.25 mm particles completely is ________",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.53",
+    "question": "In an aggregate mix, the proportions of coarse aggregate, fine aggregate and mineral filler are 55%, 40% and 5%, respectively. The values of bulk specific gravity of the coarse aggregate, fine aggregate and mineral filler are 2.55, 2.65 and 2.70, respectively. The bulk specific gravity of the aggregate mix (round off to two decimal places) is ________",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.54",
+    "question": "The stopping sight distance (SSD) for a level highway is 140 m for the design speed of 90 km/h. The acceleration due to gravity and deceleration rate are 9.81 m/s\u00b2 and 3.5 m/s\u00b2, respectively. The perception/reaction time (in s, round off to two decimal places) used in the SSD calculation is ________",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.55",
+    "question": "For a 2\u00b0 curve on a high speed Broad Gauge (BG) rail section, the maximum sanctioned speed is 100 km/h and the equilibrium speed is 80 km/h. Consider dynamic gauge of BG rail as 1750 mm. The degree of curve is defined as the angle subtended at its center by a 30.5 m arc. The cant deficiency for the curve (in mm, round off to integer) is ________",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  }
+]

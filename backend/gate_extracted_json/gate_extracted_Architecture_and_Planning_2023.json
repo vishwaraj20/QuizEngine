@@ -1,0 +1,1005 @@
+[
+  {
+    "question_number": "Q.1",
+    "question": "He did not manage to fix the car himself, so he __________ in the garage.",
+    "question_type": "MCQ",
+    "options": {
+      "A": "got it fixed",
+      "B": "getting it fixed",
+      "C": "gets fixed",
+      "D": "got fixed"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.2",
+    "question": "Planting: Seed : : Raising : __________ (By word meaning)",
+    "question_type": "MCQ",
+    "options": {
+      "A": "Child",
+      "B": "Temperature",
+      "C": "Height",
+      "D": "Lift"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.3",
+    "question": "A certain country has 504 universities and 25951 colleges. These are categorised into Grades I, II, and III as shown in the given pie charts.\nWhat is the percentage, correct to one decimal place, of higher education institutions (colleges and universities) that fall into Grade III?\n```\nUniversities\n62%\nGRADE II\nGRADE III 7%\nGRADE I\n31%\n\nColleges\n68%\n23%\nGRADE II\nGRADE III\nGRADE I\n9%\n```",
+    "question_type": "MCQ",
+    "options": {
+      "A": "22.7",
+      "B": "23.7",
+      "C": "15.0",
+      "D": "66.8"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.4",
+    "question": "The minute-hand and second-hand of a clock cross each other __________ times between 09:15:00 AM and 09:45:00 AM on a day.",
+    "question_type": "MCQ",
+    "options": {
+      "A": "30",
+      "B": "15",
+      "C": "29",
+      "D": "31"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.5",
+    "question": "The symbols O, *, $\\Delta$, and $\\square$ are to be filled, one in each box, as shown below.\nThe rules for filling in the four symbols are as follows.\n1) Every row and every column must contain each of the four symbols.\n2) Every 2$\\times$2 square delineated by bold lines must contain each of the four symbols.\nWhich symbol will occupy the box marked with '?' in the partially filled figure?\n```\n?   Δ\nO   *\n□   *\n*   Δ   O\n```",
+    "question_type": "MCQ",
+    "options": {
+      "A": "O",
+      "B": "*",
+      "C": "Δ",
+      "D": "□"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.6",
+    "question": "In a recently held parent-teacher meeting, the teachers had very few complaints about Ravi. After all, Ravi was a hardworking and kind student. Incidentally, almost all of Ravi's friends at school were hardworking and kind too. But the teachers drew attention to Ravi's complete lack of interest in sports. The teachers believed that, along with some of his friends who showed similar disinterest in sports, Ravi needed to engage in some sports for his overall development.\nBased only on the information provided above, which one of the following statements can be logically inferred with certainty?",
+    "question_type": "MCQ",
+    "options": {
+      "A": "All of Ravi's friends are hardworking and kind.",
+      "B": "No one who is not a friend of Ravi is hardworking and kind.",
+      "C": "None of Ravi's friends are interested in sports.",
+      "D": "Some of Ravi's friends are hardworking and kind."
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.7",
+    "question": "Consider the following inequalities\n$p^2 - 4q < 4$\n$3p + 2q < 6$\nwhere p and q are positive integers.\nThe value of $(p + q)$ is __________",
+    "question_type": "MCQ",
+    "options": {
+      "A": "2",
+      "B": "1",
+      "C": "3",
+      "D": "4"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.8",
+    "question": "Which one of the sentence sequences in the given options creates a coherent narrative?\n```\n(i) I could not bring myself to knock.\n(ii) There was a murmur of unfamiliar voices coming from the big drawing room and the door was firmly shut.\n(iii) The passage was dark for a bit, but then it suddenly opened into a bright kitchen.\n(iv) I decided I would rather wander down the passage.\n```",
+    "question_type": "MCQ",
+    "options": {
+      "A": "(iv), (i), (iii), (ii)",
+      "B": "(iii), (i), (ii), (iv)",
+      "C": "(ii), (i), (iv), (iii)",
+      "D": "(i), (iii), (ii), (iv)"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.9",
+    "question": "How many pairs of sets (S,T) are possible among the subsets of $\{1, 2, 3, 4, 5, 6\}$ that satisfy the condition that S is a subset of T?",
+    "question_type": "MCQ",
+    "options": {
+      "A": "729",
+      "B": "728",
+      "C": "665",
+      "D": "664"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.10",
+    "question": "An opaque pyramid (shown below), with a square base and isosceles faces, is suspended in the path of a parallel beam of light, such that its shadow is cast on a screen oriented perpendicular to the direction of the light beam. The pyramid can be reoriented in any direction within the light beam. Under these conditions, which one of the shadows P, Q, R, and S is NOT possible?\n```\nOpaque\npyramid\n\nP   Q\n\nR   S\n```",
+    "question_type": "MCQ",
+    "options": {
+      "A": "P",
+      "B": "Q",
+      "C": "R",
+      "D": "S"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.11",
+    "question": "The triad of secondary colours in the additive colour system is __________",
+    "question_type": "MCQ",
+    "options": {
+      "A": "Cyan, Magenta, Yellow",
+      "B": "Red, Green, Blue",
+      "C": "Purple, Green, Orange",
+      "D": "Magenta, Blue, Yellow"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.12",
+    "question": "The criterion that is specifically mentioned in Special Conditions of Contract (SCC) is __________",
+    "question_type": "MCQ",
+    "options": {
+      "A": "Scope and performance of the work",
+      "B": "Site mobilization advance",
+      "C": "Labour regulation",
+      "D": "Arbitration and law"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.13",
+    "question": "The command employed in AutoCAD® to create a mesh from a line or curve that is swept along a straight path (as shown in the figure below) is __________\n```\nI\nI\n2\nobject specified\ndirection vector\nspecified\nresult\n```",
+    "question_type": "MCQ",
+    "options": {
+      "A": "TABSURF",
+      "B": "REVSURF",
+      "C": "RULESURF",
+      "D": "EDGESURF"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.14",
+    "question": "As per the Burra Charter (2013) ‘Cultural Significance' means __________ for past, present or future generations.",
+    "question_type": "MCQ",
+    "options": {
+      "A": "historic, aesthetic, scientific, social or spiritual value",
+      "B": "archaeological, architectural, environmental, cultural value",
+      "C": "natural, cultural, mixed, intangible heritage",
+      "D": "heritage value, authenticity, integrity"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.15",
+    "question": "As per URDPFI (2015), the density range (in persons per Hectare) suggested for overall planning approach for small towns in hill areas is __________",
+    "question_type": "MCQ",
+    "options": {
+      "A": "20-30",
+      "B": "45-75",
+      "C": "100-125",
+      "D": "125-150"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.16",
+    "question": "In ecology, the term ‘niche' refers to __________",
+    "question_type": "MCQ",
+    "options": {
+      "A": "the ways in which species interact with biotic and abiotic factors of the environment",
+      "B": "only the abiotic factors such as temperature and rainfall",
+      "C": "the gradient change of physiochemical characteristics between two ecosystems",
+      "D": "the zone of junction or a transition area between two biomes"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.17",
+    "question": "Lowry's model of Metropolis (1964) includes two __________ spatial interaction models.",
+    "question_type": "MCQ",
+    "options": {
+      "A": "Singly constrained",
+      "B": "Doubly constrained",
+      "C": "Unconstrained",
+      "D": "Triply constrained"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.18",
+    "question": "Select the method(s) that involve(s) a pairwise comparison matrix for quantifying the weights of decision criteria.",
+    "question_type": "MCQ",
+    "options": {
+      "A": "Analytical hierarchy process",
+      "B": "Exploratory factor analysis",
+      "C": "Latent class analysis",
+      "D": "Multiple linear regression"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.19",
+    "question": "Select the micro-organism which is NOT an enteric pathogen.",
+    "question_type": "MCQ",
+    "options": {
+      "A": "Staphylococcus aureus",
+      "B": "Vibrio cholerae",
+      "C": "Escherichia coli",
+      "D": "Salmonella typhi"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.20",
+    "question": "Select the publication by Ministry of Statistics and Programme Implementation (MoSPI) related to Environmental Accounts as per UN-SEEA framework.",
+    "question_type": "MCQ",
+    "options": {
+      "A": "EnviStats India 2022",
+      "B": "Energy Conservation Building Code 2017",
+      "C": "Eco Niwas Samhita 2018",
+      "D": "Climate Change 2022: Impacts, Adaptation and Vulnerability"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.21",
+    "question": "Ebenezer Howard suggested the maximum population of ‘Garden City' as __________ persons.",
+    "question_type": "MCQ",
+    "options": {
+      "A": "10,000",
+      "B": "22,000",
+      "C": "32,000",
+      "D": "58,000"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.22",
+    "question": "In eighteenth century English gardens, __________ was used to eliminate visual boundaries between the garden and the landscape.",
+    "question_type": "MCQ",
+    "options": {
+      "A": "Stroll garden",
+      "B": "Sunken fence",
+      "C": "Topiary",
+      "D": "Qanat"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.23",
+    "question": "The figure below shows the spatial arrangement of rooms in a building with access from the exterior, marked as ‘entry'. Identify the appropriate diagram showing the access to rooms starting from the entry.\n```\nD E F\nC I G\nB A H\nEntry\n```",
+    "question_type": "MCQ",
+    "options": {
+      "A": "G H E D C B A F I",
+      "B": "I H G F E D A B",
+      "C": "E F G I D B A H",
+      "D": "E B C D A H F G"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.24",
+    "question": "In high-rise buildings, the method adopted to prevent ingress of smoke in an enclosed fire staircase is __________",
+    "question_type": "MCQ",
+    "options": {
+      "A": "Polarization",
+      "B": "Pressurization",
+      "C": "Perpetuation",
+      "D": "Fumigation"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.25",
+    "question": "Select the Act which stipulates prohibited area of 100 m around centrally protected monuments in India.",
+    "question_type": "MCQ",
+    "options": {
+      "A": "The Antiquities and Art Treasures Act, 1972",
+      "B": "The AMASR (Amendment and Validation) Act, 2010",
+      "C": "Urban Land (Ceiling and Regulation) Act, 1976",
+      "D": "Environment Protection Act, 1986"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.26",
+    "question": "Select the option(s) which include(s) a pair of ‘Gestalt' principles.",
+    "question_type": "MSQ",
+    "options": {
+      "A": "Proximity and Similarity",
+      "B": "Continuity and Closure",
+      "C": "Grain and Texture",
+      "D": "Scale and Proportion"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.27",
+    "question": "Select the option(s) which is/are NOT considered as primary air pollutant(s).",
+    "question_type": "MSQ",
+    "options": {
+      "A": "Suspended particulate matter",
+      "B": "Oxides of nitrogen",
+      "C": "Volatile organic compounds",
+      "D": "Peroxyacetyl Nitrate"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.28",
+    "question": "Select the Biosphere Reserve(s) in India which is/are listed in the 'Man and the Biosphere' program of UNESCO.",
+    "question_type": "MSQ",
+    "options": {
+      "A": "Sunderban",
+      "B": "Sena Oura",
+      "C": "Majang Forest",
+      "D": "Gulf of Mannar"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.29",
+    "question": "Match the buildings in Group I with their dominant spatial pattern in Group II.\n```\nGroup I\n(P) National Assembly Building, Capitol Complex, Dhaka\n(Q) Secretariat Building, UNESCO Headquarters, Paris\n(R) Fatehpur Sikri Palace Complex\n(S) Shodhan House, Ahmedabad\n\nGroup II\n(1) Centralized organization\n(2) Clustered organization\n(3) Radial organization\n(4) Linear organization\n(5) Grid organization\n```",
+    "question_type": "MCQ",
+    "options": {
+      "A": "P-1, Q-3, R-2, S-5",
+      "B": "P-5, Q-3, R-1, S-4",
+      "C": "P-3, Q-4, R-1, S-5",
+      "D": "P-1, Q-4, R-2, S-3"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.30",
+    "question": "Match the Parts of Residential Buildings in Group-I with their respective minimum width (in m) in Group-II as per the National Building Code 2016\n```\nGroup-I\n(P) Habitable room\n(Q) Stair flight\n(R) Kitchen\n(S) Bathroom\n\nGroup-II\n(1) 1.0\n(2) 3.0\n(3) 1.2\n(4) 1.8\n(5) 2.4\n```",
+    "question_type": "MCQ",
+    "options": {
+      "A": "P-2, Q-1, R-5, S-3",
+      "B": "P-5, Q-3, R-4, S-1",
+      "C": "P-2, Q-3, R-5, S-4",
+      "D": "P-5, Q-1, R-4, S-3"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.31",
+    "question": "Match the following City Planning concepts in Group-I with their proponents in Group-II\n```\nGroup-I\nP Radiant City\nQ Conservative surgery\nR Broadacre City\nS Linear City\n\nGroup-II\n1 Clarence Perry\n2 Soria-Y-Mata\n3 Le Corbusier\n4 Patrick Geddes\n5 Frank Lloyd Wright\n```",
+    "question_type": "MCQ",
+    "options": {
+      "A": "P-2, Q-4, R-5, S-3",
+      "B": "P-3, Q-4, R-5, S-2",
+      "C": "P-3, Q-2, R-1, S-4",
+      "D": "P-1, Q-5, R-3, S-2"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.32",
+    "question": "With reference to planning and design of housing, identify the correct statements.\n```\n(P) Gross population density is higher than net population density\n(Q) Gross population density is lower than net population density\n(R) Net population density is directly proportional to area of the plot\n(S) Net population density is inversely proportional to area of the plot\n```",
+    "question_type": "MCQ",
+    "options": {
+      "A": "Both Q and S are correct",
+      "B": "Both Q and R are correct",
+      "C": "Both P and R are correct",
+      "D": "Both P and S are correct"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.33",
+    "question": "Match the Mission in Group I with their objectives in Group II.\n```\nGroup I\n(P) National Mission on Enhanced Energy Efficiency\n(Q) National Mission on Sustainable Habitat\n(R) National Water Mission\n(S) National Mission on Strategic Knowledge for Climate Change\n\nGroup II\n(1) Gain better understanding of climate science, impacts, challenges by setting up climate research fund\n(2) Weather insurance mechanism and afforestation of 6 million hectares of degraded forest land\n(3) Decrease energy consumption in large consuming industries\n(4) 20% improvement of water use efficiency through pricing\n(5) Enforcement of automotive fuel economy standards using pricing measures\n```",
+    "question_type": "MCQ",
+    "options": {
+      "A": "P-3, Q-5, R-4, S-1",
+      "B": "P-2, Q-5, R-4, S-3",
+      "C": "P-3, Q-4, R-5, S-1",
+      "D": "P-2, Q-5, R-3, S-4"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.34",
+    "question": "Select the option(s) that is/are listed among the Sustainable Development Goals as articulated by the United Nations.",
+    "question_type": "MSQ",
+    "options": {
+      "A": "Globalization and Free Trade",
+      "B": "Sustainable Cities and Communities",
+      "C": "Protection of Indigenous Culture and Architecture",
+      "D": "Good Health and Well-being"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.35",
+    "question": "Select the statement(s) that are TRUE regarding ‘Building Security Services'.",
+    "question_type": "MSQ",
+    "options": {
+      "A": "'Radio Frequency Identification Device' is used for electronic access control system.",
+      "B": "'Magnetic Loop Detector' is used for fire detection system.",
+      "C": "'Infrared Sensor' is used in public broadcasting system.",
+      "D": "'Iris Scan' is a type of biometric access control system."
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.36",
+    "question": "Select the statement(s) that are TRUE regarding 'Quality and Cost-Based Selection (QCBS)' system for tendering.",
+    "question_type": "MSQ",
+    "options": {
+      "A": "Financial bid is opened before technical bid.",
+      "B": "Earnest Money Deposit (EMD) is submitted before the opening of technical bid.",
+      "C": "Technically qualified bidder with lowest financial bid is always awarded the job.",
+      "D": "A composite scoring system considering both the financial and technical bids is adopted for awarding the job."
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.37",
+    "question": "Design of septic tank requires consideration of space for the following item(s).",
+    "question_type": "MSQ",
+    "options": {
+      "A": "Settling of incoming sewage",
+      "B": "Storage of digested sludge",
+      "C": "Installation of liner to allow seepage of effluent",
+      "D": "Digestion of the settled sludge"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.38",
+    "question": "Select the place(s) which have adopted the “star pattern” of the French Garden in the design of its /their urban form(s).",
+    "question_type": "MSQ",
+    "options": {
+      "A": "Versailles",
+      "B": "Washington D.C.",
+      "C": "Islamabad",
+      "D": "Jaipur"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.39",
+    "question": "Select the parameter(s) required for determining peak rates of runoff using the Rational formula.",
+    "question_type": "MSQ",
+    "options": {
+      "A": "Intensity of rainfall",
+      "B": "Coefficient of runoff",
+      "C": "Velocity of flow",
+      "D": "Hydraulic mean depth of flow"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.40",
+    "question": "As per Solid Waste Management Rules 2016 (Ministry of Environment, Forest and Climate, Govt. of India) select the correct statement(s).",
+    "question_type": "MSQ",
+    "options": {
+      "A": "\"dry waste” means waste other than bio-degradable waste and inert street sweepings.",
+      "B": "\"combustible waste” means biodegradable, recyclable, reusable, hazardous solid waste having maximum calorific value of 800 kcal/kg.",
+      "C": "“domestic hazardous waste” includes expired medicine, CFL bulbs, discarded paint drums.",
+      "D": "“biodegradable waste” means any inorganic material that cannot be degraded by micro-organisms into simpler stable compounds."
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.41",
+    "question": "Select the correct statement(s) from the following.",
+    "question_type": "MSQ",
+    "options": {
+      "A": "Introduction of automobiles led to urban sprawl.",
+      "B": "Compact cities show relatively higher carbon emissions.",
+      "C": "Land use and transportation planning is inter-dependent on each other.",
+      "D": "Addition of a transport mode in an urban area does not change accessibility."
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.42",
+    "question": "Choose the correct statement(s) with regard to composting.",
+    "question_type": "MSQ",
+    "options": {
+      "A": "It produces natural soil amendment and enhances the effectiveness of fertilizer.",
+      "B": "Warm temperature of tropical regions is least suitable for composting.",
+      "C": "Composting is an aerobic thermophilic process.",
+      "D": "Windrow composting and in-vessel composting are two of the common composting methods."
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.43",
+    "question": "Select the item(s) that are NOT stipulated as obligatory function(s) of the urban local bodies as per the 12th Schedule of the Indian Constitution.",
+    "question_type": "MSQ",
+    "options": {
+      "A": "Urban poverty alleviation",
+      "B": "Promotion of cultural, educational and aesthetic aspects",
+      "C": "Special measures for disaster mitigation",
+      "D": "Prevention of cruelty to animals"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.44",
+    "question": "The annual precipitation recorded in a town is 400 mm. Rainwater is being collected from the flat roof of a building, and then treated to potable standards, and stored. Water loss due to evaporation, transmission and treatment is 40 percent of the total harvested volume. The roof area is 500 sq.m. There are 3 occupants, with average daily water demand as 200 lpcd. The stored rainwater will be adequate for the household's daily use for __________ days [in integer].",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.45",
+    "question": "A primary school is having 8 class rooms, each having internal dimensions of 15m $\\times$ 10m $\\times$ 4m (height). Only the internal walls of all the class rooms are proposed to be painted. Assume a deduction of 10% internal wall area due to doors, windows etc. The specification suggests two coats of paint application. The spreading rates of the selected paint during base coat and finish coat are 4.5 l/sq.m and 2.5 l/sq.m respectively. The amount of paint (in liters) required for the job will be __________ [in integer].",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.46",
+    "question": "A construction project consists of four activities. The quantity of work, manpower requirement, and the productivity of the activities are listed in the table below. The interrelationship between the activities are also mentioned in the table. The construction project will start on January 29. Assume no holidays for the entire duration of the project. The project will finish on February __________ [mention date in number].\n```\nActivity Quantity (cu.m) Manpower (persons) Productivity (cu.m/ man-day) Immediate Successor Activity\nA        96             8               3                       C\nB        252            7               4                       C & D\nC        275            5               5                       Nil\nD        126            6               3                       Nil\n```",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.47",
+    "question": "For a privately developed group housing project, the ratio of total number of dwelling units of HIG: MIG: LIG is 3:2:1. The proposed average size of HIG, MIG and LIG units in sq.m are 100, 60 and 30 respectively. The ratio of the total built up area between (MIG + LIG) to HIG will be 1: __________ [in integer].",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.48",
+    "question": "The surface development of a three dimensional object is shown in the figure below. The dotted lines indicate the folds. The dimensions given in the figure are in centimeter. The volume of the three-dimensional object (in cu.cm) is __________ [ rounded off to one decimal place].\n```\nF\nE\nD\nC\nC\nD\nE\nB\nF\n1\nA\nA\n*\n2\nP\nQ\nR\nS\nP\n*\nS\nR\n2\n3\n2\n3\n3\n```",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.49",
+    "question": "A residential housing project is designed in a plot measuring 1 hectare. The car parking area is equally distributed between the ground floor and the basement. Considering the data given below, the number of cars accommodated in the basement will be __________ [in integer].\n```\nData:\nFAR consumed = 2.0\nCar parking area is exempted from built up area for FAR calculations.\nOne car parking to be given for each 100 sq.m of built up area.\nArea required for accommodating each car in ground floor = 15 sq.m\nArea required for accommodating each car in basement = 25 sq.m\n```",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.50",
+    "question": "As per the CPWD Specifications (2019), the material used for cleaning marble flooring after polishing is __________",
+    "question_type": "MCQ",
+    "options": {
+      "A": "Oxalic Acid",
+      "B": "Caustic Soda",
+      "C": "Bleaching Power",
+      "D": "White Cement"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.51",
+    "question": "The proportion of the sides of a traditional Japanese tatami mat is __________",
+    "question_type": "MCQ",
+    "options": {
+      "A": "1:1.414",
+      "B": "1:1.5",
+      "C": "1:2",
+      "D": "1:1.618"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.52",
+    "question": "As per IS:4954 – 1964, the acceptable noise level (in dB) for urban residential areas is __________",
+    "question_type": "MCQ",
+    "options": {
+      "A": "35-45",
+      "B": "65-75",
+      "C": "20-30",
+      "D": "15-25"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.53",
+    "question": "Identify the Indian tribe that is associated with the vernacular dwelling illustrated in the image below.\n```\n[Image of a vernacular dwelling]\n```",
+    "question_type": "MCQ",
+    "options": {
+      "A": "Bhotia, Uttarakhand",
+      "B": "Toda, Tamil Nadu",
+      "C": "Naga, Nagaland",
+      "D": "Kutia Kondh, Odisha"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.54",
+    "question": "Thermal diffusivity of a wall is influenced by the choice of building material. Identify the statement(s) that is/are correct.",
+    "question_type": "MSQ",
+    "options": {
+      "A": "Thermal diffusivity is inversely proportional to thermal conductivity.",
+      "B": "Increase in specific heat capacity increases the thermal diffusivity.",
+      "C": "Materials with low thermal diffusivity have a high amplitude dampening effect.",
+      "D": "Thermal diffusivity is inversely proportional to the density of material."
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.55",
+    "question": "Select the statement(s) which are NOT correct with respect to burnt clay bricks.",
+    "question_type": "MSQ",
+    "options": {
+      "A": "Lime (<10% of clay) in carbonated form lowers the fusion point of bricks.",
+      "B": "Magnesia (>1% of clay) imparts red colour to the bricks.",
+      "C": "Iron Pyrites tend to oxidize and decompose the brick during burning.",
+      "D": "Alkalis (alkaline salts) when present in excess (>10% of clay) decrease the probability of efflorescence."
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.56",
+    "question": "Select the example(s) of Art Nouveau architecture.",
+    "question_type": "MSQ",
+    "options": {
+      "A": "Basilica of the Sagrada Familia, Barcelona",
+      "B": "Chrysler Building, New York",
+      "C": "Eiffel Tower, Paris",
+      "D": "Mackintosh Building of the Glasgow School of Art, Glasgow"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.57",
+    "question": "Match the buildings in Group I with their architectural feature in Group II.\n```\nGroup I\n(P) Erechtheion, Athens\n(Q) Temple of Karnak, near Luxor\n(R) Hagia Sophia, Istanbul\n(S) Pantheon, Rome\n\nGroup II\n(1) Hypostyle Hall\n(2) Caryatid\n(3) Pendentive\n(4) Flying buttress\n(5) Oculus\n```",
+    "question_type": "MCQ",
+    "options": {
+      "A": "P-2, Q-1, R-3, S-5",
+      "B": "P-1, Q-2, R-4, S-3",
+      "C": "P-3, Q-1, R-5, S-2",
+      "D": "P-2, Q-3, R-4, S-5"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.58",
+    "question": "Match the architects in Group I with their key architectural ideas in Group II.\n```\nGroup I\n(P) Ludwig Mies van der Rohe\n(Q) Kisho Kurokawa\n(R) Richard Rogers\n(S) Louis I. Kahn\n\nGroup II\n(1) Bowellism\n(2) Skin-and-bones architecture\n(3) Served and servant spaces\n(4) Dymaxion\n(5) Metabolism\n```",
+    "question_type": "MCQ",
+    "options": {
+      "A": "P-2, Q-5, R-1, S-3",
+      "B": "P-4, Q-1, R-3, S-5",
+      "C": "P-2, Q-1, R-5, S-3",
+      "D": "P-4, Q-5, R-1, S-2"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.59",
+    "question": "Match the pump types in Group-I with their key components in Group-II.\n```\nGroup-I\n(P) Centrifugal pumps\n(Q) Reciprocating pumps\n(R) Rotary pumps\n(S) Impulse pumps\n\nGroup-II\n(1) Piston rod\n(2) Impeller\n(3) Gear\n(4) Eductor pipe\n(5) Hydraulic ram\n```",
+    "question_type": "MCQ",
+    "options": {
+      "A": "P-2, Q-1, R-3, S-5",
+      "B": "P-1, Q-2, R-5, S-3",
+      "C": "P-2, Q-5, R-4, S-1",
+      "D": "P-1, Q-2, R-3, S-4"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.60",
+    "question": "Match the geometric forms in Group I with the buildings in Group II.\n```\nGroup I\n(P) Hyperboloid\n(Q) Geodesic Dome\n(R) Diagrid structure\n(S) Umbrella Structures\n\nGroup II\n(1) Petronas Twin Towers, Kuala Lumpur, by Cesar Pelli\n(2) Palazzo del Lavoro, Turin, by Pier Luigi Nervi\n(3) The Biomes at the Eden Project in Cornwall, UK, by Nicholas Grimshaw\n(4) Hearst Tower, New York, by Norman Foster\n(5) Cathedral of Brasilia, by Oscar Niemeyer\n```",
+    "question_type": "MCQ",
+    "options": {
+      "A": "P-5, Q-3, R-4, S-2",
+      "B": "P-3, Q-5, R-2, S-4",
+      "C": "P-5, Q-3, R-1, S-4",
+      "D": "P-3, Q-1, R-4, S-2"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.61",
+    "question": "Match the instruments in Group I with the physical quantities they measure in Group II.\n```\nGroup I\n(P) Goniophotometer\n(Q) Pyrheliometer\n(R) Spectrophotometer\n(S) Forward-Looking Infrared Camera\n\nGroup II\n(1) Electromagnetic Energy at Specific Wavelengths of Light\n(2) Luminous Flux of Directed Light Sources\n(3) Direct Solar Irradiance\n(4) Temperature\n(5) Global Solar Radiation\n```",
+    "question_type": "MCQ",
+    "options": {
+      "A": "P-5, Q-2, R-1, S-3",
+      "B": "P-2, Q-3, R-1, S-4",
+      "C": "P-2, Q-3, R-1, S-5",
+      "D": "P-5, Q-1, R-2, S-4"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.62",
+    "question": "Match the terms in Group I with their associated items in Group II.\n```\nGroup I\n(P) Scotopic vision\n(Q) Presbyopia\n(R) Emmetropia\n(S) Photopic vision\n\nGroup II\n(1) ability to see under low light condition using rod cells\n(2) vision in bright light using cone cells\n(3) inability to focus on distant objects\n(4) ideal distance vision\n(5) inability to focus on nearby objects\n```",
+    "question_type": "MCQ",
+    "options": {
+      "A": "P-1, Q-4, R-5, S-2",
+      "B": "P-4, Q-3, R-1, S-2",
+      "C": "P-1, Q-5, R-4, S-2",
+      "D": "P-4, Q-2, R-1, S-5"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.63",
+    "question": "Choose the correct statement(s) from the following:",
+    "question_type": "MSQ",
+    "options": {
+      "A": "Waste water from sinks, baths, etc. enters through the top inlet of a gully trap, while foul water from sweeping of rooms or courtyards enters from side inlet.",
+      "B": "Anti-siphon traps have a reduced water-way at the inlet side, while the outlet being larger prevents the pipe from filling full and causing siphonic action.",
+      "C": "Intercepting traps prevent foul gases from street sewer to enter into the house.",
+      "D": "P, Q and S traps are classified according to their shape."
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.64",
+    "question": "A steel wire of 5.65 mm diameter and 50 m length is used for a hoisting crane. The wire is used to vertically lift a weight of 200 kg attached to its lowest end. Assume the Young's Modulus of Elasticity of Steel as $2 \\times 10^5$ N/mm$^2$ and gravitational acceleration as 10 m/sec$^2$. The elongation of the steel wire (in mm ) will be __________ [rounded off to two decimal places].",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.65",
+    "question": "A simply supported RCC beam of span 4 m is supporting a brick wall over its entire span. The brick wall is 250 mm thick and 2 m high. The RCC beam has a depth of 600 mm and width of 250 mm. The density of brick masonry and RCC can be assumed as 18 KN/m$^3$ and 25 KN/m$^3$ respectively. Considering the load of the wall and self-weight of the RCC beam, the maximum bending moment in the beam (in KN-m) will be __________ [rounded off to two decimal places].\n```\n250 mm Thick, 2 m High Brick Wall\n2 m\n↓\n4 m\nRCC Beam\n(Width 250 mm, Depth 600 mm)\n```",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.66",
+    "question": "Select the most appropriate scale to measure Attitude, Opinion and Perception.",
+    "question_type": "MCQ",
+    "options": {
+      "A": "Likert scale",
+      "B": "Ratio scale",
+      "C": "Richter scale",
+      "D": "Armstrong scale"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.67",
+    "question": "Jal Shakti Abhiyan initiated by the Ministry of Jal Shakti does NOT include __________",
+    "question_type": "MCQ",
+    "options": {
+      "A": "Water conservation and rain water harvesting",
+      "B": "Renovation of traditional water bodies",
+      "C": "Hydroelectric power generation",
+      "D": "Intensive afforestation"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.68",
+    "question": "Select the correct sequence of activities for transit-operation planning process.",
+    "question_type": "MCQ",
+    "options": {
+      "A": "Network Route Design $\\rightarrow$ Timetable Development $\\rightarrow$ Vehicle Scheduling $\\rightarrow$ Crew Scheduling",
+      "B": "Timetable Development $\\rightarrow$ Crew Scheduling $\\rightarrow$ Vehicle Scheduling $\\rightarrow$ Network route design",
+      "C": "Vehicle Scheduling $\\rightarrow$ Crew Scheduling $\\rightarrow$ Network Route Design $\\rightarrow$ Timetable Development",
+      "D": "Crew Scheduling $\\rightarrow$ Vehicle Scheduling $\\rightarrow$ Timetable Development $\\rightarrow$ Network Route Design"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.69",
+    "question": "Select the correct sequence of steps for designing the operation of a signalized intersection.",
+    "question_type": "MCQ",
+    "options": {
+      "A": "Signal Phasing $\\rightarrow$ Green Allocation $\\rightarrow$ Cycle Length Selection",
+      "B": "Green Allocation $\\rightarrow$ Cycle Length Selection $\\rightarrow$ Signal Phasing",
+      "C": "Cycle Length Selection $\\rightarrow$ Signal Phasing $\\rightarrow$ Green Allocation",
+      "D": "Signal Phasing $\\rightarrow$ Cycle Length Selection $\\rightarrow$ Green Allocation"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.70",
+    "question": "Considering the following statements (P, Q, and R), select the correct option.\n```\n(P) Prediction of travel demand depends on target year modal alternatives.\n(Q) Prediction of travel demand depends on target year population.\n(R) Prediction of travel demand depends on target year land use.\n```",
+    "question_type": "MCQ",
+    "options": {
+      "A": "Only P is correct",
+      "B": "Only P & R are correct",
+      "C": "Only Q & R are correct",
+      "D": "P, Q, and R are all correct"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.71",
+    "question": "During Covid-19 pandemic, the ARHC scheme was launched in 2021 by the Government of India to address the problems of poor urban migrants. The term ARHC refers to __________",
+    "question_type": "MCQ",
+    "options": {
+      "A": "Accessible Rural Health Centre",
+      "B": "Affordable Rental Housing Complexes",
+      "C": "Affordable Rentals for Homeless Citizens",
+      "D": "Accessible Rural Housing Complexes"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.72",
+    "question": "Choose the non-probability sampling method where the sample is taken from a group of people easy to contact or reach.",
+    "question_type": "MCQ",
+    "options": {
+      "A": "Simple random sampling",
+      "B": "Snowball sampling",
+      "C": "Convenience sampling",
+      "D": "Stratified random sampling"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.73",
+    "question": "Match the items in Group-I with the most appropriate stages of travel demand modelling in Group-II.\n```\nGroup-I\n(P) US-EPA's MOVES\n(Q) Fratar Model\n(R) Growth Factor Model\n(S) User Equilibrium\n\nGroup-II\n(1) Trip Assignment\n(2) Trip Production\n(3) Trip Distribution\n(4) Mobile source emission estimation\n(5) Destination Choice\n```",
+    "question_type": "MCQ",
+    "options": {
+      "A": "P-4, Q-3, R-2, S-1",
+      "B": "P-3, Q-4, R-5, S-1",
+      "C": "P-4, Q-3, R-1, S-5",
+      "D": "P-3, Q-4, R-2, S-5"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.74",
+    "question": "Match the Acts in Group-I with the corresponding organizations empowered by the Act in Group-II.\n```\nGroup-I\n(P) RERA 2016\n(Q) RTI Act 2005\n(R) Town and Country Planning Act\n(S) Municipal Act\n\nGroup-II\n(1) Chief Information Commission\n(2) Land Registration Board\n(3) Real Estate Regulatory Authority\n(4) Development Authority\n(5) Board of Councillors\n```",
+    "question_type": "MCQ",
+    "options": {
+      "A": "P-4, Q-1, R-2, S-3",
+      "B": "P-2, Q-3, R-4, S-5",
+      "C": "P-3, Q-1, R-4, S-5",
+      "D": "P-3, Q-1, R-5, S-2"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.75",
+    "question": "As per IRC 11:1962, separate bicycle tracks may be provided when the peak hour __________\nWhich of the following statement(s) can be used to correctly fill in the blank?\n```\n(P) Bicycle traffic is 400 bicycles/hour or more and the volume of motorized vehicles is 100-200 vehicles/hour\n(Q) Bicycle traffic is 100 bicycles/hour or more and the volume of motorized vehicles exceed 200 vehicles/hour\n(R) Bicycle traffic is 100-200 bicycles/hour and the volume of motorized vehicle is 100-200 vehicles/hour\n```",
+    "question_type": "MCQ",
+    "options": {
+      "A": "Only P & Q",
+      "B": "Only P & R",
+      "C": "Only R",
+      "D": "P, Q & R"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.76",
+    "question": "As per URDPFI Guidelines (2015), match the following settlement types in Group-I to their population range in Group-II.\n```\nGroup-I\n(P) Large city\n(Q) Metropolitan city II\n(R) Small town II\n(S) Medium Town I\n\nGroup-II\n(1) 50,000 to 1 lakh\n(2) 50 lakh to 1 crore\n(3) 20,000 to 50,000\n(4) More than 1 crore\n(5) 5 lakh to 10 lakh\n```",
+    "question_type": "MCQ",
+    "options": {
+      "A": "P-5, Q-2, R-3, S-1",
+      "B": "P-2, Q-4, R-1, S-5",
+      "C": "P-5, Q-4, R-1, S-2",
+      "D": "P-4, Q-2, R-3, S-5"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.77",
+    "question": "Match the application areas in Group I with the Satellites/Satellite sensors in Group II.\n```\nGroup I\n(P) Cyclone prediction\n(Q) Communication\n(R) High resolution mapping\n(S) Navigation\n\nGroup II\n(1) IRNSS 11\n(2) HySIS\n(3) GSAT 30\n(4) CARTOSAT 3\n(5) SCATSAT 1\n```",
+    "question_type": "MCQ",
+    "options": {
+      "A": "P-5, Q-3, R-4, S-1",
+      "B": "P-3, Q-5, R-1, S-4",
+      "C": "P-5, Q-2, R-4, S-3",
+      "D": "P-2, Q-3, R-5, S-1"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.78",
+    "question": "Select the institution(s) that are mandated as per the 73rd Constitutional Amendment Act, 1992 of India.",
+    "question_type": "MSQ",
+    "options": {
+      "A": "Panchayat",
+      "B": "Municipal council",
+      "C": "Ward committee",
+      "D": "Gram Sabha"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.79",
+    "question": "Select the method(s) that can be used for landuse classification based on satellite images.",
+    "question_type": "MSQ",
+    "options": {
+      "A": "Maximum Likelihood",
+      "B": "Northwest Corner Method",
+      "C": "K Means",
+      "D": "ANN"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.80",
+    "question": "The figure below shows a contour diagram and two points (A & B) on the continuously ascending surface. The horizontal projection of AB is 200 m long, and the gradient of AB is 1 in 25. The constant contour interval (in m) is __________ [in integer].\n```\nB\nA\nAscending Direction of slope\n```",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.81",
+    "question": "A given zone is characterized in the following tables in terms of household size, and vehicle ownership. Table I shows the trip rates of households, and Table II shows the household composition. For households of size two and above, having one or more vehicles, the total daily home-based trips made are __________ [in integer].\n```\nTable I: Trip rate of households\n(unit: number of daily home-based trips per household)\nVehicles / household | Persons / household\n                     | One (1) | Two (2) | Three & above (3+)\n---------------------|---------|---------|-------------------\nZero (0)             | 0.5     | 2       | 4\nOne (1)              | 0.6     | 2.5     | 5\nTwo & above (2+)     | 1       | 3       | 6\n\nTable II: Household composition of zone\n(unit: number of households)\nVehicles / household | Persons / household\n                     | One (1) | Two (2) | Three & above (3+)\n---------------------|---------|---------|-------------------\nZero (0)             | 100     | 200     | 150\nOne (1)              | 200     | 300     | 200\nTwo & above (2+)     | 50      | 100     | 50\n```",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  }
+]

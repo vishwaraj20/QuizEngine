@@ -1,0 +1,676 @@
+[
+  {
+    "question_number": "Q.1",
+    "question": "Getting to the top is __________ than staying on top.",
+    "question_type": "MCQ",
+    "options": {
+      "A": "more easy",
+      "B": "much easy",
+      "C": "easiest",
+      "D": "easier"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.4",
+    "question": "$\oplus$ and $\odot$ are two operators on numbers $p$ and $q$ such that $p \oplus q = \frac{p^2 + q^2}{pq}$ and $p \odot q = \frac{p^2}{q}$. If $x \oplus y = 2 \odot 2$, then $x =$",
+    "question_type": "MCQ",
+    "options": {
+      "A": "$y/2$",
+      "B": "$y$",
+      "C": "$3y/2$",
+      "D": "$2y$"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.5",
+    "question": "Four persons P, Q, R and S are to be seated in a row, all facing the same direction, but not necessarily in the same order. P and R cannot sit adjacent to each other. S should be seated to the right of Q. The number of distinct seating arrangements possible is:",
+    "question_type": "MCQ",
+    "options": {
+      "A": "2",
+      "B": "4",
+      "C": "6",
+      "D": "8"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.6",
+    "question": "Statement: Either P marries Q or X marries Y\nAmong the options below, the logical NEGATION of the above statement is:",
+    "question_type": "MCQ",
+    "options": {
+      "A": "P does not marry Q and X marries Y.",
+      "B": "Neither P marries Q nor X marries Y.",
+      "C": "X does not marry Y and P marries Q.",
+      "D": "P marries Q and X marries Y."
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.7",
+    "question": "Consider two rectangular sheets, Sheet M and Sheet N of dimensions 6 cm x 4 cm each.\nFolding operation 1: The sheet is folded into half by joining the short edges of the current shape.\nFolding operation 2: The sheet is folded into half by joining the long edges of the current shape.\nFolding operation 1 is carried out on Sheet M three times.\nFolding operation 2 is carried out on Sheet N three times.\nThe ratio of perimeters of the final folded shape of Sheet N to the final folded shape of Sheet M is __________.",
+    "question_type": "MCQ",
+    "options": {
+      "A": "13:7",
+      "B": "3:2",
+      "C": "7:5",
+      "D": "5:13"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.8",
+    "question": "Five line segments of equal lengths, PR, PS, QS, QT and RT are used to form a star as shown in the figure above.\nThe value of $\\theta$, in degrees, is __________.",
+    "question_type": "MCQ",
+    "options": {
+      "A": "36",
+      "B": "45",
+      "C": "72",
+      "D": "108"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.9",
+    "question": "A function, $\\lambda$, is defined by\n$\\lambda(p,q) = \\begin{cases} (p-q)^2, & \\text{if } p \\ge q, \\\\ p+q, & \\text{if } p < q. \\end{cases}$\nThe value of the expression $\\frac{\\lambda(-(-3+2),(-2+3))}{(-(-2+1))}$ is:",
+    "question_type": "MCQ",
+    "options": {
+      "A": "-1",
+      "B": "0",
+      "C": "$16/3$",
+      "D": "16"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.10",
+    "question": "Humans have the ability to construct worlds entirely in their minds, which don't exist in the physical world. So far as we know, no other species possesses this ability. This skill is so important that we have different words to refer to its different flavors, such as imagination, invention and innovation.\nBased on the above passage, which one of the following is TRUE?",
+    "question_type": "MCQ",
+    "options": {
+      "A": "No species possess the ability to construct worlds in their minds.",
+      "B": "The terms imagination, invention and innovation refer to unrelated skills.",
+      "C": "We do not know of any species other than humans who possess the ability to construct mental worlds.",
+      "D": "Imagination, invention and innovation are unrelated to the ability to construct mental worlds."
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.1",
+    "question": "The rank of matrix\n```\n[ 1 2 2 3 ]\n[ 3 4 2 5 ]\n[ 5 6 2 7 ]\n[ 7 8 2 9 ]\n```\nis",
+    "question_type": "MCQ",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.2",
+    "question": "If $P = \\begin{bmatrix} 1 & 2 \\\\ 3 & 4 \\end{bmatrix}$ and $Q = \\begin{bmatrix} 1 & 0 \\\\ 0 & 1 \\end{bmatrix}$ then $Q^T P^T$ is",
+    "question_type": "MCQ",
+    "options": {
+      "A": "$\\begin{bmatrix} 1 & 3 \\\\ 2 & 4 \\end{bmatrix}$",
+      "B": "$\\begin{bmatrix} 1 & 2 \\\\ 3 & 4 \\end{bmatrix}$",
+      "C": "$\\begin{bmatrix} 2 & 1 \\\\ 4 & 3 \\end{bmatrix}$",
+      "D": "$\\begin{bmatrix} 3 & 1 \\\\ 4 & 2 \\end{bmatrix}$"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.3",
+    "question": "The shape of the cumulative distribution function of Gaussian distribution is",
+    "question_type": "MCQ",
+    "options": {
+      "A": "Horizontal line",
+      "B": "Straight line at 45 degree angle",
+      "C": "Bell-shaped",
+      "D": "S-shaped"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.4",
+    "question": "A propped cantilever beam EF is subjected to a unit moving load as shown in the figure (not to scale). The sign convention for positive shear force at the left and right sides of any section is also shown.\n\n```\nUnit moving load\n<---->\nE ----- G ----- F\n      |||\n      |||\nSign convention for\npositive shear force\n```\n\nThe CORRECT qualitative nature of the influence line diagram for shear force at G is",
+    "question_type": "MCQ",
+    "options": {
+      "A": "```\nE ---+--- G --- F\n     \\ /   \\\n      -     +\n```",
+      "B": "```\nE ---+--- G --- F\n     \\ /   \\\n      +     -\n```",
+      "C": "```\nE ---+--- G --- F\n     \\ /   \\\n      +     +\n```",
+      "D": "```\nE ---+--- G --- F\n     \\ /   \\\n      -     -\n```"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.5",
+    "question": "Gypsum is typically added in cement to",
+    "question_type": "MCQ",
+    "options": {
+      "A": "prevent quick setting",
+      "B": "enhance hardening",
+      "C": "increase workability",
+      "D": "decrease heat of hydration"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.6",
+    "question": "The direct and indirect costs estimated by a contractor for bidding a project is ₹160000 and ₹20000 respectively. If the mark up applied is 10% of the bid price, the quoted price (in ₹) of the contractor is",
+    "question_type": "MCQ",
+    "options": {
+      "A": "200000",
+      "B": "198000",
+      "C": "196000",
+      "D": "182000"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.7",
+    "question": "In an Oedometer apparatus, a specimen of fully saturated clay has been consolidated under vertical pressure of 50 kN/m$^2$ and is presently at equilibrium. The effective stress and pore water pressure immediately on increasing the vertical stress to 150 kN/m$^2$, respectively are",
+    "question_type": "MCQ",
+    "options": {
+      "A": "150 kN/m$^2$ and 0",
+      "B": "100 kN/m$^2$ and 50 kN/m$^2$",
+      "C": "50 kN/m$^2$ and 100 kN/m$^2$",
+      "D": "0 and 150 kN/m$^2$"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.8",
+    "question": "A partially-saturated soil sample has natural moisture content of 25% and bulk unit weight of 18.5 kN/m$^3$. The specific gravity of soil solids is 2.65 and unit weight of water is 9.81 kN/m$^3$. The unit weight of the soil sample on full saturation is",
+    "question_type": "MCQ",
+    "options": {
+      "A": "21.12 kN/m$^3$",
+      "B": "19.03 kN/m$^3$",
+      "C": "20.12 kN/m$^3$",
+      "D": "18.50 kN/m$^3$"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.9",
+    "question": "If water is flowing at the same depth in most hydraulically efficient triangular and rectangular channel sections then the ratio of hydraulic radius of triangular section to that of rectangular section is",
+    "question_type": "MCQ",
+    "options": {
+      "A": "$1/\\sqrt{2}$",
+      "B": "$\\sqrt{2}$",
+      "C": "1",
+      "D": "2"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.10",
+    "question": "'Kinematic viscosity' is dimensionally represented as",
+    "question_type": "MCQ",
+    "options": {
+      "A": "$M/LT$",
+      "B": "$M/L^2T$",
+      "C": "$T^2/L$",
+      "D": "$L^2/T$"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.11",
+    "question": "Which one of the following statements is correct?",
+    "question_type": "MCQ",
+    "options": {
+      "A": "Pyrolysis is an endothermic process, which takes place in the absence of oxygen.",
+      "B": "Pyrolysis is an exothermic process, which takes place in the absence of oxygen.",
+      "C": "Combustion is an endothermic process, which takes place in the abundance of oxygen.",
+      "D": "Combustion is an exothermic process, which takes place in the absence of oxygen."
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.12",
+    "question": "Which one of the following is correct?",
+    "question_type": "MCQ",
+    "options": {
+      "A": "The partially treated effluent from a food processing industry, containing high concentration of biodegradable organics, is being discharged into a flowing river at a point P. If the rate of degradation of the organics is higher than the rate of aeration, then dissolved oxygen of the river water will be lowest at point P.",
+      "B": "The most important type of species involved in the degradation of organic matter in the case of activated sludge process based wastewater treatment is chemoheterotrophs.",
+      "C": "For an effluent sample of a sewage treatment plant, the ratio BOD$_{5-day,20^\\circ C}$ upon ultimate BOD is more than 1.",
+      "D": "A young lake characterized by low nutrient content and low plant productivity is called eutrophic lake."
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.13",
+    "question": "The liquid forms of particulate air pollutants are",
+    "question_type": "MCQ",
+    "options": {
+      "A": "dust and mist",
+      "B": "mist and spray",
+      "C": "smoke and spray",
+      "D": "fly ash and fumes"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.14",
+    "question": "The shape of the most commonly designed highway vertical curve is",
+    "question_type": "MCQ",
+    "options": {
+      "A": "circular (single radius)",
+      "B": "circular (multiple radii)",
+      "C": "parabolic",
+      "D": "spiral"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.15",
+    "question": "A highway designed for 80 km/h speed has a horizontal curve section with radius 250 m. If the design lateral friction is assumed to develop fully, the required super elevation is",
+    "question_type": "MCQ",
+    "options": {
+      "A": "0.02",
+      "B": "0.05",
+      "C": "0.07",
+      "D": "0.09"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.16",
+    "question": "Which of the following is NOT a correct statement?",
+    "question_type": "MCQ",
+    "options": {
+      "A": "The first reading from a level station is a ‘Fore Sight’.",
+      "B": "Basic principle of surveying is to work from whole to parts.",
+      "C": "Contours of different elevations may intersect each other in case of an overhanging cliff.",
+      "D": "Planimeter is used for measuring ‘area’."
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.17",
+    "question": "Which of the following is/are correct statement(s)?",
+    "question_type": "MSQ",
+    "options": {
+      "A": "Back Bearing of a line is equal to Fore Bearing $\\pm 180^\\circ$.",
+      "B": "If the whole circle bearing of a line is $270^\\circ$, its reduced bearing is $90^\\circ$ NW.",
+      "C": "The boundary of water of a calm water pond will represent contour line.",
+      "D": "In the case of fixed hair stadia tachometry, the staff intercept will be larger, when the staff is held nearer to the observation point."
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.18",
+    "question": "Consider the limit:\n$\\lim_{x \\to 1} \\left( \\frac{1}{\\ln x} - \\frac{1}{x-1} \\right)$\nThe limit (correct up to one decimal place) is __________",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.19",
+    "question": "The volume determined from $\\iiint_V 8 xyz \\,dV$ for $V = [2, 3] \\times [1, 2] \\times [0,1]$ will be (in integer) __________",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.20",
+    "question": "The state of stress in a deformable body is shown in the figure. Consider transformation of the stress from the x-y coordinate system to the X-Y coordinate system. The angle $\\theta$, locating the X-axis, is assumed to be positive when measured from the x-axis in counter-clockwise direction.\n\n```\n(Figure shows a stress element with $\\sigma_{xx} = 40$ MPa, $\\sigma_{yy} = 35.6$ MPa, $\\sigma_{xy} = 50$ MPa. A transformed element shows $\\sigma_{XX} = 120$ MPa at an angle of $30^\\circ$ from the x-axis, and $\\sigma_{XY}$ is also shown.)\n```\n\nThe absolute magnitude of the shear stress component $\\sigma_{xy}$ (in MPa, round off to one decimal place) in x-y coordinate system is __________",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.21",
+    "question": "The equation of deformation is derived to be $y = x^3 - xL$ for a beam shown in the figure.\n\n```\n(Figure shows a simply supported beam of length L with a distributed load, and a dashed line representing the deformation curve.)\n```\n\nThe curvature of the beam at the mid-span (in units, in integer) will be __________",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.22",
+    "question": "A truss EFGH is shown in the figure, in which all the members have the same axial rigidity $R$. In the figure, $P$ is the magnitude of external horizontal forces acting at joints F and G.\n\n```\n(Figure shows a truss EFGH with external forces P at F and G, and a vertical load L at H. Members are EF, FG, GH, HE, EG, FH.)\n```\n\nIf $R = 500 \\times 10^3$ kN, $P = 150$ kN and $L = 3$ m, the magnitude of the horizontal displacement of joint G (in mm, round off to one decimal place) is __________",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.23",
+    "question": "The cohesion ($c$) angle of internal friction ($\\phi$) and unit weight ($\\gamma$) of a soil are 15 kPa, $20^\\circ$ and 17.5 kN/m$^3$, respectively. The maximum depth of unsupported excavation in the soil (in m, round off to two decimal places) is __________",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.24",
+    "question": "Two reservoirs are connected through a homogeneous and isotropic aquifer having hydraulic conductivity ($K$) of 25 m/day and effective porosity ($\\eta$) of 0.3 as shown in the figure (not to scale). Ground water is flowing in the aquifer at the steady state.\n\n```\n(Figure shows two reservoirs connected by an aquifer. Reservoir 1 water level is 30m above datum, Reservoir 2 water level is 10m above datum. Aquifer length is 2km, thickness 5m. Aquiclude below aquifer. Aquifuge above aquifer. K=25 m/day, $\\eta$=0.3. Slope of aquifuge is $10^\\circ$.)\n```\n\nIf water in Reservoir 1 is contaminated then the time (in days, round off to one decimal place) taken by the contaminated water to reach to Reservoir 2 will be __________",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.25",
+    "question": "A signalized intersection operates in two phases. The lost time is 3 seconds per phase. The maximum ratios of approach flow to saturation flow for the two phases are 0.37 and 0.40. The optimum cycle length using the Webster's method (in seconds, round off to one decimal place) is __________",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.26",
+    "question": "The solution of the second-order differential equation $\\frac{d^2y}{dx^2} + 2\\frac{dy}{dx} + y = 0$ with boundary conditions $y(0)=1$ and $y(1)=3$ is",
+    "question_type": "MCQ",
+    "options": {
+      "A": "$e^{-x} + (3e-1)xe^{-x}$",
+      "B": "$e^{-x} - (3e-1)xe^{-x}$",
+      "C": "$e^{-x} + \\left[ 3e \\sin\\left(\\frac{\\pi x}{2}\\right) - 1 \\right]xe^{-x}$",
+      "D": "$e^{-x} - \\left[ 3e \\sin\\left(\\frac{\\pi x}{2}\\right) - 1 \\right]xe^{-x}$"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.27",
+    "question": "The value of $\\int_0^1 e^x dx$ using the trapezoidal rule with four equal subintervals is",
+    "question_type": "MCQ",
+    "options": {
+      "A": "1.718",
+      "B": "1.727",
+      "C": "2.192",
+      "D": "2.718"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.28",
+    "question": "A 50 mL sample of industrial wastewater is taken into a silica crucible. The empty weight of the crucible is 54.352 g. The crucible with the sample is dried in a hot air oven at $104^\\circ C$ till a constant weight of 55.129 g. Thereafter, the crucible with the dried sample is fired at $600^\\circ C$ for 1 h in a muffle furnace, and the weight of the crucible along with residue is determined as 54.783 g. The concentration of total volatile solids is __________",
+    "question_type": "MCQ",
+    "options": {
+      "A": "15540 mg/L",
+      "B": "8620 mg/L",
+      "C": "6920 mg/L",
+      "D": "1700 mg/L"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.29",
+    "question": "A wedge M and a block N are subjected to forces P and Q as shown in the figure. If force P is sufficiently large, then the block N can be raised. The weights of the wedge and the block are negligible compared to the forces P and Q. The coefficient of friction ($\\mu$) along the inclined surface between the wedge and the block is 0.2. All other surfaces are frictionless. The wedge angle is $30^\\circ$.\n\n```\n(Figure shows a wedge M and a block N. Force Q acts horizontally on block N. Force P acts vertically downwards on wedge M. Wedge angle is $30^\\circ$.)\n```\n\nThe limiting force P, in terms of Q, required for impending motion of block N to just move it in the upward direction is given as $P = \\alpha Q$. The value of the coefficient '$\\alpha$' (round off to one decimal place) is __________",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.30",
+    "question": "Contractor X is developing his bidding strategy against Contractor Y. The ratio of Y's bid price to X's cost for the 30 previous bids in which Contractor X has competed against Contractor Y is given in the Table\n\n```\n| Ratio of Y's bid price to X's cost | Number of bids |\n|------------------------------------|----------------|\n| 1.02                               | 6              |\n| 1.04                               | 12             |\n| 1.06                               | 3              |\n| 1.10                               | 6              |\n| 1.12                               | 3              |\n```\n\nBased on the bidding behaviour of the Contractor Y, the probability of winning against Contractor Y at a mark up of 8% for the next project is",
+    "question_type": "MCQ",
+    "options": {
+      "A": "0%",
+      "B": "more than 0% but less than 50%",
+      "C": "more than 50% but less than 100%",
+      "D": "100%"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.31",
+    "question": "Based on drained triaxial shear tests on sands and clays, the representative variations of volumetric strain ($\\Delta V/V$) with the shear strain ($\\gamma$) is shown in the figure.\n\n```\n(Figure shows two curves, P and Q, on a graph of Volumetric strain ($\\Delta V/V$) vs Shear strain ($\\gamma$). Curve P shows initial compression then expansion. Curve Q shows continuous compression.)\n```\n\nChoose the CORRECT option regarding the representative behaviour exhibited by Curve P and Curve Q.",
+    "question_type": "MCQ",
+    "options": {
+      "A": "Curve P represents dense sand and overconsolidated clay, while Curve Q represents loose sand and normally consolidated clay",
+      "B": "Curve P represents dense sand and normally consolidated clay, while Curve Q represents loose sand and overconsolidated clay",
+      "C": "Curve P represents loose sand and overconsolidated clay, while Curve Q represents dense sand and normally consolidated clay",
+      "D": "Curve P represents loose sand and normally consolidated clay, while Curve Q represents dense sand and overconsolidated clay"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.32",
+    "question": "A fluid flowing steadily in a circular pipe of radius R has a velocity that is everywhere parallel to the axis (centerline) of the pipe. The velocity distribution along the radial direction is $V_r = U \\left(1 - \\frac{r^2}{R^2}\\right)$, where $r$ is the radial distance as measured from the pipe axis and $U$ is the maximum velocity at $r=0$. The average velocity of the fluid in the pipe is",
+    "question_type": "MCQ",
+    "options": {
+      "A": "$U/2$",
+      "B": "$U/3$",
+      "C": "$U/4$",
+      "D": "$5/6 U$"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.33",
+    "question": "A water sample is analyzed for coliform organisms by the multiple-tube fermentation method. The results of confirmed test are as follows:\n\n```\n| Sample size (mL) | Number of positive results out of 5 tubes | Number of negative results out of 5 tubes |\n|------------------|-------------------------------------------|-------------------------------------------|\n| 0.01             | 5                                         | 0                                         |\n| 0.001            | 3                                         | 2                                         |\n| 0.0001           | 1                                         | 4                                         |\n```\n\nThe most probable number (MPN) of coliform organisms for the above results is to be obtained using the following MPN Index.\n\n```\n| Combination of positive tubes | MPN Index per 100 mL |\n|-------------------------------|----------------------|\n| 0-2-4                         | 11                   |\n| 1-3-5                         | 19                   |\n| 4-2-0                         | 22                   |\n| 5-3-1                         | 110                  |\n```\n\nThe MPN of coliform organisms per 100 mL is",
+    "question_type": "MCQ",
+    "options": {
+      "A": "1100000",
+      "B": "110000",
+      "C": "1100",
+      "D": "110"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.34",
+    "question": "Ammonia nitrogen is present in a given wastewater sample as the ammonium ion (NH$_4^+$) and ammonia (NH$_3$). If pH is the only deciding factor for the proportion of these two constituents, which of the following is a correct statement?",
+    "question_type": "MCQ",
+    "options": {
+      "A": "At pH above 9.25, only NH$_4^+$ will be present.",
+      "B": "At pH below 9.25, NH$_3$ will be predominant.",
+      "C": "At pH 7.0, NH$_4^+$ and NH$_3$ will be found in equal measures.",
+      "D": "At pH 7.0, NH$_4^+$ will be predominant."
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.35",
+    "question": "On a road, the speed – density relationship of a traffic stream is given by $u = 70-0.7k$ (where speed, $u$, is in km/h and density, $k$, is in veh/km). At the capacity condition, the average time headway will be",
+    "question_type": "MCQ",
+    "options": {
+      "A": "0.5 s",
+      "B": "1.0 s",
+      "C": "1.6 s",
+      "D": "2.1 s"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.36",
+    "question": "The values of abscissa (x) and ordinate (y) of a curve are as follows:\n\n```\n| X   | y     |\n|-----|-------|\n| 2.0 | 5.00  |\n| 2.5 | 7.25  |\n| 3.0 | 10.00 |\n| 3.5 | 13.25 |\n| 4.0 | 17.00 |\n```\n\nBy Simpson's $1/3^{rd}$ rule, the area under the curve (round off to two decimal places) is __________",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.37",
+    "question": "Vehicular arrival at an isolated intersection follows the Poisson distribution. The mean vehicular arrival rate is 2 vehicle per minute. The probability (round off to two decimal places) that at least 2 vehicles will arrive in any given 1-minute interval is __________",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.38",
+    "question": "Refer the truss as shown in the figure (not to scale).\n\n```\n(Figure shows a truss with nodes P, Q, R, S, T. Members are PQ, QR, RS, ST, TP, PT, QT. Loads are F acting downwards at T. Members have properties E, A or E, 2A. Lengths L are indicated.)\n```\n\nIf load, $F = 10\\sqrt{3}$ kN, moment of inertia, $I = 8.33 \\times 10^6$ mm$^4$, area of cross-section, $A = 10^4$ mm$^2$, and length, $L = 2$ m for all the members of the truss, the compressive stress (in kN/m$^2$, in integer) carried by the member Q-R is __________",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.39",
+    "question": "A prismatic cantilever prestressed concrete beam of span length, $L = 1.5$ m has one straight tendon placed in the cross-section as shown in the following figure (not to scale). The total prestressing force of 50 kN in the tendon is applied at $d_c = 50$ mm from the top in the cross-section of width, $b = 200$ mm and depth, $d = 300$ mm.\n\n```\n(Figure shows a cantilever beam with a prestressing tendon. Cross-section shows width b, depth d, and tendon at dc from top. A concentrated load P is applied at the free end.)\n```\n\nIf the concentrated load, $P = 5$ kN, the resultant stress (in MPa, in integer) experienced at point ‘Q’ will be __________",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.40",
+    "question": "A column is subjected to a total load (P) of 60 kN supported through a bracket connection, as shown in the figure (not to scale).\n\n```\n(Figure shows a column with a bracket connected by bolts. Load P=60 kN is applied eccentrically. Bolt R is indicated. Dimensions are 100 mm, 40 mm, 30 mm.)\n```\n\nThe resultant force in bolt R (in kN, round off to one decimal place) is __________",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.41",
+    "question": "Employ stiffness matrix approach for the simply supported beam as shown in the figure to calculate unknown displacements/rotations. Take length, $L = 8$ m; modulus of elasticity, $E = 3 \\times 10^4$ N/mm$^2$; moment of inertia, $I = 225 \\times 10^6$ mm$^4$.\n\n```\n(Figure shows a simply supported beam ABC with a point load P at mid-span B. Segment AB has flexural rigidity E, 2I and length L/2. Segment BC has flexural rigidity E, I and length L/2.)\n```\n\nThe mid-span deflection of the beam (in mm, round off to integer) under $P = 100$ kN in downward direction will be __________",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.42",
+    "question": "A square plate O-P-Q-R of a linear elastic material with sides 1.0 m is loaded in a state of plane stress. Under a given stress condition, the plate deforms to a new configuration O-P′-Q'-R′ as shown in the figure (not to scale). Under the given deformation, the edges of the plate remain straight.\n\n```\n(Figure shows a square plate O-P-Q-R and its deformed shape O-P'-Q'-R'. Point P moves 20 mm horizontally. Point R moves 10 mm vertically. Point Q moves 10 mm horizontally and 10 mm vertically.)\n```\n\nThe horizontal displacement of the point (0.5 m, 0.5 m) in the plate O-P-Q-R (in mm, round off to one decimal place) is __________",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.43",
+    "question": "A small project has 12 activities – N, P, Q, R, S, T, U, V, W, X, Y, and Z. The relationship among these activities and the duration of these activities are given in the Table.\n\n```\n| Activity | Duration (in weeks) | Depends upon |\n|----------|---------------------|--------------|\n| N        | 2                   | -            |\n| P        | 5                   | N            |\n| Q        | 3                   | N            |\n| R        | 4                   | P            |\n| S        | 5                   | Q            |\n| T        | 8                   | R            |\n| U        | 7                   | R, S         |\n| V        | 2                   | U            |\n| W        | 3                   | U            |\n| X        | 5                   | T, V         |\n| Y        | 1                   | W            |\n| Z        | 3                   | X, Y         |\n```\n\nThe total float of the activity “V” (in weeks, in integer) is __________",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.44",
+    "question": "The soil profile at a construction site is shown in the figure (not to scale). Ground water table (GWT) is at 5 m below the ground level at present. An old well data shows that the ground water table was as low as 10 m below the ground level in the past. Take unit weight of water, $\\gamma_w = 9.81$ kN/m$^3$.\n\n```\n(Figure shows a soil profile: 5m sand ($\\gamma = 17.5$ kN/m$^3$), 15m saturated sand ($\\gamma_{sat} = 18.5$ kN/m$^3$), 8m saturated clay ($\\gamma_{sat} = 17$ kN/m$^3$). Present GWT at 5m depth. Past GWT at 10m depth.)\n```\n\nThe overconsolidation ratio (OCR) (round off to two decimal places) at the mid-point of the clay layer is __________",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.45",
+    "question": "A retaining wall of height 10 m with clay backfill is shown in the figure (not to scale). Weight of the retaining wall is 5000 kN per m acting at 3.3 m from the toe of the retaining wall. The interface friction angle between base of the retaining wall and the base soil is $20^\\circ$. The depth of clay in front of the retaining wall is 2.0 m. The properties of the clay backfill and the clay placed in front of the retaining wall are the same. Assume that the tension crack is filled with water. Use Rankine's earth pressure theory. Take unit weight of water, $\\gamma_w = 9.81$ kN/m$^3$.\n\n```\n(Figure shows a retaining wall of height 10m. Clay backfill properties: $\\gamma = 17.2$ kN/m$^3$, $\\phi = 0^\\circ$, $c = 30$ kN/m$^2$. 2m clay in front of the wall. Weight of wall 5000 kN/m at 3.3m from toe.)\n```\n\nThe factor of safety (round off to two decimal places) against sliding failure of the retaining wall after ignoring the passive earth pressure will be __________",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.46",
+    "question": "A combined trapezoidal footing of length L supports two identical square columns ($P_1$ and $P_2$) of size 0.5 m $\\times$ 0.5 m, as shown in the figure. The columns $P_1$ and $P_2$ carry loads of 2000 kN and 1500 kN, respectively.\n\n```\n(Figure shows a trapezoidal footing supporting two columns P1 and P2. P1 is 5m from one end, P2 is 1.5m from the other end. The footing has length L.)\n```\n\nIf the stress beneath the footing is uniform, the length of the combined footing L (in m, round off to two decimal places) is __________",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.47",
+    "question": "An unsupported slope of height 15 m is shown in the figure (not to scale), in which the slope face makes an angle $50^\\circ$ with the horizontal. The slope material comprises purely cohesive soil having undrained cohesion $C_u = 75$ kPa. A trial slip circle KLM with a radius 25 m passes through the crest and toe of the slope and it subtends an angle $60^\\circ$ at its center O. The weight of the active soil mass ($W$, bounded by KLMN) is 2500 kN/m, which is acting at a horizontal distance of 10 m from the toe of the slope. Consider the water table to be present at a very large depth from the ground surface.\n\n```\n(Figure shows an unsupported slope with a slip circle KLM. Height 15m, slope angle $50^\\circ$. Circle radius 25m, subtends $60^\\circ$ at center O. Weight W=2500 kN/m at 10m from toe.)\n```\n\nConsidering the trial slip circle KLM, the factor of safety against the failure of slope under undrained condition (round off to two decimal places) is __________",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.48",
+    "question": "An unlined canal under regime conditions along with a silt factor of 1 has a width of flow 71.25 m. Assuming the unlined canal as a wide channel, the corresponding average depth of flow (in m, round off to two decimal places) in the canal will be __________",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.49",
+    "question": "A cylinder (2.0 m diameter, 3.0 m long and 25 kN weight) is acted upon by water on one side and oil (specific gravity = 0.8) on other side as shown in the figure.\n\n```\n(Figure shows a cylinder submerged in water on the left side (2m depth) and oil (1m depth, sp gr 0.8) on the right side. Cylinder diameter 2m, length 3m, weight 25kN. Points R, Q, P are indicated.)\n```\n\nThe absolute ratio of the net magnitude of vertical forces to the net magnitude of horizontal forces (round off to two decimal places) is __________",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.50",
+    "question": "A tube-well of 20 cm diameter fully penetrates a horizontal, homogeneous and isotropic confined aquifer of infinite horizontal extent. The aquifer is of 30 m uniform thickness. A steady pumping at the rate of 40 litres/s from the well for a long time results in a steady drawdown of 4 m at the well face. The subsurface flow to the well due to pumping is steady, horizontal and Darcian and the radius of influence of the well is 245 m. The hydraulic conductivity of the aquifer (in m/day, round off to integer) is __________",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.51",
+    "question": "A baghouse filter has to treat 12 m$^3$/s of waste gas continuously. The baghouse is to be divided into 5 sections of equal cloth area such that one section can be shut down for cleaning and/or repairing, while the other 4 sections continue to operate. An air-to-cloth ratio of 6.0 m$^3$/min-m$^2$ cloth will provide sufficient treatment to the gas. The individual bags are of 32 cm in diameter and 5 m in length. The total number of bags (in integer) required in the baghouse is __________",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.52",
+    "question": "A secondary clarifier handles a total flow of 9600 m$^3$/d from the aeration tank of a conventional activated-sludge treatment system. The concentration of solids in the flow from the aeration tank is 3000 mg/L. The clarifier is required to thicken the solids to 12000 mg/L, and hence it is to be designed for a solid flux of 3.2 $\\frac{\\text{kg}}{\\text{m}^2 \\cdot \\text{h}}$. The surface area of the designed clarifier for thickening (in m$^2$, in integer) is __________",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.53",
+    "question": "Spot speeds of vehicles observed at a point on a highway are 40, 55, 60, 65 and 80 km/h. The space-mean speed (in km/h, round off to two decimal places) of the observed vehicles is __________",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.54",
+    "question": "The longitudinal section of a runway provides the following data:\n\n```\n| End-to-end runway (m) | Gradient (%) |\n|-----------------------|--------------|\n| 0 to 300              | + 1.2        |\n| 300 to 600            | - 0.7        |\n| 600 to 1100           | + 0.6        |\n| 1100 to 1400          | - 0.8        |\n| 1400 to 1700          | - 1.0        |\n```\n\nThe effective gradient of the runway (in %, round off to two decimal places) is __________",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.55",
+    "question": "Traversing is carried out for a closed traverse PQRS. The internal angles at vertices P, Q, R and S are measured as $92^\\circ$, $68^\\circ$, $123^\\circ$, and $77^\\circ$, respectively. If fore bearing of line PQ is $27^\\circ$, fore bearing of line RS (in degrees, in integer) is __________",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  }
+]

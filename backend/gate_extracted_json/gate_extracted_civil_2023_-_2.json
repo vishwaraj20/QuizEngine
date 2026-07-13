@@ -1,0 +1,722 @@
+[
+  {
+    "question_number": "Q.1",
+    "question": "The line ran ____________ the page, right through the centre, and divided the page into two.",
+    "question_type": "MCQ",
+    "options": {
+      "A": "across",
+      "B": "of",
+      "C": "between",
+      "D": "about"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.2",
+    "question": "Kind : ____________ :: Often : Seldom\n(By word meaning)",
+    "question_type": "MCQ",
+    "options": {
+      "A": "Cruel",
+      "B": "Variety",
+      "C": "Type",
+      "D": "Kindred"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.3",
+    "question": "In how many ways can cells in a $3 \\times 3$ grid be shaded, such that each row and each column have exactly one shaded cell? An example of one valid shading is shown.\n\n```\n[Image description: A 3x3 grid with 3 cells shaded. The shaded cells are at (1,2), (2,1), and (3,3), where (row, column) is used. This configuration ensures exactly one shaded cell per row and per column.]\n```",
+    "question_type": "MCQ",
+    "options": {
+      "A": "2",
+      "B": "9",
+      "C": "3",
+      "D": "6"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.4",
+    "question": "There are 4 red, 5 green, and 6 blue balls inside a box. If $N$ number of balls are picked simultaneously, what is the smallest value of $N$ that guarantees there will be at least two balls of the same colour?\nOne cannot see the colour of the balls until they are picked.",
+    "question_type": "MCQ",
+    "options": {
+      "A": "4",
+      "B": "15",
+      "C": "5",
+      "D": "2"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.5",
+    "question": "Consider a circle with its centre at the origin (O), as shown. Two operations are allowed on the circle.\nOperation 1: Scale independently along the x and y axes.\nOperation 2: Rotation in any direction about the origin.\nWhich figure among the options can be achieved through a combination of these two operations on the given circle?\n\n```\n[Image description: A circle centered at the origin (O) with x and y axes. Options show different shapes:\n(A) An ellipse with its major axis aligned with the y-axis, centered at O.\n(B) An ellipse with its major axis aligned with the x-axis, centered at O.\n(C) An ellipse rotated such that its major axis is at an angle to the x-axis, centered at O.\n(D) An ellipse with its major axis aligned with the y-axis, centered at O, similar to (A).]\n```",
+    "question_type": "MCQ",
+    "options": {
+      "A": "y\nΟ\nX",
+      "B": "y\nΟ\nX",
+      "C": "y\n\nAY\nX\nX",
+      "D": "y\nΟ\nX"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.6",
+    "question": "Elvesland is a country that has peculiar beliefs and practices. They express almost all their emotions by gifting flowers. For instance, if anyone gifts a white flower to someone, then it is always taken to be a declaration of one's love for that person. In a similar manner, the gifting of a yellow flower to someone often means that one is angry with that person.\nBased only on the information provided above, which one of the following sets of statement(s) can be logically inferred with certainty?\n(i) In Elvesland, one always declares one's love by gifting a white flower.\n(ii) In Elvesland, all emotions are declared by gifting flowers.\n(iii) In Elvesland, sometimes one expresses one's anger by gifting a flower that is not yellow.\n(iv) In Elvesland, sometimes one expresses one's love by gifting a white flower.",
+    "question_type": "MCQ",
+    "options": {
+      "A": "only (ii)",
+      "B": "(i), (ii) and (iii)",
+      "C": "(i), (iii) and (iv)",
+      "D": "only (iv)"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.7",
+    "question": "Three husband-wife pairs are to be seated at a circular table that has six identical chairs. Seating arrangements are defined only by the relative position of the people. How many seating arrangements are possible such that every husband sits next to his wife?",
+    "question_type": "MCQ",
+    "options": {
+      "A": "16",
+      "B": "4",
+      "C": "120",
+      "D": "720"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.8",
+    "question": "Based only on the following passage, which one of the options can be inferred with certainty?\nWhen the congregation sang together, Apenyo would also join, though her little screams were not quite audible because of the group singing. But whenever there was a special number, trouble would begin; Apenyo would try singing along, much to the embarrassment of her mother. After two or three such mortifying Sunday evenings, the mother stopped going to church altogether until Apenyo became older and learnt to behave.\nAt home too, Apenyo never kept quiet; she hummed or made up silly songs to sing by herself, which annoyed her mother at times but most often made her become pensive. She was by now convinced that her daughter had inherited her love of singing from her father who had died unexpectedly away from home.\n[Excerpt from These Hills Called Home by Temsula Ao]",
+    "question_type": "MCQ",
+    "options": {
+      "A": "The mother was embarrassed about her daughter's singing at home.",
+      "B": "The mother's feelings about her daughter's singing at home were only of annoyance.",
+      "C": "The mother was not sure if Apenyo had inherited her love of singing from her father.",
+      "D": "When Apenyo hummed at home, her mother tended to become thoughtful."
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.9",
+    "question": "If $x$ satisfies the equation $4^{8x} = 256$, then $x$ is equal to ____________.",
+    "question_type": "MCQ",
+    "options": {
+      "A": "$\\frac{1}{2}$",
+      "B": "$\\log_{16} 8$",
+      "C": "$\\frac{2}{3}$",
+      "D": "$\\log_4 8$"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.10",
+    "question": "Consider a spherical globe rotating about an axis passing through its poles. There are three points P, Q, and R situated respectively on the equator, the north pole, and midway between the equator and the north pole in the northern hemisphere. Let $v_P$, $v_Q$, and $v_R$ move with speeds $v_P$, $v_Q$, and $v_R$, respectively.\nWhich one of the following options is CORRECT?",
+    "question_type": "MCQ",
+    "options": {
+      "A": "$v_P < v_R < v_Q$",
+      "B": "$v_P < v_Q < v_R$",
+      "C": "$v_P > v_R > v_Q$",
+      "D": "$v_P = v_R \\neq v_Q$"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.11",
+    "question": "Let $\\phi$ be a scalar field, and $\\mathbf{u}$ be a vector field. Which of the following identities is true for $\\text{div}(\\phi \\mathbf{u})$?",
+    "question_type": "MCQ",
+    "options": {
+      "A": "$\\text{div}(\\phi \\mathbf{u}) = \\phi \\text{div}(\\mathbf{u}) + \\mathbf{u} \\cdot \\text{grad}(\\phi)$",
+      "B": "$\\text{div}(\\phi \\mathbf{u}) = \\phi \\text{div}(\\mathbf{u}) + \\mathbf{u} \\times \\text{grad}(\\phi)$",
+      "C": "$\\text{div}(\\phi \\mathbf{u}) = \\phi \\text{grad}(\\mathbf{u}) + \\mathbf{u} \\cdot \\text{grad}(\\phi)$",
+      "D": "$\\text{div}(\\phi \\mathbf{u}) = \\phi \\text{grad}(\\mathbf{u}) + \\mathbf{u} \\times \\text{grad}(\\phi)$"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.12",
+    "question": "Which of the following probability distribution functions (PDFs) has the mean greater than the median?\n\n```\n[Image description: Four graphs of probability distribution functions (PDFs) are shown.\nFunction 1: A bell-shaped curve, symmetric, centered around x=0.\nFunction 2: A bell-shaped curve, skewed to the right (long tail on the right).\nFunction 3: A bell-shaped curve, symmetric, centered around x=0, wider than Function 1.\nFunction 4: A bimodal curve, symmetric, with two peaks and a dip in the middle.]\n```",
+    "question_type": "MCQ",
+    "options": {
+      "A": "Function 1",
+      "B": "Function 2",
+      "C": "Function 3",
+      "D": "Function 4"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.13",
+    "question": "A remote village has exactly 1000 vehicles with sequential registration numbers starting from 1000. Out of the total vehicles, 30% are without pollution clearance certificate. Further, even- and odd-numbered vehicles are operated on even- and odd-numbered dates, respectively.\nIf 100 vehicles are chosen at random on an even-numbered date, the number of vehicles expected without pollution clearance certificate is ____________.",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.14",
+    "question": "A circular solid shaft of span $L = 5$ m is fixed at one end and free at the other end. A torque $T = 100$ kN.m is applied at the free end. The shear modulus and polar moment of inertia of the section are denoted as $G$ and $J$, respectively. The torsional rigidity $GJ$ is 50,000 kN.m$^2$/rad. The following are reported for this shaft:\nStatement i) The rotation at the free end is 0.01 rad\nStatement ii) The torsional strain energy is 1.0 kN.m\nWith reference to the above statements, which of the following is true?",
+    "question_type": "MCQ",
+    "options": {
+      "A": "Both the statements are correct",
+      "B": "Statement i) is correct, but Statement ii) is wrong",
+      "C": "Statement i) is wrong, but Statement ii) is correct",
+      "D": "Both the statements are wrong"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.15",
+    "question": "M20 concrete as per IS 456: 2000 refers to concrete with a design mix having",
+    "question_type": "MCQ",
+    "options": {
+      "A": "an average cube strength of 20 MPa",
+      "B": "an average cylinder strength of 20 MPa",
+      "C": "a 5-percentile cube strength of 20 MPa",
+      "D": "a 5-percentile cylinder strength of 20 MPa"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.16",
+    "question": "When a simply-supported elastic beam of span $L$ and flexural rigidity $EI$ ($E$ is the modulus of elasticity and $I$ is the moment of inertia of the section) is loaded with a uniformly distributed load $w$ per unit length, the deflection at the mid-span is\n$\\Delta_0 = \\frac{5 \\, wL^4}{384 \\, EI}$\nIf the load on one half of the span is now removed, the mid-span deflection ____________.",
+    "question_type": "MCQ",
+    "options": {
+      "A": "reduces to $\\Delta_0/2$",
+      "B": "reduces to a value less than $\\Delta_0/2$",
+      "C": "reduces to a value greater than $\\Delta_0/2$",
+      "D": "remains unchanged at $\\Delta_0$"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.17",
+    "question": "Muller-Breslau principle is used in analysis of structures for ____________.",
+    "question_type": "MCQ",
+    "options": {
+      "A": "drawing an influence line diagram for any force response in the structure",
+      "B": "writing the virtual work expression to get the equilibrium equation",
+      "C": "superposing the load effects to get the total force response in the structure",
+      "D": "relating the deflection between two points in a member with the curvature diagram in-between"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.18",
+    "question": "A standard penetration test (SPT) was carried out at a location by using a manually operated hammer dropping system with 50% efficiency. The recorded SPT value at a particular depth is 28. If an automatic hammer dropping system with 70% efficiency is used at the same location, the recorded SPT value will be ____________.",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.19",
+    "question": "A vertical sheet pile wall is installed in an anisotropic soil having coefficient of horizontal permeability, $k_H$ and coefficient of vertical permeability, $k_V$. In order to draw the flow net for the isotropic condition, the embedment depth of the wall should be scaled by a factor of ____________ without changing the horizontal scale.",
+    "question_type": "MCQ",
+    "options": {
+      "A": "$\\sqrt{\\frac{k_H}{k_V}}$",
+      "B": "$\\sqrt{\\frac{k_V}{k_H}}$",
+      "C": "1.0",
+      "D": "$\\frac{k_H}{k_V}$"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.20",
+    "question": "Identify the cross-drainage work in the figure.\n\n```\n[Image description: A cross-section diagram showing a canal flowing above a natural stream/drainage. The canal has a full supply level (FSL) and a bottom level. The drainage/natural stream flows below the canal. Piers support the canal structure over the stream. This configuration is characteristic of an aqueduct.]\n```",
+    "question_type": "MCQ",
+    "options": {
+      "A": "Super passage",
+      "B": "Aqueduct",
+      "C": "Siphon aqueduct",
+      "D": "Level crossing"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.21",
+    "question": "Which one of the following options provides the correct match of the terms listed in Column-1 and Column-2?\n\n```\n| Column-1          | Column-2            |\n|-------------------|---------------------|\n| P: Horton equation| I: Precipitation    |\n| Q: Muskingum method| II: Flood frequency |\n| R: Penman method  | III: Evapotranspiration|\n|                   | IV: Infiltration    |\n|                   | V: Channel routing  |\n```",
+    "question_type": "MCQ",
+    "options": {
+      "A": "P-IV, Q-V, R-III",
+      "B": "P-III, Q-IV, R-I",
+      "C": "P-IV, Q-III, R-II",
+      "D": "P-III, Q-I, R-IV"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.22",
+    "question": "In the context of Municipal Solid Waste Management, 'Haul' in 'Hauled Container System operated in conventional mode' includes the ____________.",
+    "question_type": "MCQ",
+    "options": {
+      "A": "time spent by the transport truck at the disposal site",
+      "B": "time spent by the transport truck in traveling between a pickup point and the disposal site with a loaded container",
+      "C": "time spent by the transport truck in picking up a loaded container at a pickup point",
+      "D": "time spent by the transport truck in driving from the depot to the first pickup point"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.23",
+    "question": "Which of the following is equal to the stopping sight distance?",
+    "question_type": "MCQ",
+    "options": {
+      "A": "(braking distance required to come to stop) + (distance travelled during the perception-reaction time)",
+      "B": "(braking distance required to come to stop) – (distance travelled during the perception-reaction time)",
+      "C": "(braking distance required to come to stop)",
+      "D": "(distance travelled during the perception-reaction time)"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.24",
+    "question": "The magnetic bearing of the sun for a location at noon is $183^\\circ 30'$. If the sun is exactly on the geographic meridian at noon, the magnetic declination of the location is ____________.",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.25",
+    "question": "For the matrix\n$[A] = \\begin{bmatrix} 1 & -1 & 0 \\\\ -1 & 2 & -1 \\\\ 0 & -1 & 1 \\end{bmatrix}$\nwhich of the following statements is/are TRUE?",
+    "question_type": "MSQ",
+    "options": {
+      "A": "$[A]\\{x\\} = \\{b\\}$ has a unique solution",
+      "B": "$[A]\\{x\\} = \\{b\\}$ does not have a unique solution",
+      "C": "$[A]$ has three linearly independent eigenvectors",
+      "D": "$[A]$ is a positive definite matrix"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.26",
+    "question": "In the frame shown in the figure (not to scale), all four members (AB, BC, CD, and AD) have the same length and same constant flexural rigidity. All the joints A, B, C, and D are rigid joints. The midpoints of AB, BC, CD, and AD, are denoted by E, F, G, and H, respectively. The frame is in unstable equilibrium under the shown forces of magnitude P acting at E and G. Which of the following statements is/are TRUE?\n\n```\n[Image description: A square frame ABCD with rigid joints. Midpoints E, F, G, H are on AB, BC, CD, AD respectively. A force P acts horizontally to the right at E. A force P acts horizontally to the left at G. The frame is symmetric.]\n```",
+    "question_type": "MSQ",
+    "options": {
+      "A": "Shear forces at H and F are zero",
+      "B": "Horizontal displacements at H and F are zero",
+      "C": "Vertical displacements at H and F are zero",
+      "D": "Slopes at E, F, G, and H are zero"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.27",
+    "question": "With regard to the shear design of RCC beams, which of the following statements is/are TRUE?",
+    "question_type": "MSQ",
+    "options": {
+      "A": "Excessive shear reinforcement can lead to compression failure in concrete",
+      "B": "Beams without shear reinforcement, even if adequately designed for flexure, can have brittle failure",
+      "C": "The main (longitudinal) reinforcement plays no role in the shear resistance of beam",
+      "D": "As per IS456:2000, the nominal shear stress in the beams of varying depth depends on both the design shear force as well as the design bending moment"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.28",
+    "question": "The reason(s) of the nonuniform elastic settlement profile below a flexible footing, resting on a cohesionless soil while subjected to uniform loading, is/are:",
+    "question_type": "MSQ",
+    "options": {
+      "A": "Variation of friction angle along the width of the footing",
+      "B": "Variation of soil stiffness along the width of the footing",
+      "C": "Variation of friction angle along the depth of the footing",
+      "D": "Variation of soil stiffness along the depth of the footing"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.29",
+    "question": "Which of the following is/are NOT active disinfectant(s) in water treatment?",
+    "question_type": "MSQ",
+    "options": {
+      "A": "$\\cdot$OH (hydroxyl radical)",
+      "B": "O$_3$ (ozone)",
+      "C": "OCl$^-$ (hypochlorite ion)",
+      "D": "Cl$^-$ (chloride ion)"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.30",
+    "question": "As per the Indian Roads Congress guidelines (IRC 86: 2018), extra widening depends on which of the following parameters?",
+    "question_type": "MSQ",
+    "options": {
+      "A": "Horizontal curve radius",
+      "B": "Superelevation",
+      "C": "Number of lanes",
+      "D": "Longitudinal gradient"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.31",
+    "question": "The steady-state temperature distribution in a square plate ABCD is governed by the 2-dimensional Laplace equation. The side AB is kept at a temperature of $100 \\, ^\\circ C$ and the other three sides are kept at a temperature of $0 \\, ^\\circ C$. Ignoring the effect of discontinuities in the boundary conditions at the corners, the steady-state temperature at the center of the plate is obtained as $T_0 \\, ^\\circ C$. Due to symmetry, the steady-state temperature at the center will be same ($T_0 \\, ^\\circ C$), when any one side of the square is kept at a temperature of $100 \\, ^\\circ C$ and the remaining three sides are kept at a temperature of $0 \\, ^\\circ C$. Using the principle of superposition, the value of $T_0$ is ____________ (rounded off to two decimal places).",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.32",
+    "question": "An unconfined compression strength test was conducted on a cohesive soil. The test specimen failed at an axial stress of 76 kPa. The undrained cohesion (in kPa, in integer) of the soil is ____________.",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.33",
+    "question": "The pressure in a pipe at X is to be measured by an open manometer as shown in figure. Fluid A is oil with a specific gravity of 0.8 and Fluid B is mercury with a specific gravity of 13.6. The absolute pressure at X is ____________ kN/m$^2$ (round off to one decimal place).\n[Assume density of water as 1000 kg/m$^3$ and acceleration due to gravity as 9.81 m/s$^2$ and atmospheric pressure as 101.3 kN/m$^2$]\n\n```\n[Image description: A pipe with point X. An open manometer is connected to the pipe. Fluid A (oil) is in the pipe and the upper part of the manometer. Fluid B (mercury) is in the lower part of the manometer. The free surface of Fluid B is open to atmosphere. The vertical distance from X to the interface of Fluid A and Fluid B is 25 cm. The vertical distance from the interface to the free surface of Fluid B is 75 cm.]\n```",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.34",
+    "question": "For the elevation and temperature data given in the table, the existing lapse rate in the environment is ____________ $^\\circ C/100$ m (round off to two decimal places).\n\n```\n| Elevation from ground level (m) | Temperature ($^\\circ C$) |\n|---------------------------------|-----------------------|\n| 5                               | 14.2                  |\n| 325                             | 16.9                  |\n```",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.35",
+    "question": "If the size of the ground area is $6 \\text{ km} \\times 3 \\text{ km}$ and the corresponding photo size in the aerial photograph is $30 \\text{ cm} \\times 15 \\text{ cm}$, then the scale of the photograph is 1: ____________ (in integer).",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.36",
+    "question": "The solution of the differential equation\n$\\frac{d^3y}{dx^3} - 5.5 \\frac{d^2y}{dx^2} + 9.5 \\frac{dy}{dx} - 5 y = 0$\nis expressed as $y = C_1e^{2.5x} + C_2e^{\\alpha x} + C_3e^{\\beta x}$, where $C_1, C_2, C_3, \\alpha$, and $\\beta$ are constants, with $\\alpha$ and $\\beta$ being distinct and not equal to 2.5. Which of the following options is correct for the values of $\\alpha$ and $\\beta$?",
+    "question_type": "MCQ",
+    "options": {
+      "A": "1 and 2",
+      "B": "-1 and -2",
+      "C": "2 and 3",
+      "D": "-2 and -3"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.37",
+    "question": "Two vectors $[2 \\, 1 \\, 0 \\, 3]^T$ and $[1 \\, 0 \\, 1 \\, 2]^T$ belong to the null space of a $4 \\times 4$ matrix of rank 2. Which one of the following vectors also belongs to the null space?",
+    "question_type": "MCQ",
+    "options": {
+      "A": "$[1 \\, 1 \\, -1 \\, 1]^T$",
+      "B": "$[2 \\, 0 \\, 1 \\, 2]^T$",
+      "C": "$[0 \\, -2 \\, 1 \\, -1]^T$",
+      "D": "$[3 \\, 1 \\, 1 \\, 2]^T$"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.38",
+    "question": "Cholesky decomposition is carried out on the following square matrix $[A]$.\n$[A] = \\begin{bmatrix} 8 & -5 \\\\ -5 & a_{22} \\end{bmatrix}$\nLet $l_{ij}$ and $a_{ij}$ be the $(i,j)^{th}$ elements of matrices $[L]$ and $[A]$, respectively. If the element $l_{22}$ of the decomposed lower triangular matrix $[L]$ is 1.968, what is the value (rounded off to the nearest integer) of the element $a_{22}$?",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.39",
+    "question": "In a two-dimensional stress analysis, the state of stress at a point is shown in the figure. The values of length of PQ, QR, and RP are 4, 3, and 5 units, respectively. The principal stresses are ____________ (round off to one decimal place)\n\n```\n[Image description: A right-angled triangle PQR in the x-y plane, with the right angle at Q. Point Q is at the origin. Point P is on the y-axis, and point R is on the x-axis. The lengths PQ=4, QR=3, RP=5. Stress components are shown on the faces. On the face QR (along x-axis), there are normal stresses $\\sigma_y$ and shear stresses $\\tau$. On the face PQ (along y-axis), there are normal stresses $\\sigma_x$ and shear stresses $\\tau$. On the inclined face PR, a normal stress $\\sigma = 120$ MPa and a shear stress $\\tau = 70$ MPa are shown.]\n```",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.40",
+    "question": "Two plates are connected by fillet welds of size 10 mm and subjected to tension, as shown in the figure. The thickness of each plate is 12 mm. The yield stress and the ultimate stress of steel under tension are 250 MPa and 410 MPa, respectively. The welding is done in the workshop (partial safety factor, $\\gamma_{mw}= 1.25$). As per the Limit State Method of IS 800: 2007, what is the minimum length (in mm, rounded off to the nearest higher multiple of 5 mm) required of each weld to transmit a factored force $P$ equal to 275 kN?\n\n```\n[Image description: Two plates are connected by fillet welds. The top plate is 100 mm wide. The bottom plate is 150 mm wide. The top plate is connected to the bottom plate by two longitudinal fillet welds along its sides. A tensile force P acts on the top plate, and an equal and opposite force P acts on the bottom plate.]\n```",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.41",
+    "question": "In the given figure, Point O indicates the stress point of a soil element at initial non-hydrostatic stress condition. For the stress path (OP), which of the following loading conditions is correct?\n\n```\n[Image description: A stress path diagram with q on the y-axis and p on the x-axis. q is defined as $(\\sigma_v - \\sigma_h)/2$ and p is defined as $(\\sigma_v + \\sigma_h)/2$. Point O is at some initial stress state. A line segment OP is shown, starting from O and moving upwards and to the right, with a slope of 1. An inset diagram shows a soil element with vertical stress $\\sigma_v$ and horizontal stress $\\sigma_h$.]\n```",
+    "question_type": "MCQ",
+    "options": {
+      "A": "$\\sigma_v$ is increasing and $\\sigma_h$ is constant",
+      "B": "$\\sigma_v$ is constant and $\\sigma_h$ is increasing",
+      "C": "$\\sigma_v$ is increasing and $\\sigma_h$ is decreasing",
+      "D": "$\\sigma_v$ is decreasing and $\\sigma_h$ is increasing"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.42",
+    "question": "The figure shows a vertical retaining wall with backfill consisting of cohesive-frictional soil and a failure plane developed due to passive earth pressure. The forces acting on the failure wedge are: $P$ as the reaction force between the wall and the soil, $R$ as the reaction force on the failure plane, $C$ as the cohesive force along the failure plane and $W$ as the weight of the failure wedge. Assuming that there is no adhesion between the wall and the wedge, identify the most appropriate force polygon for the wedge.\n\n```\n[Image description: A vertical retaining wall with an inclined backfill. A failure plane is shown extending from the base of the wall into the backfill, forming a wedge. The failure plane is inclined upwards from the wall base. The options show four different force polygons, each with forces P, R, W, and C arranged differently.]\n```",
+    "question_type": "MCQ",
+    "options": {
+      "A": "P\nW\nR\nC",
+      "B": "P\nW\nR\nC",
+      "C": "P\nR\nW\nC",
+      "D": "P\nR\nW\nC"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.43",
+    "question": "A compound symmetrical open channel section as shown in the figure has a maximum of ____________ critical depth(s).\n\n```\n[Image description: A cross-section of a compound open channel. It consists of a central main channel with bottom width $B_m$ and depth $y_m$. On both sides of the main channel, there are flood channels with bottom width $B_f$. The total depth of the channel is $y$. The Manning's roughness for the main channel is $n_m$ and for the flood channels is $n_f$. The figure indicates that $y_m$ is the depth of the main channel, and $y$ is the total depth of the channel. $B_m$ is the bottom width of the main channel, $B_f$ is the bottom width of the flood channel.]\n```",
+    "question_type": "MCQ",
+    "options": {
+      "A": "3",
+      "B": "2",
+      "C": "1",
+      "D": "4"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.44",
+    "question": "The critical flow condition in a channel is given by ____________.\n[Note: $\\alpha$ – kinetic energy correction factor; $Q$ – discharge; $A_c$ – cross-sectional area of flow at critical flow condition; $T_c$ – top width of flow at critical flow condition; $g$ - acceleration due to gravity]",
+    "question_type": "MCQ",
+    "options": {
+      "A": "$\\frac{\\alpha Q^2}{g} = \\frac{A_c}{T_c}$",
+      "B": "$\\frac{\\alpha Q}{g} = \\frac{A_c^2}{T_c^2}$",
+      "C": "$\\frac{\\alpha Q^2}{g} = \\frac{A_c^3}{T_c}$",
+      "D": "$\\frac{\\alpha Q}{g} = \\frac{A_c}{T_c}$"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.45",
+    "question": "Match the following air pollutants with the most appropriate adverse health effects:\n\n```\n| Air pollutant             | Health effect to human and/or test animal |\n|---------------------------|-------------------------------------------|\n| (P) Aromatic hydrocarbons | (I) Reduce the capability of the blood to carry oxygen |\n| (Q) Carbon monoxide      | (II) Bronchitis and pulmonary emphysema   |\n| (R) Sulfur oxides         | (III) Damage of chromosomes               |\n| (S) Ozone                 | (IV) Carcinogenic effect                  |\n```",
+    "question_type": "MCQ",
+    "options": {
+      "A": "(P) – (II), (Q) – (I), (R) – (IV), (S) – (III)",
+      "B": "(P) – (IV), (Q) – (I), (R) – (III), (S) – (II)",
+      "C": "(P) – (III), (Q) – (I), (R) – (II), (S) – (IV)",
+      "D": "(P) – (IV), (Q) – (I), (R) – (II), (S) – (III)"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.46",
+    "question": "A delivery agent is at a location R. To deliver the order, she is instructed to travel to location P along straight-line paths of RC, CA, AB and BP of 5 km each. The direction of each path is given in the table below as whole circle bearings. Assume that the latitude (L) and departure (D) of R is (0, 0) km. What is the latitude and departure of P (in km, rounded off to one decimal place)?\n\n```\n| Paths       | RC  | CA | AB | BP  |\n|-------------|-----|----|----|-----|\n| Directions  | 120 | 0  | 90 | 240 |\n| (in degrees)|     |    |    |     |\n```",
+    "question_type": "MCQ",
+    "options": {
+      "A": "L = 2.5; D = 5.0",
+      "B": "L = 0.0; D = 5.0",
+      "C": "L = 5.0; D = 2.5",
+      "D": "L = 0.0; D = 0.0"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.47",
+    "question": "Which of the following statements is/are TRUE?",
+    "question_type": "MSQ",
+    "options": {
+      "A": "The thickness of a turbulent boundary layer on a flat plate kept parallel to the flow direction is proportional to the square root of the distance from the leading edge",
+      "B": "If the streamlines and equipotential lines of a source are interchanged with each other, the resulting flow will be a sink",
+      "C": "For a curved surface immersed in a stationary liquid, the vertical component of the force on the curved surface is equal to the weight of the liquid above it",
+      "D": "For flow through circular pipes, the momentum correction factor for laminar flow is larger than that for turbulent flow"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.48",
+    "question": "In the context of water and wastewater treatments, the correct statements are:",
+    "question_type": "MSQ",
+    "options": {
+      "A": "particulate matter may shield microorganisms during disinfection",
+      "B": "ammonia decreases chlorine demand",
+      "C": "phosphorous stimulates algal and aquatic growth",
+      "D": "calcium and magnesium increase hardness and total dissolved solids"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.49",
+    "question": "Which of the following statements is/are TRUE for the aerobic composting of sewage sludge?",
+    "question_type": "MSQ",
+    "options": {
+      "A": "Bulking agent is added during the composting process to reduce the porosity of the solid mixture",
+      "B": "Leachate can be generated during composting",
+      "C": "Actinomycetes are involved in the process",
+      "D": "In-vessel composting systems cannot be operated in the plug-flow mode"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.50",
+    "question": "The figure presents the time-space diagram for when the traffic on a highway is suddenly stopped for a certain time and then released. Which of the following statements are true?\n\n```\n[Image description: A time-space diagram showing vehicle trajectories. The x-axis is Time, and the y-axis is Distance. There are three regions labeled P, Q, and R.\nRegion P: Shows parallel lines sloping upwards to the right, indicating vehicles moving at a constant speed.\nRegion Q: Shows a dense cluster of horizontal lines, indicating vehicles stopped or moving very slowly over a period of time and distance.\nRegion R: Shows parallel lines sloping upwards to the right, but with a steeper slope than Region P, indicating vehicles moving at a higher speed than in Region P.]\n```",
+    "question_type": "MSQ",
+    "options": {
+      "A": "Speed is higher in Region R than in Region P",
+      "B": "Volume is lower in Region Q than in Region P",
+      "C": "Volume is higher in Region R than in Region P",
+      "D": "Density is higher in Region Q than in Region R"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.51",
+    "question": "Consider the Marshall method of mix design for bituminous mix. With the increase in bitumen content, which of the following statements is/are TRUE?",
+    "question_type": "MSQ",
+    "options": {
+      "A": "the Stability decreases initially and then increases",
+      "B": "the Flow increases monotonically",
+      "C": "the air voids (VA) increases initially and then decreases",
+      "D": "the voids filled with bitumen (VFB) increases monotonically"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.52",
+    "question": "A 5 cm long metal rod AB was initially at a uniform temperature of $T_0 \\, ^\\circ C$. Thereafter, temperature at both the ends are maintained at $0 \\, ^\\circ C$. Neglecting the heat transfer from the lateral surface of the rod, the heat transfer in the rod is governed by the one-dimensional diffusion equation $\\frac{\\partial T}{\\partial t} = D \\frac{\\partial^2 T}{\\partial x^2}$, where $D$ is the thermal diffusivity of the metal, given as $1.0 \\text{ cm}^2/\\text{s}$.\nThe temperature distribution in the rod is obtained as\n$T(x, t) = \\sum_{n=1,3,5...}^{\\infty} C_n \\sin \\frac{n\\pi x}{5} e^{-\\beta n^2 t}$,\nwhere $x$ is in cm measured from A to B with $x = 0$ at A, $t$ is in s, $C_n$ are constants in $^\\circ C$, $T$ is in $^\\circ C$, and $\\beta$ is in s$^{-1}$.\nThe value of $\\beta$ (in s$^{-1}$, rounded off to three decimal places) is ____________.",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.53",
+    "question": "A beam is subjected to a system of coplanar forces as shown in the figure. The magnitude of vertical reaction at Support P is ____________ N (round off to one decimal place).\n\n```\n[Image description: A simply supported beam with a roller support at P (left end) and a hinge support at Q (right end). The beam has a total span of 2.0 + 1.5 + 1.0 + 1.5 = 6.0 m. A 500 N force is applied at 2.0 m from P, inclined at 60 degrees to the horizontal, pointing downwards and to the right. A 100 N vertical downward force is applied at 0.5 m from Q. A 200 N vertical downward force is applied at 1.0 m from Q.]\n```",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.54",
+    "question": "For the frame shown in the figure (not to scale), all members (AB, BC, CD, GB, and CH) have the same length, $L$ and flexural rigidity, $EI$. The joints at B and C are rigid joints, and the supports A and D are fixed supports. Beams GB and CH carry uniformly distributed loads of $w$ per unit length. The magnitude of the moment reaction at A is $wL^2/k$. What is the value of $k$ (in integer)?\n\n```\n[Image description: A rigid frame with two vertical columns AB and CD, and a horizontal beam BC connecting them. There are also two cantilever beams GB and CH extending horizontally from B and C respectively. Supports A and D are fixed. Beams GB and CH are subjected to uniformly distributed loads w.]\n```",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.55",
+    "question": "Consider the singly reinforced section of a cantilever concrete beam under bending, as shown in the figure (M25 grade concrete, Fe415 grade steel). The stress block parameters for the section at ultimate limit state, as per IS 456: 2000 notations, are given. The ultimate moment of resistance for the section by the Limit State Method is ____________ kN.m (round off to one decimal place).\n[Note: Here, $A_s$ is the total area of tension steel bars, $b$ is the width of the section, $d$ is the effective depth of the bars, $f_{ck}$ is the characteristic compressive cube strength of concrete, $f_y$ is the yield stress of steel, and $x_u$ is the depth of neutral axis.]\n\n```\n[Image description: A cross-section of a rectangular concrete beam with width 300 mm. The effective depth d is not explicitly given but can be inferred from the total depth and cover. The tension reinforcement consists of 3 bars of 28 mm diameter, with an effective cover of 45 mm. The stress block diagram shows a rectangular-parabolic stress distribution in concrete and a constant stress in steel. The concrete stress block has a depth of $0.42 x_u$ and a maximum stress of $0.36 f_{ck}$. The steel stress is $0.87 f_y$. The forces diagram shows a compressive force $0.36 f_{ck} x_u b$ and a tensile force $0.87 f_y A_s$.]\n```",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.56",
+    "question": "A 2D thin plate with modulus of elasticity, $E = 1.0 \\text{ N/m}^2$, and Poisson's ratio, $\\mu = 0.5$, is in plane stress condition. The displacement field in the plate is given by $u = Cx^2y$ and $v = 0$, where $u$ and $v$ are displacements (in m) along the X and Y directions, respectively, and $C$ is a constant (in m$^{-2}$). The distances $x$ and $y$ along X and Y, respectively, are in m. The stress in the X direction is $\\sigma_{xx} = 40xy \\text{ N/m}^2$, and the shear stress is $\\tau_{xy} = ax^2 \\text{ N/m}^2$. What is the value of $a$ (in N/m$^2$, in integer)?",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.57",
+    "question": "An idealised frame supports a load as shown in the figure. The horizontal component of the force transferred from the horizontal member PQ to the vertical member RS at P is ____________ N (round off to one decimal place).\n\n```\n[Image description: A frame consisting of members PQ, QR, RS, ST, TU. P is a hinge support. R is a roller support. S is a hinge joint. T is a hinge joint. U is a hinge joint. A 10 N vertical downward load is applied at U. The horizontal member PQ has length 1.2 m. The vertical member RS has length 1.0 m. The horizontal member ST has length 0.6 m. The vertical member TU has length 1.0 m. The horizontal distance from P to S is 0.3 m. The horizontal distance from S to T is 0.6 m. The horizontal distance from T to R is 1.0 m. The vertical distance from P to Q is 1.0 m. The vertical distance from S to T is 1.0 m. The vertical distance from T to U is 1.0 m. The member QR is inclined.]\n```",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.58",
+    "question": "A square footing is to be designed to carry a column load of 500 kN which is resting on a soil stratum having the following average properties: bulk unit weight = 19 kN/m$^3$; angle of internal friction = $0^\\circ$ and cohesion = 25 kPa.\nConsidering the depth of the footing as 1 m and adopting Meyerhof's bearing capacity theory with a factor of safety of 3, the width of the footing (in m) is ____________ (round off to one decimal place)\n[Assume the applicable shape and depth factor values as unity; ground water level at greater depth.]",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.59",
+    "question": "A circular pile of diameter 0.6 m and length 8 m was constructed in a cohesive soil stratum having the following properties: bulk unit weight = 19 kN/m$^3$; angle of internal friction = $0^\\circ$ and cohesion = 25 kPa.\nThe allowable load the pile can carry with a factor of safety of 3 is ____________ kN (round off to one decimal place).\n[Adopt: Adhesion factor, $\\alpha = 1.0$ and Bearing capacity factor, $N_c = 9.0$]",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.60",
+    "question": "For the flow setup shown in the figure (not to scale), the hydraulic conductivities of the two soil samples, Soil 1 and Soil 2, are 10 mm/s and 1 mm/s, respectively. Assume the unit weight of water as 10 kN/m$^3$ and ignore the velocity head. At steady state, what is the total head (in m, rounded off to two decimal places) at any point located at the junction of the two samples?\n\n```\n[Image description: A vertical column of soil with two layers, Soil 1 on top of Soil 2. A constant head of 10 kPa is applied at the top surface of Soil 1. The bottom of Soil 2 is open to the atmosphere (0 m datum). The thickness of Soil 1 is 3 m. The thickness of Soil 2 is 2 m. There is a 4 m water column above Soil 1. A piezometer is shown at the interface of Soil 1 and Soil 2.]\n```",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.61",
+    "question": "A consolidated drained (CD) triaxial test was carried out on a sand sample with the known effective shear strength parameters, $c' = 0$ and $\\phi' = 30^\\circ$. In the test, prior to the failure, when the sample was undergoing axial compression under constant cell pressure, the drainage valve was accidentally closed. At the failure, 360 kPa deviatoric stress was recorded along with 70 kPa pore water pressure. If the test is repeated without such error, and no back pressure is applied in either of the tests, what is the deviatoric stress (in kPa, in integer) at the failure?",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.62",
+    "question": "A catchment may be idealized as a circle of radius 30 km. There are five rain gauges, one at the center of the catchment and four on the boundary (equi-spaced), as shown in the figure (not to scale).\nThe annual rainfall recorded at these gauges in a particular year are given below.\n\n```\n| Gauge        | G1  | G2  | G3  | G4  | G5  |\n|--------------|-----|-----|-----|-----|-----|\n| Rainfall (mm)| 910 | 930 | 925 | 895 | 905 |\n```\n\nUsing the Thiessen polygon method, what is the average rainfall (in mm, rounded off to two decimal places) over the catchment in that year?\n\n```\n[Image description: A circular catchment area. Gauge G1 is at the center. Gauges G2, G3, G4, G5 are on the boundary, equi-spaced at 90 degrees from each other. G2 is at the top, G3 to the right, G4 at the bottom, G5 to the left.]\n```",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.63",
+    "question": "The cross-section of a small river is sub-divided into seven segments of width 1.5 m each. The average depth, and velocity at different depths were measured during a field campaign at the middle of each segment width. The discharge computed by the velocity area method for the given data is ____________ m$^3$/s (round off to one decimal place).\n\n```\n| Segment | Average depth (D) (m) | Velocity (m/s) at different depths |\n|---------|-----------------------|------------------------------------|\n|         |                       | 0.2D      | 0.6D      | 0.8D      |\n| 1       | 0.40                  | --        | 0.40      | --        |\n| 2       | 0.70                  | 0.76      | --        | 0.70      |\n| 3       | 1.20                  | 1.19      | --        | 1.13      |\n| 4       | 1.40                  | 1.25      | --        | 1.10      |\n| 5       | 1.10                  | 1.13      | --        | 1.09      |\n| 6       | 0.80                  | 0.69      | --        | 0.65      |\n| 7       | 0.45                  | --        | 0.42      | --        |\n```",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.64",
+    "question": "The theoretical aerobic oxidation of biomass (C$_5$H$_7$O$_2$N) is given below:\nC$_5$H$_7$O$_2$N + 5O$_2$ $\\rightarrow$ 5CO$_2$ + NH$_3$ + 2H$_2$O\nThe biochemical oxidation of biomass is assumed as a first-order reaction with a rate constant of 0.23/d at $20^\\circ C$ (logarithm to base e). Neglecting the second-stage oxygen demand from its biochemical oxidation, the ratio of BOD$_5$ at $20^\\circ C$ to total organic carbon (TOC) of biomass is ____________ (round off to two decimal places).\n[Consider the atomic weights of C, H, O and N as 12 g/mol, 1 g/mol, 16 g/mol and 14 g/mol, respectively]",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.65",
+    "question": "A system of seven river segments is shown in the schematic diagram. The $R_i$'s, $Q_i$'s, and $C_i$'s ($i = 1$ to 7) are the river segments, their corresponding flow rates, and concentrations of a conservative pollutant, respectively. Assume complete mixing at the intersections, no additional water loss or gain in the system, and steady state condition. Given: $Q_1 = 5 \\text{ m}^3/\\text{s}$; $Q_2 = 15 \\text{ m}^3/\\text{s}$; $Q_4 = 3 \\text{ m}^3/\\text{s}$; $Q_6 = 8 \\text{ m}^3/\\text{s}$; $C_1 = 8 \\text{ kg/m}^3$; $C_2 = 12 \\text{ kg/m}^3$; $C_6 = 10 \\text{ kg/m}^3$. What is the steady state concentration (in kg/m$^3$, rounded off to two decimal place) of the pollutant in the river segment 7?\n\n```\n[Image description: A schematic diagram of river segments. R1 and R2 merge to form R3. R4 merges with R3 to form R5. R6 merges with R5 to form R7. Arrows indicate flow direction.]\n```",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  }
+]

@@ -1,0 +1,696 @@
+[
+  {
+    "question_number": "Q.1",
+    "question": "It is a common criticism that most of the academicians live in their _____, so, they are not aware of the real life challenges.",
+    "question_type": "MCQ",
+    "options": {
+      "A": "homes",
+      "B": "ivory towers",
+      "C": "glass palaces",
+      "D": "big flats"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.2",
+    "question": "His hunger for reading is insatiable. He reads indiscriminately. He is most certainly a/an _____ reader.",
+    "question_type": "MCQ",
+    "options": {
+      "A": "all-round",
+      "B": "precocious",
+      "C": "voracious",
+      "D": "wise"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.3",
+    "question": "Select the word that fits the analogy:\nFuse : Fusion :: Use : _____",
+    "question_type": "MCQ",
+    "options": {
+      "A": "Usage",
+      "B": "User",
+      "C": "Uses",
+      "D": "Usion"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.4",
+    "question": "If 0, 1, 2, ...,7, 8, 9 are coded as O, P, Q, ..., V, W, X, then 45 will be coded as _____",
+    "question_type": "MCQ",
+    "options": {
+      "A": "TS",
+      "B": "ST",
+      "C": "SS",
+      "D": "SU"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.5",
+    "question": "The sum of two positive numbers is 100. After subtracting 5 from each number, the product of the resulting numbers is 0. One of the original numbers is _____",
+    "question_type": "MCQ",
+    "options": {
+      "A": "80",
+      "B": "85",
+      "C": "90",
+      "D": "95"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.6",
+    "question": "The American psychologist Howard Gardner expounds that human intelligence can be sub-categorised into multiple kinds, in such a way that individuals differ with respect to their relative competence in each kind. Based on this theory, modern educationists insist on prescribing multi-dimensional curriculum and evaluation parameters that enable development and assessment of multiple intelligences.\nWhich of the following statements can be inferred from the given text?",
+    "question_type": "MCQ",
+    "options": {
+      "A": "Howard Gardner insists that the teaching curriculum and evaluation needs to be multi-dimensional.",
+      "B": "Howard Gardner wants to develop and assess the theory of multiple intelligences.",
+      "C": "Modern educationists want to develop and assess the theory of multiple intelligences.",
+      "D": "Modern educationists insist that the teaching curriculum and evaluation needs to be multi-dimensional."
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.7",
+    "question": "Five friends P, Q, R, S and T went camping. At night, they had to sleep in a row inside the tent. P, Q and T refused to sleep next to R since he snored loudly. P and S wanted to avoid Q as he usually hugged people in sleep.\nAssuming everyone was satisfied with the sleeping arrangements, what is the order in which they slept?",
+    "question_type": "MCQ",
+    "options": {
+      "A": "RSPTQ",
+      "B": "SPRTQ",
+      "C": "QRSPT",
+      "D": "QTSPR"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.8",
+    "question": "Insert seven numbers between 2 and 34, such that the resulting sequence including 2 and 34 is an arithmetic progression. The sum of these inserted seven numbers is _____",
+    "question_type": "MCQ",
+    "options": {
+      "A": "120",
+      "B": "124",
+      "C": "126",
+      "D": "130"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.9",
+    "question": "The unit's place in $26591749^{110016}$ is _____",
+    "question_type": "MCQ",
+    "options": {
+      "A": "1",
+      "B": "3",
+      "C": "6",
+      "D": "9"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.10",
+    "question": "The total expenditure of a family, on different activities in a month, is shown in the pie-chart. The extra money spent on education as compared to transport (in percent) is _____\n```\n25%\n20%\n5%\n10%\n15%\n10%\n15%\nHealth (5%)\nTransport (10%)\nHousehold Items (15%)\nEducation (15%)\nLeisure (10%)\nHouse Rent (20%)\nOthers (25%)\n```",
+    "question_type": "MCQ",
+    "options": {
+      "A": "5",
+      "B": "33.3",
+      "C": "50",
+      "D": "100"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.1",
+    "question": "In the following partial differential equation, $\\theta$ is a function of $t$ and $z$, and $D$ and $K$ are functions of $\\theta$.\n$D(\\theta) \\frac{\\partial^2 \\theta}{\\partial z^2} + \\frac{\\partial K(\\theta)}{\\partial z} - \\frac{\\partial \\theta}{\\partial t} = 0$\nThe above equation is",
+    "question_type": "MCQ",
+    "options": {
+      "A": "a second order linear equation",
+      "B": "a second degree linear equation",
+      "C": "a second order non-linear equation",
+      "D": "a second degree non-linear equation"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.2",
+    "question": "The value of $\\lim_{x\\to\\infty} \\frac{x^2-5x+4}{4x^2+2x}$ is",
+    "question_type": "MCQ",
+    "options": {
+      "A": "0",
+      "B": "1",
+      "C": "$\\frac{1}{4}$",
+      "D": "$\\frac{1}{2}$"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.3",
+    "question": "The true value of $\\ln(2)$ is 0.69. If the value of $\\ln(2)$ is obtained by linear interpolation between $\\ln(1)$ and $\\ln(6)$, the percentage of absolute error (round off to the nearest integer), is",
+    "question_type": "MCQ",
+    "options": {
+      "A": "35",
+      "B": "48",
+      "C": "69",
+      "D": "84"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.4",
+    "question": "The area of an ellipse represented by an equation $\\frac{x^2}{a^2} + \\frac{y^2}{b^2} = 1$ is",
+    "question_type": "MCQ",
+    "options": {
+      "A": "$\\frac{\\pi ab}{4}$",
+      "B": "$\\frac{\\pi ab}{2}$",
+      "C": "$\\pi ab$",
+      "D": "$\\frac{4\\pi ab}{3}$"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.5",
+    "question": "Consider the planar truss shown in the figure (not drawn to the scale)\n```\nL\nL\nP\nL\nL\n```\nNeglecting self-weight of the members, the number of zero-force members in the truss under the action of the load $P$, is",
+    "question_type": "MCQ",
+    "options": {
+      "A": "6",
+      "B": "7",
+      "C": "8",
+      "D": "9"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.6",
+    "question": "A reinforcing steel bar, partially embedded in concrete, is subjected to a tensile force $P$. The figure that appropriately represents the distribution of the magnitude of bond stress (represented as hatched region), along the embedded length of the bar, is\n```\n(A)\nP\n(B)\nP\n(C)\nP\n(D)\n```",
+    "question_type": "MCQ",
+    "options": {
+      "A": "Figure (A) showing bond stress high at start, decreasing to zero.",
+      "B": "Figure (B) showing bond stress zero at start, increasing then decreasing.",
+      "C": "Figure (C) showing bond stress zero at start, increasing linearly to maximum at end.",
+      "D": "Figure (D) showing bond stress maximum at start, decreasing linearly to zero at end."
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.7",
+    "question": "In a two-dimensional stress analysis, the state of stress at a point $P$ is\n$[\\sigma] = \\begin{bmatrix} \\sigma_{xx} & \\tau_{xy} \\\\ \\tau_{xy} & \\sigma_{yy} \\end{bmatrix}$\nThe necessary and sufficient condition for existence of the state of pure shear at the point $P$, is",
+    "question_type": "MCQ",
+    "options": {
+      "A": "$\\sigma_{xx}\\sigma_{yy} - \\tau_{xy}^2 = 0$",
+      "B": "$\\tau_{xy} = 0$",
+      "C": "$\\sigma_{xx} + \\sigma_{yy} = 0$",
+      "D": "$(\\sigma_{xx}-\\sigma_{yy})^2 + 4\\tau_{xy}^2 = 0$"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.8",
+    "question": "During the process of hydration of cement, due to increase in Dicalcium Silicate (C2S) content in cement clinker, the heat of hydration",
+    "question_type": "MCQ",
+    "options": {
+      "A": "increases",
+      "B": "decreases",
+      "C": "initially decreases and then increases",
+      "D": "does not change"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.9",
+    "question": "The Los Angeles test for stone aggregates is used to examine",
+    "question_type": "MCQ",
+    "options": {
+      "A": "abrasion resistance",
+      "B": "crushing strength",
+      "C": "soundness",
+      "D": "specific gravity"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.10",
+    "question": "Which one of the following statements is NOT correct?",
+    "question_type": "MCQ",
+    "options": {
+      "A": "A clay deposit with a liquidity index greater than unity is in a state of plastic consistency.",
+      "B": "The cohesion of normally consolidated clay is zero when triaxial test is conducted under consolidated undrained condition.",
+      "C": "The ultimate bearing capacity of a strip foundation supported on the surface of sandy soil increases in direct proportion to the width of footing.",
+      "D": "In case of a point load, Boussinesq's equation predicts higher value of vertical stress at a point directly beneath the load as compared to Westergaard's equation."
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.11",
+    "question": "In a soil investigation work at a site, Standard Penetration Test (SPT) was conducted at every 1.5 m interval up to 30 m depth. At 3 m depth, the observed number of hammer blows for three successive 150 mm penetrations were 8, 6 and 9, respectively. The SPT N-value at 3 m depth, is",
+    "question_type": "MCQ",
+    "options": {
+      "A": "23",
+      "B": "17",
+      "C": "15",
+      "D": "14"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.12",
+    "question": "Velocity of flow is proportional to the first power of hydraulic gradient in Darcy's law. This law is applicable to",
+    "question_type": "MCQ",
+    "options": {
+      "A": "laminar flow in porous media",
+      "B": "transitional flow in porous media",
+      "C": "turbulent flow in porous media",
+      "D": "laminar as well as turbulent flow in porous media"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.13",
+    "question": "A body floating in a liquid is in a stable state of equilibrium if its",
+    "question_type": "MCQ",
+    "options": {
+      "A": "metacentre lies above its centre of gravity",
+      "B": "metacentre lies below its centre of gravity",
+      "C": "metacentre coincides with its centre of gravity",
+      "D": "centre of gravity is below its centre of bouyancy"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.14",
+    "question": "Uniform flow with velocity $U$ makes an angle $\\theta$ with the y-axis, as shown in the figure\n```\ny\nθ\nU\nX\n```\nThe velocity potential ($\\phi$), is",
+    "question_type": "MCQ",
+    "options": {
+      "A": "$+U(x \\sin\\theta + y \\cos\\theta)$",
+      "B": "$+U(y \\sin\\theta - x \\cos\\theta)$",
+      "C": "$+U(x \\sin\\theta - y \\cos\\theta)$",
+      "D": "$+U(y \\sin\\theta + x \\cos\\theta)$"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.15",
+    "question": "The data for an agricultural field for a specific month are given below:\nPan Evaporation = 100 mm\nEffective Rainfall = 20 mm (after deducting losses due to runoff and deep percolation)\nCrop Coefficient = 0.4\nIrrigation Efficiency = 0.5\nThe amount of irrigation water (in mm) to be applied to the field in that month, is",
+    "question_type": "MCQ",
+    "options": {
+      "A": "0",
+      "B": "20",
+      "C": "40",
+      "D": "80"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.16",
+    "question": "During chlorination process, aqueous (aq) chlorine reacts rapidly with water to form $\\text{Cl}^-$, $\\text{HOCl}$, and $\\text{H}^+$ as shown below\n$\\text{Cl}_2 \\text{(aq)} + \\text{H}_2\\text{O} \\rightleftharpoons \\text{HOCl} + \\text{Cl}^- + \\text{H}^+$\nThe most active disinfectant in the chlorination process from amongst the following, is",
+    "question_type": "MCQ",
+    "options": {
+      "A": "$\\text{H}^+$",
+      "B": "$\\text{HOCl}$",
+      "C": "$\\text{Cl}^-$",
+      "D": "$\\text{H}_2\\text{O}$"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.17",
+    "question": "An amount of 35.67 mg HCl is added to distilled water and the total solution volume is made to one litre. The atomic weights of H and Cl are 1 and 35.5, respectively. Neglecting the dissociation of water, the pH of the solution, is",
+    "question_type": "MCQ",
+    "options": {
+      "A": "3.50",
+      "B": "3.01",
+      "C": "2.50",
+      "D": "2.01"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.18",
+    "question": "The probability that a 50 year flood may NOT occur at all during 25 years life of a project (round off to two decimal places), is",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.19",
+    "question": "A planar elastic structure is subjected to uniformly distributed load, as shown in the figure (not drawn to the scale)\n```\n12 kN/m\n2.4 m\n-Parabolic profile\n8.0 m\n```\nNeglecting self-weight, the maximum bending moment generated in the structure (in kN.m, round off to the nearest integer), is",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.20",
+    "question": "In an urban area, a median is provided to separate the opposing streams of traffic. As per IRC:86-1983, the desirable minimum width (in m, expressed as integer) of the median, is",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.21",
+    "question": "A road in a hilly terrain is to be laid at a gradient of 4.5%. A horizontal curve of radius 100 m is laid at a location on this road. Gradient needs to be eased due to combination of curved horizontal and vertical profiles of the road. As per IRC, the compensated gradient (in %, round off to one decimal place), is",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.22",
+    "question": "In a drained triaxial compression test, a sample of sand fails at deviator stress of 150 kPa under confining pressure of 50 kPa. The angle of internal friction (in degree, round off to the nearest integer) of the sample, is",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.23",
+    "question": "A fully submerged infinite sandy slope has an inclination of $30^\\circ$ with the horizontal. The saturated unit weight and effective angle of internal friction of sand are 18 kN/m$^3$ and $38^\\circ$, respectively. The unit weight of water is 10 kN/m$^3$. Assume that the seepage is parallel to the slope. Against shear failure of the slope, the factor of safety (round off to two decimal places) is",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.24",
+    "question": "A 4 m wide rectangular channel carries 6 m$^3$/s of water. The Manning's 'n' of the open channel is 0.02. Considering $g = 9.81 \\text{ m/s}^2$, the critical velocity of flow (in m/s, round off to two decimal places) in the channel, is",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.25",
+    "question": "A river has a flow of 1000 million litres per day (MLD), BOD5 of 5 mg/litre and Dissolved Oxygen (DO) level of 8 mg/litre before receiving the wastewater discharge at a location. For the existing environmental conditions, the saturation DO level is 10 mg/litre in the river. Wastewater discharge of 100 MLD with the BOD5 of 200 mg/litre and DO level of 2 mg/litre falls at that location. Assuming complete mixing of wastewater and river water, the immediate DO deficit (in mg/litre, round off to two decimal places), is",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.26",
+    "question": "For the Ordinary Differential Equation $\\frac{d^2x}{dt^2} - 5\\frac{dx}{dt} + 6x = 0$, with initial conditions $x(0) = 0$ and $\\frac{dx}{dt}(0) = 10$, the solution is",
+    "question_type": "MCQ",
+    "options": {
+      "A": "$-5e^{2t} + 6e^{3t}$",
+      "B": "$5e^{2t} + 6e^{3t}$",
+      "C": "$-10e^{2t} + 10e^{3t}$",
+      "D": "$10e^{2t} + 10e^{3t}$"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.27",
+    "question": "A continuous function $f(x)$ is defined. If the third derivative at $x_i$, is to be computed by using the fourth order central finite-divided-difference scheme (with step length = $h$), the correct formula is",
+    "question_type": "MCQ",
+    "options": {
+      "A": "$f'''(x_i) = \\frac{-f(x_{i+3})+8f(x_{i+2})-13f(x_{i+1})+13f(x_{i-1})-8f(x_{i-2})+f(x_{i-3})}{8h^3}$",
+      "B": "$f'''(x_i) = \\frac{f(x_{i+3})-8f(x_{i+2})-13f(x_{i+1})+13f(x_{i-1})+8f(x_{i-2})+f(x_{i-3})}{8h^3}$",
+      "C": "$f'''(x_i) = \\frac{-f(x_{i+3})-8f(x_{i+2})-13f(x_{i+1})+13f(x_{i-1})+8f(x_{i-2})-f(x_{i-3})}{8h^3}$",
+      "D": "$f'''(x_i) = \\frac{f(x_{i+3})-8f(x_{i+2})+13f(x_{i+1})+13f(x_{i-1})-8f(x_{i-2})-f(x_{i-3})}{8h^3}$"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.28",
+    "question": "Distributed load(s) of 50 kN/m may occupy any position(s) (either continuously or in patches) on the girder PQRST as shown in the figure (not drawn to the scale)\n```\nP\nQ\nR\nS\nT\n1.5m\n3m\n2m 1.5m\n```\nThe maximum negative (hogging) bending moment (in kN.m) that occurs at point R, is",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.29",
+    "question": "A rigid weightless platform PQRS shown in the figure (not drawn to the scale) can slide freely in the vertical direction. The platform is held in position by the weightless member OJ and four weightless, frictionless rollers. Points O and J are pin connections. A block of 90 kN rests on the platform as shown in the figure\n```\n1 m\n4 m\nRoller (typical)\nW = 90 kN\nQ\nP\nO\n1.5 m\nO\nJ\nRigid\nplatform\nS\nR\n2 m\n3 m\n0\n4 m\n```\nThe magnitude of horizontal component of the reaction (in kN) at pin O, is",
+    "question_type": "MCQ",
+    "options": {
+      "A": "90",
+      "B": "120",
+      "C": "150",
+      "D": "180"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.30",
+    "question": "A cantilever beam PQ of uniform flexural rigidity ($EI$) is subjected to a concentrated moment $M$ at $R$ as shown in the figure\n```\nL/2\nP\nR\nM\nL\nQ\n```\nThe deflection at the free end Q is",
+    "question_type": "MCQ",
+    "options": {
+      "A": "$\\frac{ML^2}{6EI}$",
+      "B": "$\\frac{ML^2}{4EI}$",
+      "C": "$\\frac{3ML^2}{8EI}$",
+      "D": "$\\frac{3ML^2}{4EI}$"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.31",
+    "question": "A dowel bar is placed at a contraction joint. When contraction occurs, the concrete slab cracks at predetermined location(s). Identify the arrangement, which shows the correct placement of dowel bar and the place of occurrence of the contraction crack(s).\n```\n(A)\nd/3 to d/4\nd\nDowel bar\nContraction crack\n\n(B)\nd/2\nd/3 to d/4\nd\nDowel bar Contraction crack\n\n(C)\nd/3 to d/4\nd\nDowel bar\nContraction crack\n\n(D)\nd/2 Dowel bar\nd/3 to d/4\nd\n<--Contraction crack\n```",
+    "question_type": "MCQ",
+    "options": {
+      "A": "Figure (A) showing a centered dowel bar with crack outside.",
+      "B": "Figure (B) showing an offset dowel bar with crack outside.",
+      "C": "Figure (C) showing a centered dowel bar with crack inside.",
+      "D": "Figure (D) showing an offset dowel bar with crack inside."
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.32",
+    "question": "The relationship between traffic flow rate ($q$) and density ($D$) is shown in the figure\n```\nFlow\nRate, q\n1\n2\n7\n6\n3\n4\n5\nDensity, D\n```\nThe shock wave condition is depicted by",
+    "question_type": "MCQ",
+    "options": {
+      "A": "flow with respect to point 1 ($q_1 = q_{max}$)",
+      "B": "flow changing from point 2 to point 6 ($q_2 > q_6$)",
+      "C": "flow changing from point 3 to point 7 ($q_3 < q_7$)",
+      "D": "flow with respect to point 4 and point 5 ($q_4 = q_5$)"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.33",
+    "question": "The appropriate design length of a clearway is calculated on the basis of 'Normal Take-off' condition. Which one of the following options correctly depicts the length of the clearway? (Note: None of the options are drawn to scale)\n```\n(A)\nRunway\nLift Off\nPoint\nFlight Path\nAirplane\n10.5 m Clearway\n875 m\n1625 m\n< 432 m\n\n(B)\nRunway\nLift Off\nPoint\nFlight Path\nAirplane\n10.5 m Clearway\n875 m\n1625 m\n> 432 m\n```",
+    "question_type": "MCQ",
+    "options": {
+      "A": "Figure (A) showing clearway length < 432m.",
+      "B": "Figure (B) showing clearway length > 432m.",
+      "C": "Figure (C) showing clearway length < 244m.",
+      "D": "Figure (D) showing clearway length > 244m."
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.34",
+    "question": "The total stress paths corresponding to different loading conditions, for a soil specimen under the isotropically consolidated stress state (O), are shown below\n```\nq = σ₁-σ₃\nR\nS\nσ₁\nX\nQ\nP\np = (σ₁+2σ₃)/3\nσ₃\nσ₁\nσ₃\n```\nStress Path | Loading Condition\n------------|------------------\nOP          | I - Compression loading ($\\sigma_1$ – increasing; $\\sigma_3$ – constant)\nOQ          | II - Compression unloading ($\\sigma_1$ – constant; $\\sigma_3$ – decreasing)\nOR          | III - Extension unloading ($\\sigma_1$ – decreasing; $\\sigma_3$ – constant)\nOS          | IV - Extension loading ($\\sigma_1$ – constant; $\\sigma_3$ – increasing)\nThe correct match between the stress paths and the listed loading conditions, is",
+    "question_type": "MCQ",
+    "options": {
+      "A": "OP-I, OQ-II, OR-IV, OS-III",
+      "B": "OP-IV, OQ-III, OR-I, OS-II",
+      "C": "OP-III, OQ-II, OR-I, OS-IV",
+      "D": "OP-I, OQ-III, OR-II, OS-IV"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.36",
+    "question": "The soil profile at a site up to a depth of 10 m is shown in the figure (not drawn to the scale). The soil is preloaded with a uniform surcharge ($q$) of 70 kN/m$^2$ at the ground level. The water table is at a depth of 3 m below ground level. The soil unit weight of the respective layers is shown in the figure. Consider unit weight of water as 9.81 kN/m$^3$ and assume that the surcharge ($q$) is applied instantaneously.\n```\nq=70 kN/m²\nGround level\n3 m\nSand (Bulk unit weight = 18 kN/m³)\nGround water table\nP\n4 m\nSilty clay (Saturated unit weight = 20 kN/m²)\nQ\n3 m\nClay (Saturated unit weight = 21 kN/m²)\nBoulder clay\n```\nImmediately after preloading, the effective stresses (in kPa) at points P and Q, respectively, are",
+    "question_type": "MCQ",
+    "options": {
+      "A": "124 and 204",
+      "B": "36 and 90",
+      "C": "36 and 126",
+      "D": "54 and 95"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.37",
+    "question": "Water flows at the rate of 12 m$^3$/s in a 6 m wide rectangular channel. A hydraulic jump is formed in the channel at a point where the upstream depth is 30 cm (just before the jump). Considering acceleration due to gravity as 9.81 m/s$^2$ and density of water as 1000 kg/m$^3$, the energy loss in the jump is",
+    "question_type": "MCQ",
+    "options": {
+      "A": "114.2 kW",
+      "B": "114.2 MW",
+      "C": "141.2 h.p.",
+      "D": "141.2 J/s"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.38",
+    "question": "A water supply scheme transports 10 MLD (Million Litres per Day) water through a 450 mm diameter pipeline for a distance of 2.5 km. A chlorine dose of 3.50 mg/litre is applied at the starting point of the pipeline to attain a certain level of disinfection at the downstream end. It is decided to increase the flow rate from 10 MLD to 13 MLD in the pipeline. Assume exponent for concentration, n = 0.86. With this increased flow, in order to attain the same level of disinfection, the chlorine dose (in mg/litre) to be applied at the starting point should be",
+    "question_type": "MCQ",
+    "options": {
+      "A": "3.95",
+      "B": "4.40",
+      "C": "4.75",
+      "D": "5.55"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.39",
+    "question": "If $C$ represents a line segment between $(0,0,0)$ and $(1,1,1)$ in Cartesian coordinate system, the value (expressed as integer) of the line integral\n$\\int_C [(y + z)dx + (x + z)dy + (x + y)dz]$\nis",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.40",
+    "question": "Consider the system of equations\n$\\begin{bmatrix} 1 & 3 & 2 \\\\ 2 & 2 & -3 \\\\ 4 & 4 & -6 \\\\ 2 & 5 & 2 \\end{bmatrix} \\begin{bmatrix} x_1 \\\\ x_2 \\\\ x_3 \\end{bmatrix} = \\begin{bmatrix} 1 \\\\ 1 \\\\ 2 \\\\ 1 \\end{bmatrix}$\nThe value of $x_3$ (round off to the nearest integer), is",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.42",
+    "question": "A rigid, uniform, weightless, horizontal bar is connected to three vertical members P, Q and R as shown in the figure (not drawn to the scale). All three members have identical axial stiffness of 10 kN/mm. The lower ends of bars P and R rest on a rigid horizontal surface. When NO load is applied, a gap of 2 mm exists between the lower end of the bar Q and the rigid horizontal surface. When a vertical load W is placed on the horizontal bar in the downward direction, the bar still remains horizontal and gets displaced by 5 mm in the vertically downward direction.\n```\nRigid Uniform Weightless Horizontal Bar\nP\nQ\nR\nRigid\nHorizontal\nSurface\ngap\n```\nThe magnitude of the load W (in kN, round off to the nearest integer), is",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.43",
+    "question": "The flange and web plates of the doubly symmetric built-up section are connected by continuous 10 mm thick fillet welds as shown in the figure (not drawn to the scale). The moment of inertia of the section about its principal axis X-X is $7.73 \\times 10^6 \\text{ mm}^4$. The permissible shear stress in the fillet welds is 100 N/mm$^2$. The design shear strength of the section is governed by the capacity of the fillet welds.\n```\n100 mm\n10 mm\nX\nX\n10 mm\nfillet weld (typical)\n120 mm\n```\nThe maximum shear force (in kN, round off to one decimal place) that can be carried by the section, is",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.44",
+    "question": "The singly reinforced concrete beam section shown in the figure (not drawn to the scale) is made of M25 grade concrete and Fe500 grade reinforcing steel. The total cross-sectional area of the tension steel is 942 mm$^2$.\n```\n...\n300 mm\n450 mm\n```\nAs per Limit State Design of IS 456:2000, the design moment capacity (in kN.m, round off to two decimal places) of the beam section, is",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.45",
+    "question": "A simply supported prismatic concrete beam of rectangular cross-section, having a span of 8 m, is prestressed with an effective prestressing force of 600 kN. The eccentricity of the prestressing tendon is zero at supports and varies linearly to a value of $e$ at the mid-span. In order to balance an external concentrated load of 12 kN applied at the mid-span, the required value of $e$ (in mm, round off to the nearest integer) of the tendon, is",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.46",
+    "question": "Traffic volume count has been collected on a 2-lane road section which needs upgradation due to severe traffic flow condition. Maximum service flow rate per lane is observed as 1280 veh/h at level of service 'C'. The Peak Hour Factor is reported as 0.78125. Historical traffic volume count provides Annual Average Daily Traffic as 12270 veh/day. Directional split of the traffic flow is observed to be 60:40. Assuming that traffic stream consists of 'All Cars' and all drivers are 'Regular Commuters', the number of extra lane(s) (round off to the next higher integer) to be provided, is",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.47",
+    "question": "A vertical retaining wall of 5 m height has to support soil having unit weight of 18 kN/m$^3$, effective cohesion of 12 kN/m$^2$, and effective friction angle of $30^\\circ$. As per Rankine's earth pressure theory and assuming that a tension crack has occurred, the lateral active thrust on the wall per meter length (in kN/m, round off to two decimal places), is",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.48",
+    "question": "Water flows in the upward direction in a tank through 2.5 m thick sand layer as shown in the figure. The void ratio and specific gravity of sand are 0.58 and 2.7, respectively. The sand is fully saturated. Unit weight of water is 10 kN/m$^3$.\n```\nOutward\nflow\n1.2 m\nwater\n1m\n2.5 m\nSand\nA\n1 m\nFilter media\nInward flow\n```\nThe effective stress (in kPa, round off to two decimal places) at point A, located 1 m above the base of tank, is",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.49",
+    "question": "A 10 m thick clay layer is resting over a 3 m thick sand layer and is submerged. A fill of 2 m thick sand with unit weight of 20 kN/m$^3$ is placed above the clay layer to accelerate the rate of consolidation of the clay layer. Coefficient of consolidation of clay is $9 \\times 10^{-2} \\text{ m}^2/\\text{year}$ and coefficient of volume compressibility of clay is $2.2 \\times 10^{-4} \\text{ m}^2/\\text{kN}$. Assume Taylor's relation between time factor and average degree of consolidation.\n```\nWater table\n10 m\nClay\n3 m\nSand\nImpervious stratum\n```\nThe settlement (in mm, round off to two decimal places) of the clay layer, 10 years after the construction of the fill, is",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.50",
+    "question": "Three reservoirs P, Q, and R are interconnected by pipes as shown in the figure (not drawn to the scale). Piezometric head at the junction S of the pipes is 100 m. Assume acceleration due to gravity as 9.81 m/s$^2$ and density of water as 1000 kg/m$^3$. The length of the pipe from junction S to the inlet of reservoir R is 180 m.\n```\nDiameter = 30 cm\nFlow velocity\n=1.98 m/s\nReservoir\nP\n10 m\nReservoir\nQ\n109 m\nS\nDiameter = 30 cm\nFlow velocity\n=2.56 m/s\n90 m\nLength = 180 m\nDiameter = 45 cm\nReservoir\nR\nDatum\n106 m\n```\nConsidering head loss only due to friction (with friction factor of 0.03 for all the pipes), the height of water level in the lowermost reservoir R (in m, round off to one decimal place) with respect to the datum, is",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.51",
+    "question": "In a homogeneous unconfined aquifer of area 3.00 km$^2$, the water table was at an elevation of 102.00 m. After a natural recharge of volume 0.90 million cubic meter (Mm$^3$), the water table rose to 103.20 m. After this recharge, ground water pumping took place and the water table dropped down to 101.20 m. The volume of ground water pumped after the natural recharge, expressed (in Mm$^3$ and round off to two decimal places), is",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.52",
+    "question": "A circular water tank of 2 m diameter has a circular orifice of diameter 0.1 m at the bottom. Water enters the tank steadily at a flow rate of 20 litre/s and escapes through the orifice. The coefficient of discharge of the orifice is 0.8. Consider the acceleration due to gravity as 9.81 m/s$^2$ and neglect frictional losses. The height of the water level (in m, round off to two decimal places) in the tank at the steady state, is",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.53",
+    "question": "Surface Overflow Rate (SOR) of a primary settling tank (discrete settling) is 20000 litre/m$^2$ per day. Kinematic viscosity of water in the tank is $1.01 \\times 10^{-2} \\text{ cm}^2/\\text{s}$. Specific gravity of the settling particles is 2.64. Acceleration due to gravity is 9.81 m/s$^2$. The minimum diameter (in $\\mu$m, round off to one decimal place) of the particles that will be removed with 80% efficiency in the tank, is",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.54",
+    "question": "A stream with a flow rate of 5 m$^3$/s is having an ultimate BOD of 30 mg/litre. A wastewater discharge of 0.20 m$^3$/s having BOD5 of 500 mg/litre joins the stream at a location and instantaneously gets mixed up completely. The cross-sectional area of the stream is 40 m$^2$ which remains constant. BOD exertion rate constant is 0.3 per day (logarithm base to e). The BOD (in mg/litre, round off to two decimal places) remaining at 3 km downstream from the mixing location, is",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.55",
+    "question": "The lengths and bearings of a traverse PQRS are:\n```\nSegment | Length (m) | Bearing\n--------|------------|--------\nPQ      | 40         | 80°\nQR      | 50         | 10°\nRS      | 30         | 210°\n```\nThe length of line segment SP (in m, round off to two decimal places), is",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  }
+]

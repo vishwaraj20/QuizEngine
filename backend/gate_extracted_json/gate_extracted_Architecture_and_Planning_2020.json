@@ -1,0 +1,752 @@
+[
+  {
+    "question_number": "Q.1",
+    "question": "Rajiv Gandhi Khel Ratna Award was conferred ______ Mary Kom, a six-time world champion in boxing, recently in a ceremony ______ the Rashtrapati Bhawan (the President's official residence) in New Delhi.",
+    "question_type": "MCQ",
+    "options": {
+      "A": "with, at",
+      "B": "on, in",
+      "C": "on, at",
+      "D": "to, at"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.2",
+    "question": "Despite a string of poor performances, the chances of K. L. Rahul's selection in the team are ______.",
+    "question_type": "MCQ",
+    "options": {
+      "A": "slim",
+      "B": "bright",
+      "C": "obvious",
+      "D": "uncertain"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.3",
+    "question": "Select the word that fits the analogy:\nCover: Uncover :: Associate : ______",
+    "question_type": "MCQ",
+    "options": {
+      "A": "Unassociate",
+      "B": "Inassociate",
+      "C": "Misassociate",
+      "D": "Dissociate"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.4",
+    "question": "Hit by floods, the kharif (summer sown) crops in various parts of the country have been affected. Officials believe that the loss in production of the kharif crops can be recovered in the output of the rabi (winter sown) crops so that the country can achieve its food-grain production target of 291 million tons in the crop year 2019-20 (July-June). They are hopeful that good rains in July-August will help the soil retain moisture for a longer period, helping winter sown crops such as wheat and pulses during the November-February period.\n\nWhich of the following statements can be inferred from the given passage?",
+    "question_type": "MCQ",
+    "options": {
+      "A": "Officials declared that the food-grain production target will be met due to good rains.",
+      "B": "Officials want the food-grain production target to be met by the November-February period.",
+      "C": "Officials feel that the food-grain production target cannot be met due to floods.",
+      "D": "Officials hope that the food-grain production target will be met due to a good rabi produce."
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.5",
+    "question": "The difference between the sum of the first $2n$ natural numbers and the sum of the first $n$ odd natural numbers is ______",
+    "question_type": "MCQ",
+    "options": {
+      "A": "$n^2 - n$",
+      "B": "$n^2 + n$",
+      "C": "$2n^2 - n$",
+      "D": "$2n^2 + n$"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.6",
+    "question": "Repo rate is the rate at which Reserve Bank of India (RBI) lends commercial banks, and reverse repo rate is the rate at which RBI borrows money from commercial banks.\n\nWhich of the following statements can be inferred from the above passage?",
+    "question_type": "MCQ",
+    "options": {
+      "A": "Decrease in repo rate will increase cost of borrowing and decrease lending by commercial banks.",
+      "B": "Increase in repo rate will decrease cost of borrowing and increase lending by commercial banks.",
+      "C": "Increase in repo rate will decrease cost of borrowing and decrease lending by commercial banks.",
+      "D": "Decrease in repo rate will decrease cost of borrowing and increase lending by commercial banks."
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.7",
+    "question": "P, Q, R, S, T, U, V, and W are seated around a circular table.\nI. S is seated opposite to W.\nII. U is seated at the second place to the right of R.\nIII. T is seated at the third place to the left of R.\nIV. V is a neighbour of S.\n\nWhich of the following must be true?",
+    "question_type": "MCQ",
+    "options": {
+      "A": "P is a neighbour of R.",
+      "B": "Q is a neighbour of R.",
+      "C": "P is not seated opposite to Q.",
+      "D": "R is the left neighbour of S."
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.8",
+    "question": "The distance between Delhi and Agra is 233 km. A car P started travelling from Delhi to Agra and another car Q started from Agra to Delhi along the same road 1 hour after the car P started. The two cars crossed each other 75 minutes after the car Q started. Both cars were travelling at constant speed. The speed of car P was 10 km/hr more than the speed of car Q. How many kilometers the car Q had travelled when the cars crossed each other?",
+    "question_type": "MCQ",
+    "options": {
+      "A": "66.6",
+      "B": "75.2",
+      "C": "88.2",
+      "D": "116.5"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.9",
+    "question": "For a matrix $M = [m_{ij}]$; $i,j = 1,2,3,4$, the diagonal elements are all zero and $m_{ij} = -m_{ji}$. The minimum number of elements required to fully specify the matrix is ______",
+    "question_type": "MCQ",
+    "options": {
+      "A": "0",
+      "B": "6",
+      "C": "12",
+      "D": "16"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.10",
+    "question": "The profit shares of two companies P and Q are shown in the figure. If the two companies have invested a fixed and equal amount every year, then the ratio of the total revenue of company P to the total revenue of company Q, during 2013 - 2018 is ______.\n```\n(Image shows a bar chart titled 'Profit percentage' vs 'Year' for Company P and Company Q from 2013 to 2018.\nProfit percentages are approximately:\n2013: P=10%, Q=15%\n2014: P=20%, Q=25%\n2015: P=35%, Q=45%\n2016: P=45%, Q=55%\n2017: P=55%, Q=65%\n2018: P=40%, Q=60%)\n```",
+    "question_type": "MCQ",
+    "options": {
+      "A": "15:17",
+      "B": "16:17",
+      "C": "17:15",
+      "D": "17:16"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.11",
+    "question": "In the architectural style of ancient North Indian Temples, the term 'Adhisthana' refers to ______",
+    "question_type": "MCQ",
+    "options": {
+      "A": "Pinnacle",
+      "B": "Base Platform",
+      "C": "Vestibule",
+      "D": "Transept"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.12",
+    "question": "Who among the following architects has NOT won the Pritzker Architecture Prize till 2019?",
+    "question_type": "MCQ",
+    "options": {
+      "A": "Arata Isozaki",
+      "B": "I. M. Pei",
+      "C": "B. V. Doshi",
+      "D": "Moshe Safdie"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.13",
+    "question": "The stone used in the construction of Kailasa temple at Ellora is ______",
+    "question_type": "MCQ",
+    "options": {
+      "A": "Limestone",
+      "B": "Marble",
+      "C": "Sandstone",
+      "D": "Basalt"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.14",
+    "question": "Four vertical lines having same thickness appear to be of the same height in perspective as shown in the figure. Which line actually has the maximum height?\n```\n(Image shows four vertical lines, numbered 1 to 4 from left to right. Due to perspective, line 1 appears tallest, and line 4 appears shortest, with lines 2 and 3 in between, decreasing in apparent height from left to right.)\n```",
+    "question_type": "MCQ",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.15",
+    "question": "As per URDPFI Guidelines 2015, Government of India, choose the correct hierarchy of plans from higher to lower order.",
+    "question_type": "MCQ",
+    "options": {
+      "A": "Perspective plan, Development plan, Regional plan, Zonal plan",
+      "B": "Perspective plan, Regional plan, Development plan, Zonal plan",
+      "C": "Regional plan, Perspective plan, Development plan, Zonal plan",
+      "D": "Zonal plan, Development plan, Regional plan, Perspective plan"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.16",
+    "question": "Which of the following shapes can be used as an interlocking paver block without adding any other shape?\n```\n(Image shows four shapes, numbered 1 to 4. Each shape is a symmetrical, somewhat 'S'-shaped or 'bone'-shaped block, with variations in their curves.)\n```",
+    "question_type": "MCQ",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.17",
+    "question": "In India, the Constitution (Seventy Fourth Amendment) Act, 1992, delegates powers to institutions forming the third tier of government, which are ______",
+    "question_type": "MCQ",
+    "options": {
+      "A": "Municipal Corporation, Municipality and Nagar Panchayat",
+      "B": "Development Authority, Municipal Corporation and Municipality",
+      "C": "Improvement Trust, Nagar Panchayat and Panchayat",
+      "D": "Development Authority, Improvement Trust and Panchayat"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.18",
+    "question": "As on 2018, 'Right to Property' in India is a ______",
+    "question_type": "MCQ",
+    "options": {
+      "A": "Fundamental Right",
+      "B": "Secondary Right",
+      "C": "Constitutional Right",
+      "D": "Tertiary Right"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.19",
+    "question": "'Tendon' is primarily used ______",
+    "question_type": "MCQ",
+    "options": {
+      "A": "as a compression member",
+      "B": "to pre-stress concrete",
+      "C": "as roof sheathing",
+      "D": "to prepare a tender document"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.20",
+    "question": "Emergency preparedness for risk reduction does NOT include ______",
+    "question_type": "MCQ",
+    "options": {
+      "A": "rescue",
+      "B": "relief distribution",
+      "C": "rehabilitation",
+      "D": "revision of code"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.21",
+    "question": "If Beam: Column :: Transom : X, which of the following options can replace 'X'?",
+    "question_type": "MCQ",
+    "options": {
+      "A": "Balustrade",
+      "B": "Sill",
+      "C": "Mullion",
+      "D": "Ceiling"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.22",
+    "question": "The correct chronological order of the given architectural movements is ______",
+    "question_type": "MCQ",
+    "options": {
+      "A": "Romanesque; Roman; Baroque; Gothic; Renaissance",
+      "B": "Romanesque; Roman; Renaissance; Gothic; Baroque",
+      "C": "Roman; Romanesque; Gothic; Renaissance; Baroque",
+      "D": "Roman; Romanesque; Gothic; Baroque; Renaissance"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.23",
+    "question": "The decay of sound in a large room is indicated in the following figure. The spike within the dashed zone denotes ______\n```\n(Image shows a graph of Sound Pressure Level (dB) vs Time (seconds). The sound level starts high, decays, then has a spike within a dashed rectangular zone, and then continues to decay. The spike is a sudden increase in sound pressure level followed by a decay.)\n```",
+    "question_type": "MCQ",
+    "options": {
+      "A": "Flutter echo",
+      "B": "Perfect sound diffusion",
+      "C": "Echo",
+      "D": "Early reflection"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.24",
+    "question": "For the same thickness of material layers, relative position of insulation in the wall sections 1 and 2 shown below will have an impact on ______\n```\n(Image shows two wall sections.\nWall Section 1: Layers are IN, insulation, OUT.\nWall Section 2: Layers are IN, OUT, insulation.\nBoth sections have layers T1 and T2, but their arrangement relative to insulation is different.)\n```",
+    "question_type": "MCQ",
+    "options": {
+      "A": "Thermal Time Constant",
+      "B": "Thermal Conductivity",
+      "C": "Thermal Resistivity",
+      "D": "Thermal Transmittance"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.25",
+    "question": "The solar altitude angle on April 16 at 7:00 AM in Kochi is 16°. The same solar altitude angle will occur at the same time in the same year at the same location on ______",
+    "question_type": "MCQ",
+    "options": {
+      "A": "July 21",
+      "B": "August 27",
+      "C": "September 23",
+      "D": "October 21"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.26",
+    "question": "In a perspective drawing, the Picture Plane is in between the Object and the Observer. If the Observer comes closer straight towards the Picture Plane, without changing the distance between Object and Picture Plane, the perspective image will be ______",
+    "question_type": "MCQ",
+    "options": {
+      "A": "Bigger than the previous image",
+      "B": "Smaller than the previous image",
+      "C": "Will remain the same as previous image",
+      "D": "Will become the mirror image of the previous"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.27",
+    "question": "Shyam-Rai temple of Bishnupur in West Bengal, is an example of ______",
+    "question_type": "MCQ",
+    "options": {
+      "A": "Nava-ratna type terracotta temple",
+      "B": "Stone carved Nagara type temple",
+      "C": "Pancha-ratna type terracotta temple",
+      "D": "Stone carved Dravidian type temple"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.28",
+    "question": "Which one of the following is NOT a land use zone?",
+    "question_type": "MCQ",
+    "options": {
+      "A": "Industrial Zone",
+      "B": "Agriculture Zone",
+      "C": "Heritage Zone",
+      "D": "Commercial Zone"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.29",
+    "question": "'Formulation of GIS based master plan' is a sub-scheme of ______",
+    "question_type": "MCQ",
+    "options": {
+      "A": "Atal Mission for Rejuvenation and Urban Transformation",
+      "B": "Smart Cities Mission",
+      "C": "Jawaharlal Nehru National Urban Renewal Mission",
+      "D": "Shyama Prasad Mukherji Rurban Mission"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.30",
+    "question": "One hectare is equal to ______",
+    "question_type": "MCQ",
+    "options": {
+      "A": "4000 m²",
+      "B": "4048 m²",
+      "C": "4840 m²",
+      "D": "10000 m²"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.31",
+    "question": "One of the sites added to the list of UNESCO World Heritage Sites in 2019 is ______",
+    "question_type": "MCQ",
+    "options": {
+      "A": "Walled City, Ahmedabad",
+      "B": "Walled City, Jaipur",
+      "C": "Chandigarh",
+      "D": "Fatehpur Sikri"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.32",
+    "question": "In the given contour map, the angle at 'A' (in degrees, rounded off to two decimal places) is ______\n```\n(Image shows a contour map with contour lines at 210m, 220m, 230m. Point A is on the 210m contour line. Point B is on the 220m contour line. A horizontal line segment from A to a point on the 210m contour is labeled 30m. A line segment from B to a point on the 220m contour is labeled 40m. The question asks for the angle at A, which appears to be an angle formed by the contour line and a line connecting A to a higher contour.)\n```",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.33",
+    "question": "A 1.2 m high window is located on a south facing wall. The solar azimuth angle is equal to the wall azimuth angle and the solar altitude angle is 60°. The minimum depth (in metres, rounded off to two decimal places) of overhang required to completely shade the window is ______\n(Assume that the overhang is located at the lintel level of the window)",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.34",
+    "question": "In the given figure, the area of the shaded portion is ______\n```\n(Image shows a black shape with a white circle in the middle. The black shape is a rectangle of width 2 units and height 1 unit, with two semi-circles of radius 0.5 unit attached to its shorter sides. The white circle in the middle has a diameter of 1 unit.)\n```",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.35",
+    "question": "Average density of a highway is 25 vehicles per km. Average volume of the vehicles on the highway is 520 vehicles per hour. The mean speed (in km/hour, rounded off to one decimal place) is ______",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.36",
+    "question": "Match the terminologies of Munsell colour wheel in Group I with their corresponding descriptions in Group II\n```\nGroup I\n(P) Hue\n(Q) Chroma\n(R) Value\n(S) Tint\n\nGroup II\n(1) Addition of black to the base colour\n(2) Radial colour variation\n(3) Addition of white to the base colour\n(4) Colour variation through angular difference\n(5) Vertical colour variation\n```",
+    "question_type": "MCQ",
+    "options": {
+      "A": "P-2, Q-4, R-5, S-1",
+      "B": "P-4, Q-2, R-5, S-3",
+      "C": "P-4, Q-2, R-3, S-1",
+      "D": "P-2, Q-4, R-1, S-3"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.37",
+    "question": "Match the plant forms in Group I with the botanical names in Group II, as per 'A Handbook of Landscape', CPWD 2013, Government of India\n```\nGroup I\n(P) Columnar\n(Q) Globular\n(R) Weeping\n(S) Pyramidal\n\nGroup II\n(1) Pinus roxburghii\n(2) Ipomoea grandiflora\n(3) Juniperus chinensis\n(4) Salix babylonica\n(5) Mimusops elengi\n```",
+    "question_type": "MCQ",
+    "options": {
+      "A": "P-1, Q-5, R-2, S-3",
+      "B": "P-3, Q-4, R-2, S-1",
+      "C": "P-3, Q-5, R-4, S-1",
+      "D": "P-1, Q-3, R-4, S-5"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.38",
+    "question": "Match the images of gardens in Group I with their names in Group II\n```\nGroup I\n(P) Image of a large, rectangular, formal garden with a central axis, radiating paths, and geometric planting beds. It features a large central water body and symmetrical layout.\n(Q) Image of a terraced garden with a central water channel, fountains, and a large lake at the lowest level. The layout is linear and symmetrical along the central axis.\n(R) Image of a highly intricate formal garden with elaborate parterres de broderie, fountains, and geometric patterns, viewed from above.\n(S) Image of a traditional Japanese garden with a large pond, islands, bridges, and carefully placed rocks and trees, designed for contemplation.\n\nGroup II\n(1) Central Park, New York\n(2) Versailles, Paris\n(3) Nishat Bagh, Srinagar\n(4) Katsura Imperial Garden, Kyoto\n(5) Alhambra Moorish Garden, Granada\n```",
+    "question_type": "MCQ",
+    "options": {
+      "A": "P-5, Q-3, R-1, S-4",
+      "B": "P-3, Q-4, R-1, S-2",
+      "C": "P-1, Q-4, R-3, S-2",
+      "D": "P-3, Q-2, R-4, S-5"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.39",
+    "question": "Match the Architects in Group I with their projects in Group II\n```\nGroup I\n(P) Victor Horta\n(Q) Gerrit Rietvelt\n(R) Mies van der Rohe\n(S) Frank Lloyd Wright\n\nGroup II\n(1) Farnsworth House\n(2) Robie House\n(3) Tassel House\n(4) Schroder House\n(5) Vanna Ventury House\n```",
+    "question_type": "MCQ",
+    "options": {
+      "A": "P-3, Q-4, R-1, S-2",
+      "B": "P-2, Q-5, R-4, S-1",
+      "C": "P-4, Q-3, R-1, S-2",
+      "D": "P-3, Q-4, R-5, S-2"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.40",
+    "question": "Match the graphical representations in Group I with corresponding elements in Group II\n```\nGroup I\n(P) Image of a fountain/circular plaza with radiating streets.\n(Q) Image of a street network with buildings, showing a linear path.\n(R) Image of a river/road winding through a landscape.\n(S) Image of the Eiffel Tower.\n\nGroup II\n(1) Pathway\n(2) Node\n(3) District\n(4) Edge\n(5) Landmark\n```",
+    "question_type": "MCQ",
+    "options": {
+      "A": "P-1, Q-2, R-3, S-5",
+      "B": "P-4, Q-1, R-3, S-2",
+      "C": "P-2, Q-3, R-4, S-5",
+      "D": "P-2, Q-1, R-4, S-5"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.41",
+    "question": "Based on the psychrometric chart given below, match the vector in Group I with the respective process in Group II\n```\n(Image shows a psychrometric chart with Relative Humidity on the y-axis (implicitly Humidity Ratio) and Dry bulb Temperature (Deg. C) on the x-axis. Four vectors are drawn:\nV1: Horizontal arrow pointing right (increasing temperature, constant humidity ratio).\nV2: Arrow pointing up-right (increasing temperature, increasing humidity ratio).\nV3: Arrow pointing up-left (decreasing temperature, increasing humidity ratio).\nV4: Horizontal arrow pointing left (decreasing temperature, constant humidity ratio).)\n\nGroup I\n(P) V1\n(Q) V2\n(R) V3\n(S) V4\n\nGroup II\n(1) Heating and humidification\n(2) Cooling and humidification\n(3) Heating and dehumidification\n(4) Sensible heating\n(5) Humidification\n```",
+    "question_type": "MCQ",
+    "options": {
+      "A": "P-4, Q-1, R-5, S-2",
+      "B": "P-4, Q-3, R-1, S-5",
+      "C": "P-5, Q-3, R-4, S-1",
+      "D": "P-3, Q-1, R-5, S-2"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.42",
+    "question": "Match the software tools in Group I with their primary applications in Group II\n```\nGroup I\n(P) ETabs\n(Q) Carto\n(R) eQuest\n(S) SPSS\n\nGroup II\n(1) Acoustic analysis\n(2) Structural analysis\n(3) Statistical analysis\n(4) Energy simulation\n(5) Geo-spatial analysis\n```",
+    "question_type": "MCQ",
+    "options": {
+      "A": "P-2, Q-5, R-4, S-3",
+      "B": "P-4, Q-1, R-2, S-3",
+      "C": "P-4, Q-5, R-1, S-3",
+      "D": "P-2, Q-4, R-5, S-1"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.43",
+    "question": "Match the structural form in Group I with their corresponding illustration in Group II\n```\nGroup I\n(P) Cylindrical shell\n(Q) Dome\n(R) Conoid\n(S) Hyperbolic paraboloid\n\nGroup II\n(1) Image of a single cylindrical shell structure.\n(2) Image of a conoid structure.\n(3) Image of a hyperbolic paraboloid structure.\n(4) Image of a dome structure.\n(5) Image of a series of cylindrical shell structures.\n```",
+    "question_type": "MCQ",
+    "options": {
+      "A": "P-2, Q-4, R-5, S-1",
+      "B": "P-2, Q-4, R-1, S-5",
+      "C": "P-5, Q-4, R-2, S-1",
+      "D": "P-4, Q-1, R-5, S-2"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.44",
+    "question": "Match the books in Group I with the corresponding authors in Group II\n```\nGroup I\n(P) The Autobiography of an Idea\n(Q) Letters to a Young Architect\n(R) A Pattern Language\n(S) Architecture: Forms, Space and Order\n\nGroup II\n(1) Christopher Charles Benninger\n(2) Sunil Khilnani\n(3) Francis D. K. Ching\n(4) Louis H. Sullivan\n(5) Christopher Alexander\n```",
+    "question_type": "MCQ",
+    "options": {
+      "A": "P-3, Q-2, R-1, S-4",
+      "B": "P-4, Q-1, R-5, S-3",
+      "C": "P-3, Q-1, R-5, S-4",
+      "D": "P-4, Q-2, R-1, S-3"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.45",
+    "question": "Match the names of tactile paving in Group I with their patterns in Group II\n```\nGroup I\n(P) Lozenge\n(Q) Offset blister\n(R) Corduroy\n(S) Directional\n\nGroup II\n(1) Image of paving with parallel raised lines (corduroy).\n(2) Image of paving with offset raised blisters.\n(3) Image of paving with diamond/lozenge shaped raised patterns.\n(4) Image of paving with parallel raised bars (directional).\n(5) Image of paving with regular grid of raised blisters.\n```",
+    "question_type": "MCQ",
+    "options": {
+      "A": "P-4, Q-2, R-3, S-1",
+      "B": "P-3, Q-5, R-4, S-1",
+      "C": "P-3, Q-2, R-4, S-1",
+      "D": "P-2, Q-5, R-1, S-4"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.46",
+    "question": "Match the name of architects in Group I with the buildings designed by them in Group II\n```\nGroup I\n(P) Brinda Somaya\n(Q) Sheila Sri Prakash\n(R) Revathy Kamath\n(S) Marina Tabassum\n\nGroup II\n(1) Museum of Tribal Heritage, Bhopal\n(2) St. Thomas Cathedral, Mumbai\n(3) Bait-ur-Rauf Mosque, Dhaka\n(4) Indian Naval Academy, Kerala\n(5) Cholamandal Artists' Village, Chennai\n```",
+    "question_type": "MCQ",
+    "options": {
+      "A": "P-3, Q-1, R-4, S-2",
+      "B": "P-2, Q-5, R-1, S-3",
+      "C": "P-2, Q-1, R-4, S-5",
+      "D": "P-4, Q-5, R-1, S-3"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.47",
+    "question": "Match the terms in Group I with the parameters in Group II\n```\nGroup I\n(P) Frontal Area Density\n(Q) Sky View Factor\n(R) Drift Index\n(S) Biotope Factor\n\nGroup II\n(1) Active Green Area\n(2) Urban Density in Third Dimension\n(3) Built Density in Two Dimension\n(4) Lateral Stiffness\n(5) Cross Sectional Property of Urban Canyon\n```",
+    "question_type": "MCQ",
+    "options": {
+      "A": "P-2, Q-5, R-4, S-1",
+      "B": "P-3, Q-2, R-1, S-4",
+      "C": "P-2, Q-3, R-4, S-5",
+      "D": "P-3, Q-4, R-5, S-1"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.48",
+    "question": "Match the structural system in Group I with their potential causes of failure in Group II\n```\nGroup I\n(P) Flat Slab\n(Q) Long Column\n(R) Arch\n(S) Tensile Fabric\n\nGroup II\n(1) Thrust\n(2) Flutter\n(3) Punching Shear\n(4) Buckling\n(5) Moment\n```",
+    "question_type": "MCQ",
+    "options": {
+      "A": "P-3, Q-4, R-1, S-2",
+      "B": "P-1, Q-3, R-5, S-2",
+      "C": "P-2, Q-4, R-1, S-3",
+      "D": "P-3, Q-5, R-4, S-1"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.49",
+    "question": "Match the brick masonry bond type in Group I with the corresponding illustration in Group II\n```\nGroup I\n(P) Rat Trap\n(Q) English\n(R) Flemish\n(S) Stretcher\n\nGroup II\n(1) Image of brick bond with alternating courses of headers and stretchers.\n(2) Image of brick bond with bricks laid on edge, creating cavities.\n(3) Image of brick bond with alternating headers and stretchers in the same course.\n(4) Image of brick bond with all bricks laid as stretchers.\n(5) Image of brick bond with alternating courses of stretchers and headers, similar to (1) but with a different visual representation.\n```",
+    "question_type": "MCQ",
+    "options": {
+      "A": "P-2, Q-1, R-4, S-5",
+      "B": "P-4, Q-1, R-2, S-3",
+      "C": "P-2, Q-5, R-1, S-3",
+      "D": "P-4, Q-1, R-2, S-5"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.50",
+    "question": "Match the characteristics in Group I with the type of settlements in Group II as given in URDPFI Guidelines 2015, Government of India\n```\nGroup I\n(P) Zones of transition from rural to urban land uses located between the outer limits of urban and regional centres and rural environment\n(Q) Towns having potential for investment and development; identified on the basis of their inter-aerial relationship with the regional nodal centre\n(R) Settlements that are growing sub-nodal centres but located out of the direct functionally linked areas of the growth node / nodal centre in the region\n(S) Located near or within reasonable distance, well connected by transportation route of the growth node or metropolitan city and dependent on growth node largely for employment\n\nGroup II\n(1) Counter-Magnets\n(2) Satellite Towns\n(3) Peri-Urban Areas\n(4) Priority Towns\n(5) Statutory Towns\n```",
+    "question_type": "MCQ",
+    "options": {
+      "A": "P-4, Q-3, R-1, S-5",
+      "B": "P-3, Q-5, R-1, S-4",
+      "C": "P-3, Q-5, R-2, S-4",
+      "D": "P-3, Q-4, R-1, S-2"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.51",
+    "question": "A population of 2500 persons requires a minimum area of 3000 m² for primary schools. For the population in four different sectors given in the table below, the Sector having maximum shortage of school area per person is ______\n```\nSector | Population | Number of existing schools | Existing area of each school (m²)\n---|---|---|---\n1 | 20000 | 5 | 2000\n2 | 15000 | 4 | 4500\n3 | 12500 | 2 | 2500\n4 | 10000 | 4 | 1500\n```",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.52",
+    "question": "Number of married couples in a household along with number of rooms (for a household) are given in the table. Assuming each married couple needs one separate room, the total number of additional rooms required for them is ______\n```\nNumber of Married couples in a household | Number of households with\n| 1 Room | 2 Room | 3 Room\n---|---|---|---\n0 | 2500 | 450 | 100\n1 | 4700 | 3000 | 2000\n2 | 3600 | 5500 | 1100\n3 | 432 | 750 | 400\n```",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.53",
+    "question": "In a residential complex, the central play area is to be converted as a detention pond for storm water management. For a 24 hour rainfall event of 100 mm, 100% storm water of central play area and 70% storm water run-off from rest of the complex is to be held at the detention pond. Area distribution in the residential complex is given in the table.\n```\nType | Area (m²) | Run-off coefficient\n---|---|---|---\nApartment Blocks | 1250 | 0.80\nCentral Play Area | 150 | 0.60\nOther Permeable Areas | 200 | 0.70\nOther Impermeable Areas | 400 | 0.90\n```\nThe required depth of the detention pond (in mm) is ______",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.54",
+    "question": "In the plot shown below, 'S1' and 'S2' are two non-directional point sources, having a sound intensity level of 95 dB and 60 dB, respectively, at a distance of 1 m from each point source. Considering free field conditions, the effective sound intensity level at the receiver location 'R' (in dB, rounded off to two decimal places) is ______\n```\n(Image shows a layout with two roads, S1 and S2 as sound sources, and R as a receiver.\nS1 is 9.0m from R.\nS2 is 9.0m from R.\nS1 and S2 are on opposite sides of R, with R in the middle.)\n```",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.55",
+    "question": "A room measures $5m \\times 10m \\times 3m$ (LxBxH). Consider the following conditions,\nTotal solar radiation incident on the roof surface = $800 W/m^2$\nOutdoor air temperature = $40^\\circ C$\nOutside film coefficient of the roof surface = $18 W/m^2$\nThe outdoor mean radiant temperature is equal to outdoor air temperature\n\nThe minimum reduction required in solar absorptance of the roof (rounded off to two decimal places) to achieve a $20^\\circ$ reduction in sol-air temperature is ______",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.56",
+    "question": "The activity duration, early start, early finish, late start and late finish of the three activities 'P', 'Q' and 'R' are shown in the following figure. The independent float of activity 'Q' is ______\n```\n(Image shows a network diagram for activities P, Q, R.\nP: Duration 7, Early Start 2, Early Finish 9, Late Start 8, Late Finish 15.\nQ: Duration 6, Early Start 9, Early Finish 15, Late Start 21, Late Finish 27.\nR: Duration 5, Early Start 22, Early Finish 27, Late Start 27, Late Finish 32.)\n```",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.57",
+    "question": "A square based regular pyramid has all sides equal to 10 units. Its height (in the same units, rounded off to two decimal places) is ______",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.58",
+    "question": "A parking area measuring $52 m \\times 4.67 m$ is approached through a driveway as shown in the given illustration. The parking is designed at an angle of $30^\\circ$ with the parking bay of $2.5m \\times 5m$.\n```\n(Image shows a parking area.\nTotal length = 52.00m. Total width = 4.67m.\nParking bays are angled at 30 degrees.\nBay dimensions are 2.50m (width perpendicular to bay length) and 5.00m (length of bay).\nThe image shows two bays, 1 and 2, with 30 degree angle indicated.)\n```\nThe number of cars that can be parked in the designated parking area considering no car overshoots the length of the parking area is ______",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.59",
+    "question": "Plan and section of an isolated foundation is given below. The volume of concrete up to Ground Level (GL) (in $m^3$, rounded off to two decimal places) is ______\n```\n(Image shows a section A-A and a Plan view of an isolated foundation.\nSection A-A:\nTop rectangle: 1.25m wide, 0.25m high.\nMiddle trapezoid: Top width 1.25m, bottom width 0.50m, height 0.50m.\nBottom rectangle: 0.50m wide, 0.40m high.\nGL is at the top of the 0.25m high rectangle.\nPlan:\nA square base of 1.25m x 1.25m.\nA smaller square of 0.20m x 0.20m in the center. The plan shows the top of the foundation, which is 1.25m x 1.25m. The central 0.20m x 0.20m square is likely a column base.)\n```",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.60",
+    "question": "Top floor of a 25 story building is using a flush valve system with a minimum fixture pressure of $1.0 kg/cm^2$. If static pressure increases by $0.3 kg/cm^2$ per metre length and friction loss is zero, then height of bottom of the water tank from the top fixture (in metres, rounded off to two decimal places) is ______",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.61",
+    "question": "In a single phase alternate current circuit, an electric lamp is rated 100 watts. If 220 volts is impressed on it and the power factor is 0.85, the energy (in watt hour, rounded off to one decimal place) delivered in an hour is ______",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.62",
+    "question": "A simply supported RCC beam of cross section $0.4 m \\times 0.6 m$ covers a span of $8 m$. It is subjected to a uniformly distributed load of $30 kN/m$. If the unit weight of concrete is $24 kN/m^3$, the tensile stress (in $N/mm^2$, rounded off to two decimal places) at the bottom of the beam at mid-span is ______",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.63",
+    "question": "A basement wall resists lateral pressure exerted by soil and water. The soil pressure amounts to $4.5 kN/m^2$ for every metre of depth below Ground Level (GL). The sub-soil water level is $1.0 m$ below GL and hydrostatic pressure of water is $9.8 kN/m^2$ for every metre of depth below GL. The total lateral pressure (in $kN/m^2$, rounded off to one decimal place) exerted on the wall $2 m$ below GL is ______\n```\n(Image shows a basement wall. GL (Ground Level) is at the top. Sub-soil Water Lvl. is 1.0m below GL. The question asks for pressure at 2m below GL.)\n```",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.64",
+    "question": "Assuming that the population growth trend given in the table will continue, the population (in persons) for the year 2031 will be ______\n```\nS.No. | Year | Population (in persons)\n---|---|---|---\n1 | 1981 | 1,30,440\n2 | 1991 | 1,69,572\n3 | 2001 | 2,20,444\n4 | 2011 | 2,86,577\n```",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.65",
+    "question": "A developer would like to select a residential plot of $3000 m^2$ for group housing in a city. Different options with varying development controls are given. In every group housing plot, 15% of the Floor Area Ratio (FAR) over and above the maximum permissible FAR has to be utilized for Economically Weaker Section (EWS) units. The maximum built-up area (in $m^2$) available from the options given below is ______\n```\nArea | Ground Coverage (%) | FAR\n---|---|---|---\n1 | 30 | 1.5\n2 | 20 | 2.0\n3 | 40 | 2.0\n4 | 15 | 3.0\n```",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  }
+]

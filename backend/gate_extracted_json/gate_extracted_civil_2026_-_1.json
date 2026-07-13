@@ -1,0 +1,722 @@
+[
+  {
+    "question_number": "Q.1",
+    "question": "'The team ______ more than 300 runs in 20 overs ______ rains. However, some players needed to improve their batting skills.' Choose the option with the correct sequence of words to fill the blanks.",
+    "question_type": "MCQ",
+    "options": {
+      "A": "score; despite",
+      "B": "scoring; instead of",
+      "C": "scored; despite",
+      "D": "scoring; in spite of"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.2",
+    "question": "If a positive real $x$ satisfies the following equation $\\log_2 x + \\log_{\\sqrt{2}} x = 48$, then the value of $x$ is",
+    "question_type": "MCQ",
+    "options": {
+      "A": "$2^{16}$",
+      "B": "$4^{16}$",
+      "C": "$2^{14}$",
+      "D": "$4^{14}$"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.3",
+    "question": "The next figure (indicated by '?') in the sequence is\n\nFigure sequence description:\nFigure 1: A 3x3 grid with a triangle in the top-left cell, a circle in the center cell, and a square in the bottom-right cell.\nFigure 2: A 3x3 grid with a triangle in the top-center cell, a circle in the center-left cell, and a square in the bottom-center cell.\nFigure 3: A 3x3 grid with a triangle in the top-right cell, a circle in the center-right cell, and a square in the bottom-left cell.",
+    "question_type": "MCQ",
+    "options": {
+      "A": "A 3x3 grid with a triangle in the top-left cell, a circle in the center cell, and a square in the bottom-right cell.",
+      "B": "A 3x3 grid with a triangle in the top-left cell and a circle in the center-right cell.",
+      "C": "A 3x3 grid with a triangle in the top-center cell and a circle in the center-left cell.",
+      "D": "A 3x3 grid with a triangle in the top-right cell and a circle in the bottom-left cell."
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.4",
+    "question": "'All the mangoes in the basket are good.' If the above statement is false, then which one of the following statements is necessarily true?",
+    "question_type": "MCQ",
+    "options": {
+      "A": "All the mangoes in the basket are not good.",
+      "B": "No mango in the basket is good.",
+      "C": "In the basket, some of the mangoes are good and some are not good.",
+      "D": "There exists at least one mango in the basket that is not good."
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.5",
+    "question": "Consider the following statements about four numbers:\n(S1) The average of the four numbers is 25\n(S2) Each number is at most 40\n(S3) Each number is at least 20\nChoose the option that is necessarily correct.",
+    "question_type": "MCQ",
+    "options": {
+      "A": "(S1) and (S2) together imply (S3)",
+      "B": "(S2) and (S3) together imply (S1)",
+      "C": "(S1) and (S3) together imply (S2)",
+      "D": "(S1) implies (S3)"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.6",
+    "question": "'People are crowding around ______ pit into which ______ elephant has fallen. I have never seen ______ elephant looking more bewildered ______ miserable. Here it is in ______ most undignified position, thrust into a pit and made to look up ______ a vast, curiosity-stricken crowd.' Choose the option with the correct sequence of words to fill the blanks.",
+    "question_type": "MCQ",
+    "options": {
+      "A": "an; a; at; and",
+      "B": "a; an; and; at",
+      "C": "and; a; an; at",
+      "D": "at; a; an; and"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.7",
+    "question": "The table lists the unit selling price of five products P, Q, R, S, and T. On a particular day, 250 items were sold with the average selling price of Rs. 60. The following observations were made:\n(i) The quantity of S sold was twice that of T.\n(ii) The quantity of R sold was thrice that of T.\n(iii) The quantity of Q sold was four times that of T.\nWhat is the quantity of product P sold on that day?\n```\nProduct | P | Q | R | S | T\n---|---|---|---|---|---\nUnit selling price (Rs.) | 100 | 50 | 40 | 60 | 60\n```",
+    "question_type": "MCQ",
+    "options": {
+      "A": "40",
+      "B": "50",
+      "C": "60",
+      "D": "70"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.8",
+    "question": "Consider a string P of length $l$ that is laid out as a straight-line segment. Another string K is laid out as a semicircular arc with string P as its diameter, as represented in Figure (i). When both the strings are shortened by a length $x$ they can be re-arranged such that the shortened string K forms a full circle with the shortened string P as its diameter, as represented in Figure (ii). The value of $x/l$ is",
+    "question_type": "MCQ",
+    "options": {
+      "A": "$\\pi$",
+      "B": "$\\frac{\\pi-1}{2\\pi}$",
+      "C": "$\\frac{\\pi}{2(\\pi-1)}$",
+      "D": "$\\frac{\\pi}{\\pi-1}$"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.9",
+    "question": "The Roman senator Meritorius, his brother, his son, and his daughter have varying oratory skill levels. They are seated in rows and columns as shown in the figure with exactly one person sitting in each box. It is known that\n(i) Meritorius' daughter and his brother are seated in the same column.\n(ii) His son is seated diagonally across the sibling of the worst orator.\n(iii) The best and worst orators are seated in the same row.\nWho is the best orator?\n```\nSeating Arrangement\n          Column 1   Column 2\nRow 1\nRow 2\n```",
+    "question_type": "MCQ",
+    "options": {
+      "A": "Meritorius",
+      "B": "Meritorius' brother",
+      "C": "Meritorius' son",
+      "D": "Meritorius' daughter"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.10",
+    "question": "Which one of the patterns labelled P, Q, R, and S is used to generate the following figure?\n\nMain figure description: A large tessellated pattern composed of repeating smaller square units of black and white pixels.\n\nOptions are 5x5 grids of black and white pixels:\n(A) P: A 5x5 grid. Black squares form a central 3x3 block, plus one black square above the center of the top row, one below the center of the bottom row, one to the left of the center of the left column, and one to the right of the center of the right column.\n(B) Q: A 5x5 grid. Black squares form a central 3x3 block, plus one black square in each of the four corners (top-left, top-right, bottom-left, bottom-right) of the 5x5 grid.\n(C) R: A 5x5 grid. Black squares form a central 3x3 block, plus one black square in the top-center, bottom-center, left-center, and right-center positions of the 5x5 grid.\n(D) S: A 5x5 grid. Black squares form a central 3x3 block, plus one black square in each of the four corners AND in the top-center, bottom-center, left-center, and right-center positions of the 5x5 grid.",
+    "question_type": "MCQ",
+    "options": {
+      "A": "P",
+      "B": "Q",
+      "C": "R",
+      "D": "S"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.11",
+    "question": "Matrix A has the eigenvalues 1, 2, and 3. The Trace of $A^2$ is",
+    "question_type": "MCQ",
+    "options": {
+      "A": "6",
+      "B": "14",
+      "C": "20",
+      "D": "8"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.12",
+    "question": "A fifth-degree polynomial in $x$ is defined for $x > 0$. All coefficients of the polynomial are positive. The first derivative of the polynomial is obtained numerically at a point by using the first-order forward as well as the first-order backward difference methods. Identical step lengths are used for both the methods. Following statements are made.\n(I) Forward difference method underestimates the true derivative.\n(II) Backward difference method overestimates the true derivative.\nWhich one of the following options is CORRECT?",
+    "question_type": "MCQ",
+    "options": {
+      "A": "Both statements (I) and (II) are FALSE.",
+      "B": "Both statements (I) and (II) are TRUE.",
+      "C": "Statement (I) is TRUE and statement (II) is FALSE.",
+      "D": "Statement (I) is FALSE and statement (II) is TRUE."
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.13",
+    "question": "Periodic function $f(x)$ is given below.\n$f(x) = \\begin{cases} -1, & \\text{when } -\\pi < x < 0 \\\\ 1, & \\text{when } 0 < x < \\pi \\end{cases}$; $f(x + 2\\pi) = f(x)$\nThe CORRECT option representing the Fourier series expansion of $f(x)$ is:",
+    "question_type": "MCQ",
+    "options": {
+      "A": "$f(x) = \\frac{4}{\\pi} \\left[\\sin x + \\frac{\\sin 3x}{3} + \\frac{\\sin 5x}{5} + \\dots\\right]$",
+      "B": "$f(x) = -\\frac{4}{\\pi} \\left[\\sin x + \\frac{\\sin 3x}{3} + \\frac{\\sin 5x}{5} + \\dots\\right]$",
+      "C": "$f(x) = 1 + \\frac{4}{\\pi} \\left[\\sin x + \\frac{\\sin 3x}{3} + \\frac{\\sin 5x}{5} + \\dots\\right]$",
+      "D": "$f(x) = 1 - \\frac{4}{\\pi} \\left[\\sin x + \\frac{\\sin 3x}{3} + \\frac{\\sin 5x}{5} + \\dots\\right]$"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.14",
+    "question": "A rectangular singly reinforced concrete beam has a width of 300 mm and an effective depth of 550 mm. The grades of steel and concrete are Fe500 and M25, respectively. The area of steel in tension is 1963 mm$^2$. The depth of neutral axis is 302 mm. The ratio of the limiting depth of the neutral axis ($x_{u,max}$) to the effective depth ($d$) of the beam is 0.456. The most probable mode of failure of the beam is",
+    "question_type": "MCQ",
+    "options": {
+      "A": "compression failure",
+      "B": "bond failure",
+      "C": "shear failure",
+      "D": "ductile failure"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.15",
+    "question": "As per IS:800-2007, design of a cantilever steel beam section for its moment capacity requires fulfilment of an upper bound, expressed as: $M_d \\le 1.5 Z_e \\frac{f_y}{\\gamma_{m0}}$ The reason for such upper bound is to",
+    "question_type": "MCQ",
+    "options": {
+      "A": "control deflection",
+      "B": "restrain lateral-torsional buckling",
+      "C": "avoid plastic deformation under working load",
+      "D": "avoid yielding at ultimate load"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.16",
+    "question": "A plane strain problem (in X-Y plane) must satisfy the condition:",
+    "question_type": "MCQ",
+    "options": {
+      "A": "$\\sigma_{zz} = 0$",
+      "B": "$\\epsilon_{zz} = \\epsilon_{xz} = \\epsilon_{yz} = 0$",
+      "C": "$\\sigma_{xx} \\ne \\sigma_{xy} \\ne \\sigma_{xz} \\ne 0$",
+      "D": "$\\epsilon_{xx} \\ne \\epsilon_{yy} \\ne \\epsilon_{xy} \\ne 0$"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.17",
+    "question": "Which one of the following stress conditions represents the state of pure shear stress?",
+    "question_type": "MCQ",
+    "options": {
+      "A": "A square element with normal stresses of 40 units acting outwards on all four faces. No shear stresses are shown.",
+      "B": "A square element with normal stresses of 40 units acting outwards on the top and bottom faces. Shear stresses of 40 units are shown on all four faces, acting clockwise.",
+      "C": "A square element with normal stresses of 40 units acting outwards on the left and right faces. Shear stresses of 40 units are shown on all four faces, acting clockwise.",
+      "D": "A square element with no normal stresses. Shear stresses of 40 units are shown on all four faces, acting clockwise."
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.18",
+    "question": "The horizontal beam shown in the figure has fixed supports at F and L. Internal hinges are provided at locations G and J. The beam supports vertically downward concentrated loads as well as uniformly distributed loads, as shown in the figure. The upward vertical reaction (in kN) at the support L is\n\nFigure description: A beam F-G-H-J-K-L with fixed supports at F and L, and internal hinges at G and J. Loads include a 5 kN/m UDL from F to G, a 20 kN point load at G, a 30 kN point load at H, and a 4 kN/m UDL from K to L. The segment lengths are: F-G = 4m, G-H = 2m, H-J = 2m, J-K = 2m, K-L = 2m.",
+    "question_type": "MCQ",
+    "options": {
+      "A": "23",
+      "B": "33",
+      "C": "43",
+      "D": "58"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.19",
+    "question": "The Culturable Command Area (CCA) for a canal is 10000 hectares. The base period for a crop in the CCA is 140 days. Watering depth for the crop is 40 cm. The outlet discharge (in m$^3$/s) lies between",
+    "question_type": "MCQ",
+    "options": {
+      "A": "3 and 4",
+      "B": "13 and 14",
+      "C": "23 and 24",
+      "D": "33 and 34"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.20",
+    "question": "Following statements are made with respect to the mass curve of rainfall:\n(I) Slope at a point on the curve can be positive.\n(II) Slope at a point on the curve can be zero.\nWhich one of the following options is CORRECT?",
+    "question_type": "MCQ",
+    "options": {
+      "A": "Both statements (I) and (II) are TRUE.",
+      "B": "Both statements (I) and (II) are FALSE.",
+      "C": "Statement (I) is TRUE and statement (II) is FALSE.",
+      "D": "Statement (I) is FALSE and statement (II) is TRUE."
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.21",
+    "question": "Based on the Casagrande's plasticity chart, plasticity index (in %) of inorganic clays having a liquid limit of 40 %, ranges between",
+    "question_type": "MCQ",
+    "options": {
+      "A": "18.0 and 28.8",
+      "B": "14.6 and 28.8",
+      "C": "14.6 and 23.4",
+      "D": "18.0 and 43.8"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.22",
+    "question": "Information related to foundation design is provided in table below. Option giving the CORRECT match between Column 1 and Column 2 is:\n```\nColumn 1 | Column 2\n---|---\n(I) Converse-Labarre formula | (P) Pile capacity from dynamic formula\n(II) Hiley formula | (Q) Pile group efficiency\n(III) Newmark's influence chart | (R) Bearing capacity factor of saturated clay\n(IV) Skempton's equation | (S) Increase in vertical stress below footing\n```",
+    "question_type": "MCQ",
+    "options": {
+      "A": "(I) – (Q) ; (II) – (P) ; (III) – (S) ; (IV) – (R)",
+      "B": "(I) – (R) ; (II) – (S) ; (III) – (Q) ; (IV) – (P)",
+      "C": "(I) – (P) ; (II) – (Q) ; (III) – (S) ; (IV) – (R)",
+      "D": "(I) – (R) ; (II) – (S) ; (III) – (P) ; (IV) – (Q)"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.23",
+    "question": "An incident occurred on one side of a median on a four-lane dual carriageway road section. This incident disrupted the traffic movement in one direction. Traffic police diverted the traffic from disrupted side to the other side through an opening in a median. The desired sight distance on the four-lane dual carriageway was kept as 360 m under normal conditions. The Stopping Sight Distance (SSD, in m), which should be available on the operating road section after the incident, is",
+    "question_type": "MCQ",
+    "options": {
+      "A": "360",
+      "B": "240",
+      "C": "180",
+      "D": "720"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.24",
+    "question": "Which one of the following statements is TRUE?",
+    "question_type": "MCQ",
+    "options": {
+      "A": "Cant deficiency is related to train moving faster, and Cant excess is related to train moving slower.",
+      "B": "Cant deficiency is related to train moving slower, and Cant excess is related to train moving faster.",
+      "C": "Cant deficiency is related to train moving on the main line, and Cant excess is related to train moving on the branch line.",
+      "D": "Cant deficiency is related to train moving on the branch line, and Cant excess is related to train moving on the main line."
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.25",
+    "question": "The primary purpose of the Windrose diagram is for the design of",
+    "question_type": "MCQ",
+    "options": {
+      "A": "length of a runway.",
+      "B": "orientation of a runway.",
+      "C": "width of a runway.",
+      "D": "gradient of a runway."
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.26",
+    "question": "Which one of the following statements is TRUE with respect to levelling survey?",
+    "question_type": "MCQ",
+    "options": {
+      "A": "A level surface at all points is normal to the direction of the force of gravity.",
+      "B": "Two level surfaces can cross each other.",
+      "C": "Ellipsoid is an irregular surface approximating the physical surface of the Earth.",
+      "D": "Geoid is a regular surface approximating the physical surface of the Earth."
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.27",
+    "question": "Column I presents common air pollutants, and column II presents treatment technologies commonly employed to control air pollutants. The option that CORRECTLY matches the air pollutant with its treatment technology is:\n```\nAir pollutant | Treatment technology\n---|---\n1 Dust (size 5-25 μm) | P Cyclone separator\n2 Carbon monoxide (CO) | Q Wet lime-water scrubber\n3 Sulfur dioxide (SO2) | R Electrostatic precipitator\n4 Fly ash (size < 2.5 µm) | S Catalytic converter\n```",
+    "question_type": "MCQ",
+    "options": {
+      "A": "1-P; 2-S; 3-Q; 4-R",
+      "B": "1-P; 2-R; 3-S; 4-Q",
+      "C": "1-R; 2-Q; 3-P; 4-S",
+      "D": "1-R; 2-Q; 3-S; 4-P"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.28",
+    "question": "One-third of the solid matter in a sludge containing 90 % water is composed of fixed mineral solids with specific gravity 2.5, and two-third is composed of volatile solids with specific gravity 1.0. Specific gravity of all solids lies between",
+    "question_type": "MCQ",
+    "options": {
+      "A": "1.2 and 1.3",
+      "B": "1.5 and 1.6",
+      "C": "1.7 and 1.8",
+      "D": "2.0 and 2.1"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.29",
+    "question": "The grown algae are useful in the operation of",
+    "question_type": "MCQ",
+    "options": {
+      "A": "oxidation pond.",
+      "B": "slow sand filter.",
+      "C": "cyclone separator.",
+      "D": "septic tank."
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.30",
+    "question": "A partial differential equation is given below. $\\frac{\\partial^2 u}{\\partial x^2} - \\frac{\\partial^2 u}{\\partial y^2} = 0$ Possible solution(s) is/are:",
+    "question_type": "MCQ",
+    "options": {
+      "A": "$(x + y)^5$",
+      "B": "$(x – 2y)^3$",
+      "C": "$\\cos(x + y)$",
+      "D": "$\\sin(x – 2y)$"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.31",
+    "question": "The eigenvalues of $[A] = \\begin{bmatrix} 2 & -3.5 & 6 \\\\ 5 & 2 & 2 \\\\ 8 & 1 & 8.5 \\end{bmatrix}$ are $\\lambda_1 = -1.547$, $\\lambda_2 = 12.330$, and $\\lambda_3 = 4.711$. The absolute value of the determinant of matrix A is ______ (rounded off to two decimal places).",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.32",
+    "question": "The probability (in %) that a storm having return period of 15 years may occur in the next 10 years is ______ (rounded off to two decimal places).",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.33",
+    "question": "A fully saturated sandy soil deposit has water content 20 % and specific gravity 2.65. The critical hydraulic gradient for seepage through the soil to create the quicksand condition is ______ (rounded off to two decimal places).",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.34",
+    "question": "A downgrade of 1 in 100 meets an upgrade of 1 in 125 on a road. If the rate of change of grade is 0.10 % per 30 m, the length (in m) of the vertical curve between the two grades is ______ (rounded off to the nearest integer).",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.35",
+    "question": "A tourist visiting a city holds a map prepared at a scale of 1:25000. The tourist measures the distance between place A and place B in the city as 12.0 cm on the map. Assuming both the places are connected by a straight road, the distance (in km) the tourist needs to walk from A to B is ______ (rounded off to the nearest integer).",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.36",
+    "question": "Let $f(x) = \\begin{vmatrix} x^3 & \\sin x & \\cos x \\\\ 6 & -1 & 0 \\\\ p & p^2 & p^3 \\end{vmatrix}$ where $p$ is a constant. The value of $\\frac{d^3}{dx^3} f(x)$ at $x = 0$ is",
+    "question_type": "MCQ",
+    "options": {
+      "A": "$6 p^3$",
+      "B": "$p + p^2$",
+      "C": "$p + p^3$",
+      "D": "independent of $p$"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.37",
+    "question": "Vector field $\\vec{V}$ is defined as $\\vec{V} = 3x^2yz \\hat{i} – 5xy \\hat{j} + 6yz^2 \\hat{k}$ The curl of $\\vec{V}$ at point $(2,-1,1)$ is",
+    "question_type": "MCQ",
+    "options": {
+      "A": "$6\\hat{i} – 12\\hat{j} – 7\\hat{k}$",
+      "B": "$-12\\hat{i} – 10\\hat{j} – 12\\hat{k}$",
+      "C": "$-34$",
+      "D": "$\\begin{bmatrix} -12 & 12 & -12 \\\\ 5 & -10 & 0 \\\\ 0 & 6 & -12 \\end{bmatrix}$"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.38",
+    "question": "A simply supported, linearly elastic, homogeneous, prismatic beam of length L and flexural rigidity EI is shown in the figure. The expression for the Influence Line Diagram (ILD) of the rotation $\\theta_B(x)$ at the support B is\n\nFigure description: A simply supported beam of length L, labeled A at the left support and B at the right support. A downward point load is indicated at a distance x from support A. The rotation $\\theta_B(x)$ at support B is also indicated.",
+    "question_type": "MCQ",
+    "options": {
+      "A": "$\\frac{1}{6EI} (x^2 – L^2)$",
+      "B": "$\\frac{1}{6EIL} (x^3 – L^2x)$",
+      "C": "$\\frac{1}{3EI} (x^2 – Lx)$",
+      "D": "$\\frac{1}{3EIL} (x^3 – L^2x)$"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.39",
+    "question": "The plane truss shown in the figure is hinge-supported at E and F. The truss is subjected to vertical downward force at R and horizontal force at G. The force (in kN) along with its nature in member JF is\n\nFigure description: A plane truss with nodes M, N, R, S, H, I, J, K, E, T, U, V, F. Hinge supports are at E and F. A horizontal force of 40 kN acts at G, and a vertical downward force of 20 kN acts at R. All horizontal and vertical member lengths are 3m.",
+    "question_type": "MCQ",
+    "options": {
+      "A": "$10\\sqrt{2}$ compression",
+      "B": "$10\\sqrt{2}$ tension",
+      "C": "$25\\sqrt{2}$ compression",
+      "D": "$25\\sqrt{2}$ tension"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.40",
+    "question": "Consider the following statements with respect to rigid pavements:\nStatement-1: Bottom-up cracking (BUC) in rigid pavements is caused at the edge of the slab due to combined effect of single or tandem rear axle load and positive temperature differential.\nStatement-2: Top-down fatigue cracking (TDC) in rigid pavements is caused due to repeated cycles of axle loads and negative temperature differential.\nThe CORRECT option is:",
+    "question_type": "MCQ",
+    "options": {
+      "A": "Both statements are TRUE.",
+      "B": "Statement-1 is TRUE, but Statement-2 is FALSE.",
+      "C": "Statement-1 is FALSE, but Statement-2 is TRUE.",
+      "D": "Both statements are FALSE."
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.41",
+    "question": "For the traverse given below, the benchmark is at ground point L. The Reduced Level (RL) of L is 150.000 m. The direction of the traverse is from L to N. The readings on levelling staff using the same levelling instrument kept at Stations S1 and S2 during the traversing are shown in the figure. Matching the information given under Column 1 and Column 2, which one of the following options is CORRECT?\n\nFigure description: A levelling setup showing staff readings. At station L, staff reading is 1.5 m. At station M, staff reading is 2.0 m (from S1) and 1.8 m (from S2). At station N, staff reading is 1.0 m (from S2).\n```\nColumn 1 | Column 2\n---|---\n(I) Sum of Back Sights | (P) 3.300 m\n(II) Sum of Fore Sights | (Q) 2.500 m\n(III) RL of Point N | (R) 150.300 m\n| (S) 3.000 m\n| (T) 150.500 m\n```",
+    "question_type": "MCQ",
+    "options": {
+      "A": "(I) – (P) ; (II) – (S) ; (III) – (R)",
+      "B": "(I) – (P) ; (II) – (Q) ; (III) – (R)",
+      "C": "(I) – (S) ; (II) – (P) ; (III) – (T)",
+      "D": "(I) – (S) ; (II) – (Q) ; (III) – (T)"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.42",
+    "question": "The 2.4 ml of raw sewage is diluted to 240 ml. The Dissolved Oxygen (DO) of the diluted sample at the beginning of Biochemical Oxygen Demand (BOD) test was 8 mg/l and it was 6 mg/l after 5-day incubation at 20 °C. The BOD$_5$ (in mg/l) of the raw sewage is",
+    "question_type": "MCQ",
+    "options": {
+      "A": "200",
+      "B": "100",
+      "C": "250",
+      "D": "150"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.43",
+    "question": "Types of flood routing and methods are given in the table below. Option(s) giving the CORRECT match(es) between Column 1 and Column 2 is/are:\n```\nColumn 1 | Column 2\nType of Flood Routing | Method\n---|---\n(P) Hydrologic routing | (i) Muskingum method\n(Q) Hydraulic routing | (ii) Modified Pul's method\n(R) Reservoir routing | (iii) Method of Characteristics\n(S) Channel routing |\n```",
+    "question_type": "MSQ",
+    "options": {
+      "A": "(P) – (i) ; (Q) – (iii) ; (R) – (ii)",
+      "B": "(Q) – (i) ; (R) – (iii) ; (S) – (ii)",
+      "C": "(P) – (i) ; (R) – (ii) ; (S) – (i)",
+      "D": "(P) – (ii) ; (Q) – (iii) ; (R) – (ii)"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.44",
+    "question": "A shallow footing is subjected to a vertical load. Within the elastic limit of the underlying soil, the TRUE statement(s) is/are:",
+    "question_type": "MSQ",
+    "options": {
+      "A": "Vertical displacement below a rigid shallow footing is uniform in clay as well as sand.",
+      "B": "Vertical contact pressure below a rigid shallow footing is uniform in clay as well as sand.",
+      "C": "Vertical displacement below a flexible shallow footing is uniform in clay as well as sand.",
+      "D": "Vertical contact pressure below a flexible shallow footing is uniform in clay as well as sand."
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.45",
+    "question": "Which of the following statements is/are TRUE with respect to the type of stresses to be considered for the design of rigid pavements?",
+    "question_type": "MSQ",
+    "options": {
+      "A": "Warping stress due to temperature differential between the top and bottom of the pavement slab as a result of daily variation in temperature",
+      "B": "Frictional stress due to the overall increase or decrease in temperature of the pavement slab as a result of seasonal variation in temperature",
+      "C": "Critical stress obtained as the maximum of the wheel load stress, the warping stress, and the frictional stress",
+      "D": "Critical stress obtained as the sum of wheel load stresses at edge, interior, and corner of the pavement slab"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.46",
+    "question": "Consider differential equation $\\frac{dy}{dx} + xy = x$ with the condition as $y = 0$ at $x = 0$. The value of $y$ at $x = 1.0$ is ______ (rounded off to two decimal places).",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.47",
+    "question": "The age (in years) of a population is normally distributed with a mean of 36 and standard deviation of 12. The height (in cm) of the same population is also normally distributed with a mean of 160 and standard deviation of 10. If the probability of age greater than 50 years is equal to the probability of height greater than $h$, the value of $h$ (in cm) is ______ (rounded off to two decimal places).",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.48",
+    "question": "A 250 mm wide $\\times$ 600 mm deep rectangular concrete beam is prestressed by means of 4 high-tensile tendons, each of 14 mm diameter. The centre of the tendons is 200 mm from the soffit of the beam. The effective stress in each tendon is 700 N/mm$^2$. The maximum bending moment (in kN-m), that can be applied to the section without causing tension at the soffit of the beam due to prestressing only, is ______ (rounded off to one decimal place). Use $\\pi = 3.14$",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.49",
+    "question": "A rigid-jointed portal frame, shown in the figure, consists of beam and columns of equal length L. The frame has a fixed support at one end and a roller support at the other end. The frame is subjected to a uniformly distributed load $w$ and a lateral load $P$ as shown in the figure. The plastic moment capacity of the beam and column sections is $M_p$. Consider a combined beam-column mechanism for plastic collapse. By applying the virtual work equation corresponding to the combined plastic collapse mechanism, $M_p$ is expressed as $M_p = C_1PL + C_2wL^2$ where $C_1$ and $C_2$ are constants. The value of $(C_1/C_2)$ is ______ (in integer).\n\nFigure description: A portal frame with a fixed support at the base of the left column and a roller support at the base of the right column. The beam and columns all have length L. A uniformly distributed load $w$ acts downwards on the beam. A lateral load $P$ acts horizontally on the left column at the level of the beam.",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.50",
+    "question": "Linearly elastic, homogeneous, uniform bars BCD and FG shown in the figure have fixed supports at B and G, respectively. For both the bars, axial rigidity is 20000 kN. A gap of 2 mm exists between D and F prior to application of any load (i.e. P = 0). Small deformation and infinitesimal strain assumptions are valid for the given bars. The magnitude of the horizontal reaction (in kN) at B after application of the axial force P of 20 kN at C is ______ (rounded off to the nearest integer).\n\nFigure description: Two horizontal bars. Bar BCD has fixed support at B. Bar FG has fixed support at G. There is a 2 mm gap between D and F. A point load P of 20 kN is applied at C. Lengths are BC = 5m, CD = 5m, FG = 5m.",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.51",
+    "question": "A simply-supported rectangular reinforced concrete beam has a width 250 mm and an overall depth 600 mm. The effective span of the beam is 6.23 m. The beam carries a live load of 5 kN/m and super imposed dead load of 5 kN/m, in addition to its own weight. The unit weight of reinforced concrete is 25 kN/m$^3$. Consider the load factor of 1.5 for all stated loads. The design bending moment (in kN-m) for the limit state of collapse is ______ (rounded off to two decimal places).",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.52",
+    "question": "Width (in m) of a rectangular channel required to carry a discharge of 96 m$^3$/s at a critical depth of 9.8 m is ______ (rounded off to two decimal places). Use acceleration due to gravity = 9.8 m/s$^2$",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.53",
+    "question": "The cross section of a 0.5 m wide vertical gate holding water and oil is shown in the figure. The unit weights of water and oil are 10 kN/m$^3$ and 7.5 kN/m$^3$, respectively. The horizontal hydrostatic force (in kN) acting on the vertical gate is ______ (rounded off to two decimal places).\n\nFigure description: A vertical gate, 0.5 m wide. On one side, there is a layer of oil (0.5 m deep) on top of a layer of water (1.0 m deep).",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.54",
+    "question": "A centrifugal pump is delivering water from an underground tank to an overhead reservoir against a static head of 35 m through a 2 km long, 250 mm diameter pipe. The head-discharge characteristic of the pump is given by $H = 140 – 9000Q^2$ where $H$ is the head (in m) generated by the pump and $Q$ is the discharge (in m$^3$/s) of the pump. Neglecting all minor losses, the head (in m) generated by the pump is ______ (rounded off to the nearest integer). Use: Darcy-Weisbach friction factor $f= 0.04$ Acceleration due to gravity = 9.81 m/s$^2$ $\\pi = 3.14$",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.55",
+    "question": "The flow depth for a discharge of 10 m$^3$/s in a wide rectangular channel is 2.0 m. Assume that the flow is uniform. If the discharge is doubled, the flow depth (in m) in this channel is ______ (rounded off to two decimal places).",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.56",
+    "question": "For a clayey soil stratum, the time required for degree of consolidation from 25 % to 50% is 30 days. The total time (in days) required for 90 % degree of consolidation of the same soil stratum is ______ (rounded off to the nearest integer).",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.57",
+    "question": "The ultimate bearing capacity of a 1 m wide strip footing is 532.80 kPa, when it is embedded at 1 m depth in dry cohesionless soil. The soil has a unit weight of 18 kN/m$^3$. The ultimate bearing capacity is 864 kPa when the depth of embedment becomes 2 m. Neglecting the effect of the depth factor, the bearing capacity factor $N_\\gamma$ is ______ (rounded off to one decimal place).",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.58",
+    "question": "A building is proposed in an area having thick deposit of silty clay. The water table is at the ground surface. The saturated unit weight of soil is 18 kN/m$^3$ and unit weight of water is 10 kN/m$^3$. The maximum vertical load (P) on a column of the proposed building is 2000 kN. Consider $\\sigma_z \\le 0.1 \\sigma_z'$ for computation of the minimum depth of soil exploration. $\\sigma_z'$ is the effective vertical overburden stress. $\\sigma_z$ is the increase in the vertical stress at depth $z$ below load $P$ as per the Boussinesq's stress theory. Based on above, the minimum depth (in m) of soil exploration required for the foundation design is ______ (rounded off to two decimal places).",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.59",
+    "question": "A soil sample has following properties: Natural water content = 30% Plasticity index = 40 % Liquidity index = 50 % The estimated plastic limit (in %) of the soil is ______ (rounded off to one decimal place).",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.60",
+    "question": "For a given traffic stream, the speed-density relationship is given as: $v = v_0 \\ln \\left(\\frac{k_j}{k}\\right)$ where $v$ is the mean speed (in km/h), and $k$ is the density (in veh/km). Considering $v_0$ as 45 km/h, and $k_j$ as 200 veh/km, the maximum flow (in veh/h) for the given stream is ______ (rounded off to the nearest integer).",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.61",
+    "question": "A vertical curve is formed by a descending gradient of 1 in 40 meeting an ascending gradient of 1 in 50. Consider the following: Stopping Sight Distance (SSD) = 90 m Height of headlight of a vehicle above the road surface = 0.75 m Headlight beam angle with respect to the longitudinal axis of the vehicle = 1.2° Based on the sight distance criteria, the design length (in m) of the vertical curve is ______ (rounded off to the nearest integer).",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.62",
+    "question": "Interior angles measured at the locations of a closed traverse ABCDA are given in table below. The total error in the measured angles (in degrees) is ______ (rounded off to three decimal places).\n```\nLocation | Interior angle\n---|---\nA | 71° 1' 40\"\nB | 104° 54′ 23\"\nC | 107° 54′ 10″\nD | 76° 20′ 42″\n```",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.63",
+    "question": "The analysis of major cations and anions in a water sample collected from a city's water supply is given below. Ions present in minor concentrations are not given. HOCl (in %) present in the total free chlorine in the water is ______ (rounded off to the nearest integer).\n```\nAnions | Cl$^-$ | SO$_4^{2-}$ | HCO$_3^-$ | CO$_3^{2-}$ \n---|---|---|---|---\nConcentration (mM) | 1.5 | 0.5 | 1.0 | 0.01\nCations | Na$^+$ | Ca$^{2+}$ | Mg$^{2+}$ | K$^+$\nConcentration (mM) | 2 | 0.5 | 0.25 | 0.02\n```\nEquations:\n```\nHCl $\\rightleftharpoons$ H$^+$ + Cl$^-$ pK = -3\nH$_2$SO$_4^{2-}$ $\\rightleftharpoons$ 2H$^+$ + SO$_4^{2-}$ pK = -3\nH$_2$CO$_3$ $\\rightleftharpoons$ H$^+$ + HCO$_3^-$ pK = 6.3\nHCO$_3^-$ $\\rightleftharpoons$ H$^+$ + CO$_3^{2-}$ pK = 10.3\nHOCl $\\rightleftharpoons$ H$^+$ + OCl$^-$ pK = 7.5\n```",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.64",
+    "question": "Anaerobic bacteria are being utilized for the destruction of biodegradable organic content of wastewater measured in terms of Chemical Oxygen Demand (COD). The yield coefficient (Y) is 0.06 gram Volatile Suspended Solids (VSS) per gram of COD. Bacterial biomass forms the sludge during the process. The proximate chemical formula of anaerobic bacteria is C$_6$H$_7$NO$_2$. The COD (in %) converted into bacterial biomass is ______ (rounded off to the nearest integer).",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.65",
+    "question": "In an industry, a cyclone collector with 80 % efficiency is installed for air purification, followed by an electrostatic precipitator with 50 % efficiency. The concentration of particles entering the cyclone collector is 10 mg/m$^3$. The concentration (in mg/m$^3$) of particles exiting the precipitator is ______ (rounded off to two decimal places).",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  }
+]

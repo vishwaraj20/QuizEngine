@@ -1,0 +1,732 @@
+[
+  {
+    "question_number": "Q.1",
+    "question": "Is there any good show ______ television tonight?\nSelect the most appropriate option to complete the above sentence.",
+    "question_type": "MCQ",
+    "options": {
+      "A": "in",
+      "B": "at",
+      "C": "within",
+      "D": "on"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.2",
+    "question": "As the police officer was found guilty of embezzlement, he was ______ dismissed from the service in accordance with the Service Rules.\nSelect the most appropriate option to complete the above sentence.",
+    "question_type": "MCQ",
+    "options": {
+      "A": "sumptuously",
+      "B": "brazenly",
+      "C": "unintentionally",
+      "D": "summarily"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.3",
+    "question": "The sum of the following infinite series is:\n$1/1! + 1/2! + 1/3! + 1/4! + 1/5! + \\dots$",
+    "question_type": "MCQ",
+    "options": {
+      "A": "$\\pi$",
+      "B": "$1+e$",
+      "C": "$e-1$",
+      "D": "$e$"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.4",
+    "question": "A thin wire is used to construct all the edges of a cube of 1 m side by bending, cutting and soldering the wire. If the wire is 12 m long, what is the minimum number of cuts required to construct the wire frame to form the cube?",
+    "question_type": "MCQ",
+    "options": {
+      "A": "3",
+      "B": "4",
+      "C": "6",
+      "D": "12"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.5",
+    "question": "The figures I, II and III are parts of a sequence. Which one of the following options comes next in the sequence at IV?",
+    "question_type": "MCQ",
+    "options": {
+      "A": "Figure showing top half shaded",
+      "B": "Figure showing bottom-left quadrant shaded",
+      "C": "Figure showing bottom half shaded",
+      "D": "Figure showing bottom-right quadrant shaded"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.6",
+    "question": "\"Why do they pull down and do away with crooked streets, I wonder, which are my delight, and hurt no man living? Every day the wealthier nations are pulling down one or another in their capitals and their great towns: they do not know why they do it; neither do I. It ought to be enough, surely, to drive the great broad ways which commerce needs and which are the life-channels of a modern city, without destroying all history and all the humanity in between: the islands of the past.\"\n(From Hilaire Belloc's “The Crooked Streets”)\nBased only on the information provided in the above passage, which one of the following statements is true?",
+    "question_type": "MCQ",
+    "options": {
+      "A": "The author of the passage takes delight in wondering.",
+      "B": "The wealthier nations are pulling down the crooked streets in their capitals.",
+      "C": "In the past, crooked streets were only built on islands.",
+      "D": "Great broad ways are needed to protect commerce and history."
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.7",
+    "question": "Rohit goes to a restaurant for lunch at about 1 PM. When he enters the restaurant, he notices that the hour and minute hands on the wall clock are exactly coinciding. After about an hour, when he leaves the restaurant, he notices that the clock hands are again exactly coinciding. How much time (in minutes) did Rohit spend at the restaurant?",
+    "question_type": "MCQ",
+    "options": {
+      "A": "$64\\frac{6}{11}$",
+      "B": "$66\\frac{5}{13}$",
+      "C": "$65\\frac{5}{11}$",
+      "D": "$66\\frac{6}{13}$"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.8",
+    "question": "A color model is shown in the figure with color codes: Yellow (Y), Magenta (M), Cyan (Cy), Red (R), Blue (Bl), Green (G), and Black (K).\nWhich one of the following options displays the color codes that are consistent with the color model?",
+    "question_type": "MCQ",
+    "options": {
+      "A": "Diagram with Y, M, Cy, R, Bl, G, K in specific intersections",
+      "B": "Diagram with Y, M, Cy, R, Bl, G, K in specific intersections",
+      "C": "Diagram with Y, M, Cy, R, Bl, G, K in specific intersections",
+      "D": "Diagram with Y, M, Cy, R, Bl, G, K in specific intersections"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.9",
+    "question": "A circle with center at $(x,y) = (0.5, 0)$ and radius = 0.5 intersects with another circle with center at $(x, y) = (1, 1)$ and radius = 1 at two points. One of the points of intersection $(x, y)$ is:",
+    "question_type": "MCQ",
+    "options": {
+      "A": "(0,0)",
+      "B": "(0.2, 0.4)",
+      "C": "(0.5, 0.5)",
+      "D": "(1,2)"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.10",
+    "question": "An object is said to have an $n$-fold rotational symmetry if the object, rotated by an angle of $\\frac{2\\pi}{n}$, is identical to the original.\nWhich one of the following objects exhibits 4-fold rotational symmetry about an axis perpendicular to the plane of the screen?\nNote: The figures shown are representative.",
+    "question_type": "MCQ",
+    "options": {
+      "A": "Figure with 4-fold symmetry",
+      "B": "Figure with 2-fold symmetry",
+      "C": "Figure with 2-fold symmetry",
+      "D": "Figure with 2-fold symmetry"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.11",
+    "question": "Suppose $\\lambda$ is an eigenvalue of matrix A and x is the corresponding eigenvector. Let x also be an eigenvector of the matrix B = A – 2I, where I is the identity matrix.\nThen, the eigenvalue of B corresponding to the eigenvector x is equal to",
+    "question_type": "MCQ",
+    "options": {
+      "A": "$\\lambda$",
+      "B": "$\\lambda + 2$",
+      "C": "$2\\lambda$",
+      "D": "$\\lambda-2$"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.12",
+    "question": "Let $A = \\begin{bmatrix} 1 & 1 \\\\ 1 & 3 \\\\ -2 & -3 \\end{bmatrix}$ and $b = \\begin{bmatrix} b_1 \\\\ b_2 \\\\ b_3 \\end{bmatrix}$. For $Ax = b$ to be solvable, which one of the following options is the correct condition on $b_1, b_2$, and $b_3$:",
+    "question_type": "MCQ",
+    "options": {
+      "A": "$b_1 + b_2 + b_3 = 1$",
+      "B": "$3b_1 + b_2 + 2b_3 = 0$",
+      "C": "$b_1 + 3b_2 + b_3 = 2$",
+      "D": "$b_1 + b_2 + b_3 = 2$"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.13",
+    "question": "Which one of the following options is the correct Fourier series of the periodic function $f(x)$ described below:\n\n```\nf(x) = {\n  0      if -2 < x < -1\n  2k     if -1 < x < 1; period = 4\n  0      if 1 < x < 2\n}\n```",
+    "question_type": "MCQ",
+    "options": {
+      "A": "$f(x)=\\frac{k}{2} + \\frac{2k}{\\pi} (\\cos \\frac{\\pi}{2}x - \\frac{1}{3}\\cos \\frac{3\\pi}{2}x + \\frac{1}{5}\\cos \\frac{5\\pi}{2}x - \\dots)$",
+      "B": "$f(x) = \\frac{k}{2} + \\frac{2k}{\\pi} (\\sin \\frac{\\pi}{2}x - \\frac{1}{3}\\sin \\frac{3\\pi}{2}x + \\frac{1}{5}\\sin \\frac{5\\pi}{2}x - \\dots)$",
+      "C": "$f(x) = k + \\frac{4k}{\\pi} (\\cos \\frac{\\pi}{2}x - \\frac{1}{3}\\cos \\frac{3\\pi}{2}x + \\frac{1}{5}\\cos \\frac{5\\pi}{2}x - \\dots)$",
+      "D": "$f(x) = k + \\frac{4k}{\\pi} (\\sin \\frac{\\pi}{2}x - \\frac{1}{3}\\sin \\frac{3\\pi}{2}x + \\frac{1}{5}\\sin \\frac{5\\pi}{2}x - \\dots)$"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.14",
+    "question": "X is a random variable that can take any one of the values 0, 1, 7, 11, and 12. The probability mass function for X is\n$P(X = 0) = 0.4$; $P(X = 1) = 0.3$; $P(X = 7) = 0.1$;\n$P(X = 11) = 0.1$; $P(X = 12) = 0.1$\nThen, the variance of X is",
+    "question_type": "MCQ",
+    "options": {
+      "A": "20.81",
+      "B": "28.40",
+      "C": "31.70",
+      "D": "10.89"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.15",
+    "question": "As per IS 456:2000 provisions for two-way slabs with continuous edges, the longitudinal steel reinforcement to be provided in the edge strip is based on",
+    "question_type": "MCQ",
+    "options": {
+      "A": "the calculated minimum bending moment",
+      "B": "the area of longitudinal steel provided in the middle strip in the shorter span",
+      "C": "the area of longitudinal steel provided in the middle strip in the longer span",
+      "D": "the prescribed minimum cross-sectional area of longitudinal steel for slabs"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.16",
+    "question": "Identify the FALSE statement from the following options:",
+    "question_type": "MCQ",
+    "options": {
+      "A": "The compressive strength of a concrete test specimen can vary depending on its shape and size",
+      "B": "Air-dried and saturated test specimens show the same compressive strength for concrete",
+      "C": "Curing conditions, such as temperature and relative humidity, can influence the compressive strength of concrete",
+      "D": "Compressive strength depends on the water-to-binder ratio used in the concrete mixture"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.17",
+    "question": "The results of a consolidated drained triaxial test on a normally consolidated clay are shown in the figure. The angle of internal friction is",
+    "question_type": "MCQ",
+    "options": {
+      "A": "$\\sin^{-1}(\\frac{1}{2})$",
+      "B": "$\\sin^{-1}(\\frac{1}{3})$",
+      "C": "$\\sin^{-1}(\\frac{2}{3})$",
+      "D": "$\\sin^{-1}(\\frac{3}{4})$"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.18",
+    "question": "The standard plasticity chart for the classification of a fine-grained soil is shown in the figure. As per the Indian standard soil classification system, X represents",
+    "question_type": "MCQ",
+    "options": {
+      "A": "inorganic clay with medium plasticity",
+      "B": "inorganic silt with medium plasticity",
+      "C": "inorganic clay with high plasticity",
+      "D": "inorganic silt with high compressibility"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.19",
+    "question": "For a flowing fluid, a dimensionless combination of velocity (V), length scale (l), and acceleration due to gravity (g) would be",
+    "question_type": "MCQ",
+    "options": {
+      "A": "$\\frac{V^2}{gl}$",
+      "B": "$\\frac{Vg}{l}$",
+      "C": "$\\frac{gl^2}{V}$",
+      "D": "$\\frac{l}{V^2g}$"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.20",
+    "question": "To derive the total flood hydrograph at a catchment outlet from an isolated storm, the order in which the following methods are applied, from the first method to the last method, is\nP. Obtaining the hyetograph\nQ. Addition of baseflow\nR. Estimation of initial and infiltration losses\nS. Application of unit hydrograph",
+    "question_type": "MCQ",
+    "options": {
+      "A": "PRSQ",
+      "B": "PQRS",
+      "C": "RPSQ",
+      "D": "PSQR"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.21",
+    "question": "Fecal Coliform (FC) concentration in river water was measured as 10780 cfu/100 ml. The FC concentration after the conventional water treatment, but before chlorination, was measured as 23 cfu/100 ml. The ‘Log Kill’ (inactivation) of FC due to the conventional water treatment is closest to",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.22",
+    "question": "A hydrocarbon (C$_n$H$_m$) is burnt in air (O$_2$ + 3.78N$_2$). The stoichiometric fuel to air mass ratio for this process is\nNote: Atomic Weight: C(12), H(1)\nEffective Molecular Weight: Air(28.8)\nIgnore any conversion of N$_2$ in air to the oxides of nitrogen (NO$_x$)",
+    "question_type": "MCQ",
+    "options": {
+      "A": "$0.0291\\frac{(4n+m)}{(12n+m)}$",
+      "B": "$34.42\\frac{(12n+m)}{(4n+m)}$",
+      "C": "$34.42\\frac{(4n+m)}{(12n+m)}$",
+      "D": "$0.0291\\frac{(12n+m)}{(4n+m)}$"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.23",
+    "question": "All the vehicles that come during a particular peak hour come during a 10-minute period within this hour. The 15-minute peak hour factor for this peak hour is",
+    "question_type": "MCQ",
+    "options": {
+      "A": "0.25",
+      "B": "0.167",
+      "C": "0.75",
+      "D": "1.0"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.24",
+    "question": "In the context of testing bitumen, which one of the following statements is FALSE:",
+    "question_type": "MCQ",
+    "options": {
+      "A": "The depth of penetration of needle in the standard penetration test is measured in the units of one-tenth of millimeter",
+      "B": "Softening point is measured using a ring and ball apparatus",
+      "C": "Softening point is measured in the units of time",
+      "D": "Ductility is measured in the units of length"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.25",
+    "question": "The maximum degree of the curve that can be used for railways in a mountainous region is",
+    "question_type": "MCQ",
+    "options": {
+      "A": "10",
+      "B": "20",
+      "C": "50",
+      "D": "40"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.26",
+    "question": "If the horizontal distance between a staff point and the point of observation is $d$, the error due to the curvature of earth is proportional to",
+    "question_type": "MCQ",
+    "options": {
+      "A": "$d$",
+      "B": "$\\frac{1}{d}$",
+      "C": "$d^2$",
+      "D": "$\\frac{1}{d^2}$"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.27",
+    "question": "If the quadrantal bearing of a line is N30°W, then the whole circle bearing of the line is",
+    "question_type": "MCQ",
+    "options": {
+      "A": "120°",
+      "B": "210°",
+      "C": "300°",
+      "D": "330°"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.28",
+    "question": "Which of the following equations belong/belongs to the class of second-order, linear, homogeneous partial differential equations:",
+    "question_type": "MCQ",
+    "options": {
+      "A": "$\\frac{\\partial^2 u}{\\partial t^2} = c^2 (\\frac{\\partial^2 u}{\\partial x^2} + \\frac{\\partial^2 u}{\\partial y^2}) + xy$",
+      "B": "$\\frac{\\partial^2 u}{\\partial x^2} + \\frac{\\partial^2 u}{\\partial y^2} + \\frac{\\partial^2 u}{\\partial z^2} = 0$",
+      "C": "$\\frac{\\partial u}{\\partial t} = c \\frac{\\partial u}{\\partial x}$",
+      "D": "$(\\frac{\\partial^2 u}{\\partial t^2})^2 = c^2 \\frac{\\partial^2 u}{\\partial x^2}$"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.29",
+    "question": "Consider the frame shown in the figure under the loading of 100 kN.m couples at the joints B and G. Considering only the effects of flexural deformations, which of the following statements is/are true:",
+    "question_type": "MSQ",
+    "options": {
+      "A": "Axial force is zero in the member CD",
+      "B": "Shear force is zero in the member CD",
+      "C": "There is no rotation in the joint C",
+      "D": "The magnitude of bending moment developed in the member BC at the end C is more than 50 kN.m"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.30",
+    "question": "For the Bernoulli's equation to be applicable in a fluid flow situation, which of the following conditions is/are to be satisfied:",
+    "question_type": "MSQ",
+    "options": {
+      "A": "Fluid should be frictionless",
+      "B": "Fluid should be incompressible",
+      "C": "Flow should be steady",
+      "D": "Flow should be rotational"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.31",
+    "question": "The Surface Overflow Rate (SOR) in a rectangular sedimentation tank is 45 m$^3$/m$^2$/d. Minimum diameters of spherical inorganic and organic particles expected to be completely removed in this tank are calculated. Assume that Stoke's law is applicable. Which of the following options is/are correct:\nSpecific gravity of inorganic particles = 2.65\nSpecific gravity of organic particles = 1.20\nAcceleration due to gravity (g) = 9.81 m/s$^2$\nKinematic viscosity ($\\nu$) = 1$\\times 10^{-6}$ m$^2$/s",
+    "question_type": "MSQ",
+    "options": {
+      "A": "Minimum diameter of inorganic particles is 24 $\\mu$m",
+      "B": "Minimum diameter of organic particles is 69 $\\mu$m",
+      "C": "Minimum diameter of inorganic particles is 15 $\\mu$m",
+      "D": "Minimum diameter of organic particles is 55 $\\mu$m"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.32",
+    "question": "Aeration is employed as a treatment option for the removal of several pollutants from contaminated water.\nIdentify the pollutant(s), where aeration is employed as a part of their removal:",
+    "question_type": "MSQ",
+    "options": {
+      "A": "Iron",
+      "B": "Cadmium",
+      "C": "Manganese",
+      "D": "Zinc"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.33",
+    "question": "If the weights retained on the 2.36 mm, 1.18 mm, 600 $\\mu$m, and 300 $\\mu$m sieves are 30%, 35%, 15%, and 20%, respectively, of the total weight of an aggregate sample, then the fineness modulus of the sample is ______ (rounded off to 2 decimal places).",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.34",
+    "question": "A water resources project with an expected life of 25 years has to be designed for an acceptable risk of 5% against a design flood. The return period for the design flood (in years) is ______ (rounded off to the nearest integer).",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.35",
+    "question": "Road A and Road B are joined by a circular horizontal curve of radius 200 m as shown in the figure. Road A and Road B are tangential to the curve at the points C and D, respectively. Had the curve not been there, straight roads A and B would have met at the point E. The distance from C to E is 92 m. The value of angle $\\theta$ (in degrees) is ______ (rounded off to 1 decimal place).\nNote: The value of angle $\\theta$ is to be calculated only from the consideration of Euclidean geometry and the data given in the problem.",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.36",
+    "question": "The value of $\\lim_{x\\to\\infty} (x - \\sqrt{x^2 + x})$ is equal to",
+    "question_type": "MCQ",
+    "options": {
+      "A": "-1",
+      "B": "-0.5",
+      "C": "-2",
+      "D": "0"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.37",
+    "question": "In the rigid-jointed frame shown in the figure, the distribution factor of the member AD is closest to",
+    "question_type": "MCQ",
+    "options": {
+      "A": "0.254",
+      "B": "0.267",
+      "C": "0.398",
+      "D": "0.421"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.38",
+    "question": "In an oedometer apparatus a specimen of fully saturated clay has been consolidated under a vertical pressure of 100 kPa and is at equilibrium state. Immediately on increasing the vertical pressure to 150 kPa, the effective stress $\\sigma'$ and excess pore water pressure $\\Delta u$ will be",
+    "question_type": "MCQ",
+    "options": {
+      "A": "$\\sigma'$ = 50 kPa, $\\Delta u$ = 100 kPa",
+      "B": "$\\sigma'$ = 100 kPa, $\\Delta u$ = 50 kPa",
+      "C": "$\\sigma'$ = 150 kPa, $\\Delta u$ = 50 kPa",
+      "D": "$\\sigma'$ = 100 kPa, $\\Delta u$ = 150 kPa"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.39",
+    "question": "The mean rainfall over a catchment has to be estimated. The data for four rain gauges located in and around the catchment is listed in the table. Which one of the following statements is correct:\n\n```\nRain gauge station             P     Q     R     S\nWhether located inside the\ncatchment                      Yes   Yes   Yes   No\nThiessen weightage factor      0.25  0.50  0.10  0.15\nRainfall (mm)                  100   110   100   125\n```",
+    "question_type": "MCQ",
+    "options": {
+      "A": "The estimate obtained from the Thiessen-mean method is greater than that obtained using the arithmetic-mean method",
+      "B": "The estimate obtained from the Thiessen-mean method is equal to that obtained using the arithmetic-mean method",
+      "C": "The estimate obtained from the Thiessen-mean method is less than that obtained using the arithmetic-mean method",
+      "D": "The Thiessen-mean method cannot be applied in this case"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.40",
+    "question": "The speed-density relation on a one-way, single lane road is shown in the figure, where speed $u$ is in km/hour and density $k$ is in vehicles/km. The maximum flow (in vehicles/hour) on this road is",
+    "question_type": "MCQ",
+    "options": {
+      "A": "2500",
+      "B": "900",
+      "C": "2250",
+      "D": "2000"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.41",
+    "question": "Consider the beam ACDEB given in the figure. Which of the following statements is/are correct:",
+    "question_type": "MSQ",
+    "options": {
+      "A": "Bending moment is zero between the points A and C",
+      "B": "There is a sudden jump in shear force at the point D",
+      "C": "There is a sudden jump in bending moment at the point E",
+      "D": "Bending moment is zero somewhere between the points D and E"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.42",
+    "question": "In the context of construction project management, which of the following statements is/are true:",
+    "question_type": "MSQ",
+    "options": {
+      "A": "A dummy activity will consume time and resources",
+      "B": "The programme evaluation and review technique (PERT) is best suited for projects with large uncertainties in the duration of activities",
+      "C": "A Gantt chart is commonly used for identifying the ‘critical path’ of activities in a project",
+      "D": "Free float is the amount of time by which the start of an activity can be delayed without causing a delay in the start of a following activity"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.43",
+    "question": "Lacey's regime equations, followed in India for making scour calculations while designing hydraulic structures across alluvial channels, are given below.\nRegarding these equations, which of the following statements is/are true:\n$D = 0.470 \\times (\\frac{Q}{f_s})^{1/3}$\n$P = 4.75 \\times \\sqrt{Q}$\n$f_s = 1.76 \\times \\sqrt{d}$\nwhere, Q is discharge and $f_s$ is silt factor.",
+    "question_type": "MSQ",
+    "options": {
+      "A": "D is the depth of scour below the existing riverbed",
+      "B": "P is the Lacey's waterway width",
+      "C": "d is the average grain size diameter of the bed material in centimetres",
+      "D": "D is the depth of scour below the design flood level"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.44",
+    "question": "MgCl$_2$ and CaSO$_4$ salts are added to 1 litre of distilled deionized water and mixed until completely dissolved. Total Dissolved Solids (TDS) concentration is 500 mg/l, and Total Hardness (TH) is 400 mg/l (as CaCO$_3$). The amounts of MgCl$_2$ and CaSO$_4$ added are calculated (rounded off to the nearest integer). Which of the following options is/are true:\nAtomic weights: Ca(40), Mg(24), S(32), O(16), Cl(35.5), C(12)",
+    "question_type": "MSQ",
+    "options": {
+      "A": "Amount of MgCl$_2$ added is 143 mg",
+      "B": "Amount of CaSO$_4$ added is 357 mg",
+      "C": "Amount of MgCl$_2$ added is 103 mg",
+      "D": "Amount of CaSO$_4$ added is 397 mg"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.45",
+    "question": "A facultative pond system is employed for wastewater treatment. Which of the following statements is/are true:",
+    "question_type": "MSQ",
+    "options": {
+      "A": "The dissolved oxygen concentration will be high during daytime compared to night-time",
+      "B": "The pH will be high during daytime compared to night-time",
+      "C": "The dissolved oxygen concentration will be low during daytime compared to night-time",
+      "D": "The pH will be low during daytime compared to night-time"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.46",
+    "question": "Organic fraction of municipal solid waste (OFMSW) with bulk density of 315 kg/m$^3$ and water content of 30% is mixed with municipal sludge of bulk density 700 kg/m$^3$ and water content of 70%, such that the water content of the mixture is 40%. The amount (in kg) of sludge to be mixed per kg of OFMSW (rounded off to 2 decimal places) and the density of the mixture (in kg/m$^3$) (rounded off to the nearest integer) are calculated. Which of the following options is/are true:",
+    "question_type": "MSQ",
+    "options": {
+      "A": "0.33 kg of sludge added per kg of OFMSW",
+      "B": "Density of the mixture is 365 kg/m$^3$",
+      "C": "0.66 kg of sludge added per kg of OFMSW",
+      "D": "Density of the mixture is 450 kg/m$^3$"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.47",
+    "question": "Let $y$ be the solution of the initial value problem $y'' + 0.8y' + 0.16y = 0$, where $y(0) = 3$ and $y'(0) = 4.5$. Then, $y(1)$ is equal to ______ (rounded off to 1 decimal place).",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.48",
+    "question": "The maximum value of the function $h(x) = -x^3 + 2x^2$ in the interval $[-1,1.5]$ is equal to ______ (rounded off to 1 decimal place).",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.49",
+    "question": "Consider the differential equation given below. Using the Euler method with the step size ($h$) of 0.5, the value of $y$ at $x = 1.0$ is equal to ______ (rounded off to 1 decimal place).\n$\\frac{dy}{dx} = y + 2x – x^2$; $y(0) = 1$ (0 $\\le x < \\infty$)",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.50",
+    "question": "For the beam and loading shown in the figure, the second derivative of the deflection curve of the beam at the mid-point of AC is given by $\\alpha M_o/8EI$. The value of $\\alpha$ is ______ (rounded off to the nearest integer).",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.51",
+    "question": "Consider the rigid bar ABC supported by the pin-jointed links BD and CE and subjected to a load P at the end A, as shown in the figure. The axial rigidities of BD and CE are 22500 kN and 15000 kN, respectively. If CE elongates by 5 mm due to the load P, the magnitude of the downward deflection (in mm) of the end A would be ______ (rounded off to the nearest integer).",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.52",
+    "question": "Consider a reinforced concrete beam section of 300 mm width and 700 mm depth. The beam is reinforced with the tension steel of 2000 mm$^2$ area at an effective cover of 50 mm. Concrete in the tension zone is assumed to be cracked. Assume the modular ratio of 12 and Young's modulus of 200 GPa for steel. When the extreme fibre in the compression zone undergoes the strain of 0.0004 due to the applied bending moment, the stress in the steel (in MPa) is ______ (rounded off to the nearest integer).",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.53",
+    "question": "Consider the beam section shown in the figure, with $\\bar{y}$ indicating the depth of neutral axis (NA). The section is only subjected to an increasing bending moment. It is given that $\\bar{y}$ = 18.75 mm, when the section has not yielded at the top and bottom fibres. Further, $\\bar{y}$ decreases to 5 mm, when the entire section has yielded. The shape factor of the section is ______ (rounded off to 2 decimal places).",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.54",
+    "question": "Consider the built-up column made of two I-sections as shown in the figure, with each batten plate bolted to a component I-section of the column through 6 black bolts. Each connection of the batten plate with the component section is to be designed for a longitudinal shear of 70 kN and moment of 10 kN.m. The minimum bolt value required (in kN) is ______ (rounded off to the nearest integer).",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.55",
+    "question": "A cut slope is made in a silty clay soil for a new road project, as shown in the figure. The locations of ground water table (GWT) and potential failure surface are shown in the figure. After the cut is made, the excess pore water pressure is fully dissipated, and the shear stress at the point A is 60 kN/m$^2$. The factor of safety at the point A for long-term stability is ______ (rounded off to 2 decimal places).\nNote:\nShear strength properties of silty clay: $c'$ = 15 kN/m$^2$, $\\phi'$ = 15°, and $c_u$ = 75 kN/m$^2$\nUnit weight of soil above the GWT ($\\gamma$) = 19 kN/m$^3$\nUnit weight of soil below the GWT ($\\gamma_{sat}$) = 20 kN/m$^3$\nUnit weight of water ($\\gamma_w$) = 9.81 kN/m$^3$",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.56",
+    "question": "A 6 m $\\times$ 6 m square footing constructed in clay is subjected to a vertical load of 2500 kN at its centre. The base of the footing is 2 m below the ground surface, as shown in the figure. The footing is made of 2 m thick concrete. The ground water table is at a great depth. Considering Terzaghi's bearing capacity theory, the factor of safety of footing against the bearing capacity failure is ______ (rounded off to 2 decimal places).\nNote:\nUnit weight of concrete = 24 kN/m$^3$\nProperties of clay: $c$ = 50 kN/m$^2$, $\\phi$= 0°, and $\\gamma$= 19 kN/m$^3$\nFor $\\phi$= 0°: $N_c$ = 5.7, $N_q$ = 1, $N_{\\gamma}$= 0",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.57",
+    "question": "A clayey soil has a moisture content of 18%, a specific gravity of soil solids of 2.74, and a degree of saturation of 65%. The soil soaks up water during a rain event, and the degree of saturation increases to 85.2%. The change of the volume during the soaking is negligible. The new moisture content (in %) of the soil will be ______ (rounded off to 2 decimal places).",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.58",
+    "question": "A single pile with 450 mm diameter has been driven into a homogeneous clay layer, which has an undrained cohesion ($c_u$) of 20 kPa and unit weight of 18 kN/m$^3$. The ground water table is found to be at the surface of the clay layer. The adhesion factor ($\\alpha$) of the soil is 0.95 and bearing capacity factor ($N_c$) is 9. The pile is supporting a column load of 144 kN with a factor of safety of 3.0 against ultimate axial pile capacity in compression.\nThe required embedment depth of the pile (in m) is ______ (rounded off to the nearest integer).",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.59",
+    "question": "Two soils of permeabilities $k_1$ and $k_2$ are placed in a horizontal flow apparatus, as shown in the figure. For Soil 1, $L_1$ = 50 cm, and $k_1$ = 0.055 cm/s; for Soil 2, $L_2$ = 30 cm, and $k_2$ = 0.035 cm/s. The cross sectional area of the horizontal pipe is 100 cm$^2$, and the head difference ($\\Delta h$) is 150 cm. The discharge (in cm$^3$/s) through the soils is ______ (rounded off to 2 decimal places).",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.60",
+    "question": "A hydraulic jump is formed in a 5 m wide rectangular channel, which has a horizontal bed and is carrying a discharge of 15 m$^3$/s. The depth of water upstream of the jump is 0.5 m. The power dissipated by the jump (in kW) is ______ (rounded off to the nearest integer).\nNote:\nAcceleration due to gravity = 9.81 m/s$^2$\nDensity of water = 1000 kg/m$^3$\nKinetic energy correction factor = 1.0",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.61",
+    "question": "A symmetrical trapezoidal canal is 100 km long. The bottom width is 10 m and the side slope is 1 Horizontal : 1 Vertical. The average flow depth in the canal is 2.5 m throughout the month of April. The measurement from a Class-A evaporimeter in the vicinity of the canal indicated an average evaporation rate of 0.5 cm/day in April.\nThe volume of water evaporated from the canal (in m$^3$) in the month of April is close to ______ $\\times 10^3$ (rounded off to 1 decimal place).",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.62",
+    "question": "A 5.0 m wide rectangular channel carries a discharge of 10 m$^3$/s at a depth of 1.5 m under uniform flow. To produce critical flow conditions without affecting the upstream conditions, the channel bottom elevation should be raised (in m) by ______ (rounded off to 2 decimal places).\nAssume that there is no loss of head at the raise, kinetic energy correction factor is 1.0, and acceleration due to gravity is 9.81 m/s$^2$.",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.63",
+    "question": "A one-way, single lane road has traffic that consists of 30% trucks and 70% cars. The speed of trucks (in km/h) is a uniform random variable on the interval (30, 60), and the speed of cars (in km/h) is a uniform random variable on the interval (40, 80). The speed limit on the road is 50 km/h. The percentage of vehicles that exceed the speed limit is ______ (rounded off to 1 decimal place).\nNote: X is a uniform random variable on the interval ($\\alpha, \\beta$), if its probability density function is given by\n\n```\nf(x) = \\begin{cases}\n  \\frac{1}{\\beta - \\alpha} & \\alpha < x < \\beta \\\\\n  0 & \\text{otherwise}\n\\end{cases}\n```",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.64",
+    "question": "In levelling between two points A and B on the opposite banks of a river, the readings are taken by setting the instrument both at A and B, as shown in the table. If the RL of A is 150.000 m, the RL of B (in m) is ______ (rounded off to 3 decimal places).\n\n```\nLevel position   Staff readings\n                 A       B\nA                1.800   1.350\nB                1.450   0.950\n```",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.65",
+    "question": "During determination of the bulk specific gravity of compacted bituminous specimen, the mass in air of the specimen is 1260 g and volume is 525 cm$^3$. The density of water is 1.0 g/cm$^3$. The theoretical maximum specific gravity of mix is 2.510.\nThe percentage air voids in the compacted specimen is ______ (rounded off to 2 decimal places).",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  }
+]

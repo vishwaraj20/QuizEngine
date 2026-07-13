@@ -1,0 +1,950 @@
+[
+  {
+    "question_number": "Q.1",
+    "question": "After playing ______ hours of tennis, I am feeling ______ tired to walk back.",
+    "question_type": "MCQ",
+    "options": {
+      "A": "too/too",
+      "B": "too/two",
+      "C": "two/two",
+      "D": "two/too"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.2",
+    "question": "The average of the monthly salaries of M, N and S is ₹4000. The average of the monthly salaries of N, S and P is ₹ 5000. The monthly salary of P is ₹6000. What is the monthly salary of M as a percentage of the monthly salary of P?",
+    "question_type": "MCQ",
+    "options": {
+      "A": "50%",
+      "B": "75%",
+      "C": "100%",
+      "D": "125%"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.3",
+    "question": "A person travelled 80 km in 6 hours. If the person travelled the first part with a uniform speed of 10 kmph and the remaining part with a uniform speed of 18 kmph. What percentage of the total distance is travelled at a uniform speed of 10 kmph?",
+    "question_type": "MCQ",
+    "options": {
+      "A": "28.25",
+      "B": "37.25",
+      "C": "43.75",
+      "D": "50.00"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.4",
+    "question": "Four girls P, Q, R and S are studying languages in a University. P is learning French and Dutch. Q is learning Chinese and Japanese. R is learning Spanish and French. S is learning Dutch and Japanese.\nGiven that: French is easier than Dutch; Chinese is harder than Japanese; Dutch is easier than Japanese, and Spanish is easier than French.\nBased on the above information, which girl is learning the most difficult pair of languages?",
+    "question_type": "MCQ",
+    "options": {
+      "A": "P",
+      "B": "Q",
+      "C": "R",
+      "D": "S"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.5",
+    "question": "A block with a trapezoidal cross-section is placed over a block with rectangular cross section as shown above.\nWhich one of the following is the correct drawing of the view of the 3D object as viewed in the direction indicated by an arrow in the above figure?",
+    "question_type": "MCQ",
+    "options": {
+      "A": "Image of a cross-section (A)",
+      "B": "Image of a cross-section (B)",
+      "C": "Image of a cross-section (C)",
+      "D": "Image of a cross-section (D)"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.6",
+    "question": "Humans are naturally compassionate and honest. In a study using strategically placed wallets that appear “lost”, it was found that wallets with money are more likely to be returned than wallets without money. Similarly, wallets that had a key and money are more likely to be returned than wallets with the same amount of money alone. This suggests that the primary reason for this behavior is compassion and empathy.\nWhich one of the following is the CORRECT logical inference based on the information in the above passage?",
+    "question_type": "MCQ",
+    "options": {
+      "A": "Wallets with a key are more likely to be returned because people do not care about money",
+      "B": "Wallets with a key are more likely to be returned because people relate to suffering of others",
+      "C": "Wallets used in experiments are more likely to be returned than wallets that are really lost",
+      "D": "Money is always more important than keys"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.7",
+    "question": "A rhombus is formed by joining the midpoints of the sides of a unit square. What is the diameter of the largest circle that can be inscribed within the rhombus?",
+    "question_type": "MCQ",
+    "options": {
+      "A": "$1/\\sqrt{2}$",
+      "B": "$1/(2\\sqrt{2})$",
+      "C": "$\\sqrt{2}$",
+      "D": "$2\\sqrt{2}$"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.8",
+    "question": "An equilateral triangle, a square and a circle have equal areas.\nWhat is the ratio of the perimeters of the equilateral triangle to square to circle?",
+    "question_type": "MCQ",
+    "options": {
+      "A": "$3\\sqrt{3}:2:\\sqrt{\\pi}$",
+      "B": "$\\sqrt{\\{3\\sqrt{3}\\}}:2:\\sqrt{\\pi}$",
+      "C": "$\\sqrt{\\{3\\sqrt{3}\\}}:4:2\\sqrt{\\pi}$",
+      "D": "$(3\\sqrt{3}):2:2\\sqrt{\\pi}$"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.9",
+    "question": "Given below are three conclusions drawn based on the following three statements.\nStatement 1: All teachers are professors.\nStatement 2: No professor is a male.\nStatement 3: Some males are engineers.\nConclusion I: No engineer is a professor.\nConclusion II: Some engineers are professors.\nConclusion III: No male is a teacher.\nWhich one of the following options can be logically inferred?",
+    "question_type": "MCQ",
+    "options": {
+      "A": "Only conclusion III is correct",
+      "B": "Only conclusion I and conclusion II are correct",
+      "C": "Only conclusion II and conclusion III are correct",
+      "D": "Only conclusion I and conclusion III are correct"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.10",
+    "question": "In a 12-hour clock that runs correctly, how many times do the second, minute, and hour hands of the clock coincide, in a 12-hour duration from 3 PM in a day to 3 AM the next day?",
+    "question_type": "MCQ",
+    "options": {
+      "A": "11",
+      "B": "12",
+      "C": "144",
+      "D": "2"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.11",
+    "question": "The concentric circles in a sun-path diagram represent ______.",
+    "question_type": "MCQ",
+    "options": {
+      "A": "Altitude angle",
+      "B": "Azimuth angle",
+      "C": "Day of the year",
+      "D": "Hour of the day"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.12",
+    "question": "The operational guidelines on Credit Linked Subsidy Scheme for Economically Weaker Sections (EWS), January 2017, by the erstwhile Ministry of Housing & Urban Poverty Alleviation, Government of India, defines EWS households as those having an annual income up to ______ (in Indian Rupees).",
+    "question_type": "MCQ",
+    "options": {
+      "A": "2,00,000",
+      "B": "2,50,000",
+      "C": "3,00,000",
+      "D": "3,50,000"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.13",
+    "question": "Which of the following is a Vector Graphics Software?",
+    "question_type": "MCQ",
+    "options": {
+      "A": "Inkscape",
+      "B": "Odeon",
+      "C": "Adobe Dreamweaver",
+      "D": "DesignBuilder"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.14",
+    "question": "The main cable of a suspension bridge supports the deck with hangars. These hangars are equidistant along the length of the bridge and represent a uniformly distributed load. Assuming the cable to be weightless as compared to the applied loading, the best approximation of the shape that the cable takes for this loading is a ______.",
+    "question_type": "MCQ",
+    "options": {
+      "A": "Catenary curve",
+      "B": "Circular arc",
+      "C": "Parabolic curve",
+      "D": "Hyperbolic curve"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.15",
+    "question": "Arrange the following road types in descending order of accessibility.\n(P) Arterial Road\n(Q) Expressway\n(R) Collector Road\n(S) Local Street",
+    "question_type": "MCQ",
+    "options": {
+      "A": "Q-P-R-S",
+      "B": "S-R-P-Q",
+      "C": "S-P-R-Q",
+      "D": "P-Q-S-R"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.16",
+    "question": "The following two-dimensional visual composition represents ______.\n\n```\nImage of two interlocking rectangular frames.\n```",
+    "question_type": "MCQ",
+    "options": {
+      "A": "Interlocking",
+      "B": "Intersecting",
+      "C": "Interlacing",
+      "D": "Interpenetrating"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.17",
+    "question": "The Golden Ratio refers to ______.",
+    "question_type": "MCQ",
+    "options": {
+      "A": "$1:\\sqrt{2}$",
+      "B": "$2:(1 + \\sqrt{5})$",
+      "C": "$1:1$",
+      "D": "$16:9$"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.18",
+    "question": "Hogarth's Line of Beauty is a ______.",
+    "question_type": "MCQ",
+    "options": {
+      "A": "Horizontal straight line",
+      "B": "Zigzag line",
+      "C": "Vertical straight line",
+      "D": "Serpentine line"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.19",
+    "question": "Which of the following sites were added to Ramsar List in the year 2020?",
+    "question_type": "MSQ",
+    "options": {
+      "A": "Ashtamudi Wetland",
+      "B": "Asan Conservation Reserve",
+      "C": "Chilika Lake",
+      "D": "Lonar Lake"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.20",
+    "question": "Which of the following help(s) in keeping direct solar radiation out of the building?",
+    "question_type": "MSQ",
+    "options": {
+      "A": "Mashrabiya",
+      "B": "Badgir",
+      "C": "Malquf",
+      "D": "Chajja"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.21",
+    "question": "As per the Handbook of Professional Documents 2015, Council of Architecture, India, architects are liable ______.",
+    "question_type": "MSQ",
+    "options": {
+      "A": "If the building is used for any other purpose than the one for which it was designed",
+      "B": "If any unauthorised changes or illegal modifications are made by the owner(s)/occupant(s)",
+      "C": "If the client suffers damage/loss due to lack of proper professional service",
+      "D": "If the architect fails to attain the standard of care as prescribed by law"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.22",
+    "question": "As per the United Nations Transforming our world: The 2030 agenda for sustainable development, 2015, which of the following Sustainable Development Goals (SDGs) directly address water related issues?",
+    "question_type": "MSQ",
+    "options": {
+      "A": "SDG-1",
+      "B": "SDG-4",
+      "C": "SDG-6",
+      "D": "SDG-14"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.23",
+    "question": "For a masonry section, the line of action of force shifts to incorporate the effects of lateral forces and induced moments. Consider a masonry section of width 600 mm. Assuming a zero tensile stress capacity and a linear stress-strain response for the entire domain of loading, the minimum value of eccentricity at which the section will crack (in mm, rounded off to one decimal place) is ______.",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.24",
+    "question": "The maximum and minimum indoor dry bulb temperature of a room are 38 °C and 34 °C, respectively. If the corresponding outdoor maximum and minimum dry bulb temperature are 42 °C and 30 °C, respectively, then the thermal damping of the room (in percentage, rounded off to two decimal places) is ______.",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.25",
+    "question": "A building site measures 96 sq.cm on a scale of 1:12500. The actual area it represents (in hectare, in integer) is ______.",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.26",
+    "question": "An off-street car parking lot contains a total of 75 bays. If the parking lot was used by 687 cars over a period of 12 hours, the average parking turn-over of the parking lot (in vehicles per hour per bay, rounded off to two decimal places) is ______.",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.27",
+    "question": "The hydraulic radius of the following rectangular open drainage section (in mm, rounded off to two decimal places) is ______.\n\n```\nImage of a rectangular open channel with water level. Dimensions: width 600 mm, water depth 250 mm, total height 400 mm.\n```",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.28",
+    "question": "A town with 0.45 million population sends its entire organic waste to a composting site on a daily basis through a truck of 15 ton carrying capacity. Assume total waste generated per capita per day is 0.21 kg and 40% of the total waste is organic waste. The minimum number of weekly round trips required by the truck (in integer) will be ______.",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.29",
+    "question": "The correct sequence of the following Construction Project Development stages, as per the National Building Code of India 2016 is ______\n(P) Resource Planning\n(Q) Project Inception\n(R) Commissioning and Handing over\n(S) Tendering\n(T) Site Survey and Soil Investigation\n(U) Selection of Construction Methodology",
+    "question_type": "MCQ",
+    "options": {
+      "A": "P-Q-R-T-U-S",
+      "B": "T-Q-R-U-S-P",
+      "C": "Q-T-U-P-S-R",
+      "D": "Q-T-P-S-U-R"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.30",
+    "question": "Match the aspects in Group I with the corresponding items in Group II.\n\n```\n| Group I             | Group II            |\n|---------------------|---------------------|\n| (P) Fire safety     | (1) Intruder alarm  |\n| (Q) Seismic safety  | (2) Zero-strength barrier |\n| (R) Water efficiency| (3) Stair lift      |\n| (S) Accessible design| (4) Aerator         |\n|                     | (5) Auxiliary damper|\n```",
+    "question_type": "MCQ",
+    "options": {
+      "A": "P-4, Q-5, R-2, S-3",
+      "B": "P-5, Q-1, R-4, S-2",
+      "C": "P-2, Q-4, R-5, S-1",
+      "D": "P-2, Q-5, R-4, S-3"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.31",
+    "question": "Match the States in Group I with the corresponding Vernacular Building Typologies in Group II\n\n```\n| Group I     | Group II      |\n|-------------|---------------|\n| (P) Kerala  | (1) Morung    |\n| (Q) Jharkhand| (2) Pol       |\n| (R) Nagaland| (3) Dhumkuria |\n| (S) Gujarat | (4) Nalukettu |\n|             | (5) Ghotul    |\n```",
+    "question_type": "MCQ",
+    "options": {
+      "A": "P-4, Q-5, R-3, S-2",
+      "B": "P-5, Q-1, R-2, S-4",
+      "C": "P-5, Q-3, R-1, S-4",
+      "D": "P-4, Q-3, R-1, S-2"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.32",
+    "question": "Match the examples in Group I with their corresponding typologies in Group II.\n\n```\n| Group I                       | Group II              |\n|-------------------------------|-----------------------|\n| (P) Navi Mumbai               | (1) Counter Magnet    |\n| (Q) Hissar                    | (2) Urban Agglomeration|\n| (R) Greater Mumbai            | (3) Satellite Town    |\n| (S) Delhi-Mumbai Industrial Corridor| (4) University Town   |\n|                               | (5) Investment Region |\n```",
+    "question_type": "MCQ",
+    "options": {
+      "A": "P-2, Q-1, R-4, S-5",
+      "B": "P-4, Q-2, R-5, S-3",
+      "C": "P-3, Q-1, R-2, S-5",
+      "D": "P-3, Q-5, R-1, S-4"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.33",
+    "question": "Match the Place(s)/Event(s) in Group I with the corresponding Heritage Significance/Characteristics in Group II.\n\n```\n| Group I                               | Group II                                                              |\n|---------------------------------------|-----------------------------------------------------------------------|\n| (P) Chhatrapati Shivaji Terminus, Mumbai| (1) A long interaction between people and the landscape               |\n| (Q) Kumbh Mela                        | (2) Cultural routes                                                   |\n| (R) Walled City of Jaipur             | (3) Victorian Gothic revival and traditional Indian features          |\n| (S) Rock Shelters of Bhimbetka        | (4) Intangible cultural heritage                                      |\n|                                       | (5) Traditional human settlement, land use reflecting an interchange of ancient Hindu and Mughal ideas|\n```",
+    "question_type": "MCQ",
+    "options": {
+      "A": "P-1, Q-4, R-3, S-2",
+      "B": "P-3, Q-4, R-5, S-1",
+      "C": "P-2, Q-3, R-4, S-1",
+      "D": "P-3, Q-2, R-5, S-4"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.34",
+    "question": "Match the Urban Design Concepts in Group I with their corresponding Proponents in Group II.\n\n```\n| Group I                         | Group II          |\n|---------------------------------|-------------------|\n| (P) Vertical theory of Urban Design| (1) Ian Bentley   |\n| (Q) Theory of Responsive Environments| (2) Gordon Cullen |\n| (R) Serial Vision               | (3) Norman Pressman|\n| (S) Winter Urbanism             | (4) Ken Yeang     |\n|                                 | (5) Paul Oliver   |\n```",
+    "question_type": "MCQ",
+    "options": {
+      "A": "P-1, Q-2, R-3, S-4",
+      "B": "P-4, Q-1, R-2, S-3",
+      "C": "P-4, Q-3, R-5, S-1",
+      "D": "P-5, Q-4, R-2, S-3"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.35",
+    "question": "In the following sketch, P, Q, R, and S refer to elements of an urban space. Identify P, Q, R, S.\n\n```\nSketch of an urban space with a central building (landmark), a path leading to it, edges defined by trees/buildings, and a vista. P points to the building, Q to the vista, R to the path, S to the edge.\n```",
+    "question_type": "MCQ",
+    "options": {
+      "A": "P-Path, Q-Vista, R- Edge, S-Landmark",
+      "B": "P-Vista, Q-Edge, R- Landmark, S-Path",
+      "C": "P-Landmark, Q-Vista, R- Path, S-Edge",
+      "D": "P-Landmark, Q-Edge, R- Path, S-Vista"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.36",
+    "question": "As per the URDPFI Guidelines 2015, match the type of Health Care Facilities in Group I to the corresponding population served per unit in Group II.\n\n```\n| Group I                     | Group II |\n|-----------------------------|----------|\n| (P) Multi-Speciality Hospital| (1) 15,000 |\n| (Q) Dispensary              | (2) 50,000 |\n| (R) Veterinary Hospital     | (3) 1,00,000 |\n| (S) General Hospital        | (4) 2,50,000 |\n|                             | (5) 5,00,000 |\n```",
+    "question_type": "MCQ",
+    "options": {
+      "A": "P-1, Q-2, R-3, S-4",
+      "B": "P-3, Q-1, R-5, S-4",
+      "C": "P-4, Q-3, R-5, S-2",
+      "D": "P-5, Q-1, R-2, S-3"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.37",
+    "question": "Match the plan forms in Group I with their corresponding project names in Group II.\n\n```\n| Group I                               | Group II                      |\n|---------------------------------------|-------------------------------|\n| (P) Image of a triangular plan form.  | (1) New Parliament of Egypt, Cairo|\n| (Q) Image of a circular plan form with radial elements.| (2) Apple Park Campus, California|\n| (R) Image of a Y-shaped plan form.    | (3) Commerzbank, Frankfurt    |\n| (S) Image of a circular plan form.    | (4) 30 St. Mary Axe, London   |\n|                                       | (5) Parliament Building, Dhaka|\n```",
+    "question_type": "MCQ",
+    "options": {
+      "A": "P-3, Q-5, R-4, S-2",
+      "B": "P-4, Q-2, R-1, S-5",
+      "C": "P-1, Q-2, R-3, S-4",
+      "D": "P-3, Q-5, R-1, S-2"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.38",
+    "question": "Match the Biosphere reserves in India in Group I with their corresponding locations in Group II.\n\n```\n| Group I                         | Group II                                                              |\n|---------------------------------|-----------------------------------------------------------------------|\n| (P) Agasthyamala Biosphere Reserve| (1) Western Himalayan region, Himachal Pradesh                        |\n| (Q) Nokrek Biosphere Reserve    | (2) Western Ghats, Kerala and Tamil Nadu                              |\n| (R) Cold desert Biosphere Reserve| (3) Tura range, Meghalaya                                             |\n| (S) Simlipal Biosphere Reserve  | (4) Kachchh, Rajkot, Surendranagar, and Patan districts, Gujarat      |\n|                                 | (5) Mayurbhanj district, Odisha                                       |\n```",
+    "question_type": "MCQ",
+    "options": {
+      "A": "P-2, Q-1, R-4, S-3",
+      "B": "P-2, Q-3, R-1, S-5",
+      "C": "P-3, Q-1, R-4, S-5",
+      "D": "P-4, Q-5, R-1, S-3"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.39",
+    "question": "In traditional Persian context, qanat system refers to ______.",
+    "question_type": "MSQ",
+    "options": {
+      "A": "An underground water-way, tunnelled and channelled",
+      "B": "A system where water is raised by a series of scoops fixed to a moving belt stretched between two wheels",
+      "C": "A method of conducting water from a source-well rather than raising it",
+      "D": "A system where water is conducted from enclosure to enclosure by straightforward gravity fall"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.40",
+    "question": "Which of the following is/are classified as the Principles of Universal Design?",
+    "question_type": "MSQ",
+    "options": {
+      "A": "Perceptible Information",
+      "B": "Tolerance for Error",
+      "C": "Occult Balance",
+      "D": "Simple and Intuitive Use"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.41",
+    "question": "As per the URDPFI Guidelines 2015, which of the following Organoleptic and Physical parameters comply with the acceptable limit requirements of drinking water quality?",
+    "question_type": "MSQ",
+    "options": {
+      "A": "Colour: Maximum 5 Hazen units",
+      "B": "Turbidity: Maximum 1 NTU",
+      "C": "pH Value: Minimum 10",
+      "D": "Total Dissolved Solids: Maximum 500 mg/l"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.42",
+    "question": "In an ideal air-conditioning cycle shown below, which of the following statement(s) is/are true in the segments P, Q, R, S?\n\n```\nDiagram of an air-conditioning cycle showing a compressor, condenser, expansion valve, and evaporator. P is the segment from evaporator to compressor, Q from compressor to condenser, R from condenser to expansion valve, S from expansion valve to evaporator.\n```",
+    "question_type": "MSQ",
+    "options": {
+      "A": "P: Vapour at low pressure",
+      "B": "Q: Vapour at low pressure",
+      "C": "R: Liquid at high pressure",
+      "D": "S: Liquid-Vapour mixture at low pressure"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.43",
+    "question": "Which of the following is/are the characteristic(s) of a Mughal Garden?",
+    "question_type": "MSQ",
+    "options": {
+      "A": "Symmetrical and geometrical",
+      "B": "Fountain and channelled water",
+      "C": "Winding road and untrimmed vegetation",
+      "D": "Vista with terminal building"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.44",
+    "question": "As per the Central Pollution Control Board's National Air Quality Index (AQI) of India 2014, which of the following statement(s) is/are true?",
+    "question_type": "MSQ",
+    "options": {
+      "A": "AQI is computed considering 8-hourly value of CO",
+      "B": "AQI is computed considering 2-hourly value of PM2.5",
+      "C": "AQI considers the O$_3$ concentrations",
+      "D": "AQI considers the CO$_2$ concentrations"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.45",
+    "question": "The decadal population data of a city are given in the following Table. The domestic water consumption of the city is estimated to be 175 litres per capita per day in the year 2041. Considering 2011 population as the base year and using arithmetic growth method of population forecasting, the daily domestic water demand of the city in the year 2041 (in million litres per day, rounded off to two decimal places) will be ______.\n\n```\n| Year       | 1981      | 1991      | 2001      | 2011      |\n|------------|-----------|-----------|-----------|-----------|\n| Population | 1,80,750  | 1,95,850  | 2,15,300  | 2,45,450  |\n```",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.46",
+    "question": "The activity duration, early start, early finish, late start, and late finish (in weeks) for activities P, Q, R, and S are shown in the following figure. The interfering float of activity R (in weeks, in integer) is ______.\n\n```\nNetwork diagram with nodes P, Q, R, S and links. P-Q (duration 2), Q-S (duration 9), R-S (duration 2), P-R (duration 3). Early/Late start/finish times are also given for each activity:\nP: ES=10, EF=12, LS=10, LF=12, Duration=2\nQ: ES=12, EF=21, LS=12, LF=21, Duration=9\nR: ES=12, EF=15, LS=24, LF=27, Duration=3\nS: ES=21, EF=23, LS=27, LF=29, Duration=2\n```",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.47",
+    "question": "A 230 mm thick brick wall of 10 m length and 3 m height is built using a Flemish bond. The size of the bricks used is 230 mm x 112.5 mm x 70 mm. Assuming a mortar thickness of 5 mm, the number of bricks required (in integer) is ______.",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.48",
+    "question": "The reflected ceiling plan and section of a reinforced cement concrete roof are shown in the following Figure. All the beams are 300 mm wide, 600 mm deep (including 150 mm slab) equidistantly placed center to center. Assuming 1% of concrete volume is occupied by reinforcement bars, the volume of concrete (in cubic meters, rounded off to two decimal places) is ______.\n\n```\nReflected ceiling plan and section of an RCC roof. Plan shows a 3x3 grid of bays, each 10m x 10m, with beams 300mm wide. Section shows beams 600mm deep (including 150mm slab).\n```",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.49",
+    "question": "The following graph represents the income distribution among the population of a country. The Gini Coefficient of the country (rounded off to three decimal places) is ______.\n\n```\nLorenz curve graph showing Cumulative Percentage of Income vs. Cumulative Percentage of Population. The Perfect Equality Line is a diagonal. The Income Line is below it, passing through (0,0), (30,18), (50,45), (70,50), (100,100).\n```",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.50",
+    "question": "Which of the following processes is used for surface treatment of metals?",
+    "question_type": "MCQ",
+    "options": {
+      "A": "Soldering",
+      "B": "Thermoplating",
+      "C": "Extrusion",
+      "D": "Riveting"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.51",
+    "question": "Among the following monuments of ancient Greece, the only Octastyle Peripteral temple with eight towering Doric columns lining both east and west facades is ______.",
+    "question_type": "MCQ",
+    "options": {
+      "A": "Temple of Athena",
+      "B": "Temple of Apollo",
+      "C": "The Parthenon",
+      "D": "Temple of Horus"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.52",
+    "question": "An Ultrasonic Pulse Velocity (UPV) test was done on a hardened concrete element using a direct transmission method as per IS 516 (Part 5/Section 1): 2018. The distance between the transducer and receiver was 600 mm. The time taken for the induced wave to travel this distance is measured as 0.18 milliseconds. Based on the following Table, the concrete quality grading is ______.\n\n```\n| Velocity (km/s) – cross probing | Concrete quality grading |\n|---------------------------------|--------------------------|\n| Above 4.4                       | Excellent                |\n| 3.75 – 4.4                      | Good                     |\n| 3.0 – 3.75                      | Doubtful                 |\n| Less than 3.0                   | Poor                     |\n```",
+    "question_type": "MCQ",
+    "options": {
+      "A": "Excellent",
+      "B": "Good",
+      "C": "Doubtful",
+      "D": "Poor"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.53",
+    "question": "Which of the following is/are example(s) of Tomb Architecture of Ancient Egypt?",
+    "question_type": "MSQ",
+    "options": {
+      "A": "Step Pyramid of Zoser, Sakkara",
+      "B": "Great Temple of Abu-Simbel",
+      "C": "Temple of Khons, Karnak",
+      "D": "Mastabas of Gizeh"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.54",
+    "question": "If Aluminium : Anodisation :: Glazing : X, which of the following choices represent X?",
+    "question_type": "MSQ",
+    "options": {
+      "A": "Hard coating",
+      "B": "External cement plastering",
+      "C": "Tempering",
+      "D": "Free-standing vertical greening"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.55",
+    "question": "A blackbody radiant heating panel of 5 m² surface area at 35 °C surface temperature is located 1 m away from a 1 m² surface at 20 °C. The Stefan-Boltzmann constant is $5.6703\\times10^{-8}$ W m$^{-2}$ K$^{-4}$. The rate of radiant heat emission by the radiant heating panel (in W, rounded off to two decimal places) is ______.",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.56",
+    "question": "A hypothetical truss comprising of weightless members is shown in the following Figure. Assuming tension to be positive and compression to be negative, the value of force in member TU (in kN, rounded off to one decimal place) is ______.\n\n```\nTruss diagram: A triangular truss with nodes W, U, V, T, S. A 30 kN vertical load at U. A 40 kN horizontal load at W. Supports at W (hinge) and S (roller). Dimensions: W-V = 4m, V-T = 4m, T-S = 4m (horizontal segments). U is above V, T is above S. U-V is vertical. T-S is horizontal. U-T is diagonal. V-T is horizontal. W-U is diagonal. V-S is diagonal. U-S is diagonal. The question refers to member TU.\n```",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.57",
+    "question": "Match the illustrations of Arch Types in Group I with their corresponding names in Group II.\n\n```\n| Group I                               | Group II            |\n|---------------------------------------|---------------------|\n| (P) Image of a pointed arch with a central cusp (Ogee Arch).| (1) Venetian Arch   |\n| (Q) Image of a semicircular arch with multiple foils (Moorish Multifoil Arch).| (2) Ogee Arch       |\n| (R) Image of a flat arch with corbels (Shouldered Arch).| (3) Moorish Multifoil Arch|\n| (S) Image of a stepped arch (Corbelled Arch).| (4) Corbelled Arch  |\n|                                       | (5) Shouldered Arch |\n```",
+    "question_type": "MCQ",
+    "options": {
+      "A": "P-2, Q-3, R-1, S-4",
+      "B": "P-3, Q-1, R-2, S-5",
+      "C": "P-3, Q-2, R-5, S-4",
+      "D": "P-5, Q-4, R-3, S-1"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.58",
+    "question": "Match the architectural projects in Group I with their corresponding architects in Group II.\n\n```\n| Group I                               | Group II          |\n|---------------------------------------|-------------------|\n| (P) Indian Institute of Management Bangalore| (1) Revathi Kamath|\n| (Q) Osho International Meditation Resort, Pune| (2) Brinda Somaya |\n| (R) Nalanda International School, Vadodara| (3) Roger Anger   |\n| (S) Matrimandir, Auroville            | (4) B. V. Doshi   |\n|                                       | (5) Hafeez Contractor|\n```",
+    "question_type": "MCQ",
+    "options": {
+      "A": "P-4, Q-5, R-2, S-3",
+      "B": "P-4, Q-1, R-5, S-2",
+      "C": "P-2, Q-4, R-5, S-1",
+      "D": "P-3, Q-5, R-1, S-2"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.59",
+    "question": "Match the structural joining systems in Group I with the corresponding materials for which they are commonly used in Group II.\n\n```\n| Group I             | Group II |\n|---------------------|----------|\n| (P) Welding         | (1) Glass|\n| (Q) Spider Connector| (2) Plastic|\n| (R) Mortise and Tenon| (3) Brick|\n| (S) Mortar          | (4) Steel|\n|                     | (5) Timber|\n```",
+    "question_type": "MCQ",
+    "options": {
+      "A": "P-4, Q-1, R-2, S-5",
+      "B": "P-3, Q-5, R-1, S-2",
+      "C": "P-2, Q-3, R-5, S-1",
+      "D": "P-4, Q-1, R-5, S-3"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.60",
+    "question": "Match the Instruments in Group I with the corresponding climate parameters in Group II.\n\n```\n| Group I       | Group II          |\n|---------------|-------------------|\n| (P) Pyranometer| (1) Humidity      |\n| (Q) Disdrometer| (2) Wind          |\n| (R) Hygrometer| (3) Solar Radiation|\n| (S) Anemometer| (4) Pressure      |\n|               | (5) Precipitation |\n```",
+    "question_type": "MCQ",
+    "options": {
+      "A": "P-3, Q-5, R-1, S-2",
+      "B": "P-3, Q-4, R-5, S-2",
+      "C": "P-5, Q-3, R-2, S-4",
+      "D": "P-1, Q-2, R-3, S-5"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.61",
+    "question": "In traditional Indian temple architecture, which of the following statement(s) is/are true?",
+    "question_type": "MSQ",
+    "options": {
+      "A": "Jagamohana refers to a dancing hall",
+      "B": "Gopuram refers to an entrance tower",
+      "C": "Char-chala refers to a roof composed of four triangular segments",
+      "D": "Vimana refers to the structure over the Garbhagriha"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.62",
+    "question": "Which of the following factors impact Daylight Autonomy of a built space?",
+    "question_type": "MSQ",
+    "options": {
+      "A": "Orientation of building",
+      "B": "Glare caused by daylight",
+      "C": "Latitude and longitude of building location",
+      "D": "Fenestration size"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.63",
+    "question": "For the beam shown in the following Figure, assuming a sagging moment (generating tensile stresses at the bottom fibre) as positive and a hogging moment (generating tensile stresses at the top fibre) as negative, the bending moment (in kN.m, rounded off to one decimal place) at section X-X is ______.\n\n```\nBeam diagram: A simply supported beam W-Z (total length 5m) with a roller support at W and a hinge support at Z. A point load of 120 kN is at 2m from W. A uniformly distributed load (udl) of 20 kN/m is applied from 2m to 4m from W. Section X-X is at 2m from W (under the point load).\n```",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.64",
+    "question": "The acoustical absorption of a wall panel in each octave band is tabulated below. The Noise Reduction Coefficient of the wall panel (rounded off to two decimal places) is ______.\n\n```\n| 63 Hz | 125 Hz | 250 Hz | 500 Hz | 1000 Hz | 2000 Hz | 4000 Hz | 8000 Hz | 16000 Hz |\n|-------|--------|--------|--------|---------|---------|---------|---------|----------|\n| 0.1   | 0.2    | 0.5    | 0.5    | 0.7     | 0.8     | 0.8     | 0.9     | 0.9      |\n```",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.65",
+    "question": "A room is maintained at a wet bulb temperature of 25 °C, globe temperature of 30 °C, and air velocity of 0.5 m/s. The decrease in Tropical Summer Index when the air velocity is increased to 3 m/s (in °C, rounded off to two decimal places) is ______.",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.66",
+    "question": "Which of the following is the National Electronic Toll Collection System implemented by the National Payment Corporation of India?",
+    "question_type": "MCQ",
+    "options": {
+      "A": "e-Pass",
+      "B": "E-ZPass",
+      "C": "HashTag",
+      "D": "FASTag"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.67",
+    "question": "The shaded area in the following demand-supply graph is known as ______.\n\n```\nDemand-supply graph. X-axis: Quantity, Y-axis: Price. Supply Curve slopes upwards, Demand Curve slopes downwards. The area above the equilibrium price and below the demand curve is shaded.\n```",
+    "question_type": "MCQ",
+    "options": {
+      "A": "Consumer Surplus",
+      "B": "Consumer Deficit",
+      "C": "Producer Surplus",
+      "D": "Producer Deficit"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.68",
+    "question": "Identify the following traffic interchange.\n\n```\nImage of a Clover-Leaf traffic interchange.\n```",
+    "question_type": "MCQ",
+    "options": {
+      "A": "Directional",
+      "B": "Trumpet",
+      "C": "Clover-Leaf",
+      "D": "Diamond"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.69",
+    "question": "Which of the following is/are Value Capture Method(s)?",
+    "question_type": "MSQ",
+    "options": {
+      "A": "Building construction fees",
+      "B": "Fees for changing agricultural to non-agricultural land use",
+      "C": "User charge",
+      "D": "Premium on additional FSI/FAR"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.70",
+    "question": "Which among the following is/are model(s) of Public-Private Partnership (PPP) used for infrastructure projects?",
+    "question_type": "MSQ",
+    "options": {
+      "A": "BOLD",
+      "B": "BOLT",
+      "C": "BOOT",
+      "D": "BPOT"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.71",
+    "question": "The measured spot speeds (in km/h) of 10 vehicles from a traffic stream are 45, 35, 25, 51, 45, 38, 61, 42, 47, and 49. The Time Mean Speed of the traffic stream (in km/h, rounded off to one decimal place) is ______.",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.72",
+    "question": "In a township, the price of each house was 25,00,000 (in Indian Rupees) last month. The number of houses sold in a month (Q in thousands) is sensitive to the price of the house (P in Indian Rupees) and establishes a relationship as $Q = 6685 – 0.00158P$. If the price of each house increases by 20% in the current month, then the decrease in sale of the houses (in percentage, rounded off to two decimal places) compared to last month will be ______.",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.73",
+    "question": "Match the models in Group I with their corresponding applications in Group II.\n\n```\n| Group I                 | Group II          |\n|-------------------------|-------------------|\n| (P) Logit model         | (1) Trip assignment|\n| (Q) Greenshield model   | (2) Modal split   |\n| (R) Gravity model       | (3) Traffic flow  |\n| (S) Multiple regression model| (4) Trip generation|\n|                         | (5) Trip distribution|\n```",
+    "question_type": "MCQ",
+    "options": {
+      "A": "P-2, Q-1, R-5, S-4",
+      "B": "P-1, Q-5, R-2, S-3",
+      "C": "P-2, Q-3, R-5, S-4",
+      "D": "P-5, Q-3, R-4, S-2"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.74",
+    "question": "Match the proponents in Group I with the corresponding theories in Group II.\n\n```\n| Group I                           | Group II                  |\n|-----------------------------------|---------------------------|\n| (P) James Q Wilson and George K. Kelling| (1) Creative Class        |\n| (Q) Sherry Arnstein               | (2) Right to City         |\n| (R) Henry Lefebvre                | (3) Drive-in Culture      |\n| (S) Richard Florida               | (4) Ladder of Citizen Participation|\n|                                   | (5) Broken Window         |\n```",
+    "question_type": "MCQ",
+    "options": {
+      "A": "P-2, Q-4, R-3, S-5",
+      "B": "P-4, Q-2, R-5, S-1",
+      "C": "P-5, Q-4, R-2, S-1",
+      "D": "P-3, Q-5, R-2, S-4"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.75",
+    "question": "Match the Artists/Scientists in Group I with their corresponding contributions in Group II.\n\n```\n| Group I                     | Group II                  |\n|-----------------------------|---------------------------|\n| (P) Robert Park and Louis Wirth| (1) Poverty Map           |\n| (Q) Jacob August Riis       | (2) Cholera Map           |\n| (R) Charles Booth           | (3) Tenement Shelter Photography|\n| (S) John Snow               | (4) Urban Ethnography     |\n|                             | (5) Underground Sewerage Systems|\n```",
+    "question_type": "MCQ",
+    "options": {
+      "A": "P-4, Q-3, R-1, S-2",
+      "B": "P-4, Q-1, R-5, S-2",
+      "C": "P-5, Q-3, R-1, S-4",
+      "D": "P-4, Q-3, R-5, S-1"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.76",
+    "question": "In the conceptual diagram of the city given below, P, Q, R, and S refer to urban patterns. Among the choices given below, the correct association is ______.\n\n```\nConceptual diagram of a city. S is a central dense area. P is a smaller, separate dense area connected by a Metrorail Line and State Highway. R is an area along the Metrorail Line. Q is a less dense area surrounding S and P, extending towards the City Boundary.\n```",
+    "question_type": "MCQ",
+    "options": {
+      "A": "P-Satellite town, Q-Urban fringe, R-TOD, S-Central Business District",
+      "B": "P-Central Business District, Q-Satellite town, R-TOD, S-Urban fringe",
+      "C": "P-Urban fringe, Q-TOD, R-Satellite town, S-Central Business District",
+      "D": "P-Satellite town, Q-Central Business District, R-TOD, S-Urban fringe"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.77",
+    "question": "Which among the following is/are the component(s) of the assimilative carrying capacity of urban environment?",
+    "question_type": "MSQ",
+    "options": {
+      "A": "Air",
+      "B": "Water",
+      "C": "Economy",
+      "D": "Soil"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.78",
+    "question": "In the transportation network given below, P, Q, R, S, T, and U are the nodes and values mentioned on the links denote time in minutes. Which of the following options represent the minimum spanning tree?\n\n```\nTransportation network graph with nodes P, Q, R, S, T, U. Edges and weights (time in minutes):\nP-Q (2), P-R (3), Q-T (3), Q-S (8), R-S (6), R-T (2), S-U (2), T-U (3).\n```",
+    "question_type": "MSQ",
+    "options": {
+      "A": "PQ, QR, QT, TS, SU",
+      "B": "PR, QR, RT, TU, SU",
+      "C": "PQ, QR, RT, TS, SU",
+      "D": "PQ, QR, RS, ST, TU"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.79",
+    "question": "A vehicle count survey (in Passenger Car Unit) is conducted on a mid-block section of a road at regular intervals of 15 minutes from 8:00 AM to 10:00 AM. Based on the data given in Table below, the Peak Hour Factor (rounded off to two decimal places) for the given survey duration is ______.\n\n```\n| Time Interval        | Passenger Car Unit |\n|----------------------|--------------------|\n| 8:00 AM – 8:15 AM    | 212                |\n| 8:15 AM – 8:30 AM    | 248                |\n| 8:30 AM – 8:45 AM    | 272                |\n| 8:45 AM – 9:00 AM    | 315                |\n| 9:00 AM – 9:15 AM    | 337                |\n| 9:15 AM – 9:30 AM    | 405                |\n| 9:30 AM – 9:45 AM    | 320                |\n| 9:45 AM – 10:00 AM   | 267                |\n```",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.80",
+    "question": "A land owner has shown interest in a Town Planning Scheme. Based on the details of the scheme given in the following Table, the estimated Net Benefit to the land owner after land development (in Indian Rupees, in integer) is ______.\n\n```\n| Original plot size                  | 500 Sq. m                  |\n|-------------------------------------|----------------------------|\n| Original land value                 | 1200 Indian Rupees per Sq.m|\n| Plot deduction for development      | 40%                        |\n| Developed land value                | 2800 Indian Rupees per Sq.m|\n| Total betterment cost to be paid by the land owner| 50% of the increased total land value|\n```",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.81",
+    "question": "The year-wise cash flows (in Indian Rupees) of a construction project are given in the following Table. If the annual discount rate for the project is assumed to be 12%, the Net Present Value (in Indian Rupees, rounded off to two decimal places) for the project will be ______.\n\n```\n| Year | Annual Cash Outflow | Annual Cash Inflow |\n|------|---------------------|--------------------|\n| 0    | 5,00,000            | 0                  |\n| 1    | 0                   | 0                  |\n| 2    | 0                   | 0                  |\n| 3    | 50,000              | 1,80,000           |\n| 4    | 50,000              | 2,20,000           |\n| 5    | 50,000              | 2,90,000           |\n| 6    | 0                   | 3,30,000           |\n```",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  }
+]

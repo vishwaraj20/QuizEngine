@@ -15,7 +15,11 @@ export default function ExamPrepPage() {
   const [error, setError] = useState(null);
 
   const isDirectExam = examName === 'MPSC' || examName === 'UPSC';
-  const phases = examName === 'SSC CGL' || examName === 'SSC CHSL' || examName.startsWith('SSC') ? ['Tier 1', 'Tier 2'] : ['Prelims', 'Mains', 'Interview'];
+  const phases = examName === 'GATE' 
+    ? ['Computer Science (CS)', 'Mechanical (ME)', 'Civil (CE)', 'Electrical (EE)', 'Electronics (EC)', 'Instrumentation (IN)', 'Agricultural (AG)', 'Architecture and Planning (AR)'] 
+    : examName === 'SSC CGL' || examName === 'SSC CHSL' || examName.startsWith('SSC') 
+      ? ['Tier 1', 'Tier 2'] 
+      : ['Prelims', 'Mains', 'Interview'];
   const QUIZ_MODES = ['PYQ Papers', 'Subject-wise', 'Topic-wise'];
   
   const [activePhase, setActivePhase] = useState(searchParams.get('phase') || phases[0]);
@@ -106,7 +110,12 @@ export default function ExamPrepPage() {
     setSelectedSubject('All');
     setSelectedYear('All');
     setSelectedTopic('All');
-    setStep(2);
+    if (examName === 'GATE') {
+      setActiveMode('PYQ Papers');
+      setStep(3);
+    } else {
+      setStep(2);
+    }
   };
   
   const handleModeChange = (mode) => {
@@ -157,8 +166,8 @@ export default function ExamPrepPage() {
                       <ArrowLeft className="w-3 h-3" /> Back to Phases
                    </button>
                  ) : (
-                   <button onClick={() => setStep(2)} className="text-blue-600 font-bold text-sm flex items-center gap-1 hover:underline mb-2">
-                      <ArrowLeft className="w-3 h-3" /> Back to Modes
+                   <button onClick={() => setStep(examName === 'GATE' ? 1 : 2)} className="text-blue-600 font-bold text-sm flex items-center gap-1 hover:underline mb-2">
+                      <ArrowLeft className="w-3 h-3" /> {examName === 'GATE' ? 'Back to Branches' : 'Back to Modes'}
                    </button>
                  )}
                  <h1 className="text-5xl font-black text-gray-900 dark:text-white tracking-tighter uppercase flex items-center gap-2">

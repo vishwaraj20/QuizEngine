@@ -1,0 +1,742 @@
+[
+  {
+    "question_number": "Q.1",
+    "question": "The fishermen, ______ the flood victims owed their lives, were rewarded by the government.",
+    "question_type": "MCQ",
+    "options": {
+      "A": "whom",
+      "B": "to which",
+      "C": "to whom",
+      "D": "that"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.2",
+    "question": "Some students were not involved in the strike.\n\nIf the above statement is true, which of the following conclusions is/are logically necessary?\n1. Some who were involved in the strike were students.\n2. No student was involved in the strike.\n3. At least one student was involved in the strike.\n4. Some who were not involved in the strike were students.",
+    "question_type": "MCQ",
+    "options": {
+      "A": "1 and 2",
+      "B": "3",
+      "C": "4",
+      "D": "2 and 3"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.3",
+    "question": "The radius as well as the height of a circular cone increases by 10%. The percentage increase in its volume is ______.",
+    "question_type": "MCQ",
+    "options": {
+      "A": "17.1",
+      "B": "21.0",
+      "C": "33.1",
+      "D": "72.8"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.4",
+    "question": "Five numbers 10, 7, 5, 4 and 2 are to be arranged in a sequence from left to right following the directions given below:\n1. No two odd or even numbers are next to each other.\n2. The second number from the left is exactly half of the left-most number.\n3. The middle number is exactly twice the right-most number.\nWhich is the second number from the right?",
+    "question_type": "MCQ",
+    "options": {
+      "A": "2",
+      "B": "4",
+      "C": "7",
+      "D": "10"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.5",
+    "question": "Until Iran came along, India had never been ______ in kabaddi.",
+    "question_type": "MCQ",
+    "options": {
+      "A": "defeated",
+      "B": "defeating",
+      "C": "defeat",
+      "D": "defeatist"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.6",
+    "question": "Since the last one year, after a 125 basis point reduction in repo rate by the Reserve Bank of India, banking institutions have been making a demand to reduce interest rates on small saving schemes. Finally, the government announced yesterday a reduction in interest rates on small saving schemes to bring them on par with fixed deposit interest rates.\n\nWhich one of the following statements can be inferred from the given passage?",
+    "question_type": "MCQ",
+    "options": {
+      "A": "Whenever the Reserve Bank of India reduces the repo rate, the interest rates on small saving schemes are also reduced",
+      "B": "Interest rates on small saving schemes are always maintained on par with fixed deposit interest rates",
+      "C": "The government sometimes takes into consideration the demands of banking institutions before reducing the interest rates on small saving schemes",
+      "D": "A reduction in interest rates on small saving schemes follow only after a reduction in repo rate by the Reserve Bank of India"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.7",
+    "question": "In a country of 1400 million population, 70% own mobile phones. Among the mobile phone owners, only 294 million access the Internet. Among these Internet users, only half buy goods from e-commerce portals. What is the percentage of these buyers in the country?",
+    "question_type": "MCQ",
+    "options": {
+      "A": "10.50",
+      "B": "14.70",
+      "C": "15.00",
+      "D": "50.00"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.8",
+    "question": "The nomenclature of Hindustani music has changed over the centuries. Since the medieval period dhrupad styles were identified as baanis. Terms like gayaki and baaj were used to refer to vocal and instrumental styles, respectively. With the institutionalization of music education the term gharana became acceptable. Gharana originally referred to hereditary musicians from a particular lineage, including disciples and grand disciples.\n\nWhich one of the following pairings is NOT correct?",
+    "question_type": "MCQ",
+    "options": {
+      "A": "dhrupad, baani",
+      "B": "gayaki, vocal",
+      "C": "baaj, institution",
+      "D": "gharana, lineage"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.9",
+    "question": "Two trains started at 7AM from the same point. The first train travelled north at a speed of 80km/h and the second train travelled south at a speed of 100 km/h. The time at which they were 540 km apart is ______ AM.",
+    "question_type": "MCQ",
+    "options": {
+      "A": "9",
+      "B": "10",
+      "C": "11",
+      "D": "11.30"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.10",
+    "question": "\"I read somewhere that in ancient times the prestige of a kingdom depended upon the number of taxes that it was able to levy on its people. It was very much like the prestige of a head-hunter in his own community.\"\n\nBased on the paragraph above, the prestige of a head-hunter depended upon ______.",
+    "question_type": "MCQ",
+    "options": {
+      "A": "the prestige of the kingdom",
+      "B": "the prestige of the heads",
+      "C": "the number of taxes he could levy",
+      "D": "the number of heads he could gather"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.1",
+    "question": "Which of the following commands in AUTOCAD is used to create 3D solid between various cross sections?",
+    "question_type": "MCQ",
+    "options": {
+      "A": "LOFT",
+      "B": "MESH",
+      "C": "XEDGES",
+      "D": "PFACE"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.2",
+    "question": "Name the architect who criticized ornament in useful objects in his essay 'Ornament and Crime'.",
+    "question_type": "MCQ",
+    "options": {
+      "A": "John Ruskin",
+      "B": "H P Berlage",
+      "C": "Adolf Loos",
+      "D": "Walter Gropius"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.3",
+    "question": "A sanitary landfill is provided with High Density Poly Ethylene (HDPE) lining along the ground surface. This is provided primarily to prevent",
+    "question_type": "MCQ",
+    "options": {
+      "A": "Bleaching",
+      "B": "Leaching",
+      "C": "Rodents",
+      "D": "Plant growth"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.4",
+    "question": "Super-elevation of a road with pre-determined radius of curvature is primarily dependent on",
+    "question_type": "MCQ",
+    "options": {
+      "A": "Altitude",
+      "B": "Soil bearing capacity",
+      "C": "Traffic volume",
+      "D": "Design traffic speed"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.5",
+    "question": "In a mono-centric urban model, land rent is expected to",
+    "question_type": "MCQ",
+    "options": {
+      "A": "diminish as one moves towards the center",
+      "B": "diminish as one moves away from the center",
+      "C": "remain constant across the whole urban area",
+      "D": "be unrelated with distance from center"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.6",
+    "question": "Fineness modulus of sand measures its",
+    "question_type": "MCQ",
+    "options": {
+      "A": "Compressive strength",
+      "B": "Grading according to particle size",
+      "C": "Bulking of sand",
+      "D": "Ratio of coarse and fine sand"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.7",
+    "question": "The spherical surface of the geodesic dome comprises of",
+    "question_type": "MCQ",
+    "options": {
+      "A": "Equilateral triangles of various sizes",
+      "B": "Isosceles triangles of various sizes",
+      "C": "Equilateral triangles of uniform size",
+      "D": "Isosceles triangles of uniform size"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.8",
+    "question": "The abrupt change or junction between two ecological zones is termed as",
+    "question_type": "MCQ",
+    "options": {
+      "A": "Ecological niche",
+      "B": "Ecosystem",
+      "C": "Ecotype",
+      "D": "Ecotone"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.9",
+    "question": "Complementary colours in a Munsell pigment colour wheel refers to",
+    "question_type": "MCQ",
+    "options": {
+      "A": "Colours in alternate positions",
+      "B": "Colours opposite to one another",
+      "C": "Colours adjacent to each other",
+      "D": "A pair of secondary colours"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.10",
+    "question": "The closing syntax, for an executable command line in C or C++ program, is",
+    "question_type": "MCQ",
+    "options": {
+      "A": ":",
+      "B": ",",
+      "C": ";",
+      "D": "."
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.11",
+    "question": "The term 'Necropolis' refers to",
+    "question_type": "MCQ",
+    "options": {
+      "A": "Organically growing settlement",
+      "B": "Origin of a settlement",
+      "C": "A dead settlement",
+      "D": "Merging of two settlements"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.12",
+    "question": "Which of the following projection types is adopted in the Universal Transverse Mercator (UTM)?",
+    "question_type": "MCQ",
+    "options": {
+      "A": "Spherical",
+      "B": "Conical",
+      "C": "Planar",
+      "D": "Cylindrical"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.13",
+    "question": "The ingredient to be added to produce Aerated Cement Concrete, is",
+    "question_type": "MCQ",
+    "options": {
+      "A": "Aluminum",
+      "B": "Calcium chloride",
+      "C": "Gypsum",
+      "D": "Sulphur"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.14",
+    "question": "The cause of short column effect, during seismic occurrence, is due to",
+    "question_type": "MCQ",
+    "options": {
+      "A": "Centralized rupture of the column",
+      "B": "Tearing of reinforcement bars",
+      "C": "Buckling of column",
+      "D": "Stress concentration"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.15",
+    "question": "The solar protection system consisting of fixed slats or grids, outside a building façade in front of openings, is known as",
+    "question_type": "MCQ",
+    "options": {
+      "A": "Brise-soleil",
+      "B": "Solarium",
+      "C": "Malqaf",
+      "D": "Trombe wall"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.16",
+    "question": "The Indian property inscribed by UNESCO on the World Heritage List in the year 2018 is",
+    "question_type": "MCQ",
+    "options": {
+      "A": "Mattanchery Palace, Ernakulam",
+      "B": "The Victorian Gothic and Art Deco Ensembles of Mumbai",
+      "C": "Ancient Buddhist Site, Sarnath",
+      "D": "Mughal Gardens in Kashmir"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.17",
+    "question": "Typical features of Buddhist architecture are",
+    "question_type": "MCQ",
+    "options": {
+      "A": "Mandapa, Chattri, Amalaka, Torana",
+      "B": "Stambha, Torana, Vimana, Harmika",
+      "C": "Vedika, Chattri, Torana, Harmika",
+      "D": "Vedika, Stupa, Chaitya, Vimana"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.18",
+    "question": "Identify the Queen closure",
+    "question_type": "MCQ",
+    "options": {
+      "A": "[Image of a brick with a small piece cut off the end]",
+      "B": "[Image of a brick with a larger piece cut off the end]",
+      "C": "[Image of a brick cut lengthwise in half]",
+      "D": "[Image of a full brick]"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.19",
+    "question": "Identify the role of Vermiculate in vertical landscapes",
+    "question_type": "MCQ",
+    "options": {
+      "A": "Fertilizer",
+      "B": "Holding material",
+      "C": "Binding material",
+      "D": "Water retention element"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.20",
+    "question": "Which of the following parameters is essential to estimate the Envelope Performance Factor (EPF) of a building as per the Energy Conservation Building Code (ECBC), 2011?",
+    "question_type": "MCQ",
+    "options": {
+      "A": "Building Type",
+      "B": "Maximum humidity",
+      "C": "Maximum and minimum monthly temperature",
+      "D": "Building occupancy duration"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.21",
+    "question": "The illumination level of a room is 300 lux and the efficacy of the lamps is 60. The Light Power Density (LPD) of the room in Watt/m² is ______.",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.22",
+    "question": "The load on a RCC column is 150 kN. The soil bearing capacity is 80 kN/m². Assuming a factor of safety of 1.2, the side of the square column footing is ______ meter (rounded off to one decimal place).",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.23",
+    "question": "A room is separated by a partition wall. The average intensities of sound in the source and receiving sides across the partition are $10^{-4}$ W/m² and $10^{-7}$ W/m² respectively. The transmission loss (TL) of the partition wall is ______ dB.",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.24",
+    "question": "If the purchase price of 2BHK flat rises by 10 percent, the demand for such flats is observed to decrease by 8 percent. The price elasticity of the housing demand for 2BHK flats is ______ (rounded off to one decimal place).",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.25",
+    "question": "'Threshold of enclosure' created by vertical surfaces or series of vertical elements in an urban plaza, represented by the ratio of height and distance, is given by an angle of ______ degrees (rounded off to one decimal place).",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.26",
+    "question": "Match the instruments in Column - I with the various types of surveying in Column - II and select the appropriate option.\n\n```\nColumn - I             Column - II\nP Cross staff          1 Indoor wall to wall measurement\nQ Alidade              2 Traversing\nR Sextant              3 Chain survey\nS Distomat             4 Plane table survey\n                       5 Contour survey\n```",
+    "question_type": "MCQ",
+    "options": {
+      "A": "P-3, Q-4, R-2, S-5",
+      "B": "P-2, Q-4, R-1, S-5",
+      "C": "P-5, Q-3, R-2, S-1",
+      "D": "P-3, Q-4, R-2, S-1"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.27",
+    "question": "Match the characteristics of settlement systems in Column - I with their corresponding theory/rules in Column - II and select the appropriate option.\n\n```\nColumn - I                       Column - II\nP Primacy of settlements         1 Central place theory\nQ Settlement size and location   2 Gravity model\nR Random component in location of 3 Rank size rule\n  settlements\nS Interaction between settlements  4 Entropy of settlements\n                                 5 Core periphery model\n```",
+    "question_type": "MCQ",
+    "options": {
+      "A": "P-4, Q-1, R-2, S-5",
+      "B": "P-2, Q-5, R-3, S-1",
+      "C": "P-3, Q-5, R-4, S-2",
+      "D": "P-3, Q-1, R-4, S-2"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.28",
+    "question": "Match the architectural projects in Column - I with the architect in Column - II, and select the appropriate option.\n\n```\nColumn - I                               Column - II\nP India Habitat Centre, New Delhi          1 Christopher Charles Benninger\nQ United World Colleges (UWC),\n  Mahindra College, Pune                   2 Charles Correa\nR Brain & Cognitive Science\n  Centre - MIT, Cambridge                  3 Joseph Allen Stein\nS Habitat 67, Montreal                     4 Norman Foster\n                                         5 Moshe Safdi\n```",
+    "question_type": "MCQ",
+    "options": {
+      "A": "P-3, Q-1, R-2, S-5",
+      "B": "P-1, Q-2, R-5, S-3",
+      "C": "P-2, Q-1, R-5, S-4",
+      "D": "P-3, Q-4, R-1, S-5"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.29",
+    "question": "Match the Name of the book provided in Column - I with the corresponding author in Column - II and select the appropriate option.\n\n```\nColumn - I                       Column - II\nP Earthscape                     1 Ian McHarg\nQ Synthesis of Form              2 John O Simonds\nR Design with Nature             3 Christopher Alexander\nS The City of Tomorrow and its\n  Planning                       4 Lewis Mumford\n                                 5 Le Corbusier\n```",
+    "question_type": "MCQ",
+    "options": {
+      "A": "P-2, Q-3, R-1, S-5",
+      "B": "P-5, Q-2, R-3, S-4",
+      "C": "P-5, Q-3, R-1, S-4",
+      "D": "P-2, Q-1, R-4, S-5"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.30",
+    "question": "Match the thermal properties in the Column - I and their respective units in Column - II and select the appropriate option.\n\n```\nColumn - I             Column - II\nP Thermal Resistance   1 Jkg$^{-1}$ °C$^{-1}$\nQ Thermal Transmittance 2 W m$^{-1}$ °C$^{-1}$\nR Specific Heat        3 W m$^{-2}$ °C$^{-1}$\nS Thermal Conductivity 4 m² °C W$^{-1}$\n                       5 Jm$^{-3}$ °C$^{-1}$\n```",
+    "question_type": "MCQ",
+    "options": {
+      "A": "P-4, Q-1, R-5, S-2",
+      "B": "P-4, Q-3, R-1, S-2",
+      "C": "P-5, Q-3, R-1, S-4",
+      "D": "P-3, Q-4, R-2, S-1"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.31",
+    "question": "Match the application in the field of construction in the Column - I and the respective items in Column - II and select the appropriate option.\n\n```\nColumn - I                               Column - II\nP Polytetrafluoroethylene (PTFE)\n  membrane                               1 Tendon\nQ Isolated compression component\n  inside a network of continuous\n  tensile member                         2 TMT\nR Cable used for pre-stressed\n  concreting                             3 Tensegrity\nS Reinforcement bar used in RCC\n  construction                           4 TMD\n                                         5 Teflon\n```",
+    "question_type": "MCQ",
+    "options": {
+      "A": "P-5, Q-1, R-4, S-3",
+      "B": "P-4, Q-3, R-1, S-5",
+      "C": "P-5, Q-3, R-1, S-2",
+      "D": "P-3, Q-4, R-2, S-1"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.32",
+    "question": "Match the following types of masonry joints in Column I with their corresponding description in Column - II, and select the appropriate option.\n\n```\nColumn - I             Column - II\nP [Image of Struck joint] 1 Struck\nQ [Image of Weathered joint] 2 Weathered\nR [Image of Raked joint] 3 Raked\nS [Image of Concave joint] 4 Beaded\n                       5 Concave\n```",
+    "question_type": "MCQ",
+    "options": {
+      "A": "P-1, Q-3, R-2, S-4",
+      "B": "P-4, Q-3, R-2, S-5",
+      "C": "P-3, Q-4, R-5, S-2",
+      "D": "P-4, Q-3, R-1, S-5"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.33",
+    "question": "Match the following in Column - I with their suitable description in Column - II, and select the appropriate option.\n\n```\nColumn - I                     Column - II\nP Tolerance                    1 100 mm\nQ Precast concrete rings for wells 2 Non modular dimension\nR M                            3 Acceptable variation\nS Weather joints               4 3D- prefabricate\n                               5 Resilient sealants\n```",
+    "question_type": "MCQ",
+    "options": {
+      "A": "P-2, Q-4, R-1, S-3",
+      "B": "P-2, Q-4, R-3, S-5",
+      "C": "P-1, Q-2, R-3, S-4",
+      "D": "P-3, Q-4, R-1, S-5"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.34",
+    "question": "Match the units provided in Column - I with their corresponding items in Column - II, and select the appropriate option.\n\n```\nColumn - I             Column - II\nP dB                   1 Sound Intensity\nQ Phon                 2 Absorption of sound\nR W/m²                 3 Frequency of sound\nS Sabine               4 Loudness\n                       5 Sound pressure level\n```",
+    "question_type": "MCQ",
+    "options": {
+      "A": "P-5, Q-1, R-4, S-3",
+      "B": "P-2, Q-3, R-4, S-5",
+      "C": "P-1, Q-2, R-3, S-4",
+      "D": "P-5, Q-4, R-1, S-2"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.35",
+    "question": "Match the scientific names of the trees provided in Column - I with the corresponding color of their bloom in Column - II, and select the appropriate option.\n\n```\nColumn - I                     Column - II\nP Cassia fistula               1 White\nQ Lagerstroemia flos-reginae   2 Red\nR Cordia sebastena             3 Blue\nS Plumeria alba                4 Yellow\n                               5 Mauve\n```",
+    "question_type": "MCQ",
+    "options": {
+      "A": "P-4, Q-5, R-4, S-1",
+      "B": "P-1, Q-5, R-2, S-3",
+      "C": "P-5, Q-4, R-1, S-3",
+      "D": "P-4, Q-5, R-2, S-1"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.36",
+    "question": "Match the items in Column - I and their respective location in building/site in Column - II, and select the appropriate option.\n\n```\nColumn - I             Column - II\nP Nahani Trap          1 Between waste water pipe and\n                         main house drain\nQ Gully Trap           2 Between septic tank and soak pit\nR Bottle Trap          3 Junction of house drain and sewer\nS Intercepting Trap    4 Bathroom and kitchen floor\n                       5 Below the wash basin\n```",
+    "question_type": "MCQ",
+    "options": {
+      "A": "P-4, Q-5, R-2, S-3",
+      "B": "P-5, Q-1, R-3, S-2",
+      "C": "P-4, Q-1, R-5, S-3",
+      "D": "P-3, Q-4, R-5, S-2"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.37",
+    "question": "As per the Handbook on Barrier Free and Accessibility, CPWD - 2014, match the design guidelines in Column - I with their appropriate standards in Column - II and select the appropriate option.\n\n```\nColumn - I                               Column - II\nP Minimum clear width of ramp              1 600 mm\nQ Maximum height of wash basin\n  (rim) above finished floor level         2 1500 mm\nR Minimum length of grab rail              3 750 mm\nS Minimum clear width for\n  maneuvering space (wheelchair)           4 900 mm\n                                         5 1800 mm\n```",
+    "question_type": "MCQ",
+    "options": {
+      "A": "P-3, Q-4, R-1, S-5",
+      "B": "P-5, Q-3, R-2, S-4",
+      "C": "P-5, Q-3, R-1, S-2",
+      "D": "P-1, Q-4, R-3, S-1"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.38",
+    "question": "Match the contemporary Urban Design Movements listed in Column - I with the corresponding principles listed in Column - II and select the appropriate option.\n\n```\nColumn - I                     Column - II\nP Park Movement                1 Self-contained, self-sufficient\n                                 community surrounded by green\n                                 belts\nQ New Urbanism                 2 Revival of the relationship between\n                                 man and nature\nR City Beautiful Movement      3 Relationship between work and\n                                 living, environmental sustainability\nS Garden City and New Town\n  Movement                     4 Unity, cohesion and balanced\n                                 relationship between urban\n                                 components and elements\n                               5 Technical and socio economic\n                                 processes resulting in growth,\n                                 energy production and waste\n                                 elimination\n```",
+    "question_type": "MCQ",
+    "options": {
+      "A": "P-2, Q-3, R-4, S-1",
+      "B": "P-1, Q-5, R-3, S-2",
+      "C": "P-5, Q-3, R-1, S-2",
+      "D": "P-2, Q-5, R-4, S-1"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.39",
+    "question": "Match the figures of vaults in Column - I with their corresponding types in Column - II and select the appropriate option.\n\n```\nColumn - I             Column - II\nP [Image of Barrel vault] 1 Ribbed\nQ [Image of Groin vault] 2 Fan\nR [Image of Ribbed vault] 3 Barrel\nS [Image of Fan vault] 4 Groin\n                       5 Nubian\n```",
+    "question_type": "MCQ",
+    "options": {
+      "A": "P-3, Q-4, R-1, S-2",
+      "B": "P-3, Q-1, R-4, S-5",
+      "C": "P-2, Q-1, R-5, S-3",
+      "D": "P-2, Q-3, R-1, S-5"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.40",
+    "question": "A colony of 50 people is served by a septic tank. The rate of water supply is 90 lped in the colony and 40% of it is going to the septic tank. The retention period of the tank is 24 hours. The length of the septic tank is ______ meter (rounded off to two decimal places).\n\nAssume, storage capacity/person = $0.085m^3$ (3 years)\nSpace for digestion = $0.0425 m^3$/person\nDepth of tank = 1.4 m\nLength: Width = 2:1",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.41",
+    "question": "A cone, with a base of 10 cm diameter and axis of 12 cm, is lying on Horizontal Plane (HP) along its generator. The internal angle which the base of the cone makes with the HP is ______ degrees.",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.42",
+    "question": "A public utility building of $5000 m^2$ was constructed 5 years before, on a site of 1 hectare. The present value of open land in that location is Rs. $100/m^2$ and present construction cost of such building is Rs. $2500/m^2$. If the value of the building is assumed to be depreciating at a constant rate of 6 percent per annum, then the present value of the property using 'Valuation by Cost Method' is ______ (in Rs. lakhs) (rounded off to one decimal place).",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.43",
+    "question": "A residential area of 20 hectares is planned for three different types of plots of $500 m^2$, $300 m^2$ and $200 m^2$ with numbers of plot in each category are 100, 120 and 150 respectively. The rest of the area is allocated for roads and facilities such as schools, shops and parks. Each plot has one dwelling unit and the average household size is 5 persons.\nThe net residential density of the area in persons per hectare is ______.",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.44",
+    "question": "In a single lane road, traffic volume of 1000 vehicle/h moving at 20 km/h, comes to a halt due to an accident. If jam density is 150 vehicle/km, the velocity of the shock wave generated (in absolute value) is ______ km/h.",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.45",
+    "question": "In a site map, a rectangular residential plot measures 150 mm × 40 mm, and the width of the front road in the map measures 16 mm. Actual width of the road is 4 m. If the permissible F.A.R. is 1.2, the maximum built-up area for the residential building will be ______ $m^2$.",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.46",
+    "question": "The internal dimension of a room is 10m x 10m x 4m (height). The total area of the doors and windows are $16 m^2$. Keeping the doors and windows closed, the reverberation time of the room becomes 1.2 second. Assume all the interior surfaces including doors and windows have same sound absorption coefficient. If all the doors and windows of the room are kept fully open, the reverberation time will be ______ second (rounded off to two decimal places).",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.47",
+    "question": "A depressed portion of a land is identified by three closed contours, as shown in the figure below. The area bounded by three contour lines are $6 m^2$, $24 m^2$ and $96 m^2$ respectively.\n\n```\nArea: 96 m²\n\nArea: 24 m²\n\nArea: 6 m²\n```\n\nThe contour interval is 1 m. Using prismoidal method, the volume of the earth needed to fill the land depression is ______ $m^3$.",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.48",
+    "question": "Solar panels are proposed to be installed on a building roof top to generate electricity. The size of each solar panel is $2 m^2$. The efficiency of each panel is 75%. The orientations of the solar panel and related solar data are given in the table below.\n\n```\nOrientation No. of Panel Average daily solar Average solar hours\n                           radiation in W/m² per day\nSouth       10           400                 4\nWest        5            300                 2\n```\n\nAs per the above proposal ______ kWh solar power will be generated daily. (rounded off to one decimal place)",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.49",
+    "question": "A power shovel is having $1.8 m^3$ excavation output per batch of operation. The average cycle time of the batch operation is 45 seconds. The lost time per hour of the excavation activity is 10 minutes. Assume six working hours of operation per day. The amount of soil excavated by the power shovel per day is ______ $m^3$ (rounded off to two decimal places).",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.50",
+    "question": "A room having dimension 12 m × 10 m × 3.5 m is required to be mechanically ventilated by air-conditioner. The temperature difference between outdoor ambient air and the supply air is $12 °C$. Consider three air exchanges per hour. The volumetric specific heat of the air is $1250 J/m^3 °C$. Assume one ton of refrigeration (TR) is equal to 3.5 kW. The capacity of the air-conditioner for the room in TR will be ______.",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.51",
+    "question": "A simply supported beam AB has a clear span of 7 meter. The bending moment diagram (BMD) of the beam due to a single concentrated load is shown in the figure below.\n\n```\n36 kN-m\n\nA\n\nB\n\nK3m *\n\n4m\n```\n\nThe magnitude of the concentrated load in kN is ______.",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.52",
+    "question": "For a symmetrical trapezoidal open drain in a landscape with grass and loose rock surface, the velocity of flow of water is ______ m/sec, (rounded off to two decimal places), given the following data.\n\nWater edge width at the top = 750 mm\nWater edge width at the bottom = 450 mm\nWater depth = 600 mm\nManning's coefficient of roughness = 0.05\nSlope along the drain = 1 in 250",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.53",
+    "question": "The stack pressure is created by 10 m height of stack and $15°C$ temperature difference. The motive force due to the stack pressure over a cross section area of $2.5 m^2$ is ______ N.",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.54",
+    "question": "An industrial building contains 3000 kg of combustible materials, in dry state, distributed over three rooms of area $100 m^2$, $500 m^2$ and $300 m^2$ each, in a proportion of 30%, 50% and 20% of the contents, respectively. Calorific value of the material is 4400 kCal/kg.\nThe Total Fire Load of the rooms is equal to ______ kCal/$m^2$.",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.55",
+    "question": "A simple truss is shown in the figure below. The truss is loaded with horizontal and vertical force 15 kN and 25 kN, respectively. The force in the member AB will be ______ kN.\n\n```\n15kN\n\n25kN\n\nB\n\nA\n\nL\n\nL\n\nL\n```",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  }
+]

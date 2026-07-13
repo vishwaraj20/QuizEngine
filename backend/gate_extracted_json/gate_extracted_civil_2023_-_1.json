@@ -1,0 +1,742 @@
+[
+  {
+    "question_number": "Q.1",
+    "question": "I have not yet decided what I will do this evening; I ______ visit a friend.",
+    "question_type": "MCQ",
+    "options": {
+      "A": "mite",
+      "B": "would",
+      "C": "might",
+      "D": "didn't"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.2",
+    "question": "Eject : Insert :: Advance : ______ (By word meaning)",
+    "question_type": "MCQ",
+    "options": {
+      "A": "Advent",
+      "B": "Progress",
+      "C": "Retreat",
+      "D": "Loan"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.3",
+    "question": "In the given figure, PQRSTV is a regular hexagon with each side of length 5 cm. A circle is drawn with its centre at V such that it passes through P. What is the area (in cm²) of the shaded region? (The diagram is representative)",
+    "question_type": "MCQ",
+    "options": {
+      "A": "$25\\pi/3$",
+      "B": "$20\\pi/3$",
+      "C": "$6\\pi$",
+      "D": "$7\\pi$"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.4",
+    "question": "A duck named Donald Duck says “All ducks always lie.\" Based only on the information above, which one of the following statements can be logically inferred with certainty?",
+    "question_type": "MCQ",
+    "options": {
+      "A": "Donald Duck always lies.",
+      "B": "Donald Duck always tells the truth.",
+      "C": "Donald Duck's statement is true.",
+      "D": "Donald Duck's statement is false."
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.5",
+    "question": "A line of symmetry is defined as a line that divides a figure into two parts in a way such that each part is a mirror image of the other part about that line. The figure below consists of 20 unit squares arranged as shown. In addition to the given black squares, upto 5 more may be coloured black. Which one among the following options depicts the minimum number of boxes that must be coloured black to achieve two lines of symmetry? (The figure is representative)",
+    "question_type": "MCQ",
+    "options": {
+      "A": "d",
+      "B": "c, d, i",
+      "C": "c, i",
+      "D": "c, d, i, f, g"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.6",
+    "question": "Based only on the truth of the statement ‘Some humans are intelligent', which one of the following options can be logically inferred with certainty?",
+    "question_type": "MCQ",
+    "options": {
+      "A": "No human is intelligent.",
+      "B": "All humans are intelligent.",
+      "C": "Some non-humans are intelligent.",
+      "D": "Some intelligent beings are humans."
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.7",
+    "question": "Which one of the options can be inferred about the mean, median, and mode for the given probability distribution (i.e. probability mass function), $P(x)$, of a variable $x$?",
+    "question_type": "MCQ",
+    "options": {
+      "A": "mean = median $\\neq$ mode",
+      "B": "mean = median = mode",
+      "C": "mean $\\neq$ median = mode",
+      "D": "mean $\\neq$ mode = median"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.8",
+    "question": "The James Webb telescope, recently launched in space, is giving humankind unprecedented access to the depths of time by imaging very old stars formed almost 13 billion years ago. Astrophysicists and cosmologists believe that this odyssey in space may even shed light on the existence of dark matter. Dark matter is supposed to interact only via the gravitational interaction and not through the electromagnetic-, the weak- or the strong-interaction. This may justify the epithet \"dark\" in dark matter. Based on the above paragraph, which one of the following statements is FALSE?",
+    "question_type": "MCQ",
+    "options": {
+      "A": "No other telescope has captured images of stars older than those captured by the James Webb telescope.",
+      "B": "People other than astrophysicists and cosmologists may also believe in the existence of dark matter.",
+      "C": "The James Webb telescope could be of use in the research on dark matter.",
+      "D": "If dark matter was known to interact via the strong-interaction, then the epithet \"dark\" would be justified."
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.9",
+    "question": "Let $a = 30!$, $b = 50!$, and $c = 100!$. Consider the following numbers: $\\log_a c$, $\\log_c a$, $\\log_b a$, $\\log_a b$. Which one of the following inequalities is CORRECT?",
+    "question_type": "MCQ",
+    "options": {
+      "A": "$\\log_c a < \\log_b a < \\log_a b < \\log_a c$",
+      "B": "$\\log_c a < \\log_a b < \\log_b a < \\log_b c$",
+      "C": "$\\log_c a < \\log_b a < \\log_a c < \\log_a b$",
+      "D": "$\\log_b a < \\log_c a < \\log_a b < \\log_a c$"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.10",
+    "question": "A square of side length 4 cm is given. The boundary of the shaded region is defined by one semi-circle on the top and two circular arcs at the bottom, each of radius 2 cm, as shown. The area of the shaded region is ______ cm².",
+    "question_type": "MCQ",
+    "options": {
+      "A": "8",
+      "B": "4",
+      "C": "12",
+      "D": "10"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.11",
+    "question": "For the integral $I = \\int_{-1}^{1} \\frac{1}{x^2} dx$, which of the following statements is TRUE?",
+    "question_type": "MCQ",
+    "options": {
+      "A": "$I = 0$",
+      "B": "$I = 2$",
+      "C": "$I = -2$",
+      "D": "The integral does not converge"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.12",
+    "question": "A hanger is made of two bars of different sizes. Each bar has a square cross-section. The hanger is loaded by three-point loads in the mid vertical plane as shown in the figure. Ignore the self-weight of the hanger. What is the maximum tensile stress in N/mm² anywhere in the hanger without considering stress concentration effects?",
+    "question_type": "MCQ",
+    "options": {
+      "A": "15.0",
+      "B": "25.0",
+      "C": "35.0",
+      "D": "45.0"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.13",
+    "question": "Creep of concrete under compression is defined as the ______",
+    "question_type": "MCQ",
+    "options": {
+      "A": "increase in the magnitude of strain under constant stress",
+      "B": "increase in the magnitude of stress under constant strain",
+      "C": "decrease in the magnitude of strain under constant stress",
+      "D": "decrease in the magnitude of stress under constant strain"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.14",
+    "question": "A singly reinforced concrete beam of balanced section is made of M20 grade concrete and Fe415 grade steel bars. The magnitudes of the maximum compressive strain in concrete and the tensile strain in the bars at ultimate state under flexure, as per IS 456: 2000 are ______, ______ respectively. (round off to four decimal places)",
+    "question_type": "MCQ",
+    "options": {
+      "A": "0.0035 and 0.0038",
+      "B": "0.0020 and 0.0018",
+      "C": "0.0035 and 0.0041",
+      "D": "0.0020 and 0.0031"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.15",
+    "question": "In cement concrete mix design, with the increase in water-cement ratio, which one of the following statements is TRUE?",
+    "question_type": "MCQ",
+    "options": {
+      "A": "Compressive strength decreases but workability increases",
+      "B": "Compressive strength increases but workability decreases",
+      "C": "Both compressive strength and workability decrease",
+      "D": "Both compressive strength and workability increase"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.16",
+    "question": "The specific gravity of a soil is 2.60. The soil is at 50% degree of saturation with a water content of 15%. The void ratio of the soil is ______.",
+    "question_type": "MCQ",
+    "options": {
+      "A": "0.35",
+      "B": "0.78",
+      "C": "0.87",
+      "D": "1.28"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.17",
+    "question": "A group of 9 friction piles are arranged in a square grid maintaining equal spacing in all directions. Each pile is of diameter 300 mm and length 7 m. Assume that the soil is cohesionless with effective friction angle $\\phi' = 32^\\circ$. What is the center-to-center spacing of the piles (in m) for the pile group efficiency of 60%?",
+    "question_type": "MCQ",
+    "options": {
+      "A": "0.582",
+      "B": "0.486",
+      "C": "0.391",
+      "D": "0.677"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.18",
+    "question": "A possible slope failure is shown in the figure. Three soil samples are taken from different locations (I, II and III) of the potential failure plane. Which is the most appropriate shear strength test for each of the sample to identify the failure mechanism? Identify the correct combination from the following options:\n```\nP: Triaxial compression test\nQ: Triaxial extension test\nR: Direct shear or shear box test\nS: Vane shear test\n```",
+    "question_type": "MCQ",
+    "options": {
+      "A": "I-Q, II-R, III-P",
+      "B": "I-R, II-P, III-Q",
+      "C": "I-S, II-Q, III-R",
+      "D": "I-P, II-R, III-Q"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.19",
+    "question": "When a supercritical stream enters a mild-sloped (M) channel section, the type of flow profile would become ______",
+    "question_type": "MCQ",
+    "options": {
+      "A": "M1",
+      "B": "M2",
+      "C": "M3",
+      "D": "M1 and M2"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.20",
+    "question": "Which one of the following statements is TRUE for Greenhouse Gas (GHG) in the atmosphere?",
+    "question_type": "MCQ",
+    "options": {
+      "A": "GHG absorbs the incoming short wavelength solar radiation to the earth surface, and allows the long wavelength radiation coming from the earth surface to pass through",
+      "B": "GHG allows the incoming long wavelength solar radiation to pass through to the earth surface, and absorbs the short wavelength radiation coming from the earth surface",
+      "C": "GHG allows the incoming long wavelength solar radiation to pass through to the earth surface, and allows the short wavelength radiation coming from the earth surface to pass through",
+      "D": "GHG allows the incoming short wavelength solar radiation to pass through to the earth surface, and absorbs the long wavelength radiation coming from the earth surface"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.21",
+    "question": "$G_1$ and $G_2$ are the slopes of the approach and departure grades of a vertical curve, respectively. Given $|G_1| < |G_2|$ and $|G_1|\\neq |G_2| \\neq 0$. Statement 1: $+G_1$ followed by $+G_2$ results in a sag vertical curve. Statement 2: $-G_1$ followed by $-G_2$ results in a sag vertical curve. Statement 3: $+G_1$ followed by $-G_2$ results in a crest vertical curve. Which option amongst the following is true?",
+    "question_type": "MCQ",
+    "options": {
+      "A": "Statement 1 and Statement 3 are correct; Statement 2 is wrong",
+      "B": "Statement 1 and Statement 2 are correct; Statement 3 is wrong",
+      "C": "Statement 1 is correct; Statement 2 and Statement 3 are wrong",
+      "D": "Statement 2 is correct; Statement 1 and Statement 3 are wrong"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.22",
+    "question": "The direct and reversed zenith angles observed by a theodolite are $56^\\circ 00' 00''$ and $303^\\circ 00' 00''$, respectively. What is the vertical collimation correction?",
+    "question_type": "MCQ",
+    "options": {
+      "A": "$+1^\\circ 00'00''$",
+      "B": "$-1^\\circ 00' 00''$",
+      "C": "$-0^\\circ 30' 00''$",
+      "D": "$+0^\\circ 30' 00''$"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.23",
+    "question": "A student is scanning his 10 inch $\\times$ 10 inch certificate at 600 dots per inch (dpi) to convert it to raster. What is the percentage reduction in number of pixels if the same certificate is scanned at 300 dpi?",
+    "question_type": "MCQ",
+    "options": {
+      "A": "62",
+      "B": "88",
+      "C": "75",
+      "D": "50"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.24",
+    "question": "If $M$ is an arbitrary real $n \\times n$ matrix, then which of the following matrices will have non-negative eigenvalues?",
+    "question_type": "MCQ",
+    "options": {
+      "A": "$M^2$",
+      "B": "$MM^T$",
+      "C": "$M^T M$",
+      "D": "$(M^T)^2$"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.25",
+    "question": "The following function is defined over the interval $[-L, L]$: $f(x) = px^4 + qx^5$. If it is expressed as a Fourier series, $f(x) = a_0 + \\sum_{n=1}^{\\infty} \\{a_n \\sin(\\frac{n\\pi x}{L}) + b_n \\cos(\\frac{n\\pi x}{L})\\}$, which options amongst the following are true?",
+    "question_type": "MSQ",
+    "options": {
+      "A": "$a_n, n = 1,2,\\dots,\\infty$ depend on $p$",
+      "B": "$a_n, n = 1,2,\\dots,\\infty$ depend on $q$",
+      "C": "$b_n, n = 1,2,\\dots,\\infty$ depend on $p$",
+      "D": "$b_n, n = 1,2,\\dots,\\infty$ depend on $q$"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.26",
+    "question": "Consider the following three structures:\nStructure I: Beam with hinge support at A, roller at C, guided roller at E, and internal hinges at B and D\nStructure II: Pin-jointed truss, with hinge support at A, and rollers at B and D\nStructure III: Pin-jointed truss, with hinge support at A and roller at C\nWhich of the following statements is/are TRUE?",
+    "question_type": "MSQ",
+    "options": {
+      "A": "Structure I is unstable",
+      "B": "Structure II is unstable",
+      "C": "Structure III is unstable",
+      "D": "All three structures are stable"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.27",
+    "question": "Identify the waterborne diseases caused by viral pathogens:",
+    "question_type": "MSQ",
+    "options": {
+      "A": "Acute anterior poliomyelitis",
+      "B": "Cholera",
+      "C": "Infectious hepatitis",
+      "D": "Typhoid fever"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.28",
+    "question": "Which of the following statements is/are TRUE for the Refuse-Derived Fuel (RDF) in the context of Municipal Solid Waste (MSW) management?",
+    "question_type": "MSQ",
+    "options": {
+      "A": "Higher Heating Value (HHV) of the unprocessed MSW is higher than the HHV of RDF processed from the same MSW",
+      "B": "RDF can be made in the powdered form",
+      "C": "Inorganic fraction of MSW is mostly converted to RDF",
+      "D": "RDF cannot be used in conjunction with oil"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.29",
+    "question": "The probabilities of occurrences of two independent events A and B are 0.5 and 0.8, respectively. What is the probability of occurrence of at least A or B (rounded off to one decimal place)?",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.30",
+    "question": "In the differential equation $\\frac{dy}{dx} + a x y = 0$, $a$ is a positive constant. If $y = 1.0$ at $x = 0.0$, and $y = 0.8$ at $x = 1.0$, the value of $a$ is ______ (rounded off to three decimal places).",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.31",
+    "question": "Consider the fillet-welded lap joint shown in the figure (not to scale). The length of the weld shown is the effective length. The welded surfaces meet at right angle. The weld size is 8 mm, and the permissible stress in the weld is 120 MPa. What is the safe load $P$ (in kN, rounded off to one decimal place) that can be transmitted by this welded joint?",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.32",
+    "question": "A drained direct shear test was carried out on a sandy soil. Under a normal stress of 50 kPa, the test specimen failed at a shear stress of 35 kPa. The angle of internal friction of the sample is ______ degree (round off to the nearest integer).",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.33",
+    "question": "A canal supplies water to an area growing wheat over 100 hectares. The duration between the first and last watering is 120 days, and the total depth of water required by the crop is 35 cm. The most intense watering is required over a period of 30 days and requires a total depth of water equal to 12 cm. Assuming precipitation to be negligible and neglecting all losses, the minimum discharge (in m³/s, rounded off to three decimal places) in the canal to satisfy the crop requirement is ______.",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.34",
+    "question": "The ordinates of a one-hour unit hydrograph for a catchment are given below:\n```\nt (hour) | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7\nQ (m³/s) | 0 | 9 | 21 | 18 | 12 | 5 | 2 | 0\n```\nUsing the principle of superposition, a D-hour unit hydrograph for the catchment was derived from this one-hour unit hydrograph. The ordinates of the D-hour unit hydrograph were obtained as 3 m³/s at $t = 1$ hour and 10 m³/s at $t = 2$ hour. The value of D (in integer) is ______.",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.35",
+    "question": "For a horizontal curve, the radius of a circular curve is obtained as 300 m with the design speed as 15 m/s. If the allowable jerk is 0.75 m/s³, what is the minimum length (in m, in integer) of the transition curve?",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.36",
+    "question": "A function $f(x)$, that is smooth and convex-shaped between interval $(x_l, x_u)$ is shown in the figure. This function is observed at odd number of regularly spaced points. If the area under the function is computed numerically, then ______",
+    "question_type": "MCQ",
+    "options": {
+      "A": "the numerical value of the area obtained using the trapezoidal rule will be less than the actual",
+      "B": "the numerical value of the area obtained using the trapezoidal rule will be more than the actual",
+      "C": "the numerical value of the area obtained using the trapezoidal rule will be exactly equal to the actual",
+      "D": "with the given details, the numerical value of area cannot be obtained using trapezoidal rule"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.37",
+    "question": "Consider a doubly reinforced RCC beam with the option of using either Fe250 plain bars or Fe500 deformed bars in the compression zone. The modulus of elasticity of steel is $2 \\times 10^5$ N/mm². As per IS456:2000, in which type(s) of the bars, the stress in the compression steel ($f_{sc}$) can reach the design strength ($0.87f_y$) at the limit state of collapse?",
+    "question_type": "MCQ",
+    "options": {
+      "A": "Fe250 plain bars only",
+      "B": "Fe500 deformed bars only",
+      "C": "Both Fe250 plain bars and Fe500 deformed bars",
+      "D": "Neither Fe250 plain bars nor Fe500 deformed bars"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.38",
+    "question": "Consider the horizontal axis passing through the centroid of the steel beam cross-section shown in the figure. What is the shape factor (rounded off to one decimal place) for the cross-section?",
+    "question_type": "MCQ",
+    "options": {
+      "A": "1.5",
+      "B": "1.7",
+      "C": "1.3",
+      "D": "2.0"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.39",
+    "question": "Consider the pin-jointed truss shown in the figure (not to scale). All members have the same axial rigidity, $AE$. Members QR, RS, and ST have the same length $L$. Angles QBT, RCT, SDT are all $90^\\circ$. Angles BQT, CRT, DST are all $30^\\circ$. The joint T carries a vertical load $P$. The vertical deflection of joint T is $k\\frac{PL}{AE}$. What is the value of $k$?",
+    "question_type": "MCQ",
+    "options": {
+      "A": "1.5",
+      "B": "4.5",
+      "C": "3.0",
+      "D": "9.0"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.40",
+    "question": "With reference to the compaction test conducted on soils, which of the following is INCORRECT?",
+    "question_type": "MCQ",
+    "options": {
+      "A": "Peak point of the compaction curve gives the maximum dry unit weight and optimum moisture content",
+      "B": "With increase in the compaction effort, the maximum dry unit weight increases",
+      "C": "With increase in the compaction effort, the optimum moisture content decreases",
+      "D": "Compaction curve crosses the zero-air-voids curve"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.41",
+    "question": "Consider that a force $P$ is acting on the surface of a half-space (Boussinesq's problem). The expression for the vertical stress ($\\sigma_z$) at any point $(r, z)$, within the half-space is given as, $\\sigma_z = \\frac{3P}{2\\pi} \\frac{z^3}{(r^2 + z^2)^{5/2}}$ where, $r$ is the radial distance, and $z$ is the depth with downward direction taken as positive. At any given $r$, there is a variation of $\\sigma_z$ along $z$, and at a specific $z$, the value of $\\sigma_z$ will be maximum. What is the locus of the maximum $\\sigma_z$?",
+    "question_type": "MCQ",
+    "options": {
+      "A": "$z^2 = \\frac{3}{2} r^2$",
+      "B": "$z^3 = \\frac{3}{2} r^2$",
+      "C": "$z^2 = \\frac{5}{2} r^2$",
+      "D": "$z^3 = \\frac{5}{2} r^2$"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.42",
+    "question": "A square footing of size 2.5 m $\\times$ 2.5 m is placed 1.0 m below the ground surface on a cohesionless homogeneous soil stratum. Considering that the groundwater table is located at the base of the footing, the unit weights of soil above and below the groundwater table are 18 kN/m³ and 20 kN/m³, respectively, and the bearing capacity factor $N_q$ is 58, the net ultimate bearing capacity of the soil is estimated as 1706 kPa (unit weight of water = 10 kN/m³). Earlier, a plate load test was carried out with a circular plate of 30 cm diameter in the same foundation pit during a dry season, when the water table was located beyond the plate influence zone. Using Terzaghi's bearing capacity formulation, what is the ultimate bearing capacity (in kPa) of the plate?",
+    "question_type": "MCQ",
+    "options": {
+      "A": "110.16",
+      "B": "61.20",
+      "C": "204.00",
+      "D": "163.20"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.43",
+    "question": "A very wide rectangular channel carries a discharge ($Q$) of 70 m³/s per meter width. Its bed slope changes from 0.0001 to 0.0009 at a point P, as shown in the figure (not to scale). The Manning's roughness coefficient of the channel is 0.01. What water surface profile(s) exist(s) near the point P?",
+    "question_type": "MCQ",
+    "options": {
+      "A": "M2 and S2",
+      "B": "M2 only",
+      "C": "S2 only",
+      "D": "S2 and hydraulic jump"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.44",
+    "question": "A jet of water having a velocity of 20 m/s strikes a series of plates fixed radially on a wheel revolving in the same direction as the jet at 15 m/s. What is the percentage efficiency of the plates? (round off to one decimal place)",
+    "question_type": "MCQ",
+    "options": {
+      "A": "37.5",
+      "B": "66.7",
+      "C": "50.0",
+      "D": "88.9"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.45",
+    "question": "In the following table, identify the correct set of associations between the entries in Column-1 and Column-2.\n```\nColumn-1             | Column-2\nP: Reverse Osmosis   | I: Ponding\nQ: Trickling Filter  | II: Freundlich Isotherm\nR: Coagulation       | III: Concentration Polarization\nS: Adsorption        | IV: Charge Neutralization\n```",
+    "question_type": "MCQ",
+    "options": {
+      "A": "P-II, Q-I, S-III",
+      "B": "Q-III, R-II, S-IV",
+      "C": "P-IV, R-I, S-II",
+      "D": "P-III, Q-I, R-IV"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.46",
+    "question": "A plot of speed-density relationship (linear) of two roads (Road A and Road B) is shown in the figure. If the capacity of Road A is $C_A$ and the capacity of Road B is $C_B$, what is $\\frac{C_A}{C_B}$?",
+    "question_type": "MCQ",
+    "options": {
+      "A": "$\\frac{k_A}{k_B}$",
+      "B": "$\\frac{u_A}{u_B}$",
+      "C": "$\\frac{k_A u_A}{k_B u_B}$",
+      "D": "$\\frac{k_A u_B}{k_B u_A}$"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.47",
+    "question": "For the matrix $[A] = \\begin{bmatrix} 1 & 2 & 3 \\\\ 3 & 2 & 1 \\\\ 3 & 1 & 2 \\end{bmatrix}$ which of the following statements is/are TRUE?",
+    "question_type": "MSQ",
+    "options": {
+      "A": "The eigenvalues of $[A]^T$ are same as the eigenvalues of $[A]$",
+      "B": "The eigenvalues of $[A]^{-1}$ are the reciprocals of the eigenvalues of $[A]$",
+      "C": "The eigenvectors of $[A]^T$ are same as the eigenvectors of $[A]$",
+      "D": "The eigenvectors of $[A]^{-1}$ are same as the eigenvectors of $[A]$"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.48",
+    "question": "For the function $f(x) = e^x|\\sin x|; x \\in \\mathbb{R}$, which of the following statements is/are TRUE?",
+    "question_type": "MSQ",
+    "options": {
+      "A": "The function is continuous at all $x$",
+      "B": "The function is differentiable at all $x$",
+      "C": "The function is periodic",
+      "D": "The function is bounded"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.49",
+    "question": "Consider the beam shown in the figure (not to scale), on a hinge support at end A and a roller support at end B. The beam has a constant flexural rigidity, and is subjected to the external moments of magnitude $M$ at one-third spans, as shown in the figure. Which of the following statements is/are TRUE?",
+    "question_type": "MSQ",
+    "options": {
+      "A": "Support reactions are zero",
+      "B": "Shear force is zero everywhere",
+      "C": "Bending moment is zero everywhere",
+      "D": "Deflection is zero everywhere"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.50",
+    "question": "Which of the following statements is/are TRUE in relation to the Maximum Mixing Depth (or Height) ‘$D_{max}$' in the atmosphere?",
+    "question_type": "MSQ",
+    "options": {
+      "A": "$D_{max}$ is always equal to the height of the layer of unstable air",
+      "B": "Ventilation coefficient depends on $D_{max}$",
+      "C": "A smaller $D_{max}$ will have a smaller air pollution potential if other meteorological conditions remain same",
+      "D": "Vertical dispersion of pollutants occurs up to $D_{max}$"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.51",
+    "question": "Which of the following options match the test reporting conventions with the given material tests in the table?\n```\nTest reporting convention | Material test\nP: Reported as ratio      | I: Solubility of bitumen\nQ: Reported as percentage | II: Softening point of bitumen\nR: Reported in temperature| III: Los Angeles abrasion test\nS: Reported in length     | IV: Flash point of bitumen\n                          | V: Ductility of bitumen\n                          | VI: Specific gravity of bitumen\n                          | VII: Thin film oven test\n```",
+    "question_type": "MCQ",
+    "options": {
+      "A": "(P) - (VI); (Q) - (I); (R) - (II); (S) - (VII)",
+      "B": "(P) - (VI); (Q) - (III); (R) - (IV); (S) - (V)",
+      "C": "(P) - (VI); (Q) - (I); (R) - (II); (S) - (V)",
+      "D": "(P) - (VI); (Q) - (III); (R) - (IV); (S) - (VII)"
+    },
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.52",
+    "question": "The differential equation, $\\frac{du}{dt} + 2tu^2 = 1$, is solved by employing a backward difference scheme within the finite difference framework. The value of $u$ at the $(n - 1)^{th}$ time-step, for some $n$, is 1.75. The corresponding time $(t)$ is 3.14 s. Each time step is 0.01 s long. Then, the value of $(u_n - u_{n-1})$ is ______ (round off to three decimal places).",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.53",
+    "question": "The infinitesimal element shown in the figure (not to scale) represents the state of stress at a point in a body. What is the magnitude of the maximum principal stress (in N/mm², in integer) at the point?",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.54",
+    "question": "An idealised bridge truss is shown in the figure. The force in Member U2L3 is ______ kN (round off to one decimal place).",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.55",
+    "question": "The cross-section of a girder is shown in the figure (not to scale). The section is symmetric about a vertical axis (Y-Y). The moment of inertia of the section about the horizontal axis (X-X) passing through the centroid is ______ cm$^4$ (round off to nearest integer).",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.56",
+    "question": "A soil having the average properties, bulk unit weight = 19 kN/m³; angle of internal friction = $25^\\circ$ and cohesion = 15 kPa, is being formed on a rock slope existing at an inclination of $35^\\circ$ with the horizontal. The critical height (in m) of the soil formation up to which it would be stable without any failure is ______ (round off to one decimal place). [Assume the soil is being formed parallel to the rock bedding plane and there is no ground water effect.]",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.57",
+    "question": "A smooth vertical retaining wall supporting layered soils is shown in figure. According to Rankine's earth pressure theory, the lateral active earth pressure acting at the base of the wall is ______ kPa (round off to one decimal place).",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.58",
+    "question": "A vertical trench is excavated in a clayey soil deposit having a surcharge load of 30 kPa. A fluid of unit weight 12 kN/m³ is poured in the trench to prevent collapse as the excavation proceeds. Assume that the fluid is not seeping through the soil deposit. If the undrained cohesion of the clay deposit is 20 kPa and saturated unit weight is 18 kN/m³, what is the maximum depth of unsupported excavation (in m, rounded off to two decimal places)?",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.59",
+    "question": "A 12-hour storm occurs over a catchment and results in a direct runoff depth of 100 mm. The time-distribution of the rainfall intensity is shown in the figure (not to scale). The $\\phi$-index of the storm is ______ (in mm, rounded off to two decimal places)",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.60",
+    "question": "A hydraulic jump occurs in a 1.0 m wide horizontal, frictionless, rectangular channel, with a pre-jump depth of 0.2 m and a post-jump depth of 1.0 m. The value of $g$ may be taken as 10 m/s². The values of the specific force at the pre-jump and post-jump sections are same and are equal to ______ (in m³, rounded off to two decimal places)",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.61",
+    "question": "In Horton's equation fitted to the infiltration data for a soil, the initial infiltration capacity is 10 mm/h; final infiltration capacity is 5 mm/h; and the exponential decay constant is 0.5 /h. Assuming that the infiltration takes place at capacity rates, the total infiltration depth (in mm) from a uniform storm of duration 12 h is ______ (round off to one decimal place)",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.62",
+    "question": "The composition and energy content of a representative solid waste sample are given in the table. If the moisture content of the waste is 26%, the energy content of the solid waste on dry-weight basis is ______ MJ/kg (round off to one decimal place).\n```\nComponent   | Percent by mass | Energy content as-discarded basis (MJ/kg)\n------------|-----------------|------------------------------------------\nFood waste  | 20              | 4.5\nPaper       | 45              | 16.0\nCardboard   | 5               | 14.0\nPlastics    | 10              | 32.0\nOthers      | 20              | 8.0\n```",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.63",
+    "question": "A flocculator tank has a volume of 2800 m³. The temperature of water in the tank is $15^\\circ$C, and the average velocity gradient maintained in the tank is 100/s. The temperature of water is reduced to $5^\\circ$C, but all other operating conditions including the power input are maintained as the same. The decrease in the average velocity gradient (in %) due to the reduction in water temperature is ______ (round off to nearest integer). [Consider dynamic viscosity of water at $15^\\circ$C and $5^\\circ$C as $1.139 \\times 10^{-3}$ N-s/m² and $1.518 \\times 10^{-3}$ N-s/m², respectively]",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.64",
+    "question": "The wastewater inflow to an activated sludge plant is 0.5 m³/s, and the plant is to be operated with a food to microorganism ratio of 0.2 mg/mg-d. The concentration of influent biodegradable organic matter of the wastewater to the plant (after primary settling) is 150 mg/L, and the mixed liquor volatile suspended solids concentration to be maintained in the plant is 2000 mg/L. Assuming that complete removal of biodegradable organic matter in the tank, the volume of aeration tank (in m³, in integer) required for the plant is ______.",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  },
+  {
+    "question_number": "Q.65",
+    "question": "Trigonometric levelling was carried out from two stations P and Q to find the reduced level (R. L.) of the top of hillock, as shown in the table. The distance between Stations P and Q is 55 m. Assume Stations P and Q, and the hillock are in the same vertical plane. The R. L. of the top of the hillock (in m) is ______ (round off to three decimal places).\n```\nStation | Vertical angle of the top of hillock | Staff reading on benchmark | R. L. of benchmark\n--------|--------------------------------------|----------------------------|-------------------\nP       | $18^\\circ 45'$                       | 2.340 m                    | 100.000 m\nQ       | $12^\\circ 45'$                       | 1.660 m                    | \n```",
+    "question_type": "NAT",
+    "options": null,
+    "correct": null,
+    "explanation": null
+  }
+]
